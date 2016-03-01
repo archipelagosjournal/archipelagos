@@ -11,6 +11,14 @@ description:         'A Small Axe Journal of Caribbean New Media and Digital Hum
 url:                 http://smallaxe.net/
 baseurl:             ''
 
+# Jekyll-Pandoc
+markdown: pandoc
+
+# Gems
+gems:
+  - jekyll-pandoc
+
+
 # About/contact
 author:
   name:              "SX:Archipelagos"
