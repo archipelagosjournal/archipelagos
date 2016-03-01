@@ -1,6 +1,15 @@
 ---
 layout: post
-title: What's Jekyll?
+title:
+  "long": "What is Jekyll anyway?"
+  "short": Jekyll
+  "crossref": jekyll
+author:
+- name: Alex Gil
+  shortname: Gil
+- name: Brian Ballsun-Stanton
+  shortname: Ballsun-Stanton
+
 category: first-issue
 ---
 

@@ -6,14 +6,25 @@ title: Home
 <h1>Current Issue</h1>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula turpis in ullamcorper commodo. Ut lectus velit, vehicula sit amet dolor vel, iaculis elementum tortor. Pellentesque lacinia nisl ante, a sollicitudin dui efficitur id. In quis congue magna, sit amet hendrerit dui. Ut facilisis velit vitae quam finibus, vitae blandit libero tincidunt. Nunc metus enim, dignissim sit amet odio sed, tristique consequat elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel bibendum ex, sit amet hendrerit magna. Fusce aliquam justo turpis. Donec nec pellentesque ligula. Vestibulum vel ornare nisi. Mauris accumsan viverra maximus.</p>
 
+
+<!-- Table of Contents -->
 <div class="toc">
   <h2>Table of Contents</h2>
   <ul class="post">
 {% for article in site.categories.first-issue %}
     <li class="post-title">
       <a href="{{ article.url | prepend:site.baseurl }}">
-        {{ article.title }}
-      </a>
+        {{ article.title["long"] }}
+      </a><br>
+    <p class="byline">by 
+  {% for author in article.author %}
+    {% if forloop.last == true %}
+      <span class="author">{{ author.name }}</span>.
+    {% else %}
+      <span class="author">{{ author.name }}</span>, 
+    {% endif %}
+  {% endfor %}
+    </p>
     </li>
 {% endfor %}
 
