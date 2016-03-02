@@ -10,7 +10,16 @@
   </div>
 {% else %}
   <div class="sidebar-item">
-    <p>Hello</p>
+    <p>{{ page.title["long"] }}</p>
+    <p>by 
+  {% for author in page.author %}
+    {% if forloop.last == true %}
+      <span class="author">{{ author.name }}</span>.
+    {% else %}
+      <span class="author">{{ author.name }}</span>, 
+    {% endif %}
+  {% endfor %}
+    </p>
   </div>
 {% endif %}
 
@@ -37,8 +46,17 @@
   </nav>
 
   <div class="sidebar-item">
+    <a href="#"><span class="print-button">Print Issue</span></a>
+  </div>
+{% if page.layout "post" %}
+  <div class="sidebar-item">
+    <a href="#"><span class="print-button">Get Article PDF</span></a>
+  </div>
+{% endif %}
+
+  <div class="sidebar-item">
     <p>
-      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+      &copy; {{ site.time | date: '%Y' }}. Small Axe, Inc. Offered with a Creative Commons License.
     </p>
   </div>
 </div>
