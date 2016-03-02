@@ -18,8 +18,9 @@ pandoc:
     - normalize
     - smart
     - mathjax
-    - csl: _styles/chicago.csl
-    - bibliography: bibliography/references.bib
+    - filter pandoc-citeproc
+    # - csl: _styles/chicago.csl
+    # - bibliography: bibliography/references.bib
 
 # Gems
 gems:
