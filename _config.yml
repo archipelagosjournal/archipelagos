@@ -13,6 +13,14 @@ baseurl:             ''
 # Jekyll-Pandoc
 markdown: pandoc
 
+pandoc:
+  extensions:
+    - normalize
+    - smart
+    - mathjax
+    - csl: _styles/chicago.csl
+    - bibliography: bibliography/references.bib
+
 # Gems
 gems:
   - jekyll-pandoc
