@@ -17,10 +17,8 @@ pandoc:
   extensions:
     - normalize
     - smart
-    - mathjax
-    - filter pandoc-citeproc
-    # - csl: _styles/chicago.csl
-    # - bibliography: bibliography/references.bib
+    - csl: _styles/chicago.csl
+    - bibliography: bibliography/references.bib
 
 # Gems
 gems:
