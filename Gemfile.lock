@@ -44,6 +44,3 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.0.2)
   jekyll-pandoc!
-
-BUNDLED WITH
-   1.11.2
