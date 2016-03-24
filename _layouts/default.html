@@ -15,8 +15,18 @@
           <h3 class="masthead-title">
             <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
             <small>{{ site.tagline }}</small>
-          </h3>
+          </h3> 
+          <h4 class="top-nav">
+
+    {% for node in site.pages %}
+        {% if node.layout == "page" %}
+          <a class="top-nav-item" href="{{ node.url }}">{{ node.title }}</a>
+        {% endif %}
+    {% endfor %}
+          </a>
+        </h4>         
         </div>
+ 
       </div>
 
       <div class="container content">
