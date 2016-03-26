@@ -11,16 +11,17 @@ url:                 http://smallaxe.net/
 baseurl:             ''
 
 collections:
-	issue01:
-		date: "Summer 2016"
-		editors:
-		- Kaiama Glover
-		- Alex Gil
-		- Kelly Josephs
-		production:
-		- Alex Gil
-		- Dennis Tenen
-		- Brian Ballsun-Stanton
+  issue01:
+    output: true
+    date: "Summer 2016"
+    editors:
+    - Kaiama Glover
+    - Alex Gil
+    - Kelly Josephs
+    production:
+    - Alex Gil
+    - Dennis Tenen
+    - Brian Ballsun-Stanton
 
 # Jekyll-Pandoc
 markdown: 'PandocProcessor'

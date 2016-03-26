@@ -11,7 +11,7 @@ title: Home
 <div class="toc">
   <h2>Table of Contents</h2>
   <ul class="post">
-{% for article in site.categories.first-issue %}
+{% for article in site.issue01 %}
     <li class="post-title">
       <a href="{{ article.url | prepend:site.baseurl }}">
         {{ article.title["long"] }}
