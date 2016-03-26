@@ -30,7 +30,7 @@
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
-    {% endcomment %}
+
 
     {% assign pages_list = site.pages | sort:"url" %}
     {% for node in pages_list %}
@@ -40,14 +40,15 @@
         {% endif %}
       {% endif %}
     {% endfor %}
+    {% endcomment %}
 
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+    
   </nav>
 
   <div class="sidebar-item">
     <a href="#"><span class="print-button">Print Issue</span></a>
   </div>
-{% if page.layout "post" %}
+{% if page.layout == "post" %}
   <div class="sidebar-item">
     <a href="#"><span class="print-button">Get Article PDF</span></a>
   </div>
@@ -55,7 +56,7 @@
 
   <div class="sidebar-item">
     <p>
-      &copy; {{ site.time | date: '%Y' }}. Small Axe, Inc. Offered with a Creative Commons License.
+      &copy; {{ site.time | date: '%Y' }}. Small Axe, Inc. Offered with a Creative Commons License. You can find us also on <a href="{{ site.github.repo }}">GitHub</a>
     </p>
   </div>
 </div>
