@@ -10,6 +10,18 @@ description:         'A Small Axe Journal of Caribbean New Media and Digital Hum
 url:                 http://smallaxe.net/
 baseurl:             ''
 
+collections:
+	issue01:
+		date: "Summer 2016"
+		editors:
+		- Kaiama Glover
+		- Alex Gil
+		- Kelly Josephs
+		production:
+		- Alex Gil
+		- Dennis Tenen
+		- Brian Ballsun-Stanton
+
 # Jekyll-Pandoc
 markdown: 'PandocProcessor'
 
