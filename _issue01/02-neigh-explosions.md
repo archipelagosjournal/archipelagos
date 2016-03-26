@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 
-  "long": "Digitizing the 'Sound Explosions' of Anglophone Caribbean Performance
-Poetry"
+  "long": "Digitizing the 'Sound Explosions' of Anglophone Caribbean Performance Poetry"
   "short": Digitizing Sound Explosions
   "crossref": Explosions
 author: 

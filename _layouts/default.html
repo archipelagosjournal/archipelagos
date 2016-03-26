@@ -19,12 +19,10 @@
 <!-- menu on the top -->
           <h4 class="top-nav">
 
-    {% for node in site.pages %}
-        {% if node.layout == "page" %}
-          <a class="top-nav-item" href="{{ node.url }}">{{ node.title }}</a>
-        {% endif %}
-    {% endfor %}
-          </a>
+
+          <a class="top-nav-item" href="{{ site.baseurl }}/about.html">About</a>
+          <a class="top-nav-item" href="http://smallaxe.net/">Small Axe</a>
+
         </h4>         
         </div>
  

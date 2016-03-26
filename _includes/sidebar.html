@@ -27,10 +27,10 @@
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
 
-    {% comment %}
+<!--
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
-
+-->
 
     {% assign pages_list = site.pages | sort:"url" %}
     {% for node in pages_list %}
@@ -40,19 +40,20 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-    {% endcomment %}
+
+
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="#"><span class="print-button">Print Issue</span></a>
+
+{% if page.layout == "post" %}
+
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="#"><span class="print-button">Get Article PDF</span></a>
+
+{% endif %}
 
     
   </nav>
 
-  <div class="sidebar-item">
-    <a href="#"><span class="print-button">Print Issue</span></a>
-  </div>
-{% if page.layout == "post" %}
-  <div class="sidebar-item">
-    <a href="#"><span class="print-button">Get Article PDF</span></a>
-  </div>
-{% endif %}
+
 
   <div class="sidebar-item">
     <p>
