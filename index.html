@@ -9,7 +9,7 @@ title: Home
 
 <!-- Table of Contents -->
 <div class="toc">
-  <h2>Table of Contents</h2>
+  <h2>Articles and Reviews</h2>
   <ul class="post">
 {% for article in site.issue01 %}
     <li class="post-title">
@@ -25,8 +25,14 @@ title: Home
     {% endif %}
   {% endfor %}
     </p>
+    <!-- PRINT PDF -->
+    <p>
+      <a class="pdf-link" href="/assets/issue01/{{ article.title["crossref"] }}.pdf">PDF</a>
+    </p>
     </li>
 {% endfor %}
+    <h2>Articles and Reviews</h2>
 
-  </ul>  
+  </ul>
+
 </div>
