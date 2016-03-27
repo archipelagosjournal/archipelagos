@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Archive
+title: Archives
 ---
 <ul>
 
 {% for issue in site.collections %}
-
+  {% if issue.label != "posts" %}
     <li class="issue">
-        <a href="">
+        <a href="{{ site.baseurl }}/{{ issue.label }}/front.html">
           {{ issue.title }}
         </a>
         <p class="issue-date">{{ issue.date }}</p>        
     </li>
-
+    {% endif %}
 {% endfor %} 
 </ul>

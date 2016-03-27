@@ -1,0 +1,93 @@
+---
+layout: default
+title: First Issue
+---
+
+<h1>Welcome</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula turpis in ullamcorper commodo. Ut lectus velit, vehicula sit amet dolor vel, iaculis elementum tortor. Pellentesque lacinia nisl ante, a sollicitudin dui efficitur id. In quis congue magna, sit amet hendrerit dui. Ut facilisis velit vitae quam finibus, vitae blandit libero tincidunt. Nunc metus enim, dignissim sit amet odio sed, tristique consequat elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel bibendum ex, sit amet hendrerit magna. Fusce aliquam justo turpis. Donec nec pellentesque ligula. Vestibulum vel ornare nisi. Mauris accumsan viverra maximus.</p>
+
+
+<!-- Table of Contents -->
+<div class="toc">
+  <h2>Table of Contents</h2>
+<ul class="project">
+<h3>Digital Projects</h3>
+{% for document in site.issue01 %}
+  {% if document.layout == "project" %}
+
+    <li class="project-title">
+      <a href="{{ document.url | prepend:site.baseurl }}">
+        {{ document.title["long"] }}
+      </a><br>
+    <span class="byline"> 
+        {{ document.credit }}
+    </span>
+  <a href="{{ document.link }}">
+    <img class="project-image" src="/images/{{ document.image }}" width="33%" />
+  </a>
+    </li>
+
+  {% endif %}
+{% endfor %} 
+</ul>
+</div>
+
+
+<ul class="post">
+<h3>Articles</h3>
+{% for document in site.issue01 %}
+  {% if document.layout == "article" %}
+
+
+    <li class="post-title">
+      <a href="{{ document.url | prepend:site.baseurl }}">
+        {{ document.title["long"] }}
+      </a><br>
+    <span class="byline">by 
+    {% for author in document.author %}
+      {% if forloop.last == true %}
+        <span class="author">{{ author.name }}</span>.
+      {% else %}
+        <span class="author">{{ author.name }}</span>, 
+      {% endif %}
+    {% endfor %}
+
+    </span>
+    <!-- PDF -->
+    <p>
+      <a class="pdf-link" href="/assets/issue01/{{ document.title["crossref"] }}.pdf">PDF</a>
+    </p>
+    </li>
+
+  {% endif %}
+{% endfor %}
+</ul>
+<ul class="post">
+<h3>Reviews</h3>
+{% for document in site.issue01 %}
+  {% if document.layout == "review" %}
+
+    <li class="post-title">
+      <a href="{{ document.url | prepend:site.baseurl }}">
+        {{ document.title["long"] }}
+      </a><br>
+    <span class="byline">by 
+    {% for author in document.author %}
+      {% if forloop.last == true %}
+        <span class="author">{{ author.name }}</span>.
+      {% else %}
+        <span class="author">{{ author.name }}</span>, 
+      {% endif %}
+    {% endfor %}
+
+    </span>
+    <!-- PDF -->
+    <p>
+      <a class="pdf-link" href="/assets/issue01/{{ document.title["crossref"] }}.pdf">PDF</a>
+    </p>
+    </li>
+
+  {% endif %}
+{% endfor %}
+</ul>
+</div>
