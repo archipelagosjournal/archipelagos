@@ -9,29 +9,33 @@ title: Home
 
 <!-- Table of Contents -->
 <div class="toc">
-  <h2>Articles and Reviews</h2>
+  <h2>Table of Contents</h2>
+  <h3>Articles</h3>
   <ul class="post">
 {% for article in site.issue01 %}
+  {% if article.category == "essay" %}
     <li class="post-title">
       <a href="{{ article.url | prepend:site.baseurl }}">
         {{ article.title["long"] }}
       </a><br>
     <p class="byline">by 
-  {% for author in article.author %}
-    {% if forloop.last == true %}
-      <span class="author">{{ author.name }}</span>.
-    {% else %}
-      <span class="author">{{ author.name }}</span>, 
-    {% endif %}
-  {% endfor %}
+    {% for author in article.author %}
+      {% if forloop.last == true %}
+        <span class="author">{{ author.name }}</span>.
+      {% else %}
+        <span class="author">{{ author.name }}</span>, 
+      {% endif %}
+    {% endfor %}
+
     </p>
     <!-- PRINT PDF -->
     <p>
       <a class="pdf-link" href="/assets/issue01/{{ article.title["crossref"] }}.pdf">PDF</a>
     </p>
     </li>
+  {% endif %}
 {% endfor %}
-    <h2>Articles and Reviews</h2>
+
 
   </ul>
 
