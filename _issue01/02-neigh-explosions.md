@@ -1,6 +1,5 @@
 ---
-layout: post
-category: essay
+layout: article
 title: 
   "long": "Digitizing the 'Sound Explosions' of Anglophone Caribbean Performance Poetry"
   "short": Digitizing Sound Explosions

@@ -1,6 +1,5 @@
 ---
-layout: post
-category: review
+layout: review
 title: 
   "long": "A long title for the first unittest: exploring some features and questions of the nature of unit tests, poetry, and red lines."
   "short": Poetry and Redlines
