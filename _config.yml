@@ -13,7 +13,9 @@ baseurl:             ''
 collections:
   issue01:
     output: true
-    date: "Summer 2016"
+    number: 1
+    date: "Summer 2017"
+    title: "Inaugural Issue"
     editors:
     - Kaiama Glover
     - Alex Gil

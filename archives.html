@@ -1,0 +1,17 @@
+---
+layout: page
+title: Archive
+---
+<ul>
+
+{% for issue in site.collections %}
+
+    <li class="issue">
+        <a href="">
+          {{ issue.title }}
+        </a>
+        <p class="issue-date">{{ issue.date }}</p>        
+    </li>
+
+{% endfor %} 
+</ul>
