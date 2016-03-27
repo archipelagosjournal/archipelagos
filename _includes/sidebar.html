@@ -4,12 +4,8 @@
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
-{% if page.layout != "post" %}
-  <div class="sidebar-item">
-    <p>{{ site.description }}</p>
-  </div>
-{% else %}
-  <div class="sidebar-item">
+{% if page.layout == "article" or page.layout == "review" %}
+    <div class="sidebar-item">
     <p>{{ page.title["long"] }}</p>
     <p>by 
   {% for author in page.author %}
@@ -20,6 +16,10 @@
     {% endif %}
   {% endfor %}
     </p>
+  </div>
+{% else %}
+  <div class="sidebar-item">
+    <p>{{ site.description }}</p>
   </div>
 {% endif %}
 
