@@ -19,19 +19,8 @@ title: Home
       <a href="{{ document.url | prepend:site.baseurl }}">
         {{ document.title["long"] }}
       </a><br>
-    <p class="byline">by 
-    {% for author in document.author %}
-      {% if forloop.last == true %}
-        <span class="author">{{ author.name }}</span>.
-      {% else %}
-        <span class="author">{{ author.name }}</span>, 
-      {% endif %}
-    {% endfor %}
-
-    </p>
-    <!-- PDF -->
-    <p>
-      <a class="pdf-link" href="/assets/issue01/{{ document.title["crossref"] }}.pdf">PDF</a>
+    <p class="byline"> 
+        {{ document.credit }}
     </p>
     </li>
    </ul>
@@ -46,15 +35,16 @@ title: Home
 
 
 <ul class="post">
+<h3>Articles</h3>
 {% for document in site.issue01 %}
   {% if document.layout == "article" %}
-  <h3>Articles</h3>
+
 
     <li class="post-title">
       <a href="{{ document.url | prepend:site.baseurl }}">
         {{ document.title["long"] }}
       </a><br>
-    <p class="byline">by 
+    <span class="byline">by 
     {% for author in document.author %}
       {% if forloop.last == true %}
         <span class="author">{{ author.name }}</span>.
@@ -63,11 +53,11 @@ title: Home
       {% endif %}
     {% endfor %}
 
-    </p>
+    </span>
     <!-- PDF -->
-    <p>
+    <span>
       <a class="pdf-link" href="/assets/issue01/{{ document.title["crossref"] }}.pdf">PDF</a>
-    </p>
+    </span>
     </li>
 
   {% endif %}
@@ -82,7 +72,7 @@ title: Home
       <a href="{{ document.url | prepend:site.baseurl }}">
         {{ document.title["long"] }}
       </a><br>
-    <p class="byline">by 
+    <span class="byline">by 
     {% for author in document.author %}
       {% if forloop.last == true %}
         <span class="author">{{ author.name }}</span>.
@@ -91,11 +81,11 @@ title: Home
       {% endif %}
     {% endfor %}
 
-    </p>
+    </span>
     <!-- PDF -->
-    <p>
+    <span>
       <a class="pdf-link" href="/assets/issue01/{{ document.title["crossref"] }}.pdf">PDF</a>
-    </p>
+    </span>
     </li>
    </ul>
   {% endif %}
