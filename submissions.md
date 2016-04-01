@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contributions
+title: Submission Guidelines
 ---
 
 

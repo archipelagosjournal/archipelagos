@@ -105,6 +105,8 @@ In contrast, The 2 Cents Movement recreates the communal experience of listening
 
 So much of the history of the voice has already been lost, or muted, by the ongoing colonial bias toward nation language, as well as limited resources and funding. Caribbean poetry recordings that survive buried in dusty boxes in attics and library storage rooms sit silently waiting for new audiences to return to them “the noise and sounds that the maker makes.”[^61] Since these reel-to-reel tapes, cassettes, eight-tracks, CDs, and LPs are fragile media, threatened by technological obsolescence and (sometimes) the tropical Caribbean climate, we must make digitizing this vital record of Caribbean poetry history a priority.
 
+## Notes
+
 
 [^1]: Edward Kamau Brathwaite, *History of the Voice: The Development of Nation Language in Anglophone Caribbean Poetry* (London: New Beacon Books, 1984), 13.
 

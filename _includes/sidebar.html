@@ -10,7 +10,7 @@
     <p>by 
   {% for author in page.author %}
     {% if forloop.last == true %}
-      <span class="author">{{ author.name }}</span>.
+      <span class="author">{{ author.name }}</span>
     {% else %}
       <span class="author">{{ author.name }}</span>, 
     {% endif %}
@@ -57,7 +57,7 @@
 
   <div class="sidebar-item">
     <p>
-      &copy; {{ site.time | date: '%Y' }}. Small Axe, Inc. Offered with a Creative Commons License. You can find us also on <a href="{{ site.github.repo }}">GitHub</a>
+      &copy; {{ site.time | date: '%Y' }}. Small Axe, Inc. Offered with a Creative Commons License. Source documents can be found in our <a href="{{ site.github.repo }}">repository</a>
     </p>
   </div>
 </div>
