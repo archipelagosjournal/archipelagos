@@ -37,10 +37,8 @@ faced by one Caribbean society but also the larger question of what
 exactly sovereignty has meant for the region as a whole and how one
 might seek to visually represent it.
 
+![Map of the Caribbean](/images/issue01/yarimar-map.png "Figure 1. Map of the Caribbean created by Yarimar Bonilla in 2010.")
 
-
-\[Image 1. Caption: Figure 1. Map of the Caribbean created by Yarimar
-Bonilla in 2010.\]
 
 In the years that followed, this initial cartographic impulse has led to
 a series of projects that have sought to disrupt how we both *visualize*
@@ -104,8 +102,7 @@ including the short lived West Indies Federation (1958–62).
 This history of fractured, uneven, contested, and negotiated sovereignty
 continues to shape the region as a whole, and at present the *majority*
 of societies in the Caribbean are not independent nation-states but
-rather protectorates, territories, departments, and commonwealths (see
-table 1). In addition, the Caribbean also holds a large number of
+rather protectorates, territories, departments, and commonwealths ([see Table 1](/assets/issue01/caribbean-sovereignty.pdf)). In addition, the Caribbean also holds a large number of
 nonsovereign enclaves: military bases, privately owned islands,
 semiautonomous tourist resorts, free-trade zones, tax havens, wildlife
 preserves, satellite launching stations, detention centers, penal
@@ -124,7 +121,7 @@ this reason that we suggest that the Caribbean is best understood
 where patterns of constrained and challenged sovereignty can be said to
 repeat themselves.[^5]
 
-\[Table 1: Political Forms of the Nonsovereign Caribbean\]
+
 
 However, rather than representing the Caribbean as a site of problematic
 sovereignty, we would like to emphasize how Caribbean history brings
@@ -266,10 +263,10 @@ see detailed information on how individual cessions were disputed and
 challenged, thus offering both a sense of the larger process and
 textured detail of its constitutive events.
 
-\[Video: Invasion of America https://youtu.be/pJxrTzfG2bo Caption:
-Claudio Saunt, *The Invasion of America*, 2014.\]
+[![Invasion of America](/images/issue01/invasion-of-america.png)](https://www.youtube.com/embed/pJxrTzfG2bo?autoplay=1)
 
-Vincent Brown has developed a similarly rich visual argument in his
+
+Vincent Brown and his team have developed a similarly rich visual argument in his
 online animated map *Slave Revolt in Jamaica, 1760–1761: A Cartographic
 Narrative*, in which he documents a previously misunderstood revolt
 showcasing the tactical maneuvers made by the rebels. By combining
@@ -279,9 +276,7 @@ able to reveal a spatial logic to slave resistance that was obscured in
 colonial accounts, suggesting a greater degree of strategic organization
 among insurgents than previously imagined.[^19]
 
-\[Image 1: Vince Brown’s map http://revolt.axismaps.com Caption: Vincent
-Brown, *Slave Revolt in Jamaica, 1760–1761: A Cartographic Narrative*,
-2012. \]
+[![Slave Revolt in Jamaica, 1760–1761: A Cartographic Narrative](/images/issue01/brown-revolt.png "Slave Revolt in Jamaica, 1760–1761: A Cartographic Narrative")](http://revolt.axismaps.com)
 
 Brown argues that if we are to take seriously the opportunities afforded
 by digital forms of scholarship, we must remain attentive to how
@@ -317,8 +312,8 @@ goal was to visually depict the large number of Caribbean societies
 (listed in table 1) that were not independent nation-states and to use
 color to portray the diversity of political forms in the region.
 
-\[Image 2. Caption: Figure 2. Map created by Landon Yarrington in
-2011.\]
+![Map created by Landon Yarrington in 2011.](/images/issue01/landon-map.jpg "Figure 2. Map created by Landon Yarrington in 2011.")
+
 
 The creation of this map quickly revealed some of the challenges of
 depicting the Caribbean in cartographic form. First, choices had to be
@@ -344,8 +339,8 @@ those South American societies most commonly imagined as part of the
 Caribbean (Belize, Guyana, Suriname, and Guiana). Once again, we used
 color to visually demarcate political jurisdictions.
 
-\[Image 3. Caption: Figure 3. Map created by Jeff Blossom and Yarimar
-Bonilla in 2015.\]
+![Figure 3. Map created by Jeff Blossom and Yarimar Bonilla in 2015.](/images/issue01/blossom-map.png "Figure 3. Map created by Jeff Blossom and Yarimar Bonilla in 2015.")
+
 
 Although we played with size and scale, the map retains a sense of
 territorial positioning, allowing one to view how political affiliations
@@ -375,8 +370,8 @@ away from a colonial status—either by becoming independent or by
 entering into a “postcolonial” arrangement with their colonial
 centers.[^24]
 
-\[Image 4. Caption: Figure 4. Temporal map of the postcolonial Caribbean
-created by Jeff Blossom and Yarimar Bonilla in 2015.\]
+![Figure 4. Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015.](/images/issue01/temporal-map.png "Figure 4. Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015.")
+
 
 Organizationally, the temporal map poses several alternatives to a
 traditional map. First, by playing with color and scale, we disrupt the
