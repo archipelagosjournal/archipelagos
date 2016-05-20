@@ -26,7 +26,7 @@ collections:
     - Brian Ballsun-Stanton
 
 # Jekyll-Pandoc
-markdown: 'PandocProcessor'
+markdown: kramdown
 
 pandoc:
   extensions:
@@ -36,8 +36,8 @@ pandoc:
     - bibliography: bibliography/references.bib
 
 # Gems
-gems:
-  - jekyll-pandoc
+# gems:
+#   - jekyll-pandoc
 
 
 # About/contact
