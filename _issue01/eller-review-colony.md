@@ -1,7 +1,7 @@
 ---
 layout: review
 title: 
-  "long": "A Review of *A Colony in Crisis*"
+  "long": "A Review of A Colony in Crisis"
   "short": Review
   "crossref": Colony
 author: 
@@ -10,10 +10,6 @@ author:
 date: May 2016
 issue: 1
 ---
-
-A Review of *A Colony in Crisis*
-
-Anne Eller
 
 [*A Colony in Crisis*](https://colonyincrisis.lib.umd.edu/)*: The
 Saint-Domingue Grain Shortage of 1789*, a collection of “translated and
