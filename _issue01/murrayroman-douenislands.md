@@ -186,8 +186,7 @@ on the walls in chalk.[^12] As part of the performance, Kriston Chen
 engineered a soundtrack based on recordings of Sharda Patasar’s sitar
 performances, now housed on the [Douen Islands Soundcloud
 page](http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar),
-and [Chen’s visual
-work](http://www.instagram.com/p/m89WgVGxCB/?taken-by=douenislands) was
+and [Chen’s visual work](http://www.instagram.com/p/m89WgVGxCB/?taken-by=douenislands) was
 projected throughout the space, inviting audience members to interact
 with both text and image.[^13] Within this event dedicated to douen
 voices and experimenting with constrained spaces, staging new
@@ -214,8 +213,7 @@ shrouded off from the rest of the small Alice Yard annex by draping
 yards of white fabric from the ceiling,” in which participants were
 invited to stage their full-body portraits with as much of their bodies
 playfully and explicitly revealed or concealed according to their own
-choosing; [these
-photographs](http://www.rodellwarner.com/index.php?/photobooth) were
+choosing; [these photographs](http://www.rodellwarner.com/index.php?/photobooth) were
 then exhibited during the nine-day run.[^15] This conjunction of
 intimate interaction and exhibition in “Photobooth” created a nexus
 between the private and the social, the cocoon and the digital photo.
@@ -346,8 +344,7 @@ with the other happenings in that place, and, because they are only
 available for a few minutes to the public, the tweets do not constitute
 a stable and consistently accessible text in its screenic iteration as
 part of the Alice Yard performance. As visible in figure 1, the
-[Live-Tweet
-Stalls](http://www.instagram.com/p/m8-KI0GxDb/?taken-by=douenislands)
+[Live-Tweet Stalls](http://www.instagram.com/p/m8-KI0GxDb/?taken-by=douenislands)
 featured one tweet at a time rather than the entire feed. Warner’s
 live-tweeting, which began at 5:13 p.m. and ended at 6:49 p.m., includes
 fifty-four tweets. With a rate of roughly one tweet every two minutes,
@@ -511,19 +508,14 @@ project statement goals are printed. Below the image on Tumblr was an
 invitation to discover the text by clicking the download link.
 
 
-![Figure 3. Screencapture of douenislands.tumblr.com, taken 27 July 2015.](/images/issue01/douenislands-twitter.png "Figure 3. Screencapture of douenislands.tumblr.com, taken 27 July 2015."){width="6.5in" height="4.921478565179353in"}
+![Figure 3. Screencapture of douenislands.tumblr.com, taken 27 July 2015.](/images/issue01/douenislands-tumblr.png "Figure 3. Screencapture of douenislands.tumblr.com, taken 27 July 2015.")
 
-\[Caption: Figure 3. Screencapture of douenislands.tumblr.com, taken 27
-July 2015.\]
 
 In the run-up to the Alice Yard event, Douen Islands uploaded
 invitations and videos advertising “In Forest and Wild Skies”; the
 videos were then used as part of Bagoo’s poetry reading:[^34]
 
-![](media/image4.png){width="6.5in" height="2.914660979877515in"}
-
-\[Caption: Figure 4. Screencapture of “In Forest and Wild Skies”
-invitation posted on douenislands.tumblr.com, taken 19 May 2014.\]
+![Figure 4. Screencapture of “In Forest and Wild Skies” invitation posted on douenislands.tumblr.com, taken 19 May 2014.](/images/issue01/douenislands-invitation.png "Figure 4. Screencapture of \'In Forest and Wild Skies\' invitation posted on douenislands.tumblr.com, taken 19 May 2014.")
 
 But rather than develop Tumblr’s archival potential, the materials
 associated with the Alice Yard event were taken down from the site
@@ -532,10 +524,8 @@ post with the link to the e-book. After a year and a half, that was
 replaced with new materials looking forward to an 9 April 2016
 BocasLitFest event.
 
-![](media/image5.png){width="6.5in" height="3.1028051181102363in"}
+![Figure 5. Screencapture of Kis-Ka-Dee announcement posted on douenislands.tumblr.com, taken 29 February 2016.](/images/issue01/kis-ka-dee.png "Figure 5. Screencapture of Kis-Ka-Dee announcement posted on douenislands.tumblr.com, taken 29 February 2016.")
 
-\[Caption: Figure 5. Screencapture of Kis-Ka-Dee announcement posted on
-douenislands.tumblr.com, taken 29 February 2016.\]
 
 While Douen Islands maintains two
 [Facebook](http://www.facebook.com/douen.islands)
@@ -605,9 +595,8 @@ example, places a diagram demonstrating how a child’s back straightens
 out over the course of two years next to the drawing of the skeleton of
 a foot:
 
-![](media/image6.png){width="6.5in" height="4.579396325459317in"}
+![Figure 6. *Tomorrow Please God*, 22–23.](/images/issue01/tomorrow-please-god.png "Figure 6. *Tomorrow Please God*, 22–23.")
 
-\[Caption: Figure 6. *Tomorrow Please God*, 22–23.\]
 
 Because the heads are anatomical drawings in profile where the skin is
 not shown, and because the feet are not connected to the rest of a body,
@@ -628,9 +617,7 @@ backward? Which foot will choose the direction for the douen’s path? And
 how might a tracker read the traces that this set of half-straight,
 half-backward pair of feet will leave behind?
 
-![](media/image7.png){width="6.5in" height="4.559688320209974in"}
-
-\[Caption: Figure 7. *Tomorrow Please God*, 12–13.\]
+![Figure 7. *Tomorrow Please God*, 12–13.](/images/issue01/tomorrow-please-god-2.png "Figure 6. *Figure 7. *Tomorrow Please God*, 12–13.")
 
 The two shadowboxes, with the brain on the left side and the
 ambi-directional pair of footprints on the right, are elevated above a
@@ -649,13 +636,13 @@ the tweets constitute a counternarrative to the poems within *Tomorrow
 Please God*, a narrative that speaks for the first time on page 22 and
 ends inside the front cover, creating the sequence:
 
-> raise me (21)
+> raise me (21)  
 >
-> imagine giving birth to me (20)
+> imagine giving birth to me (20)  
 >
-> love is eyes (facing the table of contents)
+> love is eyes (facing the table of contents)  
 >
-> you know me (inside the cover page)
+> you know me (inside the cover page)  
 
 A brief bildungsroman, the tweets begin with the douen’s birth in the
 reader’s imagination and offer the reader a set of instructions for how
@@ -682,9 +669,8 @@ retweets or favorites, thereby lifting the tweets out of the context of
 the stream that originally constituted the tweets’ citational ecosystem
 by not expanding them, then copying each three times:
 
-![](media/image8.png){width="6.467337051618547in" height="2.75in"}
+![Figure 8. *Tomorrow Please God*, 20–21.](/images/issue01/tomorrow-please-god-3.png "Figure 8. *Tomorrow Please God*, 20–21.")
 
-\[Caption: Figure 8. *Tomorrow Please God*, 20–21.\]
 
 The inability to place the douen, as the result of Chen’s digital
 manipulation, operates on both a spatial and a temporal level: by
