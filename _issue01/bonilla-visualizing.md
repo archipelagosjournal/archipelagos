@@ -37,6 +37,8 @@ faced by one Caribbean society but also the larger question of what
 exactly sovereignty has meant for the region as a whole and how one
 might seek to visually represent it.
 
+
+
 \[Image 1. Caption: Figure 1. Map of the Caribbean created by Yarimar
 Bonilla in 2010.\]
 

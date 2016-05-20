@@ -1,20 +1,19 @@
 ---
 layout: article
 title: 
-  "long": "Visualizing Sovereignty: Cartographic Queries for the Digital Age"
-  "short": Visualizing Sovereignty
-  "crossref": Visualizing
+  "long": "Mapping Caribbean Cyberfeminisms"
+  "short": Mapping Caribbean Cyberfeminisms
+  "crossref": haynes-mapping
 author: 
-- name: Yarimar Bonilla
-  shortname: Bonilla
-- name: Max Hantel
-  shortname: Hantel 
+- name: Tonya Haynes
+  shortname: Haynes
 link: 
 date: May 2016
 issue: 1
 order: 4
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer congue aliquet lectus quis consectetur. Aenean nec gravida ex. Donec sed mi id dolor tristique ultricies eget condimentum dolor. Donec consequat iaculis cursus. Etiam laoreet, turpis faucibus euismod ultricies, nunc urna vehicula diam, eget consectetur elit dui sed ipsum. Vivamus suscipit diam quis elit blandit luctus. Phasellus laoreet laoreet risus. Nam massa nulla, mattis a ornare quis, auctor et nisl. Proin laoreet massa quis volutpat iaculis. In maximus, magna vel accumsan mollis, eros purus mollis justo, sit amet condimentum leo metus id risus. Nulla facilisi. In porttitor finibus mollis. Suspendisse ac risus magna. Mauris eget nisi non augue dictum aliquet vel vitae neque. Proin non condimentum tellus."
 ---
+
 
 The murder of Japanese pannist Asami Nagakiya at Trinidad and Tobago’s
 carnival generated international headlines. The mayor of Port of Spain,
