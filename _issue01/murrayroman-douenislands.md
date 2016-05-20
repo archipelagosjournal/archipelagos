@@ -272,10 +272,8 @@ interacts with the main event: the grainy texture of the vinyl screen or
 paper sheet onto which the tweets were projected roughened up the
 smoothness of the phone or computer screen.
 
-![](media/image1.png){width="7.046862423447069in" height="4.0in"}
+[![Screen capture of the Douen Islands Instagram account](/images/issue01/douenislands.png "Figure 1. Screen capture of the Douen Islands Instagram account, taken 28 November 2014.")](https://www.instagram.com/douenislands/)
 
-\[Caption: Figure 1. Screencapture of the Douen Islands Instagram
-account, taken 28 November 2014.\]
 
 The image in figure 1, with the edges of the Twitter feed curling up,
 reveals how the change in screens from digital to analog distorts its
@@ -306,8 +304,7 @@ irreverent child-spirit, with a cutting and succinct, even laconic,
 wit—as is necessary for the 140-character limitation of the tweeted
 utterance. For example, when playing off the title of Douen Islands’s
 e-book, *Tomorrow Please God*, Warner as @douenislands inverted the
-subject of address from God to a curse: “[tomorrow please muh
-muddacunt](file:///C:\Users\Kelly\Documents\sx%20archipelagos%20May%202016\returned\twitter.com\douenislands\status\455141412678684672)”
+subject of address from God to a curse: “tomorrow please muh muddacunt”
 (5:32 p.m.).[^19] The specific colloquialisms and verbal constructions
 of English as spoken in the Caribbean was Warner’s quickest route to
 roughening up everything from the national mottos of Trinidad and Tobago
@@ -323,9 +320,7 @@ first twelve tweets assert self-definitions and ask questions that also
 identify the douen’s properties, as in Warner’s first tweet of the
 evening as @douenislands, for example:
 
-![](media/image2.png){width="5.625in" height="2.353966535433071in"}
-
-\[Caption: Figure 2. Screencapture of @douenislands Twitter feed.\]
+![Screencapture of @douenislands Twitter feed.](/images/issue01/douenislands-twitter.png "Screencapture of @douenislands Twitter feed.")
 
 Warner registers a linguistic ping to signal the presence of the
 douen.[^20] It also can serve as a challenge to readers with normalized
@@ -337,11 +332,9 @@ and ambiguous tone.[^21] This ambiguity present in each individual tweet
 can preserve the douen’s footprints’ characteristic unreadability in its
 electronic traces. But as the queries accumulate, the tweets develop a
 melancholic tenor. Among the first series of tweets are two tweets that
-punctuate the questions with acute pain and recrimination: “[plenty
-outta allyuh never
-loss](file:///C:\Users\Kelly\Documents\sx%20archipelagos%20May%202016\returned\twitter.com\douenislands\status\455139629243842560)”
-(5:25 p.m.) and “[plenty times
-loss](file:///C:\Users\Kelly\Documents\sx%20archipelagos%20May%202016\returned\twitter.com\douenislands\status\455140625386835969)”
+punctuate the questions with acute pain and recrimination: “plenty
+outta allyuh never loss”
+(5:25 p.m.) and “plenty times loss”
 (5:29 p.m.).[^22] Warner voices the douen’s participation on Twitter as
 a dynamic between accusation toward others and isolation of the self.
 Considering the live tweets’ archive in the aggregate, Warner oscillates
@@ -436,7 +429,7 @@ douen plays with the possibility of rejecting the gesture of welcome
 into the social sphere offered by Douen Islands projects and reasserts
 its place in the margins where it is protected by its unreadability.
 
-***Tomorrow Please God*: Ambiguous Readings of Half-Backward Feet**
+## *Tomorrow Please God*: Ambiguous Readings of Half-Backward Feet**
 
 Facing the authors’ page of *Tomorrow Please God* is a list of goals
 regarding the intervention into the figure of the douen, goals that are
@@ -517,15 +510,15 @@ image on the inside of the cover of *Tomorrow Please God*, where the
 project statement goals are printed. Below the image on Tumblr was an
 invitation to discover the text by clicking the download link.
 
-![](media/image3.png){width="6.5in" height="4.921478565179353in"}
+
+![Figure 3. Screencapture of douenislands.tumblr.com, taken 27 July 2015.](/images/issue01/douenislands-twitter.png "Figure 3. Screencapture of douenislands.tumblr.com, taken 27 July 2015."){width="6.5in" height="4.921478565179353in"}
 
 \[Caption: Figure 3. Screencapture of douenislands.tumblr.com, taken 27
 July 2015.\]
 
 In the run-up to the Alice Yard event, Douen Islands uploaded
 invitations and videos advertising “In Forest and Wild Skies”; the
-[videos](file:///C:\Users\Kelly\Documents\sx%20archipelagos%20May%202016\returned\vimeo.com\78231839)
-were then used as part of Bagoo’s poetry reading:[^34]
+videos were then used as part of Bagoo’s poetry reading:[^34]
 
 ![](media/image4.png){width="6.5in" height="2.914660979877515in"}
 
@@ -823,7 +816,7 @@ douen retains its capacity for devious and deviant paths.
     Socio-political Debate,” *European Journal of Communication* 29, no.
     6 (2014): 689.
 
-[^19]: twitter.com/douenislands/status/455141412678684672.
+[^19]: https://www.twitter.com/douenislands/status/455141412678684672.
 
 [^20]: Michele Zappavigna defines the “linguistic ping” as a genre of
     tweets that register “I’m still here” (*Discourse of Twitter*, 29).
