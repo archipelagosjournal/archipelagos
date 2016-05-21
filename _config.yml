@@ -25,7 +25,7 @@ collections:
     - Dennis Tenen
     - Brian Ballsun-Stanton
 
-# Jekyll-Pandoc
+# Jekyll-Kramdown
 markdown: kramdown
 
 pandoc:
@@ -47,3 +47,6 @@ author:
 
 # Custom vars
 version:             0.0.1
+
+# Excluded
+exclude: [utility]

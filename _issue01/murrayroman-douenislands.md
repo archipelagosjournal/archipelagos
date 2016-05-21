@@ -30,8 +30,7 @@ notoriously mysterious figure of the douen undergoes when Douen Islands
 creates an identity for it on the social media platforms of Twitter and
 Tumblr. This conjunction of private and social is salient in both of the
 projects Douen Islands has produced as of March 2016. In the first
-manifestation, the e-book [*Douen Islands Issue 001: Tomorrow Please
-God*](http://www.dropbox.com/s/1kopn1kb0st781s/DouenIslands.pdf), the
+manifestation, the e-book [*Douen Islands Issue 001: Tomorrow Please God*](http://www.dropbox.com/s/1kopn1kb0st781s/DouenIslands.pdf){:target="_blank"}, the
 collective, which included Brianna McCarthy (illustrator), Sharda
 Patasar (sitarist), and Rodell Warner (artist), published a downloadable
 PDF on the official Douen Islands Tumblr page, released on 31 October
@@ -184,8 +183,7 @@ Ramlochan’s case, silently
 [writing](http://www.instagram.com/p/m_SDXEGxJn/?taken-by=douenislands)
 on the walls in chalk.[^12] As part of the performance, Kriston Chen
 engineered a soundtrack based on recordings of Sharda Patasar’s sitar
-performances, now housed on the [Douen Islands Soundcloud
-page](http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar),
+performances, now housed on the [Douen Islands Soundcloud page](http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar),
 and [Chen’s visual work](http://www.instagram.com/p/m89WgVGxCB/?taken-by=douenislands) was
 projected throughout the space, inviting audience members to interact
 with both text and image.[^13] Within this event dedicated to douen
