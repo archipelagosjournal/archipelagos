@@ -3,7 +3,6 @@ layout: article
 title: 
   "long": "Mapping Caribbean Cyberfeminisms"
   "short": Mapping Caribbean Cyberfeminisms
-  "crossref": haynes-mapping
 author: 
 - name: Tonya Haynes
   shortname: Haynes

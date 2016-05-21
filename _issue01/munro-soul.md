@@ -3,7 +3,6 @@ layout: article
 title: 
   "long": "Who Stole the Soul? Rhythm and Race in the Digital Age"
   "short": "Who Stole the Soul?"
-  "crossref": Soul
 author: 
 - name: Martin Munro
   shortname: Munro

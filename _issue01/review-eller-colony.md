@@ -3,7 +3,6 @@ layout: review
 title: 
   "long": "A Review of A Colony in Crisis"
   "short": Review
-  "crossref": Colony
 author: 
 - name: Anne Eller
   shortname: Eller

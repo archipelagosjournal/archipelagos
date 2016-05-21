@@ -3,7 +3,6 @@ layout: review
 title: 
   "long": "A Review of Two Plantations"
   "short": Review
-  "crossref": Colony
 author: 
 - name: Jessica Marie Johnson
   shortname: Johnson

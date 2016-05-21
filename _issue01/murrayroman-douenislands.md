@@ -3,7 +3,6 @@ layout: article
 title: 
   "long": "Twitter’s and @douenislands’s Ambiguous Paths"
   "short": Ambiguous Paths
-  "crossref": Ambiguous
 author: 
 - name: Jeannine Murray-Román
   shortname: Murray-Román  

@@ -3,7 +3,6 @@ layout: article
 title: 
   "long": "Visualizing Sovereignty: Cartographic Queries for the Digital Age"
   "short": Visualizing Sovereignty
-  "crossref": Visualizing
 author: 
 - name: Yarimar Bonilla
   shortname: Bonilla
