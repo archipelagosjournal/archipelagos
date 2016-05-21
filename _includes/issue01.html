@@ -6,12 +6,12 @@
 <!-- Table of Contents -->
 <div class="toc">
   <h2>Table of Contents</h2>
-<ul class="project">
+<ul class="toc-project">
 <h3>Digital Projects</h3>
 {% for document in site.issue01 %}
   {% if document.layout == "project" %}
 
-    <li class="project-title">
+    <li class="toc-project-title">
       <a href="{{ document.url | prepend:site.baseurl }}">
         {{ document.title["long"] }}
       </a><br>
@@ -29,13 +29,13 @@
 </div>
 
 
-<ul class="post">
+<ul class="toc-article">
 <h3>Articles</h3>
 {% for document in site.issue01 %}
   {% if document.layout == "article" %}
 
 
-    <li class="post-title">
+    <li class="toc-article-title">
       <a href="{{ document.url | prepend:site.baseurl }}">
         {{ document.title["long"] }}
       </a><br>
@@ -58,12 +58,12 @@
   {% endif %}
 {% endfor %}
 </ul>
-<ul class="post">
+<ul class="toc-article">
 <h3>Reviews</h3>
 {% for document in site.issue01 %}
   {% if document.layout == "review" %}
 
-    <li class="post-title">
+    <li class="toc-article-title">
       <a href="{{ document.url | prepend:site.baseurl }}">
         {{ document.title["long"] }}
       </a><br>
