@@ -30,8 +30,7 @@ notoriously mysterious figure of the douen undergoes when Douen Islands
 creates an identity for it on the social media platforms of Twitter and
 Tumblr. This conjunction of private and social is salient in both of the
 projects Douen Islands has produced as of March 2016. In the first
-manifestation, the e-book [*Douen Islands Issue 001: Tomorrow Please God*](http://www.dropbox.com/s/1kopn1kb0st781s/DouenIslands.pdf){:target="_blank"}, the
-collective, which included Brianna McCarthy (illustrator), Sharda
+manifestation, the e-book [*Douen Islands Issue 001: Tomorrow Please God*](http://www.dropbox.com/s/1kopn1kb0st781s/DouenIslands.pdf){:target="_blank"}, the collective, which included Brianna McCarthy (illustrator), Sharda
 Patasar (sitarist), and Rodell Warner (artist), published a downloadable
 PDF on the official Douen Islands Tumblr page, released on 31 October
 2013.[^2] Douen Islands’s second manifestation was an experimental
