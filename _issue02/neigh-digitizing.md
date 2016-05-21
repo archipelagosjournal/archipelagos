@@ -15,15 +15,11 @@ abstract: "The Internet offers new performance platforms for Caribbean poets who
 
 If Louise Bennett, the prolific Jamaican artist, were still alive and
 performing today, how would the Internet fit into her creative practice?
-Would she post poetry recordings on Facebook? Would children play with a
-Miss Lou app? Would Aunty Roachy deliver wisdom via Twitter? Since
-Bennett embraced emerging technologies to teach her audience about the
-value of the Jamaican language, social media likely would have played a
-prominent role in her education activism. She turned to performance
+Would she post poetry recordings on Facebook? Would children play with a Miss Lou app? Would Aunty Roachy deliver wisdom via Twitter? Since Bennett embraced emerging technologies to teach her audience about the
+value of the Jamaican language, social media likely would have played a prominent role in her education activism. She turned to performance
 early in her career to build an inclusive audience, and her media
 projects for the Jamaica Broadcasting Corporation—her children’s
-television show *Ring Ding* (1970–82) and her radio program *Miss Lou’s
-Views* (1966–82)—gave her an expanded terrain to develop her
+television show *Ring Ding* (1970–82) and her radio program *Miss Lou’s Views* (1966–82)—gave her an expanded terrain to develop her
 call-and-response poetics. Unfortunately, searching for Bennett online
 today yields few actual sound recordings of her poetry. Bennett’s
 underrepresentation online—or, more aptly, her silence, since her words
