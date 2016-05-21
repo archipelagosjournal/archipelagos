@@ -120,8 +120,6 @@ this reason that we suggest that the Caribbean is best understood
 where patterns of constrained and challenged sovereignty can be said to
 repeat themselves.[^5]
 
-
-
 However, rather than representing the Caribbean as a site of problematic
 sovereignty, we would like to emphasize how Caribbean history brings
 into question the notion of sovereignty itself. We believe that
