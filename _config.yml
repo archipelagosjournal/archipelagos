@@ -14,12 +14,24 @@ collections:
   issue01:
     output: true
     number: 1
-    date: "Summer 2017"
+    date: "Summer 2016"
     title: "Inaugural Issue"
     editors:
     - Kaiama Glover
     - Alex Gil
     - Kelly Josephs
+    production:
+    - Alex Gil
+    - Dennis Tenen
+    - Brian Ballsun-Stanton
+  issue02:
+    output: true
+    number: 2
+    date: "Summer 2017"
+    title: "Second Issue"
+    editors:
+    - Kaiama Glover
+    - Alex Gil
     production:
     - Alex Gil
     - Dennis Tenen
