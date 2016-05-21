@@ -24,6 +24,8 @@ collections:
     - Alex Gil
     - Dennis Tenen
     - Brian Ballsun-Stanton
+  archives:
+    output: true
 
 # Jekyll-Kramdown
 markdown: kramdown
