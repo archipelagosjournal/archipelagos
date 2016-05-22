@@ -4,19 +4,17 @@ title: Submission Guidelines
 ---
 
 
-
-
-
-*sx archipelagos: a small axe platform for the digital* publishes *scholarly articles*, *digital projects*, and *digital project reviews* related to the Caribbean. We publish one issue per year and accept submissions on a rolling basis.
+*sx archipelagos: a small axe platform for digital scholarship* publishes *scholarly articles*, *digital projects*, and *digital project reviews* related to the Caribbean. We publish one issue per year and accept submissions on a rolling basis.
 
 Contact: Kaiama L. Glover and Alex Gil, smallaxe@archipelagos.net
 
 ---
 
 ## Table of Contents
- - Guidelines for Articles or Reviews
- - Guidelines for Digital Projects
- - Style Guide
+{:.no_toc}
+
+* ToC
+{:toc}
 
 ---
 
@@ -35,7 +33,9 @@ Once our current Call For Papers is published, we ask you to send your submissio
 
 Throughout the editing and production process, watch your e-mail for any last-minute queries from *sx archipelagos* editors. Questions inevitably arise, and your prompt responses will help to maintain schedules.
 
+
 ### File types
+
 #### Documents
 
 **Markdown (.md):** Both our website and PDF's are built from the same *markdown* files. To help us keep our workflow light and our file types closer to the production line, we encourage our authors to submit plain text files (UTF-8 encoding) written using [markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and saved as `.md` files. For some background on our infrastructural choices, and to get started with markdown please take some time to read "[Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)" by Dennis Tenen and Grant Whytoff. We sincerely appreciate those who accept the challenge to change their work habits, and will be glad to provide help during the process.
@@ -47,7 +47,7 @@ At sx: archipelagos we value the richness of our visual culture. If you are subm
 
 Please provide crisp images with a minimum of 72ppi resolution and at least 800 pixels wide. We accept both **JPGs** and **PNGs**. Please use the following syntax in your documents regardless of format where you would like your images to be inserted: 
 
-`![Caption - Credit information](file-name.jpg)`
+`![Caption - Credit](file-name.jpg)`
 
 We ask that you name your image files using one or two keywords separated by a hyphen as in the example above. Please remember to provide credit line text as needed, particularly for photographs.
 
@@ -58,7 +58,7 @@ Since sx: archipelagos was born out of the need to support emergent forms of dig
 
 In order to include any of these media types we ask that you send us a screenshot (see images above) and the appropriate link to the separate content. Please indicate the position in your article where you would like your screenshot to appear in the following format:
 
-`[![Caption - Credit information](screenshot-name.jpg)](http://link.org)`
+`[![Caption - Credit](screenshot-name.jpg)](http://link.org)`
 
 ### Hyperlinks and ancillary documents
 
@@ -67,7 +67,9 @@ Please ensure that all external and internal links on your document are working 
 When sharing external documents do not link to Cloud storage services (i.e. Dropbox, Google docs) or closed access sources. In these cases, simply cite the documents. If you have permission to use them, you may able to submit them with your files. We also welcome links to open institutional repositories.
 
 ---
-## Digital Projects
+
+## Guidelines for Digital Projects
+
 *sx archipelagos* accepts mid-stage digital scholarship projects beyond the article or monograph format for single-blind review. If you would like to submit your project for review in one of our issues, please contact us at smallaxe@archipelagos.net. We also offer the opportunity to launch your project with the publication of the relevant issue. Throughout the review and publication process, our editorial team will work with you to give you the appropriate feedback on your project. You remain, of course, responsible for the construction and upkeep of your project before and after we showcase it on *sx archipelagos*.
 
 We are particularly keen to support projects that make an important scholarly contribution to the study of the Caribbean; that are conscious of the design process and underlying infrastructures of digital technology; where the contribution of all members of the team is appropriately acknowledged; and, where considerations of longevity and ephemerality have been duly considered. To get a more detailed sense of our criteria, please consult the guidelines we've prepared for our reviewers. 
