@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Submission Guidelines
+title: For Authors
 ---
 
 
@@ -18,7 +18,7 @@ Contact: Kaiama L. Glover and Alex Gil, archipelagos@smallaxe.net
 
 ---
 
-## Guidelines for Articles or Reviews
+## Submission Guidelines for Articles or Reviews
 sx: archipelagos is founded on principles of minimal computing. We encourage our authors to help keep our costs low and our workflow light by helping us avoid redundancy and costly workflows. We understand that unfamiliar environments and formats can be challenging to work with, and these guidelines are a work in progress as we strive for the right balance between our authors' needs and our mission. Your ideas are most welcome.
 
 
@@ -71,7 +71,7 @@ When sharing external documents, do not link to Cloud storage services (i.e. Dro
 
 ---
 
-## Guidelines for Digital Projects
+## Submission Guidelines for Digital Projects
 
 *sx archipelagos* accepts mid-stage digital scholarship projects beyond the article or monograph format for single-blind review. If you would like to submit your project for review in one of our issues, please contact us at archipelagos@smallaxe.net. We also offer the opportunity to launch your project upon publication of the relevant *sx archipelagos* issue. Throughout the review and publication process, our editorial team will work with you to offer you constructive feedback on your project. You remain, of course, responsible for the development and upkeep of your project before and after we showcase it.
 
