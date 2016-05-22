@@ -3,6 +3,10 @@ layout: page
 title: Review Guidelines
 ---
 
+## Article Review
+
+
+## Digital Project Review
 
 *sx archipelagos* accepts mid-stage digital scholarship projects beyond
 the article or monograph format for single-blind review. Our review
@@ -23,7 +27,7 @@ between site authors and peer reviewers. Click *here* for example.
 
 Our review guidelines are separated into four different categories: Contribution, Credit, Design, and Preservation.
 
-## Contribution
+### Contribution
 
 We ask reviewers to carefully weigh the de facto or possible
 intellectual contribution of the project. We ask reviewers to consider the nature of that contribution appropriate to the current stage of development of the project and recommend considering early signs of process-derived knowledge, the project's relationship to existing literature/projects, and/or early conversations in the literature about the project (where appropriate).
@@ -32,7 +36,7 @@ intellectual contribution of the project. We ask reviewers to consider the natur
 - Are the methods used in the project appropriate to the research questions it poses?
 - Do the project's methods contribute to digital scholarship in general and, if so, how?
 
-## Credit
+### Credit
 
 This section asks reviewers to be conscious of the labor that went into the making of a digital project. As many have argued, digital projects depend on more distributed collaboration than monographs or articles. *sx archipelagos* encourages the crediting of work where credit is due, and the acknowledgment of the scholarly and interpretative work involved in data curation, design, and the engineering of digital projects. With this in mind, we ask reviewers to ask the following questions of a reviewed project:
 
@@ -40,7 +44,7 @@ This section asks reviewers to be conscious of the labor that went into the maki
 - Are the labor conditions under which the project was produced made evident?
 - Does the work cite its (digital scholarship) precedents and data sources appropriately?
 
-**Design**
+### Design
 
 Although design constitutes a separate category of review, we ask reviewers to understand design in terms of its relationship to the purported intellectual contribution of a given project. For *sx archipelagos*, design includes back-end architecture, workflow, and front-end interface design. We ask reviewers to consider the overall temporal and technical structure of a project, and how this structure relates to the goals of the project. A reviewer may ask questions like:
 
@@ -48,7 +52,7 @@ Although design constitutes a separate category of review, we ask reviewers to u
 -   How does the graphic and UX design elements of the front-end contribute to the goals of the intellectual contribution? When considering the public-facing design, we ask reviewers not to place undue weight on 'ease of use,' or 'glossy design' but rather to consider whether the project's features fit the intellectual mission of the project and the resources the project's team had available to them.
 -   How does the backend architecture hinder or move forward the contribution of the project, and perhaps relate it to previous digital scholarship projects?
 
-**Preservation**
+### Preservation
 
 When considering the life-cycle of a digital scholarship project we ask
 reviewers not to consider preservation in terms of indefinite periods of
