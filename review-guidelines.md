@@ -22,7 +22,6 @@ between site authors and peer reviewers. Click *here* for example.
 **Project review occurs in two phases:**
 
 -   Phase I - Authors submit a Project Statement consisting of a 350-500 word abstract and a 5000-7000 word description. Reviewers will offer initial feedback within four to six weeks.
-
 -   Phase II - Authors respond to reviewer feedback in a 1000-1200 narrative and provide link to navigable beta site.
 
 Our review guidelines are separated into four different categories: Contribution, Credit, Design, and Preservation.
