@@ -75,7 +75,14 @@ When sharing external documents, do not link to Cloud storage services (i.e. Dro
 
 *sx archipelagos* accepts mid-stage digital scholarship projects beyond the article or monograph format for single-blind review. If you would like to submit your project for review in one of our issues, please contact us at archipelagos@smallaxe.net. We also offer the opportunity to launch your project upon publication of the relevant *sx archipelagos* issue. Throughout the review and publication process, our editorial team will work with you to offer you constructive feedback on your project. You remain, of course, responsible for the development and upkeep of your project before and after we showcase it.
 
-We are particularly keen to support projects that make an important scholarly contribution to the study of the Caribbean; that are conscious of the design process and underlying infrastructures of digital technology; where the contribution of all members of the team is appropriately acknowledged; and, where considerations of longevity and ephemerality have been duly taken into account. To get a more detailed sense of our criteria, please consult the [guidelines we have prepared for our reviewers](). 
+We are particularly keen to support projects that make an important scholarly contribution to the study of the Caribbean; that are conscious of the design process and underlying infrastructures of digital technology; where the contribution of all members of the team is appropriately acknowledged; and, where considerations of longevity and ephemerality have been duly taken into account. To get a more detailed sense of our criteria and process, please consult the [guidelines we have prepared for our reviewers]().
+
+Project review occurs in two phases:
+
+1. Authors submit a Project Statement consisting of a 350-500 word abstract and a 5000-7000 word description. Reviewers will offer initial feedback within four to six weeks.
+2. Authors respond to reviewer feedback in a 1000-1200 narrative and provide link to navigable beta site for final review. 
+
+The editors will synthesize the reviewer comments and the response from the author for final publication on a dedicated page for the project.
 
 
 

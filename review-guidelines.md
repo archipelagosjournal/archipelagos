@@ -3,6 +3,18 @@ layout: page
 title: For Reviewers
 ---
 
+At *sx archipelagos* we are working to build a community of reviewers and creators that can help sustain and enrich our collective Caribbean digital scholarship. If you would like to join our team of reviewers—to help us review articles and digital projects—please contact us at archipelagos@smallaxe.net.
+
+---
+
+## Table of Contents
+{:.no_toc}
+
+* ToC
+{:toc}
+
+---
+
 ## Review Guidelines for Digital Projects
 
 *sx archipelagos* accepts mid-stage digital scholarship projects beyond
@@ -16,10 +28,12 @@ along with excerpts of audio, visual, and other multimedia elements.
 This page also provides a link to (a curated version) of the dialogue
 between site authors and peer reviewers. Click *here* for example.
 
-**Project review occurs in two phases:**
+Project review occurs in two phases:
 
--   Phase I - Authors submit a Project Statement consisting of a 350-500 word abstract and a 5000-7000 word description. Reviewers will offer initial feedback within four to six weeks.
--   Phase II - Authors respond to reviewer feedback in a 1000-1200 narrative and provide link to navigable beta site.
+1. Authors submit a Project Statement consisting of a 350-500 word abstract and a 5000-7000 word description. Reviewers will offer initial feedback within four to six weeks.
+2. Authors respond to reviewer feedback in a 1000-1200 narrative and provide link to navigable beta site for final review. 
+
+The editors will synthesize the reviewer comments and the response from the author for final publication on a dedicated page for the project.
 
 Our review guidelines are separated into four different categories: Contribution, Credit, Design, and Preservation.
 
@@ -64,5 +78,11 @@ project’s future. Possible questions are:
 -   How is the project managing its rate of decay?
 -   Is the level of complexity of the project appropriate for its socio-technical or institutional context?
 -   How conscious is the project team regarding the life-cycle of the project?
+
+---
+
+## Review of Articles: A Brief Note.
+
+Our reviewers are expected to maintain the highest academic standards in the review of scholarly articles for publication in *sx archipelagos*. Since many of our articles are media-rich—linking prose arguments rhetorically to visuals—we ask our reviewers to also provide feedback on the figures, images and interactives used in articles.
 
 
