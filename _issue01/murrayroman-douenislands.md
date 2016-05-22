@@ -209,7 +209,7 @@ shrouded off from the rest of the small Alice Yard annex by draping
 yards of white fabric from the ceiling,” in which participants were
 invited to stage their full-body portraits with as much of their bodies
 playfully and explicitly revealed or concealed according to their own
-choosing; [these photographs](http://www.rodellwarner.com/index.php?/photobooth) were
+choosing; [these photographs](http://www.rodellwarner.com/index.php?/photobooth/) were
 then exhibited during the nine-day run.[^15] This conjunction of
 intimate interaction and exhibition in “Photobooth” created a nexus
 between the private and the social, the cocoon and the digital photo.

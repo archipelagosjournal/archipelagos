@@ -530,7 +530,7 @@ free recordings implicitly upholds the idea that the artistic labor of
 poetry is more worthy of payment when it is print based. Moreover, it
 demonstrates how we define poems as texts rather than as performances.
 The Poetry Foundation’s [*Code for Best Practices in Fair Use for
-Poetry*](http://www.poetryfoundation.org/downloads/FairUsePoetryBooklet_singlepg_2.pdf)
+Poetry*](http://www.poetryfoundation.org/foundation/bestpractices)
 underscores this point. A group of poets, editors, and publishers met at
 the Poetry Foundation’s Harriet Monroe Poetry Institute and collaborated
 with American University’s Center for Social Media and its Washington
