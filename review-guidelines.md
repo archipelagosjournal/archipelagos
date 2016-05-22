@@ -1,12 +1,7 @@
 ---
 layout: page
-title: Review Guidelines
+title: Review Guidelines for Digital Projects
 ---
-
-## Article Review
-
-
-## Digital Project Review
 
 *sx archipelagos* accepts mid-stage digital scholarship projects beyond
 the article or monograph format for single-blind review. Our review
