@@ -8,7 +8,10 @@
   <h2>Table of Contents</h2>
 <ul class="toc-project">
 <h3>Digital Projects</h3>
-{% for document in site.issue01 %}
+
+{% assign documents = site.issue01 | sort: 'order' %}
+
+{% for document in documents %}
   {% if document.layout == "project" %}
 
     <li class="toc-project-title">
@@ -31,7 +34,7 @@
 
 <ul class="toc-article">
 <h3>Articles</h3>
-{% for document in site.issue01 %}
+{% for document in documents %}
   {% if document.layout == "article" %}
 
 
@@ -60,7 +63,7 @@
 </ul>
 <ul class="toc-article">
 <h3>Reviews</h3>
-{% for document in site.issue01 %}
+{% for document in documents %}
   {% if document.layout == "review" %}
 
     <li class="toc-article-title">
