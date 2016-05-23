@@ -1,5 +1,6 @@
 ---
 layout: review
+section: reviews
 title: 
   "long": "A Review of \"Two Plantations\""
   "short": Review

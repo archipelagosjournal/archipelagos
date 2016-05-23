@@ -6,13 +6,42 @@
 <!-- Table of Contents -->
 <div class="toc">
   <h2>Table of Contents</h2>
+
+<!-- Introductory material -->
+<ul class="toc-introduction">
+<h3>Introduction</h3>
+
+{% assign documents = site.issue01 | sort: 'order' %}
+
+
+
+{% for document in documents %}
+  {% if document.section == "introduction" %}
+
+    <li class="toc-page-title">
+      <a href="{{ document.url | prepend:site.baseurl }}">
+        {{ document.title["long"] }}
+      </a><br>
+    <span class="byline"> 
+        {{ document.credit }}
+    </span>
+  </a>
+    </li>
+
+  {% endif %}
+{% endfor %} 
+</ul>
+
+
 <ul class="toc-project">
 <h3>Digital Projects</h3>
 
 {% assign documents = site.issue01 | sort: 'order' %}
 
+
+
 {% for document in documents %}
-  {% if document.layout == "project" %}
+  {% if document.section == "project" %}
 
     <li class="toc-project-title">
       <a href="{{ document.url | prepend:site.baseurl }}">
@@ -35,7 +64,7 @@
 <ul class="toc-article">
 <h3>Articles</h3>
 {% for document in documents %}
-  {% if document.layout == "article" %}
+  {% if document.section == "articles" %}
 
 
     <li class="toc-article-title">
@@ -64,7 +93,7 @@
 <ul class="toc-article">
 <h3>Reviews</h3>
 {% for document in documents %}
-  {% if document.layout == "review" %}
+  {% if document.section == "reviews" %}
 
     <li class="toc-article-title">
       <a href="{{ document.url | prepend:site.baseurl }}">

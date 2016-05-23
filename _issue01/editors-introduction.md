@@ -1,6 +1,9 @@
 ---
-layout: page
-title: sx a Editors' Intro
+layout: article
+section: introduction
+title: 
+  "long": "sx archipelagos Editors' Intro"
+  "short": "Editor's Intro"
 author: 
 - name: Kaiama L. Glover
   shortname: Glover
@@ -10,7 +13,6 @@ author:
   shortname: Gil
 ---
 
-# Editors' Intro: The Caribbean Digital
 
 The transformation of the academy by the digital revolution presents challenges to customary ways of learning, teaching, conducting research, interpreting documents and presenting findings. It also offers immense opportunities in each of these areas. New media enable oration, graphics, objects, and even embodied performance to supplement existing forms of scholarly production as well as to constitute entirely original platforms. Opportunities for interdisciplinary collaboration have expanded enormously, information has been made more accessible and research made more efficient on multiple levels. We scholars are called upon now, with some urgency, to adapt our investigative and pedagogical methods to an academic climate deluged by a superabundance of information and analysis. This has created opportunities for open-ended and multiform engagements, interactive and continually updating archives and other databases, cartographic applications that enrich places with historical information, and online dialogues with our colleagues and the wider public.
 

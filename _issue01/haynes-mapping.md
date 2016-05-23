@@ -1,5 +1,6 @@
 ---
 layout: article
+section: articles
 title: 
   "long": "Mapping Caribbean Cyberfeminisms"
   "short": Mapping Caribbean Cyberfeminisms

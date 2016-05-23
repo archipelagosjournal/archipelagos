@@ -1,5 +1,6 @@
 ---
 layout: article
+section: articles
 title: 
   "long": "Visualizing Sovereignty: Cartographic Queries for the Digital Age"
   "short": Visualizing Sovereignty

@@ -1,5 +1,6 @@
 ---
 layout: article
+section: articles
 title: 
   "long": "Twitter’s and @douenislands’s Ambiguous Paths"
   "short": Ambiguous Paths

@@ -1,5 +1,6 @@
 ---
 layout: article
+section: articles
 pdf: neigh-digitizing.pdf
 title: 
   "long": "Digitizing the \"Sound Explosions\" of Anglophone Caribbean Performance Poetry"
