@@ -4,9 +4,9 @@ title: For Authors
 ---
 
 
-*sx archipelagos: a small axe platform for digital scholarship* publishes *scholarly articles*, *digital projects*, and *digital project reviews* related to the Caribbean. We publish one issue per year and accept submissions on a rolling basis.
+*sx archipelagos: a small axe platform for digital scholarship* publishes scholarly articles, digital projects, and digital project reviews related to the Caribbean. We publish one issue per year and accept submissions on a rolling basis.
 
-Contact: Kaiama L. Glover and Alex Gil, archipelagos@smallaxe.net
+Contact: Kaiama L. Glover and Alex Gil (archipelagos@smallaxe.net)
 
 ---
 
@@ -19,20 +19,20 @@ Contact: Kaiama L. Glover and Alex Gil, archipelagos@smallaxe.net
 ---
 
 ## Submission Guidelines for Articles or Reviews
-sx: archipelagos is founded on principles of minimal computing. We encourage our authors to help keep our costs low and our workflow light by helping us avoid redundancy and costly workflows. We understand that unfamiliar environments and formats can be challenging to work with, and these guidelines are a work in progress as we strive for the right balance between our authors' needs and our mission. Your ideas are most welcome.
+*sx archipelagos* is founded on principles of minimal computing. We encourage our authors to help keep our costs low and our workflow light by helping us avoid redundancy and costly workflows. We understand that unfamiliar environments and formats can be challenging to work with, and these guidelines are a work in progress as we strive for the right balance between our authors' needs and our mission. Your ideas are most welcome.
 
 
 ### The workflow
 
 *sx archipelagos* uses an instance of the [Open Journal Systems](https://pkp.sfu.ca/ojs/) (OJS) to
-manage peerreview workflow. We ask you to submit your article to
+manage peer review workflow. We ask you to submit your article to
 archipelagos@smallaxe.net. 
 
-0. Once your article has been approved for review we will upload a copy to OJS and send you an email with instructions for setting up your account and using OJS. The next steps describing file exchanges will be mostly handled by OJS. 
+1. Once your article has been approved for review we upload a copy to OJS and send you an email with instructions for setting up your account and using OJS. The next steps describing file exchanges will be handled primarily by OJS. 
 
-1. Articles are double-blind reviewed by our team of outside peer-reviewers and "digital project reviews" are reviewed by the editors. Accepted contributions may be accepted as is, or go through one or two rounds of revisions.
+2. Articles are double-blind reviewed by our team of outside peer-reviewers and digital project reviews are reviewed by the editors. Accepted contributions may be accepted as is, or go through one or two rounds of revisions.
 
-2. Once the peer-review process is complete, our copyeditor readies your article for clarity and flow; checks grammar, punctuation, and spelling, and scrutinize your notes. You will receive an updated file with suggestions from our copyeditor, which you will have approximately one week to accept, reject, or modify. This will be your final review of your manuscript.
+3. Once the peer-review process is complete, our copyeditor readies your article for clarity and flow; checks grammar, punctuation, and spelling, and scrutinize your notes. You will receive an updated file with suggestions from our copyeditor, which you will have approximately one week to accept, reject, or modify. This will be your final review of your manuscript.
 
 Throughout the editing and production process, please watch your e-mail for any last-minute queries from *sx archipelagos* editors. Your prompt responses will help to maintain schedules.
 
@@ -41,12 +41,12 @@ Throughout the editing and production process, please watch your e-mail for any 
 
 #### Documents
 
-**Markdown (.md):** Both our website and PDF's are built from the same *markdown* files. While we gladly accept articles in Office format, we encourage our authors to submit plain text files (UTF-8 encoding) written using [markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and saved as `.md` files. This will help us keep our workflow light and our file types closer to the production line. For some background on our infrastructural choices, and to get started with markdown please take some time to read "[Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)" by Dennis Tenen and Grant Whytoff. We sincerely appreciate those who accept the challenge to change their work habits, and are happy to provide assistance during the process.
+**Markdown (.md):** Both our website and PDF's are built from the same Markdown files. While we gladly accept articles in Office format, we encourage our authors to submit plain text files (UTF-8 encoding) written using [Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and saved as `.md` files. This will help us keep our workflow light and our file types closer to the production line. For some background on our infrastructural choices, and to get started with Markdown, please take some time to read "[Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)" by Dennis Tenen and Grant Whytoff. We sincerely appreciate those who accept the challenge of changing their work habits, and are happy to provide assistance during the process.
 
-**Office formats (.odt, .doc, .docx):** If you find the markdown workflow overwhelming, we will work to convert your Microsoft Word, LibreOffice or OpenOffice files to markdown ourselves at the end of the process. In order to minimize the work needed to convert your files into publishable format, please be sure to follow the guidelines and the style guide below closely. Two common practices in particular will make the transformation go smoother: a) Please use the Heading formatting style (Heading 2, Heading 3, etc.) to separate your sections, starting with Heading 2; and b) Attach links to the text (as opposed to spelling them out).
+**Office formats (.odt, .doc, .docx):** If you find the Markdown workflow overwhelming, we will convert your Microsoft Word, LibreOffice, or OpenOffice files to Markdown ourselves at the end of the process. In order to minimize the work needed to convert your files into publishable format, please be sure to follow the guidelines and the style guide below closely. Two common practices in particular will make the transformation smoother: 1) Please use the Heading formatting style (Heading 2, Heading 3, etc.) to separate your sections, beginning with Heading 2; and 2) Attach links to the text (as opposed to spelling them out).
 
 #### Images
-At *sx archipelagos* we value the richness of our visual culture. If you are submitting your own photography, we ask that you to be mindful of frame, color harmonies, etc. Remember also that these files may contain embedded metadata that you might not want to publish. Images accompanying your documents will be open to the review process. 
+At *sx archipelagos* we value the richness of our visual culture. If you are submitting your own photography, we ask you to be mindful of frame, color harmonies, and other design elements. Remember also that these files may contain embedded metadata that you might not want to publish. Images accompanying your documents will be open to the review process. 
 
 Please provide crisp images with a minimum of 72ppi resolution and at least 800 pixels wide. We accept both **JPGs** and **PNGs**. Please use the following syntax in your documents regardless of format to indicate where you would like your images to be inserted: 
 
@@ -54,8 +54,8 @@ Please provide crisp images with a minimum of 72ppi resolution and at least 800 
 
 We ask that you name your image files using one or two keywords separated by a hyphen as in the example above. Please remember to provide credit line text as needed, particularly for photographs.
 
-#### Video, Sound and Interactive Media
-In order to make our articles and reviews available in PDF, and in order to increase the longevity of the web files, we separate interactive media from static text and images. For video and sound, we encourage our authors to use a streaming service of their choice. Be mindful of privacy, stability and copyright concerns when choosing streaming video. When required, we can provide you with a Digital Publication Agreement Form to use with rights holders. 
+#### Video, Sound, and Interactive Media
+In order to make our articles and reviews available in PDF, and in order to increase the longevity of the web files, we separate interactive media from static text and images. For video and sound, we encourage our authors to use a streaming service of their choice. Be mindful of privacy, stability, and copyright concerns when choosing streaming video. When required, we can provide you with a Digital Publication Agreement Form to use with rights holders. 
 
 Since *sx archipelagos* was born out of the need to support emergent forms of digital scholarship, we are also open to include interactive media (maps, visualizations, etc) in our articles. We ask that you provide us, whenever possible a fullscreen version of your interactive media hosted elsewhere.
 
@@ -65,7 +65,7 @@ In order to include any of these media types we ask that you send us a screensho
 
 ### Hyperlinks and ancillary documents
 
-Please ensure that all external and internal links on your document are working before submission. Many websites and web pages dissapear or become displaced over time. In order to avoid link rot, we run periodic build tests to ensure the viability our internal and external links. When links stop working after publication, we try to provide an archived version of the page from [the Internet Archive](https://archive.org/index.php), where these are available. Despite these measures, we some links will be lost in the years to come. In order to minimize the impact on your article, please provide appropriate citations when the links are fundamental to the argument.
+Please ensure that all external and internal links on your document are working before submission. Many websites and web pages dissapear or become displaced over time. In order to avoid link rot, we run periodic build tests to ensure the viability of our internal and external links. When links stop working after publication, we try to provide an archived version of the page from [the Internet Archive](https://archive.org/index.php), where these are available. Despite these measures, we some links will be lost in the years to come. In order to minimize the impact on your article, please provide appropriate citations when the links are fundamental to the argument.
 
 When sharing external documents, do not link to Cloud storage services (i.e. Dropbox, Google docs) or closed access sources. In these cases, simply cite the documents. If you have permission to use them, you may able to submit them with your files. We also welcome links to open institutional repositories.
 
@@ -73,16 +73,16 @@ When sharing external documents, do not link to Cloud storage services (i.e. Dro
 
 ## Submission Guidelines for Digital Projects
 
-*sx archipelagos* accepts mid-stage digital scholarship projects beyond the article or monograph format for single-blind review. If you would like to submit your project for review in one of our issues, please contact us at archipelagos@smallaxe.net. We also offer the opportunity to launch your project upon publication of the relevant *sx archipelagos* issue. Throughout the review and publication process, our editorial team will work with you to offer you constructive feedback on your project. You remain, of course, responsible for the development and upkeep of your project before and after we showcase it.
+*sx archipelagos* accepts mid-stage digital scholarship projects beyond the article or monograph format for single-blind review. We also offer the opportunity to launch your project upon publication of the relevant *sx archipelagos* issue. Throughout the review and publication process, our editorial team will work with you to offer you constructive feedback on your project. You remain, of course, responsible for the development and upkeep of your project before and after we showcase it.
 
 We are particularly keen to support projects that make an important scholarly contribution to the study of the Caribbean; that are conscious of the design process and underlying infrastructures of digital technology; where the contribution of all members of the team is appropriately acknowledged; and, where considerations of longevity and ephemerality have been duly taken into account. To get a more detailed sense of our criteria and process, please consult the [guidelines we have prepared for our reviewers]().
 
 Project review occurs in two phases:
 
 1. Authors submit a Project Statement consisting of a 350-500 word abstract and a 5000-7000 word description. Reviewers will offer initial feedback within four to six weeks.
-2. Authors respond to reviewer feedback in a 1000-1200 narrative and provide link to navigable beta site for final review. 
+2. Authors respond to reviewer feedback in a 1000-1200 word narrative and provide a link to a navigable beta site for final review. 
 
-The editors will synthesize the reviewer comments and the response from the author for final publication on a dedicated page for the project.
+The editors synthesize the reviewer comments and the response from the author for final publication on a dedicated project page.
 
 
 

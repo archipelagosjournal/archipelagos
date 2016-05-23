@@ -1,7 +1,7 @@
 ---
 layout: review
 title: 
-  "long": "A Review of A Colony in Crisis"
+  "long": "A Review of \"A Colony in Crisis\""
   "short": Review
 author: 
 - name: Anne Eller

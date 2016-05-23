@@ -6,14 +6,12 @@ title: Credits
 ## Editorial Team 
 Contact: archipelagos@smallaxe.net
 
-Dr. Kaiama L. Glover
+Kaiama L. Glover
 
-Dr. Alex Gil 
+Alex Gil 
 
 ## Production Team
-Dr. Dennis Tenen
-
-Dr. Brian Ballsun-Stanton
+Brian Ballsun-Stanton
 
 Research Associate Macquarie University, Technical Director FAIMS Project.
 Columbia group for experimental methods in the humanities (xpmethod)
@@ -24,6 +22,8 @@ Room 510 Building W6A
 Macquarie University, NSW 2109 
 Australia
 brian@fedarch.org
+
+Dennis Tenen
 
 ## Institutional Partners
 Columbia University Center for Digital Research and Scholarship

@@ -1,7 +1,7 @@
 ---
 layout: review
 title: 
-  "long": "A Review of Two Plantations"
+  "long": "A Review of \"Two Plantations\""
   "short": Review
 author: 
 - name: Jessica Marie Johnson
