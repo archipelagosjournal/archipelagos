@@ -2,7 +2,7 @@
 layout: article
 section: introduction
 title: 
-  "long": "sx archipelagos Editors' Intro"
+  "long": "Editors' Intro: The Caribbean Digital"
   "short": "Editor's Intro"
 author: 
 - name: Kaiama L. Glover
