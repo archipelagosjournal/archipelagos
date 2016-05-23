@@ -3,12 +3,36 @@ layout: page
 title: Credits
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet gravida urna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi porta dui in nisi mattis, a facilisis purus laoreet. Vestibulum ante orci, pellentesque vel condimentum quis, molestie et augue. Nam eu nisl ut ante rhoncus varius sit amet tincidunt nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas cursus risus ut nibh suscipit posuere. Maecenas mauris massa, euismod vitae odio eget, pharetra mattis ex. Nam viverra lacinia enim eu placerat.
+## Editorial Team 
+Contact: archipelagos@smallaxe.net
 
-Quisque ante nisl, gravida quis lacus a, commodo venenatis elit. Proin eget tristique felis. Praesent fringilla dui erat, eu facilisis dui viverra scelerisque. Mauris non porttitor turpis, vel vestibulum mi. Mauris ornare non arcu ac porta. Duis facilisis vehicula nisi, in cursus massa ornare ut. Nam ultricies pellentesque sem, sed dictum felis sodales vel. Aenean nec pharetra tellus. Nulla vel odio orci. Morbi volutpat turpis enim. Duis euismod vulputate elit sit amet consequat. Curabitur suscipit tincidunt nisi eget lacinia.
+Dr. Kaiama L. Glover
 
-Integer consequat fringilla lectus non facilisis. Cras varius ex et sem fringilla laoreet. In hac habitasse platea dictumst. Vivamus faucibus urna et enim accumsan, ut elementum orci aliquam. Fusce eu rhoncus massa. Morbi sollicitudin aliquet leo, nec ullamcorper felis vulputate ut. Nulla facilisi. Suspendisse luctus sapien vel laoreet gravida. Nullam auctor, risus pulvinar vestibulum molestie, eros ipsum imperdiet lacus, a placerat magna nisl sed arcu. Vivamus rhoncus felis in augue cursus pellentesque. Mauris varius non odio et pretium. Vivamus quis vehicula lorem, vel scelerisque velit. Praesent vel accumsan ligula. Donec vitae tempus nulla, ut auctor enim. Praesent viverra neque quis tempor pretium.
+Dr. Alex Gil 
 
-Phasellus semper dolor et hendrerit luctus. Suspendisse potenti. Maecenas imperdiet id elit at faucibus. Integer lorem dui, accumsan sit amet arcu sit amet, commodo suscipit nulla. Cras dictum neque ac purus ornare, at volutpat lectus accumsan. Donec nec ipsum neque. Fusce dignissim et quam ut eleifend. Aenean sed vehicula nibh, eu tincidunt purus. Nam eros ex, scelerisque vel tortor quis, cursus commodo mi. Proin eget orci dignissim, cursus enim vitae, cursus diam. Pellentesque sapien urna, ultricies et finibus non, aliquam ut nisi. Morbi eu odio id est consequat finibus. Praesent hendrerit tincidunt turpis, quis imperdiet augue faucibus non. Nulla quis pretium turpis, id ultrices mauris. Mauris blandit augue in quam dapibus, placerat condimentum enim tincidunt. Pellentesque porta ut enim pretium tincidunt.
+## Production Team
+Dr. Dennis Tenen
 
-Sed vestibulum consectetur est, id scelerisque leo rhoncus vitae. Sed quis ligula id dui mollis aliquet. Aliquam vitae purus in augue tincidunt lobortis vitae ut elit. Vivamus ac maximus leo, at viverra massa. Cras tempor lobortis magna, in pretium mi sodales vitae. Ut non mattis risus. Suspendisse sodales diam mauris, vel molestie tellus cursus sit amet. Pellentesque turpis nunc, sagittis vel semper nec, placerat ac ligula. Aliquam ac euismod lorem, nec lacinia turpis. Integer eleifend ante est, eu tincidunt ligula convallis tempus. Morbi dignissim suscipit orci, in aliquet felis euismod eu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent egestas sapien at semper egestas. 
+Dr. Brian Ballsun-Stanton
+
+Research Associate Macquarie University, Technical Director FAIMS Project.
+Columbia group for experimental methods in the humanities (xpmethod)
+
+Brian Ballsun-Stanton (Ph.D. University of New South Wales, 2012) is currently a Research Associate at Macquarie University in Sydney, Australia. His research interests include exploring how people interact with and understand the nature of data and an investigation into the mechanics of ludic-narrative interactions in games. He is the Technical Director and Data Architect for the Field Acquired Information Management Systems (FAIMS) Project.
+Department of Ancient History 
+Room 510 Building W6A
+Macquarie University, NSW 2109 
+Australia
+brian@fedarch.org
+
+## Institutional Partners
+Columbia University Center for Digital Research and Scholarship
+
+Digital Humanities Center, Columbia University Libraries
+
+## Sponsors
+NEH Office of Digital Humanities
+
+Columbia University Center for the Study of Social Difference
+
+Barnard Committee on Online and On-Campus Learning
