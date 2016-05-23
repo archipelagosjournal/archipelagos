@@ -19,7 +19,7 @@ Contact: Kaiama L. Glover and Alex Gil (archipelagos@smallaxe.net)
 ---
 
 ## Submission Guidelines for Articles or Reviews
-*sx archipelagos* is founded on principles of minimal computing. We encourage our authors to help keep our costs low and our workflow light by helping us avoid redundancy and costly workflows. We understand that unfamiliar environments and formats can be challenging to work with, and these guidelines are a work in progress as we strive for the right balance between our authors' needs and our mission. Your ideas are most welcome.
+*sx archipelagos* is founded on principles of minimal computing. We encourage our authors to help us avoid redundancy and costly workflows. We understand that unfamiliar environments and formats can be challenging to work with, and these guidelines are a work in progress as we strive for the right balance between our authors' needs and our mission. Your ideas are most welcome.
 
 
 ### The workflow
