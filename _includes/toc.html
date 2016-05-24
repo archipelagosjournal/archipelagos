@@ -64,13 +64,7 @@
         {{ document.title["long"] }}
       </a><br>
     <span class="byline">by 
-    {% for author in document.author %}
-      {% if forloop.last == true %}
-        <span class="author">{{ author.name }}</span>
-      {% else %}
-        <span class="author">{{ author.name }}</span>, 
-      {% endif %}
-    {% endfor %}
+{% include author-loop.html %}
 
     </span>
     <!-- PDF -->
