@@ -1,6 +1,7 @@
 ---
 layout: article
-section: introduction
+section: articles
+order: 0
 title: 
   "long": "Editors' Intro: The Caribbean Digital"
   "short": "Editor's Intro"

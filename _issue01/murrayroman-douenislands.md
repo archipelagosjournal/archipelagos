@@ -11,7 +11,7 @@ link:
 date: May 2016
 issue: 1
 order: 2
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer congue aliquet lectus quis consectetur. Aenean nec gravida ex. Donec sed mi id dolor tristique ultricies eget condimentum dolor. Donec consequat iaculis cursus. Etiam laoreet, turpis faucibus euismod ultricies, nunc urna vehicula diam, eget consectetur elit dui sed ipsum. Vivamus suscipit diam quis elit blandit luctus. Phasellus laoreet laoreet risus. Nam massa nulla, mattis a ornare quis, auctor et nisl. Proin laoreet massa quis volutpat iaculis. In maximus, magna vel accumsan mollis, eros purus mollis justo, sit amet condimentum leo metus id risus. Nulla facilisi. In porttitor finibus mollis. Suspendisse ac risus magna. Mauris eget nisi non augue dictum aliquet vel vitae neque. Proin non condimentum tellus."
+abstract: "The Douen Islands project was cofounded in 2013 by a group of Trinidadian artists, including poet Andre Bagoo, graphic designer Kriston Chen, and artist Rodell Warner, among others. Its name refers to the folk figures of douen, whose backward-pointing feet create backward paths. This essay uses a Twitter-focused analysis to explore the representations of the douen in two Douen Islands projects: first, considering the social mediatization of the text and the performance event the artists created, and, second, exploring how a backward-reading practice impacts possible interpretations of the douen’s persona as tweeted in these two projects."
 ---
 
 In describing his aims in conceiving of a collaboratively written,
