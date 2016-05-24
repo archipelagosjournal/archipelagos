@@ -6,7 +6,7 @@
 <ul class="toc-introduction">
 <h3>Introduction</h3>
 
-{% assign documents = site.issue01 | sort: 'order' %}
+  {% assign documents = (include.current | sort: 'order') %}
 
 
 
