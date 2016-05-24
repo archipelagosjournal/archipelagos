@@ -4,5 +4,11 @@ layout: default
 
 <div class="review">
   <h1 class="page-title">{{ page.title["long"] }}</h1>
+    <p class="byline"> 
+  {% assign document = page %}  
+  {% include author-loop.html %}
+
+    </p>
+  <br>
   {{ content }}
 </div>
