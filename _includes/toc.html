@@ -4,11 +4,10 @@
 
 <!-- Introductory material -->
 <ul class="toc-introduction">
+
+{% assign documents = (include.issue | sort: 'order') %}  
+
 <h3>Introduction</h3>
-
-  {% assign documents = (include.current | sort: 'order') %}
-
-
 
 {% for document in documents %}
   {% if document.section == "introduction" %}
