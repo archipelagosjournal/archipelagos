@@ -15,5 +15,7 @@ reviews. *sx archipelagos* is committed to empowering Caribbean and
 Caribbeanist scholars, artists, and other social and creative actors in
 their efforts to deploy the tools of our time.
 
+[Read more...](/about/){:.readmore}
+
 ## Issue (1)
 
