@@ -1,5 +1,6 @@
 ---
 layout: article
+section: articles
 pdf: neigh-digitizing.pdf
 title: 
   "long": "Digitizing the \"Sound Explosions\" of Anglophone Caribbean Performance Poetry"
@@ -9,7 +10,7 @@ author:
   shortname: Neigh
 date: March 2016
 issue: 1
-order: 2
+order: 1
 abstract: "The Internet offers new performance platforms for Caribbean poets who prioritize oral expression. One group realizing this potential is the youth-led artist collective The 2 Cents Movement, based out of Trinidad and Tobago, who circulate their video poems on social networking sites. Through their DIY approach, they are building a broader youth audience for their work. More generally, Caribbean poets are often underrepresented in online poetry resources, particularly in institution-based Internet audio archives. This article uses The 2 Cents Movement as a preliminary model to understand how Internet audio archives can be redesigned to amplify the total expression of Caribbean poetry. Admittedly, The 2 Cents Movement offers a partial solution to a much bigger problem; however, this article demonstrates the value of examining poets’ engagements with digital technologies to develop better archival standards and practices in sync with the politics of the work."
 ---
 

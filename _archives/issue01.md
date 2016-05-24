@@ -3,4 +3,7 @@ layout: default
 title: First Issue
 ---
 
-{% include issue01.html %}
+{% capture homepage-content %}{% include issue01.md %}{% endcapture %}
+{{ homepage-content | markdownify }}
+
+{% include toc.html issue=site.issue01 %}
