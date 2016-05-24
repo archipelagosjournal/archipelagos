@@ -5,17 +5,8 @@ layout: default
 <div class="article">
   <h1 class="page-title">{{ page.title["long"] }}</h1>
   <p class="byline"> 
-    {% for author in page.author %}
-      {% if forloop.first == forloop.last %}
-      		<span class="author">{{ author.name }}</span>
-      {% else %}
-	      {% if forloop.last == true %}
-	        <span class="author">and {{ author.name }}</span>
-	      {% else %}
-	        <span class="author">{{ author.name }}</span>, 
-	      {% endif %}
-	   {% endif %}
-    {% endfor %}
+  {% assign document = page %}  
+  {% include author-loop.html %}
 
     </p>
   <br>
