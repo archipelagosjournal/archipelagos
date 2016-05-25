@@ -24,6 +24,8 @@
  * Update the foundational and global aspects of the page.
  */
 
+
+
 * {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -106,7 +108,7 @@ body {
 
 /* Another possible color value for links: #810006 */
 a {
-  color: #A80911;
+  color: #810006;
   text-decoration: none;    
 }
 
@@ -144,7 +146,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: 100;
   color: #D0181F;
-  letter-spacing: -.025rem;
+
   line-height: 1.25;
   margin: 0 0 24px
   text-rendering: optimizeLegibility;
@@ -152,7 +154,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 h1 {
-	font-size: 1.4rem;
+	font-size: 1.8rem;
 }
 
 h1.post-title {
@@ -315,22 +317,36 @@ tbody tr:nth-child(odd) th {
  * Super small header above the content for site name and short description.
  */
 
+a#logo {
+	display: inline-block;
+	margin-left: 10px;
+	margin-bottom: -.33rem;
+}
+
+a#logo > img {
+	margin: 0;
+}
+
+
 .masthead {
-	margin-bottom: 3rem;
-	text-align: center;
-	padding-top: .8rem;
-	padding-bottom: .8rem;
+  margin-bottom: 3rem;
+  text-align: left;
+  padding-top: .8rem;
+  padding-bottom: .8rem;
   border-bottom: 1px solid #eee;
 }
+
 
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
+  margin-left: 20px;
   color: #505050;
-  line-height: 1.5rem;
+  line-height: 0;
+  display: inline-block;
 }
 .masthead-title a {
-	color: #841212;
+	color: #D0181F;
 }
 
 .masthead-title small {
@@ -341,17 +357,14 @@ tbody tr:nth-child(odd) th {
 }
 
 h3.masthead-title {
-	font-size: 1.8rem;
-	margin-top: 2px;
+	font-size: 1rem;
+
 }
 
 
 @media (max-width: 48em) {
   .masthead-title {
     text-align: center;
-  }
-  .masthead-title small {
-    display: none;
   }
 }
 
