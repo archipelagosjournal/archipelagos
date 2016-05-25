@@ -11,9 +11,12 @@
 
 body {
     color: #444;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 18px;
     line-height: 25px
+}
+
+body, h1, h2, h3, h4, h5, h6 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 h1 {
@@ -32,11 +35,19 @@ h2, h3, h4, h5, h6 {
 
 
 p {
-    margin-bottom: 1em
+    margin-bottom: 1em;
+    letter-spacing: .005rem;
 }
 
-/* Page features */
+/* Another possible value: 810006 */
 
+a {
+    color: #A80911
+}
+
+/* ************* */
+/* Page features */
+/* ************* */
 
 h1.page-title {
 	color: #D0181F;
@@ -48,3 +59,19 @@ h1.page-title {
 
 }
 
+/* Footnotes */
+
+sub, sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}

@@ -1,5 +1,5 @@
-Welcome to *sx archipelagos*
-============================
+# Welcome to *sx archipelagos*
+
 
 *sx archipelagos* is the latest born-digital articulation of the Small
 Axe Project. It is a peer-reviewed publication platform and adheres to
