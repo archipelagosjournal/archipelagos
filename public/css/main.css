@@ -323,7 +323,7 @@ tbody tr:nth-child(odd) th {
 
 a#logo {
 	display: inline-block;
-	margin-left: 10px;
+	margin-left: 2%;
 	margin-bottom: -.33rem;
 }
 
@@ -338,6 +338,7 @@ a#logo > img {
   padding-top: .8rem;
   padding-bottom: .8rem;
   border-bottom: 1px solid #eee;
+  box-shadow: 0 0 2px #000;
 }
 
 
@@ -354,8 +355,8 @@ ul#main-nav {
 }
 
 ul#main-nav > li {
-	display: inline;
-	margin: 0px 10px;
+	display: inline-block;
+	margin: 0px 6px;
 }
 
 ul#main-nav a {
