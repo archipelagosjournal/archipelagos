@@ -109,7 +109,7 @@ body {
 
 /* Another possible color value for links: #810006 */
 a {
-  color: #810006;
+  color: #D0181F;
   text-decoration: none;    
 }
 
@@ -143,9 +143,8 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
-  font-weight: 100;
-  color: #D0181F;
-
+  font-weight: 200;
+  color: #444;
   line-height: 1.25;
   margin: 0 0 24px
   text-rendering: optimizeLegibility;
@@ -192,6 +191,7 @@ strong {
 
 .toc-title {
 	font-size: 1.2rem;
+	font-weight: 200;
 }
 
 /* Lists */
@@ -341,24 +341,30 @@ a#logo > img {
 }
 
 
-.masthead-title {
-  margin-top: 0;
-  margin-bottom: 0;
-  margin-left: 20px;
-  color: #505050;
-  line-height: 0;
-  display: inline-block;
-}
-.masthead-title a {
-	color: #D0181F;
-}
 
 
-h3.masthead-title {
-	font-size: 1rem;
-
+ul#main-nav {
+    list-style-type: none;
+    display: inline-block;
+    margin: 0;
+    margin-left: 20px;
+    padding: 0;
+    font-size: .8rem;
+	font-weight: 200;    
 }
 
+ul#main-nav > li {
+	display: inline;
+	margin: 0px 10px;
+}
+
+ul#main-nav a {
+	color: #939598;
+}
+
+ul#main-nav a.active {
+	color: #D0181F;	
+}
 
 @media (max-width: 48em) {
   .masthead-title {
