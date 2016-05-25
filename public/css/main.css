@@ -47,6 +47,7 @@ html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
+  font-weight: 300;
 }
 
 @media (min-width: 38em) {
@@ -136,10 +137,8 @@ h1 {
 p {
     margin-bottom: 1em;
     letter-spacing: .005rem;
+
 }
-
-
-
 
 
 h1, h2, h3, h4, h5, h6 {
@@ -189,6 +188,11 @@ strong {
   color: #303030;
 }
 
+/* Table of contents */
+
+.toc-title {
+	font-size: 1.2rem;
+}
 
 /* Lists */
 ul {
@@ -349,12 +353,6 @@ a#logo > img {
 	color: #D0181F;
 }
 
-.masthead-title small {
-  font-size: 1rem;
-  font-weight: 400;
-  color: #c0c0c0;
-  letter-spacing: 0;
-}
 
 h3.masthead-title {
 	font-size: 1rem;

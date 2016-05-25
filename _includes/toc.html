@@ -3,7 +3,7 @@
 <div class="toc">
 
 <!-- Introductory material -->
-<ul class="toc-introduction">
+<ul>
 
 {% assign documents = (include.issue | sort: 'order') %}  
 
@@ -12,9 +12,9 @@
 {% for document in documents %}
   {% if document.section == "introduction" %}
 
-    <li class="toc-page-title">
+    <li>
       <a href="{{ document.url | prepend:site.baseurl }}">
-        {{ document.title["long"] }}
+        <span class="toc-title">{{ document.title["long"] }}</span>
       </a><br>
     <span class="byline"> 
         {{ document.credit }}
@@ -27,7 +27,7 @@
 </ul>
 
 
-<ul class="toc-project">
+<ul>
 <h3>Digital Projects</h3>
 
 
@@ -35,9 +35,9 @@
 {% for document in documents %}
   {% if document.section == "project" %}
 
-    <li class="toc-project-title">
+    <li>
       <a href="{{ document.url | prepend:site.baseurl }}">
-        {{ document.title["long"] }}
+        <span class="toc-title">{{ document.title["long"] }}</span>
       </a><br>
     <span class="byline"> 
         {{ document.credit }}
@@ -53,15 +53,15 @@
 </div>
 
 
-<ul class="toc-article">
+<ul>
 <h3>Articles</h3>
 {% for document in documents %}
   {% if document.section == "articles" %}
 
 
-    <li class="toc-article-title">
+    <li>
       <a href="{{ document.url | prepend:site.baseurl }}">
-        {{ document.title["long"] }}
+        <span class="toc-title">{{ document.title["long"] }}</span>
       </a><br>
     <span class="byline">
     {% include author-loop.html %}
@@ -76,14 +76,14 @@
   {% endif %}
 {% endfor %}
 </ul>
-<ul class="toc-article">
+<ul>
 <h3>Reviews</h3>
 {% for document in documents %}
   {% if document.section == "reviews" %}
 
-    <li class="toc-article-title">
+    <li>
       <a href="{{ document.url | prepend:site.baseurl }}">
-        {{ document.title["long"] }}
+        <span class="toc-title">{{ document.title["long"] }}</span>
       </a><br>
     <span class="byline">
   {% include author-loop.html %}
