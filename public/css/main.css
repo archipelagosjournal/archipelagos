@@ -350,8 +350,9 @@ ul#main-nav {
     margin: 0;
     margin-left: 20px;
     padding: 0;
-    font-size: .8rem;
-	font-weight: 200;    
+    font-size: .6rem;
+	font-weight: 200;
+	text-transform: uppercase;  
 }
 
 ul#main-nav > li {
@@ -514,7 +515,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 30.1em) {
   .sidebar-toggle {
-    position: fixed;
+    position: absolute;
   }
 }
 
