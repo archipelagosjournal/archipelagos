@@ -1,0 +1,50 @@
+
+/*
+  _____________  ___  _____   
+ /   _____/\   \/  / /  _  \  
+ \_____  \  \     / /  /_\  \ 
+ /        \ /     \/    |    \
+/_______  //___/\  \____|__  /
+        \/       \_/       \/ 
+
+*/
+
+body {
+    color: #444;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 25px
+}
+
+h1 {
+    color: #D0181F;
+    font-size: 48px;
+    font-weight: 100;
+    margin: 0 0 24px
+}
+
+h2, h3, h4, h5, h6 {
+    color: #D0181F;
+    font-weight: 100;
+    margin: 0 0 24px
+}
+
+
+
+p {
+    margin-bottom: 1em
+}
+
+/* Page features */
+
+
+h1.page-title {
+	color: #D0181F;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.abstract {
+  font-size: .8rem;
+
+}
+
