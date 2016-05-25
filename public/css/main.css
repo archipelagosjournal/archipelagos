@@ -367,24 +367,19 @@ h3.masthead-title {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1rem;
-  font-size: .66rem; /* 15px */
+  font-size: .72rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
-@media (min-width: 30em) {
-  .sidebar {
-    font-size: .56rem; /* 14px */
-  }
-}
+
 
 /* Sidebar content */
 
 .sidebar {
-  background-color: #841212;
+  background-color: #202020;
 }
 
 .sidebar a {
@@ -860,7 +855,6 @@ a {
 
 h1.page-title {
 	color: #D0181F;
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .abstract {
