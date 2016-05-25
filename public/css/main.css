@@ -377,7 +377,7 @@ h3.masthead-title {
 }
 @media (min-width: 30em) {
   .sidebar {
-    font-size: .75rem; /* 14px */
+    font-size: .56rem; /* 14px */
   }
 }
 
