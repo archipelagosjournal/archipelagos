@@ -183,6 +183,8 @@ p {
   margin-bottom: 1rem;
 }
 
+
+
 strong {
   color: #303030;
 }
@@ -414,19 +416,17 @@ ul#main-nav a.active {
   font-size: .72rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
+  font-weight: 200;
+  letter-spacing: .05rem;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
 
 
-/* Sidebar content */
-
-.sidebar {
-  background-color: #202020;
-}
 
 .sidebar a {
-  font-weight: normal;
+  font-weight: 300;
+  letter-spacing: .025rem;
   color: #fff;
 }
 .sidebar-item {
