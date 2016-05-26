@@ -8,7 +8,7 @@
     <div class="sidebar-item">
     <p>{{ site.title }} | {{ site.description }}</p>
     <p class="sidebar-title">{{ page.title["long"] }}</p>
-    <p>by 
+    <p>
   {% for author in page.author %}
     {% if forloop.last == true %}
       <span class="author">{{ author.name }}</span>
@@ -21,6 +21,7 @@
 {% else %}
   <div class="sidebar-item">
     <p>{{ site.title }} | {{ site.description }}</p>
+    <p class="sidebar-title">{{ page.title }}</p>
   </div>
 {% endif %}
 
