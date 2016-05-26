@@ -269,7 +269,7 @@ blockquote p:last-child {
 img {
   display: block;
   max-width: 100%;
-  margin: 1rem 0;
+  margin: 1.4rem 0 1rem;
   border-radius: 5px;
 }
 
@@ -293,7 +293,7 @@ img {
 	height: 0; 
 	overflow: hidden; 
 	max-width: 100%; 
-	margin: 1rem 0;
+	margin: 1.4rem 0 0.33rem;
 } 
 
 .media-wrapper iframe, .media-wrapper object, .media-wrapper embed { 
@@ -308,7 +308,6 @@ img {
 
 .media-caption {
         color: #939598;
-        margin-top: -.5rem;
         font-size: .66rem;
         text-align: right;
 }
