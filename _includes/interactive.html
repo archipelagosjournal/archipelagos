@@ -1,0 +1,19 @@
+<!-- _includes/image.html -->
+<!-- _includes/interactive.html -->
+
+<!-- YouTube -->
+{% if include.type == "youtube" %}
+<div class="media-wrapper" >   
+    <iframe src="{{include.url}}" frameborder="0" allowfullscreen>
+    </iframe>
+
+</div>
+    {% if include.caption %}
+<p class="media-caption">{{include.caption}}</p>
+    {% endif %}
+
+
+{% endif %}
+
+
+

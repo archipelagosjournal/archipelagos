@@ -192,7 +192,12 @@ of print archives.
 
 ## Creating Digital Griots: The 2 Cents Movement
 
-![Audience Interaction](/images/issue01/audience-interaction-1.jpg)
+{% include image.html
+            img="issue01/audience-interaction-1.jpg"
+            title="Audience Interaction"
+            caption="Audience Interaction" %}
+
+<!-- ![Audience Interaction](/images/issue01/audience-interaction-1.jpg) -->
 
 Scrolling through the [2 Cents Movement’s Facebook
 page](https://www.facebook.com/The2CentsMovement/) reveals a vibrant
@@ -218,8 +223,7 @@ Logie](http://www.bocaslitfest.com/2015/the-spoken-word-intercol-champion-is/),
 got to pick a 2 Cents Movement poet as a mentor to work with him for a
 year to help him develop his poetry.[^24] The 2 Cents Movement has also
 collaborated with the Trinidad and Tobago Radio Network on the [Free
-Speech
-Project](https://www.youtube.com/playlist?list=PLsZJUoc_yr1ufNZGIsFg74Fl3yuZTNU9k),
+Speech Project](https://www.youtube.com/playlist?list=PLsZJUoc_yr1ufNZGIsFg74Fl3yuZTNU9k),
 for which young artists recite their poems weekly on the radio. These
 poems are also produced as videos and archived on the network’s YouTube
 channel.[^25] The majority of the movement’s activities are coordinated
@@ -241,11 +245,21 @@ Cents Movement to promote the Intercol slam competition. Photo
 live-tweets of the tour performances often focused on the students in
 the audience actively participating rather than on the poet performing.
 In these shots, the camera points at the audience, often catching only
-the performer’s back or the corner of her shoulder.[^26] 
+the performer’s back or the corner of her shoulder.[^26]
 
-![Audience interaction](/images/issue01/audience-interaction-2.jpg) 
+{% include image.html
+            img="issue01/audience-interaction-2.jpg"
+            title="Audience Interaction"
+            caption="Audience Interaction" %} 
 
-![Poet performer](/images/issue01/poet-performing-1.jpg)
+<!-- ![Audience interaction](/images/issue01/audience-interaction-2.jpg) --> 
+
+{% include image.html
+            img="issue01/poet-performing-1.jpg"
+            title="Poet performer"
+            caption="Poet performer" %} 
+
+<!-- ![Poet performer](/images/issue01/poet-performing-1.jpg) -->
 
 The online viewer gets to stare out at the auditorium filled with students, which allows her to occupy the performer’s gaze but also view a student’s face
 as a mirror, inviting her to identify with both the performer and the
@@ -253,9 +267,14 @@ audience. This elaborates on the pedagogy offered during the tour, in
 which the poets’ performances provide students with a model for their
 own poetry aspirations. Visually, Twitter and Facebook followers become
 situated in the continuum of total expression—in the reciprocal exchange
-between performer and audience. 
+between performer and audience.
 
-![Audience interaction](/images/issue01/audience-interaction-3.jpg)
+{% include image.html
+            img="issue01/audience-interaction-3.jpg"
+            title="Audience interaction"
+            caption="Audience interaction" %} 
+
+<!-- ![Audience interaction](/images/issue01/audience-interaction-3.jpg) -->
 
 High school students who attended a 2
 Cents Movement performance at their own school could then follow them on
@@ -330,7 +349,14 @@ bond between the real-life users and the mediated voices in the poems,
 the 2 Cents Movement invites users to do more than merely “like” its
 status updates and continue scrolling.
 
-[![2 Cents Project- Crystal Skeete- Maxi Man tracking School Gyal](/images/issue01/maxi-man-youtube.png)](https://www.youtube.com/embed/9OA8eLoPylU?autoplay=1)
+{% include interactive.html
+			type="youtube"
+			url="https://www.youtube.com/embed/9OA8eLoPylU"
+            img="issue01/poet-performing-1.jpg"
+            title="2 Cents Project - Crystal Skeete - Maxi Man tracking School Gyal"
+            caption="Maxi Man tracking School Gyal" %}
+
+<!-- [![2 Cents Project- Crystal Skeete- Maxi Man tracking School Gyal](/images/issue01/maxi-man-youtube.png)](https://www.youtube.com/embed/9OA8eLoPylU?autoplay=1) -->
 
 In addition to the microblogging of performances, the 2 Cents Movement’s
 video poems, like Skeete’s “Maxi Man,” demonstrate how audiovisual
@@ -353,7 +379,12 @@ their synthesis of the dramatic monologue form and the music video
 genre, Skeete and the 2 Cents Movement team cultivate a sense of
 audience connection and encourage dialogue beyond the space of the poem.
 
-![Maxi man cast](/images/issue01/maxi-man-cast.jpg)
+{% include image.html
+            img="issue01/maxi-man-cast.jpg"
+            title="Maxi man cast"
+            caption="Maxi man cast" %} 
+
+<!-- ![Maxi man cast](/images/issue01/maxi-man-cast.jpg) -->
 
 Skeete dresses in a government school uniform to play her character in
 the video. Her embodiment of the character creates a dialogic
@@ -754,6 +785,8 @@ makes.”[^64] Since these reel-to-reel tapes, cassettes, eight tracks,
 CDs, and LPs are fragile media, threatened by technological obsolescence
 and (sometimes) the tropical Caribbean climate, we must make digitizing
 this vital record of Caribbean poetry history a priority.
+
+---
 
 [^1]: Edward Kamau Brathwaite, *History of the Voice: The Development of
     Nation Language in Anglophone Caribbean Poetry* (London: New Beacon,
