@@ -6,6 +6,7 @@
 <div class="sidebar" id="sidebar">
 {% if page.layout == "article" or page.layout == "review" %}
     <div class="sidebar-item">
+    <p>{{ site.title }} | {{ site.description }}</p>
     <p>{{ page.title["long"] }}</p>
     <p>by 
   {% for author in page.author %}
@@ -19,7 +20,7 @@
   </div>
 {% else %}
   <div class="sidebar-item">
-    <p>{{ site.description }}</p>
+    <p class="sidebar-title">{{ site.title }} | {{ site.description }}</p>
   </div>
 {% endif %}
 
@@ -42,18 +43,12 @@
     {% endfor %}
 
 
-{% if page.layout == "post" %}
-
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="#"><span class="print-button">Get Article PDF</span></a>
-
-{% endif %}
-
     
   </nav>
 
 
 
-  <div class="sidebar-item">
+  <div class="sidebar-footer">
     <p>
       &copy; {{ site.time | date: '%Y' }}. Small Axe, Inc. Offered with a CC-BY 4.0 International License. Source documents can be found on our <a href="{{ site.github.repo }}">repository</a>
     </p>

@@ -70,7 +70,12 @@ and trade tariffs, surpass print books in their international
 portability, making them more accessible to Caribbean diasporic
 communities.
 
-![2 Cents Movement Poet](/images/issue01/poet-performing-2.jpg)
+{% include image.html
+            img="issue01/poet-performing-2.jpg"
+            title="2 Cents Movement Poet"
+            caption="2 Cents Movement Poet" %}
+
+<!-- ![2 Cents Movement Poet](/images/issue01/poet-performing-2.jpg) -->
 
 This essay examines one of the best examples of innovative digital
 poetry in the Caribbean: the youth-led artist collective the [2 Cents

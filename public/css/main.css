@@ -273,6 +273,19 @@ img {
   border-radius: 5px;
 }
 
+
+.image-wrapper {
+    text-align: right;
+}
+
+.image-caption {
+        color: #939598;
+        margin-top: -.66rem;
+        font-size: .66rem;
+}
+
+
+
 /* Tables */
 table {
   margin-bottom: 1rem;
@@ -344,7 +357,6 @@ a#logo > img {
 
 
 
-
 ul#main-nav {
     list-style-type: none;
     display: inline-block;
@@ -352,7 +364,7 @@ ul#main-nav {
     margin-left: 20px;
     padding: 0;
     font-size: .6rem;
-	font-weight: 200;
+	font-weight: 300;
 	text-transform: uppercase;  
 }
 
@@ -428,9 +440,15 @@ ul#main-nav a.active {
   letter-spacing: .025rem;
   color: #fff;
 }
-.sidebar-item {
+.sidebar-item, .sidebar-footer {
   padding: 1rem;
 }
+
+.sidebar-footer {
+	font-size: .6rem;
+}
+
+
 .sidebar-item p:last-child {
   margin-bottom: 0;
 }
