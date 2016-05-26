@@ -8,7 +8,7 @@ title:               "sx archipelagos"
 tagline:             ''
 description:         'a Small Axe journal of digital practice'
 url:                 http://smallaxe.net/
-baseurl:             ''
+baseurl:             '/uncledrakedancingbachata'
 
 collections:
   issue01:
