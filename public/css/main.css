@@ -433,7 +433,10 @@ ul#main-nav a.active {
           transition: all .3s ease-in-out;
 }
 
-
+.sidebar-title {
+	color: #D0181F;
+	margin-bottom: 0;
+}
 
 .sidebar a {
   font-weight: 300;
