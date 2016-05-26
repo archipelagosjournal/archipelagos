@@ -194,6 +194,13 @@ strong {
 	font-size: 1.2rem;
 	font-weight: 200;
 }
+.toc-issue {
+	margin-bottom: 1.4rem;
+}
+
+.toc-issue p {
+	line-height: .6rem ;
+}
 
 /* Lists */
 ul {

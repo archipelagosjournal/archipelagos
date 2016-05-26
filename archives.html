@@ -6,11 +6,30 @@ title: Archives
 <ul>
 
 {% for issue in site.archives %}
-    <li class="issue">
-        <a href="{{ site.baseurl }}{{ issue.url }}">
+    <li class="toc-issue">
+        <p class="toc-title"><a href="{{ site.baseurl }}{{ issue.url }}">
           {{ issue.title }}
-        </a>
-        <p class="issue-date">{{ issue.date }}</p>        
+        </a></p>
+        <p>Edited by 
+    {% for editor in issue.editor %}
+      {% if forloop.length == 1 %}
+          <span class="editor">{{ editor }}</span>
+      {% elsif forloop.length == 2 %}
+          {% if forloop.last == true %}
+            <span class="editor">and {{ editor }}</span>
+          {% else %}
+            <span class="editor">{{ editor }}</span> 
+          {% endif %}
+      {% else %}
+          {% if forloop.last == true %}
+            <span class="editor">and {{ editor }}</span>
+          {% else %}
+            <span class="editor">{{ editor }}</span>, 
+          {% endif %}
+       {% endif %}
+    {% endfor %}
+        </p>
+        <p class="issue-date">{{ issue.release }}</p>        
     </li>
 {% endfor %} 
 </ul>

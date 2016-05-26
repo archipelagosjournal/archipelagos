@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Second Issue
+release: "May 2017"
 ---
 
 {% capture homepage-content %}{% include issue02.md %}{% endcapture %}
