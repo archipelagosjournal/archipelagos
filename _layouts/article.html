@@ -10,9 +10,10 @@ layout: default
 
     </p>
   <br>
-  <h4>Abstract</h4>
-
-  <p class="abstract">{{page.abstract}}</p>
-   <br><hr><br>
+  {% if page.abstract %}  
+<h4>Abstract</h4>
+<p class="abstract">{{page.abstract}}</p>
+<br><hr><br>
+  {% endif %}
   {{ content }}
 </div>
