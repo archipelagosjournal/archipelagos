@@ -430,7 +430,7 @@ recording technologies to recover or preserve a lost history of the
 voice, we can use them to actively construct a history of the voice—to
 create a sonic reality in which new social relations can take shape.
 
-**Redesigning Internet Audio Archives for Caribbean Poetry**
+## Redesigning Internet Audio Archives for Caribbean Poetry
 
 The 2 Cents Movement’s do-it-yourself approach to digitizing poetry
 illustrates that a lot can be accomplished by adapting existing
