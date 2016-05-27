@@ -123,6 +123,8 @@ project’s development, readers will certainly have a sense of the
 magnitude and value of the site, and I look forward to following the
 project as it grows.
 
+---
+
 [^1]: *Colony in Crisis*, colonyincrisis.lib.umd.edu.
 
 [^2]: See “The Project,” *Colony in Crisis*,

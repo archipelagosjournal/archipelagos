@@ -196,6 +196,8 @@ questions that leave users with more questions than answers. This, in so
 many ways, is what good digital histories of difficult pasts ought to
 do.
 
+---
+
 [^1]: *Two Plantations*, www.twoplantations.com; Richard Dunn, *A Tale
     of Two Plantations: Slave Life and Labor in Jamaica and Virginia*
     (Cambridge, MA: Harvard University Press, 2014).
