@@ -208,6 +208,10 @@ strong {
 	line-height: .6rem ;
 }
 
+.pdf-link {
+  color: #939598;
+}
+
 /* Lists */
 ul {
 	list-style: circle;
