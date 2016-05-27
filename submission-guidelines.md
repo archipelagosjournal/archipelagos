@@ -35,7 +35,7 @@ Contact: Kaiama L. Glover and Alex Gil (archipelagos@smallaxe.net)
 Throughout the editing and production process, please watch your e-mail for any last-minute queries from *sx archipelagos* editors. Your prompt responses will help to maintain schedules.
 
 
-### File types
+### File types and formats
 
 #### Documents
 
@@ -61,11 +61,18 @@ In order to include any of these media types we ask that you send us a screensho
 
 `[![Caption - Credit](screenshot-name.jpg)](http://link.org)`
 
-### Hyperlinks and ancillary documents
+### Hyperlinks
 
 Please ensure that all external and internal links on your document are working before submission. Many websites and web pages dissapear or become displaced over time. In order to avoid link rot, we run periodic build tests to ensure the viability of our internal and external links. When links stop working after publication, we try to provide an archived version of the page from [the Internet Archive](https://archive.org/index.php), where these are available. Despite these measures, some links will be lost in the years to come. In order to minimize the impact on your article, please provide appropriate citations when the links are fundamental to the argument.
 
-When sharing external documents, do not link to Cloud storage services (e.g. Dropbox, Google docs) or closed access sources. In these cases, simply cite the documents. If you have permission to use them, you may able to submit them with your files. We also welcome links to open institutional repositories.
+
+### External Documents
+
+Please do not link to Cloud storage services (e.g. Dropbox, Google docs) or closed access sources to share documents or files. In these cases, simply cite the documents. If you have permission to use them, you may able to submit them with your files. We also welcome links to open institutional repositories.
+
+### Tables
+
+If you would like to submit a table you can do so either as a separate PDF. We would then link to the table from within the text. Alternativaly, if you would like the table to display as you read your text you can submit it either as a .csv (Comma Separated Values) file or written directly in markdown, its final format. We do not accept tables in Office format.
 
 ---
 
