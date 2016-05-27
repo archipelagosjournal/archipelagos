@@ -443,13 +443,17 @@ ul#main-nav li.active {
 }
 
 @media (max-width: 42em) {
+  ul#main-nav {
+
+    font-size: 1rem;
+    margin: 0 auto;
+  }
+
   ul#main-nav > li:not(.active) {
     display: none;
   }
-  li.active {
-    font-size: .8rem;
-    margin: 0 auto;
-  }
+
+
 }
 
 }
@@ -491,7 +495,7 @@ ul#main-nav li.active {
   visibility: hidden;
   overflow-y: auto;
   line-height: 1rem;
-  font-size: .72rem; /* 15px */
+  font-size: .7rem;
   color: rgba(255,255,255,.6);
   background-color: #202020;
   font-weight: 200;
@@ -501,8 +505,9 @@ ul#main-nav li.active {
 }
 
 .sidebar-title {
-	color: #D0181F;
+	color: #fff;
 	margin-bottom: 0;
+  font-size: .8rem;
 }
 
 .sidebar a {
