@@ -183,6 +183,12 @@ p {
   margin-bottom: 1rem;
 }
 
+@media (max-width: 42em) {
+  .content p {
+    font-size: 1rem;
+  }
+}
+
 
 strong {
   color: #303030;
@@ -396,24 +402,18 @@ a#logo > img {
 
 
 
-ul#main-nav, ul#main-nav-small {
-    list-style-type: none;
-    margin: 0;
-    margin-left: 20px;
-    padding: 0;
-    padding-right: 3rem;
-    font-size: .6rem;
+ul#main-nav {
+  list-style-type: none;
+  display: inline-block;
+  margin: 0;
+  margin-left: 20px;
+  padding: 0;
+  padding-right: 3rem;
+  font-size: .6rem;
 	font-weight: 300;
 	text-transform: uppercase;  
 }
 
-ul#main-nav {
-    display: inline-block;
-}
-
-ul#main-nav-small {
-    display: none;
-}
 
 ul#main-nav > li {
 	display: inline-block;
@@ -441,6 +441,10 @@ ul#main-nav li.active {
 @media (max-width: 42em) {
   ul#main-nav > li:not(.active) {
     display: none;
+  }
+  li.active {
+    font-size: .8rem;
+    margin: 0 auto;
   }
 }
 
