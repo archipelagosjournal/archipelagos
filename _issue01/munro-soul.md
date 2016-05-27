@@ -628,6 +628,8 @@ of black (and nonblack) production and performance constitutes already
 the pre-echo of an as-yet-unheard or -unseen, reconfigured, newly
 politicized notion of blackness (and perhaps race more broadly) to come?
 
+---
+
 [^1]: Nelson George, *The Death of Rhythm and Blues* (New York: Penguin,
     1988).
 

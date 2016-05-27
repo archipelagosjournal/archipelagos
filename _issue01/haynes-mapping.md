@@ -58,7 +58,7 @@ technological forms and practices,” visible in the ways bloggers
 challenge normative and hegemonic configurations of both feminism and
 digital technologies.[^7]
 
-**Introducing Caribbean Feminist Cyberspace**
+## Introducing Caribbean Feminist Cyberspace
 
 Nicholas Laughlin (and the bloggers who left comments on his article)
 traces key moments in Caribbean blogging, going back to at least 2000
@@ -88,70 +88,69 @@ investigations into the practices of journalists, and shut down websites
 with sexist content. Below are key signposts of the significance,
 emergence, and diversity of Caribbean cyberfeminisms:
 
-> Queen Macoomeh initiated an [online
-> petition](http://www.change.org/p/we-did-it-angostura-has-said-they-will-pull-the-ad-thank-you-all)
-> against an Angostura advertisement with the tag line “Avoid the
-> friendzone, offer her a real drink.” Angostura subsequently removed
-> the advertisement.[^9] The public protest against the advertisement,
-> especially via the online petition, was reported by international
-> media outlets such as Buzzfeed.[^10]
->
-> Malaika Brooks-Smith-Lowe of [Groundation
-> Grenada](http://groundationgrenada.com) and colleagues at the Goat
-> Dairy Project have used crowdfunding to raise US\$63,160 to support a
-> community agriculture project.[^11]
->
-> [WOMANTRA](http://womantratt.wix.com/home) won a 2013 grant from the
-> FRIDA Young Feminist Fund to organize a summer camp for girls
-> transitioning to secondary school in Trinidad and Tobago. This
-> demonstrates that communities that have their genesis online may
-> incubate others forms of political organizing and intervention.[^12]
->
-> Patrice Daniel, a twenty-nine-year-old feminist from Barbados and
-> frequent contributor to International Planned Parenthood Federation’s
-> blog, generated what I consider to be a key moment in Caribbean
-> feminist blogging history. Her “[An Open Letter to Caribbean Men, from
-> Caribbean
-> Women](http://rhrealitycheck.org/article/2013/03/12/an-open-letter-to-caribbean-men-from-caribbean-women)”
-> went viral, with over 10,000 shares on Facebook, demonstrating the
-> extent to which her words resonated not only with Caribbean women but
-> with women across the globe.[^13]
->
-> Caribbean women, many of whom identify as feminists and are active in
-> feminist and lesbian, gay, bisexual, and transgender (LGBT) organizing
-> have created online networks for “women who love women.” LGBT
-> organizations such as Guyana’s [Society Against Sexual Orientation
-> Discrimination](http://www.sasod.org.gy), Trinidad and Tobago’s
-> [Coalition Advocating for Inclusion of Sexual
-> Orientation](http://www.facebook.com/caiso), and St. Lucia’s [United
-> and Strong](http://unitedandstrongstlucia.wordpress.com) maintain a
-> significant online presence.[^14]
->
-> [*Air Me Now*](http://www.facebook.com/AirMeNow) is a [YouTube
-> show](http://www.youtube.com/playlist?list=PLLNiArTOn_azPDdIR4FvkyepgRQrb9K8Y)
-> hosted by women from Belize, the Bahamas, and Jamaica that highlights
-> “Caribbean women’s voices, Caribbean women’s issues, Caribbean <span
-> style="font-variant:small-caps;">oomanism</span>.”[^15]
->
-> Gender consciousness has also meant broader public engagement with
-> questions of gender and sexuality, like that offered by the YouTube
-> video created by a group of young Jamaican men in response to the rape
-> of five women and girls. The video, titled [*Jamaican Anti-Rape
-> Campaign (Please Share)*](http://www.youtube.com/watch?v=IS8uJ9dol5s),
-> has received almost 40,000 views.[^16]
->
-> The social media efforts of Ashlee Hinds, a twenty-three-year-old
-> Barbadian student, to create positive images of fat black women
-> resulted in a [transnational fashion
-> blog](http://www.bigbeautifulblackgirls.com) and [Facebook
-> page](http://www.facebook.com/BigBeautifulBlackGirls) titled [*Big
-> Beautiful Black Girls*](http://bigbeautifulblackgirls.tumblr.com),
-> with 217,434 followers.[^17]
+- Queen Macoomeh initiated an [online petition](http://www.change.org/p/we-did-it-angostura-has-said-they-will-pull-the-ad-thank-you-all)
+ against an Angostura advertisement with the tag line “Avoid the
+ friendzone, offer her a real drink.” Angostura subsequently removed
+ the advertisement.[^9] The public protest against the advertisement,
+ especially via the online petition, was reported by international
+ media outlets such as Buzzfeed.[^10]
+
+- Malaika Brooks-Smith-Lowe of [Groundation
+ Grenada](http://groundationgrenada.com) and colleagues at the Goat
+ Dairy Project have used crowdfunding to raise US\$63,160 to support a
+ community agriculture project.[^11]
+
+
+- [WOMANTRA](http://womantratt.wix.com/home) won a 2013 grant from the
+ FRIDA Young Feminist Fund to organize a summer camp for girls
+ transitioning to secondary school in Trinidad and Tobago. This
+ demonstrates that communities that have their genesis online may
+ incubate others forms of political organizing and intervention.[^12]
+
+- Patrice Daniel, a twenty-nine-year-old feminist from Barbados and
+ frequent contributor to International Planned Parenthood Federation’s
+ blog, generated what I consider to be a key moment in Caribbean
+ feminist blogging history. Her “[An Open Letter to Caribbean Men, from
+ Caribbean Women](http://rhrealitycheck.org/article/2013/03/12/an-open-letter-to-caribbean-men-from-caribbean-women)”
+ went viral, with over 10,000 shares on Facebook, demonstrating the
+ extent to which her words resonated not only with Caribbean women but
+ with women across the globe.[^13]
+
+- Caribbean women, many of whom identify as feminists and are active in
+ feminist and lesbian, gay, bisexual, and transgender (LGBT) organizing
+ have created online networks for “women who love women.” LGBT
+ organizations such as Guyana’s [Society Against Sexual Orientation
+ Discrimination](http://www.sasod.org.gy), Trinidad and Tobago’s
+ [Coalition Advocating for Inclusion of Sexual
+ Orientation](http://www.facebook.com/caiso), and St. Lucia’s [United
+ and Strong](http://unitedandstrongstlucia.wordpress.com) maintain a
+ significant online presence.[^14]
+
+- [*Air Me Now*](http://www.facebook.com/AirMeNow) is a [YouTube
+ show](http://www.youtube.com/playlist?list=PLLNiArTOn_azPDdIR4FvkyepgRQrb9K8Y)
+ hosted by women from Belize, the Bahamas, and Jamaica that highlights
+ “Caribbean women’s voices, Caribbean women’s issues, Caribbean <span
+ style="font-variant:small-caps;">oomanism</span>.”[^15]
+
+- Gender consciousness has also meant broader public engagement with
+ questions of gender and sexuality, like that offered by the YouTube
+ video created by a group of young Jamaican men in response to the rape
+ of five women and girls. The video, titled [*Jamaican Anti-Rape
+ Campaign (Please Share)*](http://www.youtube.com/watch?v=IS8uJ9dol5s),
+ has received almost 40,000 views.[^16]
+
+- The social media efforts of Ashlee Hinds, a twenty-three-year-old
+ Barbadian student, to create positive images of fat black women
+ resulted in a [transnational fashion
+ blog](http://www.bigbeautifulblackgirls.com) and [Facebook
+ page](http://www.facebook.com/BigBeautifulBlackGirls) titled [*Big
+ Beautiful Black Girls*](http://bigbeautifulblackgirls.tumblr.com),
+ with 217,434 followers.[^17]
 
 These are but a few examples of the significance of Caribbean
 cyberfeminist practices.
 
-**Methods**
+## Methods
 
 In 2014 I hosted a Caribbean blog carnival titled [*e-Mas: To the
 Caribbean, with
@@ -243,7 +242,7 @@ the thirty-six blogs in the sample. The categories I propose as useful
 for analyzing Caribbean feminist bloggers are, as much as possible,
 drawn from the bloggers’ own descriptions of their online practices.
 
-**Categorizing Caribbean Cyberfeminisms**
+## Categorizing Caribbean Cyberfeminisms
 
 *Personal-is-political* is used to refer to personal blogs that draw on
 personal experience to illustrate or analyze relations of power in wider
@@ -374,6 +373,8 @@ suggests a quick wit.[^31] While only five of the thirty-six blogs
 examined have been characterized as witty, it remains an important
 category for understanding feminist rhetorical strategies.
 
+---
+
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Blog Name\                                                             **Country**                      **URL**                                                                               **Categorization**
   (Blogger)**                                                                                                                                                                                     
@@ -418,7 +419,7 @@ category for understanding feminist rhetorical strategies.
                                                                            US                                                                                                                     
 
   *Feminist Conversations on Caribbean Life*                               Barbados/\                       [redforgender.wordpress.com](http://redforgender.wordpress.com)                       Feminist-academic, culture critic,
-                                                                           Caribbean                                                                                                              
+                                                                           Caribbean                                
 
   *Freedom by Any Means*\                                                  Guyana                           [freedombyanymeans.wordpress.com](http://freedombyanymeans.wordpress.com)             Media crossover, culture critic, personal-is-political
   (Sherlina Nageer)                                                                                                                                                                               
@@ -451,13 +452,13 @@ category for understanding feminist rhetorical strategies.
   *(Colin Robinson)                                                                                                                                                                               
 
   *Paula Lindo*                                                            Trinidad\                        [paulalindo.wordpress.com](http://paulalindo.wordpress.com)                           Personal-is-political
-                                                                           & Tobago                                                                                                               
+                                                                           & Tobago                                       
 
   *Petchary\                                                               Jamaica                          [petchary.wordpress.com](http://petchary.wordpress.com)                               +Feminism
   *(Emma Lewis)                                                                                                                                                                                   
 
   *Red Ants*                                                               Trinidad\                        [under-deconstruction.tumblr.com](http://under-deconstruction.tumblr.com)             Curator
-                                                                           & Tobago                                                                                                               
+                                                                           & Tobago                                                     
 
   *Repeating Islands* (Ivette Romero-Cesareo and Lisa Paravisini-Gebert)   Pan-Caribbean                    [repeatingislands.com](http://repeatingislands.com)                                   +Feminism, feminist-academic, curator
 
@@ -469,7 +470,7 @@ category for understanding feminist rhetorical strategies.
 
   *Sheroxlox\                                                              Antigua\                         No longer active at time of writing                                                   Personal-is-political, curator
   *(Amina Doherty)                                                         & Barbuda/\                                                                                                            
-                                                                           Nigeria                                                                                                                
+                                                                           Nigeria                                             
 
   *Still I Rise*                                                           St. Vincent and the Grenadines   [hairoun.blogspot.com](http://hairoun.blogspot.com)                                   Personal-is-political, +feminism
 
@@ -493,7 +494,9 @@ category for understanding feminist rhetorical strategies.
 
 Table 1: Caribbean Feminist Blogs and Bloggers
 
-**Feminist Positionality**
+---
+
+## Feminist Positionality
 
 The ways Caribbean digital griots identify online reveal a cyberfeminist
 practice that intervenes in dominant configurations of both feminism and
@@ -595,7 +598,7 @@ national or ethnic markers not merely as a part of “representing the
 nation online” but as a cyberfeminist practice that directly addresses
 geopolitical and racial hierarchies inside and outside feminisms.[^47]
 
-**Caribbean Feminist Concerns **
+## Caribbean Feminist Concerns
 
 Cyberfeminists bloggers cover a range of concerns in dialogue with
 local, regional, national, and international current affairs. They
@@ -680,7 +683,7 @@ cyberfeminist participation in local, regional, national, and global
 communities and demonstrate the subversive possibilities of digital
 public spheres.
 
-**Strategic Space, Strategic Action**
+## Strategic Space, Strategic Action
 
 While I have focused largely on individual bloggers, it is important to
 recognize that blog posts are often cocreated, open-ended, community
@@ -855,7 +858,7 @@ misogynist discourses and images by challenging mainstream media
 normalization of unequal relations of gender and sexualized images of
 women and girls.
 
-**Future Directions **
+## Future Directions
 
 Online feminist spaces are important consciousness-raising and
 pedagogical sites for Caribbean feminists. These sites, however, are
@@ -884,7 +887,9 @@ globalization, it is important for Caribbean cyberfeminism as a critical
 approach to attend to the ways digital cultures may be complicit in
 reinscribing inequalities.
 
-**Appendix**
+---
+
+## Appendix
 
 ***Blog Category:** Description (number of times used)*
 
@@ -913,6 +918,8 @@ attention (7)
 
 **Witty:** Blogs by writers for whom wit, humor, and wordplay are key
 rhetorical devices (5)
+
+---
 
 [^1]: Sean Douglas, “Mayor: Beware Dangerous Sub-cultures,” *Trinidad
     and Tobago Newsday*, 11 February 2016,
