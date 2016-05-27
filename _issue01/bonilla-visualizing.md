@@ -37,7 +37,12 @@ faced by one Caribbean society but also the larger question of what
 exactly sovereignty has meant for the region as a whole and how one
 might seek to visually represent it.
 
-![Map of the Caribbean](/images/issue01/yarimar-map.png "Figure 1. Map of the Caribbean created by Yarimar Bonilla in 2010.")
+{% include image.html
+            img="issue01/yarimar-map.png"
+            title="Map of the Caribbean"
+            caption="Figure 1. Map of the Caribbean created by Yarimar Bonilla in 2010." %}
+
+<!-- ![Map of the Caribbean](/images/issue01/yarimar-map.png "Figure 1. Map of the Caribbean created by Yarimar Bonilla in 2010.") -->
 
 
 In the years that followed, this initial cartographic impulse has led to
@@ -102,7 +107,7 @@ including the short lived West Indies Federation (1958–62).
 This history of fractured, uneven, contested, and negotiated sovereignty
 continues to shape the region as a whole, and at present the *majority*
 of societies in the Caribbean are not independent nation-states but
-rather protectorates, territories, departments, and commonwealths ([see Table 1](/assets/issue01/caribbean-sovereignty.pdf)). In addition, the Caribbean also holds a large number of
+rather protectorates, territories, departments, and commonwealths ([see table 1]({{ site.baseurl }}/assets/issue01/caribbean-sovereignty.pdf)). In addition, the Caribbean also holds a large number of
 nonsovereign enclaves: military bases, privately owned islands,
 semiautonomous tourist resorts, free-trade zones, tax havens, wildlife
 preserves, satellite launching stations, detention centers, penal
@@ -238,7 +243,7 @@ and everyday life. While his interlocutors often limit this discussion
 to the novel and the word, we take the insistence on vision as a point
 of departure: a prophetic cartography of the postcolonial Caribbean.
 
-**Cartographies for the Digital Age**
+## Cartographies for the Digital Age
 
 Until now most cartographic representations of the Caribbean have failed
 to reveal the complexity of the region’s political topography and how it
@@ -261,7 +266,14 @@ see detailed information on how individual cessions were disputed and
 challenged, thus offering both a sense of the larger process and
 textured detail of its constitutive events.
 
-[![Invasion of America](/images/issue01/invasion-of-america.png)](https://www.youtube.com/embed/pJxrTzfG2bo?autoplay=1)
+{% include interactive.html
+			type="youtube"
+			url="https://www.youtube.com/embed/pJxrTzfG2bo"
+            img="issue01/invasion-of-america.png"
+            title="Invasion of America"
+            caption="Invasion of America" %}
+
+<!-- [![Invasion of America](/images/issue01/invasion-of-america.png)](https://www.youtube.com/embed/pJxrTzfG2bo?autoplay=1) -->
 
 
 Vincent Brown and his team have developed a similarly rich visual argument in his
@@ -274,7 +286,14 @@ able to reveal a spatial logic to slave resistance that was obscured in
 colonial accounts, suggesting a greater degree of strategic organization
 among insurgents than previously imagined.[^19]
 
-[![Slave Revolt in Jamaica, 1760–1761: A Cartographic Narrative](/images/issue01/brown-revolt.png "Slave Revolt in Jamaica, 1760–1761: A Cartographic Narrative")](http://revolt.axismaps.com)
+{% include image.html
+            img="issue01/brown-revolt.png"
+            url="http://revolt.axismaps.com/map/"
+            title="Slave Revolt in Jamaica, 1760–1761: A Cartographic Narrative"
+            caption="Slave Revolt in Jamaica, 1760–1761: A Cartographic Narrative" %}
+
+
+<!-- [![Slave Revolt in Jamaica, 1760–1761: A Cartographic Narrative](/images/issue01/brown-revolt.png "Slave Revolt in Jamaica, 1760–1761: A Cartographic Narrative")](http://revolt.axismaps.com) -->
 
 Brown argues that if we are to take seriously the opportunities afforded
 by digital forms of scholarship, we must remain attentive to how
@@ -299,7 +318,7 @@ new questions about the most appropriate representational strategies for
 the material in question and can generate new questions by uncovering
 patterns and revealing challenges that were previously unperceived.
 
-**Mapping the Postcolonial Caribbean**
+## Mapping the Postcolonial Caribbean
 
 Our own efforts at mapping the Caribbean political landscape have
 yielded similar insights. After her initial experiment attempting to
@@ -310,7 +329,12 @@ goal was to visually depict the large number of Caribbean societies
 (listed in table 1) that were not independent nation-states and to use
 color to portray the diversity of political forms in the region.
 
-![Map created by Landon Yarrington in 2011.](/images/issue01/landon-map.jpg "Figure 2. Map created by Landon Yarrington in 2011.")
+{% include image.html
+            img="issue01/landon-map.jpg"            
+            title="Map created by Landon Yarrington in 2011."
+            caption="Figure 2. Map created by Landon Yarrington in 2011." %}
+
+<!-- ![Map created by Landon Yarrington in 2011.](/images/issue01/landon-map.jpg "Figure 2. Map created by Landon Yarrington in 2011.") -->
 
 
 The creation of this map quickly revealed some of the challenges of
@@ -337,7 +361,12 @@ those South American societies most commonly imagined as part of the
 Caribbean (Belize, Guyana, Suriname, and Guiana). Once again, we used
 color to visually demarcate political jurisdictions.
 
-![Figure 3. Map created by Jeff Blossom and Yarimar Bonilla in 2015.](/images/issue01/blossom-map.png "Figure 3. Map created by Jeff Blossom and Yarimar Bonilla in 2015.")
+{% include image.html
+            img="issue01/blossom-map.png"            
+            title="Map created by Jeff Blossom and Yarimar Bonilla in 2015."
+            caption="Figure 3. Map created by Jeff Blossom and Yarimar Bonilla in 2015." %}
+
+<!-- ![Figure 3. Map created by Jeff Blossom and Yarimar Bonilla in 2015.](/images/issue01/blossom-map.png "Figure 3. Map created by Jeff Blossom and Yarimar Bonilla in 2015.") -->
 
 
 Although we played with size and scale, the map retains a sense of
@@ -367,6 +396,11 @@ features Caribbean societies ordered by the year in which they shifted
 away from a colonial status—either by becoming independent or by
 entering into a “postcolonial” arrangement with their colonial
 centers.[^24]
+
+{% include image.html
+            img="issue01/temporal-map.png"            
+            title="Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015."
+            caption="Figure 4. Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015." %}
 
 ![Figure 4. Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015.](/images/issue01/temporal-map.png "Figure 4. Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015.")
 
@@ -594,7 +628,7 @@ In the haunting overlay of 1804 and 2004, it becomes clear that the
 political plotting of time slips away from the control of linear
 narrative and historical mastery.
 
-**Toward a Prophetic Cartography**
+## Toward a Prophetic Cartography
 
 Despite our best efforts to create complex representations of the
 political landscape in the Caribbean, we repeatedly ran up against the
@@ -673,7 +707,7 @@ nation-state sovereignty, these new visions might help us become more
 attuned to alternative political forms that are not currently visible or
 fully imaginable.
 
-**Acknowledgements **
+## Acknowledgements
 
 Support for this project was provided by the National Science
 Foundation, the Rutgers School of Arts and Sciences, Rutgers Department
@@ -691,6 +725,8 @@ in American History at Harvard University, the participants in the
 Rutgers Advanced Institute for Critical Caribbean Studies seminar at
 Rutgers University, and the comrades of the Digital Black Atlantic
 Project working group at Columbia University.
+
+---
 
 [^1]: See Robert Jackson, *Sovereignty: The Evolution of an Idea*
     (Cambridge: Polity, 2007).
