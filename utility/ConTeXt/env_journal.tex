@@ -1,0 +1,234 @@
+\startenvironment env_journal
+\enableregime[utf]  
+\setupcolors[state=start]
+\setupreferencing[autofile=yes]
+\setupinteraction[state=start, color=black, contrastcolor=black, style={\tf}]
+
+\definefontfeature
+  [default]
+  [default]
+  [protrusion=quality,expansion=quality]
+
+%\definefontfamily [roboto][sans][Roboto]
+
+\usemodule[simplefonts]
+\setmainfont[xits][expansion=quality,protrusion=quality]
+\setupbodyfont[xits, 11pt]
+
+
+\newdimen\Margin
+\Margin=3cm
+
+\newdimen\MarginRaise
+\MarginRaise=56ex
+
+\usemodule[database]
+% Enable hyperlinks
+
+\setuppapersize [width=190.5mm, height=228.6 mm][width=190.5mm, height=228.6 mm]
+\setuplayout    [width=middle,  backspace=30.1625mm, cutspace=30.1625mm, %backspace=38.1 mm, cutspace=22.225 mm,
+                 height=middle, topspace=19.05 mm, bottomspace=19.05 mm,
+                 topdistance=8.819mm, marking=on]
+
+
+
+
+\setupwhitespace[none]
+
+\define[2]\MyChapterCommand%
+  {\vbox{%]
+\setupinterlinespace[line=21pt]%  
+%\setmainfont[Latin Modern Sans Quotation,14pt]%
+\switchtobodyfont[14pt]
+\bf
+\setupalign[flushleft, verytolerant]{%
+\blank[40mm]#2%
+}}}
+
+
+\setuphead[section]      [style=\tfc]
+\setuphead[subsection]   [style=\tfb]
+\setuphead[subsubsection][style=\bf]
+
+\setuphead[chapter, section, subsection, subsubsection][incrementnumber=yes,number=no,align={flushleft, verytolerant}, alternative=inmargin]
+\setuphead[chapter]      [header=empty, command=\MyChapterCommand]
+
+\enabletrackers[graphics.locating]
+
+\definedescription
+  [description]
+  [headstyle=bold, style=normal, location=hanging, width=broad, margin=1cm]
+
+\setupitemize[autointro]    % prevent orphan list intro
+\setupitemize[indentnext=no]
+
+\setupfloat[figure][default={here,number}]
+\setupfloat[table][default={here,number}]
+
+\setupthinrules[width=15em] % width of horizontal rules
+
+\setupdelimitedtext
+  [blockquote]
+  [before={\blank[medium]},
+   after={\blank[medium]\setupalign[hz, hanging]},
+   indentnext=no,
+  ]
+
+\setupindenting[yes, 6.35mm]
+\setupindenting[first]
+
+\def\hangover{\hangafter=1\hangindent=0.5in}
+
+\definestartstop [workscited] [
+  before={%
+   \indenting[never]
+   \bgroup\appendtoks\hangover\to\everypar
+  },
+  after={\egroup
+    \indenting[yes]},
+]
+
+\setupexternalfigures[directory={images}, maxwidth=\textwidth, maxheight=.9\textheight, scale=3000]
+
+\setupcaption[table][location=top]
+\setupcaptions[style={\tfx}, width=.9\textwidth,align=middle]
+
+% ToC
+% level=4, \subsubsubsections are not listed in ToC
+% alternative=c, space to the page number is filled with dots
+\setupcombinedlist[content][list={chapter,section,subsection,subject}]
+
+%\setuplist[chapter][width=5mm, style=bold]
+\setuplist[section][margin=10mm]
+\setuplist[subsection][margin=20mm]
+
+\setuphead[chapter][prefix=+]
+%\setuphead[chapter][referenceprefix=+]
+
+\definecolor[highlight][yellow]
+\defineframed
+    [important]
+    [location=low, frame=off, background=color, backgroundcolor=highlight]
+
+
+
+\setupfootnotes[style={\setupalign[hanging,hz]}]
+
+\startsetups[footnote:interlinespace]
+  \setupinterlinespace[small]
+  \setupalign[hanging, hz]
+\stopsetups
+
+
+\setuptolerance   [{verytolerant, stretch}]
+
+
+\sethyphenatedurlafter{/}
+\sethyphenatedurlafter{?}
+\sethyphenatedurlafter{-}
+
+
+\defineseparatedlist[CSV]
+  [separator={,},
+   quotechar={"},
+   left=\bTD,right=\eTD,
+   first=\bTR,last=\eTR,
+   before=\bTABLE,after=\eTABLE]
+
+\defineseparatedlist[SplitCSVbody]
+  [separator={,},
+   quotechar={"},
+   left=\bTC,right=\eTC,
+   first=\bTR,last=\eTR,
+   before=\bTABLEbody,after=\eTABLEbody]   
+
+\defineseparatedlist[SplitCSVbodylines]
+  [separator={,},
+   quotechar={"},
+   left=\bTC,right=\eTC,
+   first=\bTR,last=\eTR
+   before={}, after={}]   
+
+\defineseparatedlist[SplitCSVhead]
+  [separator={,},
+   quotechar={"},
+   left=\bTH,right=\eTH,
+   first=\bTR,last=\eTR,
+   before=\bTABLEhead,after=\eTABLEhead]     
+
+\setupTABLE[c][each][align=flushleft,style={\tfx}]
+\setupTABLE[r][1][background=color,backgroundcolor=gray,style={\tf}]
+\setupTABLE[align=middle]
+\setuppagenumbering[alternative=singlesided, location={header, margin}, style={\setupbodyfont[9pt]}]
+
+\setupheadertexts[]
+\setupheader[text][state=normal, style={\setupbodyfont[9pt]}]
+
+\setupheadertexts[\setups{text b}][\setups{text a}][\setups{text a}][\setups{text b}]
+
+\startsetups[text a]
+  sx archipelagos Issue ({\bf\getvariable{article}{issue}}{\bf)}~[~\getvariable{article}{date}~]
+\stopsetups
+
+\startsetups[text b]
+  \[~\getvariable{article}{shortauthor}~\]~\getmarking[chapter]
+\stopsetups
+
+%\showframe
+
+
+\definelayer[firstfooter][repeat=no, state=start,x=30.1625mm,y=272.6mm]%x=28.1mm,y=4.233mm,
+\setupbackgrounds[page][background=firstfooter, state=start]
+
+\setlayer[firstfooter]{% ,x=38.1mm, y=209.55mm
+\switchtobodyfont[6pt]
+sx~archipelagos~\bullet~\getvariable{article}{date}~\bullet~DOI~\getvariable{article}{DOI}~\bullet~CC-BY 4.0 International~Small~Axe, Inc.\hfill
+}
+
+\definehspace[1][5 mm]
+\definehspace[2][1 cm]
+\definehspace[3][1.5 cm]
+\definehspace[4][2 cm]
+\definehspace[5][2.5 cm]
+\definehspace[6][3 cm]
+\definehspace[7][3.5 cm]
+\definehspace[8][4 cm]
+\definehspace[9][4.5 cm]
+
+\setupitemize[distance=5mm]
+
+
+\setupalign[hz,hanging]
+\setupinterlinespace[line=14pt]
+
+
+
+\unprotect
+%\def\hyphenatedurlseparator{↩}
+\def\citet{\dosingleempty\doCiteT}
+\def\doCiteT[#1]#2{%
+  \iffirstargument
+    \cite[alternative=authoryear,extras={, #1}][#2]%
+  \else
+    \cite[alternative=authoryear][#2]%
+  \fi
+}
+
+\def\citep{\dosingleempty\doCiteP}
+\def\doCiteP[#1]#2{%
+  \iffirstargument
+    \cite[alternative=authoryears,extras={, #1}][#2]%
+  \else
+    \cite[alternative=authoryears][#2]%
+  \fi
+}
+
+\define[1]\citeyear{\cite[alternative=year,left={},right={}][#1]}
+\define[1]\citeauthor{\cite[alternative=author,left={},right={}][#1]}
+\protect
+
+\definebtxdataset
+[document]
+
+\stopenvironment
+

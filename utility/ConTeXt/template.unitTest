@@ -1,0 +1,43 @@
+\setvariables[article][shortauthor={$for(author)$$author.shortname$$sep$, $endfor$}, date={$date$}, issue={$issue$}, DOI={$if(doi)$$doi$$else$Upcoming$endif$}]
+
+\setupinteraction[title={$title.long$},author={$for(author)$$author.name$$sep$, $endfor$}, date={$date$}, subtitle={$title.short$}]
+\environment env_journal
+
+$if(font)$
+\setmainfont[$font$][expansion=quality,protrusion=quality]
+$endif$
+
+\starttext
+
+
+\startchapter[title={$title.long$}, marking={$title.short$}]
+$if(font)$
+{\tfd font: $font$}
+$endif$
+
+
+\startlines
+{\bf
+$for(author)$
+$author.name$
+$endfor$
+}
+\stoplines
+
+$if(abstract)$
+
+{\startnarrower\it $abstract$ \stopnarrower}
+
+\blank[2*line]
+\blackrule[width=\textwidth,height=.01pt]
+\blank[2*line]
+$endif$
+
+$body$
+
+$for(include-after)$
+$include-after$
+
+$endfor$
+\stopchapter
+\stoptext
