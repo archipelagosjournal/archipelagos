@@ -375,45 +375,48 @@ category for understanding feminist rhetorical strategies.
 
 ### Table 1: Caribbean Feminist Blogs and Bloggers
 
-|---
-| Blog Name | Blogger | Country | Categorization 
-|-|-|-|-
-| [1981: A Record of What Happened](http://amedjafifa.wordpress.com) | Some of It/DJ Afifa Aza | Jamaica | Personal-is-political, culture critic
-| [Active Voice](http://anniepaul.net) | Annie Paul | Jamaica | +Feminism, culture critic, witty  
-| [Add Fyah and Stir](http://addfyahandstir.wordpress.com) | | Antigua & Barbuda/St. Kitts–Nevis/T&T | Personal-is-political
-| [Amílcar Sanatan](http://www.amilcarsanatan.com/blog) | | Trinidad & Tobago | +Feminism
-| [Antillean Media Group](http://www.antillean.org) | | Caribbean | +Feminism  
-| [The Bad Dominicana](http://bad-dominicana.tumblr.com) | Zahira Kelly/Bad Dominicana | Dominican Republic | curator
-| [BattyMamzelle](http://battymamzelle.blogspot.com) | Cate Young/BattyMamzelle | Trinidad & Tobago/US | Culture critic, personal-is-political
-| [The Contessa Wears No Shoes](http://thecontessawearsnoshoes.blogspot.com) | | Trinidad & Tobago | Personal-is-political
-| [Creative Commess](http://soyluv.wordpress.com) | Soyini Ayanna | Trinidad & Tobago/US | Culture critic, personal-is-political
-| [Diary of a Mothering Worker](http://grrlscene.wordpress.com) | Gabrielle Hosein | Trinidad & Tobago| Feminist-academic, media crossover, personal-is-political, culture critic
-| [Feminist Aliens](http://www.feministaliens.com) | | Barbados/South Africa/US  | Culture critic, feminist-academic, curator, personal-is-political
-| [Feminist Conversations on Caribbean Life](http://redforgender.wordpress.com) | | Barbados/Caribbean | Feminist-academic, culture critic
-| [Freedom by Any Means](http://freedombyanymeans.wordpress.com) | Sherlina Nageer | Guyana | Media crossover, culture critic, personal-is-political
-| [Generación Y](http://generacionyen.wordpress.com)  | Yoani Sánchez | Cuba | +Feminism, personal-is-political, culture critic, media crossover
-| [Groundation Grenada](http://groundationgrenada.com) | | Grenada  | +Feminism, culture critic
-| [Guyana Gyal](http://sapodilla.blogspot.com) | Neena Maiya | Guyana | Personal-is-political
-| [The Guyanese Experience](http://sarabharrat.wordpress.com) | Sara Bharrat | Guyana | Culture critic, personal is political, +Feminism
-| [Jamaica Woman Tongue](http://carolynjoycooper.wordpress.com) | Carolyn Cooper | Jamaica | Feminist-academic, media crossover, culture critic, witty
-| [The Mongoose Chronicles](http://mongoosechronicles.blogspot.com) | Mar/Mar the Mongoose  | Barbados | Culture critic, witty
-| [MooreTalkJa](http://mooretalkja.wordpress.com) | Carla Moore | Jamaica| Media crossover, personal-is-political, witty, culture critic, feminist-academic
-| [Negra Cubana tenia que ser](http://negracubanateniaqueser.wordpress.com) | Sandra Abd’Allah-Alvarez Ramírez/Negra Cubana | Cuba | Feminist-academic, culture critic
-| [One Nation...Many Bodies...Boundless Faith](http://onenationmanybodies.wordpress.com)  | Colin Robinson | Trinidad & Tobago| Media crossover, LGBT , +Feminism
-| [Paula Lindo](http://paulalindo.wordpress.com) | | Trinidad & Tobago| Personal-is-political
-| [Petchary](http://petchary.wordpress.com) | Emma Lewis | Jamaica| +Feminism
-| [Red Ants](http://under-deconstruction.tumblr.com) | | Trinidad & Tobago| Curator
-| [Repeating Islands](http://repeatingislands.com) | Ivette Romero-Cesareo and Lisa Paravisini-Gebert | Pan-Caribbean | +Feminism, feminist-academic, curator
-| [Rewind and Come Again](http://rewindandcomeagain.com) | | US/Guyana | +Feminism
-| [Roots and Rights](http://rootsandrights.wordpress.com) | Roberta Clarke | Caribbean | Personal-is-political, culture critic
-| Sheroxlox | Amina Doherty | Antigua & Barbuda/Nigeria | Personal-is-political, curator
-| [Still I Rise](http://hairoun.blogspot.com) | | St. Vincent & the Grenadines | Personal-is-political, +Feminism
-| [Thoughts of a Minibus Traveller](http://churchroadman.blogspot.com) | Vidyaratha Kissoon | Guyana | Personal-is-political
-| [TillahWillah](http://tillahwillah.wordpress.com)    | Atillah Springer | Trinidad & Tobago | +Feminism, culture critic, media crossover
-| [Under the Satire Flag](http://underthesaltireflag.com) | Kei Miller | Jamaica| Culture critic, +feminism, witty
-| [Womanish Words](http://womanishwords.blogspot.com) | | The Bahamas | Poetry blog, personal-is-political
-| [Women Speak](http://womenspeak.tumblr.com) | WomenSpeak Project | Trinidad & Tobago | Curator
-| [Writing “D”](http://debraprovidence.wordpress.com) | Debra Providence | St. Vincent and the Grenadines| +Feminism, poetry blog
+
+Blog Name | Blogger | Country | Categorization 
+---------------------------- | ------------------- | ------------------------ | -----------------------------------
+[1981: A Record of What Happened](http://amedjafifa.wordpress.com)| Some of It/DJ Afifa Aza | Jamaica | Personal-is-political, culture critic
+[Active Voice](http://anniepaul.net) | Annie Paul | Jamaica | +Feminism, culture critic, witty 
+[Add Fyah and Stir](http://addfyahandstir.wordpress.com) | | Antigua & Barbuda/St. Kitts–Nevis/T&T | Personal-is-political
+[Amílcar Sanatan](http://www.amilcarsanatan.com/blog) | | Trinidad & Tobago | +Feminism
+[Antillean Media Group](http://www.antillean.org) | | Caribbean | +Feminism 
+[The Bad Dominicana](http://bad-dominicana.tumblr.com) | Zahira Kelly/Bad Dominicana | Dominican Republic | curator
+[BattyMamzelle](http://battymamzelle.blogspot.com) | Cate Young/BattyMamzelle | Trinidad & Tobago/US | Culture critic, personal-is-political
+[The Contessa Wears No Shoes](http://thecontessawearsnoshoes.blogspot.com) | | Trinidad & Tobago | Personal-is-political
+[Creative Commess](http://soyluv.wordpress.com) | Soyini Ayanna | Trinidad & Tobago/US | Culture critic, personal-is-political
+[Diary of a Mothering Worker](http://grrlscene.wordpress.com)| Gabrielle Hosein | Trinidad & Tobago| Feminist-academic, media crossover, personal-is-political, lture critic
+[Feminist Aliens](http://www.feministaliens.com) | | Barbados/South Africa/US | Culture critic, feminist-academic, curator, personal-is-political
+[Feminist Conversations on Caribbean Life](http://redforgender.wordpress.com) | | Barbados/Caribbean | Feminist-academic, culture critic
+[Freedom by Any Means](http://freedombyanymeans.wordpress.com) | Sherlina Nageer | Guyana | Media crossover, culture critic, personal-is-political
+[Generación Y](http://generacionyen.wordpress.com) | Yoani Sánchez | Cuba | +Feminism, personal-is-political, culture critic, media crossover
+[Groundation Grenada](http://groundationgrenada.com) | | Grenada | +Feminism, culture critic
+[Guyana Gyal](http://sapodilla.blogspot.com) | Neena Maiya | Guyana | Personal-is-political
+[The Guyanese Experience](http://sarabharrat.wordpress.com) | Sara Bharrat | Guyana | Culture critic, personal is political, +Feminism
+[Jamaica Woman Tongue](http://carolynjoycooper.wordpress.com) | Carolyn Cooper | Jamaica | Feminist-academic, media crossover, culture critic, witty
+[The Mongoose Chronicles](http://mongoosechronicles.blogspot.com) | Mar/Mar the Mongoose | Barbados | Culture critic, witty
+
+Blog Name | Blogger | Country | Categorization 
+---------------------------- | ------------------- | ------------------------ | -----------------------------------
+[MooreTalkJa](http://mooretalkja.wordpress.com) | Carla Moore | Jamaica| Media crossover, personal-is-political, witty, culture critic, feminist-academic
+[Negra Cubana tenia que ser](http://negracubanateniaqueser.wordpress.com) | Sandra Abd’Allah-Alvarez Ramírez/Negra Cubana | Cuba | Feminist-academic, culture critic
+[One Nation...Many Bodies...Boundless Faith](http://onenationmanybodies.wordpress.com) | Colin Robinson | Trinidad & Tobago| Media crossover, LGBT , +Feminism
+[Paula Lindo](http://paulalindo.wordpress.com) | | Trinidad & Tobago| Personal-is-political
+[Petchary](http://petchary.wordpress.com) | Emma Lewis | Jamaica| +Feminism
+[Red Ants](http://under-deconstruction.tumblr.com) | | Trinidad & Tobago| Curator
+[Repeating Islands](http://repeatingislands.com) | Ivette Romero-Cesareo and Lisa Paravisini-Gebert | Pan-Caribbean | +Feminism, feminist-academic, curator
+[Rewind and Come Again](http://rewindandcomeagain.com) | | US/Guyana | +Feminism
+[Roots and Rights](http://rootsandrights.wordpress.com) | Roberta Clarke | Caribbean | Personal-is-political, culture critic
+Sheroxlox | Amina Doherty | Antigua & Barbuda/Nigeria | Personal-is-political, curator
+[Still I Rise](http://hairoun.blogspot.com) | | St. Vincent & the Grenadines | Personal-is-political, +Feminism
+[Thoughts of a Minibus Traveller](http://churchroadman.blogspot.com) | Vidyaratha Kissoon | Guyana | Personal-is-political
+[TillahWillah](http://tillahwillah.wordpress.com) | Atillah Springer | Trinidad & Tobago | +Feminism, culture critic, media crossover
+[Under the Satire Flag](http://underthesaltireflag.com) | Kei Miller | Jamaica| Culture critic, +feminism, witty
+[Womanish Words](http://womanishwords.blogspot.com) | | The Bahamas | Poetry blog, personal-is-political
+[Women Speak](http://womenspeak.tumblr.com) | WomenSpeak Project | Trinidad & Tobago | Curator
+[Writing “D”](http://debraprovidence.wordpress.com) | Debra Providence | St. Vincent and the Grenadines| +Feminism, poetry blog
 
 
 ## Feminist Positionality

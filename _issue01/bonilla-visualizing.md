@@ -54,7 +54,7 @@ analytical importance and predominance of nonindependent societies while
 also rethinking how sovereignty itself can be imagined, conceptualized,
 theorized, and visualized beyond the constraints of Western cartography.
 
-**The Map and the Territory**
+## The Map and the Territory
 
 Classic political theory has traditionally represented sovereignty as
 supreme, absolute, territorially confined, and vertically rooted in the
@@ -401,8 +401,6 @@ centers.[^24]
             img="issue01/temporal-map.png"            
             title="Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015."
             caption="Figure 4. Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015." %}
-
-![Figure 4. Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015.](/images/issue01/temporal-map.png "Figure 4. Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015.")
 
 
 Organizationally, the temporal map poses several alternatives to a
