@@ -3,7 +3,7 @@ layout: article
 section: articles
 title: 
   "long": "Visualizing Sovereignty: Cartographic Queries for the Digital Age"
-  "short": Visualizing Sovereignty
+  "short": "Visualizing Sovereignty"
 author: 
 - name: Yarimar Bonilla
   shortname: Bonilla
@@ -54,7 +54,7 @@ analytical importance and predominance of nonindependent societies while
 also rethinking how sovereignty itself can be imagined, conceptualized,
 theorized, and visualized beyond the constraints of Western cartography.
 
-**The Map and the Territory**
+## The Map and the Territory
 
 Classic political theory has traditionally represented sovereignty as
 supreme, absolute, territorially confined, and vertically rooted in the
