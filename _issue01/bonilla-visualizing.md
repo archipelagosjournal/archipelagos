@@ -402,8 +402,6 @@ centers.[^24]
             title="Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015."
             caption="Figure 4. Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015." %}
 
-![Figure 4. Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015.](/images/issue01/temporal-map.png "Figure 4. Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015.")
-
 
 Organizationally, the temporal map poses several alternatives to a
 traditional map. First, by playing with color and scale, we disrupt the

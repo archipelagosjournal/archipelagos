@@ -1,0 +1,8 @@
+/\\\{\\letterpercent\{\} include image.html .*/{
+	N
+	s#\\\{\\letterpercent\{\} include image.html img=\\quotation\{issue[0-9]+/([^}]*)\}( url=\\quotation\{[^}]+\})?(\n\\strut)? title=\\quotation\{([^}]*)\} caption=.*$#\\placefigure{\4}{\\externalfigure[images/\1]}#
+}
+/\\\{\\letterpercent\{\} include interactive.html .*/{
+	N
+	s#\\\{\\letterpercent\{\} include interactive.html type=\\quotation\{youtube\} url=\\quotation\{([^}]+*)\} img=\\quotation\{issue[0-9]+/([^}]+*)\} title=\\quotation\{([^}]+*)\} .*$#\\placefigure{\3 -- Video url: \1}{\\externalfigure[images/\2]}#
+}

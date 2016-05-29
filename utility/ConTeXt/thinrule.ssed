@@ -1,0 +1,6 @@
+/\\thinrule/{
+	N
+	N
+	s#\\thinrule\n\n\\stopchapter#\\stopchapter#	
+}
+s#\\externalfigure\[/#\\externalfigure[#
