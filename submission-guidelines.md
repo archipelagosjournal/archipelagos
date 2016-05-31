@@ -4,7 +4,7 @@ title: for authors
 ---
 
 
-*sx archipelagos: a small axe platform for digital scholarship* publishes scholarly articles, digital projects, and digital project reviews related to the Caribbean. We publish one issue per year and accept submissions on a rolling basis.
+*sx archipelagos*, a small axe journal of digital practice, publishes scholarly articles, digital projects, and digital project reviews related to the Caribbean. We publish one issue per year and accept submissions on a rolling basis.
 
 Contact: Kaiama L. Glover and Alex Gil (archipelagos@smallaxe.net)
 
