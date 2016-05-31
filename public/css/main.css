@@ -435,7 +435,7 @@ ul#main-nav, ul#main-nav-small {
 }
 
 ul#main-nav {
-    margin-left: 20px;
+    margin-left: 10px;
 }
 
 ul#main-nav-small {
@@ -446,7 +446,7 @@ ul#main-nav-small {
 
 ul#main-nav > li {
 	display: inline-block;
-	margin: 0px 8px;
+	margin: 0px 6px;
 }
 
 ul#main-nav-small > li {
@@ -472,13 +472,8 @@ ul#main-nav-small li.active a {
   color: #D0181F; 
 }
 
-@media (max-width: 48em) {
-  .masthead-title {
-    text-align: center;
-  }
-}
 
-@media (max-width: 42em) {
+@media (max-width: 46em) {
   ul#main-nav {
 
     font-size: 1rem;

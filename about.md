@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about us
+title: about
 ---
 
 The transformation of the academy by the digital dispensation presents
