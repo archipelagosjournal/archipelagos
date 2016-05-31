@@ -38,7 +38,7 @@ exactly sovereignty has meant for the region as a whole and how one
 might seek to visually represent it.
 
 {% include image.html
-            img="issue01/yarimar-map.png"
+            img="issue01/yarimar-map.jpg"
             title="Map of the Caribbean"
             caption="Figure 1. Map of the Caribbean created by Yarimar Bonilla in 2010." %}
 
