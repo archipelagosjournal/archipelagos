@@ -15,7 +15,7 @@ collections:
     output: true
     number: 1
     date: "Summer 2016"
-    title: "Inaugural Issue"
+    title: "Issue (1)"
     editors:
     - Kaiama Glover
     - Alex Gil
@@ -28,7 +28,7 @@ collections:
     output: true
     number: 2
     date: "Summer 2017"
-    title: "Second Issue"
+    title: "Issue (2)"
     editors:
     - Kaiama Glover
     - Alex Gil
