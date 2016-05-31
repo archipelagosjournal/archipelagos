@@ -11,7 +11,9 @@ editor:
 
 ---
 
-{% capture homepage-content %}{% include issue01.md %}{% endcapture %}
-{{ homepage-content | markdownify }}
+<h1 class="journal-title">{{ site.title }}</h1>
+<h2 class="tagline">a small axe journal of digital practice</h2>
+
+## Issue (1)
 
 {% include toc.html issue=site.issue01 %}
