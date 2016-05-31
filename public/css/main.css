@@ -404,6 +404,23 @@ a#logo > img {
   box-shadow: 0 0 2px #000;
 }
 
+div#journal {
+  display: inline-block;
+  margin-left: 2%;
+  margin-bottom: -0.33rem;
+  line-height: 0.8rem;
+}
+
+span#journal-title {
+  font-weight: 100;
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+}
+
+span#tagline {
+  font-size: 0.5rem;
+  color: #939598;
+}
 
 
 ul#main-nav {
@@ -411,9 +428,9 @@ ul#main-nav {
   display: inline-block;
   margin: 0;
   margin-left: 20px;
-  margin-top: 20px;
+  margin-top: 18px;
   padding: 0;
-  padding-right: 3rem;
+  padding-right: 1rem;
   font-size: .6rem;
 	font-weight: 300;
 	text-transform: uppercase;
@@ -474,8 +491,11 @@ span#main-nav-small {
 }
 
 .page-title {
-  color: #404040;
+  color: #939598;
   margin-top: 0;
+  margin-bottom: .2rem;
+  font-weight: 100;
+  letter-spacing: .1rem;
 }
 
 
