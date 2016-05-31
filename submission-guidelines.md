@@ -1,6 +1,6 @@
 ---
 layout: page
-title: For Authors
+title: for authors
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: For Reviewers
+title: for reviewers
 ---
 
 At *sx archipelagos* we are working to build a community of reviewers and contributors so to sustain and enrich our collective Caribbeanist scholarship. If you would like to join our team of reviewers—to help us review articles and digital projects—please contact us at archipelagos@smallaxe.net.

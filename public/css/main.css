@@ -156,12 +156,20 @@ h1 {
 
 }
 
-h1#welcome-to-sx-archipelagos {
-  color: #939598;
+h1.journal-title {
+  color: #D0181F;
   margin-top: 0;
+  font-weight: 300;
+  text-transform: lowercase;
+  margin-bottom: .5rem;
+}
+
+h2.tagline {
+  color: #939598;
   font-weight: 100;
-  letter-spacing: .1rem;
-  text-transform: uppercase;
+  font-size: 3rem;
+  line-height: 2.6rem;
+  margin-bottom: 3rem;
 }
 
 h1.post-title {
@@ -408,71 +416,60 @@ a#logo > img {
   margin-bottom: 3rem;
   text-align: left;
   padding-top: .8rem;
-  padding-bottom: .8rem;
-  border-bottom: 1px solid #eee;
-  box-shadow: 0 0 2px #000;
-}
-
-div#journal {
-  display: inline-block;
-  margin-left: 2%;
-  margin-bottom: -0.33rem;
-  line-height: 0.8rem;
-}
-
-span#journal-title {
-  font-weight: 100;
-  font-size: 1rem;
-  letter-spacing: 0.12rem;
-}
-
-span#tagline {
-  font-size: 0.5rem;
-  color: #939598;
+  padding-bottom: .8rem
 }
 
 
-ul#main-nav {
+
+ul#main-nav, ul#main-nav-small {
   list-style-type: none;
   display: inline-block;
   margin: 0;
-  margin-left: 20px;
-  margin-top: 18px;
+
+  margin-top: 10px;
   padding: 0;
   padding-right: 1rem;
-  font-size: .6rem;
-	font-weight: 300;
-	text-transform: uppercase;
-  float: right;  
+  font-size: .5rem;
+	font-weight: 400;
+	text-transform: uppercase; 
+}
+
+ul#main-nav {
+    margin-left: 20px;
+}
+
+ul#main-nav-small {
+  display: none;
+  margin-left: 0px;
 }
 
 
 ul#main-nav > li {
 	display: inline-block;
-	margin: 0px 6px;
+	margin: 0px 8px;
+}
+
+ul#main-nav-small > li {
+  display: inline-block;
+  margin: 0px 6px;
+  font-size: .6rem;
 }
 
 ul#main-nav li:not(.active) > a {
-	color: #939598;
+	color: #444;
 }
 
 ul#main-nav li.active {
 	color: #D0181F;	
 }
 
-span#main-nav-small {
-  display: none;
-  float: right;
-  margin-left: 20px;
-  margin-top: 18px;
-  margin-right: 20px;
-  padding: 0;
-  font-weight: 300;
-  text-transform: uppercase;
-  }
 
-span#main-nav-small a {
+ul#main-nav-small a {
   color: #939598;
+}
+
+ul#main-nav-small li.active a {
+  color: #D0181F; 
 }
 
 @media (max-width: 48em) {
@@ -492,7 +489,7 @@ span#main-nav-small a {
     display: none;
   }
 
-  span#main-nav-small {
+  ul#main-nav-small {
     display: inline-block;
   }
 
@@ -583,6 +580,8 @@ span#main-nav-small a {
   padding: .5rem 1rem;
   border-top: 1px solid rgba(255,255,255,.1);
   font-weight: 100;
+  text-transform: uppercase;
+  font-size: .6rem;
 }
 
 a.sidebar-nav-item-toc {
@@ -615,7 +614,7 @@ a.sidebar-nav-item:focus {
 /* Style the `label` that we use to target the `.sidebar-checkbox` */
 .sidebar-toggle {
   position: absolute;
-  top:  4.4rem;
+  top: 1rem;
   left: 1rem;
   display: block;
   padding: .25rem .75rem;
@@ -630,10 +629,10 @@ a.sidebar-nav-item:focus {
   width: 1rem;
   height: .75rem;
   content: "";
-  background-image: -webkit-linear-gradient(to bottom, #D0181F, #D0181F 20%, #fff 20%, #fff 40%, #D0181F 40%, #D0181F 60%, #fff 60%, #fff 80%, #D0181F 80%, #D0181F 100%);
-  background-image:    -moz-linear-gradient(to bottom, #D0181F, #D0181F 20%, #fff 20%, #fff 40%, #D0181F 40%, #D0181F 60%, #fff 60%, #fff 80%, #D0181F 80%, #D0181F 100%);
-  background-image:     -ms-linear-gradient(to bottom, #D0181F, #D0181F 20%, #fff 20%, #fff 40%, #D0181F 40%, #D0181F 60%, #fff 60%, #fff 80%, #D0181F 80%, #D0181F 100%);
-  background-image:         linear-gradient(to bottom, #D0181F, #D0181F 20%, #fff 20%, #fff 40%, #D0181F 40%, #D0181F 60%, #fff 60%, #fff 80%, #D0181F 80%, #D0181F 100%);
+  background-image: -webkit-linear-gradient(to bottom, #444, #444 20%, #fff 20%, #fff 40%, #444 40%, #444 60%, #fff 60%, #fff 80%, #444 80%, #444 100%);
+  background-image:    -moz-linear-gradient(to bottom, #444, #444 20%, #fff 20%, #fff 40%, #444 40%, #444 60%, #fff 60%, #fff 80%, #444 80%, #444 100%);
+  background-image:     -ms-linear-gradient(to bottom, #444, #444 20%, #fff 20%, #fff 40%, #444 40%, #444 60%, #fff 60%, #fff 80%, #444 80%, #444 100%);
+  background-image:         linear-gradient(to bottom, #444, #444 20%, #fff 20%, #fff 40%, #444 40%, #444 60%, #fff 60%, #fff 80%, #444 80%, #444 100%);
 }
 
 .sidebar-toggle:active,

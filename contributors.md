@@ -1,6 +1,6 @@
 ---
 layout: page
-Title: Contributors
+Title: contributors
 ---
 
 ## Yarimar Bonilla

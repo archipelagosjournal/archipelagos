@@ -3,6 +3,9 @@ layout: default
 title: Current Issue
 ---
 
+<h1 class="journal-title">{{ site.title }}</h1>
+<h2 class="tagline">a small axe journal of digital practice</h2>
+
 {% capture homepage-content %}{% include issue01.md %}{% endcapture %}
 {{ homepage-content | markdownify }}
 
