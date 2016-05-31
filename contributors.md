@@ -3,6 +3,10 @@ layout: page
 title: contributors
 ---
 
+## Brian Ballsun-Stanton
+Brian Ballsun-Stanton (Ph.D. University of New South Wales, 2012) is currently a Research Associate at Macquarie University in Sydney, Australia. His research interests include exploring how people interact with and understand the nature of data and an investigation into the mechanics of ludic-narrative interactions in games. He is the Technical Director and Data Architect for the Field Acquired Information Management Systems (FAIMS) Project.
+Department of Ancient History
+
 ## Yarimar Bonilla
 
 Yarimar Bonilla is an associate professor of anthropology and Latino & Caribbean Studies at Rutgers University, where she is on the executive board for the Advanced Institute for Critical Caribbean Studies. She teaches and writes about social movements, colonial
@@ -20,6 +24,9 @@ Anne Eller is an Assistant Professor of History at Yale University.  Her first b
 
 David K. Garner will begin as Assistant Professor of Composition and Theory at the University of South Carolina in fall 2016. He is a composer whose works often draw on other music as a point of departure, from Beethoven to bluegrass. Awards include a Charles Ives Scholarship from the American Academy of Arts & Letters, an ASCAP Young Composer Award, and first prizes in the OSSIA, Red Note, and NACUSA competitions.
 
+## Alex Gil
+[Alex Gil](http://www.elotroalex.com/){:target="_blank"} is Digital Scholarship Coordinator for the Humanities and History at Columbia University Libraries. He collaborates with faculty, students and the library on the use of technologies on humanities research, pedagogy and scholarly communications. Current projects include [Ed](http://elotroalex.github.io/ed/){:target="_blank"}, a foundation for *sx archipelagos*; the Open Syllabus Project; the Translation Toolkit; and, In The Same Boats, a visualization of trans-Atlantic intersections of black intellectuals in the 20th century. He is co-founder and active member of the Global Outlook::Digital Humanities initiative and the co-founder and moderator of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/){:target="_blank"} and the Studio@Butler at Columbia University.
+
 ## Max Hantel
 
 Max Hantel is a postdoctoral fellow in the Gender Research Institute at Dartmouth College. He is currently completing his book project, Haunted Confluence: Intergenerational Geographies of Race and Sex in Afro-Caribbean Feminism. His work on Caribbean philosophy and political ecology has appeared in *Small Axe*, *The Journal of French and Francophone Philosophy*, and *Rhizomes*.
@@ -30,7 +37,7 @@ Tonya Haynes lectures at the Institute for Gender and Development Studies: Nita 
 
 ## Mary Caton Lingold
 
-Mary Caton Lingold is a doctoral candidate in English at Duke, where she is completing a dissertation on early Afro-Atlantic literature and music. She is co-editor of the web collection [Provoke!: Digital Sound Studies](http://soundboxproject.com), and a book by the same name and under contract at Duke UP. Her article on music in Caribbean travel narratives is forthcoming in *Early American Literature*. She also directs the [Sonic Dictionary](http://sonicdictionary.fhi.duke.edu), a crowdsourced database of audio recordings.
+Mary Caton Lingold is a doctoral candidate in English at Duke, where she is completing a dissertation on early Afro-Atlantic literature and music. She is co-editor of the web collection [Provoke!: Digital Sound Studies](http://soundboxproject.com){:target="_blank"}, and a book by the same name and under contract at Duke UP. Her article on music in Caribbean travel narratives is forthcoming in *Early American Literature*. She also directs the [Sonic Dictionary](http://sonicdictionary.fhi.duke.edu){:target="_blank"}, a crowdsourced database of audio recordings.
 
 ## Martin Munro
 
@@ -43,3 +50,7 @@ Jeannine Murray-Román (PhD Comparative Literature, UCLA) is an Assistant Profes
 ## Janet Neigh
 
 Janet Neigh is an Assistant Professor of English at Penn State Erie, The Behrend College. Her research is forthcoming in *The Cambridge Companion to Postcolonial Poetry* and has been published in *Feminist Formations*, *Modernism/modernity*, and *The Journal of West Indian Literature*.
+
+## Dennis Tenen
+
+Dennis Tenen's research happens at the intersection of people, texts, and technology. His recent work appeared on the pages of Computational Culture, boundary 2, and Modernism/modernity on topics that range from book piracy, to algorithmic composition, unintelligent design, and the history of data visualization. He teaches a variety of classes in fields of digital humanities and new media studies. Tenen is a co-founder of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/){:target="_blank"}. The group's interests fall into one of three categories, built on the strengths of Columbia's community:

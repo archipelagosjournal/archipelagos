@@ -225,7 +225,7 @@ strong {
 	line-height: 1.2rem ;
 }
 
-.pdf-link {
+.alt-link {
   color: #939598;
 }
 
@@ -307,6 +307,13 @@ img {
   border-radius: 5px;
 }
 
+img.project-image {
+  width: 100%
+}
+
+img.project-image-toc {
+  width: 60%;
+}
 
 
 .image-caption {
