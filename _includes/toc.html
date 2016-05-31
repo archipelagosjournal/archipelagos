@@ -52,7 +52,7 @@
 
 
 <ul>
-<h3>Articles</h3>
+<h3>Essays</h3>
 {% for document in documents %}
   {% if document.section == "articles" %}
 
@@ -89,7 +89,7 @@
     </span>
     <!-- PDF -->
     <p>
-      <a class="pdf-link" href="{{ site.baseurl }}/assets{{ document.url | replace:'.html','.pdf' }} target="_blank"">PDF</a>     
+      <a class="alt-link" href="{{ site.baseurl }}/assets{{ document.url | replace:'.html','.pdf' }} target="_blank"">PDF</a>     
     </p>
     </li>
 

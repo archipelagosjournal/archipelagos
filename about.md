@@ -22,7 +22,7 @@ with our colleagues and the wider public.
 
 The need for such engagements is especially immediate among the people
 of the Caribbean and its diasporas. Information technology has become an
-increasingly significant part of the way that people in the region frame
+increasingly significant part of the way that those in the region frame
 pressing social problems and political aspirations. Aesthetic media like
 photography and painting—because they are relatively inexpensive and do
 not rely necessarily on formal training—have become popular among
@@ -34,7 +34,7 @@ the geographical and physical barriers that disrupt or disallow
 connection; and it places others and elsewheres in relentless relation.
 Yet while we celebrate these opportunities for connectedness, we also
 must make certain that our work in the digital realm undermines and
-confronts rather than re-inscribe forms of silencing and exclusion in
+confronts rather than re-inscribes forms of silencing and exclusion in
 the Caribbean.
 
 Our own impetus for creating a new platform arises from this continued
@@ -50,7 +50,7 @@ master's house, both infrastructurally and historically. Stewards of an
 archive that cannot be disentangled from The Archive housed at major
 global institutions—whose mechanical image lies outside our control—and
 of our fragile, opaque archives in their saltpetered warehouses at the
-margins, we decided to join those who are active in the design of our
+margins, we have commited to join those who are active in the design of our
 future memory.
 
 As the academy increasingly embraces the "digital turn," we ask the
@@ -67,23 +67,26 @@ committed to serving?
 
 To answer these and other urgent questions, we need in this moment to
 engage two critical functions: to understand and to build. For us, these
-functions do not follow from the other, but rather operate in tandem. As
+functions do not follow one from the other, but rather operate in tandem. As
 we build and understand, we do so illuminated by first light of the
 long arc of Caribbean remembrance, from Maroon communities to the recent
 collaborative efforts to build a [Digital Library of the
 Caribbean](http://www.dloc.com/). We do so remaining ever vigilant to
 materialist, ecological, identitarian, and liberatory considerations. We
 do so, in the last instance, fully conscious of our decades-old
-wrangling of computers, from Kamau Brathwaite's *Sycorax* to the
+wrangling of computers—from Kamau Brathwaite's *Sycorax* to the
 ingenious scholar-hackers of today's Havana. Our cutting edge comes,
 then, not from a misguided sense of techno-utopianism—or worse,
 techno-determinism—but as a new small axe, hacking away still at that
 master's house.
 
+---
+
 ## Indexing
 
 [We are in the process of establishing DOI's and an ISSN. Look for this space in the future for more information]
 
+---
 
 ## Rights
 
