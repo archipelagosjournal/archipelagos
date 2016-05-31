@@ -411,11 +411,13 @@ ul#main-nav {
   display: inline-block;
   margin: 0;
   margin-left: 20px;
+  margin-top: 20px;
   padding: 0;
   padding-right: 3rem;
   font-size: .6rem;
 	font-weight: 300;
-	text-transform: uppercase;  
+	text-transform: uppercase;
+  float: right;  
 }
 
 
@@ -432,9 +434,11 @@ ul#main-nav li.active {
 	color: #D0181F;	
 }
 
-.small-menu {
-  display: none;
-}
+span#main-nav-small {
+    display: none;
+    float: right;
+    margin: 0px 12px;
+  }
 
 @media (max-width: 48em) {
   .masthead-title {
@@ -451,6 +455,10 @@ ul#main-nav li.active {
 
   ul#main-nav > li:not(.active) {
     display: none;
+  }
+
+  span#main-nav-small {
+    display: inline-block;
   }
 
 
@@ -568,7 +576,7 @@ a.sidebar-nav-item:focus {
 /* Style the `label` that we use to target the `.sidebar-checkbox` */
 .sidebar-toggle {
   position: absolute;
-  top:  .8rem;
+  top:  4.4rem;
   left: 1rem;
   display: block;
   padding: .25rem .75rem;
@@ -607,7 +615,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 30.1em) {
   .sidebar-toggle {
-    position: fixed;
+    position: absolute;
   }
 }
 

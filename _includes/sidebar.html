@@ -4,48 +4,21 @@
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
-{% if page.layout == "article" or page.layout == "review" %}
     <div class="sidebar-item">
-    <p>{{ site.title }} | {{ site.description }}</p>
-    <p class="sidebar-title">{{ page.title["long"] }}</p>
-    <p>
-  {% for author in page.author %}
-    {% if forloop.last == true %}
-      <span class="author">{{ author.name }}</span>
-    {% else %}
-      <span class="author">{{ author.name }}</span>, 
-    {% endif %}
-  {% endfor %}
-    </p>
+    <p><em>sx archipelago</em> is part of the Small Axe Project. To learn more visit our sister sites below.</p>
   </div>
-{% else %}
-  <div class="sidebar-item">
-    <p>{{ site.title }} | {{ site.description }}</p>
-    <p class="sidebar-title">{{ page.title }}</p>
-  </div>
-{% endif %}
 
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
-
-<!--
-      The code below dynamically generates a sidebar nav of pages with
-      `layout: page` in the front-matter. See readme for usage.
--->
-
-    {% assign pages_list = site.pages | sort:"url" %}
-    {% for node in pages_list %}
-      {% if node.title != null %}
-        {% if node.layout == "page" %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-
-
-    
+          <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+          <a class="sidebar-nav-item" href="http://smallaxe.net/people">People</a>
+          <a class="sidebar-nav-item" href="http://smallaxe.net/archive">Archive</a>
+          <a class="sidebar-nav-item" href="http://smallaxe.net/sx">Small Axe</a>
+          <a class="sidebar-nav-item" href="http://smallaxe.net/sx-salon">SX Salon</a>
+          <a class="sidebar-nav-item" href="http://smallaxe.net/sx-visualities">SX Visualities</a> 
+          <a class="sidebar-nav-item" href="http://smallaxe.net/literary-competition">Literary Competition</a>    
   </nav>
+
 
 
 

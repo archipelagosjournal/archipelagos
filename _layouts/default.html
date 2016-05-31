@@ -3,7 +3,8 @@
 
   {% include head.html %}
 
-  <body class="layout-reverse">
+<!--   <body class="layout-reverse"> -->
+<body>
 
     {% include sidebar.html %}
 
@@ -15,12 +16,11 @@
         <a id="logo" href="http://smallaxe.net"><img src="{{ site.baseurl }}/public/logo.svg" height="40px" width="52px"/></a>
 
         <ul id="main-nav">
-          <li><a href="http://smallaxe.net/sx">Small Axe</a></li>
-          <li><a href="http://smallaxe.net/sx-salon">SX Salon</a></li>
-          <li><a href="http://smallaxe.net/sx-visualities">SX Visualities</a></li>
-          <li class="active"><a href="{{ site.baseurl }}/" title="Home">sx archipelagos</a></li>
-          <li><a href="http://smallaxe.net/literary-competition">Literary Competition</a></li>
+
+{% include menu.html %}
         </ul>
+        <span id="main-nav-small"><a href="{{site.baseurl}}/menu.html">MENU</a></span>
+
 
           <!-- menu on the top -->
        
