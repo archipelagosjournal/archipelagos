@@ -438,6 +438,7 @@ span#main-nav-small {
     display: none;
     float: right;
     margin: 0px 12px;
+    color: #939598;
   }
 
 @media (max-width: 48em) {
