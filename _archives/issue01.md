@@ -1,13 +1,12 @@
 ---
 layout: default
-title: First Issue
+title: "Issue (1)"
 subtitle: "Inagural Issue: The Caribbean Digital"
 blurb: ""
-release: "May 2016"
+release: "June 2016"
 number: 1
 editor: 
 - Kaiama L. Glover
-- Kelly Baker Josephs
 - Alex Gil
 
 ---
