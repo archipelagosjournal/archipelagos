@@ -454,7 +454,7 @@ span#main-nav-small {
     margin: 0 auto;
   }
 
-  ul#main-nav > li:not(.active) {
+  ul#main-nav > li {
     display: none;
   }
 
