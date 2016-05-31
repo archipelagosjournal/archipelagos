@@ -153,6 +153,14 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
 	font-size: 1.8rem;
+
+}
+
+h1#welcome-to-sx-archipelagos {
+  color: #939598;
+  margin-top: 0;
+  font-weight: 100;
+  letter-spacing: .1rem;
 }
 
 h1.post-title {
