@@ -26,6 +26,30 @@
 {% endfor %} 
 </ul>
 
+<ul>
+<h3>Essays</h3>
+{% for document in documents %}
+  {% if document.section == "articles" %}
+
+
+    <li>
+      <a href="{{ document.url | prepend:site.baseurl }}">
+        <span class="toc-title">{{ document.title["long"] }}</span>
+      </a><br>
+    <span class="byline">
+    {% include author-loop.html %}
+
+    </span>
+    <!-- PDF -->
+    <p>
+      <a class="alt-link" href="{{ site.baseurl }}/assets{{ document.url | replace:'.html','.pdf' }}" target="_blank">PDF</a> 
+    </p>
+    </li>
+
+  {% endif %}
+{% endfor %}
+</ul>
+
 
 <ul>
 <h3>Digital Projects</h3>
@@ -51,31 +75,9 @@
 </ul>
 
 
+
 <ul>
-<h3>Essays</h3>
-{% for document in documents %}
-  {% if document.section == "articles" %}
-
-
-    <li>
-      <a href="{{ document.url | prepend:site.baseurl }}">
-        <span class="toc-title">{{ document.title["long"] }}</span>
-      </a><br>
-    <span class="byline">
-    {% include author-loop.html %}
-
-    </span>
-    <!-- PDF -->
-    <p>
-      <a class="alt-link" href="{{ site.baseurl }}/assets{{ document.url | replace:'.html','.pdf' }}" target="_blank">PDF</a> 
-    </p>
-    </li>
-
-  {% endif %}
-{% endfor %}
-</ul>
-<ul>
-<h3>Reviews</h3>
+<h3>Digital Project Reviews</h3>
 {% for document in documents %}
   {% if document.section == "reviews" %}
 
