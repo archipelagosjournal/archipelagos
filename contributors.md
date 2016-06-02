@@ -57,6 +57,10 @@ Jeannine Murray-Román (PhD Comparative Literature, UCLA) is an Assistant Profes
 
 Janet Neigh is an Assistant Professor of English at Penn State Erie, The Behrend College. Her research is forthcoming in *The Cambridge Companion to Postcolonial Poetry* and has been published in *Feminist Formations*, *Modernism/modernity*, and *The Journal of West Indian Literature*.
 
+## David Scott
+
+David Scott is Professor of Anthropology at Columbia University. He is the author of *Formations of Ritual: Colonial and Anthropological Discourses on the Sinhala Yaktovil* (Minnesota 1994), *Refashioning Futures: Criticism After Postcoloniality* (Princeton UP 1999), *Conscripts of Modernity: The Tragedy of Colonial Enlightenment* (Duke UP 2004), and *Omens of Adversity: Tragedy, Time, Memory, and Justice* (Duke UP 2014), and co-editor of *Powers of the Secular Modern: Talal and His Interlocutors* (Stanford UP). He is the founder and director of the Small Axe Project.
+
 ## Dennis Tenen
 
 Dennis Tenen's research happens at the intersection of people, texts, and technology. His recent work appeared on the pages of Computational Culture, boundary 2, and Modernism/modernity on topics that range from book piracy, to algorithmic composition, unintelligent design, and the history of data visualization. He teaches a variety of classes in fields of digital humanities and new media studies. Tenen is a co-founder of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/){:target="_blank"}. The group's interests fall into one of three categories, built on the strengths of Columbia's community:
