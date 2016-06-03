@@ -35,7 +35,7 @@ enter into dialogue with this remarkable fragment and thus to find a way
 into a much broader and more foundational musical history of the
 Caribbean and the wider Atlantic world.
 
-***sx archipelagos* review **
+***sx archipelagos* review**
 
 **“an important contribution to the fields of Atlantic and Caribbean
 history and ethnomusicology”**
