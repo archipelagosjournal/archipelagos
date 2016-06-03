@@ -70,13 +70,6 @@ and trade tariffs, surpass print books in their international
 portability, making them more accessible to Caribbean diasporic
 communities.
 
-{% include image.html
-            img="issue01/poet-performing-2.jpg"
-            title="2 Cents Movement Poet"
-            caption="2 Cents Movement Poet" %}
-
-<!-- ![2 Cents Movement Poet](/images/issue01/poet-performing-2.jpg) -->
-
 This essay examines one of the best examples of innovative digital
 poetry in the Caribbean: the youth-led artist collective the [2 Cents
 Movement](https://twitter.com/2CentsMovement), based in Trinidad and
@@ -96,10 +89,18 @@ praxes, the 2 Cents Movement realizes Brathwaite’s theory of nation
 language and his argument that sound reproduction technologies can be
 used to reinvigorate Afro-centric oral traditions.[^7]
 
+{% include image.html
+            img="issue01/poet-performing-2.jpg"
+            title="2 Cents Movement Poet"
+            caption="Figure 1. 2 Cents Movement poet Idrees Saleem
+performing at the University of the West Indies, St. Augustine Campus, Trinidad and Tobago. Posted on 24 November 2014." %}
+
+<!-- ![2 Cents Movement Poet](/images/issue01/poet-performing-2.jpg) -->
+
 Brathwaite identifies how nation-language poets challenge the way paper
 records were used to discredit oral ways of knowing and uphold
 institutional power during colonization. When dub poet Linton Kwesi
-Johnson recites his definitive work “[Reggae
+Johnson recites his definitive “[Reggae
 Sounds](https://www.youtube.com/watch?v=8omA7huF6XE),” lines such as
 “foot-drop find drum, blood story / bass history is a moving / is a
 hurting black story” attack print-centric forms of knowledge.[^8] He
@@ -192,13 +193,6 @@ of print archives.
 
 ## Creating Digital Griots: The 2 Cents Movement
 
-{% include image.html
-            img="issue01/audience-interaction-1.jpg"
-            title="Audience Interaction"
-            caption="Audience Interaction" %}
-
-<!-- ![Audience Interaction](/images/issue01/audience-interaction-1.jpg) -->
-
 Scrolling through the [2 Cents Movement’s Facebook
 page](https://www.facebook.com/The2CentsMovement/) reveals a vibrant
 online poetry community. As of December 2015, they have more than 13,000
@@ -235,6 +229,14 @@ building an online presence for Caribbean poetry. In addition to
 reaching youth in Trinidad and Tobago, the artists have gained an
 international following by circulating their poetry on social media.
 
+{% include image.html
+            img="issue01/audience-interaction-1.jpg"
+            title="Audience Interaction"
+            caption="Figure 2. Marshall Davis Jones performing at El
+Dorado East Secondary School, Trinidad and Tobago Courts Bocas Speak Out Tour 2015." %}
+
+<!-- ![Audience Interaction](/images/issue01/audience-interaction-1.jpg) -->
+
 Twitter and Facebook updates for the 2014–2015 Courts Bocas Speak Out
 Tour, involving more than fifty secondary schools, demonstrate 2 Cents
 Movement’s use of these platforms to enhance audience interaction.
@@ -250,40 +252,40 @@ the performer’s back or the corner of her shoulder.[^26]
 {% include image.html
             img="issue01/audience-interaction-2.jpg"
             title="Audience Interaction"
-            caption="Audience Interaction" %} 
+            caption="Figure 3. UWE Speak Event, University of the West Indies, St. Augustine Campus, Trinidad and Tobago, Courts Bocas Speak Out Tour 2015." %} 
 
 <!-- ![Audience interaction](/images/issue01/audience-interaction-2.jpg) --> 
 
 {% include image.html
             img="issue01/poet-performing-1.jpg"
             title="Poet performer"
-            caption="Poet performer" %} 
+            caption="Figure 4. Marshall Davis Jones performing at El
+Dorado East Secondary School, Trinidad and Tobago, Courts Bocas Speak Out Tour 2015." %} 
 
 <!-- ![Poet performer](/images/issue01/poet-performing-1.jpg) -->
 
-The online viewer gets to stare out at the auditorium filled with students, which allows her to occupy the performer’s gaze but also view a student’s face
-as a mirror, inviting her to identify with both the performer and the
-audience. This elaborates on the pedagogy offered during the tour, in
-which the poets’ performances provide students with a model for their
-own poetry aspirations. Visually, Twitter and Facebook followers become
-situated in the continuum of total expression—in the reciprocal exchange
-between performer and audience.
+The online viewer gets to stare out at the auditorium filled with
+students, which allows her to occupy the performer’s gaze but also view
+a student’s face as a mirror, inviting her to identify with both the
+performer and the audience. This elaborates on the pedagogy offered
+during the tour, in which the poets’ performances provide students with
+a model for their own poetry aspirations. Visually, Twitter and Facebook
+followers become situated in the continuum of total expression—in the
+reciprocal exchange between performer and audience. High school students
+who attended a 2 Cents Movement performance at their own school could
+then follow them on Twitter and Facebook and connect those images to
+their own participation in the live event. The photos (and the movement
+as a whole) downplay individual author celebrity in favor of building a
+student-focused collectivity. The 2 Cents Movement uses Twitter and
+Facebook to create “a constancy of presence” to link together different
+high school communities in Trinidad and Tobago.[^27]
 
 {% include image.html
             img="issue01/audience-interaction-3.jpg"
             title="Audience interaction"
-            caption="Audience interaction" %} 
+            caption="Figure 5. Bishops Anstey Secondary School, Trinidad and Tobago, Courts Bocas Speak Out Tour 2015." %} 
 
 <!-- ![Audience interaction](/images/issue01/audience-interaction-3.jpg) -->
-
-High school students who attended a 2
-Cents Movement performance at their own school could then follow them on
-Twitter and Facebook and connect those images to their own participation
-in the live event. The photos (and the movement as a whole) downplay
-individual author celebrity in favor of building a student-focused
-collectivity. The 2 Cents Movement uses Twitter and Facebook to create
-“a constancy of presence” to link together different high school
-communities in Trinidad and Tobago.[^27]
 
 Although these social media platforms governed by the commercial needs
 of US-based multinationals certainly hold limitations, rhetoric scholar
@@ -349,15 +351,6 @@ bond between the real-life users and the mediated voices in the poems,
 the 2 Cents Movement invites users to do more than merely “like” its
 status updates and continue scrolling.
 
-{% include interactive.html
-			type="youtube"
-			url="https://www.youtube.com/embed/9OA8eLoPylU"
-            img="issue01/poet-performing-1.jpg"
-            title="2 Cents Project - Crystal Skeete - Maxi Man tracking School Gyal"
-            caption="Maxi Man tracking School Gyal" %}
-
-<!-- [![2 Cents Project- Crystal Skeete- Maxi Man tracking School Gyal](/images/issue01/maxi-man-youtube.png)](https://www.youtube.com/embed/9OA8eLoPylU?autoplay=1) -->
-
 In addition to the microblogging of performances, the 2 Cents Movement’s
 video poems, like Skeete’s “Maxi Man,” demonstrate how audiovisual
 recording technologies can be used to enhance the communal dynamic of
@@ -379,12 +372,14 @@ their synthesis of the dramatic monologue form and the music video
 genre, Skeete and the 2 Cents Movement team cultivate a sense of
 audience connection and encourage dialogue beyond the space of the poem.
 
-{% include image.html
-            img="issue01/maxi-man-cast.jpg"
-            title="Maxi man cast"
-            caption="Maxi man cast" %} 
+{% include interactive.html
+			type="youtube"
+			url="https://www.youtube.com/embed/9OA8eLoPylU"
+            img="issue01/poet-performing-1.jpg"
+            title="2 Cents Project - Crystal Skeete - Maxi Man tracking School Gyal"
+            caption="Figure 6. Crystal Skeete and the “Maxi Man” cast, University of the West Indies, St. Augustine Campus, Trinidad and Tobago. Posted on 23 June 2013." %}
 
-<!-- ![Maxi man cast](/images/issue01/maxi-man-cast.jpg) -->
+<!-- [![2 Cents Project- Crystal Skeete- Maxi Man tracking School Gyal](/images/issue01/maxi-man-youtube.png)](https://www.youtube.com/embed/9OA8eLoPylU?autoplay=1) -->
 
 Skeete dresses in a government school uniform to play her character in
 the video. Her embodiment of the character creates a dialogic
@@ -567,7 +562,7 @@ free recordings implicitly upholds the idea that the artistic labor of
 poetry is more worthy of payment when it is print based. Moreover, it
 demonstrates how we define poems as texts rather than as performances.
 The Poetry Foundation’s [*Code for Best Practices in Fair Use for
-Poetry*](http://www.poetryfoundation.org/foundation/bestpractices)
+Poetry*](http://www.poetryfoundation.org/downloads/FairUsePoetryBooklet_singlepg_2.pdf)
 underscores this point. A group of poets, editors, and publishers met at
 the Poetry Foundation’s Harriet Monroe Poetry Institute and collaborated
 with American University’s Center for Social Media and its Washington
@@ -722,7 +717,7 @@ elements of online poetry archives need careful consideration. They
 explore “what kinds of site navigation, audio visualization, design
 elements and functionalities could be offered by a Web-based spoken word
 interface, and how these might enhance the listening process and,
-ultimately, the scholarly endeavor.” [^58] Because very little
+ultimately, the scholarly endeavor.”[^58] Because very little
 scholarship exists on how people engage with sounded poems, they
 acknowledge that their suggestions for “a sound archive ‘recipe’ that
 other cultural heritage institutions can follow” are based on
@@ -899,9 +894,10 @@ this vital record of Caribbean poetry history a priority.
     www.youtube.com/playlist?list=PLsZJUoc\_yr1ufNZGIsFg74Fl3yuZTNU9k.
 
 [^26]: See twitter.com/2CentsMovement. See also the individual albums on
-    2 Cents Movement’s Facebook page, where some of the school tour
-    photos are collected; for example, see the album “Five Rivers
-    Sec—Speak Out Tour 2014—Day 27,”
+    2 Cents Movement’s Facebook page,
+    www.facebook.com/The2CentsMovement, where some of the school tour
+    photos are collected, including all images in this essay; for
+    example, see the album “Five Rivers Sec—Speak Out Tour 2014—Day 27,”
     www.facebook.com/media/set/?set=a.610565055739844.1073741948.125245237605164&type=3.
     For information on the current Courts Bocas Speak Out Tour, see
     www.bocaslitfest.com/courts-bocas-speak-out.

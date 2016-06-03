@@ -22,18 +22,18 @@ the Virginia Historical Society in Richmond. Creation of the site
 itself, however, was spearheaded by Vincent Brown and is a project of
 the History Design Studio.
 
-*Two Plantations* leads users horizontally and vertically to
+*Two Plantations* leads users horizontally and vertically into
 representations of the lives of 431 enslaved people at two plantations.
 The landing page features a short description of the site with a
 present-day image of a building surrounded by lush greenery, a stately
 structure presumably on the site of either Mesopotamia (Jamaica) or
-Mount Airy (Virginia) and rendered in shades of blue and emblazoned.
-Slight, nearly undetectable animation causes the sentence beneath the
-description to glow. In italics, it reads, “This is their story.”
-Clicking an arrow icon slides the user to the right, but not immediately
-into the names database or the handwritten family tree (painstakingly
-digitally rendered, since the family tree in paper form is over five
-feet in length). Instead, the user is advanced to a paragraph length
+Mount Airy (Virginia) and rendered in shades of blue. Slight, nearly
+undetectable animation causes the sentence beneath the description to
+glow. In italics, it reads, “This is their story.” Clicking an arrow
+icon slides the user to the right, but not immediately into the names
+database or the handwritten family tree (painstakingly digitally
+rendered, since the family tree in paper form is over five feet in
+length). Instead, the user is advanced to a paragraph length
 introduction to Dunn’s research set against a blue scale rendering of a
 page from a plantation ledger. The words “Doctors Hall,” the name of a
 farm quarter owned by Mount Airy’s proprietors, loom especially large
@@ -80,20 +80,20 @@ horizontal flow and directs users downward, drawing them deeper into the
 history itself. Beneath the fold, the first document is a digital
 rendering of Sally Thurston’s family tree as handwritten by Dunn. The
 structure of the tree is familiar—hierarchical and patronymic—and broad,
-requiring the user to either use the scrolling function in the header or
-to swipe left and right to view it in full. Sally is the focus, her
-mothering and motherhood. In the upper right hand corner, Dunn provides
-a short tally on her children with her first husband, Amphy Thurston:
-thirteen children, forty-two grandchildren, and twenty-four
-great-grandchildren. The tree itself, however, is shallow, either
-because available records stop in 1833 or as a result of the pressure
-movement, sale, and death placed on kinship networks. The visual impact
-of the truncated tree brings this pressure, the loss and lost history,
-into sharp relief.
+requiring the user to either utilize the scrolling function in the
+header or to swipe left and right to view it in full. Sally is the
+focus, her mothering and motherhood. In the upper right hand corner,
+Dunn provides a short tally on her children with her first husband,
+Amphy Thurston: thirteen children, forty-two grandchildren, and
+twenty-four great-grandchildren. The tree itself, however, is shallow,
+either because available records stop in 1833 or as a result of the
+pressure movement, sale, and death placed on kinship networks. The
+visual impact of the truncated tree brings this pressure, the loss and
+lost history, into sharp relief.
 
 Still beneath the fold, the user is guided to the right to documentation
-on Mesopotamia and Sarah Affir or (Affy) and a digitized family tree of
-her descendants. Sarah is the head of this tree and her children are
+on Mesopotamia and Sarah Affir (Affy) and a digitized family tree of her
+descendants. Sarah is the head of this tree, and her children are
 described using race and color terminology as articulated by Jamaican
 slaveowners. Names like Mulatto Ann and Quadroon Jane proliferate. The
 difference in racial nomenclature makes explicit what was implicit at
@@ -143,8 +143,8 @@ enslaved themselves by learning their names, the names of their
 children, and the consistency of their family networks. At the same
 time, *Two Plantations* outlines the archive created by Richard Dunn,
 revealing something of the work engaged in by historians and the art of
-their craft. This point that may be of special interest to graduate
-students or to K–12 teachers and students in their classrooms.
+their craft. This point may be of special interest to graduate students
+or to K–12 teachers and students in their classrooms.
 
 Opportunities to discuss historians and their craft, the texture and
 textual nature of the manuscript documents, the methodological
