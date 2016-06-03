@@ -23,9 +23,10 @@ layout: default
 		<li><a href="#">Return to top</a></li>
 		<li> | </li>
 		<li><a href="{{site.baseurl}}/index.html#toc">Table of Contents</a></li>
-		<li> | </li>
+
 		{% capture next_page %}{{ page.order | plus: 1 }}{% endcapture %}
 		{{next_page}}
+		<li> | </li>
 		<li>Next Article</li>
 	</ul>
 </div>
