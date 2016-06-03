@@ -92,7 +92,8 @@ used to reinvigorate Afro-centric oral traditions.[^7]
 {% include image.html
             img="issue01/poet-performing-2.jpg"
             title="2 Cents Movement Poet"
-            caption="2 Cents Movement Poet" %}
+            caption="Figure 1. 2 Cents Movement poet Idrees Saleem
+performing at the University of the West Indies, St. Augustine Campus, Trinidad and Tobago. Posted on 24 November 2014." %}
 
 <!-- ![2 Cents Movement Poet](/images/issue01/poet-performing-2.jpg) -->
 
@@ -231,7 +232,8 @@ international following by circulating their poetry on social media.
 {% include image.html
             img="issue01/audience-interaction-1.jpg"
             title="Audience Interaction"
-            caption="Audience Interaction" %}
+            caption="Figure 2. Marshall Davis Jones performing at El
+Dorado East Secondary School, Trinidad and Tobago Courts Bocas Speak Out Tour 2015." %}
 
 <!-- ![Audience Interaction](/images/issue01/audience-interaction-1.jpg) -->
 
@@ -250,14 +252,15 @@ the performer’s back or the corner of her shoulder.[^26]
 {% include image.html
             img="issue01/audience-interaction-2.jpg"
             title="Audience Interaction"
-            caption="Audience Interaction" %} 
+            caption="Figure 3. UWE Speak Event, University of the West Indies, St. Augustine Campus, Trinidad and Tobago, Courts Bocas Speak Out Tour 2015." %} 
 
 <!-- ![Audience interaction](/images/issue01/audience-interaction-2.jpg) --> 
 
 {% include image.html
             img="issue01/poet-performing-1.jpg"
             title="Poet performer"
-            caption="Poet performer" %} 
+            caption="Figure 4. Marshall Davis Jones performing at El
+Dorado East Secondary School, Trinidad and Tobago, Courts Bocas Speak Out Tour 2015." %} 
 
 <!-- ![Poet performer](/images/issue01/poet-performing-1.jpg) -->
 
@@ -280,7 +283,7 @@ high school communities in Trinidad and Tobago.[^27]
 {% include image.html
             img="issue01/audience-interaction-3.jpg"
             title="Audience interaction"
-            caption="Audience interaction" %} 
+            caption="Figure 5. Bishops Anstey Secondary School, Trinidad and Tobago, Courts Bocas Speak Out Tour 2015." %} 
 
 <!-- ![Audience interaction](/images/issue01/audience-interaction-3.jpg) -->
 
@@ -374,7 +377,7 @@ audience connection and encourage dialogue beyond the space of the poem.
 			url="https://www.youtube.com/embed/9OA8eLoPylU"
             img="issue01/poet-performing-1.jpg"
             title="2 Cents Project - Crystal Skeete - Maxi Man tracking School Gyal"
-            caption="Maxi Man tracking School Gyal" %}
+            caption="Figure 6. Crystal Skeete and the “Maxi Man” cast, University of the West Indies, St. Augustine Campus, Trinidad and Tobago. Posted on 23 June 2013." %}
 
 <!-- [![2 Cents Project- Crystal Skeete- Maxi Man tracking School Gyal](/images/issue01/maxi-man-youtube.png)](https://www.youtube.com/embed/9OA8eLoPylU?autoplay=1) -->
 
