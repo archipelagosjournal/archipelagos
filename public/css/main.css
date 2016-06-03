@@ -479,6 +479,17 @@ ul#main-nav-small li.active a {
   color: #D0181F; 
 }
 
+ul#footer-nav {
+  list-style-type: none;
+  margin: auto;
+  padding: 10px;
+  font-size: .8rem
+
+}
+
+ul#footer-nav li {
+  display: inline-block;
+}
 
 @media (max-width: 46em) {
   ul#main-nav {
@@ -495,10 +506,12 @@ ul#main-nav-small li.active a {
     display: inline-block;
   }
 
-
+  ul#footer-nav {
+  font-size: .6rem
+  }
 }
 
-}
+
 
 /* Page and Posts */
 
