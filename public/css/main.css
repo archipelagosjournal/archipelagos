@@ -887,7 +887,7 @@ div.poem, div.narrative {
   margin-bottom: 5rem;
 }
 
-div.toc {
+div#toc {
   margin-bottom: 4rem;
 }
 
