@@ -46,6 +46,10 @@ Tonya Haynes lectures at the Institute for Gender and Development Studies: Nita 
 ##Jessica Marie Johnson
 Jessica Marie Johnson is an Assistant Professor of History at Michigan State University. Her work has appeared in *Slavery & Abolition*, *The Black Scholar*, *Meridians: Feminism, Race and Transnationalism*, and *Debates in the Digital Humanities*. As a digital humanist, Johnson explores the way digital and social media disseminate and create historical narratives, in particular, comparative histories of slavery and people of African descent.
 
+## Kelly Baker Josephs
+
+Kelly Baker Josephs is Associate Professor of English at York College, CUNY. She is the author of [*Disturbers of the Peace: Representations of Insanity in Anglophone Caribbean Literature*](http://www.upress.virginia.edu/title/4572) (2013), editor of [*sx salon: a small axe literary platform*](http://smallaxe.net/sxsalon-home), and manager of [*The Caribbean Commons*](http://caribbean.commons.gc.cuny.edu) website. Her current project, “Caribbean Articulations: Storytelling in a Digital Age,” explores the intersections between new technologies and Caribbean cultural production.
+
 ## Mary Caton Lingold
 
 Mary Caton Lingold is a doctoral candidate in English at Duke, where she is completing a dissertation on early Afro-Atlantic literature and music. She is co-editor of the web collection [Provoke!: Digital Sound Studies](http://soundboxproject.com){:target="_blank"}, and a book by the same name and under contract at Duke UP. Her article on music in Caribbean travel narratives is forthcoming in *Early American Literature*. She also directs the [Sonic Dictionary](http://sonicdictionary.fhi.duke.edu){:target="_blank"}, a crowdsourced database of audio recordings.
