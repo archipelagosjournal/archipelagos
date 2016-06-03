@@ -88,64 +88,65 @@ investigations into the practices of journalists, and shut down websites
 with sexist content. Below are key signposts of the significance,
 emergence, and diversity of Caribbean cyberfeminisms:
 
-- Queen Macoomeh initiated an [online petition](http://www.change.org/p/we-did-it-angostura-has-said-they-will-pull-the-ad-thank-you-all)
- against an Angostura advertisement with the tag line “Avoid the
- friendzone, offer her a real drink.” Angostura subsequently removed
- the advertisement.[^9] The public protest against the advertisement,
- especially via the online petition, was reported by international
- media outlets such as Buzzfeed.[^10]
-
-- Malaika Brooks-Smith-Lowe of [Groundation
- Grenada](http://groundationgrenada.com) and colleagues at the Goat
- Dairy Project have used crowdfunding to raise US\$63,160 to support a
- community agriculture project.[^11]
-
-
-- [WOMANTRA](http://womantratt.wix.com/home) won a 2013 grant from the
- FRIDA Young Feminist Fund to organize a summer camp for girls
- transitioning to secondary school in Trinidad and Tobago. This
- demonstrates that communities that have their genesis online may
- incubate others forms of political organizing and intervention.[^12]
-
-- Patrice Daniel, a twenty-nine-year-old feminist from Barbados and
- frequent contributor to International Planned Parenthood Federation’s
- blog, generated what I consider to be a key moment in Caribbean
- feminist blogging history. Her “[An Open Letter to Caribbean Men, from
- Caribbean Women](http://rhrealitycheck.org/article/2013/03/12/an-open-letter-to-caribbean-men-from-caribbean-women)”
- went viral, with over 10,000 shares on Facebook, demonstrating the
- extent to which her words resonated not only with Caribbean women but
- with women across the globe.[^13]
-
-- Caribbean women, many of whom identify as feminists and are active in
- feminist and lesbian, gay, bisexual, and transgender (LGBT) organizing
- have created online networks for “women who love women.” LGBT
- organizations such as Guyana’s [Society Against Sexual Orientation
- Discrimination](http://www.sasod.org.gy), Trinidad and Tobago’s
- [Coalition Advocating for Inclusion of Sexual
- Orientation](http://www.facebook.com/caiso), and St. Lucia’s [United
- and Strong](http://unitedandstrongstlucia.wordpress.com) maintain a
- significant online presence.[^14]
-
-- [*Air Me Now*](http://www.facebook.com/AirMeNow) is a [YouTube
- show](http://www.youtube.com/playlist?list=PLLNiArTOn_azPDdIR4FvkyepgRQrb9K8Y)
- hosted by women from Belize, the Bahamas, and Jamaica that highlights
- “Caribbean women’s voices, Caribbean women’s issues, Caribbean <span
- style="font-variant:small-caps;">oomanism</span>.”[^15]
-
-- Gender consciousness has also meant broader public engagement with
- questions of gender and sexuality, like that offered by the YouTube
- video created by a group of young Jamaican men in response to the rape
- of five women and girls. The video, titled [*Jamaican Anti-Rape
- Campaign (Please Share)*](http://www.youtube.com/watch?v=IS8uJ9dol5s),
- has received almost 40,000 views.[^16]
-
-- The social media efforts of Ashlee Hinds, a twenty-three-year-old
- Barbadian student, to create positive images of fat black women
- resulted in a [transnational fashion
- blog](http://www.bigbeautifulblackgirls.com) and [Facebook
- page](http://www.facebook.com/BigBeautifulBlackGirls) titled [*Big
- Beautiful Black Girls*](http://bigbeautifulblackgirls.tumblr.com),
- with 217,434 followers.[^17]
+> Queen Macoomeh initiated an [online
+> petition](http://www.change.org/p/we-did-it-angostura-has-said-they-will-pull-the-ad-thank-you-all)
+> against an Angostura advertisement with the tag line “Avoid the
+> friendzone, offer her a real drink.” Angostura subsequently removed
+> the advertisement.[^9] The public protest against the advertisement,
+> especially via the online petition, was reported by international
+> media outlets such as Buzzfeed.[^10]
+>
+> Malaika Brooks-Smith-Lowe of [Groundation
+> Grenada](http://groundationgrenada.com) and colleagues at the Goat
+> Dairy Project have used crowdfunding to raise US\$63,160 to support a
+> community agriculture project.[^11]
+>
+> [WOMANTRA](http://womantratt.wix.com/home) won a 2013 grant from the
+> FRIDA Young Feminist Fund to organize a summer camp for girls
+> transitioning to secondary school in Trinidad and Tobago. This
+> demonstrates that communities that have their genesis online may
+> incubate others forms of political organizing and intervention.[^12]
+>
+> Patrice Daniel, a twenty-nine-year-old feminist from Barbados and
+> frequent contributor to International Planned Parenthood Federation’s
+> blog, generated what I consider to be a key moment in Caribbean
+> feminist blogging history. Her “[An Open Letter to Caribbean Men, from
+> Caribbean
+> Women](http://rhrealitycheck.org/article/2013/03/12/an-open-letter-to-caribbean-men-from-caribbean-women)”
+> went viral, with over 10,000 shares on Facebook, demonstrating the
+> extent to which her words resonated not only with Caribbean women but
+> with women across the globe.[^13]
+>
+> Caribbean women, many of whom identify as feminists and are active in
+> feminist and lesbian, gay, bisexual, and transgender (LGBT) organizing
+> have created online networks for “women who love women.” LGBT
+> organizations such as Guyana’s [Society Against Sexual Orientation
+> Discrimination](http://www.sasod.org.gy), Trinidad and Tobago’s
+> [Coalition Advocating for Inclusion of Sexual
+> Orientation](http://www.facebook.com/caiso), and St. Lucia’s [United
+> and Strong](http://unitedandstrongstlucia.wordpress.com) maintain a
+> significant online presence.[^14]
+>
+> [*Air Me Now*](http://www.facebook.com/AirMeNow) is a [YouTube
+> show](http://www.youtube.com/playlist?list=PLLNiArTOn_azPDdIR4FvkyepgRQrb9K8Y)
+> hosted by women from Belize, the Bahamas, and Jamaica that highlights
+> “Caribbean women’s voices, Caribbean women’s issues, Caribbean <span
+> style="font-variant:small-caps;">oomanism</span>.”[^15]
+>
+> Gender consciousness has also meant broader public engagement with
+> questions of gender and sexuality, like that offered by the YouTube
+> video created by a group of young Jamaican men in response to the rape
+> of five women and girls. The video, titled [*Jamaican Anti-Rape
+> Campaign (Please Share)*](http://www.youtube.com/watch?v=IS8uJ9dol5s),
+> has received almost 40,000 views.[^16]
+>
+> The social media efforts of Ashlee Hinds, a twenty-three-year-old
+> Barbadian student, to create positive images of fat black women
+> resulted in a [transnational fashion
+> blog](http://www.bigbeautifulblackgirls.com) and [Facebook
+> page](http://www.facebook.com/BigBeautifulBlackGirls) titled [*Big
+> Beautiful Black Girls*](http://bigbeautifulblackgirls.tumblr.com),
+> with 217,434 followers.[^17]
 
 These are but a few examples of the significance of Caribbean
 cyberfeminist practices.
@@ -373,8 +374,6 @@ suggests a quick wit.[^31] While only five of the thirty-six blogs
 examined have been characterized as witty, it remains an important
 category for understanding feminist rhetorical strategies.
 
-### Table 1: Caribbean Feminist Blogs and Bloggers
-
 
 Blog Name | Blogger | Country | Categorization 
 ---------------------------- | ------------------- | ------------------------ | -----------------------------------
@@ -418,6 +417,8 @@ Sheroxlox | Amina Doherty | Antigua & Barbuda/Nigeria | Personal-is-political, c
 [Women Speak](http://womenspeak.tumblr.com) | WomenSpeak Project | Trinidad & Tobago | Curator
 [Writing “D”](http://debraprovidence.wordpress.com) | Debra Providence | St. Vincent and the Grenadines| +Feminism, poetry blog
 
+Table 1: Caribbean Feminist Blogs and Bloggers
+
 
 ## Feminist Positionality
 
@@ -434,9 +435,9 @@ pages, many of the bloggers expressly define themselves as feminist:
 > girls always. I often find myself revisiting areas pertaining to race,
 > blackness, anti-blackness, culture and identity to name just a
 > few.[^33]
-
-Three fabulous Caribbean feminist cousin-sisters.[^34]
-
+>
+> Three fabulous Caribbean feminist cousin-sisters.[^34]
+>
 > A feminist pop culture blog focused on film, television, music and
 > critical commentary on media representation.[^35]
 
@@ -635,16 +636,16 @@ platforms to denounce police killings in Linden*,* to share with a wider
 audience her submission to the Committee on the Elimination of
 Discrimination Against Women on the rights of lesbian, bisexual, and
 transgender women in Guyana, and to report on the efforts of Guyanese
-activists from women’s, LGBT, and disability rights organization to
+activists from women’s, LGBT, and disability rights organizations to
 mobilize against transphobic, homophobic, sexist, and ableist violence
 in Guyana. Sherlina later started her own blog, [Freedom by Any
 Means](http://freedombyanymeans.wordpress.com), on which she republishes
 articles from her *Stabroek News* column.[^53]
 
-BattyMamzelle, a US-educated twenty-three-year-old from Trinidad and
-Tobago, was a regular contributor to US-based commercial pop feminism
-site, *Jezebel*, with some of her most popular pieces gaining more than
-one million unique views. In 2013, she wrote a
+BattyMamzelle, a US-educated twenty-something from Trinidad and Tobago,
+was a regular contributor to US-based commercial pop feminism site,
+*Jezebel*, with some of her most popular pieces gaining more than one
+million unique views. In 2013, she wrote a
 [post](http://battymamzelle.blogspot.com/2013/10/Why-Im-Quitting-Jezebel.html#.UlqP_FCsim4)
 outlining her decision to no longer contribute to the site:
 
@@ -787,14 +788,15 @@ Online feminist spaces are important consciousness-raising and
 pedagogical sites for Caribbean feminists. These sites, however, are
 ones of unequal access and privilege. The necessity and challenges of
 working across and through difference, race/ethnicity, color, class, and
-privilege that Caribbean feminists organized in Sistren (Jamaica), Red
-Thread (Guyana), and the Caribbean Association for Feminist Research and
-Action persist as key issues for Caribbean feminist organizing.[^61]
-Caribbean historians have also called attention to the ways Indo- and
-Afro-creole nationalisms have marginalized indigenous people in the
-region.[^62] Investigations into the extent to which online feminisms
-reproduce and reframe these long-standing inequities and oppressions
-remain a key Caribbean cyberfeminist project.
+privilege that were identified two decades ago by Caribbean feminists
+organized in Sistren (Jamaica), Red Thread (Guyana), and the Caribbean
+Association for Feminist Research and Action persist as key issues for
+Caribbean feminist organizing.[^61] Caribbean historians have also
+called attention to the ways Indo- and Afro-creole nationalisms have
+marginalized indigenous people in the region.[^62] Investigations into
+the extent to which online feminisms reproduce and reframe these
+long-standing inequities and oppressions remain a key Caribbean
+cyberfeminist project.
 
 Online Caribbean feminisms are multigenerational, multiethnic,
 transnational, and Pan-Caribbean. Caribbean feminists have engaged in
@@ -812,7 +814,7 @@ reinscribing inequalities.
 
 ---
 
-## Appendix
+**Appendix**
 
 ***Blog Category:** Description (number of times used)*
 
@@ -841,8 +843,6 @@ attention (7)
 
 **Witty:** Blogs by writers for whom wit, humor, and wordplay are key
 rhetorical devices (5)
-
----
 
 [^1]: Sean Douglas, “Mayor: Beware Dangerous Sub-cultures,” *Trinidad
     and Tobago Newsday*, 11 February 2016,
