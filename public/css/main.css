@@ -316,11 +316,16 @@ img.project-image-toc {
 }
 
 
-.image-caption {
-        color: #939598;
-        margin-top: -.66rem;
-        font-size: .66rem;
-        text-align: right;
+span.image-caption {
+  color: #939598;
+  margin-top: -.66rem;
+  font-size: .5rem;
+  text-align: right;
+  padding-left: 20%;
+  float: right;
+  margin-bottom: 1.6rem;
+  line-height: .8rem;
+  width: 100%;
 }
 
 /* Other media */
