@@ -19,7 +19,7 @@ Department of Ancient History
 
 ## Yarimar Bonilla
 
-Yarimar Bonilla is an associate professor of anthropology and Latino & Caribbean Studies at Rutgers University, where she is on the executive board for the Advanced Institute for Critical Caribbean Studies. She teaches and writes about social movements, colonial
+Yarimar Bonilla is Associate Professor of anthropology and Latino & Caribbean Studies at Rutgers University, where she is on the executive board for the Advanced Institute for Critical Caribbean Studies. She teaches and writes about social movements, colonial
 legacies, and the politics of history in the Atlantic World. She is the author of *Non-Sovereign Futures: French Caribbean Politics in the Wake of Disenchantment* (2015) and is currently working on a book project about the statehood movement in Puerto Rico.
 
 ## Laurent Dubois
@@ -28,7 +28,7 @@ Laurent Dubois is Professor of Romance Studies and History and the Faculty Direc
 
 ## Anne Eller
 
-Anne Eller is an Assistant Professor of History at Yale University.  Her first book, *We Dream Together: Dominican Independence, Haiti, and the Fight for Caribbean Freedom*, will appear in late 2016 with Duke University Press.
+Anne Eller is Assistant Professor of History at Yale University.  Her first book, *We Dream Together: Dominican Independence, Haiti, and the Fight for Caribbean Freedom*, will appear in late 2016 with Duke University Press.
 
 ## David K. Garner
 
@@ -44,7 +44,7 @@ Max Hantel is a postdoctoral fellow in the Gender Research Institute at Dartmout
 Tonya Haynes lectures at the Institute for Gender and Development Studies: Nita Barrow Unit, blogs on redforgender.wordpress.com, and is a founding member of CODE RED for gender justice! and CatchAFyah Caribbean Feminist Network. She holds a PhD from the University of the West Indies and researches in the area of Caribbean feminisms and Caribbean Feminist Thought. Her work has been published in *Global Public Health* and *Small Axe: A Journal of Caribbean Criticism*.
 
 ##Jessica Marie Johnson
-Jessica Marie Johnson is an Assistant Professor of History at Michigan State University. Her work has appeared in *Slavery & Abolition*, *The Black Scholar*, *Meridians: Feminism, Race and Transnationalism*, and *Debates in the Digital Humanities*. As a digital humanist, Johnson explores the way digital and social media disseminate and create historical narratives, in particular, comparative histories of slavery and people of African descent.
+Jessica Marie Johnson is Assistant Professor of History at Michigan State University. Her work has appeared in *Slavery & Abolition*, *The Black Scholar*, *Meridians: Feminism, Race and Transnationalism*, and *Debates in the Digital Humanities*. As a digital humanist, Johnson explores the way digital and social media disseminate and create historical narratives, in particular, comparative histories of slavery and people of African descent.
 
 ## Kelly Baker Josephs
 
@@ -60,11 +60,11 @@ Martin Munro is Winthrop-King Professor of French and Francophone Studies at Flo
 
 ## Jeannine Murray-Román
 
-Jeannine Murray-Román (PhD Comparative Literature, UCLA) is an Assistant Professor of French and Spanish in the Department of Modern Languages and Linguistics at Florida State University. Her areas of specialization are comparative Caribbean literatures and Cultures with an interest in digital humanities and postcolonial, transnational, and performance studies. Her book, *Performance and Personhood in Caribbean Literature: From Alexis to the Digital Age* was published by University of Virginia Press in 2016.
+Jeannine Murray-Román (PhD Comparative Literature, UCLA) is Assistant Professor of French and Spanish in the Department of Modern Languages and Linguistics at Florida State University. Her areas of specialization are comparative Caribbean literatures and Cultures with an interest in digital humanities and postcolonial, transnational, and performance studies. Her book, *Performance and Personhood in Caribbean Literature: From Alexis to the Digital Age* was published by University of Virginia Press in 2016.
 
 ## Janet Neigh
 
-Janet Neigh is an Assistant Professor of English at Penn State Erie, The Behrend College. Her research is forthcoming in *The Cambridge Companion to Postcolonial Poetry* and has been published in *Feminist Formations*, *Modernism/modernity*, and *The Journal of West Indian Literature*.
+Janet Neigh is Assistant Professor of English at Penn State Erie, The Behrend College. Her research is forthcoming in *The Cambridge Companion to Postcolonial Poetry* and has been published in *Feminist Formations*, *Modernism/modernity*, and *The Journal of West Indian Literature*.
 
 ## David Scott
 
