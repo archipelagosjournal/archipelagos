@@ -88,65 +88,65 @@ investigations into the practices of journalists, and shut down websites
 with sexist content. Below are key signposts of the significance,
 emergence, and diversity of Caribbean cyberfeminisms:
 
-> Queen Macoomeh initiated an [online
-> petition](http://www.change.org/p/we-did-it-angostura-has-said-they-will-pull-the-ad-thank-you-all)
-> against an Angostura advertisement with the tag line “Avoid the
-> friendzone, offer her a real drink.” Angostura subsequently removed
-> the advertisement.[^9] The public protest against the advertisement,
-> especially via the online petition, was reported by international
-> media outlets such as Buzzfeed.[^10]
->
-> Malaika Brooks-Smith-Lowe of [Groundation
-> Grenada](http://groundationgrenada.com) and colleagues at the Goat
-> Dairy Project have used crowdfunding to raise US\$63,160 to support a
-> community agriculture project.[^11]
->
-> [WOMANTRA](http://womantratt.wix.com/home) won a 2013 grant from the
-> FRIDA Young Feminist Fund to organize a summer camp for girls
-> transitioning to secondary school in Trinidad and Tobago. This
-> demonstrates that communities that have their genesis online may
-> incubate others forms of political organizing and intervention.[^12]
->
-> Patrice Daniel, a twenty-nine-year-old feminist from Barbados and
-> frequent contributor to International Planned Parenthood Federation’s
-> blog, generated what I consider to be a key moment in Caribbean
-> feminist blogging history. Her “[An Open Letter to Caribbean Men, from
-> Caribbean
-> Women](http://rhrealitycheck.org/article/2013/03/12/an-open-letter-to-caribbean-men-from-caribbean-women)”
-> went viral, with over 10,000 shares on Facebook, demonstrating the
-> extent to which her words resonated not only with Caribbean women but
-> with women across the globe.[^13]
->
-> Caribbean women, many of whom identify as feminists and are active in
-> feminist and lesbian, gay, bisexual, and transgender (LGBT) organizing
-> have created online networks for “women who love women.” LGBT
-> organizations such as Guyana’s [Society Against Sexual Orientation
-> Discrimination](http://www.sasod.org.gy), Trinidad and Tobago’s
-> [Coalition Advocating for Inclusion of Sexual
-> Orientation](http://www.facebook.com/caiso), and St. Lucia’s [United
-> and Strong](http://unitedandstrongstlucia.wordpress.com) maintain a
-> significant online presence.[^14]
->
-> [*Air Me Now*](http://www.facebook.com/AirMeNow) is a [YouTube
-> show](http://www.youtube.com/playlist?list=PLLNiArTOn_azPDdIR4FvkyepgRQrb9K8Y)
-> hosted by women from Belize, the Bahamas, and Jamaica that highlights
-> “Caribbean women’s voices, Caribbean women’s issues, Caribbean <span
-> style="font-variant:small-caps;">oomanism</span>.”[^15]
->
-> Gender consciousness has also meant broader public engagement with
-> questions of gender and sexuality, like that offered by the YouTube
-> video created by a group of young Jamaican men in response to the rape
-> of five women and girls. The video, titled [*Jamaican Anti-Rape
-> Campaign (Please Share)*](http://www.youtube.com/watch?v=IS8uJ9dol5s),
-> has received almost 40,000 views.[^16]
->
-> The social media efforts of Ashlee Hinds, a twenty-three-year-old
-> Barbadian student, to create positive images of fat black women
-> resulted in a [transnational fashion
-> blog](http://www.bigbeautifulblackgirls.com) and [Facebook
-> page](http://www.facebook.com/BigBeautifulBlackGirls) titled [*Big
-> Beautiful Black Girls*](http://bigbeautifulblackgirls.tumblr.com),
-> with 217,434 followers.[^17]
+- Queen Macoomeh initiated an [online
+ petition](http://www.change.org/p/we-did-it-angostura-has-said-they-will-pull-the-ad-thank-you-all)
+ against an Angostura advertisement with the tag line “Avoid the
+ friendzone, offer her a real drink.” Angostura subsequently removed
+ the advertisement.[^9] The public protest against the advertisement,
+ especially via the online petition, was reported by international
+ media outlets such as Buzzfeed.[^10]
+
+- Malaika Brooks-Smith-Lowe of [Groundation
+ Grenada](http://groundationgrenada.com) and colleagues at the Goat
+ Dairy Project have used crowdfunding to raise US\$63,160 to support a
+ community agriculture project.[^11]
+
+- [WOMANTRA](http://womantratt.wix.com/home) won a 2013 grant from the
+ FRIDA Young Feminist Fund to organize a summer camp for girls
+ transitioning to secondary school in Trinidad and Tobago. This
+ demonstrates that communities that have their genesis online may
+ incubate others forms of political organizing and intervention.[^12]
+
+- Patrice Daniel, a twenty-nine-year-old feminist from Barbados and
+ frequent contributor to International Planned Parenthood Federation’s
+ blog, generated what I consider to be a key moment in Caribbean
+ feminist blogging history. Her “[An Open Letter to Caribbean Men, from
+ Caribbean
+ Women](http://rhrealitycheck.org/article/2013/03/12/an-open-letter-to-caribbean-men-from-caribbean-women)”
+ went viral, with over 10,000 shares on Facebook, demonstrating the
+ extent to which her words resonated not only with Caribbean women but
+ with women across the globe.[^13]
+
+- Caribbean women, many of whom identify as feminists and are active in
+ feminist and lesbian, gay, bisexual, and transgender (LGBT) organizing
+ have created online networks for “women who love women.” LGBT
+ organizations such as Guyana’s [Society Against Sexual Orientation
+ Discrimination](http://www.sasod.org.gy), Trinidad and Tobago’s
+ [Coalition Advocating for Inclusion of Sexual
+ Orientation](http://www.facebook.com/caiso), and St. Lucia’s [United
+ and Strong](http://unitedandstrongstlucia.wordpress.com) maintain a
+ significant online presence.[^14]
+
+- [*Air Me Now*](http://www.facebook.com/AirMeNow) is a [YouTube
+ show](http://www.youtube.com/playlist?list=PLLNiArTOn_azPDdIR4FvkyepgRQrb9K8Y)
+ hosted by women from Belize, the Bahamas, and Jamaica that highlights
+ “Caribbean women’s voices, Caribbean women’s issues, Caribbean <span
+ style="font-variant:small-caps;">oomanism</span>.”[^15]
+
+- Gender consciousness has also meant broader public engagement with
+ questions of gender and sexuality, like that offered by the YouTube
+ video created by a group of young Jamaican men in response to the rape
+ of five women and girls. The video, titled [*Jamaican Anti-Rape
+ Campaign (Please Share)*](http://www.youtube.com/watch?v=IS8uJ9dol5s),
+ has received almost 40,000 views.[^16]
+
+- The social media efforts of Ashlee Hinds, a twenty-three-year-old
+ Barbadian student, to create positive images of fat black women
+ resulted in a [transnational fashion
+ blog](http://www.bigbeautifulblackgirls.com) and [Facebook
+ page](http://www.facebook.com/BigBeautifulBlackGirls) titled [*Big
+ Beautiful Black Girls*](http://bigbeautifulblackgirls.tumblr.com),
+ with 217,434 followers.[^17]
 
 These are but a few examples of the significance of Caribbean
 cyberfeminist practices.
@@ -396,9 +396,6 @@ Blog Name | Blogger | Country | Categorization
 [The Guyanese Experience](http://sarabharrat.wordpress.com) | Sara Bharrat | Guyana | Culture critic, personal is political, +Feminism
 [Jamaica Woman Tongue](http://carolynjoycooper.wordpress.com) | Carolyn Cooper | Jamaica | Feminist-academic, media crossover, culture critic, witty
 [The Mongoose Chronicles](http://mongoosechronicles.blogspot.com) | Mar/Mar the Mongoose | Barbados | Culture critic, witty
-
-Blog Name | Blogger | Country | Categorization 
----------------------------- | ------------------- | ------------------------ | -----------------------------------
 [MooreTalkJa](http://mooretalkja.wordpress.com) | Carla Moore | Jamaica| Media crossover, personal-is-political, witty, culture critic, feminist-academic
 [Negra Cubana tenia que ser](http://negracubanateniaqueser.wordpress.com) | Sandra Abd’Allah-Alvarez Ramírez/Negra Cubana | Cuba | Feminist-academic, culture critic
 [One Nation...Many Bodies...Boundless Faith](http://onenationmanybodies.wordpress.com) | Colin Robinson | Trinidad & Tobago| Media crossover, LGBT , +Feminism
@@ -843,6 +840,8 @@ attention (7)
 
 **Witty:** Blogs by writers for whom wit, humor, and wordplay are key
 rhetorical devices (5)
+
+---
 
 [^1]: Sean Douglas, “Mayor: Beware Dangerous Sub-cultures,” *Trinidad
     and Tobago Newsday*, 11 February 2016,
