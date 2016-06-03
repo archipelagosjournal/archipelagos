@@ -325,6 +325,7 @@ span.image-caption {
   float: right;
   margin-bottom: 1.6rem;
   line-height: .8rem;
+  width: 100%;
 }
 
 /* Other media */
