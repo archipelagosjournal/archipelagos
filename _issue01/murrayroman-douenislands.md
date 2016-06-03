@@ -15,11 +15,11 @@ abstract: "The Douen Islands project was cofounded in 2013 by a group of Trinida
 ---
 
 In describing his aims in conceiving of a collaboratively written,
-destined-for-Internet-publication book of poetry, Andre Bagoo states, "I
+destined-for-Internet-publication book of poetry, Andre Bagoo states, “I
 wanted to use the internet as a forum for sharing this particular work.
 I wanted to do something compelling online, in a way that we might not
 expect, given the subject matter, or given our idea of Caribbean
-poetry."[^1] The result of this inspiration is Douen Islands, an
+poetry.”[^1] The result of this inspiration is Douen Islands, an
 artists’ collective based in Port of Spain, Trinidad and Tobago, and
 spearheaded by poet and journalist Bagoo (1983–), with graphic designer
 and visual artist Kriston Chen (1982–).The folkloric figure that anchors
@@ -30,13 +30,15 @@ notoriously mysterious figure of the douen undergoes when Douen Islands
 creates an identity for it on the social media platforms of Twitter and
 Tumblr. This conjunction of private and social is salient in both of the
 projects Douen Islands has produced as of March 2016. In the first
-manifestation, the e-book [*Douen Islands Issue 001: Tomorrow Please God*](http://www.dropbox.com/s/1kopn1kb0st781s/DouenIslands.pdf){:target="_blank"}, the collective, which included Brianna McCarthy (illustrator), Sharda
+manifestation, the e-book [*Douen Islands Issue 001: Tomorrow Please
+God*](http://www.dropbox.com/s/1kopn1kb0st781s/DouenIslands.pdf), the
+collective, which included Brianna McCarthy (illustrator), Sharda
 Patasar (sitarist), and Rodell Warner (artist), published a downloadable
 PDF on the official Douen Islands Tumblr page, released on 31 October
 2013.[^2] Douen Islands’s second manifestation was an experimental
 poetry reading at the Alice Yard performance space in Port of Spain,
 which took place on 12 April 2014.[^3] Named after one of Bagoo’s poems
-in *Tomorrow Please God*, "In Forest and Wild Skies," the event featured
+in *Tomorrow Please God*, “In Forest and Wild Skies,” the event featured
 readings by Bagoo, Sharon Millar, and Shivanee Ramlochan, as well as
 live tweets by Warner. Both the e-book and the poetry reading were
 organized around the project’s goals to welcome the douen in from its
@@ -52,12 +54,12 @@ Twitter, like other microblogging platforms, is most known for short but
 constantly updated descriptions of users’ quotidian observations and
 experiences. Douen Islands draws on this incremental and short-form
 performance of identity, which is based on ongoing disclosures through
-"a staccato of one-liners" that are, as Michele Zappavigna writes, meant
+“a staccato of one-liners” that are, as Michele Zappavigna writes, meant
 to affiliate users to one another.[^4] The collective also relies on the
 platform’s formal elements, notably, the discontinuity of tweets,
 Twitter’s reverse chronological organization, and a volume of production
 that creates effective ephemerality. First, while tweets can be linked
-together with "cont." or "1 out of x number \[of tweets\]," generally
+together with “cont.” or “1 out of x number \[of tweets\],” generally
 they are assumed to be discontinuous, recording separate ideas and
 located in separate contexts. As such, they lend themselves to the work
 of de- and recontextualization to which Chen puts Warner’s tweets when
@@ -82,10 +84,10 @@ large, floppy straw hat. Its only absolutely fixed characteristic is
 that its feet are on backward.[^6] In the project description on his
 website, Chen remarks that he was inspired by Alfred Codallo’s
 representation of Trinidad’s mythology in the 1958 watercolor
-"Folklore."[^7] In this painting, which art critic and artist Kenwyn
-Chrichlow identifies as providing, in an art historical context, "a
+“Folklore.”[^7] In this painting, which art critic and artist Kenwyn
+Chrichlow identifies as providing, in an art historical context, “a
 reflection of concerns expressed during the decolonization of Trinidad
-and Tobago in the years before political Independence in 1962," the
+and Tobago in the years before political Independence in 1962,” the
 douen are on the margins of the frame or on the edges of the river,
 their awkward feet requiring a double-take in an already fantastical
 painting.[^8] As filtered through this painting, the folk figure has a
@@ -101,7 +103,7 @@ neglect that I consider Chen’s incorporation of Warner’s tweets into
 *Tomorrow Please God* as well as Warner’s live-tweeting during Douen
 Islands’s Alice Yard event.
 
-Douen Islands uses Tumblr as the primary organ for publishing and
+Douen Islands has used Tumblr as the primary organ for publishing and
 advertising its works and events, including its first manifestation,
 *Tomorrow Please God*, which Chen designed with InDesign for screenic
 reading as a PDF. Digital tools are important to two aspects of the
@@ -118,9 +120,9 @@ and in relation to Warner’s Twitter feed. Bagoo, Chen, and Warner had
 been working together for some time before the creation of *Tomorrow
 Please God*, and when Chen was designing the e-book, he identified
 tweets from Warner’s feed that resonated with Bagoo’s poems. As Chen
-recollects, "Nothing was decided, no instructions were given to Rodell.
-Just him doing what he was already doing and if anything that struck me,
-then we’d use it."[^9] Chen therefore curated the serendipitous
+recollects, “Nothing was decided, no instructions were given to Rodell.
+Just him doing what he was already doing, and if anything struck me,
+then we’d use it.”[^9] Chen therefore curated the serendipitous
 resonances between Warner’s microblogging and Bagoo’s poetry with
 evocative results for thinking about the interaction between social
 media and digital art.
@@ -129,13 +131,13 @@ Both the process and product of *Tomorrow Please God* are grounded in
 artistic exchanges facilitated by text first produced for social media
 platforms. *Tomorrow Please God* was published as a downloadable file in
 Dropbox and accessible on the Douen Islands Tumblr site from October
-2013 to January 2016. As Bagoo comments, "The Internet, while it often
+2013 to January 2016. As Bagoo comments, “The Internet, while it often
 is seen to be in animus with publishing, might also be an opportunity
 for post-colonial countries like ours, to publish our own stories in our
-own ways, using cyberspace’s breadth of tools and its reach."[^10]
+own ways, using cyberspace’s breadth of tools and its reach.”[^10]
 Elsewhere, Bagoo has spoken about the difficulties presented by the
 absence of publishers or institutional support for the arts in Trinidad
-and Togabo.[^11] Bagoo’s insistence on the local—"our own"—can find
+and Togabo.[^11] Bagoo’s insistence on the local—“our own”—can find
 logistical support in the Internet’s capacity to make the text available
 locally and immediately, without needing to send the text abroad and
 subject it to potentially homogenizing influences before returning it to
@@ -170,7 +172,7 @@ tweeting subject.
 
 ## "In Forest and Wild Skies": The Backchannel and the Bathroom
 
-"In Forest and Wild Skies" was "an experimental evening" of poetry at
+“In Forest and Wild Skies” was “an experimental evening” of poetry at
 Alice Yard, Port of Spain, on 12 April 2014. Andre Bagoo, Sharon Millar,
 and Shivanee Ramlochan did not give their readings from lecterns, facing
 the audience; the poets were deliberately separated from their
@@ -182,14 +184,16 @@ Ramlochan’s case, silently
 [writing](http://www.instagram.com/p/m_SDXEGxJn/?taken-by=douenislands)
 on the walls in chalk.[^12] As part of the performance, Kriston Chen
 engineered a soundtrack based on recordings of Sharda Patasar’s sitar
-performances, now housed on the [Douen Islands Soundcloud page](http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar),
-and [Chen’s visual work](http://www.instagram.com/p/m89WgVGxCB/?taken-by=douenislands) was
+performances, now housed on the [Douen Islands Soundcloud
+page](http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar),
+and [Chen’s visual
+work](http://www.instagram.com/p/m89WgVGxCB/?taken-by=douenislands) was
 projected throughout the space, inviting audience members to interact
 with both text and image.[^13] Within this event dedicated to douen
 voices and experimenting with constrained spaces, staging new
 relationships between speakers and audiences, Rodell Warner contributed
 live tweets at the event, which were projected into the bathroom and
-dubbed "Live-Tweet Stalls." The Live-Tweet Stalls doubled down on the
+dubbed “Live-Tweet Stalls.” The Live-Tweet Stalls doubled down on the
 douen’s marginalization and called attention to the kind of
 articulations that are most possible in spaces that are on the edge of
 the social. The Live-Tweet Stalls both dwelled in the subversive
@@ -202,23 +206,24 @@ entry into the domain of the social that the tweeting douen must manage.
 
 For Warner, a photographer and conceptual artist based in Port of Spain,
 this interaction between the private and the social is a long-held
-interest. One of his early installation pieces, "Photobooth," generated
+interest. One of his early installation pieces, “Photobooth,” generated
 this dynamic. An interactive photography installation first assembled
 during the 2009 Erotic Art Week Port of Spain at Alice Yard,[^14] Warner
-created what Dave Williams describes as a "tiny white cocoon, . . .
+created what Dave Williams describes as a “tiny white cocoon, . . .
 shrouded off from the rest of the small Alice Yard annex by draping
-yards of white fabric from the ceiling," in which participants were
+yards of white fabric from the ceiling,” in which participants were
 invited to stage their full-body portraits with as much of their bodies
 playfully and explicitly revealed or concealed according to their own
-choosing; [these photographs](http://www.rodellwarner.com/index.php?/photobooth/) were
+choosing; [these
+photographs](http://www.rodellwarner.com/index.php?/photobooth) were
 then exhibited during the nine-day run.[^15] This conjunction of
-intimate interaction and exhibition in "Photobooth" created a nexus
+intimate interaction and exhibition in “Photobooth” created a nexus
 between the private and the social, the cocoon and the digital photo.
 The installation was structured by its intermediality, a term that, as
 Marcela Fuentes explains, identifies how the interaction of live
 performance practices and digital practices can constitute a specific
-experiential space.[^16] Warner’s writing of live tweets for "In Forest
-and Wild Skies" shares a similar dynamic engagement between the digital
+experiential space.[^16] Warner’s writing of live tweets for “In Forest
+and Wild Skies” shares a similar dynamic engagement between the digital
 and the live. During the event, Warner’s writing appeared in two spaces:
 on the Douen Islands’s feed on Twitter and the bathroom walls at Alice
 Yard onto which the feed was projected. The Live-Tweet Stalls combined
@@ -229,7 +234,7 @@ to the out of sight, reinforcing the douen’s isolation, while also
 publicizing the douen’s presence by placing it into social media
 circulation.
 
-Warner’s participation in "In Forest and Wild Skies" used Twitter to
+Warner’s participation in “In Forest and Wild Skies” used Twitter to
 shift the douen’s potentially subversive voice from the margins into an
 event’s broader discourse. Because of the critical and even mocking
 twist that the live tweets brought to the core questions of social
@@ -250,7 +255,7 @@ question-and-answer period might take.[^17] The genre can also create
 alternate programming accompanying the actual event: sites of instant
 critique, parody, mockery, and even derailments of the official
 presenters’ aims reshape the conversation so that it speaks to the
-audience’s concerns. During "In Forest and Wild Skies," because Warner
+audience’s concerns. During “In Forest and Wild Skies,” because Warner
 tweeted from @douenislands, his participation was both evidently
 coordinated with the event, and simultaneously added a sardonic edge to
 the evocations of the douen taking place at Alice Yard.
@@ -305,7 +310,8 @@ irreverent child-spirit, with a cutting and succinct, even laconic,
 wit—as is necessary for the 140-character limitation of the tweeted
 utterance. For example, when playing off the title of Douen Islands’s
 e-book, *Tomorrow Please God*, Warner as @douenislands inverted the
-subject of address from God to a curse: "tomorrow please muh muddacunt"
+subject of address from God to a curse: “[tomorrow please muh
+muddacunt](https://twitter.com/douenislands/status/455141412678684672)”
 (5:32 p.m.).[^19] The specific colloquialisms and verbal constructions
 of English as spoken in the Caribbean was Warner’s quickest route to
 roughening up everything from the national mottos of Trinidad and Tobago
@@ -316,7 +322,7 @@ tweets remain available for analysis as an archive as of April 2016,
 creating new dynamics separate from how the individual live tweets
 functioned as part of the evening’s performance event and permitting a
 retrospective reading of how the tweeting of douen’s descriptions of
-self and address to readers shifted over the course the evening. The
+self and address to readers shifted over the course of the evening. The
 first twelve tweets assert self-definitions and ask questions that also
 identify the douen’s properties, as in Warner’s first tweet of the
 evening as @douenislands, for example:
@@ -338,11 +344,13 @@ and ambiguous tone.[^21] This ambiguity present in each individual tweet
 can preserve the douen’s footprints’ characteristic unreadability in its
 electronic traces. But as the queries accumulate, the tweets develop a
 melancholic tenor. Among the first series of tweets are two tweets that
-punctuate the questions with acute pain and recrimination: "plenty
-outta allyuh never loss"
-(5:25 p.m.) and "plenty times loss"
-(5:29 p.m.).[^22] Warner voices the douen’s participation on Twitter as
-a dynamic between accusation toward others and isolation of the self.
+punctuate the questions with acute pain and recrimination: “[plenty
+outta allyuh never
+loss](https://twitter.com/douenislands/status/455139629243842560)” (5:25
+p.m.) and “[plenty times
+loss](https://twitter.com/douenislands/status/455140625386835969)” (5:29
+p.m.).[^22] Warner voices the douen’s participation on Twitter as a
+dynamic between accusation toward others and isolation of the self.
 Considering the live tweets’ archive in the aggregate, Warner oscillates
 between the introspection of self-definition and conversational
 engagement with readers.
@@ -352,7 +360,8 @@ with the other happenings in that place, and, because they are only
 available for a few minutes to the public, the tweets do not constitute
 a stable and consistently accessible text in its screenic iteration as
 part of the Alice Yard performance. As visible in figure 1, the
-[Live-Tweet Stalls](http://www.instagram.com/p/m8-KI0GxDb/?taken-by=douenislands)
+[Live-Tweet
+Stalls](http://www.instagram.com/p/m8-KI0GxDb/?taken-by=douenislands)
 featured one tweet at a time rather than the entire feed. Warner’s
 live-tweeting, which began at 5:13 p.m. and ended at 6:49 p.m., includes
 fifty-four tweets. With a rate of roughly one tweet every two minutes,
@@ -361,8 +370,8 @@ at aleatory transience than the creation of a coherent archive—even if
 such an archive remains available on the Douen Islands Twitter feed as
 of February 2016. In a discussion of art installations in which texts
 are likewise available for reading only momentarily, Rita Raley says of
-such cases, "There is no stable text that one can look *at* for a
-meaningful period of time. They are not texts but text effects."[^23]
+such cases, “There is no stable text that one can look *at* for a
+meaningful period of time. They are not texts but text effects.”[^23]
 Moreover, in heavily used social media accounts, the volume at which
 tweets are produced and the limited number of tweets that comprise a
 feed means that tweets generally have a very short time period of
@@ -370,9 +379,9 @@ availability for reading. The posting and responding that takes place on
 active feeds is so rapid that older material is pushed off of the page
 and becomes inaccessible to users who are not following in real time, as
 is the case for Warner’s personal accounts, for example.[^24] For
-performance artists such as Man Bartlett, who comments that "seeing a
+performance artists such as Man Bartlett, who comments that “seeing a
 version of time suspended isn’t nearly as interesting to \[him\], no
-matter how it’s archived," this intangibility and the impossibility of
+matter how it’s archived,” this intangibility and the impossibility of
 preserving the work is a reason to produce work on Twitter.[^25] For
 Warner’s tweeting douen, the instability of the text and the
 inaccessibility of tweets creates an experience of effective
@@ -386,19 +395,19 @@ Caribbean folklore indicate that the douen plays pranks on children
 because they are the easiest to trap into following the douen into the
 forest where the douen abandons them. This version assumes that the
 childhood home is an unequivocal site of protection.[^26] But the story
-included in Gérard Besson’s essay, which Chen and Bagoo both read,
+included in Gérard Besson’s essay, which both Chen and Bagoo read,
 discussed, and cited in an interview with Nicholas Laughlin, calls into
 question the implication that the douen target children out of caprice
-or malevolence. Instead, Besson’s source notes that "the Duenn is haunt
-the parent" who has no time or attention for her child.[^27] Here, the
+or malevolence. Instead, Besson’s source notes that “the Duenn is haunt
+the parent” who has no time or attention for her child.[^27] Here, the
 douen is attracted to the homes where children are not protected,
-perhaps going so far as to acting out of sense of retributive justice by
-removing the children from their homes in order to care for them in the
-forest. Angelo Bissessarsingh recalls a story told about a douen in the
-1940s near Siparia, where a four-year-old child had been lost in the
+perhaps going so far as to acting out of a sense of retributive justice
+by removing the children from their homes in order to care for them in
+the forest. Angelo Bissessarsingh recalls a story told about a douen in
+the 1940s near Siparia, where a four-year-old child had been lost in the
 forest after his parents turned away from him, and when he was found
 alive and healthy months later, his well-being was credited to douens,
-the beings the child called "his friends."[^28] Reading back through
+the beings the child called “his friends.”[^28] Reading back through
 Besson’s and Bissessarsingh’s stories, the first version wrongly shifts
 blame for children’s abandonment onto the douen.
 
@@ -406,11 +415,11 @@ Turning away from the question of blame altogether, Laughlin proposes
 that the douen as represented in Douen Islands can serve as an allegory
 for the sociopolitical conditions of abandonment and neglect, one that
 both creates the douen and is experienced similarly by the contemporary
-Trinidadian reader: "Invited in from the wilderness and dark, with
+Trinidadian reader: “Invited in from the wilderness and dark, with
 supernatural deformities erased, the douen looks more and more like any
 Trinidadian of the post-Independence generation: mischievous but
 bewildered, uncertain of his social birthright, possibly hapless,
-possibly not helpless."[^29] Drawing similarities between douens and
+possibly not helpless.”[^29] Drawing similarities between douens and
 contemporary Trinidadians, as Laughlin does and as Bagoo and Chen do in
 their interview with Laughlin about Douen Islands, highlights the extent
 to which the refusal of responsibility that characterizes the
@@ -425,10 +434,10 @@ with the effective ephemerality of Twitter feeds. Second, the douen’s
 spatially reversed paths are akin to Twitter’s temporally reverse
 chronology by creating similar backward reading practices that the
 feed’s organization demands. As Ann González comments about another
-Caribbean folk figure that is known for backward-pointing feet, "Walking
+Caribbean folk figure that is known for backward-pointing feet, “Walking
 in reverse becomes a metaphor, like reading in reverse, for a form of
 duplicity that offers a space for resistance inside the dominant
-codes."[^30] When the backward paths of the traditional douen are paired
+codes.”[^30] When the backward paths of the traditional douen are paired
 with the genre conventions of writing on Twitter, the figure of the
 douen plays with the possibility of rejecting the gesture of welcome
 into the social sphere offered by Douen Islands projects and reasserts
@@ -438,11 +447,11 @@ its place in the margins where it is protected by its unreadability.
 
 Facing the authors’ page of *Tomorrow Please God* is a list of goals
 regarding the intervention into the figure of the douen, goals that are
-rearticulated in various interviews and publicity materials: "Douen
+rearticulated in various interviews and publicity materials: “Douen
 Islands is a devious remixing of traditional Douen culture. (a) Remove
 the straw hats. (b) Invite them inside. (c) Straighten their feet. (d)
 All of the above. This is an open collaboration to incite anxiety,
-provoke beauty" (n.p.). Douen Islands suggests looking at the douen’s
+provoke beauty” (n.p.). Douen Islands suggests looking at the douen’s
 erased faces instead of using straw hats to avoid confronting their
 horror and to bring them into the body politic. Undergirding this list
 of actions is an impetus to care for the douen by attempting to repair
@@ -476,14 +485,14 @@ with the platform and also plays with the expectations for how the
 platform is best used. Particularly for young users, Tumblr is known as
 a social network in which, instead of the curated performance of
 effortless perfection most associated with Facebook and Instagram,
-users, as Elspeth Reeve writes, "confess their most vulnerable moments
-of social mortification" and dwell in the melancholy of heartbreak and
+users, as Elspeth Reeve writes, “confess their most vulnerable moments
+of social mortification” and dwell in the melancholy of heartbreak and
 social exclusion.[^31] The douen, in some key ways, corresponds to the
 persona of the young, anonymous, and depressed Tumblr user: the douen
 has no fixed gender, wears a straw hat covering its face and its long
 hair plaited in the juvenile style of two braids. In some descriptions
 it is said to call children by name, in others, to have a hollow, owlish
-nonverbal "whoop" sound that sometimes devolves into cries and
+nonverbal “whoop” sound that sometimes devolves into cries and
 whimpers.[^32] While the affective tenor of this vein of Tumblr usage
 might therefore suit the douen’s soft hooting sound that echoes
 throughout the forest, as in all blogging platforms a user’s identity
@@ -498,10 +507,10 @@ around the Web or uploaded to the Tumblr site that all speak to one
 specific concept. Tumblr evolved to include text posts of any length as
 well as music, videos, and links; but because it was first developed for
 users to post one image per entry, the medium is particularly suited for
-aggregating visual collections, "sets of images organized through
-individual curatorial work and through collective reblogging draw
+aggregating visual collections, “sets of images organized through
+individual curatorial work \[that\] through collective reblogging draw
 attention to complex realms of identity, experience, and power
-relations," as Marty Fink and Quinn Miller discuss with regards to
+relations,” as Marty Fink and Quinn Miller discuss with regards to
 sexual self-representation on Tumblr.[^33] This common use for Tumblr
 could also be salient to the project of representing and intervening in
 the figure of the douen. However, the Douen Islands Tumblr site is not a
@@ -524,8 +533,9 @@ invitation to discover the text by clicking the download link.
 
 
 In the run-up to the Alice Yard event, Douen Islands uploaded
-invitations and videos advertising "In Forest and Wild Skies"; the
-videos were then used as part of Bagoo’s poetry reading:[^34]
+invitations and videos advertising “In Forest and Wild Skies”; the
+[videos](https://vimeo.com/78231839) were then used as part of Bagoo’s
+poetry reading:[^34]
 
 {% include image.html
             img="issue01/douenislands-invitation.png"
@@ -570,8 +580,8 @@ Twitter feeds.
 As an e-book published on Tumblr and incorporating the images of tweets,
 *Tomorrow Please God* skirts the boundaries of an example of digital art
 and Net art. As Robert Simanowski explains the terms, digital art
-"depends on digital technology not only for distribution but also for
-aesthetic effect," whereas "connectedness provided by the internet"
+“depends on digital technology not only for distribution but also for
+aesthetic effect,” whereas “connectedness provided by the internet”
 defines Net art.[^36] The digital technology marking the production
 values of the PDF is particularly evident throughout the text, for
 example, in the full-spread images of the sea placed at two locations in
@@ -583,7 +593,7 @@ PDF that is then disseminated on Tumblr offers an example of how content
 can shift across different digital platforms and indicates the
 social-mediatization of *Tomorrow Please God*.[^37] To recall Raley’s
 discussion of how a text can be transformed into text effect through
-"the shift from static pages to real-time streaming data," here the text
+“the shift from static pages to real-time streaming data,” here the text
 is the gesture to real-time streaming data within the static pages of a
 PDF that produces the transient and conversational experience of text
 effects within a text. *Tomorrow Please God* extends the possibility of
@@ -592,11 +602,11 @@ through their very inclusion in an un-networked e-book.
 
 *Tomorrow Please God* explores the project’s aim to heal and integrate
 the douen, a project that itself is in process, as we see in the present
-progressive of Bagoo’s discussion of the project’s trajectory: "*Douen
+progressive of Bagoo’s discussion of the project’s trajectory: “*Douen
 Islands* is about growing up in a world while coming to terms with
 injustice in all its forms: violence and crime, racism, homophobia,
 religious bigotry, classism, stigmatisation. It is about moving from a
-place of blind rage to a place approaching knowledge."[^38]
+place of blind rage to a place approaching knowledge.”[^38]
 
 Beginning from the douen’s social position of being subjected to
 injustice, Douen Islands explores how to pivot away from the douen’s
@@ -608,9 +618,9 @@ footprints and feet infer that the douen retains its devious potential
 for misdirection. Chen’s focus on the formation of the body insists on
 the douen’s fantastical physicality and the ambivalent traces it
 produces. Drawings of the skeletal and muscular structure of heads,
-spines, legs and especially feet and footprints recur in the margins, in
-the background, and occasionally centered on the page. While the
-prevalence of these visual elements reminds the reader of the
+spines, legs, and especially feet and footprints recur in the margins
+and in the background and are occasionally centered on the page. While
+the prevalence of these visual elements reminds the reader of the
 specificities of the douen’s body, the douen’s physical differences are
 not made an object of horrified fascination. One full-page spread, for
 example, places a diagram demonstrating how a child’s back straightens
@@ -654,7 +664,7 @@ half-backward pair of feet will leave behind?
 The two shadowboxes, with the brain on the left side and the
 ambi-directional pair of footprints on the right, are elevated above a
 background of David LeVay’s *Anatomy, Second Edition*, discussing
-"deviated" feet.[^39] The placement allows the two framed images to
+“deviated” feet.[^39] The placement allows the two framed images to
 borrow the background page’s arrow, literally drawing a causal
 connection from the brain’s cognition to the feet’s unreadable
 directionality.
@@ -680,10 +690,10 @@ A brief bildungsroman, the tweets begin with the douen’s birth in the
 reader’s imagination and offer the reader a set of instructions for how
 to interact with the douen in order to counter its folk origins as a
 figure of abandonment. Consider, however, reading the tweets in the same
-order as the rest of the text. The narrative in that order appears: "you
-know me" (inside the cover page), "love is eyes" (facing the table of
-contents), "imagine giving birth to me" (20), "raise me" (21). To be
-introduced to a character with the phrase "you know me" before even
+order as the rest of the text. The narrative in that order appears: “you
+know me” (inside the cover page), “love is eyes” (facing the table of
+contents), “imagine giving birth to me” (20), “raise me” (21). To be
+introduced to a character with the phrase “you know me” before even
 knowing that the douen is the subject of the e-book and without having
 had the chance to explore the douen’s remixed identity through the text
 seems bewildering, if not menacing—a tone that is very in keeping with
@@ -715,8 +725,8 @@ cropping out the time-stamps that are normally marked on each tweet,
 next to the name and handle, the tweets can be read as being outside of
 the immediacy that usually governs the relevance and accessibility of
 utterances on Twitter. Moreover, repeating the phrases is meant,
-according to Chen, to "amp up the feeling of being in a forest with
-douens."[^40] Coming from multiple locations within the darkened forest,
+according to Chen, to “amp up the feeling of being in a forest with
+douens.”[^40] Coming from multiple locations within the darkened forest,
 the source of their multiple and demanding reiterations would not be
 identifiable. In this sense, the douen’s melancholy and echoing hooting
 never loses its timeliness, and the tweets function as constantly
@@ -751,8 +761,8 @@ douen retains its capacity for devious and deviant paths.
 
 ---
 
-[^1]: Andre Bagoo, quoted in Nicholas Laughlin, "*Douen Islands* and the
-    Art of Collaboration," *Caribbean Review of Books*, 4 November 2013,
+[^1]: Andre Bagoo, quoted in Nicholas Laughlin, “*Douen Islands* and the
+    Art of Collaboration,” *Caribbean Review of Books*, 4 November 2013,
     caribbeanreviewofbooks.com/2013/11/04/douen-islands-and-the-art-of-collaboration.
 
 [^2]: Douen Islands, *Douen Islands Issue 001: Tomorrow Please God*,
@@ -775,27 +785,27 @@ douen retains its capacity for devious and deviant paths.
     characteristic of the backward feet with Trinidad and Tobago’s douen
     can be found throughout Latin America as *el duende*.
 
-[^7]: See Kriston Chen, "Douen Islands: In Forest and Wild Skies," 1
+[^7]: See Kriston Chen, “Douen Islands: In Forest and Wild Skies,” 1
     August 2014,
     www.notsirk.com/blog/2014/7/31/douen-islands-into-forests-wild-skies.
 
-[^8]: See Kenwyn Chrichlow, "Figures at the Forest’s Edge," *Kaieteur
+[^8]: See Kenwyn Chrichlow, “Figures at the Forest’s Edge,” *Kaieteur
     News Online*, 6 June 2010,
     www.kaieteurnewsonline.com/2010/06/06/%E2%80%98figures-trapped-at-the-forest%E2%80%99s-edge%E2%80%99.
 
 [^9]: Kriston Chen, e-mail message to author, 8 July 2015.
 
-[^10]: Andre Bagoo, quoted in Laughlin, "*Douen Islands* and the Art of
-    Collaboration."
+[^10]: Andre Bagoo, quoted in Laughlin, “*Douen Islands* and the Art of
+    Collaboration.”
 
-[^11]: See Geosi Gyasi, "Interview with Trinidadian Poet, Andre Bagoo,"
+[^11]: See Geosi Gyasi, “Interview with Trinidadian Poet, Andre Bagoo,”
     25 April 2015,
     geosireads.wordpress.com/2015/04/25/interview-with-trinidadian-poet-andre-bagoo.
 
 [^12]: See www.instagram.com/p/m9BmgSGxJS/?taken-by=douenislands; and
     www.instagram.com/p/m\_SDXEGxJn/?taken-by=douenislands. See also
-    performance stills included in Ramlochan’s review of the event, "An
-    Evening of Alice Yard Douens," 14 April 2014,
+    performance stills included in Ramlochan’s review of the event, “An
+    Evening of Alice Yard Douens,” 14 April 2014,
     www.bocaslitfest.com/2014/an-evening-of-alice-yard-douens.
 
 [^13]: See
@@ -807,20 +817,20 @@ douen retains its capacity for devious and deviant paths.
     place at the Bohemia Gallery in Port of Spain.
 
 [^15]: See www.rodellwarner.com/index.php?/photobooth; and Dave
-    Williams, "Losing Your Head in the Photobooth," *sx salon*, 9
+    Williams, “Losing Your Head in the Photobooth,” *sx salon*, 9
     November 2009,
     smallaxe.net/wordpress3/works/2009/11/09/dave-williams-on-rodell-warner.
 
-[^16]: Marcela Fuentes, "Performance Constellations: Memory and Event in
-    Digitally Enabled Protests in the Americas," *Text and Performance
+[^16]: Marcela Fuentes, “Performance Constellations: Memory and Event in
+    Digitally Enabled Protests in the Americas,” *Text and Performance
     Quarterly* 31, no. 1 (2015): 34.
 
 [^17]: See Cliff Atkinson, *The Backchannel: How Audiences Are Using
     Twitter and Social Media and Changing Presentations Forever*
-    (Berkeley, CA: New Riders, 2010). Using the formulation "an audience
-    with an audience" (5) to describe the backchannel, Atkinson notes
+    (Berkeley, CA: New Riders, 2010). Using the formulation “an audience
+    with an audience” (5) to describe the backchannel, Atkinson notes
     the double-edged potential of a backchannel from the primary
-    speaker’s viewpoint: "A backchannel is a line of communication
+    speaker’s viewpoint: “A backchannel is a line of communication
     created by people in an audience to connect with others inside or
     outside the room, with or without the knowledge of the speaker at
     the front of the room. Usually facilitated by Internet technologies,
@@ -828,35 +838,35 @@ douen retains its capacity for devious and deviant paths.
     duration of a live event. A backchannel can be constructive when it
     enhances and extends helpful information and relationships, and it
     can be destructive when it articulates and amplifies
-    counterproductive emotions and sentiments" (17). What is
+    counterproductive emotions and sentiments” (17). What is
     constructive and destructive—and to whom—is debatable, given the
     relationship between the back-channeler and the dominant voice.
 
 [^18]: Alex Maireder and Stephan Schlögl term these temporary
-    communities formed on social networks "encounter-publics," often
-    organized around timely and relevant hashtag that allows "less
+    communities formed on social networks “encounter-publics,” often
+    organized around timely and relevant hashtag that allows “less
     conventional voiced \[to\] make themselves heard and sometimes
-    heavily interact with the centre." Alex Maireder and Stephan
-    Schlögl, "24 Hours of an \#outcry: The Networked Publics of a
-    Socio-political Debate," *European Journal of Communication* 29, no.
+    heavily interact with the centre.” Alex Maireder and Stephan
+    Schlögl, “24 Hours of an \#outcry: The Networked Publics of a
+    Socio-political Debate,” *European Journal of Communication* 29, no.
     6 (2014): 689.
 
-[^19]: https://www.twitter.com/douenislands/status/455141412678684672.
+[^19]: twitter.com/douenislands/status/455141412678684672.
 
-[^20]: Michele Zappavigna defines the "linguistic ping" as a genre of
-    tweets that register "I’m still here" (*Discourse of Twitter*, 29).
+[^20]: Michele Zappavigna defines the “linguistic ping” as a genre of
+    tweets that register “I’m still here” (*Discourse of Twitter*, 29).
 
 [^21]: Naomi Baron notes that in social media and SMS texting,
     punctuation is often used only when it carries necessary discourse
-    information. Naomi Baron, "Language Use in Online and Mobile
-    Communication," in Marie-Laure Ryan, Lori Emerson, and Benjamin
+    information. Naomi Baron, “Language Use in Online and Mobile
+    Communication,” in Marie-Laure Ryan, Lori Emerson, and Benjamin
     Robertson, eds., *The Johns Hopkins Guide to Digital Media*
     (Baltimore, MD: Johns Hopkins University Press, 2014), 311.
 
 [^22]: twitter.com/douenislands/status/455139629243842560;
     twitter.com/douenislands/status/455140625386835969.
 
-[^23]: Rita Raley, "TXTual Practice," in N. Katherine Hayles and Jessica
+[^23]: Rita Raley, “TXTual Practice,” in N. Katherine Hayles and Jessica
     Pressman, eds., *Comparative Textual Media: Transforming the
     Humanities in the Postprint Era* (Minneapolis: University of
     Minnesota Press, 2013), 20.
@@ -867,44 +877,44 @@ douen retains its capacity for devious and deviant paths.
     tweets. Otherwise, commercial social media monitoring tools such as
     Gnip PowerTrack and Datasift exist specifically to allow companies
     to store and dredge information from users’ tweets that are no
-    longer viewable by the general public. See Dave Lee, "Twitter
-    Partners with Datasift to Unlock Tweet Archive," 28 February 2012,
+    longer viewable by the general public. See Dave Lee, “Twitter
+    Partners with Datasift to Unlock Tweet Archive,” 28 February 2012,
     www.bbc.com/news/technology-17178022.
 
-[^25]: Man Bartlett, quoted in Benjamin Sutton, "The Many Uses of
-    Rhizome’s New Social Media Preservation Tool," *Hyperallergic*, 21
+[^25]: Man Bartlett, quoted in Benjamin Sutton, “The Many Uses of
+    Rhizome’s New Social Media Preservation Tool,” *Hyperallergic*, 21
     October 2014,
     hyperallergic.com/157039/the-many-uses-of-rhizomes-new-social-media-perservation-tool/.
 
-[^26]: See "Our Folklore Is Predominantly of African Origin,"
+[^26]: See “Our Folklore Is Predominantly of African Origin,”
     *TriniView*, www.triniview.com/TnT/Folklore.htm.
 
-[^27]: Gérard Besson, "Mermaids, Imps, and Goddesses: The Folklore of
-    Trinidad and Tobago," in *Trinidad and Tobago: Fifty Years of
+[^27]: Gérard Besson, “Mermaids, Imps, and Goddesses: The Folklore of
+    Trinidad and Tobago,” in *Trinidad and Tobago: Fifty Years of
     Independence* (London: First Magazine, 2012), 54.
 
-[^28]: Angelo Bissessarsingh, "Douens and Other Folkore," *Guardian*, 30
+[^28]: Angelo Bissessarsingh, “Douens and Other Folkore,” *Guardian*, 30
     June 2013,
     www.guardian.co.tt/entertainment/2013-06-30/douens-and-other-folklore.
 
-[^29]: Laughlin, "*Douen Islands* and the Art of Collaboration."
+[^29]: Laughlin, “*Douen Islands* and the Art of Collaboration.”
 
 [^30]: See Ann González’s discussion of *ciguapas* in the Dominican
     Republic in *Resistance and Survival: Children’s Narrative from
     Central America and the Caribbean* (Tucson: University of Arizona
     Press, 2009), 8.
 
-[^31]: Elspeth Reeve, "The Secret Lives of Tumblr Teens," *New
+[^31]: Elspeth Reeve, “The Secret Lives of Tumblr Teens,” *New
     Republic*, 17 February 2016,
     newrepublic.com/article/129002/secret-lives-tumblr-teens.
 
 [^32]: See *Dictionary of the English/Creole of Trinidad & Tobago: On
-    Historical Principles*, ed. Lise Winer, s.v. "douen, duende douaine,
-    doune, dwen, duegne" (Montreal: McGill-Queen’s University Press,
+    Historical Principles*, ed. Lise Winer, s.v. “douen, duende douaine,
+    doune, dwen, duegne” (Montreal: McGill-Queen’s University Press,
     2009).
 
-[^33]: Marty Fink and Quinn Miller, "Trans Media Moments: Tumblr,
-    2011–2013," *Television and New Media* 15, no. 7 (2013): 621.
+[^33]: Marty Fink and Quinn Miller, “Trans Media Moments: Tumblr,
+    2011–2013,” *Television and New Media* 15, no. 7 (2013): 621.
 
 [^34]: See vimeo.com/78231839.
 
@@ -912,27 +922,27 @@ douen retains its capacity for devious and deviant paths.
     www.facebook.com/douen.islands.1; www.instagram.com/douenislands;
     twitter.com/douenislands; douenislands.tumblr.com.
 
-[^36]: Roberto Simanowski, "Digital and Net Art," in Marie-Laure Ryan,
+[^36]: Roberto Simanowski, “Digital and Net Art,” in Marie-Laure Ryan,
     Lori Emerson, and Benjamin Robertson, eds., *The Johns Hopkins Guide
     to Digital Media* (Baltimore, MD: Johns Hopkins University Press,
     2014), 134.
 
 [^37]: In their discussion of how Occupy Movement activists moved
     content from YouTube to Twitter, Kjerstin Thorson et. al. show that
-    this content shift transforms one platform into a "communal good" as
-    a repository of resources as well as a "connective good, linking
+    this content shift transforms one platform into a “communal good” as
+    a repository of resources as well as a “connective good, linking
     members of a public together and giving them at least the
-    possibility of communication." Kjerstin Thorson et al., "YouTube,
-    Twitter, and the Occupy Movement," *Information, Communication, and
+    possibility of communication.” Kjerstin Thorson et al., “YouTube,
+    Twitter, and the Occupy Movement,” *Information, Communication, and
     Society* 16, no. 3 (2013): 441.
 
-[^38]: Bagoo, quoted in Laughlin, "*Douen Islands* and the Art of
-    Collaboration."
+[^38]: Bagoo, quoted in Laughlin, “*Douen Islands* and the Art of
+    Collaboration.”
 
 [^39]: Deviated feet is a birth defect that results in the infant’s foot
     being shaped like a kidney bean, and in most cases can be resolved
     within a few months, through passive stretching exercises. See
-    Ursula Geisen, "Common Foot Deformities Draft 2,"
+    Ursula Geisen, “Common Foot Deformities Draft 2,”
     *pediatrics.uchicago.edu/chiefs/.../CommonFootDeformitiesDraft2.pd.
     *
 
