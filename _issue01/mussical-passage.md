@@ -9,7 +9,7 @@ image: images/issue01/musical-passage.jpg
 link: "http://www.musicalpassage.org/#home"
 ---
 
- ***sx archipelagos* presents *Musical Passage ***
+ ***sx archipelagos* presents *Musical Passage***
 
 Developed by historian Laurent Dubois, PhD candidate in English Mary
 Caton Lingold, and composer-scholar David Garner, *Musical Passage* uses
