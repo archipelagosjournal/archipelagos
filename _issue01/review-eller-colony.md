@@ -11,45 +11,43 @@ date: "May 2016"
 order: 6
 ---
 
-[*A Colony in Crisis*](https://colonyincrisis.lib.umd.edu/)*: The
-Saint-Domingue Grain Shortage of 1789*, a collection of “translated and
-curated primary sources from an episode in the History of
-Saint-Domingue,” is a digital exhibition that addresses a colonial
-flashpoint: the moment when failed grain harvests in France fueled
-escalating political tensions between white planters in Saint-Domingue
-and political elites in the metropole.[^1] The site’s authors, Abby
-Broughton, Kelsey Corlett-Rivera, and Nathan Dize, in consultation with
-an interdisciplinary team of experts, aim to represent the relationship
+[*A Colony in Crisis*](https://colonyincrisis.lib.umd.edu/) is a digital
+exhibition that addresses a colonial flashpoint, the moment when failed
+grain harvests in France fueled escalating political tensions between
+white planters in Saint-Domingue and political elites in the
+metropole.[^1] The site’s authors, Abby Broughton, Kelsey
+Corlett-Rivera, and Nathan Dize, in consultation with an
+interdisciplinary team of experts, aim to present the relationship
 between France and Saint-Domingue in a more dialogic fashion than is
 traditionally depicted in French accounts. They highlight the
 fundamental conflicts between the financial interests of planters and
 the trade monopolies of the metropole, revealing positions that amount
 to discourses of permanent complaint.[^2]
 
-The introduction to one of the documents refers to a “potential famine”
-and calls the grain “much needed,” echoing the language of the 1780s
-planter supplicants who spoke of a “*fear* of a food shortage.”[^3]
-However, it is important to note that despite a production shortage in
-France, there was no grain shortage in the colony of Saint-Domingue. Any
-potential shortfall threatened exclusively the consumption of a small
-planter minority, and, in fact, the colony’s intendant denied any threat
-to planter diets at all when he defended his own actions.[^4] Of all the
-colony-side missives gathered in *Colony in Crisis*, only two address
-food supplies for the enslaved, although a helpful linked article
-suggests that other petitions often did so, albeit in a nakedly
-utilitarian manner.[^5] These colony-side writers admit that the
-enslaved were not receiving these grain foodstuffs and blandly suggest,
-in the course of their broader arguments, a meager allotment well out of
-proportion with their population.[^6] Pamphleteers based in France, on
-the other hand, take only a passing stab at addressing slave provisions.
-A single pamphlet offers (imprecise) estimates of the number of enslaved
-people working on coffee plantations, arguing (speciously) that food
-production there adequately supplied individuals enslaved on sugar
-plantations (a number they in turn minimized). The pamphleteers’ vague
-numeracy serves only to mislead, and most of the elite writers whose
-letters are reproduced in *Colony in Crisis* avoid specifics altogether,
-not out of yet another instance of willful elision but because enslaved
-men, women, and children were not consuming these grains.[^7]
+The site’s authors refer to a “potential famine” and call the grain
+“much needed,” echoing the language of the 1780s planter supplicants who
+spoke of a “*fear* of a food shortage.”[^3] However, it is important to
+note that despite a production shortage in France, there was no grain
+crisis in the colony of Saint-Domingue. Any potential shortfall
+threatened exclusively the consumption of a small planter minority, and,
+in fact, the colony’s intendant denied any threat to planter diets at
+all.[^4] Of all the colony-side missives gathered in *Colony in Crisis*,
+only two address the question of food supplies for the enslaved,
+although a helpful linked article suggests that other petitions often
+did so, albeit in a nakedly utilitarian manner.[^5] These colony-side
+writers admit that the enslaved were not receiving these grain
+foodstuffs and suggest, in the course of their broader arguments, a
+meager allotment well out of proportion with their population.[^6]
+Pamphleteers based in France also take only a passing stab at addressing
+slave provisions. A single pamphlet offers (imprecise) estimates of the
+number of enslaved people working on coffee plantations, arguing
+(speciously) that food production there adequately supplied individuals
+enslaved on sugar plantations (a number they in turn minimized). The
+pamphleteers’ vague numeracy serves only to mislead, and most of the
+elite writers whose letters are reproduced in *Colony in Crisis* avoid
+specifics altogether, not out of yet another instance of willful elision
+but because enslaved men, women, and children were not consuming these
+grains.[^7]
 
 In sum, the crisis was not about Saint-Domingue’s foodstuffs in any
 substantive way, even if the corruption, hoarding, and monopolies of
@@ -125,7 +123,8 @@ project as it grows.
 
 ---
 
-[^1]: *Colony in Crisis*, colonyincrisis.lib.umd.edu.
+[^1]: *Colony in Crisis: The Saint-Domingue Grain Shortage of 1789*,
+    colonyincrisis.lib.umd.edu.
 
 [^2]: See “The Project,” *Colony in Crisis*,
     colonyincrisis.lib.umd.edu/about.
@@ -202,8 +201,8 @@ project as it grows.
     See also “Q&A with *A Colony in Crisis*,” *Haitian History* (blog),
     haitianhistory.tumblr.com/post/136472549793/qa-with-a-colony-in-crisis.
 
-[^15]: See, for example, Antonio Sánchez Valverde, *Idea del valor de la
-    isla española de Santo Domingo* (1862),
+[^15]: See, for example, Antonio Sánchez Valverde, *Idea del valor de la
+    isla española de Santo Domingo* (1862),
     archive.org/details/ideadelvalordel00valvgoog.
 
 [^16]: “The Project,” para. 2 under ‘The Goals.” The [Haiti
