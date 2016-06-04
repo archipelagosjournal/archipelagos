@@ -272,7 +272,7 @@ paper sheet onto which the tweets were projected roughened up the
 smoothness of the phone or computer screen.
 
 {% include image.html
-            img="issue01/douenislands.png"
+            img="issue01/douenislands.jpg"
             url="https://www.instagram.com/douenislands/"
             title="Screen capture of the Douen Islands Instagram account"
             caption="Figure 1. Screen capture of the Douen Islands Instagram account, taken 28 November 2014." %}
@@ -327,7 +327,7 @@ identify the douen’s properties, as in Warner’s first tweet of the
 evening as @douenislands, for example:
 
 {% include image.html
-            img="issue01/douenislands-twitter.png"
+            img="issue01/douenislands-twitter.jpg"
             title="Screencapture of @douenislands Twitter feed."
             caption="Figure 2. Screencapture of @douenislands Twitter feed." %}
 
@@ -524,7 +524,7 @@ project statement goals are printed. Below the image on Tumblr was an
 invitation to discover the text by clicking the download link.
 
 {% include image.html
-            img="issue01/douenislands-tumblr.png"
+            img="issue01/douenislands-tumblr.jpg"
             title="Screencapture of douenislands.tumblr.com, taken 27 July 2015."
             caption="Figure 3. Screencapture of douenislands.tumblr.com, taken 27 July 2015." %}
 
@@ -537,7 +537,7 @@ invitations and videos advertising “In Forest and Wild Skies”; the
 poetry reading:[^34]
 
 {% include image.html
-            img="issue01/douenislands-invitation.png"
+            img="issue01/douenislands-invitation.jpg"
             title="Screencapture of 'In Forest and Wild Skies' invitation posted on douenislands.tumblr.com, taken 19 May 2014."
             caption="Figure 4. Screencapture of 'In Forest and Wild Skies' invitation posted on douenislands.tumblr.com, taken 19 May 2014." %}
 
@@ -551,7 +551,7 @@ replaced with new materials looking forward to an 9 April 2016
 BocasLitFest event.
 
 {% include image.html
-            img="issue01/kis-ka-dee.png"
+            img="issue01/kis-ka-dee.jpg"
             title="Screencapture of Kis-Ka-Dee announcement posted on douenislands.tumblr.com, taken 29 February 2016."
             caption="Figure 5. Screencapture of Kis-Ka-Dee announcement posted on douenislands.tumblr.com, taken 29 February 2016." %}
 
@@ -627,7 +627,7 @@ out over the course of two years next to the drawing of the skeleton of
 a foot:
 
 {% include image.html
-            img="issue01/tomorrow-please-god.png"
+            img="issue01/tomorrow-please-god.jpg"
             title="Tomorrow Please God, 22–23."
             caption="Figure 6. Tomorrow Please God, 22–23." %}
 
@@ -654,7 +654,7 @@ how might a tracker read the traces that this set of half-straight,
 half-backward pair of feet will leave behind?
 
 {% include image.html
-            img="issue01/tomorrow-please-god-2.png"
+            img="issue01/tomorrow-please-god-2.jpg"
             title="Tomorrow Please God, 12–13."
             caption="Figure 7. Tomorrow Please God, 12–13." %}
 
@@ -711,7 +711,7 @@ the stream that originally constituted the tweets’ citational ecosystem
 by not expanding them, then copying each three times:
 
 {% include image.html
-            img="issue01/tomorrow-please-god-3.png"
+            img="issue01/tomorrow-please-god-3.jpg"
             title="Tomorrow Please God, 20–21."
             caption="Figure 6. Tomorrow Please God, 20–21." %}
 

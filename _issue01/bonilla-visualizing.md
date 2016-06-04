@@ -268,7 +268,7 @@ textured detail of its constitutive events.
 {% include interactive.html
 			type="youtube"
 			url="https://www.youtube.com/embed/pJxrTzfG2bo"
-            img="issue01/invasion-of-america.png"
+            img="issue01/invasion-of-america.jpg"
             title="Invasion of America"
             caption="Invasion of America" %}
 
@@ -286,7 +286,7 @@ colonial accounts, suggesting a greater degree of strategic organization
 among insurgents than previously imagined.[^19]
 
 {% include image.html
-            img="issue01/brown-revolt.png"
+            img="issue01/brown-revolt.jpg"
             url="http://revolt.axismaps.com/map/"
             title="Slave Revolt in Jamaica, 1760–1761: A Cartographic Narrative"
             caption="Slave Revolt in Jamaica, 1760–1761: A Cartographic Narrative" %}
@@ -361,7 +361,7 @@ Caribbean (Belize, Guyana, Suriname, and Guiana). Once again, we used
 color to visually demarcate political jurisdictions.
 
 {% include image.html
-            img="issue01/blossom-map.png"            
+            img="issue01/blossom-map.jpg"            
             title="Map created by Jeff Blossom and Yarimar Bonilla in 2015."
             caption="Figure 3. Map created by Jeff Blossom and Yarimar Bonilla in 2015." %}
 
@@ -397,7 +397,7 @@ entering into a “postcolonial” arrangement with their colonial
 centers.[^24]
 
 {% include image.html
-            img="issue01/temporal-map.png"            
+            img="issue01/temporal-map.jpg"            
             title="Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015."
             caption="Figure 4. Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015." %}
 
