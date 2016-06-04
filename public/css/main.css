@@ -902,6 +902,10 @@ div#toc {
   margin-bottom: 4rem;
 }
 
+div#toc ul {
+  margin-bottom: 2rem;
+}
+
 
 /* Poem styles */
 

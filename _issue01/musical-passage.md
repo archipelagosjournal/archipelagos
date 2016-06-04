@@ -6,6 +6,7 @@ title:
   "short": "Musical Passage"
 credit: "Laurent Dubois, David Garner &amp; Mary Caton Lingold"
 image: images/issue01/musical-passage.jpg
+thumb: images/issue01/musical-passage-thumb.jpg
 link: "http://www.musicalpassage.org/#home"
 ---
 
