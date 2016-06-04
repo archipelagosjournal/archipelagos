@@ -1,12 +1,8 @@
 ---
-layout: article
+layout: page
 section: introduction
-title: 
-  "long": "Learning from Each Other"
-  "short": "Learning from Each Other"
-author: 
-- name: David Scott
-  shortname: Scott
+title: "Learning from Each Other"
+author: David Scott
 ---
 
 
@@ -38,5 +34,5 @@ that especially lends itself to the kinds of experiment and exploration
 that the digital turn obliges us to confront. *sx archipelagos* is our
 response to this momentous conjuncture.
 
-David Scott\\
+**David Scott**\\
 Director, The Small Axe Project

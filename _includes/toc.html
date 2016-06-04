@@ -14,10 +14,10 @@
 
     <li>
       <a href="{{ document.url | prepend:site.baseurl }}">
-        <span class="toc-title">{{ document.title["long"] }}</span>
+        <span class="toc-title">{{ document.title }}</span>
       </a><br>
     <span class="byline"> 
-    {% include author-loop.html %}
+    {{ document.author }}
     </span>
   </a>
     </li>
