@@ -21,7 +21,25 @@ layout: default
 <div class="footer">
 	<ul id="footer-nav">
 		<li><a href="#">Return to top</a></li>
-		<li> | </li>
-		<li><a href="{{site.baseurl}}/index.html#toc">Table of Contents</a></li>
+		<li> | </li>	
+	{% for index in site.archives %}
+		{% if index.issue == page.collection %}
+			<a href="{{site.baseurl}}/archives/{{ page.collection }}.html">Table of Contents</a>
+		{% endif %}
+	{% endfor %}
+
+
+	
+	{% capture next %}{{page.order | plus:1}}{% endcapture %}
+	{% for document in site[page.collection] %}
+	{% capture this %}{{document.order}}{% endcapture %}
+		{% if this == next %}
+		<li> | </li>		
+		<li><a href="{{site.baseurl}}/{{document.url}}">Next Article</a></li>
+		{% endif %}		
+	{% endfor %}
+
+		
+	</ul>
 
 </div>

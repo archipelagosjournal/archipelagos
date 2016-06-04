@@ -1,5 +1,5 @@
 ---
-layout: review
+layout: article
 section: reviews
 title: 
   "long": "A Review of \"Two Plantations\""
@@ -7,8 +7,8 @@ title:
 author: 
 - name: Jessica Marie Johnson
   shortname: Johnson
-date: May 2016
-issue: 1
+date: "May 2016"
+order: 7
 ---
 
 Based on research compiled by Richard Dunn over more than forty years,

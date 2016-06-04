@@ -1,5 +1,5 @@
 ---
-layout: review
+layout: article
 section: reviews
 title: 
   "long": "A Review of \"A Colony in Crisis\""
@@ -7,8 +7,8 @@ title:
 author: 
 - name: Anne Eller
   shortname: Eller
-date: May 2016
-issue: 1
+date: "May 2016"
+order: 6
 ---
 
 [*A Colony in Crisis*](https://colonyincrisis.lib.umd.edu/)*: The
