@@ -9,7 +9,7 @@ image: images/issue01/musical-passage.jpg
 link: "http://www.musicalpassage.org/#home"
 ---
 
- ***sx archipelagos* presents *Musical Passage***
+ ##*sx archipelagos* presents *Musical Passage*
 
 Developed by historian Laurent Dubois, PhD candidate in English Mary
 Caton Lingold, and composer-scholar David Garner, *Musical Passage* uses
@@ -35,10 +35,10 @@ enter into dialogue with this remarkable fragment and thus to find a way
 into a much broader and more foundational musical history of the
 Caribbean and the wider Atlantic world.
 
-***sx archipelagos* review**
+##*sx archipelagos* review
 
-**“an important contribution to the fields of Atlantic and Caribbean
-history and ethnomusicology”**
+>“an important contribution to the fields of Atlantic and Caribbean
+history and ethnomusicology”
 
 *Musical Passage* is a fascinating and well-conceived example of digital
 scholarship that makes an important contribution to the fields of
@@ -84,9 +84,9 @@ Has it made use of other DH resources in its own construction? Might the
 authors consider adding a “For Further Consideration/Reading” section
 that would include both digital and analog bibliographical references?
 
-***Musical Passage* site author response**
+##*Musical Passage* site author response
 
-**“seeking to combat the silences around Afro-Atlantic music”**
+>“seeking to combat the silences around Afro-Atlantic music”
 
 We were delighted to receive the positive feedback articulated in the
 review of our draft materials for *Musical Passage*. We are glad that
