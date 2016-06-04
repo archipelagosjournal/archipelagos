@@ -38,9 +38,9 @@ into a much broader and more foundational musical history of the
 Caribbean and the wider Atlantic world.
 
 
-##*sx archipelagos* review
+## *sx archipelagos* review
 
->“an important contribution to the fields of Atlantic and Caribbean
+> “an important contribution to the fields of Atlantic and Caribbean
 history and ethnomusicology”
 
 *Musical Passage* is a fascinating and well-conceived example of digital
@@ -88,9 +88,9 @@ authors consider adding a “For Further Consideration/Reading” section
 that would include both digital and analog bibliographical references?
 
 
-##*Musical Passage* site author response
+## Response from the creators of *Musical Passage*
 
->“seeking to combat the silences around Afro-Atlantic music”
+> “seeking to combat the silences around Afro-Atlantic music”
 
 We were delighted to receive the positive feedback articulated in the
 review of our draft materials for *Musical Passage*. We are glad that

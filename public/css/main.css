@@ -177,7 +177,7 @@ h1.post-title {
 }
 
 h2 {
-	margin-top: 1rem;
+	margin-top: 1.4rem;
 	font-size: 1.2rem;
 }
 
@@ -192,6 +192,11 @@ h3 {
 
 h4, h5, h6 {
   margin-top: 1rem;
+}
+
+div.project h2 {
+  margin-top: 2rem;
+  font-size: 1.6rem;
 }
 
 /* Body text */
@@ -308,7 +313,8 @@ img {
 }
 
 img.project-image {
-  width: 100%
+  width: 100%;
+  margin-bottom: 1rem;
 }
 
 img.project-image-toc {
