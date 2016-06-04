@@ -9,6 +9,8 @@ image: images/issue01/musical-passage.jpg
 link: "http://www.musicalpassage.org/#home"
 ---
 
+
+
  ##*sx archipelagos* presents *Musical Passage*
 
 Developed by historian Laurent Dubois, PhD candidate in English Mary
@@ -34,6 +36,7 @@ provided are meant to serve as so many invitations to encounter and
 enter into dialogue with this remarkable fragment and thus to find a way
 into a much broader and more foundational musical history of the
 Caribbean and the wider Atlantic world.
+
 
 ##*sx archipelagos* review
 
@@ -83,6 +86,7 @@ otherwise) with other Afro-Atlantic digital humanities (DH) projects?
 Has it made use of other DH resources in its own construction? Might the
 authors consider adding a “For Further Consideration/Reading” section
 that would include both digital and analog bibliographical references?
+
 
 ##*Musical Passage* site author response
 
