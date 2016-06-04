@@ -18,11 +18,11 @@ scholars of the Caribbean. The ethos of the Small Axe Project,
 therefore, is essentially an ethos of learning, and of learning how to
 better learn—even to better learn what we think we already know. After
 all, the Caribbean won’t stand still; and so the questions that
-constitute it as an interpretive domain don’t remain the same.
-Consequently, we in the Small Axe Project are constantly being called
-upon (and calling upon each other) to think, and to think again, about
-the forms and platforms that should best shape and drive our responsive
-hermeneutic endeavors.
+constitute the Caribbean as an interpretive domain don’t remain the
+same. Consequently, we in the Small Axe Project are constantly being
+called upon (and calling upon each other) to think, and to think again,
+about the forms and platforms that should best shape and drive our
+responsive hermeneutic endeavors.
 
 In recent years the humanities and social sciences have been provoked to
 consider the implications of the “digital turn” for scholarly production
@@ -31,7 +31,7 @@ accessing and organizing intellectual resources, new ways of connecting
 and sharing various dimensions of understanding (and therefore of
 integrating our cognitive and affective capacities of appreciation and
 critical analysis), new questions about what should count as excellence
-in scholarship, have opened up new possibilities and new challenges for
+in scholarship, has opened up new possibilities and new challenges for
 intellectual and artistic work. The Caribbean, we believe, in its
 persistent historicity and conscripted modernity, is a geopolitical zone
 that especially lends itself to the kinds of experiment and exploration
