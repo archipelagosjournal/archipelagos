@@ -106,7 +106,8 @@ including the short lived West Indies Federation (1958–62).
 This history of fractured, uneven, contested, and negotiated sovereignty
 continues to shape the region as a whole, and at present the *majority*
 of societies in the Caribbean are not independent nation-states but
-rather protectorates, territories, departments, and commonwealths ([see table 1]({{ site.baseurl }}/assets/issue01/caribbean-sovereignty.pdf)). In addition, the Caribbean also holds a large number of
+rather protectorates, territories, departments, and commonwealths (see
+appendix). In addition, the Caribbean also holds a large number of
 nonsovereign enclaves: military bases, privately owned islands,
 semiautonomous tourist resorts, free-trade zones, tax havens, wildlife
 preserves, satellite launching stations, detention centers, penal
@@ -164,7 +165,7 @@ contemporary moment suggests another emerging shift. Sylvia Wynter
 argues that the various imaginaries of decolonization made possible “a
 new opening—that of the collective challenge made to . . . symbolic
 representational systems,” and hence, the possibility of a “new world
-view.”[^10] The crucial question then becomes: What spatiotemporal
+view.”[^10] The crucial question then becomes, What spatiotemporal
 models can grasp and even utilize such an opening? The problem, Wynter
 suggests, is that much contemporary political and geopolitical theory
 “mistakes the map for the territory,” by working within the ideological
@@ -229,10 +230,10 @@ between the map and the territory and which are grounded in the
 specificity of Caribbean political history. Our goal, then, is not
 simply to update previous textual or analogue modes of engagement but to
 trace and enact their transformation through digital subjectivities and
-new cartographic technologies. We thus ask, *What could visual
+new cartographic technologies. We thus ask, What could visual
 representations of the Caribbean become if no longer anchored by
 political sovereignty as a regulatory ideal of postcolonial independence
-or economic development?* Faced with de Gaulle’s dismissal of Caribbean
+or economic development? Faced with de Gaulle’s dismissal of Caribbean
 specks of dust as inferior to the point of irrelevance, Glissant
 demanded a “prophetic vision of the past” beyond “schematic chronology”
 or “nostalgic lament.”[^17] The Caribbean novelist had to reach into the
@@ -275,7 +276,7 @@ textured detail of its constitutive events.
 <!-- [![Invasion of America](/images/issue01/invasion-of-america.png)](https://www.youtube.com/embed/pJxrTzfG2bo?autoplay=1) -->
 
 
-Vincent Brown and his team have developed a similarly rich visual argument in his
+Vincent Brown has developed a similarly rich visual argument in his
 online animated map *Slave Revolt in Jamaica, 1760–1761: A Cartographic
 Narrative*, in which he documents a previously misunderstood revolt
 showcasing the tactical maneuvers made by the rebels. By combining
@@ -309,13 +310,13 @@ symbolic orders—even as they challenge them. For example, on the website
 University’s History Design Studio, the social history of enslaved
 families is diagramed through the use of family trees.[^21] The website
 shows both the possibilities and the limitations of adopting this
-graphic form to, according to Brown, represent the lives of families
-whose structures of kinship were violently molded and could never be
-based solely on biological descent.[^22] As Brown suggests, even when
-they reach their limits these representational experiments can open up
-new questions about the most appropriate representational strategies for
-the material in question and can generate new questions by uncovering
-patterns and revealing challenges that were previously unperceived.
+graphic form to represent the lives of families whose structures of
+kinship were violently molded and could never be based solely on
+biological descent.[^22] As Brown suggests, even when they reach their
+limits these representational experiments can open up new questions
+about the most appropriate representational strategies for the material
+in question and can generate new questions by uncovering patterns and
+revealing challenges that were previously unperceived.
 
 ## Mapping the Postcolonial Caribbean
 
@@ -380,14 +381,14 @@ form part of the framework of the Caribbean.[^23] Moreover, an
 understanding of the complex history of the southern Caribbean islands,
 and of both the economic and social structures of places like Trinidad
 and Curacao, is almost impossible without an understanding of their
-close ties to the Latin American coast. These absences are all the more
-problematic in the context of an explicitly cartographic interface that
-implies a fidelity to the geographic terrain. The southern coast is then
-not just absent but visually silenced in this form of representation.
-Moreover, the use of the cartographic form to convey an argument that is
-not solely or even primarily geographic makes it difficult for the
-viewer to comprehend the larger argument about the shifting and
-contested nature of political sovereignty.
+close ties to the Latin American coast. These absences are in the
+context of an explicitly cartographic interface that implies a fidelity
+to the geographic terrain. The southern coast is then not just absent
+but visually silenced in this form of representation. Moreover, the use
+of the cartographic form to convey an argument that is not solely or
+even primarily geographic makes it difficult for the viewer to
+comprehend the larger argument about the shifting and contested nature
+of political sovereignty.
 
 In order to address these issues we decided to create a temporal map of
 the postcolonial Caribbean. More of an infographic than a map, it
@@ -579,10 +580,10 @@ dissolution shaped the trajectories (toward independence or otherwise)
 of its constituent states. Similarly, at the scale of specific islands,
 revolutionary movements challenged the meaning of independence and the
 partial nature of sovereignty under capitalism. The New Jewel movement
-in Grenada led by Maurice Bishop took power from 1979 to 1983, for
-instance, and the 26th of July movement in Cuba led by Fidel Castro took
-control in 1959, inaugurating the period of the Cuban Revolution still
-in effect today.
+in Grenada led by Maurice Bishop, which took power from 1979 to 1983,
+for instance, and the 26th of July movement in Cuba by Fidel Castro in
+1959 inaugurated the period of the Cuban Revolution still in effect
+today.
 
 Of course, the temporal difference between the longevity of those two
 revolutionary moments in Grenada and Cuba, respectively, did not occur
@@ -721,7 +722,7 @@ History and Literature seminar at the Charles Warren Center for Studies
 in American History at Harvard University, the participants in the
 Rutgers Advanced Institute for Critical Caribbean Studies seminar at
 Rutgers University, and the comrades of the Digital Black Atlantic
-Project working group at Columbia University.
+Project working group at Barnard College and Columbia University.
 
 ---
 
