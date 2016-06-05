@@ -44,8 +44,8 @@ moment, caught between the analog and the electronic, systems of
 production, validation, and distribution of our scholarly and cultural
 work have reified to benefit large monopolies—indexers, database
 brokers, software vendors—whose ultimate motive is profit. In order to
-keep these large economic sectors thriving, access must be regimented.
-As Caribbean scholars we find ourselves in the double-bind of a new
+keep these large economic sectors thriving, access has been regimented.
+As Caribbean scholars, we find ourselves in the double-bind of a new
 master's house, both infrastructurally and historically. Stewards of an
 archive that cannot be disentangled from The Archive housed at major
 global institutions—whose mechanical image lies outside our control—and
