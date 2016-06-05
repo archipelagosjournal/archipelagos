@@ -1,15 +1,8 @@
 <ul id="main-nav">
 <li class="journal-title active"><a href="{{ site.baseurl }}/index.html">{{ site.title }}</a></li>	
     {% assign pages_list = site.pages | sort:"url" %}
-    {% for node in pages_list %}
-      {% if node.title != null AND node.title != "Menu" %}
-        {% if node.layout == "page" %}
-          <li class="{% if page.url == node.url %} active{% endif %}"><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
-        {% endif %}
-      {% endif %}
-
-    {% endfor %}
-
+    {% for node in pages_list %}{% if node.title != null AND node.title != "Menu" %}{% if node.layout == "page" %}<li class="{% if page.url == node.url %} active{% endif %}"><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+    {% endif %}{% endif %}{% endfor %}
 </ul>
 <ul id="main-nav-small">
 <li class="journal-title active"><a href="{{ site.baseurl }}/index.html">{{ site.title }}</a></li>	
