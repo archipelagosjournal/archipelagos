@@ -3,6 +3,7 @@ layout: page
 section: introduction
 title: "Learning from Each Other"
 author: David Scott
+issue: 1
 ---
 
 

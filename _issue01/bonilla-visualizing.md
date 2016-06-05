@@ -11,11 +11,12 @@ author:
   shortname: Hantel 
 link: 
 date: May 2016
+issue: 1
 order: 5
 abstract: "This essay asks how visual representations of the postcolonial Caribbean are shaped by, and in turn could reshape, the political imaginary of sovereignty. Describing several different experiments with form—from conventional maps to temporal charts to animation—it argues that visualizing sovereignty is a first step in retheorizing the meaning of sovereignty itself beyond the regulatory limits of insular, nation-state autonomy. The authors call for collaborative efforts to create “prophetic cartographies” attuned to alternative political currents and the possibility of imagining the Caribbean otherwise."
 ---
 
-The genesis for this project arose during a fit of last-minute teaching
+The test for this project arose during a fit of last-minute teaching
 prep for one of the authors. While putting the final touches on a
 lecture for a Caribbean Perspectives class, Yarimar struggled with how
 to visually represent the political terrain of the Caribbean and

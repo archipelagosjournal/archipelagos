@@ -1,6 +1,7 @@
 ---
 layout: article
 section: articles
+issue: 1
 order: 0
 title: 
   "long": "Editors' Introduction: The Caribbean Digital"
