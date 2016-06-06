@@ -119,8 +119,7 @@ emergence, and diversity of Caribbean cyberfeminisms:
 - Caribbean women, many of whom identify as feminists and are active in
  feminist and lesbian, gay, bisexual, and transgender (LGBT) organizing
  have created online networks for "women who love women." LGBT
- organizations such as Guyana's [Society Against Sexual Orientation
- Discrimination](http://www.sasod.org.gy), Trinidad and Tobago's
+ organizations such as Guyana's [Society Against Sexual Orientation Discrimination](http://www.sasod.org.gy), Trinidad and Tobago's
  [Coalition Advocating for Inclusion of Sexual
  Orientation](http://www.facebook.com/caiso), and St. Lucia's [United
  and Strong](http://unitedandstrongstlucia.wordpress.com) maintain a
@@ -868,7 +867,7 @@ rhetorical devices (5)
 
 [^13]: Patrice Daniel, "An Open Letter to Caribbean Men, from Caribbean Women," *RH Reality Check*, 12 March 2013, [http://rhrealitycheck.org/article/2013/03/12/an-open-letter-to-caribbean-men-from-caribbean-women.](http://rhrealitycheck.org/article/2013/03/12/an-open-letter-to-caribbean-men-from-caribbean-women)
 
-[^14]: See [www.sasod.org.gy](www.sasod.org.gy); [http://www.facebook.com/caiso](http://www.facebook.com/caiso); and [http://unitedandstrongstlucia.wordpress.com.](http://unitedandstrongstlucia.wordpress.com)
+[^14]: See [http://www.sasod.org.gy](http://www.sasod.org.gy); [http://www.facebook.com/caiso](http://www.facebook.com/caiso); and [http://unitedandstrongstlucia.wordpress.com.](http://unitedandstrongstlucia.wordpress.com)
 
 [^15]: See [http://www.facebook.com/AirMeNow](http://www.facebook.com/AirMeNow) and [http://www.youtube.com/playlist?list=PLLNiArTOn\_azPDdIR4FvkyepgRQrb9K8Y.](http://www.youtube.com/playlist?list=PLLNiArTOn\_azPDdIR4FvkyepgRQrb9K8Y)
 
