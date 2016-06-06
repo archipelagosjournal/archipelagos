@@ -784,7 +784,7 @@ this vital record of Caribbean poetry history a priority.
 
 [^1]: Edward Kamau Brathwaite, *History of the Voice: The Development of Nation Language in Anglophone Caribbean Poetry* (London: New Beacon, 1984), 13.
 
-[^2]: See writing.upenn.edu/pennsound; [http://www.poetryarchive.org](http://www.poetryarchive.org;) [http://www.poetryfoundation.org](http://www.poetryfoundation.org;) [http://www.poets.org](http://www.poets.org;) and [http://www.ubuweb.com](http://www.ubuweb.com.)
+[^2]: See [http://writing.upenn.edu/pennsound](http://writing.upenn.edu/pennsound); [http://www.poetryarchive.org](http://www.poetryarchive.org;) [http://www.poetryfoundation.org](http://www.poetryfoundation.org;) [http://www.poets.org](http://www.poets.org;) and [http://www.ubuweb.com](http://www.ubuweb.com.)
 
 [^3]: See "PennSound Transforms How Poetry Is Taught the World Over," *Penn News*, 26 June 2014, [http://www.upenn.edu/pennnews/news/pennsound-transforms-how-poetry-taught-world-over](http://www.upenn.edu/pennnews/news/pennsound-transforms-how-poetry-taught-world-over.)
 
@@ -832,7 +832,7 @@ this vital record of Caribbean poetry history a priority.
 
 [^25]: See [http://www.youtube.com/playlist?list=PLsZJUoc\_yr1ufNZGIsFg74Fl3yuZTNU9k](http://www.youtube.com/playlist?list=PLsZJUoc\_yr1ufNZGIsFg74Fl3yuZTNU9k.)
 
-[^26]: See twitter.com/2CentsMovement. See also the individual albums on 2 Cents Movement's Facebook page, [http://www.facebook.com/The2CentsMovement](http://www.facebook.com/The2CentsMovement,) where some of the school tour photos are collected, including all images in this essay; for example, see the album "Five Rivers Sec---Speak Out Tour 2014---Day 27," [http://www.facebook.com/media/set/?set=a.610565055739844.1073741948.125245237605164&type=3](http://www.facebook.com/media/set/?set=a.610565055739844.1073741948.125245237605164&type=3.) For information on the current Courts Bocas Speak Out Tour, see [http://www.bocaslitfest.com/courts-bocas-speak-out](http://www.bocaslitfest.com/courts-bocas-speak-out.)
+[^26]: See [http://twitter.com/2CentsMovement](http://twitter.com/2CentsMovement). See also the individual albums on 2 Cents Movement's Facebook page, [http://www.facebook.com/The2CentsMovement](http://www.facebook.com/The2CentsMovement,) where some of the school tour photos are collected, including all images in this essay; for example, see the album "Five Rivers Sec---Speak Out Tour 2014---Day 27," [http://www.facebook.com/media/set/?set=a.610565055739844.1073741948.125245237605164&type=3](http://www.facebook.com/media/set/?set=a.610565055739844.1073741948.125245237605164&type=3.) For information on the current Courts Bocas Speak Out Tour, see [http://www.bocaslitfest.com/courts-bocas-speak-out](http://www.bocaslitfest.com/courts-bocas-speak-out.)
 
 [^27]: Dhiraj Murthy, *Twitter: Social Communication in the Twitter Age* (Cambridge: Polity, 2013), 39.
 
@@ -870,7 +870,7 @@ this vital record of Caribbean poetry history a priority.
 
 [^44]: Kate Eichhorn, "Past Performance, Present Dilemma: A Poetics of Archiving Sound," *Mosaic* 42, no. 1 (2009): 187, 190, 184.
 
-[^45]: See caribbeanpoetry.educ.cam.ac.uk.
+[^45]: See [http://caribbeanpoetry.educ.cam.ac.uk](http://caribbeanpoetry.educ.cam.ac.uk).
 
 [^46]: See [http://www.poetryarchive.org/collection/caribbean-poetry-0](http://www.poetryarchive.org/collection/caribbean-poetry-0;) and [http://www.poetryarchive.org/articles/guide-language-caribbean-poetry](http://www.poetryarchive.org/articles/guide-language-caribbean-poetry.)
 
@@ -894,7 +894,7 @@ this vital record of Caribbean poetry history a priority.
 
 [^56]: See Bernstein, *Close Listening*, 3--26.
 
-[^57]: See spokenweb.ca.
+[^57]: See [http://spokenweb.ca](http://spokenweb.ca).
 
 [^58]: Annie Murray and Jared Wiercinski, "Looking at Archival Sound: Enhancing the Listening Experience in a Spoken Word Archive," *First Monday* 17, no. 4 (2012), [http://firstmonday.org/ojs/index.php/fm/article/view/3808/3197](http://firstmonday.org/ojs/index.php/fm/article/view/3808/3197.)
 

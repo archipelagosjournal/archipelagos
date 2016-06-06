@@ -754,9 +754,9 @@ Project working group at Barnard College and Columbia University.
 
 [^17]: Glissant, *Caribbean Discourse*, 64.
 
-[^18]: Claudio Saunt, *Invasion of America: How the United States Took Over an Eighth of the World*, video, 1:27, published 2 June 2014 by eHistory.org, youtu.be/pJxrTzfG2bo. For an interactive map, see invasionofamerica.ehistory.org.
+[^18]: Claudio Saunt, *Invasion of America: How the United States Took Over an Eighth of the World*, video, 1:27, published 2 June 2014 by eHistory.org, [http://youtu.be/pJxrTzfG2bo](http://youtu.be/pJxrTzfG2bo.) For an interactive map, see [http://invasionofamerica.ehistory.org](http://invasionofamerica.ehistory.org.)
 
-[^19]: Vincent Brown, *Slave Revolt in Jamaica, 1760--1761: A Cartographic Narrative*, revolt.axismaps.com. See also Vincent Brown, "Mapping a Slave Revolt: Visualizing Spatial History through the Archives of Slavery," *Social Text*, no. 125 (December 2015): 134--41.
+[^19]: Vincent Brown, *Slave Revolt in Jamaica, 1760--1761: A Cartographic Narrative*, [http://revolt.axismaps.com](http://revolt.axismaps.com.) See also Vincent Brown, "Mapping a Slave Revolt: Visualizing Spatial History through the Archives of Slavery," *Social Text*, no. 125 (December 2015): 134--41.
 
 [^20]: Vincent Brown, "Narrative Interface for New Media History: Slave Revolt in Jamaica, 1760--1761," *American Historical Review* 121, no. 1 (2016): 176--86.
 

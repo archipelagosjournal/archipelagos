@@ -762,7 +762,7 @@ douen retains its capacity for devious and deviant paths.
 
 [^1]: Andre Bagoo, quoted in Nicholas Laughlin, "*Douen Islands* and the Art of Collaboration," *Caribbean Review of Books*, 4 November 2013, [http://caribbeanreviewofbooks.com/2013/11/04/douen-islands-and-the-art-of-collaboration](http://caribbeanreviewofbooks.com/2013/11/04/douen-islands-and-the-art-of-collaboration.)
 
-[^2]: Douen Islands, *Douen Islands Issue 001: Tomorrow Please God*, with poems by Andre Bagoo; hereafter cited in the text. The PDF can be accessed at [http://www.dropbox.com/s/1kopn1kb0st781s/DouenIslands.pdf](http://www.dropbox.com/s/1kopn1kb0st781s/DouenIslands.pdf.) A link to the PDF was on www.douenislands.tumblr.com from October 2013 to January 2016.
+[^2]: Douen Islands, *Douen Islands Issue 001: Tomorrow Please God*, with poems by Andre Bagoo; hereafter cited in the text. The PDF can be accessed at [http://www.dropbox.com/s/1kopn1kb0st781s/DouenIslands.pdf](http://www.dropbox.com/s/1kopn1kb0st781s/DouenIslands.pdf.) A link to the PDF was on [http://www.douenislands.tumblr.com](http://www.douenislands.tumblr.com) from October 2013 to January 2016.
 
 [^3]: Located at 80 Roberts Street, Woodbrook, Port of Spain, Trinidad and Tobago, Alice Yard is a nonprofit gallery and performance space.
 
@@ -782,13 +782,13 @@ douen retains its capacity for devious and deviant paths.
 
 [^11]: See Geosi Gyasi, "Interview with Trinidadian Poet, Andre Bagoo," 25 April 2015, [http://geosireads.wordpress.com/2015/04/25/interview-with-trinidadian-poet-andre-bagoo](http://geosireads.wordpress.com/2015/04/25/interview-with-trinidadian-poet-andre-bagoo.)
 
-[^12]: See [http://www.instagram.com/p/m9BmgSGxJS/?taken-by=douenislands](http://www.instagram.com/p/m9BmgSGxJS/?taken-by=douenislands;) and [http://www.instagram.com/p/m\_SDXEGxJn/?taken-by=douenislands](http://www.instagram.com/p/m\_SDXEGxJn/?taken-by=douenislands.) See also performance stills included in Ramlochan's review of the event, "An Evening of Alice Yard Douens," 14 April 2014, www.bocaslitfest.com/2014/an-evening-of-alice-yard-douens.
+[^12]: See [http://www.instagram.com/p/m9BmgSGxJS/?taken-by=douenislands](http://www.instagram.com/p/m9BmgSGxJS/?taken-by=douenislands;) and [http://www.instagram.com/p/m\_SDXEGxJn/?taken-by=douenislands](http://www.instagram.com/p/m\_SDXEGxJn/?taken-by=douenislands.) See also performance stills included in Ramlochan's review of the event, "An Evening of Alice Yard Douens," 14 April 2014, [http://www.bocaslitfest.com/2014/an-evening-of-alice-yard-douens](http://www.bocaslitfest.com/2014/an-evening-of-alice-yard-douens).
 
 [^13]: See [http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar](http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar;) and [http://www.instagram.com/p/m89WgVGxCB/?taken-by=douenislands](http://www.instagram.com/p/m89WgVGxCB/?taken-by=douenislands.)
 
 [^14]: The 2009 version of this work was installed and exhibited at Alice Yard; its 2010 and 2011 Erotic Art Week installations took place at the Bohemia Gallery in Port of Spain.
 
-[^15]: See www.rodellwarner.com/index.php?/photobooth; and Dave Williams, "Losing Your Head in the Photobooth," *sx salon*, 9 November 2009, [http://smallaxe.net/wordpress3/works/2009/11/09/dave-williams-on-rodell-warner](http://smallaxe.net/wordpress3/works/2009/11/09/dave-williams-on-rodell-warner.)
+[^15]: See [http://www.rodellwarner.com/index.php?/photobooth](http://www.rodellwarner.com/index.php?/photobooth); and Dave Williams, "Losing Your Head in the Photobooth," *sx salon*, 9 November 2009, [http://smallaxe.net/wordpress3/works/2009/11/09/dave-williams-on-rodell-warner](http://smallaxe.net/wordpress3/works/2009/11/09/dave-williams-on-rodell-warner.)
 
 [^16]: Marcela Fuentes, "Performance Constellations: Memory and Event in Digitally Enabled Protests in the Americas," *Text and Performance Quarterly* 31, no. 1 (2015): 34.
 
@@ -806,7 +806,7 @@ douen retains its capacity for devious and deviant paths.
 
 [^23]: Rita Raley, "TXTual Practice," in N. Katherine Hayles and Jessica Pressman, eds., *Comparative Textual Media: Transforming the Humanities in the Postprint Era* (Minneapolis: University of Minnesota Press, 2013), 20.
 
-[^24]: While all tweets are stored in giant corporate databases and are being archived by the Library of Congress back to 2006, they are inaccessible to the lay user once they have been displaced by new tweets. Otherwise, commercial social media monitoring tools such as Gnip PowerTrack and Datasift exist specifically to allow companies to store and dredge information from users' tweets that are no longer viewable by the general public. See Dave Lee, "Twitter Partners with Datasift to Unlock Tweet Archive," 28 February 2012, www.bbc.com/news/technology-17178022.
+[^24]: While all tweets are stored in giant corporate databases and are being archived by the Library of Congress back to 2006, they are inaccessible to the lay user once they have been displaced by new tweets. Otherwise, commercial social media monitoring tools such as Gnip PowerTrack and Datasift exist specifically to allow companies to store and dredge information from users' tweets that are no longer viewable by the general public. See Dave Lee, "Twitter Partners with Datasift to Unlock Tweet Archive," 28 February 2012, [http://www.bbc.com/news/technology-17178022](http://www.bbc.com/news/technology-17178022).
 
 [^25]: Man Bartlett, quoted in Benjamin Sutton, "The Many Uses of Rhizome's New Social Media Preservation Tool," *Hyperallergic*, 21 October 2014, [http://hyperallergic.com/157039/the-many-uses-of-rhizomes-new-social-media-perservation-tool/](http://hyperallergic.com/157039/the-many-uses-of-rhizomes-new-social-media-perservation-tool/.)
 
@@ -826,9 +826,9 @@ douen retains its capacity for devious and deviant paths.
 
 [^33]: Marty Fink and Quinn Miller, "Trans Media Moments: Tumblr, 2011--2013," *Television and New Media* 15, no. 7 (2013): 621.
 
-[^34]: See vimeo.com/78231839.
+[^34]: See [http://vimeo.com/78231839](http://vimeo.com/78231839).
 
-[^35]: See www.facebook.com/douen.islands and [http://www.facebook.com/douen.islands.1](http://www.facebook.com/douen.islands.1;) [http://www.instagram.com/douenislands](http://www.instagram.com/douenislands;) [http://twitter.com/douenislands](http://twitter.com/douenislands;) [http://douenislands.tumblr.com](http://douenislands.tumblr.com.)
+[^35]: See [http://www.facebook.com/douen.islands](http://www.facebook.com/douen.islands) and [http://www.facebook.com/douen.islands.1](http://www.facebook.com/douen.islands.1;) [http://www.instagram.com/douenislands](http://www.instagram.com/douenislands;) [http://twitter.com/douenislands](http://twitter.com/douenislands;) [http://douenislands.tumblr.com](http://douenislands.tumblr.com.)
 
 [^36]: Roberto Simanowski, "Digital and Net Art," in Marie-Laure Ryan, Lori Emerson, and Benjamin Robertson, eds., *The Johns Hopkins Guide to Digital Media* (Baltimore, MD: Johns Hopkins University Press, 2014), 134.
 
