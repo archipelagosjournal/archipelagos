@@ -3,7 +3,7 @@
 
 <!-- YouTube -->
 {% if include.type == "youtube" %}
-<div class="media-wrapper" >   
+<div class="image-wrapper" >   
     {% if include.url %}
     <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
     {% endif %}
@@ -14,7 +14,7 @@
 
 </div>
     {% if include.caption %}
-<span class="media-caption">{{include.caption}}</span>
+<span class="caption">{{include.caption}}</span>
     {% endif %}
 
 

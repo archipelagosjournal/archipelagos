@@ -334,32 +334,7 @@ span.caption {
   width: 100%;
 }
 
-/* Other media */
 
-.media-wrapper { 
-	position: relative; 
-	padding-bottom: 56.25%; 
-	height: 0; 
-	overflow: hidden; 
-	max-width: 100%; 
-	margin: 1.4rem 0 0.33rem;
-} 
-
-.media-wrapper iframe, .media-wrapper object, .media-wrapper embed { 
-	position: absolute; 
-	top: 0; 
-	left: 0; 
-	width: 100%; 
-	height: 100%;
-	border-radius: 5px; 
-}
-
-
-.media-caption {
-        color: #939598;
-        font-size: .5rem;
-        text-align: right;
-}
 
 
 
