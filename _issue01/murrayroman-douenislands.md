@@ -7,7 +7,6 @@ title:
 author: 
 - name: Jeannine Murray-Román
   shortname: Murray-Román  
-link: 
 date: May 2016
 issue: 1
 order: 2
