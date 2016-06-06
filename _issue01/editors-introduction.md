@@ -17,8 +17,8 @@ author:
 
 
 The essays in this inaugural issue of *sx archipelagos* attend to the
-myriad opportunities and concerns that inform the Caribbean digital—its
-spaces, methodologies, and imaginations—as praxis and as historicized
+myriad opportunities and concerns that inform the Caribbean digital---its
+spaces, methodologies, and imaginations---as praxis and as historicized
 societal phenomenon. Contributors propose critical perspectives on the
 challenges and opportunities presented by media technologies that
 evermore intensely reconfigure the social and geographic contours of the
@@ -37,41 +37,41 @@ technologies they evoke, and they consider the ways the Internet does
 and does not provide structural means for facilitating broad engagement,
 communication, and accessibility in the Caribbean.
 
-In “Digitizing the ‘Sound Explosions’ of Anglophone Caribbean
-Performance Poetry,” Janet Neigh engages questions of archival best
+In "Digitizing the 'Sound Explosions' of Anglophone Caribbean
+Performance Poetry," Janet Neigh engages questions of archival best
 practices, audience, and representation in an insightful discussion of
-Trinidad’s youth-led artist collective the 2 Cents Movement. What, Neigh
+Trinidad's youth-led artist collective the 2 Cents Movement. What, Neigh
 asks, are the costs and the benefits of relying on the digital for the
 crucial functions of preserving and circulating Caribbean poetry and
 other forms of oral and performance art? And how does the relatively new
 performance platform that is the Internet shed light on the politics of
-preservation and circulation? Similarly, in “Twitter and @douenislands’s
-Ambiguous Paths,” Jeannine Murray-Romàn considers how Caribbean artistic
-movements—in this instance, the Trinidadian-based Douen Islands
-Project—embrace digital technology and social media in their efforts to
-connect with and implicate a wide and diverse audience. Murray-Romàn’s
-“Twitter-focused analysis” explores figurings of the folk—of the *douen*
-in particular—in both the substance and the practice of reading (in) the
+preservation and circulation? Similarly, in "Twitter and @douenislands's
+Ambiguous Paths," Jeannine Murray-Romàn considers how Caribbean artistic
+movements---in this instance, the Trinidadian-based Douen Islands
+Project---embrace digital technology and social media in their efforts to
+connect with and implicate a wide and diverse audience. Murray-Romàn's
+"Twitter-focused analysis" explores figurings of the folk---of the *douen*
+in particular---in both the substance and the practice of reading (in) the
 Caribbean. Both Neigh and Murray-Romàn affirm the digital as space
 wherein, despite myriad and significant challenges, artists and/as
 social actors are able to connect and collaborate transregionally. Also
 concerned with technology and the arts in the increasingly digitized
 Caribbean space, Martin Munro interrogates the relationship between
-music and digital media in “Who Stole the Soul? Rhythm and Race in the
-Digital Age.” Munro considers whether the affordances of technology risk
+music and digital media in "Who Stole the Soul? Rhythm and Race in the
+Digital Age." Munro considers whether the affordances of technology risk
 endangering the originary radicalism of black music. Might the digital
 chance making rhythm accessible to global beat-makers in a troublingly
 race-and-history-free vacuum?
 
-Tonya Haynes’s essay, “Mapping Caribbean Cyberfeminisms,” also thinks
+Tonya Haynes's essay, "Mapping Caribbean Cyberfeminisms," also thinks
 about expanded opportunities for connection and community building
 throughout the (cyber)space of the Caribbean and its diasporas. Focused
 specifically on the phenomenon of online feminist activism, Haynes
 situates and critiques the vast network of feminist bloggers whose media
 presence at once forges new political paths and shores up the work of
 existing on-the-ground activist communities. Finally, mapping is at the
-heart of Yarimar Bonilla and Max Hantel’s “Visualizing Sovereignty:
-Cartographic Queries for the Digital Age.” Reflecting on the ways formal
+heart of Yarimar Bonilla and Max Hantel's "Visualizing Sovereignty:
+Cartographic Queries for the Digital Age." Reflecting on the ways formal
 representation is deeply connected to and even determinant of
 philosophical and political phenomena, Bonilla and Hantel ask how
 sovereignty in the Caribbean might be generatively reimagined through
@@ -79,7 +79,7 @@ attention to visualization. From infographics to animation, the authors
 experiment with cartography as dynamic scholarly praxis through which to
 challenge existing hierarchies of nationhood.
 
-“The Caribbean Digital” is, of course, a complex and unbounded space—one
+"The Caribbean Digital" is, of course, a complex and unbounded space---one
 that we have only begun to explore in this special section. It is our
 hope that this wide-ranging and interdisciplinary collage of
 interventions will provide a rich point of departure for ongoing

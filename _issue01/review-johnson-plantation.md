@@ -15,7 +15,7 @@ order: 7
 Based on research compiled by Richard Dunn over more than forty years,
 the website [*Two Plantations*](http://www.twoplantations.com) expands
 on his work published in print and e-book form as *A Tale of Two
-Plantations: Slave Life and Labor in Jamaica and Virginia*.[^1] Dunn’s
+Plantations: Slave Life and Labor in Jamaica and Virginia*.[^1] Dunn's
 research on seven multigenerational families was culled from plantation
 ledgers and other source material held by the Barham Papers in the
 Bodleian Library at the University of Oxford and the Tayloe Papers at
@@ -30,19 +30,19 @@ present-day image of a building surrounded by lush greenery, a stately
 structure presumably on the site of either Mesopotamia (Jamaica) or
 Mount Airy (Virginia) and rendered in shades of blue. Slight, nearly
 undetectable animation causes the sentence beneath the description to
-glow. In italics, it reads, “This is their story.” Clicking an arrow
+glow. In italics, it reads, "This is their story." Clicking an arrow
 icon slides the user to the right, but not immediately into the names
 database or the handwritten family tree (painstakingly digitally
 rendered, since the family tree in paper form is over five feet in
 length). Instead, the user is advanced to a paragraph length
-introduction to Dunn’s research set against a blue scale rendering of a
-page from a plantation ledger. The words “Doctors Hall,” the name of a
-farm quarter owned by Mount Airy’s proprietors, loom especially large
+introduction to Dunn's research set against a blue scale rendering of a
+page from a plantation ledger. The words "Doctors Hall," the name of a
+farm quarter owned by Mount Airy's proprietors, loom especially large
 against the zoomed-in page. As a composition, these design choices
 acquaint the user with the work of a present-day historian of slavery
 juxtaposed against the work of the slave-owning past as preserved by
 archivists, endeavored upon by slave owners, and engaged in by the
-enslaved themselves––men with names like James, Gerard, Isaac.
+enslaved themselves---men with names like James, Gerard, Isaac.
 
 As the user clicks and is guided through the site from left to right
 (following the logic of a book), such multilayered and intertextual
@@ -66,21 +66,21 @@ slave life across the Americas by suggesting that death rates, high as
 they were, should not be the only data used to determine the suffering
 of the enslaved.
 
-As the user is moved through the next two slides—one for Mesopotamia and
-one for Mount Airy—information about the plantations is foregrounded.
+As the user is moved through the next two slides---one for Mesopotamia and
+one for Mount Airy---information about the plantations is foregrounded.
 Short paragraphs summarize demographics of the enslaved population at
 each location. The three enslaved families recorded at Mesopotamia are
-described as “continually stunted by death.” In contrast, the four
-enslaved families recorded at Mount Airy reproduced, but “were routinely
-broken up by movement and sale.” Text divulges the names of the owners
+described as "continually stunted by death." In contrast, the four
+enslaved families recorded at Mount Airy reproduced, but "were routinely
+broken up by movement and sale." Text divulges the names of the owners
 of each plantation and the user is introduced to Sally Thurston, a woman
 enslaved at Mount Airy Plantation, Virginia.
 
 More on Sally Thurston emerges as the next button diverges from the
 horizontal flow and directs users downward, drawing them deeper into the
 history itself. Beneath the fold, the first document is a digital
-rendering of Sally Thurston’s family tree as handwritten by Dunn. The
-structure of the tree is familiar—hierarchical and patronymic—and broad,
+rendering of Sally Thurston's family tree as handwritten by Dunn. The
+structure of the tree is familiar---hierarchical and patronymic---and broad,
 requiring the user to either utilize the scrolling function in the
 header or to swipe left and right to view it in full. Sally is the
 focus, her mothering and motherhood. In the upper right hand corner,
@@ -98,18 +98,18 @@ descendants. Sarah is the head of this tree, and her children are
 described using race and color terminology as articulated by Jamaican
 slaveowners. Names like Mulatto Ann and Quadroon Jane proliferate. The
 difference in racial nomenclature makes explicit what was implicit at
-Mount Airy—that sex across the color line and all of its attendant
+Mount Airy---that sex across the color line and all of its attendant
 relations of power, violence, and property were very much a part of
-enslaved women’s lives crucial to understanding enslaved family dynamics
+enslaved women's lives crucial to understanding enslaved family dynamics
 and central to any historiographical debate on slavery in Jamaica,
-Virginia or beyond. The text of Sarah’s family tree is searchable, and
+Virginia or beyond. The text of Sarah's family tree is searchable, and
 with a few clicks the user discovers that the family trees of all seven
 families are also available. Clicking on a name opens a dialog box with
 biographical information on the individual, and the graphical user
 interface makes navigating family lines easy and interesting.
 
 The next set of documents is in database form. The members of all seven
-families are listed in twin databases with identical fields—name, birth
+families are listed in twin databases with identical fields---name, birth
 year, family head, relationship, description, and death. This is no
 small victory. When designing databases, overcoming differences between
 archival documents and translating them into uniform data sets is a
@@ -122,7 +122,7 @@ the 1870 US census (the 1870 census was the first to count the formerly
 enslaved).
 
 The *Two Plantations* project tackles in digital form what slavery
-studies attempts in analog texts—breaking the archive of its commitment
+studies attempts in analog texts---breaking the archive of its commitment
 to mastery and obsession with property and therefore paternity. A final
 analysis slide asks the user to consider major historiographic and
 methodological questions on what it means to interpret documents related
@@ -131,28 +131,28 @@ Brown has described the aim of the project as encouraging users to
 read/view/interact against the grain as well as with the grain.[^2] The
 geography of the site maps out this imperative. As with all digital
 projects, users ultimately choose how, when, and where they will enter
-into the site itself. However, the experience of moving along the site’s
+into the site itself. However, the experience of moving along the site's
 projected route is quite literally a journey along two axes. In walking
-horizontally “against the grain” of slavery’s archive, the user is
+horizontally "against the grain" of slavery's archive, the user is
 exposed to post-1960s historiography of slavery, comparing bondage
 across slave owners and plantation societies, and into the post-1990s
 political and social turn toward the everyday lives of the enslaved.
 Especially important, however, is the way *Two Plantations* moves the
-user vertically, “with the grain” and into the archive itself. This is
+user vertically, "with the grain" and into the archive itself. This is
 not as simple as it seems. With *Two Plantations*, users engage with the
 enslaved themselves by learning their names, the names of their
 children, and the consistency of their family networks. At the same
 time, *Two Plantations* outlines the archive created by Richard Dunn,
 revealing something of the work engaged in by historians and the art of
 their craft. This point may be of special interest to graduate students
-or to K–12 teachers and students in their classrooms.
+or to K--12 teachers and students in their classrooms.
 
 Opportunities to discuss historians and their craft, the texture and
 textual nature of the manuscript documents, the methodological
 implications of data and databases for the study of slavery, might
 require more explicit foregrounding to best impact audiences beyond
 historians of slavery already well versed in these tensions and debates.
-For instance, a discussion of Dunn’s encounter with the ledgers and the
+For instance, a discussion of Dunn's encounter with the ledgers and the
 information available or unavailable in them, would be of interest to a
 wide range of users like archivists and librarians, scholars and
 students, community members and families, as well as digital humanists
@@ -168,7 +168,7 @@ documents themselves, for which Dunn offers his own interpretative layer
 site or among users visiting about who and what is *missing.* Why does
 the archive of slavery still continue to cause so much pain? It is both
 what is present in the history and what is not that resonates with
-users—and the same can be said of what is and is not present in *Two
+users---and the same can be said of what is and is not present in *Two
 Plantations*.
 
 It is an important choice to begin the family trees begin with the
@@ -180,7 +180,7 @@ using multiple pathways and nodes of intersection and interaction)
 renderings of the Thurston or Affir family trees better capture the
 dense networks of kin, mutuality, and precarity at play in bondage?
 Would enslaved women continue to have a central role in these new models
-or is “head of household” a political project that cannot be avoided, a
+or is "head of household" a political project that cannot be avoided, a
 reality of the archive we do not dare ignore? Is it possible for digital
 history to depict the enslaved in networks of kin united in a practice
 of labor on behalf of and for each other as well as in biological or
@@ -192,18 +192,13 @@ scholars a delicious design challenge. Historians of slavery designing
 digital projects do battle with inherited assumptions of difference and
 deviance with every keystroke. By grappling with the historiographical
 debates around comparative slavery and the documentation on enslaved
-families—and doing so in digital form—*Two Plantations* asks provocative
+families---and doing so in digital form---*Two Plantations* asks provocative
 questions that leave users with more questions than answers. This, in so
 many ways, is what good digital histories of difficult pasts ought to
 do.
 
 ---
 
-[^1]: *Two Plantations*, www.twoplantations.com; Richard Dunn, *A Tale
-    of Two Plantations: Slave Life and Labor in Jamaica and Virginia*
-    (Cambridge, MA: Harvard University Press, 2014).
+[^1]: *Two Plantations*, [http://www.twoplantations.com](http://www.twoplantations.com); Richard Dunn, *A Tale of Two Plantations: Slave Life and Labor in Jamaica and Virginia* (Cambridge, MA: Harvard University Press, 2014).
 
-[^2]: Vincent Brown, “Two Plantations: Enslaved Families in Virginia and
-    Jamaica,” in the presentation *The Caribbean Digital 2: Histories,
-    Cartographies, Narratives*, 4 December 2015, Columbia University,
-    New York.
+[^2]: Vincent Brown, "Two Plantations: Enslaved Families in Virginia and Jamaica," in the presentation *The Caribbean Digital 2: Histories, Cartographies, Narratives*, 4 December 2015, Columbia University, New York.

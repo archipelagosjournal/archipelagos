@@ -720,166 +720,68 @@ Project working group at Barnard College and Columbia University.
 
 ---
 
-[^1]: See Robert Jackson, *Sovereignty: The Evolution of an Idea*
-    (Cambridge: Polity, 2007).
+[^1]: See Robert Jackson, *Sovereignty: The Evolution of an Idea* (Cambridge: Polity, 2007).
 
-[^2]: See Arjun Appadurai, "Sovereignty without Territoriality: Notes
-    for a Postnational Geography," in Patricia Yaeger, ed., *The
-    Geography of Identity* (Ann Arbor: University of Michigan Press,
-    1996), 40--58; Wendy Brown, *Walled States, Waning Sovereignty* (New
-    York: Zone Books, 2010); John L. Comaroff and Jean Comaroff,
-    "Reflections on the Anthropology of Law, Governance, and
-    Sovereignty," in Franz von Benda-Beckmann et al., eds., *Rules of
-    Law and Laws of Ruling: On the Governance of Law* (Surrey, UK:
-    Ashgate, 2009), 31--60; James Ferguson, *Global Shadows: Africa in
-    the Neoliberal World Order* (Durham, NC: Duke University Press,
-    2006); Thomas Blom Hansen and Finn Stepputat, "Sovereignty
-    Revisited," *Annual Review of Anthropology* 35 (2006): 295--315;
-    Thomas Blom Hansen, *Sovereign Bodies: Citizens, Migrants, and
-    States in the Postcolonial World* (Princeton, NJ: Princeton
-    University Press, 2005); Carolyn Nordstrom, "Shadows and
-    Sovereigns," *Theory, Culture, and Society* 17, no. 4 (2000): 35--54;
-    and Aihwa Ong, *Neoliberalism as Exception: Mutations in Citizenship
-    and Sovereignty* (Durham, NC: Duke University Press, 2006).
+[^2]: See Arjun Appadurai, "Sovereignty without Territoriality: Notes for a Postnational Geography," in Patricia Yaeger, ed., *The Geography of Identity* (Ann Arbor: University of Michigan Press, 1996), 40--58; Wendy Brown, *Walled States, Waning Sovereignty* (New York: Zone Books, 2010); John L. Comaroff and Jean Comaroff, "Reflections on the Anthropology of Law, Governance, and Sovereignty," in Franz von Benda-Beckmann et al., eds., *Rules of Law and Laws of Ruling: On the Governance of Law* (Surrey, UK: Ashgate, 2009), 31--60; James Ferguson, *Global Shadows: Africa in the Neoliberal World Order* (Durham, NC: Duke University Press, 2006); Thomas Blom Hansen and Finn Stepputat, "Sovereignty Revisited," *Annual Review of Anthropology* 35 (2006): 295--315; Thomas Blom Hansen, *Sovereign Bodies: Citizens, Migrants, and States in the Postcolonial World* (Princeton, NJ: Princeton University Press, 2005); Carolyn Nordstrom, "Shadows and Sovereigns," *Theory, Culture, and Society* 17, no. 4 (2000): 35--54; and Aihwa Ong, *Neoliberalism as Exception: Mutations in Citizenship and Sovereignty* (Durham, NC: Duke University Press, 2006).
 
-[^3]: See Lauren A. Benton, *A Search for Sovereignty: Law and Geography
-    in European Empires, 1400--1900* (Cambridge: Cambridge University
-    Press, 2010); Jack P. Greene, *Negotiated Authorities: Essays in
-    Colonial Political and Constitutional History* (Charlottesville:
-    University Press of Virginia, 1994); and Philip J. Stern, *The
-    Company-State: Corporate Sovereignty and the Early Modern
-    Foundations of the British Empire in India* (Oxford: Oxford
-    University Press, 2012).
+[^3]: See Lauren A. Benton, *A Search for Sovereignty: Law and Geography in European Empires, 1400--1900* (Cambridge: Cambridge University Press, 2010); Jack P. Greene, *Negotiated Authorities: Essays in Colonial Political and Constitutional History* (Charlottesville: University Press of Virginia, 1994); and Philip J. Stern, *The Company-State: Corporate Sovereignty and the Early Modern Foundations of the British Empire in India* (Oxford: Oxford University Press, 2012).
 
-[^4]: See Michel-Rolph Trouillot, *Silencing the Past: Power and the
-    Production of History* (Boston: Beacon, 1995); and Julia Gaffield,
-    *Haitian Connections in the Atlantic World: Recognition after
-    Revolution* (Chapel Hill: University of North Carolina Press, 2015).
+[^4]: See Michel-Rolph Trouillot, *Silencing the Past: Power and the Production of History* (Boston: Beacon, 1995); and Julia Gaffield, *Haitian Connections in the Atlantic World: Recognition after Revolution* (Chapel Hill: University of North Carolina Press, 2015).
 
-[^5]: Antonio Benìtez-Rojo, *The Repeating Island: The Caribbean and the
-    Postmodern Perspective* (Durham, NC: Duke University Press, 1996),
-    2.  
+[^5]: Antonio Benìtez-Rojo, *The Repeating Island: The Caribbean and the Postmodern Perspective* (Durham, NC: Duke University Press, 1996), 2.  
 
-[^6]: Michel-Rolph Trouillot, "North Atlantic Universals: Analytical
-    Fictions, 1942--1945," *South Atlantic Quarterly* 101, no. 4 (2002):
-    848.
+[^6]: Michel-Rolph Trouillot, "North Atlantic Universals: Analytical Fictions, 1942--1945," *South Atlantic Quarterly* 101, no. 4 (2002): 848.
 
-[^7]: Yarimar Bonilla, "Ordinary Sovereignty," *Small Axe*, no. 42
-    (November 2013): 152--65.
+[^7]: Yarimar Bonilla, "Ordinary Sovereignty," *Small Axe*, no. 42 (November 2013): 152--65.
 
-[^8]: Jordan Branch, "Mapping the Sovereign State: Technology,
-    Authority, and Systemic Change," *International Organization* 65,
-    no. 1 (2011): 2; see also Philip E. Steinberg, "Insularity,
-    Sovereignty, and Statehood: The Representation of Islands on
-    Portolan Charts and the Construction of the Territorial State,"
-    *Geografiska Annaler* 87, no. 4 (2005): 2.
+[^8]: Jordan Branch, "Mapping the Sovereign State: Technology, Authority, and Systemic Change," *International Organization* 65, no. 1 (2011): 2; see also Philip E. Steinberg, "Insularity, Sovereignty, and Statehood: The Representation of Islands on Portolan Charts and the Construction of the Territorial State," *Geografiska Annaler* 87, no. 4 (2005): 2.
 
-[^9]: Anne McClintock, *Imperial Leather: Race, Gender, and Sexuality in
-    the Colonial Contest* (New York: Routledge, 1995), 28.
+[^9]: Anne McClintock, *Imperial Leather: Race, Gender, and Sexuality in the Colonial Contest* (New York: Routledge, 1995), 28.
 
-[^10]: Sylvia Wynter, "1492: A New World View," in Vera Lawrence Hyatt
-    and Rex Nettleford, eds., *Race, Discourse, and the Origin of the
-    Americas* (Washington, DC: Smithsonian Institution Press, 1995), 50.
+[^10]: Sylvia Wynter, "1492: A New World View," in Vera Lawrence Hyatt and Rex Nettleford, eds., *Race, Discourse, and the Origin of the Americas* (Washington, DC: Smithsonian Institution Press, 1995), 50.
 
-[^11]: See Sylvia Wynter, "On How We Mistook the Map for the Territory,
-    and Re-Imprisoned Ourselves in Our Unbearable Wrongness of Being, of
-    Desetre: Black Studies Toward the Human Project," in Lewis R. Gordon
-    and Jane Anna Gordon, eds., *Not Only the Master's Tools:
-    African-American Studies in Theory and Practice*, (Boulder, CO:
-    Paradigm, 2006), 107--69.
+[^11]: See Sylvia Wynter, "On How We Mistook the Map for the Territory, and Re-Imprisoned Ourselves in Our Unbearable Wrongness of Being, of Desetre: Black Studies Toward the Human Project," in Lewis R. Gordon and Jane Anna Gordon, eds., *Not Only the Master's Tools: African-American Studies in Theory and Practice*, (Boulder, CO: Paradigm, 2006), 107--69.
 
-[^12]: See Yarimar Bonilla, *Non-sovereign Futures: French Caribbean
-    Politics in the Wake of Disenchantment* (Chicago: University of
-    Chicago Press, 2015).
+[^12]: See Yarimar Bonilla, *Non-sovereign Futures: French Caribbean Politics in the Wake of Disenchantment* (Chicago: University of Chicago Press, 2015).
 
-[^13]: John Pickles, *A History of Spaces: Cartographic Reason, Mapping,
-    and the Geo-Coded World* (New York: Routledge, 2003); for a
-    discussion of mapping and the "social reproduction of space" in
-    Caribbean political formations, see Michaeline Crichlow and Patricia
-    Northover, *Globalization and the Post-creole Imagination: Notes on
-    Fleeing the Plantation* (Durham, NC: Duke University Press, 2009),
-    15--41.
+[^13]: John Pickles, *A History of Spaces: Cartographic Reason, Mapping, and the Geo-Coded World* (New York: Routledge, 2003); for a discussion of mapping and the "social reproduction of space" in Caribbean political formations, see Michaeline Crichlow and Patricia Northover, *Globalization and the Post-creole Imagination: Notes on Fleeing the Plantation* (Durham, NC: Duke University Press, 2009), 15--41.
 
-[^14]: Edouard Glissant, *Caribbean Discourse: Selected Essays*, trans.
-    J. Michael Dash (Charlottesville: University Press of Virginia,
-    1989), 3; originally published as *Le discours antillais* (1981;
-    repr., Paris: Gallimard, 1997).
+[^14]: Edouard Glissant, *Caribbean Discourse: Selected Essays*, trans. J. Michael Dash (Charlottesville: University Press of Virginia, 1989), 3; originally published as *Le discours antillais* (1981; repr., Paris: Gallimard, 1997).
 
-[^15]: Max Hantel, "Rhizomes and the Space of Translation: On Edouard
-    Glissant's Spiral Retelling," *Small Axe*, no. 42 (November 2013):
-    100--12.
+[^15]: Max Hantel, "Rhizomes and the Space of Translation: On Edouard Glissant's Spiral Retelling," *Small Axe*, no. 42 (November 2013): 100--12.
 
-[^16]: Crichlow and Northover, *Globalization and the Post-creole
-    Imagination*, 22--23.
+[^16]: Crichlow and Northover, *Globalization and the Post-creole Imagination*, 22--23.
 
 [^17]: Glissant, *Caribbean Discourse*, 64.
 
-[^18]: Claudio Saunt, *Invasion of America: How the United States Took
-    Over an Eighth of the World*, video, 1:27, published 2 June 2014 by
-    eHistory.org, youtu.be/pJxrTzfG2bo. For an interactive map, see
-    invasionofamerica.ehistory.org.
+[^18]: Claudio Saunt, *Invasion of America: How the United States Took Over an Eighth of the World*, video, 1:27, published 2 June 2014 by eHistory.org, [http://youtu.be/pJxrTzfG2bo](http://youtu.be/pJxrTzfG2bo.) For an interactive map, see [http://invasionofamerica.ehistory.org](http://invasionofamerica.ehistory.org.)
 
-[^19]: Vincent Brown, *Slave Revolt in Jamaica, 1760--1761: A
-    Cartographic Narrative*, revolt.axismaps.com. See also Vincent
-    Brown, "Mapping a Slave Revolt: Visualizing Spatial History through
-    the Archives of Slavery," *Social Text*, no. 125 (December 2015):
-    134--41.
+[^19]: Vincent Brown, *Slave Revolt in Jamaica, 1760--1761: A Cartographic Narrative*, [http://revolt.axismaps.com](http://revolt.axismaps.com.) See also Vincent Brown, "Mapping a Slave Revolt: Visualizing Spatial History through the Archives of Slavery," *Social Text*, no. 125 (December 2015): 134--41.
 
-[^20]: Vincent Brown, "Narrative Interface for New Media History: Slave
-    Revolt in Jamaica, 1760--1761," *American Historical Review* 121, no.
-    1 (2016): 176--86.
+[^20]: Vincent Brown, "Narrative Interface for New Media History: Slave Revolt in Jamaica, 1760--1761," *American Historical Review* 121, no. 1 (2016): 176--86.
 
-[^21]: *Two Plantations: Enslaved Families in Virginia and Jamaica*,
-    [http://www.twoplantations.com](http://www.twoplantations.com.)
+[^21]: *Two Plantations: Enslaved Families in Virginia and Jamaica*, [http://www.twoplantations.com](http://www.twoplantations.com.)
 
 [^22]: Brown, "Narrative Interface," 178.
 
-[^23]: See Edouard Glissant, "Creolization in the Making of the
-    Americas," *Caribbean Quarterly* 54, nos. 1--2 (2008): 81--89; and
-    Roman de la Campa, *Latin Americanism* (Minneapolis: University of
-    Minnesota Press, 1999).
+[^23]: See Edouard Glissant, "Creolization in the Making of the Americas," *Caribbean Quarterly* 54, nos. 1--2 (2008): 81--89; and Roman de la Campa, *Latin Americanism* (Minneapolis: University of Minnesota Press, 1999).
 
-[^24]: For most societies, we chose the date they were removed from the
-    United Nations list of non-self-governing societies; for those that
-    remain on the list, we chose the date they obtained the status they
-    have today. We understand these arrangements as "postcolonial," not
-    in the sense of a formal rupture with colonialism but in terms of a
-    shift in how empire and colonialism itself figure in the political
-    imagination.
+[^24]: For most societies, we chose the date they were removed from the United Nations list of non-self-governing societies; for those that remain on the list, we chose the date they obtained the status they have today. We understand these arrangements as "postcolonial," not in the sense of a formal rupture with colonialism but in terms of a shift in how empire and colonialism itself figure in the political imagination.
 
-[^25]: As Jamaica Kincaid suggests, "The people in a small place cannot
-    see themselves in a larger picture, they cannot see that they might
-    be part of a chain of something, anything." Jamaica Kincaid, *A
-    Small Place* (New York: Farrar, Straus, and Giroux, 2000), 52.
+[^25]: As Jamaica Kincaid suggests, "The people in a small place cannot see themselves in a larger picture, they cannot see that they might be part of a chain of something, anything." Jamaica Kincaid, *A Small Place* (New York: Farrar, Straus, and Giroux, 2000), 52.
 
-[^26]: Neil Smith, *Uneven Development: Nature, Capital, and the
-    Production of Space* (Athens: University of Georgia Press, 2008),
-    229.
+[^26]: Neil Smith, *Uneven Development: Nature, Capital, and the Production of Space* (Athens: University of Georgia Press, 2008), 229.
 
-[^27]: Neil Smith, "Homeless/Global: Scaling Places," in Jon Bird et
-    al., eds., *Mapping the Futures: Local Cultures, Global Change*
-    (London: Routledge, 1993), 90.
+[^27]: Neil Smith, "Homeless/Global: Scaling Places," in Jon Bird et al., eds., *Mapping the Futures: Local Cultures, Global Change* (London: Routledge, 1993), 90.
 
 [^28]: Video forthcoming.
 
-[^29]: See Pedro L. San Miguel, *The Imagined Island: History, Identity,
-    and Utopia in Hispaniola* (Chapel Hill: University of North Carolina
-    Press, 2006).
+[^29]: See Pedro L. San Miguel, *The Imagined Island: History, Identity, and Utopia in Hispaniola* (Chapel Hill: University of North Carolina Press, 2006).
 
-[^30]: Rory Carroll and Daniel Nasaw, "US Accused of Annexing Airport as
-    Squabbling Hinders Aid Effort in Haiti," *Guardian* (UK), January
-    2010,
-    [http://www.theguardian.com/world/2010/jan/17/us-accused-aid-effort-haiti](http://www.theguardian.com/world/2010/jan/17/us-accused-aid-effort-haiti.)
+[^30]: Rory Carroll and Daniel Nasaw, "US Accused of Annexing Airport as Squabbling Hinders Aid Effort in Haiti," *Guardian* (UK), January 2010, [http://www.theguardian.com/world/2010/jan/17/us-accused-aid-effort-haiti](http://www.theguardian.com/world/2010/jan/17/us-accused-aid-effort-haiti.)
 
-[^31]: Benton, *Search for Sovereignty*, specifically chap. 5,
-    "Landlocked: Colonial Enclaves and the Problem of
-    Quasi-Sovereignty," 222--78.
+[^31]: Benton, *Search for Sovereignty*, specifically chap. 5, "Landlocked: Colonial Enclaves and the Problem of Quasi-Sovereignty," 222--78.
 
 [^32]: See Bonilla, *Non-sovereign Futures*.
 
-[^33]: See Max Hantel, "Errant Notes on a Caribbean Rhizome," *Rhizomes:
-    Cultural Studies in Emerging Knowledge* 24 (2012),
-    [http://www.rhizomes.net/issue24/hantel.html](http://www.rhizomes.net/issue24/hantel.html;) "Intergenerational Geographies
-    of Race and Gender: Tracing the Confluence of Afro-Caribbean and
-    Feminist Thought beyond the Word of Man" (PhD diss., Rutgers
-    University, New Brunswick, NJ, 2015).
+[^33]: See Max Hantel, "Errant Notes on a Caribbean Rhizome," *Rhizomes: Cultural Studies in Emerging Knowledge* 24 (2012), [http://www.rhizomes.net/issue24/hantel.html](http://www.rhizomes.net/issue24/hantel.html;) "Intergenerational Geographies of Race and Gender: Tracing the Confluence of Afro-Caribbean and Feminist Thought beyond the Word of Man" (PhD diss., Rutgers University, New Brunswick, NJ, 2015).

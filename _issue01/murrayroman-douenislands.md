@@ -760,188 +760,82 @@ douen retains its capacity for devious and deviant paths.
 
 ---
 
-[^1]: Andre Bagoo, quoted in Nicholas Laughlin, "*Douen Islands* and the
-    Art of Collaboration," *Caribbean Review of Books*, 4 November 2013,
-    [http://caribbeanreviewofbooks.com/2013/11/04/douen-islands-and-the-art-of-collaboration](http://caribbeanreviewofbooks.com/2013/11/04/douen-islands-and-the-art-of-collaboration.)
+[^1]: Andre Bagoo, quoted in Nicholas Laughlin, "*Douen Islands* and the Art of Collaboration," *Caribbean Review of Books*, 4 November 2013, [http://caribbeanreviewofbooks.com/2013/11/04/douen-islands-and-the-art-of-collaboration](http://caribbeanreviewofbooks.com/2013/11/04/douen-islands-and-the-art-of-collaboration.)
 
-[^2]: Douen Islands, *Douen Islands Issue 001: Tomorrow Please God*,
-    with poems by Andre Bagoo; hereafter cited in the text. The PDF can
-    be accessed at [http://www.dropbox.com/s/1kopn1kb0st781s/DouenIslands.pdf](http://www.dropbox.com/s/1kopn1kb0st781s/DouenIslands.pdf.) A
-    link to the PDF was on www.douenislands.tumblr.com from October 2013
-    to January 2016.
+[^2]: Douen Islands, *Douen Islands Issue 001: Tomorrow Please God*, with poems by Andre Bagoo; hereafter cited in the text. The PDF can be accessed at [http://www.dropbox.com/s/1kopn1kb0st781s/DouenIslands.pdf](http://www.dropbox.com/s/1kopn1kb0st781s/DouenIslands.pdf.) A link to the PDF was on [http://www.douenislands.tumblr.com](http://www.douenislands.tumblr.com) from October 2013 to January 2016.
 
-[^3]: Located at 80 Roberts Street, Woodbrook, Port of Spain, Trinidad
-    and Tobago, Alice Yard is a nonprofit gallery and performance space.
+[^3]: Located at 80 Roberts Street, Woodbrook, Port of Spain, Trinidad and Tobago, Alice Yard is a nonprofit gallery and performance space.
 
-[^4]: Michele Zappavigna, *Discourse of Twitter and Social Media*
-    (London: Continuum, 2012), 38.
+[^4]: Michele Zappavigna, *Discourse of Twitter and Social Media* (London: Continuum, 2012), 38.
 
-[^5]: In February 2016, Twitter announced that Timelines would change
-    from reverse chronology to include an algorithmic mode of
-    organization.
+[^5]: In February 2016, Twitter announced that Timelines would change from reverse chronology to include an algorithmic mode of organization.
 
-[^6]: A figure that shares a similar origin story and the physical
-    characteristic of the backward feet with Trinidad and Tobago's douen
-    can be found throughout Latin America as *el duende*.
+[^6]: A figure that shares a similar origin story and the physical characteristic of the backward feet with Trinidad and Tobago's douen can be found throughout Latin America as *el duende*.
 
-[^7]: See Kriston Chen, "Douen Islands: In Forest and Wild Skies," 1
-    August 2014,
-    [http://www.notsirk.com/blog/2014/7/31/douen-islands-into-forests-wild-skies](http://www.notsirk.com/blog/2014/7/31/douen-islands-into-forests-wild-skies.)
+[^7]: See Kriston Chen, "Douen Islands: In Forest and Wild Skies," 1 August 2014, [http://www.notsirk.com/blog/2014/7/31/douen-islands-into-forests-wild-skies](http://www.notsirk.com/blog/2014/7/31/douen-islands-into-forests-wild-skies.)
 
-[^8]: See Kenwyn Chrichlow, "Figures at the Forest's Edge," *Kaieteur
-    News Online*, 6 June 2010,
-    [http://www.kaieteurnewsonline.com/2010/06/06/%E2%80%98figures-trapped-at-the-forest%E2%80%99s-edge%E2%80%99](http://www.kaieteurnewsonline.com/2010/06/06/%E2%80%98figures-trapped-at-the-forest%E2%80%99s-edge%E2%80%99.)
+[^8]: See Kenwyn Chrichlow, "Figures at the Forest's Edge," *Kaieteur News Online*, 6 June 2010, [http://www.kaieteurnewsonline.com/2010/06/06/%E2%80%98figures-trapped-at-the-forest%E2%80%99s-edge%E2%80%99](http://www.kaieteurnewsonline.com/2010/06/06/%E2%80%98figures-trapped-at-the-forest%E2%80%99s-edge%E2%80%99.)
 
 [^9]: Kriston Chen, e-mail message to author, 8 July 2015.
 
-[^10]: Andre Bagoo, quoted in Laughlin, "*Douen Islands* and the Art of
-    Collaboration."
+[^10]: Andre Bagoo, quoted in Laughlin, "*Douen Islands* and the Art of Collaboration."
 
-[^11]: See Geosi Gyasi, "Interview with Trinidadian Poet, Andre Bagoo,"
-    25 April 2015,
-    [http://geosireads.wordpress.com/2015/04/25/interview-with-trinidadian-poet-andre-bagoo](http://geosireads.wordpress.com/2015/04/25/interview-with-trinidadian-poet-andre-bagoo.)
+[^11]: See Geosi Gyasi, "Interview with Trinidadian Poet, Andre Bagoo," 25 April 2015, [http://geosireads.wordpress.com/2015/04/25/interview-with-trinidadian-poet-andre-bagoo](http://geosireads.wordpress.com/2015/04/25/interview-with-trinidadian-poet-andre-bagoo.)
 
-[^12]: See [http://www.instagram.com/p/m9BmgSGxJS/?taken-by=douenislands](http://www.instagram.com/p/m9BmgSGxJS/?taken-by=douenislands;) and
-    [http://www.instagram.com/p/m\_SDXEGxJn/?taken-by=douenislands](http://www.instagram.com/p/m\_SDXEGxJn/?taken-by=douenislands.) See also
-    performance stills included in Ramlochan's review of the event, "An
-    Evening of Alice Yard Douens," 14 April 2014,
-    www.bocaslitfest.com/2014/an-evening-of-alice-yard-douens.
+[^12]: See [http://www.instagram.com/p/m9BmgSGxJS/?taken-by=douenislands](http://www.instagram.com/p/m9BmgSGxJS/?taken-by=douenislands;) and [http://www.instagram.com/p/m\_SDXEGxJn/?taken-by=douenislands](http://www.instagram.com/p/m\_SDXEGxJn/?taken-by=douenislands.) See also performance stills included in Ramlochan's review of the event, "An Evening of Alice Yard Douens," 14 April 2014, [http://www.bocaslitfest.com/2014/an-evening-of-alice-yard-douens](http://www.bocaslitfest.com/2014/an-evening-of-alice-yard-douens).
 
-[^13]: See
-    [http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar](http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar;)
-    and [http://www.instagram.com/p/m89WgVGxCB/?taken-by=douenislands](http://www.instagram.com/p/m89WgVGxCB/?taken-by=douenislands.)
+[^13]: See [http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar](http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar;) and [http://www.instagram.com/p/m89WgVGxCB/?taken-by=douenislands](http://www.instagram.com/p/m89WgVGxCB/?taken-by=douenislands.)
 
-[^14]: The 2009 version of this work was installed and exhibited at
-    Alice Yard; its 2010 and 2011 Erotic Art Week installations took
-    place at the Bohemia Gallery in Port of Spain.
+[^14]: The 2009 version of this work was installed and exhibited at Alice Yard; its 2010 and 2011 Erotic Art Week installations took place at the Bohemia Gallery in Port of Spain.
 
-[^15]: See www.rodellwarner.com/index.php?/photobooth; and Dave
-    Williams, "Losing Your Head in the Photobooth," *sx salon*, 9
-    November 2009,
-    [http://smallaxe.net/wordpress3/works/2009/11/09/dave-williams-on-rodell-warner](http://smallaxe.net/wordpress3/works/2009/11/09/dave-williams-on-rodell-warner.)
+[^15]: See [http://www.rodellwarner.com/index.php?/photobooth](http://www.rodellwarner.com/index.php?/photobooth); and Dave Williams, "Losing Your Head in the Photobooth," *sx salon*, 9 November 2009, [http://smallaxe.net/wordpress3/works/2009/11/09/dave-williams-on-rodell-warner](http://smallaxe.net/wordpress3/works/2009/11/09/dave-williams-on-rodell-warner.)
 
-[^16]: Marcela Fuentes, "Performance Constellations: Memory and Event in
-    Digitally Enabled Protests in the Americas," *Text and Performance
-    Quarterly* 31, no. 1 (2015): 34.
+[^16]: Marcela Fuentes, "Performance Constellations: Memory and Event in Digitally Enabled Protests in the Americas," *Text and Performance Quarterly* 31, no. 1 (2015): 34.
 
-[^17]: See Cliff Atkinson, *The Backchannel: How Audiences Are Using
-    Twitter and Social Media and Changing Presentations Forever*
-    (Berkeley, CA: New Riders, 2010). Using the formulation "an audience
-    with an audience" (5) to describe the backchannel, Atkinson notes
-    the double-edged potential of a backchannel from the primary
-    speaker's viewpoint: "A backchannel is a line of communication
-    created by people in an audience to connect with others inside or
-    outside the room, with or without the knowledge of the speaker at
-    the front of the room. Usually facilitated by Internet technologies,
-    it is spontaneous, self-directed, and limited in time to the
-    duration of a live event. A backchannel can be constructive when it
-    enhances and extends helpful information and relationships, and it
-    can be destructive when it articulates and amplifies
-    counterproductive emotions and sentiments" (17). What is
-    constructive and destructive---and to whom---is debatable, given the
-    relationship between the back-channeler and the dominant voice.
+[^17]: See Cliff Atkinson, *The Backchannel: How Audiences Are Using Twitter and Social Media and Changing Presentations Forever* (Berkeley, CA: New Riders, 2010). Using the formulation "an audience with an audience" (5) to describe the backchannel, Atkinson notes the double-edged potential of a backchannel from the primary speaker's viewpoint: "A backchannel is a line of communication created by people in an audience to connect with others inside or outside the room, with or without the knowledge of the speaker at the front of the room. Usually facilitated by Internet technologies, it is spontaneous, self-directed, and limited in time to the duration of a live event. A backchannel can be constructive when it enhances and extends helpful information and relationships, and it can be destructive when it articulates and amplifies counterproductive emotions and sentiments" (17). What is constructive and destructive---and to whom---is debatable, given the relationship between the back-channeler and the dominant voice.
 
-[^18]: Alex Maireder and Stephan Schlögl term these temporary
-    communities formed on social networks "encounter-publics," often
-    organized around timely and relevant hashtag that allows "less
-    conventional voiced \[to\] make themselves heard and sometimes
-    heavily interact with the centre." Alex Maireder and Stephan
-    Schlögl, "24 Hours of an \#outcry: The Networked Publics of a
-    Socio-political Debate," *European Journal of Communication* 29, no.
-    6 (2014): 689.
+[^18]: Alex Maireder and Stephan Schlögl term these temporary communities formed on social networks "encounter-publics," often organized around timely and relevant hashtag that allows "less conventional voiced \[to\] make themselves heard and sometimes heavily interact with the centre." Alex Maireder and Stephan Schlögl, "24 Hours of an \#outcry: The Networked Publics of a Socio-political Debate," *European Journal of Communication* 29, no. 6 (2014): 689.
 
 [^19]: [http://twitter.com/douenislands/status/455141412678684672](http://twitter.com/douenislands/status/455141412678684672.)
 
-[^20]: Michele Zappavigna defines the "linguistic ping" as a genre of
-    tweets that register "I'm still here" (*Discourse of Twitter*, 29).
+[^20]: Michele Zappavigna defines the "linguistic ping" as a genre of tweets that register "I'm still here" (*Discourse of Twitter*, 29).
 
-[^21]: Naomi Baron notes that in social media and SMS texting,
-    punctuation is often used only when it carries necessary discourse
-    information. Naomi Baron, "Language Use in Online and Mobile
-    Communication," in Marie-Laure Ryan, Lori Emerson, and Benjamin
-    Robertson, eds., *The Johns Hopkins Guide to Digital Media*
-    (Baltimore, MD: Johns Hopkins University Press, 2014), 311.
+[^21]: Naomi Baron notes that in social media and SMS texting, punctuation is often used only when it carries necessary discourse information. Naomi Baron, "Language Use in Online and Mobile Communication," in Marie-Laure Ryan, Lori Emerson, and Benjamin Robertson, eds., *The Johns Hopkins Guide to Digital Media* (Baltimore, MD: Johns Hopkins University Press, 2014), 311.
 
-[^22]: [http://twitter.com/douenislands/status/455139629243842560](http://twitter.com/douenislands/status/455139629243842560;)
-    [http://twitter.com/douenislands/status/455140625386835969](http://twitter.com/douenislands/status/455140625386835969.)
+[^22]: [http://twitter.com/douenislands/status/455139629243842560](http://twitter.com/douenislands/status/455139629243842560;) [http://twitter.com/douenislands/status/455140625386835969](http://twitter.com/douenislands/status/455140625386835969.)
 
-[^23]: Rita Raley, "TXTual Practice," in N. Katherine Hayles and Jessica
-    Pressman, eds., *Comparative Textual Media: Transforming the
-    Humanities in the Postprint Era* (Minneapolis: University of
-    Minnesota Press, 2013), 20.
+[^23]: Rita Raley, "TXTual Practice," in N. Katherine Hayles and Jessica Pressman, eds., *Comparative Textual Media: Transforming the Humanities in the Postprint Era* (Minneapolis: University of Minnesota Press, 2013), 20.
 
-[^24]: While all tweets are stored in giant corporate databases and are
-    being archived by the Library of Congress back to 2006, they are
-    inaccessible to the lay user once they have been displaced by new
-    tweets. Otherwise, commercial social media monitoring tools such as
-    Gnip PowerTrack and Datasift exist specifically to allow companies
-    to store and dredge information from users' tweets that are no
-    longer viewable by the general public. See Dave Lee, "Twitter
-    Partners with Datasift to Unlock Tweet Archive," 28 February 2012,
-    www.bbc.com/news/technology-17178022.
+[^24]: While all tweets are stored in giant corporate databases and are being archived by the Library of Congress back to 2006, they are inaccessible to the lay user once they have been displaced by new tweets. Otherwise, commercial social media monitoring tools such as Gnip PowerTrack and Datasift exist specifically to allow companies to store and dredge information from users' tweets that are no longer viewable by the general public. See Dave Lee, "Twitter Partners with Datasift to Unlock Tweet Archive," 28 February 2012, [http://www.bbc.com/news/technology-17178022](http://www.bbc.com/news/technology-17178022).
 
-[^25]: Man Bartlett, quoted in Benjamin Sutton, "The Many Uses of
-    Rhizome's New Social Media Preservation Tool," *Hyperallergic*, 21
-    October 2014,
-    [http://hyperallergic.com/157039/the-many-uses-of-rhizomes-new-social-media-perservation-tool/](http://hyperallergic.com/157039/the-many-uses-of-rhizomes-new-social-media-perservation-tool/.)
+[^25]: Man Bartlett, quoted in Benjamin Sutton, "The Many Uses of Rhizome's New Social Media Preservation Tool," *Hyperallergic*, 21 October 2014, [http://hyperallergic.com/157039/the-many-uses-of-rhizomes-new-social-media-perservation-tool/](http://hyperallergic.com/157039/the-many-uses-of-rhizomes-new-social-media-perservation-tool/.)
 
-[^26]: See "Our Folklore Is Predominantly of African Origin,"
-    *TriniView*, [http://www.triniview.com/TnT/Folklore.htm](http://www.triniview.com/TnT/Folklore.htm.)
+[^26]: See "Our Folklore Is Predominantly of African Origin," *TriniView*, [http://www.triniview.com/TnT/Folklore.htm](http://www.triniview.com/TnT/Folklore.htm.)
 
-[^27]: Gérard Besson, "Mermaids, Imps, and Goddesses: The Folklore of
-    Trinidad and Tobago," in *Trinidad and Tobago: Fifty Years of
-    Independence* (London: First Magazine, 2012), 54.
+[^27]: Gérard Besson, "Mermaids, Imps, and Goddesses: The Folklore of Trinidad and Tobago," in *Trinidad and Tobago: Fifty Years of Independence* (London: First Magazine, 2012), 54.
 
-[^28]: Angelo Bissessarsingh, "Douens and Other Folkore," *Guardian*, 30
-    June 2013,
-    [http://www.guardian.co.tt/entertainment/2013-06-30/douens-and-other-folklore](http://www.guardian.co.tt/entertainment/2013-06-30/douens-and-other-folklore.)
+[^28]: Angelo Bissessarsingh, "Douens and Other Folkore," *Guardian*, 30 June 2013, [http://www.guardian.co.tt/entertainment/2013-06-30/douens-and-other-folklore](http://www.guardian.co.tt/entertainment/2013-06-30/douens-and-other-folklore.)
 
 [^29]: Laughlin, "*Douen Islands* and the Art of Collaboration."
 
-[^30]: See Ann González's discussion of *ciguapas* in the Dominican
-    Republic in *Resistance and Survival: Children's Narrative from
-    Central America and the Caribbean* (Tucson: University of Arizona
-    Press, 2009), 8.
+[^30]: See Ann González's discussion of *ciguapas* in the Dominican Republic in *Resistance and Survival: Children's Narrative from Central America and the Caribbean* (Tucson: University of Arizona Press, 2009), 8.
 
-[^31]: Elspeth Reeve, "The Secret Lives of Tumblr Teens," *New
-    Republic*, 17 February 2016,
-    [http://newrepublic.com/article/129002/secret-lives-tumblr-teens](http://newrepublic.com/article/129002/secret-lives-tumblr-teens.)
+[^31]: Elspeth Reeve, "The Secret Lives of Tumblr Teens," *New Republic*, 17 February 2016, [http://newrepublic.com/article/129002/secret-lives-tumblr-teens](http://newrepublic.com/article/129002/secret-lives-tumblr-teens.)
 
-[^32]: See *Dictionary of the English/Creole of Trinidad & Tobago: On
-    Historical Principles*, ed. Lise Winer, s.v. "douen, duende douaine,
-    doune, dwen, duegne" (Montreal: McGill-Queen's University Press,
-    2009).
+[^32]: See *Dictionary of the English/Creole of Trinidad & Tobago: On Historical Principles*, ed. Lise Winer, s.v. "douen, duende douaine, doune, dwen, duegne" (Montreal: McGill-Queen's University Press, 2009).
 
-[^33]: Marty Fink and Quinn Miller, "Trans Media Moments: Tumblr,
-    2011--2013," *Television and New Media* 15, no. 7 (2013): 621.
+[^33]: Marty Fink and Quinn Miller, "Trans Media Moments: Tumblr, 2011--2013," *Television and New Media* 15, no. 7 (2013): 621.
 
-[^34]: See vimeo.com/78231839.
+[^34]: See [http://vimeo.com/78231839](http://vimeo.com/78231839).
 
-[^35]: See www.facebook.com/douen.islands and
-    [http://www.facebook.com/douen.islands.1](http://www.facebook.com/douen.islands.1;) [http://www.instagram.com/douenislands](http://www.instagram.com/douenislands;)
-    [http://twitter.com/douenislands](http://twitter.com/douenislands;) [http://douenislands.tumblr.com](http://douenislands.tumblr.com.)
+[^35]: See [http://www.facebook.com/douen.islands](http://www.facebook.com/douen.islands) and [http://www.facebook.com/douen.islands.1](http://www.facebook.com/douen.islands.1;) [http://www.instagram.com/douenislands](http://www.instagram.com/douenislands;) [http://twitter.com/douenislands](http://twitter.com/douenislands;) [http://douenislands.tumblr.com](http://douenislands.tumblr.com.)
 
-[^36]: Roberto Simanowski, "Digital and Net Art," in Marie-Laure Ryan,
-    Lori Emerson, and Benjamin Robertson, eds., *The Johns Hopkins Guide
-    to Digital Media* (Baltimore, MD: Johns Hopkins University Press,
-    2014), 134.
+[^36]: Roberto Simanowski, "Digital and Net Art," in Marie-Laure Ryan, Lori Emerson, and Benjamin Robertson, eds., *The Johns Hopkins Guide to Digital Media* (Baltimore, MD: Johns Hopkins University Press, 2014), 134.
 
-[^37]: In their discussion of how Occupy Movement activists moved
-    content from YouTube to Twitter, Kjerstin Thorson et. al. show that
-    this content shift transforms one platform into a "communal good" as
-    a repository of resources as well as a "connective good, linking
-    members of a public together and giving them at least the
-    possibility of communication." Kjerstin Thorson et al., "YouTube,
-    Twitter, and the Occupy Movement," *Information, Communication, and
-    Society* 16, no. 3 (2013): 441.
+[^37]: In their discussion of how Occupy Movement activists moved content from YouTube to Twitter, Kjerstin Thorson et. al. show that this content shift transforms one platform into a "communal good" as a repository of resources as well as a "connective good, linking members of a public together and giving them at least the possibility of communication." Kjerstin Thorson et al., "YouTube, Twitter, and the Occupy Movement," *Information, Communication, and Society* 16, no. 3 (2013): 441.
 
-[^38]: Bagoo, quoted in Laughlin, "*Douen Islands* and the Art of
-    Collaboration."
+[^38]: Bagoo, quoted in Laughlin, "*Douen Islands* and the Art of Collaboration."
 
-[^39]: Deviated feet is a birth defect that results in the infant's foot
-    being shaped like a kidney bean, and in most cases can be resolved
-    within a few months, through passive stretching exercises. See
-    Ursula Geisen, "Common Foot Deformities Draft 2,"
-    
+[^39]: Deviated feet is a birth defect that results in the infant's foot being shaped like a kidney bean, and in most cases can be resolved within a few months, through passive stretching exercises. See Ursula Geisen, "Common Foot Deformities Draft 2," 
 
 [^40]: Chen, e-mail message to the author.
