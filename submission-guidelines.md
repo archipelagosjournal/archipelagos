@@ -61,7 +61,7 @@ encourage our authors to submit plain text files (UTF-8 encoding),
 written using [Kramdown syntax](http://kramdown.gettalong.org/syntax.html), a version of Markdown, and saved with the .md extension. This will help us keep our workflow light and our file types closer to the production line. For some background on our
 infrastructural choices, and to get started with Markdown, please take
 some time to read “[Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown),” by Dennis Tenen and Grant Whytoff. We sincerely appreciate those who accept the challenge of changing their work habits and are happy to
-provide assistance during the process.
+provide assistance during the process. You will find many markdown editing tools available, and most plain text editors are great at handling markdown.
 
 **Office formats (.odt, .doc, .docx)**: If you find the Markdown workflow
 overwhelming, we will convert your Microsoft Word, LibreOffice, or
@@ -70,10 +70,14 @@ order to minimize the work needed to convert your files into publishable
 format, please be sure to follow our guidelines and style
 guide closely. Here are some specific formatting issues that will make our transformation work: 
 
-1. Please use the Heading styles (i.e. Heading 2, Heading 3, etc.) to separate your sections, beginning with Heading 2. Indicating headings by using bold does not help us.
-2. Attach links to the text (as opposed to spelling them out). In footnotes, spell out the link, but also link to it as you would with text. 
+1. Please use the Heading styles (i.e. Heading 2, Heading 3, etc.) to separate your sections, beginning with Heading 2. Indicating headings by using bold does not translate well in our transformations.
+2. Attach links to the text (as opposed to spelling them out). In footnotes, spell out the link, but also link to it as you would with text: [http://example.com](http://example.com/)
 3. Remember to use `http://` and `https://` on your links or they won't work.
 4. Please make sure to use normal quotation marks. Avoid the use of "smart quotes."
+5. For hyphens, en-dashes and em-dashes use, respectively: `-` `--` and `---`.
+6. Do not try to do your own layout on Word. What you see is not what you get.
+7. Do not insert images manually in the document. Refer to our guidelines below.
+8. Do not use data fields or tables in Word. Please see below for our accepted table formats.
 
 #### Images
 
@@ -83,13 +87,16 @@ color harmonies, and other design elements. Remember also that these
 files may contain embedded metadata that you might not want to publish.
 Images accompanying your documents will be open to the review process.
 
-Please provide crisp images with a minimum of 72ppi resolution and at
-least 800 pixels wide. We accept both JPGs and PNGs. Please use the
-following syntax in your documents, regardless of format, to indicate
-where you would like your images to be inserted:
+Please provide crisp images with a minimum of 144ppi resolution and at
+least 800 pixels wide. Please submit your images in JPG format. We accept PNG's if the image has transparencies. 
 
-~~~
-!\[Caption - Credit\](file-name.jpg)
+Please use the following syntax in your documents, regardless of format, to indicate where you would like your images to be inserted:
+
+~~~ text
+{  img="my-image.jpg"
+   title="insert title here"
+   caption="insert caption here. include credit if appropriate."
+   url="http://optional-url.com" }
 ~~~
 
 We ask that you name your image files using one or two keywords
@@ -113,12 +120,16 @@ us, whenever possible, a full-screen version of your interactive media
 hosted elsewhere.
 
 In order to include any of these media types, we ask that you send us a
-screenshot (see images above) **{I don’t see images…}**and the
-appropriate link to the separate content. Please indicate in the
+screenshot and the appropriate link to the separate content. Please indicate in the
 following format the position in your article where you would like your
 screenshot to appear:
 
-`\[!\[Caption - Credit\](screenshot-name.jpg)\](http://link.org)`
+~~~ text
+{  img="my-screenshot.jpg"
+   title="insert title here"
+   caption="insert caption here. include credit if appropriate."
+   url="http://video-url.com" }
+~~~
 
 ### Hyperlinks
 
@@ -135,15 +146,19 @@ citations when the links are fundamental to the argument and you cannot provide 
 
 ### External Documents
 
-When sharing external documents, do not link to Cloud storage services
+When sharing external documents, do not link to cloud storage services
 (e.g., Dropbox, Google Docs) or closed-access sources. In these cases,
 simply cite the documents. If you have permission to use them, you may
-be able to submit them with your files. We do welcome links to open
+be able to submit them with your files. We do welcome and encourage links to open
 institutional repositories.
 
 ### Tables
 
-If you would like the table to display as you read your text you can submit it either as a .csv (Comma Separated Values) file or written directly in kramdown/markdown, its final format. In particular, we prefer  If you would like to submit a table you can do so as a separate PDF. We would then link to the table from within the text. Alternativaly, We do not accept tables in Office format.
+If you would like a table to display as you read your text you can submit it either as a .csv (Comma Separated Values) file or written directly in [kramdown/markdown](http://kramdown.gettalong.org/syntax.html#tables), its final format. In general, we prefer the simpler table formats. Please avoid rowspans, for example. 
+
+If you would like to submit a more complex table you can do so as a separate PDF. We would then link to the table from within the text. 
+
+We do not accept tables in Office format.
 
 ## Submission Guidelines for Digital Projects
 
