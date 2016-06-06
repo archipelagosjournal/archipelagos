@@ -92,4 +92,4 @@ master's house.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>Articles published as part of <em>sx archipelagos</em> are distributed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> unless otherwise noted.
 
-The technological stack used for *sx archipelagos* is offered with an MIT license, except for the aggregate design connecting our platform to the Small Axe Project. All of our data is open on our <a href="{{site.url}}">Github repository</a>.
+The technological stack used for *sx archipelagos* is offered with an MIT license, except for the aggregate design connecting our platform to the Small Axe Project. All of our data is open on our <a href="{{site.githuburl}}">Github repository</a>.
