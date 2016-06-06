@@ -3,8 +3,8 @@ layout: article
 section: articles
 pdf: neigh-digitizing.pdf
 title: 
-  "long": "Digitizing the \"Sound Explosions\" of Anglophone Caribbean Performance Poetry"
-  "short": Digitizing Sound Explosions
+  "long": "Digitizing the \'Sound Explosions\' of Anglophone Caribbean Performance Poetry"
+  "short": Digitizing the Sound Explosions
 author: 
 - name: Janet Neigh
   shortname: Neigh

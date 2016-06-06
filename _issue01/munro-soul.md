@@ -2,7 +2,7 @@
 layout: article
 section: articles
 title: 
-  "long": "\"Who Stole the Soul?\" Rhythm and Race in the Digital Age"
+  "long": "\'Who Stole the Soul?\' Rhythm and Race in the Digital Age"
   "short": "Who Stole the Soul?"
 author: 
 - name: Martin Munro
