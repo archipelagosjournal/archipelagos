@@ -110,15 +110,14 @@
     [important]
     [location=low, frame=off, background=color, backgroundcolor=highlight]
 
+\setupurl
+   [style=\tf]
 
-
-\setupfootnotes[style={\setupalign[hanging,hz]}]
-
-\startsetups[footnote:interlinespace]
-  \setupinterlinespace[small]
-  \setupalign[hanging, hz]
+\startsetups[footnote:align]  
+  \setupalign[hanging, hz, hyphenated, morehyphenation, verytolerant, stretch, flushleft]
 \stopsetups
 
+\setupnote[footnote][setups=footnote:align]
 
 \setuptolerance   [{verytolerant, stretch}]
 
@@ -160,6 +159,10 @@
 \setupTABLE[r][1][background=color,backgroundcolor=gray,style={\tf}]
 \setupTABLE[align=middle]
 \setuppagenumbering[alternative=singlesided, location={header, margin}, style={\setupbodyfont[9pt]}]
+
+\setuptables
+   [split=yes,
+    header=text]
 
 \setupheadertexts[]
 \setupheader[text][state=normal, style={\setupbodyfont[9pt]}]

@@ -10,20 +10,20 @@ author:
 date: May 2016
 issue: 1
 order: 4
-abstract: "Caribbean cyberfeminisms are diverse, heterogeneous, and polyvocal. Networks may be simultaneously national, regional, global, transnational, and diasporic. Through practices of media creation, curating, (re)blogging, (re)tweeting, sharing, and commenting across multiple social media platforms, Caribbean feminist knit together an online community that is often linked to on-the-ground organizing and action. Online feminist practices are therefore rich archives for the study of Caribbean feminisms. To date, scholarly work on women’s and feminist movements in the region has failed to document and analyze these practices and sites of activism. Similarly, Caribbean feminist critiques of technology and new media are not well developed. The essay attends to this gap by offering a partial and preliminary mapping Caribbean cyberfeminisms primarily through documentation and analysis of Caribbean feminist blogs."
+abstract: "Caribbean cyberfeminisms are diverse, heterogeneous, and polyvocal. Networks may be simultaneously national, regional, global, transnational, and diasporic. Through practices of media creation, curating, (re)blogging, (re)tweeting, sharing, and commenting across multiple social media platforms, Caribbean feminist knit together an online community that is often linked to on-the-ground organizing and action. Online feminist practices are therefore rich archives for the study of Caribbean feminisms. To date, scholarly work on women's and feminist movements in the region has failed to document and analyze these practices and sites of activism. Similarly, Caribbean feminist critiques of technology and new media are not well developed. The essay attends to this gap by offering a partial and preliminary mapping Caribbean cyberfeminisms primarily through documentation and analysis of Caribbean feminist blogs."
 ---
 
 
-The murder of Japanese pannist Asami Nagakiya at Trinidad and Tobago’s
+The murder of Japanese pannist Asami Nagakiya at Trinidad and Tobago's
 carnival generated international headlines. The mayor of Port of Spain,
 Raymond Tim Kee, seemed to blame Nagakiya for her own death, couching
-the violence against her as a result of “vulgarity and lewdness in
-conduct,” underscoring that “women have a responsibility to ensure they
-are not abused.”[^1] Trinidadian women (and men) assembled outside City
-Hall to demand the mayor’s resignation. They also shifted the public
+the violence against her as a result of "vulgarity and lewdness in
+conduct," underscoring that "women have a responsibility to ensure they
+are not abused."[^1] Trinidadian women (and men) assembled outside City
+Hall to demand the mayor's resignation. They also shifted the public
 conversation on gender-based violence away from what they deemed
-“victim-blaming” and “slut-shaming” toward one of state accountability
-and respect for women’s autonomy and bodily integrity. The leaders of
+"victim-blaming" and "slut-shaming" toward one of state accountability
+and respect for women's autonomy and bodily integrity. The leaders of
 the feminist organization womantra were among those identified as
 coordinating the protest action and media engagement. womantra is one of
 the most vibrant, feminist Pan-Caribbean online spaces linked to
@@ -32,11 +32,11 @@ ground for mobilizing Caribbean feminist constituencies, as evidenced by
 their street protest and online petition with more than 10,500
 signatures.
 
-A Jamaican government minister dismissed his country’s Twitter users as
-an “articulate minority” that does not express the views of “ordinary
-Jamaicans,”[^2] and the noted Caribbean feminist activist Hazel Brown,
+A Jamaican government minister dismissed his country's Twitter users as
+an "articulate minority" that does not express the views of "ordinary
+Jamaicans,"[^2] and the noted Caribbean feminist activist Hazel Brown,
 in response to her perception of a lack of civic activism, is quoted as
-lamenting, “People are writing blogs, but what are we doing?”[^3] While
+lamenting, "People are writing blogs, but what are we doing?"[^3] While
 the perception that Caribbean people are not using online technologies
 for significant civic participation is one shared by scholars, I seek to
 challenge such assessments.[^4] Studies of Caribbean culture and
@@ -51,9 +51,9 @@ deserve documentation.[^6] Such documentation, of feminist blogging in
 particular, is the focus of my attempt to offer a necessarily
 preliminary and partial mapping of Caribbean cyberfeminisms. Through an
 analysis of feminist blogs, I make a claim for the existence of
-Caribbean cyberfeminism as, in Susanna Paasonen’s words, “a critical
+Caribbean cyberfeminism as, in Susanna Paasonen's words, "a critical
 feminist position for interrogating and intervening in specific
-technological forms and practices,” visible in the ways bloggers
+technological forms and practices," visible in the ways bloggers
 challenge normative and hegemonic configurations of both feminism and
 digital technologies.[^7]
 
@@ -64,8 +64,8 @@ traces key moments in Caribbean blogging, going back to at least 2000
 with Taran Rampersad blogging from Trinidad and Tobago and the first
 blog post from Mad Bull (a Jamaican living the Cayman Islands) in 2001.
 [Guyana Gyal](http://sapodilla.blogspot.com) (Neena Maiya), described by
-Laughlin as “the first Caribbean blogger to make a point of writing
-consistently in a ‘non-standard local dialect,’” began blogging in
+Laughlin as "the first Caribbean blogger to make a point of writing
+consistently in a 'non-standard local dialect,'" began blogging in
 2005.[^8] As one of the strongest female Caribbean voices who has been
 blogging consistently, Guyana Gyal is clearly a pioneer of Caribbean
 feminist blogging. Another pioneer, the Barbadian woman behind
@@ -89,8 +89,8 @@ emergence, and diversity of Caribbean cyberfeminisms:
 
 - Queen Macoomeh initiated an [online
  petition](http://www.change.org/p/we-did-it-angostura-has-said-they-will-pull-the-ad-thank-you-all)
- against an Angostura advertisement with the tag line “Avoid the
- friendzone, offer her a real drink.” Angostura subsequently removed
+ against an Angostura advertisement with the tag line "Avoid the
+ friendzone, offer her a real drink." Angostura subsequently removed
  the advertisement.[^9] The public protest against the advertisement,
  especially via the online petition, was reported by international
  media outlets such as Buzzfeed.[^10]
@@ -107,30 +107,30 @@ emergence, and diversity of Caribbean cyberfeminisms:
  incubate others forms of political organizing and intervention.[^12]
 
 - Patrice Daniel, a twenty-nine-year-old feminist from Barbados and
- frequent contributor to International Planned Parenthood Federation’s
+ frequent contributor to International Planned Parenthood Federation's
  blog, generated what I consider to be a key moment in Caribbean
- feminist blogging history. Her “[An Open Letter to Caribbean Men, from
+ feminist blogging history. Her "[An Open Letter to Caribbean Men, from
  Caribbean
- Women](http://rhrealitycheck.org/article/2013/03/12/an-open-letter-to-caribbean-men-from-caribbean-women)”
+ Women](http://rhrealitycheck.org/article/2013/03/12/an-open-letter-to-caribbean-men-from-caribbean-women)"
  went viral, with over 10,000 shares on Facebook, demonstrating the
  extent to which her words resonated not only with Caribbean women but
  with women across the globe.[^13]
 
 - Caribbean women, many of whom identify as feminists and are active in
  feminist and lesbian, gay, bisexual, and transgender (LGBT) organizing
- have created online networks for “women who love women.” LGBT
- organizations such as Guyana’s [Society Against Sexual Orientation
- Discrimination](http://www.sasod.org.gy), Trinidad and Tobago’s
+ have created online networks for "women who love women." LGBT
+ organizations such as Guyana's [Society Against Sexual Orientation
+ Discrimination](http://www.sasod.org.gy), Trinidad and Tobago's
  [Coalition Advocating for Inclusion of Sexual
- Orientation](http://www.facebook.com/caiso), and St. Lucia’s [United
+ Orientation](http://www.facebook.com/caiso), and St. Lucia's [United
  and Strong](http://unitedandstrongstlucia.wordpress.com) maintain a
  significant online presence.[^14]
 
 - [*Air Me Now*](http://www.facebook.com/AirMeNow) is a [YouTube
  show](http://www.youtube.com/playlist?list=PLLNiArTOn_azPDdIR4FvkyepgRQrb9K8Y)
  hosted by women from Belize, the Bahamas, and Jamaica that highlights
- “Caribbean women’s voices, Caribbean women’s issues, Caribbean <span
- style="font-variant:small-caps;">oomanism</span>.”[^15]
+ "Caribbean women's voices, Caribbean women's issues, Caribbean <span
+ style="font-variant:small-caps;">oomanism</span>."[^15]
 
 - Gender consciousness has also meant broader public engagement with
  questions of gender and sexuality, like that offered by the YouTube
@@ -163,21 +163,21 @@ Life*](https://redforgender.wordpress.com/).[^18] *Global Voices*
 reviewed the series, as did Trinidadian writer Shivanee Ramlochan, whose
 review was published in the *Trinidad* *Guardian* newspaper. US-based
 feminist media site Feministing.com also featured the series.[^19]
-*E-Mas* highlighted Amina Doherty’s photography; Jermaine Ostiana’s poem
-“Trujillonomics”; Carla Moore’s video *On Loving Yaad, Leaving Yaad, and
-Why Some ah We Waan Run Come Back*; Stephanie Leitch’s reflections on
-her queer Baby-Doll mas’; and Gabrielle Hosein’s essay “A Risky
-Location: What It Means to Be an Indian Feminist in Our Region.”
+*E-Mas* highlighted Amina Doherty's photography; Jermaine Ostiana's poem
+"Trujillonomics"; Carla Moore's video *On Loving Yaad, Leaving Yaad, and
+Why Some ah We Waan Run Come Back*; Stephanie Leitch's reflections on
+her queer Baby-Doll mas'; and Gabrielle Hosein's essay "A Risky
+Location: What It Means to Be an Indian Feminist in Our Region."
 Ramlochan, herself a prolific digital griot, said of the collection:
-“These are some of the best and brightest in Caribbean letters, writing
+"These are some of the best and brightest in Caribbean letters, writing
 letters back home. They may often put forth theories that blast old,
 time honoured paradigms to shred, indeed, this is one of their most
 vital advantages. Digital space makes such collaborations not just
 possible but easily navigable. This blog carnival is proof that room can
 be constructed, in safe space, for every voice to interrogate its way
-toward truth.”[^20] Ramlochan’s analysis suggests that these “digital
-griots” must be taken on their own terms.[^21] The experience of hosting
-the “blog carnival” underscored for me the importance of documenting and
+toward truth."[^20] Ramlochan's analysis suggests that these "digital
+griots" must be taken on their own terms.[^21] The experience of hosting
+the "blog carnival" underscored for me the importance of documenting and
 analyzing online Caribbean feminisms.
 
 This partial and tentative attempt to map the diverse networks, spaces,
@@ -210,11 +210,11 @@ largely owned and maintained by the bloggers themselves.
 
 As part of this documentation of Caribbean bloggers, I sought to
 establish the national identities of these bloggers. Despite the claim
-that representing the nation is a key part of Caribbean people’s online
+that representing the nation is a key part of Caribbean people's online
 activities and identities, determining the nationality of a specific
-blog or blogger is not always straightforward.[^23] While “representing
-the nation” is important to the online personality and content of some
-bloggers (e.g., Jamaica’s [Carla
+blog or blogger is not always straightforward.[^23] While "representing
+the nation" is important to the online personality and content of some
+bloggers (e.g., Jamaica's [Carla
 Moore](http://mooretalkja.wordpress.com)) and for others their
 nationality is signaled in their blog title (e.g., [*Negra Cubana tenia
 que ser*](http://negracubanateniaqueser.wordpress.com/)), some blogs are
@@ -236,11 +236,11 @@ most recent posts on each blog published in 2015 and included them in
 the thematic analysis. This yielded some ninety-five blog posts that
 were read closely for recurring topics.
 
-Taking seriously Ramlochan’s assertion that the Caribbean’s digital
+Taking seriously Ramlochan's assertion that the Caribbean's digital
 subjects must be understood on their own terms, I sought to categorize
 the thirty-six blogs in the sample. The categories I propose as useful
 for analyzing Caribbean feminist bloggers are, as much as possible,
-drawn from the bloggers’ own descriptions of their online practices.
+drawn from the bloggers' own descriptions of their online practices.
 
 ## Categorizing Caribbean Cyberfeminisms
 
@@ -248,37 +248,37 @@ drawn from the bloggers’ own descriptions of their online practices.
 personal experience to illustrate or analyze relations of power in wider
 society. For example, in outlining the reason she decided to start
 blogging, [Gabrielle Hosein](http://grrlscene.wordpress.com) argues that
-the “‘small p’ politics that reflects just living a woman’s life” while
-rendered trivial in sexist imagination is, in fact, a source of women’s
+the "'small p' politics that reflects just living a woman's life" while
+rendered trivial in sexist imagination is, in fact, a source of women's
 theorizing:
 
-> i’m writing to live. to stand still instead of running from one end of
+> i'm writing to live. to stand still instead of running from one end of
 > the seesaw to the other, constantly trying to keep the whole in
-> balance. the words do not express the ‘big P’ politics of public
-> revolutions and realisations, but a consciousness of ‘small p’
-> politics that reflects just living a woman’s life. . . .
+> balance. the words do not express the 'big P' politics of public
+> revolutions and realisations, but a consciousness of 'small p'
+> politics that reflects just living a woman's life. . . .
 >
-> so much of women’s lives, time, work, concerns are considered trivial,
+> so much of women's lives, time, work, concerns are considered trivial,
 > yet they are momentous . . . if only to our own self. in this spirit,
 > i start this diary, charting the daily negotiation of managing work
 > and family, for as long as i can and perhaps as long as i need.[^24]
 
 Personal-is-political blogs therefore represent a continuation of
-women’s and feminist uses of diarying and journaling as a way of making
-sense of the world and of insisting that women’s experiences are
+women's and feminist uses of diarying and journaling as a way of making
+sense of the world and of insisting that women's experiences are
 significant sources of knowledge.
 
 I use the term *culture critic* to categorize blogs focused on cultural
 and sociological analyses of relations of power such as gender, race,
 class, and heterosexism and inequalities broadly. These blogs provide
 social, political, and economic analyses of everyday life and (popular)
-culture. Soyini Ayanna’s description of her blog [*Creative
+culture. Soyini Ayanna's description of her blog [*Creative
 Commess*](http://soyluv.wordpress.com) makes explicit her role as
-culture critic: “I frequently think about and critique popular West
+culture critic: "I frequently think about and critique popular West
 Indian & Trinbagonian cultural trends, soca trends and what I see taking
-place.”[^25] Likewise, the tag line to Annie Paul’s [*Active
-Voice*](http://anniepaul.net)—“sharp, pointed, often witty commentary on
-current events in Jamaica, the Caribbean, India and the world”—also
+place."[^25] Likewise, the tag line to Annie Paul's [*Active
+Voice*](http://anniepaul.net)---"sharp, pointed, often witty commentary on
+current events in Jamaica, the Caribbean, India and the world"---also
 suggests her role as culture critic.[^26]
 
 Personal-is-political and culture critic emerged as the most popular
@@ -294,10 +294,10 @@ broader sociocultural relations of gender, race, class, and sexuality.
 though it is the second-most popular. It refers to blogs that do not
 have an exclusive or primary focus on feminism, feminist perspectives,
 gender, or sexuality but that do include either writing from a feminist
-perspective or posts about women’s, feminist, and LGBT issues. For
-example, the [Antillean Media Group](http://www.antillean.org) is “a
+perspective or posts about women's, feminist, and LGBT issues. For
+example, the [Antillean Media Group](http://www.antillean.org) is "a
 caucus of journalists, researchers and policy analysts dedicated to the
-stories that impact the Caribbean.”[^27] Their coverage of Caribbean
+stories that impact the Caribbean."[^27] Their coverage of Caribbean
 stories includes issues of gender relations, covered from a profeminist
 perspective. However, they also address a broad range of issues from
 multiple perspectives.
@@ -307,7 +307,7 @@ published both in mainstream and online media and private blogs. It
 includes blogs by journalists and columnists as well as bloggers whose
 online content is republished in national newspapers or bloggers who
 have attracted significant mainstream media attention. This
-categorization is important because it demonstrates new media’s
+categorization is important because it demonstrates new media's
 imbrications with older forms of media. For example, the blogger
 Gabrielle Hosein saw her personal-is-political blog attract mainstream
 attention and subsequently be reprinted as a weekly column. Meanwhile,
@@ -332,7 +332,7 @@ feminist-academic blogs. This demonstrates the extent to which feminists
 in the academy have been using online media to produce and share
 knowledge on a variety of issues. This number doubles when I include the
 blogs of those of current or former students for whom courses in
-women’s/gender/feminist studies at universities in the Caribbean and
+women's/gender/feminist studies at universities in the Caribbean and
 overseas have been crucial to their own identities and consciousness as
 feminists. This demonstrates the importance of feminist academia to
 Caribbean cyberfeminisms. It also suggests that understanding privilege,
@@ -343,12 +343,12 @@ is undermined.
 
 *Curator* describes blogs that gather and reproduce content published
 elsewhere or curate original content from a variety of contributors
-(e.g., WomenSpeak Project’s [*Women
+(e.g., WomenSpeak Project's [*Women
 Speak*](http://womenspeak.tumblr.com), which solicits submissions).[^28]
 The blog [*Repeating Islands*](http://repeatingislands.com) describes
-itself as “a project intended to bring the broader Caribbean community
+itself as "a project intended to bring the broader Caribbean community
 closer through the sharing of news and information that transcends the
-linguistic divide in the region.”[^29] This information sharing is done
+linguistic divide in the region."[^29] This information sharing is done
 through aggregating and curating news published on multiple Caribbean
 news sites and serves the political mission of working across the
 divides of imperial languages. Included in this work of curating are
@@ -357,18 +357,18 @@ Caribbean cyberfeminists. For example, included among the links, images,
 stories, and responses to reader questions that [Bad
 Dominicana](http://bad-dominicana.tumblr.com) shares on her blog is a
 quote from a blog post by
-[BattyMamzelle](http://battymamzelle.blogspot.com) titled, “This Is What
-I Mean When I Say ‘White Feminism.’”[^30] Here, Caribbean feminists
+[BattyMamzelle](http://battymamzelle.blogspot.com) titled, "This Is What
+I Mean When I Say 'White Feminism.'"[^30] Here, Caribbean feminists
 build consciousness-raising communities online, share knowledge, and
 think collectively through these practices of curating, linking, and
-reblogging each other’s work.
+reblogging each other's work.
 
 *Witty* refers to blogs from writers for whom wit, wordplay, humor, and
 sarcasm function as key rhetorical devices and serve to make their media
 both more accessible and appealing to a wide readership/viewership.
-Annie Paul’s tagline promises “witty commentary,” and [Mar the
-Mongoose](http://mongoosechronicles.blogspot.com)’s “tales of a fierce,
-agile West Indian mongoose who moves quickly and sees much” also
+Annie Paul's tagline promises "witty commentary," and [Mar the
+Mongoose](http://mongoosechronicles.blogspot.com)'s "tales of a fierce,
+agile West Indian mongoose who moves quickly and sees much" also
 suggests a quick wit.[^31] While only five of the thirty-six blogs
 examined have been characterized as witty, it remains an important
 category for understanding feminist rhetorical strategies.
@@ -378,7 +378,7 @@ Blog Name | Blogger | Country | Categorization
 ---------------------------- | ------------------- | ------------------------ | -----------------------------------
 [1981: A Record of What Happened](http://amedjafifa.wordpress.com)| Some of It/DJ Afifa Aza | Jamaica | Personal-is-political, culture critic
 [Active Voice](http://anniepaul.net) | Annie Paul | Jamaica | +Feminism, culture critic, witty 
-[Add Fyah and Stir](http://addfyahandstir.wordpress.com) | | Antigua & Barbuda/St. Kitts–Nevis/T&T | Personal-is-political
+[Add Fyah and Stir](http://addfyahandstir.wordpress.com) | | Antigua & Barbuda/St. Kitts--Nevis/T&T | Personal-is-political
 [Amílcar Sanatan](http://www.amilcarsanatan.com/blog) | | Trinidad & Tobago | +Feminism
 [Antillean Media Group](http://www.antillean.org) | | Caribbean | +Feminism 
 [The Bad Dominicana](http://bad-dominicana.tumblr.com) | Zahira Kelly/Bad Dominicana | Dominican Republic | curator
@@ -396,7 +396,7 @@ Blog Name | Blogger | Country | Categorization
 [Jamaica Woman Tongue](http://carolynjoycooper.wordpress.com) | Carolyn Cooper | Jamaica | Feminist-academic, media crossover, culture critic, witty
 [The Mongoose Chronicles](http://mongoosechronicles.blogspot.com) | Mar/Mar the Mongoose | Barbados | Culture critic, witty
 [MooreTalkJa](http://mooretalkja.wordpress.com) | Carla Moore | Jamaica| Media crossover, personal-is-political, witty, culture critic, feminist-academic
-[Negra Cubana tenia que ser](http://negracubanateniaqueser.wordpress.com) | Sandra Abd’Allah-Alvarez Ramírez/Negra Cubana | Cuba | Feminist-academic, culture critic
+[Negra Cubana tenia que ser](http://negracubanateniaqueser.wordpress.com) | Sandra Abd'Allah-Alvarez Ramírez/Negra Cubana | Cuba | Feminist-academic, culture critic
 [One Nation...Many Bodies...Boundless Faith](http://onenationmanybodies.wordpress.com) | Colin Robinson | Trinidad & Tobago| Media crossover, LGBT , +Feminism
 [Paula Lindo](http://paulalindo.wordpress.com) | | Trinidad & Tobago| Personal-is-political
 [Petchary](http://petchary.wordpress.com) | Emma Lewis | Jamaica| +Feminism
@@ -411,9 +411,9 @@ Sheroxlox | Amina Doherty | Antigua & Barbuda/Nigeria | Personal-is-political, c
 [Under the Satire Flag](http://underthesaltireflag.com) | Kei Miller | Jamaica| Culture critic, +feminism, witty
 [Womanish Words](http://womanishwords.blogspot.com) | | The Bahamas | Poetry blog, personal-is-political
 [Women Speak](http://womenspeak.tumblr.com) | WomenSpeak Project | Trinidad & Tobago | Curator
-[Writing “D”](http://debraprovidence.wordpress.com) | Debra Providence | St. Vincent and the Grenadines| +Feminism, poetry blog
+[Writing "D"](http://debraprovidence.wordpress.com) | Debra Providence | St. Vincent and the Grenadines| +Feminism, poetry blog
 
-Table 1: Caribbean Feminist Blogs and Bloggers
+Table: Caribbean Feminist Blogs and Bloggers
 
 
 ## Feminist Positionality
@@ -421,7 +421,7 @@ Table 1: Caribbean Feminist Blogs and Bloggers
 The ways Caribbean digital griots identify online reveal a cyberfeminist
 practice that intervenes in dominant configurations of both feminism and
 digital space as Northern/Western, white, and bourgeois and that render
-Caribbean, feminist, and female voices as marginal. In their “about me”
+Caribbean, feminist, and female voices as marginal. In their "about me"
 pages, many of the bloggers expressly define themselves as feminist:
 
 > This is me. Caribbean. Feminist, activist, poet, academic, educator,
@@ -438,34 +438,34 @@ pages, many of the bloggers expressly define themselves as feminist:
 > critical commentary on media representation.[^35]
 
 These feminist bloggers also articulate the critical and political
-importance of women’s voices and spaces, and by affirming “me nun tak
-back nuh chat,” they defiantly lay claim to their opinions, analyses,
+importance of women's voices and spaces, and by affirming "me nun tak
+back nuh chat," they defiantly lay claim to their opinions, analyses,
 and theorizing without apology:[^36]
 
 > Lover and defender of my womanness, Africanness, my Caribbean
 > heritage, my Barbados, my right to take up my space and protect our
 > space.[^37]
 >
-> “Woman tongue, ‘was-was’ and tamarind tree, the three worse things.”
-> —Jamaican proverb
+> "Woman tongue, 'was-was' and tamarind tree, the three worse things."
+> ---Jamaican proverb
 >
-> Translation: The woman’s tongue, the wasp and the tamarind tree sting
+> Translation: The woman's tongue, the wasp and the tamarind tree sting
 > the most.
 >
 > This proverb suggests the potency of the female voice as an expression
 > of incisive social critique.[^38]
 
 Men also claim and participate in these cyberfeminist spaces, asserting,
-“Yes, I am a Rasta, Socialist, Feminist Caribbean Man. Above all, I am
-an Artist.”[^39]
+"Yes, I am a Rasta, Socialist, Feminist Caribbean Man. Above all, I am
+an Artist."[^39]
 
 The explicit use of the term *feminist* signals its acceptance and
 assumption of shared meaning. Feminism is a key part of the identity of
 some of the bloggers whose work is examined here, such as Bad
-Dominicana, who describes herself as a “raging mujercista,” with
+Dominicana, who describes herself as a "raging mujercista," with
 cyberfeminism also a key part of how some bloggers self-identify.[^40]
 For example, [Negra Cubana](http://negracubanateniaqueser.wordpress.com)
-describes herself as “ciberfeminista negra.”[^41] These bloggers tend to
+describes herself as "ciberfeminista negra."[^41] These bloggers tend to
 qualify the term *feminist* with *Caribbean* or *black*, suggesting an
 awareness of the racially and geopolitically exclusionary way normative
 feminism is often framed and of the antagonism between feminisms and
@@ -490,7 +490,7 @@ apolitical, consuming self as the modal way of being online.[^43] As
 Marcia Forbes has noted, Jamaican youth view a lack of access to the
 Internet and social media as a stigmatizing disadvantage.[^44]
 Furthermore, even when Internet users are engaged in expressly
-“political” projects, as are Caribbean feminists online, their
+"political" projects, as are Caribbean feminists online, their
 dependence on commercially driven platforms implicates them in these
 hegemonic, militaristic, and commercial orientations of the Internet, as
 well as in asymmetrical flows of information, media reach, and capital.
@@ -502,20 +502,20 @@ domination configurations of digital space.
 The format of the online forum or the blog post with a comments section
 allows for a multiplicity of voices. It therefore opens up spaces for
 dialogue and negotiation. However, some Caribbean cyberfeminists warn
-that you enter the media spaces they have created “at your own
-motherfuckin risk,” insisting, “i want you to feel alienated by me. i
+that you enter the media spaces they have created "at your own
+motherfuckin risk," insisting, "i want you to feel alienated by me. i
 want you to have to tiptoe around me like im a delicate creature who
 will snap your head off if you so even think of messing w my
-humanity.”[^45]
+humanity."[^45]
 
 By this they reveal heightened awareness to the ways being online folds
 into hegemonic notions of what it means to be human and into the
 gendered and racialized hierarchies of cyber/space. Their discursive,
-rhetorical, and media-making practices reveal their “critical feminist
+rhetorical, and media-making practices reveal their "critical feminist
 position for interrogating and intervening in specific technological
-forms and practices.”[^46] In this sense, it is important to view
-national or ethnic markers not merely as a part of “representing the
-nation online” but as a cyberfeminist practice that directly addresses
+forms and practices."[^46] In this sense, it is important to view
+national or ethnic markers not merely as a part of "representing the
+nation online" but as a cyberfeminist practice that directly addresses
 geopolitical and racial hierarchies inside and outside feminisms.[^47]
 
 ## Caribbean Feminist Concerns
@@ -532,21 +532,21 @@ their critical lenses to Caribbean and US popular culture, using these
 as modes of engaging with feminisms. Caribbean cyberfeminists challenge
 heteronormativity through their documenting of local, national, and
 regional LGBT organizing and articulating a vision of citizenship and
-nationhood that is inclusive. “I’ve always understood the project and
-vision of nation to include me—that it was meant to include everyone,”
-writes Colin Robinson. “I firmly believed there was progress in wrapping
+nationhood that is inclusive. "I've always understood the project and
+vision of nation to include me---that it was meant to include everyone,"
+writes Colin Robinson. "I firmly believed there was progress in wrapping
 ourselves in its symbols, which would make a difference where threatened
-boycotts, shaming human rights reviews and bans of our culture didn’t
-quite appear to be working.”[^48] Across multiple blogs, Caribbean
+boycotts, shaming human rights reviews and bans of our culture didn't
+quite appear to be working."[^48] Across multiple blogs, Caribbean
 cyberfeminists express concern about governance, the masculinism of
 state power, corruption, and holding state managers accountable. [Yaoni
-Sanchez](http://generacionyen.wordpress.com)’s words are illustrative of
-the views expressed by many: “With so many problems facing the country,
-which affect millions of people, how could a day of ‘the official organ
-of State power’ be squandered to sing the praises of a single man?
+Sanchez](http://generacionyen.wordpress.com)'s words are illustrative of
+the views expressed by many: "With so many problems facing the country,
+which affect millions of people, how could a day of 'the official organ
+of State power' be squandered to sing the praises of a single man?
 Situations like yesterday are proof that the pernicious cult of
 personality remains intact among us, fostered by those who idolize a few
-and those who swell with vanity at the flattery.”[^49]
+and those who swell with vanity at the flattery."[^49]
 
 Bloggers also use social and electronic media to speak out against
 sexual harassment and assault at the hands of men whose official power
@@ -554,18 +554,18 @@ would otherwise render these women silent. The excerpt below is
 illustrative of the ways some Caribbean women have used personal blogs
 to break the silence on sexual violence:
 
-> “I went to him expecting some professionalism, you know, and all I get
-> was him trying to bus’ a hustle in me. Telling me about how he could
+> "I went to him expecting some professionalism, you know, and all I get
+> was him trying to bus' a hustle in me. Telling me about how he could
 > do things to my body and how he want fuck me. I mean what shit is
 > that? Can you imagine how I felt? How was I suppose to receive a
 > service from a man like duh eh? And imagine this nonsense now, he get
-> big government wuk.”
+> big government wuk."
 >
 > I related my own encounter with the same gentleman to her. It had
-> happened more than 7 years ago at the Georgetown Magistrates’ Court.
-> Since then, I’ve heard many similar stories from women about him. The
-> standard response to this particular official is “O, he? Everybody
-> know how he stay.”[^50]
+> happened more than 7 years ago at the Georgetown Magistrates' Court.
+> Since then, I've heard many similar stories from women about him. The
+> standard response to this particular official is "O, he? Everybody
+> know how he stay."[^50]
 
 Here, Guyanese blogger [Sara Bharrat](http://sarabharrat.wordpress.com)
 relates a conversation she had with a woman taxi driver about a state
@@ -577,11 +577,11 @@ Bloggers also analyze and expose racial/ethnic tensions in their
 communities and countries, exposing antiblack and anti-Indian racism and
 meditating on racialized identities in the region:
 
-> When some Trinidadians make fun of the blackness of Tobagonians, it’s
+> When some Trinidadians make fun of the blackness of Tobagonians, it's
 > not unlike the maligning of Haitians, overtly or subconsciously, as
-> “*that* kind of Black”—too black.[^51]
+> "*that* kind of Black"---too black.[^51]
 >
-> *“I do not know if I am East Indian, Trinidadian or West Indian.” Sam
+> *"I do not know if I am East Indian, Trinidadian or West Indian." Sam
 > Selvon, Opening Address to East Indians in the Caribbean Conference,
 > University of the West Indies, Trinidad, 1979*
 >
@@ -626,13 +626,13 @@ Red Thread, Society Against Sexual Orientation Discrimination, and
 Occupy Guyana writes frequently on her own Facebook page and has shared
 those writings with a wider audience by publishing on the *Huffington
 Post*, on *Black Looks* (a website owned by Nigerian journalist Sokari
-Ekine, who is currently living in Haiti), and on CODE RED’s blog
+Ekine, who is currently living in Haiti), and on CODE RED's blog
 *Feminist Conversations on Caribbean Life*. Nageer used these multiple
 platforms to denounce police killings in Linden*,* to share with a wider
 audience her submission to the Committee on the Elimination of
 Discrimination Against Women on the rights of lesbian, bisexual, and
 transgender women in Guyana, and to report on the efforts of Guyanese
-activists from women’s, LGBT, and disability rights organizations to
+activists from women's, LGBT, and disability rights organizations to
 mobilize against transphobic, homophobic, sexist, and ableist violence
 in Guyana. Sherlina later started her own blog, [Freedom by Any
 Means](http://freedombyanymeans.wordpress.com), on which she republishes
@@ -645,14 +645,14 @@ million unique views. In 2013, she wrote a
 [post](http://battymamzelle.blogspot.com/2013/10/Why-Im-Quitting-Jezebel.html#.UlqP_FCsim4)
 outlining her decision to no longer contribute to the site:
 
-> I’m 23. I’m black. I’m West Indian. I didn’t have a lot of exposure to
+> I'm 23. I'm black. I'm West Indian. I didn't have a lot of exposure to
 > feminism growing up. I cringe when I recall the things that I said
 > about other women when I was a freshman in college, and the attitudes
 > that I had towards sexuality and womanhood. I went to a Catholic
 > school in a country that is still largely misogynistic. It was pretty
 > much a given that I'd grown up to be an anti-woman little shit.
 >
-> But then I found Jezebel. I found Jezebel and I started reading. I’m
+> But then I found Jezebel. I found Jezebel and I started reading. I'm
 > the kind of person who just likes to know things, so perusing the site
 > pre-Kinja was like a revelation to me. All of a sudden I had this
 > entire vocabulary to explain the little microagressions that I'd faced
@@ -665,15 +665,15 @@ outlining her decision to no longer contribute to the site:
 >
 > Jezebel taught me how to be a woman.
 >
-> And then it taught me that it didn’t care about the kind of woman that
+> And then it taught me that it didn't care about the kind of woman that
 > I am.[^54]
 
-BattyMamzelle’s experience of the racism of online feminist communities
+BattyMamzelle's experience of the racism of online feminist communities
 highlights the continuities and articulations with historically
 sedimented relations of power that remerge in the very spaces that claim
 to be feminist, polyvocal, rhizomatic, and queer. Her experiences
 validate my earlier analyses about the strategic use of ethnic, racial,
-national, and regional markers in bloggers’ “about me” pages as both
+national, and regional markers in bloggers' "about me" pages as both
 recognition of and counter to prevailing exclusions in cyberspace.
 Cyberfeminist spaces are becoming increasingly important to the
 consciousness raising of a new generation of women and men, even when
@@ -685,11 +685,11 @@ hosted on Facebook. As Facebook moves to monetize every aspect of the
 Facebook experience, Caribbean feminists who made strategic use of the
 site for consciousness raising and community building are faced with
 challenges resulting from the predominance of the commercial nature of
-cyberspace. Prior to Facebook’s changes to its policy for pages, once
-someone “liked” your page, any content you posted there showed up in
+cyberspace. Prior to Facebook's changes to its policy for pages, once
+someone "liked" your page, any content you posted there showed up in
 their personal feed. One of the earliest attempts at building online
 Caribbean feminist community, [CODE RED for Gender
-Justice](http://www.facebook.com/redforgender/timeline?ref=page_internal)’s
+Justice](http://www.facebook.com/redforgender/timeline?ref=page_internal)'s
 Facebook page, which was inaugurated in 2010, capitalized on this
 capacity to build readers, contributors, and commenters. Now Facebook
 requires that you pay to promote each individual post to your page, or
@@ -699,15 +699,15 @@ into
 Walls](http://www.facebook.com/WalkingIntoWalls/info/?tab=page_info),
 whose page aggregates daily news stories of violence against women,
 intimate partner violence, rape and sexual violence, and child abuse
-from a wide range of Caribbean countries: “Walking into Walls is a
+from a wide range of Caribbean countries: "Walking into Walls is a
 social media campaign that found its roots in a 2012 regional meeting
 organized by the Caribbean Institute for Women in Leadership (CIWiL).
 This campaign was developed by four passionate, committed Caribbean
 women who are tired of the walls that are routinely hit in the struggle
-to end violence against women.”[^55] Its Facebook page is a digital
+to end violence against women."[^55] Its Facebook page is a digital
 media resource of tremendous potential and importance that is intended
 to contribute to awareness raising and to keep reports of violence
-against women in the forefront of Caribbean people’s minds. Such
+against women in the forefront of Caribbean people's minds. Such
 Caribbean feminist media campaigns are important as independent media
 sites that seek to compensate for the elisions in mainstream media,
 though, of course, without the benefit of the same kind of reach. CODE
@@ -717,39 +717,39 @@ and the environment.[^56] The dependence of Caribbean feminists on
 privately owned corporate platforms that claim ownership of their
 content while modifying their media delivery online with revenue
 generation strategies undermines the subversive potential of Web 2.0. In
-“Rethinking Cyberfeminism,” Susanna Paasonen notes,
+"Rethinking Cyberfeminism," Susanna Paasonen notes,
 
 > Possibilities of lay users to interact with and shape the medium are
 > more limited than they were fifteen or even ten years ago. While it
 > was entirely possible to set up a catchy web site in the late 1990s
-> with a basic mastery of HTML—and, perhaps, a few touches of the
-> cutting-edge such as JavaScript—this is no longer the case. Code has
+> with a basic mastery of HTML---and, perhaps, a few touches of the
+> cutting-edge such as JavaScript---this is no longer the case. Code has
 > grown increasingly complex and necessitates rather specialized skills.
 > Rather than building their sites (such as personal home pages and
 > online journals) from a scratch, users make use of customizable
 > templates and social media applications (from Blogger to YouTube,
 > Facebook, PhotoBucket and Flickr) when publishing their images,
-> videos, texts and music. Riot Grrrl ‘zines, with their DIY feel, have
+> videos, texts and music. Riot Grrrl 'zines, with their DIY feel, have
 > largely disappeared.[^57]
 
 Feminist and gender-conscious journalists located within mainstream
 media are nonetheless part of Caribbean cyberfeminism. Caribbean
-feminist scholar Alissa Trotz’s [*In the
+feminist scholar Alissa Trotz's [*In the
 Diaspora*](http://www.stabroeknews.com/category/features/in-the-diaspora)
 column in *Stabroek News* brings a mainstream reach to feminist and
 social justice advocates and writers. Online magazine
 [*Outlish*](http://www.outlish.com), though not a feminist magazine per
 se, has created a space for discussion of issues of gender, feminism,
-and masculinity, with articles such as “Why Is There So Much Pressure on
-Indian Men to Get Married?,” “This Is Why I’m Feminist,” and “Don’t
-Laugh but T&T Needs a Men’s Movement.” Feminists from the Caribbean have
+and masculinity, with articles such as "Why Is There So Much Pressure on
+Indian Men to Get Married?," "This Is Why I'm Feminist," and "Don't
+Laugh but T&T Needs a Men's Movement." Feminists from the Caribbean have
 also created their own online lifestyle magazines: for example, [*Black
 Girl in the Ring*](http://blackgirlinthering.com), from Antigua and
 Barbuda/Guyana, and [*CompleXD Woman*](http://www.complexdwoman.co.uk),
 from Grenada/UK.[^58] Online activist practices include petitions,
 mobilizing to shut down offensive websites, and promotion of offline
 events such as popular actions, protests, and stands. Many longstanding
-women’s and feminist organizations in the region also maintain an online
+women's and feminist organizations in the region also maintain an online
 presence.
 
 Scholars, however, have drawn attention to the strategic space that
@@ -759,19 +759,19 @@ should be on the creative and strategic uses they make of these
 technologies.[^59] Stephanie Leitch of WOMANTRA shares that she
 regularly uses the WOMANTRA community to mobilize women and men in order
 to shutdown offensive websites and Facebook pages. She recalls a popular
-online magazine that published an article titled “No Matter How Hot She
-Is” that warned single men not to have sex with women more than twice
-lest they become “disillusioned and depressed.” Leitch left a comment
-below the article, “basically telling the guy he was a sexist pig” and
+online magazine that published an article titled "No Matter How Hot She
+Is" that warned single men not to have sex with women more than twice
+lest they become "disillusioned and depressed." Leitch left a comment
+below the article, "basically telling the guy he was a sexist pig" and
 encouraged others to do the same. The sheer volume of complaints the
 magazine received caused the editorial staff to pull the article and
 shutdown the website for a day. One of the managers then contacted
 Leitch and ironically told her that she should be writing something
-rather than “just talking.” Leitch later wrote an article about sexism
+rather than "just talking." Leitch later wrote an article about sexism
 and media responsibility that was published on the site. However, she
-recalls of the blogger who wrote the original post: “\[He was\] was very
+recalls of the blogger who wrote the original post: "\[He was\] was very
 abusive, said i must be ugly or a lesbian and called another guy \[who
-also complained about the article\] a faggit.”[^60] The examples cited
+also complained about the article\] a faggit."[^60] The examples cited
 here reflect diverse cyberfeminist strategies aimed at subverting
 asymmetrical relations of gender. They intervene into the normalizing of
 misogynist discourses and images by challenging mainstream media
@@ -823,7 +823,7 @@ illustrate or analyze relations of power in wider society (18)
 
 **+Feminism:** Blogs that do not have an exclusive focus on feminism or
 gender and sexuality but that do include either writing from a feminist
-perspective or posts about women’s, feminist, gender, and LGBT issues
+perspective or posts about women's, feminist, gender, and LGBT issues
 (14)
 
 **Feminist-academic:** Blogs by feminist academics (7)
@@ -842,23 +842,23 @@ rhetorical devices (5)
 
 ---
 
-[^1]: Sean Douglas, “Mayor: Beware Dangerous Sub-cultures,” *Trinidad
+[^1]: Sean Douglas, "Mayor: Beware Dangerous Sub-cultures," *Trinidad
     and Tobago Newsday*, 11 February 2016,
-    www.newsday.co.tt/news/0,223841.html.
+    [http://www.newsday.co.tt/news/0,223841.html.](http://www.newsday.co.tt/news/0,223841.html)
 
-[^2]: “Ordinary Jamaicans Know Nothing about Twitter, Says Pickersgill,”
+[^2]: "Ordinary Jamaicans Know Nothing about Twitter, Says Pickersgill,"
     *Jamaica Observer*, 26 November 2014,
-    www.jamaicaobserver.com/news/Ordinary-Jamaicans-know-nothing-about-Twitter--says-Pickersgill.
+    [http://www.jamaicaobserver.com/news/Ordinary-Jamaicans-know-nothing-about-Twitter--says-Pickersgill.](http://www.jamaicaobserver.com/news/Ordinary-Jamaicans-know-nothing-about-Twitter--says-Pickersgill.)
 
-[^3]: “Hazel Brown: Making a Difference,” *Newsday*, 21 April 2013,
-    www.newsday.co.tt/features/0,176606.html.
+[^3]: "Hazel Brown: Making a Difference," *Newsday*, 21 April 2013,
+    [http://www.newsday.co.tt/features/0,176606.html.](http://www.newsday.co.tt/features/0,176606.html)
 
-[^4]: Pearson Broome and Emmanuel Adugu, “Whither Social Media for
-    Digital Activism: The Case of the Caribbean,” *British Journal of
-    Education, Society, and Behavioural Science* 10, no. 3 (2015): 1–21;
-    Kristina Hinds Harrison, “Virtual Shop Fronts: The Internet, Social
-    Media, and Caribbean Civil Society Organisations,” *Globalizations*
-    11, no. 6 (2014): 751–66.
+[^4]: Pearson Broome and Emmanuel Adugu, "Whither Social Media for
+    Digital Activism: The Case of the Caribbean," *British Journal of
+    Education, Society, and Behavioural Science* 10, no. 3 (2015): 1--21;
+    Kristina Hinds Harrison, "Virtual Shop Fronts: The Internet, Social
+    Media, and Caribbean Civil Society Organisations," *Globalizations*
+    11, no. 6 (2014): 751--66.
 
 [^5]: Marcia A. Forbes, *Streaming*, vol. 1, *\#Social Media, Mobile
     Lifestyles* (Kingston: Phase Three, 2012); Daniel Miller and Don
@@ -866,219 +866,219 @@ rhetorical devices (5)
     2000); Daniel Miller, *Tales from Facebook* (Cambridge: Polity,
     2011); Kevin Adonis Browne, *Tropic Tendencies: Rhetoric, Popular
     Culture, and the Anglophone Caribbean* (Pittsburgh: University of
-    Pittsburgh Press, 2013); Bernard Jankee, “The Word in Cyberspace:
-    Constructing Jamaican Identity on the Internet,” in Annie Paul, ed.,
+    Pittsburgh Press, 2013); Bernard Jankee, "The Word in Cyberspace:
+    Constructing Jamaican Identity on the Internet," in Annie Paul, ed.,
     *Caribbean Culture: Soundings on Kamau Brathwaite* (Kingston:
-    University of the West Indies Press, 2007); Annie Paul, “Log On:
-    Towards Social and Digital Islands,” in Michael Bucknor and Alison
+    University of the West Indies Press, 2007); Annie Paul, "Log On:
+    Towards Social and Digital Islands," in Michael Bucknor and Alison
     Donnell, eds., *The Routledge Companion to Anglophone Caribbean
-    Literature* (Abingdon, UK: Routledge, 2011); Rachel Afi Quinn, “This
+    Literature* (Abingdon, UK: Routledge, 2011); Rachel Afi Quinn, "This
     Bridge Called the Internet: Black Lesbian Feminist Organizing in
-    Santo Domingo,” in Cheryl R. Rodriguez, Dzodzi Tsikata, and Akosua
+    Santo Domingo," in Cheryl R. Rodriguez, Dzodzi Tsikata, and Akosua
     Adomako Ampofo, eds., *Transatlantic Feminisms Women and Gender
     Studies in Africa and the Diaspora* (Lanham: Lexington Books, 2015).
 
 [^6]: For a discussion on the digital divide in Trinidad and Tobago, see
-    Bheshem Ramlal and Patrick Watson, “The Digital Divide in Trinidad
-    and Tobago,” *Social and Economic Studies* 63, no. 1 (2014): 1–23.
+    Bheshem Ramlal and Patrick Watson, "The Digital Divide in Trinidad
+    and Tobago," *Social and Economic Studies* 63, no. 1 (2014): 1--23.
 
-[^7]: Susanna Paasonen, “Rethinking Cyberfeminisn,” *Communications* 36,
+[^7]: Susanna Paasonen, "Rethinking Cyberfeminisn," *Communications* 36,
     no. 3 (2011): 340.
 
-[^8]: Nicholas Laughlin, “Eleven Key Moments in \[Anglo-\]Caribbean Blog
-    History,” *Global Voices*, 13 January 2006,
-    globalvoicesonline.org/2006/01/13/11-key-moments-in-anglo-caribbean-blog-history.
+[^8]: Nicholas Laughlin, "Eleven Key Moments in \[Anglo-\]Caribbean Blog
+    History," *Global Voices*, 13 January 2006,
+    [http://globalvoicesonline.org/2006/01/13/11-key-moments-in-anglo-caribbean-blog-history.](http://globalvoicesonline.org/2006/01/13/11-key-moments-in-anglo-caribbean-blog-history.)
 
 [^9]: See
-    www.change.org/p/we-did-it-angostura-has-said-they-will-pull-the-ad-thank-you-all.
+    [http://www.change.org/p/we-did-it-angostura-has-said-they-will-pull-the-ad-thank-you-all.](http://www.change.org/p/we-did-it-angostura-has-said-they-will-pull-the-ad-thank-you-all.)
 
 [^10]: See
-    www.buzzfeed.com/copyranter/another-liquor-company-creates-a-rapey-ad\#.gq9qOZmR1E.
+    [http://www.buzzfeed.com/copyranter/another-liquor-company-creates-a-rapey-ad\#.gq9qOZmR1E.](http://www.buzzfeed.com/copyranter/another-liquor-company-creates-a-rapey-ad\#.gq9qOZmR1E.)
 
-[^11]: Malaika Brooks-Smith-Lowe, “Kickstarting the Goat Dairy in
-    Grenada,” *Guardian*, 30 August 2013,
-    www.theguardian.com/global-development-professionals-network/2013/aug/30/kickstarter-goat-dairy-grenada.
+[^11]: Malaika Brooks-Smith-Lowe, "Kickstarting the Goat Dairy in
+    Grenada," *Guardian*, 30 August 2013,
+    [http://www.theguardian.com/global-development-professionals-network/2013/aug/30/kickstarter-goat-dairy-grenada.](http://www.theguardian.com/global-development-professionals-network/2013/aug/30/kickstarter-goat-dairy-grenada.)
 
 [^12]: See womantratt.wix.com/home.
 
-[^13]: Patrice Daniel, “An Open Letter to Caribbean Men, from Caribbean
-    Women,” *RH Reality Check*, 12 March 2013,
-    rhrealitycheck.org/article/2013/03/12/an-open-letter-to-caribbean-men-from-caribbean-women.
+[^13]: Patrice Daniel, "An Open Letter to Caribbean Men, from Caribbean
+    Women," *RH Reality Check*, 12 March 2013,
+    [http://rhrealitycheck.org/article/2013/03/12/an-open-letter-to-caribbean-men-from-caribbean-women.](http://rhrealitycheck.org/article/2013/03/12/an-open-letter-to-caribbean-men-from-caribbean-women.)
 
 [^14]: See www.sasod.org.gy; www.facebook.com/caiso; and
-    unitedandstrongstlucia.wordpress.com.
+    [http://unitedandstrongstlucia.wordpress.com.](http://unitedandstrongstlucia.wordpress.com.)
 
 [^15]: See www.facebook.com/AirMeNow and
-    www.youtube.com/playlist?list=PLLNiArTOn\_azPDdIR4FvkyepgRQrb9K8Y.
+    [http://www.youtube.com/playlist?list=PLLNiArTOn\_azPDdIR4FvkyepgRQrb9K8Y.](http://www.youtube.com/playlist?list=PLLNiArTOn\_azPDdIR4FvkyepgRQrb9K8Y.)
 
 [^16]: Danar Royal, dir., *Jamaica Anti-Rape Campaign (Please Share)*,
-    2:15, posted 8 October 2012, www.youtube.com/watch?v=IS8uJ9dol5s.
+    2:15, posted 8 October 2012, [http://www.youtube.com/watch?v=IS8uJ9dol5s.](http://www.youtube.com/watch?v=IS8uJ9dol5s.)
     For a broader discussion on gender consiousness, see Patricia
-    Mohammed, “Like Sugar in Coffee: Third Wave Feminism and the
-    Caribbean,” *Social and Economic Studies* 52, no. 3 (2003): 5–30.
+    Mohammed, "Like Sugar in Coffee: Third Wave Feminism and the
+    Caribbean," *Social and Economic Studies* 52, no. 3 (2003): 5--30.
 
 [^17]: See www.bigbeautifulblackgirls.com,
     bigbeautifulblackgirls.tumblr.com, and
-    www.facebook.com/BigBeautifulBlackGirls.
+    [http://www.facebook.com/BigBeautifulBlackGirls.](http://www.facebook.com/BigBeautifulBlackGirls.)
 
-[^18]: See redforgender.wordpress.com/e-mas-caribbean-blog-carnival.
+[^18]: See [http://redforgender.wordpress.com/e-mas-caribbean-blog-carnival.](http://redforgender.wordpress.com/e-mas-caribbean-blog-carnival.)
 
-[^19]: Matthew Hunte, “Blog Carnival Shows the Caribbean Some Love,”
+[^19]: Matthew Hunte, "Blog Carnival Shows the Caribbean Some Love,"
     *Global Voices*, 4 February 2014,
-    globalvoices.org/2014/02/04/blog-carnival-shows-the-caribbean-some-love;
-    Shivanee Ramlochen, “Bloggers’ Paradise,” *Trinidad* *Guardian*, 16
+    [http://globalvoices.org/2014/02/04/blog-carnival-shows-the-caribbean-some-love;](http://globalvoices.org/2014/02/04/blog-carnival-shows-the-caribbean-some-love;)
+    Shivanee Ramlochen, "Bloggers' Paradise," *Trinidad* *Guardian*, 16
     February 2014, B29,
-    digital.guardian.co.tt/default.aspx?iid=87563&startpage=page0000101\#folio=100;
-    Juliana Britto Schwartz, “This Week in Feminism South of the
-    Border,” Feministing.com, 31 January 2014,
-    feministing.com/2014/01/31/this-week-in-feminism-south-of-the-border-2.
+    [http://digital.guardian.co.tt/default.aspx?iid=87563&startpage=page0000101\#folio=100;](http://digital.guardian.co.tt/default.aspx?iid=87563&startpage=page0000101\#folio=100;)
+    Juliana Britto Schwartz, "This Week in Feminism South of the
+    Border," Feministing.com, 31 January 2014,
+    [http://feministing.com/2014/01/31/this-week-in-feminism-south-of-the-border-2.](http://feministing.com/2014/01/31/this-week-in-feminism-south-of-the-border-2.)
 
-[^20]: Ramlochen, “Bloggers’ Paradise.”
+[^20]: Ramlochen, "Bloggers' Paradise."
 
-[^21]: Tzarina T. Prater, “‘Look Pon Likkle Chiney Gal’: Tessanne Chin,
-    the Voice, and Digital Caribbean Subjects,” *Anthurium: A Caribbean
+[^21]: Tzarina T. Prater, "'Look Pon Likkle Chiney Gal': Tessanne Chin,
+    the Voice, and Digital Caribbean Subjects," *Anthurium: A Caribbean
     Studies Journal* 12, no. 1 (2015): article 11.
 
-[^22]: See Sandra Abd’Allah-Alvarez Ramírez, “¿Ciberfeminismo en Cuba?,”
-    paper presented at “Towards a New Social Contract?,” 31st
+[^22]: See Sandra Abd'Allah-Alvarez Ramírez, "¿Ciberfeminismo en Cuba?,"
+    paper presented at "Towards a New Social Contract?," 31st
     International Congress of the Latin American Studies Association, 30
-    May–1 June 2013, Washington, DC.
+    May--1 June 2013, Washington, DC.
 
 [^23]: See Miller and Slater, *The Internet*.
 
-[^24]: Gabrielle Hosein, “Momentous Trivialities,” *Diary of a Mothering
+[^24]: Gabrielle Hosein, "Momentous Trivialities," *Diary of a Mothering
     Worker*,
-    grrlscene.wordpress.com/momentous-trivialities-diary-of-a-mothering-worker.
+    [http://grrlscene.wordpress.com/momentous-trivialities-diary-of-a-mothering-worker.](http://grrlscene.wordpress.com/momentous-trivialities-diary-of-a-mothering-worker.)
 
-[^25]: Soyini Ayanna, “About Me,” *Creative Commess*,
-    soyluv.wordpress.com/about.
+[^25]: Soyini Ayanna, "About Me," *Creative Commess*,
+    [http://soyluv.wordpress.com/about.](http://soyluv.wordpress.com/about.)
 
-[^26]: Annie Paul, *Active Voice*, anniepaul.net.
+[^26]: Annie Paul, *Active Voice*, [http://anniepaul.net.](http://anniepaul.net.)
 
-[^27]: “Building the New Caribbean Media,” *Antillean Media Group*,
-    www.antillean.org/about.
+[^27]: "Building the New Caribbean Media," *Antillean Media Group*,
+    [http://www.antillean.org/about.](http://www.antillean.org/about.)
 
-[^28]: WomenSpeak Project, *Women Speak*, womenspeak.tumblr.com.
+[^28]: WomenSpeak Project, *Women Speak*, [http://womenspeak.tumblr.com.](http://womenspeak.tumblr.com.)
 
 [^29]: Ivette Romero-Cesareo and Lisa Paravisini-Gebert, *Repeating
-    Islands*, repeatingislands.com/our-blog.
+    Islands*, [http://repeatingislands.com/our-blog.](http://repeatingislands.com/our-blog.)
 
 [^30]: Zahira Kelly (Bad Dominicana) quotes Cate Young (BattyMamzelle),
-    “This Is What I Mean When I Say ‘White Feminism,” imploring, “Please
-    everybody: read this article!”
-    bad-dominicana.tumblr.com/post/138419448358/white-feminism-does-not-mean-every-white-woman;
+    "This Is What I Mean When I Say 'White Feminism," imploring, "Please
+    everybody: read this article!"
+    [http://bad-dominicana.tumblr.com/post/138419448358/white-feminism-does-not-mean-every-white-woman;](http://bad-dominicana.tumblr.com/post/138419448358/white-feminism-does-not-mean-every-white-woman;)
     *BattyMamzelle*, 10 January 2014,
-    battymamzelle.blogspot.com/2014/01/This-Is-What-I-Mean-When-I-Say-White-Feminism.html\#.VwxPjXqYuCf.
+    [http://battymamzelle.blogspot.com/2014/01/This-Is-What-I-Mean-When-I-Say-White-Feminism.html\#.VwxPjXqYuCf.](http://battymamzelle.blogspot.com/2014/01/This-Is-What-I-Mean-When-I-Say-White-Feminism.html\#.VwxPjXqYuCf.)
 
 [^31]: Annie Paul, *Active Voice*, anniepaul.net; Mar the Mongoose, *The
-    Mongoose Chronicles*, mongoosechronicles.blogspot.com.
+    Mongoose Chronicles*, [http://mongoosechronicles.blogspot.com.](http://mongoosechronicles.blogspot.com.)
 
 [^32]: Gabrielle Hosein, *Diary of a Mothering Worker*,
-    grrlscene.wordpress.com/souldeya.
+    [http://grrlscene.wordpress.com/souldeya.](http://grrlscene.wordpress.com/souldeya.)
 
-[^33]: Soyini Ayanna, *Creative Commess*, soyluv.wordpress.com/about.
+[^33]: Soyini Ayanna, *Creative Commess*, [http://soyluv.wordpress.com/about.](http://soyluv.wordpress.com/about.)
 
 [^34]: derevolushunwidin, trendsettah, and pieces2peace, *Add Fyah and
-    Stir*, addfyahandstir.wordpress.com/about.
+    Stir*, [http://addfyahandstir.wordpress.com/about.](http://addfyahandstir.wordpress.com/about.)
 
 [^35]: Cate Young (BattyMamzelle), *Battymamzelle*,
-    battymamzelle.blogspot.com/p/about\_29.html\#.Vt7gU\_krIdU.
+    [http://battymamzelle.blogspot.com/p/about\_29.html\#.Vt7gU\_krIdU.](http://battymamzelle.blogspot.com/p/about\_29.html\#.Vt7gU\_krIdU.)
 
-[^36]: Carla Moore, *MooreTalkJa*, mooretalkja.wordpress.com.
+[^36]: Carla Moore, *MooreTalkJa*, [http://mooretalkja.wordpress.com.](http://mooretalkja.wordpress.com.)
 
-[^37]: Mar the Mongoose, “About Me,” *The Mongoose Chronicles*,
-    www.blogger.com/profile/06241127953404268513.
+[^37]: Mar the Mongoose, "About Me," *The Mongoose Chronicles*,
+    [http://www.blogger.com/profile/06241127953404268513.](http://www.blogger.com/profile/06241127953404268513.)
 
-[^38]: Carolyn Joy Cooper, “About,” *Jamaica Woman Tongue*,
-    carolynjoycooper.wordpress.com/about.
+[^38]: Carolyn Joy Cooper, "About," *Jamaica Woman Tongue*,
+    [http://carolynjoycooper.wordpress.com/about.](http://carolynjoycooper.wordpress.com/about.)
 
-[^39]: Amílcar Sanatan, “About I,” www.amilcarsanatan.com/about-us.
+[^39]: Amílcar Sanatan, "About I," [http://www.amilcarsanatan.com/about-us.](http://www.amilcarsanatan.com/about-us.)
 
-[^40]: Zahira Kelly (Bad Dominicana), “About Me,” *The Bad Dominicana*,
-    bad-dominicana.tumblr.com/about.
+[^40]: Zahira Kelly (Bad Dominicana), "About Me," *The Bad Dominicana*,
+    [http://bad-dominicana.tumblr.com/about.](http://bad-dominicana.tumblr.com/about.)
 
-[^41]: Sandra Abd’Allah-Alvarez Ramírez (Negra Cubana), “¿Quién es
-    Negracubana?,” *Negra Cubana tenia que ser*,
-    negracubanateniaqueser.com/quien-es-negracubana.
+[^41]: Sandra Abd'Allah-Alvarez Ramírez (Negra Cubana), "¿Quién es
+    Negracubana?," *Negra Cubana tenia que ser*,
+    [http://negracubanateniaqueser.com/quien-es-negracubana.](http://negracubanateniaqueser.com/quien-es-negracubana.)
 
-[^42]: See Alondra Nelson, “Introduction: Future Texts,” *Social Text*
-    20, no. 2 (2002): 1–15.
+[^42]: See Alondra Nelson, "Introduction: Future Texts," *Social Text*
+    20, no. 2 (2002): 1--15.
 
-[^43]: Paul C. Adams, “Cyberspace and Virtual Places,” *Geographical
+[^43]: Paul C. Adams, "Cyberspace and Virtual Places," *Geographical
     Review* 87, no. 2 (1997): 260.
 
 [^44]: Forbes, *\#Social Media, Mobile Lifestyles*.
 
-[^45]: Kelly (Bad Dominicana), “About Me.”
+[^45]: Kelly (Bad Dominicana), "About Me."
 
-[^46]: Paasonen, “Rethinking Cyberfeminisn,” 340.
+[^46]: Paasonen, "Rethinking Cyberfeminisn," 340.
 
 [^47]: See Miller and Slater, *The Internet*.
 
-[^48]: Colin Robinson, “Mrs. Joyce Pierre’s Daughter,” *One Nation . . .
+[^48]: Colin Robinson, "Mrs. Joyce Pierre's Daughter," *One Nation . . .
     Many Bodies . . . Boundless Faith*, 28 June 2015,
-    onenationmanybodies.wordpress.com/2015/06/28/mrs-joyce-pierres-daugther.
+    [http://onenationmanybodies.wordpress.com/2015/06/28/mrs-joyce-pierres-daugther.](http://onenationmanybodies.wordpress.com/2015/06/28/mrs-joyce-pierres-daugther.)
 
-[^49]: Yaoni Sánchez, “Cult of Personality in Cuban Parliament,”
+[^49]: Yaoni Sánchez, "Cult of Personality in Cuban Parliament,"
     *Generación Y*, 15 July 2015,
-    generacionyen.wordpress.com/2015/07/15/cult-of-personality-in-cuban-parliament.
+    [http://generacionyen.wordpress.com/2015/07/15/cult-of-personality-in-cuban-parliament.](http://generacionyen.wordpress.com/2015/07/15/cult-of-personality-in-cuban-parliament.)
 
-[^50]: Sara Bharrat, “The Senior Government Official Guyanese Women
-    Dislike,” *Guyanese Experience*, July 2015,
-    sarabharrat.wordpress.com/2015/07.
+[^50]: Sara Bharrat, "The Senior Government Official Guyanese Women
+    Dislike," *Guyanese Experience*, July 2015,
+    [http://sarabharrat.wordpress.com/2015/07.](http://sarabharrat.wordpress.com/2015/07.)
 
-[^51]: Soyini Ayanna, “The Language of Blackness,” *Creative Commess*,
+[^51]: Soyini Ayanna, "The Language of Blackness," *Creative Commess*,
     11 July 2015,
-    soyluv.wordpress.com/2015/07/11/the-language-of-blackness.
+    [http://soyluv.wordpress.com/2015/07/11/the-language-of-blackness.](http://soyluv.wordpress.com/2015/07/11/the-language-of-blackness.)
 
-[^52]: Sara Bharatt, “Three into One Definitely Can’t Go, or Can It?,”
+[^52]: Sara Bharatt, "Three into One Definitely Can't Go, or Can It?,"
     *Guyanese Experience*, 15 May 2015,
-    sarabharrat.wordpress.com/2015/05/15/three-into-one-definitely-cant-go-or-can-it.
+    [http://sarabharrat.wordpress.com/2015/05/15/three-into-one-definitely-cant-go-or-can-it.](http://sarabharrat.wordpress.com/2015/05/15/three-into-one-definitely-cant-go-or-can-it.)
 
-[^53]: Sherlina Nageer, “No Women Died, This Is Not a Women’s Issue,”
+[^53]: Sherlina Nageer, "No Women Died, This Is Not a Women's Issue,"
     *Black Looks*, 15 August 2012,
-    www.blacklooks.org/2012/08/no-women-died-this-is-not-a-womens-issue;
-    “End Sexual-Orientation and Gender-Identity Discrimination in
-    Guyana,” *Huffpost Gay Voices*, 10 July 2012 (updated 2 February
+    [http://www.blacklooks.org/2012/08/no-women-died-this-is-not-a-womens-issue;](http://www.blacklooks.org/2012/08/no-women-died-this-is-not-a-womens-issue;)
+    "End Sexual-Orientation and Gender-Identity Discrimination in
+    Guyana," *Huffpost Gay Voices*, 10 July 2012 (updated 2 February
     2016),
-    www.huffingtonpost.com/sherlina-nageer/guyana-lbt-rights\_b\_1663183.html;
-    “In Praise of Bad-john Lil Girls,” *Feminist Conversations on
+    [http://www.huffingtonpost.com/sherlina-nageer/guyana-lbt-rights\_b\_1663183.html;](http://www.huffingtonpost.com/sherlina-nageer/guyana-lbt-rights\_b\_1663183.html;)
+    "In Praise of Bad-john Lil Girls," *Feminist Conversations on
     Caribbean Life*, 21 August 2013,
-    redforgender.wordpress.com/2013/08/21/in-praise-of-bad-john-lil-girls.
+    [http://redforgender.wordpress.com/2013/08/21/in-praise-of-bad-john-lil-girls.](http://redforgender.wordpress.com/2013/08/21/in-praise-of-bad-john-lil-girls.)
     See freedombyanymeans.wordpress.com.
 
-[^54]: Cate Young (BattyMamzelle), “The Hardest Word to Say Is Goodbye:
-    Why I’m Quitting *Jezebel*,” *BattyMamzelle*, 8 October 2013,
-    battymamzelle.blogspot.com/2013/10/Why-Im-Quitting-Jezebel.html\#.UlqP\_FCsim4.
+[^54]: Cate Young (BattyMamzelle), "The Hardest Word to Say Is Goodbye:
+    Why I'm Quitting *Jezebel*," *BattyMamzelle*, 8 October 2013,
+    [http://battymamzelle.blogspot.com/2013/10/Why-Im-Quitting-Jezebel.html\#.UlqP\_FCsim4.](http://battymamzelle.blogspot.com/2013/10/Why-Im-Quitting-Jezebel.html\#.UlqP\_FCsim4.)
 
-[^55]: www.facebook.com/WalkingIntoWalls/info/?tab=page\_info.
+[^55]: [http://www.facebook.com/WalkingIntoWalls/info/?tab=page\_info.](http://www.facebook.com/WalkingIntoWalls/info/?tab=page\_info.)
 
-[^56]: See www.facebook.com/redforgender/timeline?ref=page\_internal.
+[^56]: See [http://www.facebook.com/redforgender/timeline?ref=page\_internal.](http://www.facebook.com/redforgender/timeline?ref=page\_internal.)
 
-[^57]: Paasonen, “Rethinking Cyberfeminism,” 347.
+[^57]: Paasonen, "Rethinking Cyberfeminism," 347.
 
-[^58]: See www.stabroeknews.com/category/features/in-the-diaspora;
-    www.outlish.com; blackgirlinthering.com; and
-    www.complexdwoman.co.uk.
+[^58]: See [http://www.stabroeknews.com/category/features/in-the-diaspora;](http://www.stabroeknews.com/category/features/in-the-diaspora;)
+    [http://www.outlish.com;](http://www.outlish.com;) [http://blackgirlinthering.com;](http://blackgirlinthering.com;) and
+    [http://www.complexdwoman.co.uk.](http://www.complexdwoman.co.uk.)
 
 [^59]: See Curwen Best, *The Politics of Caribbean Cyber Culture* (New
     York: Palgrave Macmillan, 2008).
 
 [^60]: Stephanie Leitch, personal communication with the author.
 
-[^61]: See Honor Ford-Smith, “Ring Ding in a Tight Corner: Sistren,
-    Collective Democracy, and the Organization of Cultural Production,”
+[^61]: See Honor Ford-Smith, "Ring Ding in a Tight Corner: Sistren,
+    Collective Democracy, and the Organization of Cultural Production,"
     in M. Jacqui Alexander and Chandra Talpade Mohanty, eds., *Feminist
     Genealogies, Colonial Legacies, Democratic Futures* (New York:
     Routledge, 1997); Andaiye, *The Angle You Look from Determines What
     You See: Towards A Critique of Feminist Politics in the Caribbean*,
     Lucille Mathurin Mair Lecture series (Mona: Centre for Gender and
     Development Studies, University of the West Indies, 2002); Rawwida
-    Baksh-Soodeen, “Issues of Difference in Contemporary Caribbean
-    Feminism,” *Feminist Review* 59 (June 1998): 74–85.
+    Baksh-Soodeen, "Issues of Difference in Contemporary Caribbean
+    Feminism," *Feminist Review* 59 (June 1998): 74--85.
 
 [^62]: See Shona N. Jackson, *Creole Indigeneity: Between Myth and
     Nation in the Caribbean* (Minneapolis: University of Minnesota
-    Press, 2012); and Melanie J. Newton, “Returns to a Native Land:
-    Indigeneity and Decolonization in the Anglophone Caribbean,” *Small
-    Axe*, no. 41 (July 2013): 108–22.
+    Press, 2012); and Melanie J. Newton, "Returns to a Native Land:
+    Indigeneity and Decolonization in the Anglophone Caribbean," *Small
+    Axe*, no. 41 (July 2013): 108--22.
