@@ -824,7 +824,7 @@ this vital record of Caribbean poetry history a priority.
 
 [^21]: While there are Caribbean sound archives, such as [RadioHaiti](http://radiohaitilives.com), in Caribbean literary studies print archiving is much more prevalent. For example, major collections such as the [Digital Library of the Caribbean](http://www.dloc.com), while excellent, primarily hold literary materials converted from print documents. See [http://radiohaitilives.com](http://radiohaitilives.com) and [http://www.dloc.com](http://www.dloc.com).
 
-[^22]: Jean Claude Cournand, quoted in Bobie-lee Dixon, "Not Afraid to Put In Their '2 Cents,'" *Trinidad and Tobago Guardian*, 16 July 2013, [\hyphenatedurl{http://www.guardian.co.tt/entertainment/2013-07-15/not-afraid-put-their-'2-cents'}](http://www.guardian.co.tt/entertainment/2013-07-15/not-afraid-put-their-'2-cents').
+[^22]: Jean Claude Cournand, quoted in Bobie-lee Dixon, "Not Afraid to Put In Their '2 Cents,'" *Trinidad and Tobago Guardian*, 16 July 2013, [http://www.guardian.co.tt/entertainment/2013-07-15/not-afraid-put-their-'2-cents'](http://www.guardian.co.tt/entertainment/2013-07-15/not-afraid-put-their-'2-cents').
 
 [^23]: Verses was recently renamed the First Citizens National Poetry Slam.
 
