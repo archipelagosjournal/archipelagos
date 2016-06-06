@@ -278,7 +278,6 @@ smoothness of the phone or computer screen.
             title="Screen capture of the Douen Islands Instagram account"
             caption="Figure 1. Screen capture of the Douen Islands Instagram account, taken 28 November 2014." %}
 
-<!-- [![Screen capture of the Douen Islands Instagram account](/images/issue01/douenislands.png "Figure 1. Screen capture of the Douen Islands Instagram account, taken 28 November 2014.")](https://www.instagram.com/douenislands/) -->
 
 
 The image in figure 1, with the edges of the Twitter feed curling up,
@@ -332,7 +331,7 @@ evening as @douenislands, for example:
             title="Screencapture of @douenislands Twitter feed."
             caption="Figure 2. Screencapture of @douenislands Twitter feed." %}
 
-<!-- ![Screencapture of @douenislands Twitter feed.](/images/issue01/douenislands-twitter.png "Screencapture of @douenislands Twitter feed.") -->
+
 
 Warner registers a linguistic ping to signal the presence of the
 douen.[^20] It also can serve as a challenge to readers with normalized
@@ -529,7 +528,7 @@ invitation to discover the text by clicking the download link.
             title="Screencapture of douenislands.tumblr.com, taken 27 July 2015."
             caption="Figure 3. Screencapture of douenislands.tumblr.com, taken 27 July 2015." %}
 
-<!-- ![Figure 3. Screencapture of douenislands.tumblr.com, taken 27 July 2015.](/images/issue01/douenislands-tumblr.png "Figure 3. Screencapture of douenislands.tumblr.com, taken 27 July 2015.") -->
+
 
 
 In the run-up to the Alice Yard event, Douen Islands uploaded
@@ -542,7 +541,7 @@ poetry reading:[^34]
             title="Screencapture of 'In Forest and Wild Skies' invitation posted on douenislands.tumblr.com, taken 19 May 2014."
             caption="Figure 4. Screencapture of 'In Forest and Wild Skies' invitation posted on douenislands.tumblr.com, taken 19 May 2014." %}
 
-<!-- ![Figure 4. Screencapture of "In Forest and Wild Skies" invitation posted on douenislands.tumblr.com, taken 19 May 2014.](/images/issue01/douenislands-invitation.png "Figure 4. Screencapture of \'In Forest and Wild Skies\' invitation posted on douenislands.tumblr.com, taken 19 May 2014.") -->
+
 
 But rather than develop Tumblr's archival potential, the materials
 associated with the Alice Yard event were taken down from the site
@@ -556,7 +555,7 @@ BocasLitFest event.
             title="Screencapture of Kis-Ka-Dee announcement posted on douenislands.tumblr.com, taken 29 February 2016."
             caption="Figure 5. Screencapture of Kis-Ka-Dee announcement posted on douenislands.tumblr.com, taken 29 February 2016." %}
 
-<!-- ![Figure 5. Screencapture of Kis-Ka-Dee announcement posted on douenislands.tumblr.com, taken 29 February 2016.](/images/issue01/kis-ka-dee.png "Figure 5. Screencapture of Kis-Ka-Dee announcement posted on douenislands.tumblr.com, taken 29 February 2016.") -->
+
 
 
 While Douen Islands maintains two
@@ -632,7 +631,7 @@ a foot:
             title="Tomorrow Please God, 22--23."
             caption="Figure 6. Tomorrow Please God, 22--23." %}
 
-<!-- ![Figure 6. *Tomorrow Please God*, 22--23.](/images/issue01/tomorrow-please-god.png "Figure 6. *Tomorrow Please God*, 22--23.") -->
+
 
 
 Because the heads are anatomical drawings in profile where the skin is
@@ -716,7 +715,7 @@ by not expanding them, then copying each three times:
             title="Tomorrow Please God, 20--21."
             caption="Figure 6. Tomorrow Please God, 20--21." %}
 
-<!-- ![Figure 8. *Tomorrow Please God*, 20--21.](/images/issue01/tomorrow-please-god-3.png "Figure 8. *Tomorrow Please God*, 20--21.") -->
+
 
 
 The inability to place the douen, as the result of Chen's digital

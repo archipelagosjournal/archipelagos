@@ -1,17 +1,4 @@
-    {% for author in document.author %}
-      {% if forloop.length == 1 %}
-          <span class="author">{{ author.name }}</span>
-      {% elsif forloop.length == 2 %}
-          {% if forloop.last == true %}
-            <span class="author">and {{ author.name }}</span>
-          {% else %}
-            <span class="author">{{ author.name }}</span> 
-          {% endif %}
-      {% else %}
-          {% if forloop.last == true %}
-            <span class="author">and {{ author.name }}</span>
-          {% else %}
-            <span class="author">{{ author.name }}</span>, 
-          {% endif %}
-     {% endif %}
-    {% endfor %}
+          {% for author in document.author %}
+            {% if forloop.length == 1 %}
+                <span class="author">{{ author.name }}</span>
+            {% elsif forloop.length == 2 %}{% if forloop.last == true %}<span class="author">and {{ author.name }}</span>{% else %}<span class="author">{{ author.name }}</span>{% endif %}{% else %}{% if forloop.last == true %}<span class="author">and {{ author.name }}</span>{% else %}<span class="author">{{ author.name }}</span>, {% endif %}{% endif %}{% endfor %}

@@ -41,8 +41,6 @@ might seek to visually represent it.
             title="Map of the Caribbean"
             caption="Figure 1. Map of the Caribbean created by Yarimar Bonilla in 2010." %}
 
-<!-- ![Map of the Caribbean](/images/issue01/yarimar-map.png "Figure 1. Map of the Caribbean created by Yarimar Bonilla in 2010.") -->
-
 
 In the years that followed, this initial cartographic impulse has led to
 a series of projects that have sought to disrupt how we both *visualize*
@@ -273,8 +271,6 @@ textured detail of its constitutive events.
             title="Invasion of America"
             caption="Invasion of America" %}
 
-<!-- [![Invasion of America](/images/issue01/invasion-of-america.png)](https://www.youtube.com/embed/pJxrTzfG2bo?autoplay=1) -->
-
 
 Vincent Brown has developed a similarly rich visual argument in his
 online animated map *Slave Revolt in Jamaica, 1760--1761: A Cartographic
@@ -292,8 +288,6 @@ among insurgents than previously imagined.[^19]
             title="Slave Revolt in Jamaica, 1760--1761: A Cartographic Narrative"
             caption="Slave Revolt in Jamaica, 1760--1761: A Cartographic Narrative" %}
 
-
-<!-- [![Slave Revolt in Jamaica, 1760--1761: A Cartographic Narrative](/images/issue01/brown-revolt.png "Slave Revolt in Jamaica, 1760--1761: A Cartographic Narrative")](http://revolt.axismaps.com) -->
 
 Brown argues that if we are to take seriously the opportunities afforded
 by digital forms of scholarship, we must remain attentive to how
@@ -334,8 +328,6 @@ color to portray the diversity of political forms in the region.
             title="Map created by Landon Yarrington in 2011."
             caption="Figure 2. Map created by Landon Yarrington in 2011." %}
 
-<!-- ![Map created by Landon Yarrington in 2011.](/images/issue01/landon-map.jpg "Figure 2. Map created by Landon Yarrington in 2011.") -->
-
 
 The creation of this map quickly revealed some of the challenges of
 depicting the Caribbean in cartographic form. First, choices had to be
@@ -365,8 +357,6 @@ color to visually demarcate political jurisdictions.
             img="issue01/blossom-map.jpg"            
             title="Map created by Jeff Blossom and Yarimar Bonilla in 2015."
             caption="Figure 3. Map created by Jeff Blossom and Yarimar Bonilla in 2015." %}
-
-<!-- ![Figure 3. Map created by Jeff Blossom and Yarimar Bonilla in 2015.](/images/issue01/blossom-map.png "Figure 3. Map created by Jeff Blossom and Yarimar Bonilla in 2015.") -->
 
 
 Although we played with size and scale, the map retains a sense of

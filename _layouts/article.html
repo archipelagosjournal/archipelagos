@@ -3,43 +3,25 @@ layout: default
 ---
 
 <div class="article">
-  <h1 class="page-title">{{ page.title["long"] }}</h1>
-  <p class="byline"> 
-  {% assign document = page %}  
-  {% include author-loop.html %}
-
-    </p>
-  <br>
-  {% if page.abstract %}  
-<h4>Abstract</h4>
-<p class="abstract">{{page.abstract}}</p>
-<br><hr><br>
-  {% endif %}
-  {{ content }}
-</div>
-<hr>
-<div class="footer">
-	<ul id="footer-nav">
-		<li><a href="#">Return to top</a></li>
-		<li> | </li>	
-	{% for index in site.archives %}
-		{% if index.issue == page.collection %}
-			<a href="{{site.baseurl}}/archives/{{ page.collection }}.html">Table of Contents</a>
-		{% endif %}
-	{% endfor %}
-
-
-	
-	{% capture next %}{{page.order | plus:1}}{% endcapture %}
-	{% for document in site[page.collection] %}
-	{% capture this %}{{document.order}}{% endcapture %}
-		{% if this == next %}
-		<li> | </li>		
-		<li><a href="{{site.baseurl}}/{{document.url}}">Next Article</a></li>
-		{% endif %}		
-	{% endfor %}
-
+		  <h1 class="page-title">{{ page.title["long"] }}</h1>
+		  <p class="byline">{% assign document = page %}{% include author-loop.html %}</p>
+		  <br>
+		  {% if page.abstract %}  
+		<h4>Abstract</h4>
+		<p class="abstract">{{page.abstract}}</p>
+		<br><hr><br>
+		  {% endif %}
+		  {{ content }}
+		</div>
 		
-	</ul>
+		<hr>
 
-</div>
+		<div class="footer">
+			<ul id="footer-nav">
+				<li><a href="#">Return to top</a></li>
+				<li> | </li>
+				{% for index in site.archives %}{% if index.issue == page.collection %}<li><a href="{{site.baseurl}}/archives/{{ page.collection }}.html">Table of Contents</a></li>{% endif %}{% endfor %}{% capture next %}{{page.order | plus:1}}{% endcapture %}{% for document in site[page.collection] %}
+				{% capture this %}{{document.order}}{% endcapture %}{% if this == next %}<li> | </li>		
+				<li><a href="{{site.baseurl}}/{{document.url}}">Next Article</a></li>{% break %}{% endif %}{% endfor %}
+			</ul>
+		</div>

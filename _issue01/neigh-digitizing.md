@@ -95,7 +95,6 @@ used to reinvigorate Afro-centric oral traditions.[^7]
             caption="Figure 1. 2 Cents Movement poet Idrees Saleem
 performing at the University of the West Indies, St. Augustine Campus, Trinidad and Tobago. Posted on 24 November 2014." %}
 
-<!-- ![2 Cents Movement Poet](/images/issue01/poet-performing-2.jpg) -->
 
 Brathwaite identifies how nation-language poets challenge the way paper
 records were used to discredit oral ways of knowing and uphold
@@ -235,7 +234,7 @@ international following by circulating their poetry on social media.
             caption="Figure 2. Marshall Davis Jones performing at El
 Dorado East Secondary School, Trinidad and Tobago Courts Bocas Speak Out Tour 2015." %}
 
-<!-- ![Audience Interaction](/images/issue01/audience-interaction-1.jpg) -->
+
 
 Twitter and Facebook updates for the 2014--2015 Courts Bocas Speak Out
 Tour, involving more than fifty secondary schools, demonstrate 2 Cents
@@ -254,7 +253,7 @@ the performer's back or the corner of her shoulder.[^26]
             title="Audience Interaction"
             caption="Figure 3. UWE Speak Event, University of the West Indies, St. Augustine Campus, Trinidad and Tobago, Courts Bocas Speak Out Tour 2015." %} 
 
-<!-- ![Audience interaction](/images/issue01/audience-interaction-2.jpg) --> 
+ 
 
 {% include image.html
             img="issue01/poet-performing-1.jpg"
@@ -262,7 +261,7 @@ the performer's back or the corner of her shoulder.[^26]
             caption="Figure 4. Marshall Davis Jones performing at El
 Dorado East Secondary School, Trinidad and Tobago, Courts Bocas Speak Out Tour 2015." %} 
 
-<!-- ![Poet performer](/images/issue01/poet-performing-1.jpg) -->
+
 
 The online viewer gets to stare out at the auditorium filled with
 students, which allows her to occupy the performer's gaze but also view
@@ -285,7 +284,7 @@ high school communities in Trinidad and Tobago.[^27]
             title="Audience interaction"
             caption="Figure 5. Bishops Anstey Secondary School, Trinidad and Tobago, Courts Bocas Speak Out Tour 2015." %} 
 
-<!-- ![Audience interaction](/images/issue01/audience-interaction-3.jpg) -->
+
 
 Although these social media platforms governed by the commercial needs
 of US-based multinationals certainly hold limitations, rhetoric scholar
@@ -379,7 +378,7 @@ audience connection and encourage dialogue beyond the space of the poem.
             title="2 Cents Project - Crystal Skeete - Maxi Man tracking School Gyal"
             caption="Figure 6. Crystal Skeete and the \"Maxi Man\" cast, University of the West Indies, St. Augustine Campus, Trinidad and Tobago. Posted on 23 June 2013." %}
 
-<!-- [![2 Cents Project- Crystal Skeete- Maxi Man tracking School Gyal](/images/issue01/maxi-man-youtube.png)](https://www.youtube.com/embed/9OA8eLoPylU?autoplay=1) -->
+
 
 Skeete dresses in a government school uniform to play her character in
 the video. Her embodiment of the character creates a dialogic
