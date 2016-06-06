@@ -618,7 +618,7 @@ part because history itself has lost its own forward momentum, its own
 rhythm of change and renewal. If, however, we start to look beyond the
 apparently stalled present and consider the dynamic, often unforeseen,
 ways rhythm has shaped black (and white) being in the Americas, we are
-left with a final, tantalizing question: Could it be that the decoupling
+left with a final, tantalizing question: could it be that the decoupling
 of rhythm and race is temporary, or that rhythm is already, as it has
 always been, in and of the future, a form of foreknowledge levering
 awareness, as Glissant says, and that its presence in new digital arenas

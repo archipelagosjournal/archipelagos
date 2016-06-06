@@ -391,7 +391,7 @@ go sour."[^32] Skeete's conversational style, enhanced by the video
 editing and camera angles, encourage the viewer to feel as though Skeete
 is speaking directly to her. Standing in the middle of the street,
 Skeete begins with the lines, "Posing on every street corner / this is
-the resurrection of 'Jean and Dinah' / . . . / No Yankees here / only
+the resurrection of 'Jean and Dinah' / ... / No Yankees here / only
 maxi man conductor." Referencing Mighty Sparrow's calypso hit "Jean and
 Dinah," about how the presence of a World War II US army base led to
 prostitution in Trinidad, Skeete draws attention to how girls getting

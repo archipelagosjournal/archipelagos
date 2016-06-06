@@ -11,9 +11,10 @@
 
 %\definefontfamily [roboto][sans][Roboto]
 
-\usemodule[simplefonts]
-\setmainfont[xits][expansion=quality,protrusion=quality]
-\setupbodyfont[xits, 11pt]
+%\usemodule[simplefonts]
+%\setmainfont[xits][expansion=quality,protrusion=quality]
+\definefontfamily[main][serif][xits][expansion=quality,protrusion=quality]
+\setupbodyfont[main, 11pt]
 
 
 \newdimen\Margin
@@ -46,13 +47,15 @@
 }}}
 
 
+
+
+
 \setuphead[section]      [style=\tfc]
 \setuphead[subsection]   [style=\tfb]
 \setuphead[subsubsection][style=\bf]
 
 \setuphead[chapter, section, subsection, subsubsection][incrementnumber=yes,number=no,align={flushleft, verytolerant}, alternative=inmargin]
 \setuphead[chapter]      [header=empty, command=\MyChapterCommand]
-
 \enabletrackers[graphics.locating]
 
 \definedescription
