@@ -500,9 +500,13 @@ challenges the static effect of the original by allowing us to represent
 movement, contingency, temporary arrangements, and the constant
 challenges and reorganizations that have characterized the region.[^28]
 
-\[Video. Caption: *Visualizing Sovereignty in the Postcolonial
+{% include image.html
+            img="issue01/bonilla-video.jpg"
+            title="*Visualizing Sovereignty in the Postcolonial
+Caribbean*, 2016"
+            caption="Screenshot of *Visualizing Sovereignty in the Postcolonial
 Caribbean*, 2016; animated video designed by Yarimar Bonilla and Max
-Hantel and produced by Kindea Labs.\]
+Hantel and produced by Kindea Labs. Video forthcoming." %}
 
 The video begins with a traditional geographic map of the Caribbean but
 then releases Caribbean societies from their static positioning in order
@@ -867,7 +871,7 @@ Project working group at Barnard College and Columbia University.
     al., eds., *Mapping the Futures: Local Cultures, Global Change*
     (London: Routledge, 1993), 90.
 
-[^28]: **&lt;URL to video&gt;**
+[^28]: Video forthcoming.
 
 [^29]: See Pedro L. San Miguel, *The Imagined Island: History, Identity,
     and Utopia in Hispaniola* (Chapel Hill: University of North Carolina

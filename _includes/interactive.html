@@ -4,12 +4,17 @@
 <!-- YouTube -->
 {% if include.type == "youtube" %}
 <div class="media-wrapper" >   
-    <iframe src="{{include.url}}" frameborder="0" allowfullscreen>
-    </iframe>
+    {% if include.url %}
+    <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
+    {% endif %}
+        <img src="{{ site.baseurl }}/images/{{ include.img }}" alt="{{ include.title }}"/>
+    {% if include.url %}
+    </a>
+    {% endif %}
 
 </div>
     {% if include.caption %}
-<p class="media-caption">{{include.caption}}</p>
+<span class="media-caption">{{include.caption}}</span>
     {% endif %}
 
 
