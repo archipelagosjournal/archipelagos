@@ -9,11 +9,10 @@ author:
   shortname: Bonilla
 - name: Max Hantel
   shortname: Hantel 
-link: 
 date: May 2016
 issue: 1
 order: 5
-abstract: "This essay asks how visual representations of the postcolonial Caribbean are shaped by, and in turn could reshape, the political imaginary of sovereignty. Describing several different experiments with form—from conventional maps to temporal charts to animation—it argues that visualizing sovereignty is a first step in retheorizing the meaning of sovereignty itself beyond the regulatory limits of insular, nation-state autonomy. The authors call for collaborative efforts to create “prophetic cartographies” attuned to alternative political currents and the possibility of imagining the Caribbean otherwise."
+abstract: "This essay asks how visual representations of the postcolonial Caribbean are shaped by, and in turn could reshape, the political imaginary of sovereignty. Describing several different experiments with form---from conventional maps to temporal charts to animation---it argues that visualizing sovereignty is a first step in retheorizing the meaning of sovereignty itself beyond the regulatory limits of insular, nation-state autonomy. The authors call for collaborative efforts to create "prophetic cartographies" attuned to alternative political currents and the possibility of imagining the Caribbean otherwise."
 ---
 
 The test for this project arose during a fit of last-minute teaching
@@ -71,7 +70,7 @@ nonstate, trans-state, and suprastate actors (such as the United
 Nations, the International Monetary Fund, international nongovernmental
 organizations, military contractors, lending firms, and others agents)
 are increasingly taking up what were long thought to be the privileged
-duties of state governments.[^2] The perceived “newness” of these
+duties of state governments.[^2] The perceived "newness" of these
 processes is, however, often overstated. For, as historians of empire
 have shown, claims to sovereignty have always been fractured, layered,
 negotiated, and contested.[^3]
@@ -79,15 +78,15 @@ negotiated, and contested.[^3]
 This is nowhere more evident than in the Caribbean, where the history of
 postcolonial sovereignty has unfolded as a story of sovereignty
 challenged, contested, disavowed, and undermined. From the moment of
-Haiti’s declaration of independence in 1804, Caribbean sovereignty has
+Haiti's declaration of independence in 1804, Caribbean sovereignty has
 been an open question. The political authority of the first black
 republic posed a challenge to the international system of states at the
 time, requiring the international community to create new protocols for
 trade and diplomacy with which to engage Haiti economically while
 skirting the political and ontological challenges posed by its
-revolution.[^4] Indeed, it was only after Haiti’s economic sovereignty
+revolution.[^4] Indeed, it was only after Haiti's economic sovereignty
 had been fully undermined through the imposition of crippling debt that
-its political sovereignty was nominally recognized. Similarly, Cuba’s
+its political sovereignty was nominally recognized. Similarly, Cuba's
 independence in 1898 was conditional on the securing of a permanent
 relationship with the United States. In the wake of its war of
 independence with Spain, Cuba remained under US military occupation
@@ -102,7 +101,7 @@ decolonization that offered limited self-governance, such as the
 formation of the Puerto Rican commonwealth, and stratified forms of
 inclusion, as with the creation of the French overseas departments. This
 period also led to significant exploration with models of federation,
-including the short lived West Indies Federation (1958–62).
+including the short lived West Indies Federation (1958--62).
 
 This history of fractured, uneven, contested, and negotiated sovereignty
 continues to shape the region as a whole, and at present the *majority*
@@ -131,12 +130,12 @@ However, rather than representing the Caribbean as a site of problematic
 sovereignty, we would like to emphasize how Caribbean history brings
 into question the notion of sovereignty itself. We believe that
 *sovereignty* needs to be understood as part of that family of words
-that Michel-Rolph Trouillot describes as “North Atlantic
-universals.”[^6] These concepts do not seek to merely describe the world
+that Michel-Rolph Trouillot describes as "North Atlantic
+universals."[^6] These concepts do not seek to merely describe the world
 but to constrain it possibilities. In other words, these are the native
 categories of the West, as a project not a place. In describing the
 Caribbean as a site of nonsovereignty, we are thus suggesting that it is
-not simply a site where “ordinary sovereignty” wanes and fails but also
+not simply a site where "ordinary sovereignty" wanes and fails but also
 a fertile site from which to contest, disrupt, and reimagine notions of
 sovereignty, autonomy, freedom, liberty, and self-determination beyond
 the canon of political theory.[^7]
@@ -153,9 +152,9 @@ political structures.[^8] Of course, this sense of *insular* sovereignty
 casts the production of European modernity as an internal, autarkic
 shift. Yet, the global power of mapmaking in the production of sovereign
 states took hold through colonial circuits of exchange and violence. The
-map is “a technology of possession,” as Anne McClintock argues,
-“promising that those with the capacity to make such perfect
-representations must also have the right of territorial control.”[^9]
+map is "a technology of possession," as Anne McClintock argues,
+"promising that those with the capacity to make such perfect
+representations must also have the right of territorial control."[^9]
 Again, the map reifies the truth of what it represents, promising and
 delivering virgin lands and nonsovereign territories in need of
 discovery, settlement, borders, and territorial authority.
@@ -163,13 +162,13 @@ discovery, settlement, borders, and territorial authority.
 If the philosophical and material projects of modernity and colonialism
 took shape through a geographic reordering of sovereignty, our
 contemporary moment suggests another emerging shift. Sylvia Wynter
-argues that the various imaginaries of decolonization made possible “a
-new opening—that of the collective challenge made to . . . symbolic
-representational systems,” and hence, the possibility of a “new world
-view.”[^10] The crucial question then becomes, What spatiotemporal
+argues that the various imaginaries of decolonization made possible "a
+new opening---that of the collective challenge made to . . . symbolic
+representational systems," and hence, the possibility of a "new world
+view."[^10] The crucial question then becomes, What spatiotemporal
 models can grasp and even utilize such an opening? The problem, Wynter
 suggests, is that much contemporary political and geopolitical theory
-“mistakes the map for the territory,” by working within the ideological
+"mistakes the map for the territory," by working within the ideological
 coordinates of Eurocentric, Western thought rather than investigating
 the historical processes that bequeathed those mores to the
 present.[^11] Orienting struggles according to certain maps attends to
@@ -186,31 +185,31 @@ One such code, we argue, is the evolutionary discourse of political
 development, which produces a naturalized view of the nation-state that
 then renders nonindependent and nonsovereign Caribbean islands as
 exceptional, paradoxical, and even pathogenic.[^12] Confined to a map of
-the properly sovereign Caribbean, those “paradoxical” societies that
+the properly sovereign Caribbean, those "paradoxical" societies that
 articulate freedom without the grammar of national independence, or
 those nominally independent countries that fail to achieve bounded
 autonomy, are found wanting or inexplicable. If we instead begin our
-work from the space between the map and the territory—and the political
-processes that render them transferable—it becomes possible to see those
-“exceptional” cases as not always already failed but as generative sites
+work from the space between the map and the territory---and the political
+processes that render them transferable---it becomes possible to see those
+"exceptional" cases as not always already failed but as generative sites
 for alternative visions of sovereignty itself.
 
-Wynter’s deployment of the map as the key symbol for this epistemic
+Wynter's deployment of the map as the key symbol for this epistemic
 mistake is certainly intentional. Cartography spatially produces and
 reproduces political-economic arrangements while retroactively
 naturalizing them.[^13] Through this visual power, a recursive
 relationship develops between the boundary projects of modernity and the
 limits of identity and expression, thus reifying the political and
 epistemological perspective the map purports to describe. Charles de
-Gaulle’s infamous declaration, made upon looking at a transatlantic
-map—“Between Europe and America I see only specks of dust”—indexes this
+Gaulle's infamous declaration, made upon looking at a transatlantic
+map---"Between Europe and America I see only specks of dust"---indexes this
 cartographic effect. Edouard Glissant uses this quotation as the
 epigraph to *Caribbean Discourse*, making it the point of departure for
-reimagining the geographic meaning of the Caribbean and “the future of
-small countries.”[^14] Those little bits of dust, he hopes, might help
+reimagining the geographic meaning of the Caribbean and "the future of
+small countries."[^14] Those little bits of dust, he hopes, might help
 produce alternative spatiotemporal models of identity and collective
-life beyond the fortress island of national sovereignty or the “flat
-world” of globalization.[^15]
+life beyond the fortress island of national sovereignty or the "flat
+world" of globalization.[^15]
 
 If the visual representations we use to capture questions of political
 sovereignty are inextricably intertwined with how and what we imagine
@@ -218,11 +217,11 @@ sovereignty to be, then the question becomes how to visually represent
 this process, where the production of space is both the precondition and
 the result of imagining sovereignty itself. In some sense, this question
 poses a visual correlate to the longstanding concern in Caribbean
-thought with the displacement of universal history, such as Glissant’s
-experiments with alter-chronologies or Trouillot’s interrogations of
+thought with the displacement of universal history, such as Glissant's
+experiments with alter-chronologies or Trouillot's interrogations of
 Western historiography. Cartographic experimentation also questions any
 neat division between spatial and temporal categories by demonstrating
-how the production of space through a “mapping of the present” entails a
+how the production of space through a "mapping of the present" entails a
 specific mode of articulating the past and future.[^16]
 
 Building on these ideas, we thus consider alternative cartographic and
@@ -234,10 +233,10 @@ trace and enact their transformation through digital subjectivities and
 new cartographic technologies. We thus ask, What could visual
 representations of the Caribbean become if no longer anchored by
 political sovereignty as a regulatory ideal of postcolonial independence
-or economic development? Faced with de Gaulle’s dismissal of Caribbean
+or economic development? Faced with de Gaulle's dismissal of Caribbean
 specks of dust as inferior to the point of irrelevance, Glissant
-demanded a “prophetic vision of the past” beyond “schematic chronology”
-or “nostalgic lament.”[^17] The Caribbean novelist had to reach into the
+demanded a "prophetic vision of the past" beyond "schematic chronology"
+or "nostalgic lament."[^17] The Caribbean novelist had to reach into the
 past without the teleological comfort of Western history to invent
 futures from the traces, the scraps, the cinders of collective memory
 and everyday life. While his interlocutors often limit this discussion
@@ -247,7 +246,7 @@ of departure: a prophetic cartography of the postcolonial Caribbean.
 ## Cartographies for the Digital Age
 
 Until now most cartographic representations of the Caribbean have failed
-to reveal the complexity of the region’s political topography and how it
+to reveal the complexity of the region's political topography and how it
 challenges normative understandings of political sovereignty. The fact
 is that the complexity of the region is difficultly captured through
 traditional cartographic forms, which tend to flatten out political
@@ -278,7 +277,7 @@ textured detail of its constitutive events.
 
 
 Vincent Brown has developed a similarly rich visual argument in his
-online animated map *Slave Revolt in Jamaica, 1760–1761: A Cartographic
+online animated map *Slave Revolt in Jamaica, 1760--1761: A Cartographic
 Narrative*, in which he documents a previously misunderstood revolt
 showcasing the tactical maneuvers made by the rebels. By combining
 geographic data on slave uprisings culled from various forms of data
@@ -290,11 +289,11 @@ among insurgents than previously imagined.[^19]
 {% include image.html
             img="issue01/brown-revolt.jpg"
             url="http://revolt.axismaps.com/map/"
-            title="Slave Revolt in Jamaica, 1760–1761: A Cartographic Narrative"
-            caption="Slave Revolt in Jamaica, 1760–1761: A Cartographic Narrative" %}
+            title="Slave Revolt in Jamaica, 1760--1761: A Cartographic Narrative"
+            caption="Slave Revolt in Jamaica, 1760--1761: A Cartographic Narrative" %}
 
 
-<!-- [![Slave Revolt in Jamaica, 1760–1761: A Cartographic Narrative](/images/issue01/brown-revolt.png "Slave Revolt in Jamaica, 1760–1761: A Cartographic Narrative")](http://revolt.axismaps.com) -->
+<!-- [![Slave Revolt in Jamaica, 1760--1761: A Cartographic Narrative](/images/issue01/brown-revolt.png "Slave Revolt in Jamaica, 1760--1761: A Cartographic Narrative")](http://revolt.axismaps.com) -->
 
 Brown argues that if we are to take seriously the opportunities afforded
 by digital forms of scholarship, we must remain attentive to how
@@ -306,9 +305,9 @@ color, sound, and format constitute rhetorical strategies. Building on,
 rather than abandoning, previous debates about textual representation,
 digital scholars must therefore remain attentive to how their narratives
 are plotted through the use of various representational formats and
-symbolic orders—even as they challenge them. For example, on the website
+symbolic orders---even as they challenge them. For example, on the website
 [*Two Plantations*](http://www.twoplantations.com), produced by Harvard
-University’s History Design Studio, the social history of enslaved
+University's History Design Studio, the social history of enslaved
 families is diagramed through the use of family trees.[^21] The website
 shows both the possibilities and the limitations of adopting this
 graphic form to represent the lives of families whose structures of
@@ -348,7 +347,7 @@ islands. Given our interest in representing the smaller islands of the
 Caribbean, this posed a significant problem. In addition, the presence
 of the large landmass of the continent and negative oceanic space had a
 similar rhetorical effect to the oft-cited metaphor that the
-nonindependent Caribbean represented little more than “specks of dust.”
+nonindependent Caribbean represented little more than "specks of dust."
 The first challenge thus became how to fit the story we wished to tell
 into the narrative form of the geographic map.
 
@@ -394,8 +393,8 @@ of political sovereignty.
 In order to address these issues we decided to create a temporal map of
 the postcolonial Caribbean. More of an infographic than a map, it
 features Caribbean societies ordered by the year in which they shifted
-away from a colonial status—either by becoming independent or by
-entering into a “postcolonial” arrangement with their colonial
+away from a colonial status---either by becoming independent or by
+entering into a "postcolonial" arrangement with their colonial
 centers.[^24]
 
 {% include image.html
@@ -406,26 +405,26 @@ centers.[^24]
 
 Organizationally, the temporal map poses several alternatives to a
 traditional map. First, by playing with color and scale, we disrupt the
-“realist” effect of traditional geographic maps, making it clear that
+"realist" effect of traditional geographic maps, making it clear that
 the map is not the territory. Second, although we retain the shape and
 outline of different Caribbean societies, we render the *scale* of each
 island equivalent, thus flattening out the differences in size between
-“large” islands like Cuba and Haiti and “small” islands like Martinique
+"large" islands like Cuba and Haiti and "small" islands like Martinique
 or Dominica. This move dislodges the equation of smallness with
 inferiority and the analytical irrelevance usually attributed to those
-residing in a “small place.”[^25] In addition, the use of color departs
-from the traditional distribution of color on political maps—which
-reinforces the idea of bounded states— and instead suggests political
+residing in a "small place."[^25] In addition, the use of color departs
+from the traditional distribution of color on political maps---which
+reinforces the idea of bounded states--- and instead suggests political
 configurations that surpass geographic lines.
 
 The temporal map foregrounds, in other words, what geographer Neil Smith
-calls “the production of scale,” demonstrating that debates over scale
+calls "the production of scale," demonstrating that debates over scale
 express social as much as geographic concerns over boundaries,
 locations, and sites of experience.[^26] If scale is constructed, then
 not only do different power formations shift scales at different
-strategic moments—as, for example, in the reorganization of
-nation-states into supranational organizations—but alternative political
-imaginaries can also emerge by “jumping scale.”[^27]
+strategic moments---as, for example, in the reorganization of
+nation-states into supranational organizations---but alternative political
+imaginaries can also emerge by "jumping scale."[^27]
 
 Indeed, by shifting scales and placement this visualization makes
 visible several patterns. First, at a quick glance one can see that
@@ -449,7 +448,7 @@ experienced nineteenth-century nation-building projects, (2) Caribbean
 societies that experimented with nonsovereign forms of decolonization,
 and (3) Caribbean societies that experienced the postwar decolonization
 project. This grouping disrupts traditional arguments about postcolonial
-sovereignty in the region—particularly the idea of the
+sovereignty in the region---particularly the idea of the
 mid-twentieth-century postwar project of decolonization as the norm
 against which other exceptions are cast. Now postwar independence
 appears as a contingent outcome rather than a naturalized telos or
@@ -460,7 +459,7 @@ societies but rather to create *a tool of inquiry*. That is, by
 revealing patterns and opening up new questions about those patterns,
 images such as these could ideally spur new thinking about political
 sovereignty and its shifts over time in relation to a larger set of
-questions about what connects or diffracts “the Caribbean” itself as a
+questions about what connects or diffracts "the Caribbean" itself as a
 cartographic object: physical geography, linguistic groupings,
 palimpsestic colonial histories, connections to other regional groupings
 like Latin America or the US South, and so forth. In addition, the
@@ -485,8 +484,8 @@ incorporation began much earlier than what is revealed on the final
 graph. Additionally, even as it plots through time, its neat separation
 of bounded societies makes it difficult, for instance, to understand the
 complications of political sovereignty at the border of Hispaniola and
-the ways in which Haiti’s independence is both a condition and a
-complication of the Dominican Republic’s. Lastly, the representation of
+the ways in which Haiti's independence is both a condition and a
+complication of the Dominican Republic's. Lastly, the representation of
 independent nations as solidly and unwaveringly blue implies that
 political independence is a final endpoint and ultimate goal for
 Caribbean societies. It wrongly implies that once achieved, national
@@ -514,18 +513,18 @@ aggregating the Caribbean differently.
 
 We begin with a colonial grouping based on the various European powers
 staking claims in the region at the dawn of the nineteenth century.
-Haiti’s independence in 1804 then ushers in the postcolonial Caribbean,
+Haiti's independence in 1804 then ushers in the postcolonial Caribbean,
 spurring the movement of each island from their colonial grouping to a
-charted date when their “postcolonial sovereignty” qualitatively shifts.
+charted date when their "postcolonial sovereignty" qualitatively shifts.
 Although the end point is visually similar to the temporal map, the
 animated video presents these as an uneven and nonlinear process rather
 than as a finalized outcome. Indeed, during the collaboration with the
-animators, we realized how projecting the final frame in advance—as a
-predetermined outcome for the video—ended up constraining the questions
+animators, we realized how projecting the final frame in advance---as a
+predetermined outcome for the video---ended up constraining the questions
 we could visually pose. Once we gave up on knowing with certainty where
 each movement might lead, or even which events properly counted as
-“relevant,” the animation became a much messier and sometimes difficult
-process of bricolage—closely resembling the twists and turns of
+"relevant," the animation became a much messier and sometimes difficult
+process of bricolage---closely resembling the twists and turns of
 postcolonial sovereignty.
 
 Polities now move within and between different statuses, not only
@@ -534,10 +533,10 @@ relative to other postcolonial nations. Take, for instance, the
 Dominican Republic, which initially appears on the chart as part of a
 unified Hispaniola in 1822. It wins independence from Haiti in 1844, now
 visually represented as a separate blue territory. Already, a more
-complex view of the Dominican Republic’s relationship to sovereignty
+complex view of the Dominican Republic's relationship to sovereignty
 emerges as their formal independence is simultaneously conditioned by
 the Haitian revolution and generated in opposition to it. Today, the
-Dominican Republic’s national celebration of independence day takes
+Dominican Republic's national celebration of independence day takes
 place on 27 February, marking independence *from Haiti*. The animation
 points to, moreover, the short period of Spanish restoration when Spain
 re-annexed the Dominican Republic in 1861 only to retreat again in 1865
@@ -557,7 +556,7 @@ contemporary political challenges in the Caribbean today. The creation
 in 1954, for example, of the Netherlands Antilles as one administrative
 unit in the Kingdom of Netherlands groups together almost the entirety
 of the Dutch Caribbean, excepting Suriname. This initial mode of
-organization sets the stage not only for Suriname’s eventual
+organization sets the stage not only for Suriname's eventual
 independence in 1975 but for internal conflicts and struggles for
 autonomy *within* the Dutch Caribbean. Aruba breaks away in 1986,
 winning autonomy from the Netherlands Antilles but remaining a country
@@ -622,7 +621,7 @@ the Haitian Revolution, thus remain subject to humanitarian occupation.
 After the tragic earthquake in 2010, for instance, the United States
 claimed control of Haitian airspace and airports, causing diplomatic
 fights with other countries involved in the United Nations mission,
-“exposing a brewing power struggle amid the global relief effort.”[^30]
+"exposing a brewing power struggle amid the global relief effort."[^30]
 In the haunting overlay of 1804 and 2004, it becomes clear that the
 political plotting of time slips away from the control of linear
 narrative and historical mastery.
@@ -665,7 +664,7 @@ but use visualizations to retheorize the meaning of sovereignty itself?
 We believe that the first step in this process would involve unbundling
 the relationships that have been variously signified as the constituent
 components of political sovereignty. As scholars such as Lauren Benton
-have shown, sovereignty needs to be theorized as a “divisible quality,”
+have shown, sovereignty needs to be theorized as a "divisible quality,"
 that encompasses a broad set of relationships applied in various
 configurations across place and time.[^31] Secondly, we must examine how
 sovereignty operates as a native category. Previous research has
@@ -677,8 +676,8 @@ activists viewed the search for sovereignty not as the attainment of
 nation-state status but as the ability to exert control over elements
 that impacted daily life, such as the consumption of locally produced
 food, the availability of local employment opportunities (as opposed to
-having to migrate for work), increases in minimum wage and “purchasing
-power,” the use of vernacular language, attention to silenced histories
+having to migrate for work), increases in minimum wage and "purchasing
+power," the use of vernacular language, attention to silenced histories
 of resistance, and the promotion of local arts and media.[^32] Third, we
 must develop alternative spatiotemporal models based on these
 reexaminations of sovereignty and specific, local negotiations of
@@ -694,12 +693,12 @@ self-determination, freedom, and liberty that are not properly captured
 by either the textual or the visual language of the international system
 of states. These nonsovereign projects push against the limits of what
 is conceivable under our current visual and conceptual repertoire. We
-believe that new kinds of speculative visualizations—employing both
-scholarly and artistic methods and practices—might help propel these
+believe that new kinds of speculative visualizations---employing both
+scholarly and artistic methods and practices---might help propel these
 projects by giving shape and form to an otherwise inchoate search for
 political alternatives. In other words, by creating new representations
-of Caribbean sovereignty—what, borrowing from Glissant, we describe as
-prophetic cartographies—new political visions for the region might
+of Caribbean sovereignty---what, borrowing from Glissant, we describe as
+prophetic cartographies---new political visions for the region might
 become more readily imaginable. At a time when many across the region
 and beyond feel a profound disenchantment with the project of
 nation-state sovereignty, these new visions might help us become more
@@ -730,27 +729,27 @@ Project working group at Barnard College and Columbia University.
 [^1]: See Robert Jackson, *Sovereignty: The Evolution of an Idea*
     (Cambridge: Polity, 2007).
 
-[^2]: See Arjun Appadurai, “Sovereignty without Territoriality: Notes
-    for a Postnational Geography,” in Patricia Yaeger, ed., *The
+[^2]: See Arjun Appadurai, "Sovereignty without Territoriality: Notes
+    for a Postnational Geography," in Patricia Yaeger, ed., *The
     Geography of Identity* (Ann Arbor: University of Michigan Press,
-    1996), 40–58; Wendy Brown, *Walled States, Waning Sovereignty* (New
+    1996), 40--58; Wendy Brown, *Walled States, Waning Sovereignty* (New
     York: Zone Books, 2010); John L. Comaroff and Jean Comaroff,
-    “Reflections on the Anthropology of Law, Governance, and
-    Sovereignty,” in Franz von Benda-Beckmann et al., eds., *Rules of
+    "Reflections on the Anthropology of Law, Governance, and
+    Sovereignty," in Franz von Benda-Beckmann et al., eds., *Rules of
     Law and Laws of Ruling: On the Governance of Law* (Surrey, UK:
-    Ashgate, 2009), 31–60; James Ferguson, *Global Shadows: Africa in
+    Ashgate, 2009), 31--60; James Ferguson, *Global Shadows: Africa in
     the Neoliberal World Order* (Durham, NC: Duke University Press,
-    2006); Thomas Blom Hansen and Finn Stepputat, “Sovereignty
-    Revisited,” *Annual Review of Anthropology* 35 (2006): 295–315;
+    2006); Thomas Blom Hansen and Finn Stepputat, "Sovereignty
+    Revisited," *Annual Review of Anthropology* 35 (2006): 295--315;
     Thomas Blom Hansen, *Sovereign Bodies: Citizens, Migrants, and
     States in the Postcolonial World* (Princeton, NJ: Princeton
-    University Press, 2005); Carolyn Nordstrom, “Shadows and
-    Sovereigns,” *Theory, Culture, and Society* 17, no. 4 (2000): 35–54;
+    University Press, 2005); Carolyn Nordstrom, "Shadows and
+    Sovereigns," *Theory, Culture, and Society* 17, no. 4 (2000): 35--54;
     and Aihwa Ong, *Neoliberalism as Exception: Mutations in Citizenship
     and Sovereignty* (Durham, NC: Duke University Press, 2006).
 
 [^3]: See Lauren A. Benton, *A Search for Sovereignty: Law and Geography
-    in European Empires, 1400–1900* (Cambridge: Cambridge University
+    in European Empires, 1400--1900* (Cambridge: Cambridge University
     Press, 2010); Jack P. Greene, *Negotiated Authorities: Essays in
     Colonial Political and Constitutional History* (Charlottesville:
     University Press of Virginia, 1994); and Philip J. Stern, *The
@@ -767,33 +766,33 @@ Project working group at Barnard College and Columbia University.
     Postmodern Perspective* (Durham, NC: Duke University Press, 1996),
     2.  
 
-[^6]: Michel-Rolph Trouillot, “North Atlantic Universals: Analytical
-    Fictions, 1942–1945,” *South Atlantic Quarterly* 101, no. 4 (2002):
+[^6]: Michel-Rolph Trouillot, "North Atlantic Universals: Analytical
+    Fictions, 1942--1945," *South Atlantic Quarterly* 101, no. 4 (2002):
     848.
 
-[^7]: Yarimar Bonilla, “Ordinary Sovereignty,” *Small Axe*, no. 42
-    (November 2013): 152–65.
+[^7]: Yarimar Bonilla, "Ordinary Sovereignty," *Small Axe*, no. 42
+    (November 2013): 152--65.
 
-[^8]: Jordan Branch, “Mapping the Sovereign State: Technology,
-    Authority, and Systemic Change,” *International Organization* 65,
-    no. 1 (2011): 2; see also Philip E. Steinberg, “Insularity,
+[^8]: Jordan Branch, "Mapping the Sovereign State: Technology,
+    Authority, and Systemic Change," *International Organization* 65,
+    no. 1 (2011): 2; see also Philip E. Steinberg, "Insularity,
     Sovereignty, and Statehood: The Representation of Islands on
-    Portolan Charts and the Construction of the Territorial State,”
+    Portolan Charts and the Construction of the Territorial State,"
     *Geografiska Annaler* 87, no. 4 (2005): 2.
 
 [^9]: Anne McClintock, *Imperial Leather: Race, Gender, and Sexuality in
     the Colonial Contest* (New York: Routledge, 1995), 28.
 
-[^10]: Sylvia Wynter, “1492: A New World View,” in Vera Lawrence Hyatt
+[^10]: Sylvia Wynter, "1492: A New World View," in Vera Lawrence Hyatt
     and Rex Nettleford, eds., *Race, Discourse, and the Origin of the
     Americas* (Washington, DC: Smithsonian Institution Press, 1995), 50.
 
-[^11]: See Sylvia Wynter, “On How We Mistook the Map for the Territory,
+[^11]: See Sylvia Wynter, "On How We Mistook the Map for the Territory,
     and Re-Imprisoned Ourselves in Our Unbearable Wrongness of Being, of
-    Desetre: Black Studies Toward the Human Project,” in Lewis R. Gordon
-    and Jane Anna Gordon, eds., *Not Only the Master’s Tools:
+    Desetre: Black Studies Toward the Human Project," in Lewis R. Gordon
+    and Jane Anna Gordon, eds., *Not Only the Master's Tools:
     African-American Studies in Theory and Practice*, (Boulder, CO:
-    Paradigm, 2006), 107–69.
+    Paradigm, 2006), 107--69.
 
 [^12]: See Yarimar Bonilla, *Non-sovereign Futures: French Caribbean
     Politics in the Wake of Disenchantment* (Chicago: University of
@@ -801,23 +800,23 @@ Project working group at Barnard College and Columbia University.
 
 [^13]: John Pickles, *A History of Spaces: Cartographic Reason, Mapping,
     and the Geo-Coded World* (New York: Routledge, 2003); for a
-    discussion of mapping and the “social reproduction of space” in
+    discussion of mapping and the "social reproduction of space" in
     Caribbean political formations, see Michaeline Crichlow and Patricia
     Northover, *Globalization and the Post-creole Imagination: Notes on
     Fleeing the Plantation* (Durham, NC: Duke University Press, 2009),
-    15–41.
+    15--41.
 
 [^14]: Edouard Glissant, *Caribbean Discourse: Selected Essays*, trans.
     J. Michael Dash (Charlottesville: University Press of Virginia,
     1989), 3; originally published as *Le discours antillais* (1981;
     repr., Paris: Gallimard, 1997).
 
-[^15]: Max Hantel, “Rhizomes and the Space of Translation: On Edouard
-    Glissant’s Spiral Retelling,” *Small Axe*, no. 42 (November 2013):
-    100–12.
+[^15]: Max Hantel, "Rhizomes and the Space of Translation: On Edouard
+    Glissant's Spiral Retelling," *Small Axe*, no. 42 (November 2013):
+    100--12.
 
 [^16]: Crichlow and Northover, *Globalization and the Post-creole
-    Imagination*, 22–23.
+    Imagination*, 22--23.
 
 [^17]: Glissant, *Caribbean Discourse*, 64.
 
@@ -826,44 +825,44 @@ Project working group at Barnard College and Columbia University.
     eHistory.org, youtu.be/pJxrTzfG2bo. For an interactive map, see
     invasionofamerica.ehistory.org.
 
-[^19]: Vincent Brown, *Slave Revolt in Jamaica, 1760–1761: A
+[^19]: Vincent Brown, *Slave Revolt in Jamaica, 1760--1761: A
     Cartographic Narrative*, revolt.axismaps.com. See also Vincent
-    Brown, “Mapping a Slave Revolt: Visualizing Spatial History through
-    the Archives of Slavery,” *Social Text*, no. 125 (December 2015):
-    134–41.
+    Brown, "Mapping a Slave Revolt: Visualizing Spatial History through
+    the Archives of Slavery," *Social Text*, no. 125 (December 2015):
+    134--41.
 
-[^20]: Vincent Brown, “Narrative Interface for New Media History: Slave
-    Revolt in Jamaica, 1760–1761,” *American Historical Review* 121, no.
-    1 (2016): 176–86.
+[^20]: Vincent Brown, "Narrative Interface for New Media History: Slave
+    Revolt in Jamaica, 1760--1761," *American Historical Review* 121, no.
+    1 (2016): 176--86.
 
 [^21]: *Two Plantations: Enslaved Families in Virginia and Jamaica*,
-    www.twoplantations.com.
+    [http://www.twoplantations.com](http://www.twoplantations.com.)
 
-[^22]: Brown, “Narrative Interface,” 178.
+[^22]: Brown, "Narrative Interface," 178.
 
-[^23]: See Edouard Glissant, “Creolization in the Making of the
-    Americas,” *Caribbean Quarterly* 54, nos. 1–2 (2008): 81–89; and
+[^23]: See Edouard Glissant, "Creolization in the Making of the
+    Americas," *Caribbean Quarterly* 54, nos. 1--2 (2008): 81--89; and
     Roman de la Campa, *Latin Americanism* (Minneapolis: University of
     Minnesota Press, 1999).
 
 [^24]: For most societies, we chose the date they were removed from the
     United Nations list of non-self-governing societies; for those that
     remain on the list, we chose the date they obtained the status they
-    have today. We understand these arrangements as “postcolonial,” not
+    have today. We understand these arrangements as "postcolonial," not
     in the sense of a formal rupture with colonialism but in terms of a
     shift in how empire and colonialism itself figure in the political
     imagination.
 
-[^25]: As Jamaica Kincaid suggests, “The people in a small place cannot
+[^25]: As Jamaica Kincaid suggests, "The people in a small place cannot
     see themselves in a larger picture, they cannot see that they might
-    be part of a chain of something, anything.” Jamaica Kincaid, *A
+    be part of a chain of something, anything." Jamaica Kincaid, *A
     Small Place* (New York: Farrar, Straus, and Giroux, 2000), 52.
 
 [^26]: Neil Smith, *Uneven Development: Nature, Capital, and the
     Production of Space* (Athens: University of Georgia Press, 2008),
     229.
 
-[^27]: Neil Smith, “Homeless/Global: Scaling Places,” in Jon Bird et
+[^27]: Neil Smith, "Homeless/Global: Scaling Places," in Jon Bird et
     al., eds., *Mapping the Futures: Local Cultures, Global Change*
     (London: Routledge, 1993), 90.
 
@@ -873,20 +872,20 @@ Project working group at Barnard College and Columbia University.
     and Utopia in Hispaniola* (Chapel Hill: University of North Carolina
     Press, 2006).
 
-[^30]: Rory Carroll and Daniel Nasaw, “US Accused of Annexing Airport as
-    Squabbling Hinders Aid Effort in Haiti,” *Guardian* (UK), January
+[^30]: Rory Carroll and Daniel Nasaw, "US Accused of Annexing Airport as
+    Squabbling Hinders Aid Effort in Haiti," *Guardian* (UK), January
     2010,
-    www.theguardian.com/world/2010/jan/17/us-accused-aid-effort-haiti.
+    [http://www.theguardian.com/world/2010/jan/17/us-accused-aid-effort-haiti](http://www.theguardian.com/world/2010/jan/17/us-accused-aid-effort-haiti.)
 
 [^31]: Benton, *Search for Sovereignty*, specifically chap. 5,
-    “Landlocked: Colonial Enclaves and the Problem of
-    Quasi-Sovereignty,” 222–78.
+    "Landlocked: Colonial Enclaves and the Problem of
+    Quasi-Sovereignty," 222--78.
 
 [^32]: See Bonilla, *Non-sovereign Futures*.
 
-[^33]: See Max Hantel, “Errant Notes on a Caribbean Rhizome,” *Rhizomes:
+[^33]: See Max Hantel, "Errant Notes on a Caribbean Rhizome," *Rhizomes:
     Cultural Studies in Emerging Knowledge* 24 (2012),
-    www.rhizomes.net/issue24/hantel.html; “Intergenerational Geographies
+    [http://www.rhizomes.net/issue24/hantel.html](http://www.rhizomes.net/issue24/hantel.html;) "Intergenerational Geographies
     of Race and Gender: Tracing the Confluence of Afro-Caribbean and
-    Feminist Thought beyond the Word of Man” (PhD diss., Rutgers
+    Feminist Thought beyond the Word of Man" (PhD diss., Rutgers
     University, New Brunswick, NJ, 2015).

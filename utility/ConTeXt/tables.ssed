@@ -1,0 +1,2 @@
+s#\\placetable\{(.*)\}#\\placetable[split]{\1}{#
+s#\\stoptable#\\stoptable}#

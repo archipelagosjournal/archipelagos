@@ -23,6 +23,7 @@ echo Postprocess $filename
 ssed -r -i -f $root/utility/ConTeXt/hyphenated.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/thinrule.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/iframe.ssed $filename.tex
+ssed -r -i -f $root/utility/ConTeXt/tables.ssed $filename.tex
 
 echo ConTeXt $filename
 context --purgeall --batchmode $filename.tex > $filename.log 
