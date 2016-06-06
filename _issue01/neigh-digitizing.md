@@ -561,7 +561,7 @@ free recordings implicitly upholds the idea that the artistic labor of
 poetry is more worthy of payment when it is print based. Moreover, it
 demonstrates how we define poems as texts rather than as performances.
 The Poetry Foundation's [*Code for Best Practices in Fair Use for
-Poetry*](http://www.poetryfoundation.org/downloads/FairUsePoetryBooklet_singlepg_2.pdf)
+Poetry*](http://www.poetryfoundation.org/)
 underscores this point. A group of poets, editors, and publishers met at
 the Poetry Foundation's Harriet Monroe Poetry Institute and collaborated
 with American University's Center for Social Media and its Washington
@@ -786,7 +786,7 @@ this vital record of Caribbean poetry history a priority.
 
 [^2]: See [http://writing.upenn.edu/pennsound](http://writing.upenn.edu/pennsound); [http://www.poetryarchive.org](http://www.poetryarchive.org); [http://www.poetryfoundation.org](http://www.poetryfoundation.org); [http://www.poets.org](http://www.poets.org); and [http://www.ubuweb.com](http://www.ubuweb.com).
 
-[^3]: See "PennSound Transforms How Poetry Is Taught the World Over," *Penn News*, 26 June 2014, [http://www.upenn.edu/pennnews/news/pennsound-transforms-how-poetry-taught-world-over](http://www.upenn.edu/pennnews/news/pennsound-transforms-how-poetry-taught-world-over).
+[^3]: See "PennSound Transforms How Poetry Is Taught the World Over," *Penn News*, 26 June 2014, [https://news.upenn.edu/news/pennsound-transforms-how-poetry-taught-world-over](https://news.upenn.edu/news/pennsound-transforms-how-poetry-taught-world-over).
 
 [^4]: For a discussion of race in digital canons, see Amy E. Earhart, "Can Information Be Unfettered? Race and the New Digital Humanities Canon," in Mathew K. Gold, ed., *Debates in the Digital Humanities* (Minneapolis: University of Minnesota Press, 2012); open-access edition, [http://dhdebates.gc.cuny.edu](http://dhdebates.gc.cuny.edu)/debates/text/16. Earhart urges that "we need to examine the canon that we, as digital humanists, are constructing, a canon that skews toward traditional texts and excludes crucial work by women, people of color, and the GLBTQ community" (para. 17).
 
@@ -856,7 +856,7 @@ this vital record of Caribbean poetry history a priority.
 
 [^37]: Curwen Best, *The Politics of Caribbean Cyberculture* (New York: Palgrave Macmillan, 2008), 4.
 
-[^38]: Tanya Barrientos, "Penn's Rich Poetry Legacy," *Penn Current*, 20 May 2010, [http://www.upenn.edu/pennnews/current/2010-05-20/features/penn's-rich-poetry-legacy](http://www.upenn.edu/pennnews/current/2010-05-20/features/penn's-rich-poetry-legacy).
+[^38]: Tanya Barrientos, "Penn's Rich Poetry Legacy," *Penn Current*, 20 May 2010, [http://news.upenn.edu/](http://news.upenn.edu/).
 
 [^39]: See [http://writing.upenn.edu/pennsound/x/Brathwaite.php](http://writing.upenn.edu/pennsound/x/Brathwaite.php); [http://writing.upenn.edu/pennsound/x/Philip.php](http://writing.upenn.edu/pennsound/x/Philip.php); and [http://writing.upenn.edu/pennsound/x/Bennett.php](http://writing.upenn.edu/pennsound/x/Bennett.php).
 
@@ -882,9 +882,9 @@ this vital record of Caribbean poetry history a priority.
 
 [^50]: Eichhorn, "Past Performance, Present Dilemma," 190.
 
-[^51]: Martin Spinelli, "Analog Echoes: A Poetics of Digital Audio Editing," *Object 10: Cyberpoetics* (2002): 36; *UbuWeb Papers*, 16 May 2007, [http://www.ubu.com/papers/object/06\_spinelli.pdf](http://www.ubu.com/papers/object/06\_spinelli.pdf). Spinelli criticizes poetry sound editing for being too influenced by traditional radio theory, questioning why most archived poetry recordings present sound as though it were a linear medium by using "the seamless, invisible, inaudible edit which dislodges nothing, which interrupts nothing, which is in fact deployed to remove interruption, to remove digression and to clarify" (36).
+[^51]: Martin Spinelli, "Analog Echoes: A Poetics of Digital Audio Editing," *Object 10: Cyberpoetics* (2002): 36; *UbuWeb Papers*, 16 May 2007, [http://www.ubu.com/papers/object/06_spinelli.pdf](http://www.ubu.com/papers/object/06_spinelli.pdf). Spinelli criticizes poetry sound editing for being too influenced by traditional radio theory, questioning why most archived poetry recordings present sound as though it were a linear medium by using "the seamless, invisible, inaudible edit which dislodges nothing, which interrupts nothing, which is in fact deployed to remove interruption, to remove digression and to clarify" (36).
 
-[^52]: Linton Kwesi Johnson author page at the Poetry Archive, [http://www.poetryarchive](http://www.poetryarchive).org/poet/linton-kwesi-johnson (accessed 23 July 2015).
+[^52]: Linton Kwesi Johnson author page at the Poetry Archive, [http://www.poetryarchive.org](http://www.poetryarchive.org).org/poet/linton-kwesi-johnson (accessed 23 July 2015).
 
 [^53]: Onuora, quoted in Morris, *Is English We Speaking*, 38.
 
@@ -898,7 +898,7 @@ this vital record of Caribbean poetry history a priority.
 
 [^58]: Annie Murray and Jared Wiercinski, "Looking at Archival Sound: Enhancing the Listening Experience in a Spoken Word Archive," *First Monday* 17, no. 4 (2012), [http://firstmonday.org/ojs/index.php/fm/article/view/3808/3197](http://firstmonday.org/ojs/index.php/fm/article/view/3808/3197).
 
-[^59]: Annie Murray and Jared Wiercinski, "A Design Methodology for Web-based Sound Archives," *DHQ: Digital Humanities Quarterly* 8, no. 2 (2014), [http://digitalhumanities.org/dhq/vol/8/2/000173/000173.html\#p6](http://digitalhumanities.org/dhq/vol/8/2/000173/000173.html\#p6).
+[^59]: Annie Murray and Jared Wiercinski, "A Design Methodology for Web-based Sound Archives," *DHQ: Digital Humanities Quarterly* 8, no. 2 (2014), [http://digitalhumanities.org/dhq/vol/8/2/000173/000173.html](http://digitalhumanities.org/dhq/vol/8/2/000173/000173.html).
 
 [^60]: For a summary of their specific suggestions for visual design, see Murray and Wiercinski, "Looking at Archival Sound."
 

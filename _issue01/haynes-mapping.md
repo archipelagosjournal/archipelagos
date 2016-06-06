@@ -119,8 +119,7 @@ emergence, and diversity of Caribbean cyberfeminisms:
 - Caribbean women, many of whom identify as feminists and are active in
  feminist and lesbian, gay, bisexual, and transgender (LGBT) organizing
  have created online networks for "women who love women." LGBT
- organizations such as Guyana's [Society Against Sexual Orientation
- Discrimination](http://www.sasod.org.gy), Trinidad and Tobago's
+ organizations such as Guyana's [Society Against Sexual Orientation Discrimination](http://www.sasod.org.gy), Trinidad and Tobago's
  [Coalition Advocating for Inclusion of Sexual
  Orientation](http://www.facebook.com/caiso), and St. Lucia's [United
  and Strong](http://unitedandstrongstlucia.wordpress.com) maintain a
@@ -386,7 +385,7 @@ Blog Name | Blogger | Country | Categorization
 [The Contessa Wears No Shoes](http://thecontessawearsnoshoes.blogspot.com) | | Trinidad & Tobago | Personal-is-political
 [Creative Commess](http://soyluv.wordpress.com) | Soyini Ayanna | Trinidad & Tobago/US | Culture critic, personal-is-political
 [Diary of a Mothering Worker](http://grrlscene.wordpress.com)| Gabrielle Hosein | Trinidad & Tobago| Feminist-academic, media crossover, personal-is-political, lture critic
-[Feminist Aliens](http://www.feministaliens.com) | | Barbados/South Africa/US | Culture critic, feminist-academic, curator, personal-is-political
+Feminist Aliens | | Barbados/South Africa/US | Culture critic, feminist-academic, curator, personal-is-political
 [Feminist Conversations on Caribbean Life](http://redforgender.wordpress.com) | | Barbados/Caribbean | Feminist-academic, culture critic
 [Freedom by Any Means](http://freedombyanymeans.wordpress.com) | Sherlina Nageer | Guyana | Media crossover, culture critic, personal-is-political
 [Generación Y](http://generacionyen.wordpress.com) | Yoani Sánchez | Cuba | +Feminism, personal-is-political, culture critic, media crossover
@@ -860,7 +859,7 @@ rhetorical devices (5)
 
 [^9]: See [http://www.change.org/p/we-did-it-angostura-has-said-they-will-pull-the-ad-thank-you-all.](http://www.change.org/p/we-did-it-angostura-has-said-they-will-pull-the-ad-thank-you-all)
 
-[^10]: See [http://www.buzzfeed.com/copyranter/another-liquor-company-creates-a-rapey-ad\#.gq9qOZmR1E.](http://www.buzzfeed.com/copyranter/another-liquor-company-creates-a-rapey-ad\#.gq9qOZmR1E)
+[^10]: See [http://www.buzzfeed.com/copyranter/another-liquor-company-creates-a-rapey-ad](http://www.buzzfeed.com/copyranter/another-liquor-company-creates-a-rapey-ad)
 
 [^11]: Malaika Brooks-Smith-Lowe, "Kickstarting the Goat Dairy in Grenada," *Guardian*, 30 August 2013, [http://www.theguardian.com/global-development-professionals-network/2013/aug/30/kickstarter-goat-dairy-grenada.](http://www.theguardian.com/global-development-professionals-network/2013/aug/30/kickstarter-goat-dairy-grenada)
 
@@ -868,7 +867,7 @@ rhetorical devices (5)
 
 [^13]: Patrice Daniel, "An Open Letter to Caribbean Men, from Caribbean Women," *RH Reality Check*, 12 March 2013, [http://rhrealitycheck.org/article/2013/03/12/an-open-letter-to-caribbean-men-from-caribbean-women.](http://rhrealitycheck.org/article/2013/03/12/an-open-letter-to-caribbean-men-from-caribbean-women)
 
-[^14]: See [www.sasod.org.gy](www.sasod.org.gy); [http://www.facebook.com/caiso](http://www.facebook.com/caiso); and [http://unitedandstrongstlucia.wordpress.com.](http://unitedandstrongstlucia.wordpress.com)
+[^14]: See [http://www.sasod.org.gy](http://www.sasod.org.gy); [http://www.facebook.com/caiso](http://www.facebook.com/caiso); and [http://unitedandstrongstlucia.wordpress.com.](http://unitedandstrongstlucia.wordpress.com)
 
 [^15]: See [http://www.facebook.com/AirMeNow](http://www.facebook.com/AirMeNow) and [http://www.youtube.com/playlist?list=PLLNiArTOn\_azPDdIR4FvkyepgRQrb9K8Y.](http://www.youtube.com/playlist?list=PLLNiArTOn\_azPDdIR4FvkyepgRQrb9K8Y)
 
@@ -910,7 +909,7 @@ rhetorical devices (5)
 
 [^34]: derevolushunwidin, trendsettah, and pieces2peace, *Add Fyah and Stir*, [http://addfyahandstir.wordpress.com/about.](http://addfyahandstir.wordpress.com/about)
 
-[^35]: Cate Young (BattyMamzelle), *Battymamzelle*, [http://battymamzelle.blogspot.com/p/about\_29.html\#.Vt7gU\_krIdU.](http://battymamzelle.blogspot.com/p/about\_29.html\#.Vt7gU\_krIdU)
+[^35]: Cate Young (BattyMamzelle), *Battymamzelle*, [http://battymamzelle.blogspot.com/](http://battymamzelle.blogspot.com/)
 
 [^36]: Carla Moore, *MooreTalkJa*, [http://mooretalkja.wordpress.com.](http://mooretalkja.wordpress.com)
 
@@ -946,7 +945,7 @@ rhetorical devices (5)
 
 [^52]: Sara Bharatt, "Three into One Definitely Can't Go, or Can It?," *Guyanese Experience*, 15 May 2015, [http://sarabharrat.wordpress.com/2015/05/15/three-into-one-definitely-cant-go-or-can-it.](http://sarabharrat.wordpress.com/2015/05/15/three-into-one-definitely-cant-go-or-can-it)
 
-[^53]: Sherlina Nageer, "No Women Died, This Is Not a Women's Issue," *Black Looks*, 15 August 2012, [http://www.blacklooks.org/2012/08/no-women-died-this-is-not-a-womens-issue;](http://www.blacklooks.org/2012/08/no-women-died-this-is-not-a-womens-issue) "End Sexual-Orientation and Gender-Identity Discrimination in Guyana," *Huffpost Gay Voices*, 10 July 2012 (updated 2 February 2016), [http://www.huffingtonpost.com/sherlina-nageer/guyana-lbt-rights\_b\_1663183.html;](http://www.huffingtonpost.com/sherlina-nageer/guyana-lbt-rights\_b\_1663183.html) "In Praise of Bad-john Lil Girls," *Feminist Conversations on Caribbean Life*, 21 August 2013, [http://redforgender.wordpress.com/2013/08/21/in-praise-of-bad-john-lil-girls.](http://redforgender.wordpress.com/2013/08/21/in-praise-of-bad-john-lil-girls) See [http://freedombyanymeans.wordpress.com](http://freedombyanymeans.wordpress.com).
+[^53]: Sherlina Nageer, "No Women Died, This Is Not a Women's Issue," *Black Looks*, 15 August 2012, [http://www.blacklooks.org/2012/08/no-women-died-this-is-not-a-womens-issue;](http://www.blacklooks.org/2012/08/no-women-died-this-is-not-a-womens-issue) "End Sexual-Orientation and Gender-Identity Discrimination in Guyana," *Huffpost Gay Voices*, 10 July 2012 (updated 2 February 2016), [http://www.huffingtonpost.com/sherlina-nageer/](http://www.huffingtonpost.com/sherlina-nageer/); "In Praise of Bad-john Lil Girls," *Feminist Conversations on Caribbean Life*, 21 August 2013, [http://redforgender.wordpress.com/2013/08/21/in-praise-of-bad-john-lil-girls.](http://redforgender.wordpress.com/2013/08/21/in-praise-of-bad-john-lil-girls) See [http://freedombyanymeans.wordpress.com](http://freedombyanymeans.wordpress.com).
 
 [^54]: Cate Young (BattyMamzelle), "The Hardest Word to Say Is Goodbye: Why I'm Quitting *Jezebel*," *BattyMamzelle*, 8 October 2013, [http://battymamzelle.blogspot.com/2013/10/Why-Im-Quitting-Jezebel.html\#.UlqP\_FCsim4.](http://battymamzelle.blogspot.com/2013/10/Why-Im-Quitting-Jezebel.html\#.UlqP\_FCsim4)
 
