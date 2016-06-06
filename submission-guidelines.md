@@ -33,10 +33,7 @@ mission. Your ideas are most welcome.
 Systems](https://pkp.sfu.ca/ojs/) (OJS) to manage peer-review workflow.
 We ask you to submit your article to <archipelagos@smallaxe.net>.
 
-1.  Once your article has been approved for review, we upload a copy to
-    OJS and send you an e-mail with instructions for setting up your
-    account and using OJS. The next steps describing file exchanges will
-    be handled primarily by OJS.
+1.  Once our call for papers is out you will be able to submit your article to OJS. The next steps describing file exchanges will be handled primarily by OJS, and you will receive appropriate instructions by email.
 
 2.  Articles are double-blind reviewed by our team of outside
     peer-reviewers and digital project reviews are reviewed by
@@ -48,8 +45,7 @@ We ask you to submit your article to <archipelagos@smallaxe.net>.
     spelling; and scrutinizes your notes. You will receive an updated
     file with suggestions from our copyeditor, which you will have
     approximately one week to accept, reject, or modify. This will be
-    your final review of your manuscript.**{Will they not, in the
-    future, be seeing the PDF for final review?}**
+    your final major review of your manuscript. We will send you a final PDF and a link to the site close to launch for final, minor edits.
 
 Throughout the editing and production process, please watch your e-mail
 for any last-minute queries from *sx archipelagos* editors. Your prompt
@@ -61,31 +57,23 @@ responses will help to maintain schedules.
 
 **Markdown (.md)**: Both our website and PDFs are built from the same
 Markdown files. While we gladly accept articles in Office format, we
-encourage our authors to submit plain text files (UTF-8 encoding)
-written using [Markdown
-syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-and saved as .md files. This will help us keep our workflow light and
-our file types closer to the production line. For some background on our
+encourage our authors to submit plain text files (UTF-8 encoding),
+written using [Kramdown syntax](http://kramdown.gettalong.org/syntax.html), a version of Markdown, and saved with the .md extension. This will help us keep our workflow light and our file types closer to the production line. For some background on our
 infrastructural choices, and to get started with Markdown, please take
-some time to read “[Sustainable Authorship in Plain Text using Pandoc
-and
-Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown),”
-by Dennis Tenen and Grant Whytoff. We sincerely appreciate those who
-accept the challenge of changing their work habits and are happy to
+some time to read “[Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown),” by Dennis Tenen and Grant Whytoff. We sincerely appreciate those who accept the challenge of changing their work habits and are happy to
 provide assistance during the process.
 
 **Office formats (.odt, .doc, .docx)**: If you find the Markdown workflow
 overwhelming, we will convert your Microsoft Word, LibreOffice, or
 OpenOffice files to Markdown ourselves at the end of the process. In
 order to minimize the work needed to convert your files into publishable
-format, please be sure to follow the guidelines and the below style
-guide closely. Two common practices in particular will make the
-transformation smoother: (1) Please use the Heading formatting style
-(Heading 2, Heading 3, etc.) to separate your sections, beginning with
-Heading 2; and (2) attach links to the text (as opposed to spelling them
-out).
+format, please be sure to follow our guidelines and style
+guide closely. Here are some specific formatting issues that will make our transformation work: 
 
-Please make sure to use normal quotation marks. Avoid the use of "smart quotes."
+1. Please use the Heading styles (i.e. Heading 2, Heading 3, etc.) to separate your sections, beginning with Heading 2. Indicating headings by using bold does not help us.
+2. Attach links to the text (as opposed to spelling them out). In footnotes, spell out the link, but also link to it as you would with text. 
+3. Remember to use `http://` and `https://` on your links or they won't work.
+4. Please make sure to use normal quotation marks. Avoid the use of "smart quotes."
 
 #### Images
 
@@ -100,7 +88,9 @@ least 800 pixels wide. We accept both JPGs and PNGs. Please use the
 following syntax in your documents, regardless of format, to indicate
 where you would like your images to be inserted:
 
-`!\[Caption - Credit\](file-name.jpg)`
+~~~
+!\[Caption - Credit\](file-name.jpg)
+~~~
 
 We ask that you name your image files using one or two keywords
 separated by a hyphen as in the example above. Please remember to
@@ -132,30 +122,30 @@ screenshot to appear:
 
 ### Hyperlinks
 
-Please ensure that all external and internal links in your document are
-working before submission. Many websites and Web pages disappear or
+All referenced pages (whenever possible and allowed by the site's robot.txt file) must point to a specific archived copy at [the Internet
+Archive](https://archive.org/index.php). They must also use an 301works (https://archive.org/details/301works) approved url shortener whenever they appear in text, especially in footnotes. Let us know if you need help with this process.
+
+Please ensure that all external and internal links in your document are working before submission. Many websites and Web pages disappear or
 become displaced over time. In order to avoid link rot, we run periodic
 build tests to ensure the viability of our internal and external links.
-When links stop working after publication, we try to provide an archived
-version of the page from [the Internet
-Archive](https://archive.org/index.php), where these are available.
 Despite these measures, some links will be lost in the years to come. In
 order to minimize the impact on your article, please provide appropriate
-citations when the links are fundamental to the argument.
+citations when the links are fundamental to the argument and you cannot provide an archived copy at the Internet Archive.
+
 
 ### External Documents
 
 When sharing external documents, do not link to Cloud storage services
 (e.g., Dropbox, Google Docs) or closed-access sources. In these cases,
 simply cite the documents. If you have permission to use them, you may
-be able to submit them with your files. We also welcome links to open
+be able to submit them with your files. We do welcome links to open
 institutional repositories.
 
 ### Tables
 
-If you would like to submit a table you can do so either as a separate PDF. We would then link to the table from within the text. Alternativaly, if you would like the table to display as you read your text you can submit it either as a .csv (Comma Separated Values) file or written directly in markdown, its final format. We do not accept tables in Office format.
+If you would like the table to display as you read your text you can submit it either as a .csv (Comma Separated Values) file or written directly in kramdown/markdown, its final format. In particular, we prefer  If you would like to submit a table you can do so as a separate PDF. We would then link to the table from within the text. Alternativaly, We do not accept tables in Office format.
 
-### Submission Guidelines for Digital Projects
+## Submission Guidelines for Digital Projects
 
 *sx archipelagos* accepts mid-stage digital scholarship projects beyond
 the article or monograph format for single-blind review. We offer the
@@ -339,7 +329,7 @@ Reference: *Merriam-Webster Collegiate*, Web.
 -   black middle-class Haitians
 
 
-### Translations
+#### Translations
 
 Non-English words are typically presented in italics. If appropriate,
 please provide English translations in parentheses immediately after
@@ -347,11 +337,11 @@ non-English words, phrases, or excerpts. If a non-English word is used
 repeatedly, it needs to be in italics only at first mention (with some
 exceptions). See *CMS* 11.87.
 
-### Which/That
+#### Which/That
 
 -   “Which” is nonrestrictive (use with a comma); “that” is restrictive.
 
-### Words as Words
+#### Words as Words
 
 When referring to words as the words themselves, use italics to set
 apart: “the terms *witchcraft* and *magic* became popular . . .”
