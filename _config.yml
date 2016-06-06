@@ -7,8 +7,9 @@ permalink:           none
 title:               "sx archipelagos"
 tagline:             ''
 description:         'a Small Axe journal of digital practice'
-url:                 'https://github.com/sx-archipelagos/'
+url:                 ''
 baseurl:             '/uncledrakedancingbachata'
+githuburl:           'https://github.com/sx-archipelagos/sxa'
 
 collections:
   issue01:
