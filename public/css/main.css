@@ -322,7 +322,7 @@ img.project-image-toc {
 }
 
 
-span.image-caption {
+span.caption {
   color: #939598;
   margin-top: -.66rem;
   font-size: .5rem;
@@ -357,7 +357,7 @@ span.image-caption {
 
 .media-caption {
         color: #939598;
-        font-size: .66rem;
+        font-size: .5rem;
         text-align: right;
 }
 

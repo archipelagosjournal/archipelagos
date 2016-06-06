@@ -374,7 +374,7 @@ audience connection and encourage dialogue beyond the space of the poem.
 {% include interactive.html
             type="youtube"
             url="https://www.youtube.com/embed/9OA8eLoPylU"
-            img="issue01/poet-performing-1.jpg"
+            img="issue01/maxi-man-youtube.jpg"
             title="2 Cents Project - Crystal Skeete - Maxi Man tracking School Gyal"
             caption="Figure 6. Crystal Skeete and the \"Maxi Man\" cast, University of the West Indies, St. Augustine Campus, Trinidad and Tobago. Posted on 23 June 2013." %}
 
