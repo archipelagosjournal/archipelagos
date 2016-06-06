@@ -754,13 +754,13 @@ Project working group at Barnard College and Columbia University.
 
 [^17]: Glissant, *Caribbean Discourse*, 64.
 
-[^18]: Claudio Saunt, *Invasion of America: How the United States Took Over an Eighth of the World*, video, 1:27, published 2 June 2014 by eHistory.org, [http://youtu.be/pJxrTzfG2bo](http://youtu.be/pJxrTzfG2bo.) For an interactive map, see [http://invasionofamerica.ehistory.org](http://invasionofamerica.ehistory.org.)
+[^18]: Claudio Saunt, *Invasion of America: How the United States Took Over an Eighth of the World*, video, 1:27, published 2 June 2014 by eHistory.org, [http://youtu.be/pJxrTzfG2bo](http://youtu.be/pJxrTzfG2bo). For an interactive map, see [http://invasionofamerica.ehistory.org](http://invasionofamerica.ehistory.org).
 
-[^19]: Vincent Brown, *Slave Revolt in Jamaica, 1760--1761: A Cartographic Narrative*, [http://revolt.axismaps.com](http://revolt.axismaps.com.) See also Vincent Brown, "Mapping a Slave Revolt: Visualizing Spatial History through the Archives of Slavery," *Social Text*, no. 125 (December 2015): 134--41.
+[^19]: Vincent Brown, *Slave Revolt in Jamaica, 1760--1761: A Cartographic Narrative*, [http://revolt.axismaps.com](http://revolt.axismaps.com). See also Vincent Brown, "Mapping a Slave Revolt: Visualizing Spatial History through the Archives of Slavery," *Social Text*, no. 125 (December 2015): 134--41.
 
 [^20]: Vincent Brown, "Narrative Interface for New Media History: Slave Revolt in Jamaica, 1760--1761," *American Historical Review* 121, no. 1 (2016): 176--86.
 
-[^21]: *Two Plantations: Enslaved Families in Virginia and Jamaica*, [http://www.twoplantations.com](http://www.twoplantations.com.)
+[^21]: *Two Plantations: Enslaved Families in Virginia and Jamaica*, [http://www.twoplantations.com](http://www.twoplantations.com).
 
 [^22]: Brown, "Narrative Interface," 178.
 
@@ -778,10 +778,10 @@ Project working group at Barnard College and Columbia University.
 
 [^29]: See Pedro L. San Miguel, *The Imagined Island: History, Identity, and Utopia in Hispaniola* (Chapel Hill: University of North Carolina Press, 2006).
 
-[^30]: Rory Carroll and Daniel Nasaw, "US Accused of Annexing Airport as Squabbling Hinders Aid Effort in Haiti," *Guardian* (UK), January 2010, [http://www.theguardian.com/world/2010/jan/17/us-accused-aid-effort-haiti](http://www.theguardian.com/world/2010/jan/17/us-accused-aid-effort-haiti.)
+[^30]: Rory Carroll and Daniel Nasaw, "US Accused of Annexing Airport as Squabbling Hinders Aid Effort in Haiti," *Guardian* (UK), January 2010, [http://www.theguardian.com/world/2010/jan/17/us-accused-aid-effort-haiti](http://www.theguardian.com/world/2010/jan/17/us-accused-aid-effort-haiti).
 
 [^31]: Benton, *Search for Sovereignty*, specifically chap. 5, "Landlocked: Colonial Enclaves and the Problem of Quasi-Sovereignty," 222--78.
 
 [^32]: See Bonilla, *Non-sovereign Futures*.
 
-[^33]: See Max Hantel, "Errant Notes on a Caribbean Rhizome," *Rhizomes: Cultural Studies in Emerging Knowledge* 24 (2012), [http://www.rhizomes.net/issue24/hantel.html](http://www.rhizomes.net/issue24/hantel.html;) "Intergenerational Geographies of Race and Gender: Tracing the Confluence of Afro-Caribbean and Feminist Thought beyond the Word of Man" (PhD diss., Rutgers University, New Brunswick, NJ, 2015).
+[^33]: See Max Hantel, "Errant Notes on a Caribbean Rhizome," *Rhizomes: Cultural Studies in Emerging Knowledge* 24 (2012), [http://www.rhizomes.net/issue24/hantel.html](http://www.rhizomes.net/issue24/hantel.html); "Intergenerational Geographies of Race and Gender: Tracing the Confluence of Afro-Caribbean and Feminist Thought beyond the Word of Man" (PhD diss., Rutgers University, New Brunswick, NJ, 2015).

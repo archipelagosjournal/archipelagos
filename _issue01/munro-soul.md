@@ -5,7 +5,7 @@ title:
   "long": "'Who Stole the Soul?' Rhythm and Race in the Digital Age"
   "short": "Who Stole the Soul?"
 author: 
-- name: Martin Munro
+- name: "Martin Munro"
   shortname: Munro
 date: "May 2016"
 issue: 1
