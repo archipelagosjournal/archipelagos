@@ -13,8 +13,8 @@ title: contributors
 
 ---
 
-## Brian Ballsun-Stanton
-Brian Ballsun-Stanton (Ph.D. University of New South Wales, 2012) is currently a Research Associate at Macquarie University in Sydney, Australia. His research interests include exploring how people interact with and understand the nature of data and an investigation into the mechanics of ludic-narrative interactions in games. He is the Technical Director and Data Architect for the Field Acquired Information Management Systems (FAIMS) Project.
+## Brian Ballsun-Stanton | Production editor
+[Brian Ballsun-Stanton](https://www.fedarch.org/) (Ph.D. University of New South Wales, 2012) is currently a Research Associate at Macquarie University in Sydney, Australia. His research interests include exploring how people interact with and understand the nature of data and an investigation into the mechanics of ludic-narrative interactions in games. He is the Technical Director and Data Architect for the Field Acquired Information Management Systems (FAIMS) Project.
 Department of Ancient History
 
 ## Yarimar Bonilla
@@ -70,6 +70,6 @@ Janet Neigh is Assistant Professor of English at Penn State Erie, The Behrend Co
 
 David Scott is Professor of Anthropology at Columbia University. He is the author of *Formations of Ritual: Colonial and Anthropological Discourses on the Sinhala Yaktovil* (Minnesota 1994), *Refashioning Futures: Criticism After Postcoloniality* (Princeton UP 1999), *Conscripts of Modernity: The Tragedy of Colonial Enlightenment* (Duke UP 2004), and *Omens of Adversity: Tragedy, Time, Memory, and Justice* (Duke UP 2014), and co-editor of *Powers of the Secular Modern: Talal and His Interlocutors* (Stanford UP). He is the founder and director of the Small Axe Project.
 
-## Dennis Tenen
+## Dennis Tenen | Prototype Architect
 
 [Dennis Tenen](http://denten.plaintext.in/) teaches English and Comparative Literature at Columbia University. Tenen's research happens at the intersection of people, texts, and technology. His recent work appeared on the pages of Computational Culture, boundary 2, and Modernism/modernity on topics that range from book piracy, to algorithmic composition, unintelligent design, and the history of data visualization. Tenen is a co-founder of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/){:target="_blank"}. His first book, *[Plain Text: The Poetics of Computation](http://xpmethod.plaintext.in/minimal-computing/plaintext.html)*, is forthcoming from Stanford University Press.

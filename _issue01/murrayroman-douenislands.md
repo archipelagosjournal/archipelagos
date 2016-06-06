@@ -175,18 +175,15 @@ tweeting subject.
 Alice Yard, Port of Spain, on 12 April 2014. Andre Bagoo, Sharon Millar,
 and Shivanee Ramlochan did not give their readings from lecterns, facing
 the audience; the poets were deliberately separated from their
-audiences,
-[reading](http://www.instagram.com/p/m9BmgSGxJS/?taken-by=douenislands)
+audiences, [reading](https://www.instagram.com/p/m9BmgSGxJS/)
 from a side room and through a slotted window or from behind a screen
 and with the trailer video for the event projected behind them or, in
-Ramlochan's case, silently
-[writing](http://www.instagram.com/p/m_SDXEGxJn/?taken-by=douenislands)
+Ramlochan's case, silently [writing](https://www.instagram.com/p/m_SDXEGxJn/)
 on the walls in chalk.[^12] As part of the performance, Kriston Chen
 engineered a soundtrack based on recordings of Sharda Patasar's sitar
 performances, now housed on the [Douen Islands Soundcloud
 page](http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar),
-and [Chen's visual
-work](http://www.instagram.com/p/m89WgVGxCB/?taken-by=douenislands) was
+and [Chen's visual work](http://www.instagram.com/p/m89WgVGxCB/) was
 projected throughout the space, inviting audience members to interact
 with both text and image.[^13] Within this event dedicated to douen
 voices and experimenting with constrained spaces, staging new
@@ -359,7 +356,7 @@ available for a few minutes to the public, the tweets do not constitute
 a stable and consistently accessible text in its screenic iteration as
 part of the Alice Yard performance. As visible in figure 1, the
 [Live-Tweet
-Stalls](http://www.instagram.com/p/m8-KI0GxDb/?taken-by=douenislands)
+Stalls](http://www.instagram.com/p/m8-KI0GxDb/)
 featured one tweet at a time rather than the entire feed. Warner's
 live-tweeting, which began at 5:13 p.m. and ended at 6:49 p.m., includes
 fifty-four tweets. With a rate of roughly one tweet every two minutes,
@@ -781,9 +778,9 @@ douen retains its capacity for devious and deviant paths.
 
 [^11]: See Geosi Gyasi, "Interview with Trinidadian Poet, Andre Bagoo," 25 April 2015, [http://geosireads.wordpress.com/2015/04/25/interview-with-trinidadian-poet-andre-bagoo](http://geosireads.wordpress.com/2015/04/25/interview-with-trinidadian-poet-andre-bagoo).
 
-[^12]: See [http://www.instagram.com/p/m9BmgSGxJS/?taken-by=douenislands](http://www.instagram.com/p/m9BmgSGxJS/?taken-by=douenislands); and [http://www.instagram.com/p/m\_SDXEGxJn/?taken-by=douenislands](http://www.instagram.com/p/m\_SDXEGxJn/?taken-by=douenislands). See also performance stills included in Ramlochan's review of the event, "An Evening of Alice Yard Douens," 14 April 2014, [http://www.bocaslitfest.com/2014/an-evening-of-alice-yard-douens](http://www.bocaslitfest.com/2014/an-evening-of-alice-yard-douens).
+[^12]: See [http://www.instagram.com/p/m9BmgSGxJS](http://www.instagram.com/p/m9BmgSGxJS/); and [http://www.instagram.com/p/m\_SDXEGxJn/](http://www.instagram.com/p/m_SDXEGxJn/). See also performance stills included in Ramlochan's review of the event, "An Evening of Alice Yard Douens," 14 April 2014, [http://www.bocaslitfest.com/2014/an-evening-of-alice-yard-douens](http://www.bocaslitfest.com/2014/an-evening-of-alice-yard-douens).
 
-[^13]: See [http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar](http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar); and [http://www.instagram.com/p/m89WgVGxCB/?taken-by=douenislands](http://www.instagram.com/p/m89WgVGxCB/?taken-by=douenislands).
+[^13]: See [http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar](http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar); and [http://www.instagram.com/p/m89WgVGxCB/](http://www.instagram.com/p/m89WgVGxCB/).
 
 [^14]: The 2009 version of this work was installed and exhibited at Alice Yard; its 2010 and 2011 Erotic Art Week installations took place at the Bohemia Gallery in Port of Spain.
 
