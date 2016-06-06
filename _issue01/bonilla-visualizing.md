@@ -108,7 +108,7 @@ This history of fractured, uneven, contested, and negotiated sovereignty
 continues to shape the region as a whole, and at present the *majority*
 of societies in the Caribbean are not independent nation-states but
 rather protectorates, territories, departments, and commonwealths (see
-appendix). In addition, the Caribbean also holds a large number of
+[appendix]({{site.baseurl}}/assets/extra/issue01-bonilla-appendix.pdf)). In addition, the Caribbean also holds a large number of
 nonsovereign enclaves: military bases, privately owned islands,
 semiautonomous tourist resorts, free-trade zones, tax havens, wildlife
 preserves, satellite launching stations, detention centers, penal
