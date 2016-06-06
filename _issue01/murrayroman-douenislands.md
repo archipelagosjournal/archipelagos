@@ -208,7 +208,7 @@ this interaction between the private and the social is a long-held
 interest. One of his early installation pieces, "Photobooth," generated
 this dynamic. An interactive photography installation first assembled
 during the 2009 Erotic Art Week Port of Spain at Alice Yard,[^14] Warner
-created what Dave Williams describes as a "tiny white cocoon, . . .
+created what Dave Williams describes as a "tiny white cocoon, ...
 shrouded off from the rest of the small Alice Yard annex by draping
 yards of white fabric from the ceiling," in which participants were
 invited to stage their full-body portraits with as much of their bodies
@@ -537,8 +537,8 @@ poetry reading:[^34]
 
 {% include image.html
             img="issue01/douenislands-invitation.jpg"
-            title="Screencapture of 'In Forest and Wild Skies' invitation posted on douenislands.tumblr.com, taken 19 May 2014."
-            caption="Figure 4. Screencapture of 'In Forest and Wild Skies' invitation posted on douenislands.tumblr.com, taken 19 May 2014." %}
+            title="Screencapture of \'In Forest and Wild Skies\' invitation posted on douenislands.tumblr.com, taken 19 May 2014."
+            caption="Figure 4. Screencapture of \'In Forest and Wild Skies\' invitation posted on douenislands.tumblr.com, taken 19 May 2014." %}
 
 
 
