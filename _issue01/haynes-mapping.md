@@ -25,7 +25,7 @@ conversation on gender-based violence away from what they deemed
 "victim-blaming" and "slut-shaming" toward one of state accountability
 and respect for women's autonomy and bodily integrity. The leaders of
 the feminist organization womantra were among those identified as
-coordinating the protest action and media engagement. womantra is one of
+coordinating the protest action and media engagement. Womantra is one of
 the most vibrant, feminist Pan-Caribbean online spaces linked to
 on-the-ground action in Trinidad and Tobago. Such spaces serve as a key
 ground for mobilizing Caribbean feminist constituencies, as evidenced by
@@ -878,7 +878,7 @@ rhetorical devices (5)
 
 [^18]: See [http://redforgender.wordpress.com/e-mas-caribbean-blog-carnival.](http://redforgender.wordpress.com/e-mas-caribbean-blog-carnival)
 
-[^19]: Matthew Hunte, "Blog Carnival Shows the Caribbean Some Love," *Global Voices*, 4 February 2014, [http://globalvoices.org/2014/02/04/blog-carnival-shows-the-caribbean-some-love;](http://globalvoices.org/2014/02/04/blog-carnival-shows-the-caribbean-some-love); Shivanee Ramlochen, "Bloggers' Paradise," *Trinidad* *Guardian*, 16 February 2014, B29, [http://digital.guardian.co.tt/default.aspx?iid=87563&startpage=page0000101\#folio=100;](http://digital.guardian.co.tt/default.aspx?iid=87563&startpage=page0000101\#folio=100) Juliana Britto Schwartz, "This Week in Feminism South of the Border," Feministing.com, 31 January 2014, [http://feministing.com/2014/01/31/this-week-in-feminism-south-of-the-border-2.](http://feministing.com/2014/01/31/this-week-in-feminism-south-of-the-border-2)
+[^19]: Matthew Hunte, "Blog Carnival Shows the Caribbean Some Love," *Global Voices*, 4 February 2014, [http://globalvoices.org/2014/02/04/blog-carnival-shows-the-caribbean-some-love;](http://globalvoices.org/2014/02/04/blog-carnival-shows-the-caribbean-some-love) Shivanee Ramlochen, "Bloggers' Paradise," *Trinidad* *Guardian*, 16 February 2014, B29, [http://digital.guardian.co.tt/default.aspx?iid=87563&startpage=page0000101\#folio=100;](http://digital.guardian.co.tt/default.aspx?iid=87563&startpage=page0000101\#folio=100) Juliana Britto Schwartz, "This Week in Feminism South of the Border," Feministing.com, 31 January 2014, [http://feministing.com/2014/01/31/this-week-in-feminism-south-of-the-border-2.](http://feministing.com/2014/01/31/this-week-in-feminism-south-of-the-border-2)
 
 [^20]: Ramlochen, "Bloggers' Paradise."
 
@@ -902,7 +902,7 @@ rhetorical devices (5)
 
 [^30]: Zahira Kelly (Bad Dominicana) quotes Cate Young (BattyMamzelle), "This Is What I Mean When I Say 'White Feminism," imploring, "Please everybody: read this article!" [http://bad-dominicana.tumblr.com/post/138419448358/white-feminism-does-not-mean-every-white-woman;](http://bad-dominicana.tumblr.com/post/138419448358/white-feminism-does-not-mean-every-white-woman) *BattyMamzelle*, 10 January 2014, [http://battymamzelle.blogspot.com/2014/01/This-Is-What-I-Mean-When-I-Say-White-Feminism.html\#.VwxPjXqYuCf.](http://battymamzelle.blogspot.com/2014/01/This-Is-What-I-Mean-When-I-Say-White-Feminism.html\#.VwxPjXqYuCf)
 
-[^31]: Annie Paul, *Active Voice*, anniepaul.net; Mar the Mongoose, *The Mongoose Chronicles*, [http://mongoosechronicles.blogspot.com.](http://mongoosechronicles.blogspot.com)
+[^31]: Annie Paul, *Active Voice*, [http://anniepaul.net](http://anniepaul.net); Mar the Mongoose, *The Mongoose Chronicles*, [http://mongoosechronicles.blogspot.com.](http://mongoosechronicles.blogspot.com)
 
 [^32]: Gabrielle Hosein, *Diary of a Mothering Worker*, [http://grrlscene.wordpress.com/souldeya.](http://grrlscene.wordpress.com/souldeya)
 
@@ -946,7 +946,7 @@ rhetorical devices (5)
 
 [^52]: Sara Bharatt, "Three into One Definitely Can't Go, or Can It?," *Guyanese Experience*, 15 May 2015, [http://sarabharrat.wordpress.com/2015/05/15/three-into-one-definitely-cant-go-or-can-it.](http://sarabharrat.wordpress.com/2015/05/15/three-into-one-definitely-cant-go-or-can-it)
 
-[^53]: Sherlina Nageer, "No Women Died, This Is Not a Women's Issue," *Black Looks*, 15 August 2012, [http://www.blacklooks.org/2012/08/no-women-died-this-is-not-a-womens-issue;](http://www.blacklooks.org/2012/08/no-women-died-this-is-not-a-womens-issue); "End Sexual-Orientation and Gender-Identity Discrimination in Guyana," *Huffpost Gay Voices*, 10 July 2012 (updated 2 February 2016), [http://www.huffingtonpost.com/sherlina-nageer/guyana-lbt-rights\_b\_1663183.html;](http://www.huffingtonpost.com/sherlina-nageer/guyana-lbt-rights\_b\_1663183.html) "In Praise of Bad-john Lil Girls," *Feminist Conversations on Caribbean Life*, 21 August 2013, [http://redforgender.wordpress.com/2013/08/21/in-praise-of-bad-john-lil-girls.](http://redforgender.wordpress.com/2013/08/21/in-praise-of-bad-john-lil-girls) See [http://freedombyanymeans.wordpress.com](http://freedombyanymeans.wordpress.com)
+[^53]: Sherlina Nageer, "No Women Died, This Is Not a Women's Issue," *Black Looks*, 15 August 2012, [http://www.blacklooks.org/2012/08/no-women-died-this-is-not-a-womens-issue;](http://www.blacklooks.org/2012/08/no-women-died-this-is-not-a-womens-issue) "End Sexual-Orientation and Gender-Identity Discrimination in Guyana," *Huffpost Gay Voices*, 10 July 2012 (updated 2 February 2016), [http://www.huffingtonpost.com/sherlina-nageer/guyana-lbt-rights\_b\_1663183.html;](http://www.huffingtonpost.com/sherlina-nageer/guyana-lbt-rights\_b\_1663183.html) "In Praise of Bad-john Lil Girls," *Feminist Conversations on Caribbean Life*, 21 August 2013, [http://redforgender.wordpress.com/2013/08/21/in-praise-of-bad-john-lil-girls.](http://redforgender.wordpress.com/2013/08/21/in-praise-of-bad-john-lil-girls) See [http://freedombyanymeans.wordpress.com](http://freedombyanymeans.wordpress.com).
 
 [^54]: Cate Young (BattyMamzelle), "The Hardest Word to Say Is Goodbye: Why I'm Quitting *Jezebel*," *BattyMamzelle*, 8 October 2013, [http://battymamzelle.blogspot.com/2013/10/Why-Im-Quitting-Jezebel.html\#.UlqP\_FCsim4.](http://battymamzelle.blogspot.com/2013/10/Why-Im-Quitting-Jezebel.html\#.UlqP\_FCsim4)
 
@@ -956,7 +956,7 @@ rhetorical devices (5)
 
 [^57]: Paasonen, "Rethinking Cyberfeminism," 347.
 
-[^58]: See [http://www.stabroeknews.com/category/features/in-the-diaspora;](http://www.stabroeknews.com/category/features/in-the-diaspora); [http://www.outlish.com;](http://www.outlish.com); [http://blackgirlinthering.com;](http://blackgirlinthering.com) and [http://www.complexdwoman.co.uk.](http://www.complexdwoman.co.uk)
+[^58]: See [http://www.stabroeknews.com/category/features/in-the-diaspora;](http://www.stabroeknews.com/category/features/in-the-diaspora); [http://www.outlish.com;](http://www.outlish.com) [http://blackgirlinthering.com;](http://blackgirlinthering.com) and [http://www.complexdwoman.co.uk.](http://www.complexdwoman.co.uk)
 
 [^59]: See Curwen Best, *The Politics of Caribbean Cyber Culture* (New York: Palgrave Macmillan, 2008).
 

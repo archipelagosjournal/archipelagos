@@ -48,7 +48,7 @@ key term here, since it denotes a process of cultural and social
 transference, a movement for some across the "barricades" around which,
 George says, rhythm and blues music had been formed.[^2] Socially, by
 the mid-1970s, a degree of integration and upward mobility had become
-possible through civil-service jobs, low- and middle-level management
+possible through civil-service jobs, low- and mid-level management
 positions, and increased college attendance. These factors, George says,
 "affected the pocketbooks and tastes of black America," and he laments
 this process, arguing that "much of what had made the R&B world work was
@@ -191,7 +191,7 @@ rhythm; rhythm, he said, was "an essential element of the black
 man."[^13] Much later, Antonio Benítez-Rojo wrote of the rhythmic
 culture of the Caribbean, albeit in less essentialist terms, citing the
 importance of African rhythms to the region's cultures: "Black Africa
-has an even greater dependence on rhythm \[than India\]. . . . In
+has an even greater dependence on rhythm \[than India\]... . In
 reality, it can be said that African culture's genes have been codified
 according to the possibilities of percussion. African culture is, above
 all, a thicket of systems of percussive signifiers, to whose rhythms and
@@ -345,14 +345,14 @@ the ones who gave the modern world its musical humanity" and that "there
 is little disjuncture between African sensibilities and
 technologies."[^25] Henriques's *Sonic Bodies* shows how dancehall
 "riddims" draw on Kumina rhythms and that, as such, "ancient old-world
-African traditions 'come up to the time' . . . with the latest digital
+African traditions 'come up to the time' ... with the latest digital
 technologies."[^26] His analysis of the figure of the emcee further
 demonstrates the dynamic fusion of traditional performance motifs and
 ultra-contemporary technological innovation to create a form that
 constantly renews itself. Henriques talks of how under the emcee's
 direction "rhythmic energies flood the show" and of how these energies
 range from the "electromagnetic flows within the set, such as the forces
-of electrical currents . . . to the audio-cultural flows of the music,
+of electrical currents ... to the audio-cultural flows of the music,
 the musical flow of the selector's segueing from one track to the next,
 the corporeal and kinetic flow of the crowd, and the socio-cultural flow
 of the emcee's lyrics themselves."[^27] Rhythm in this context is
@@ -650,7 +650,7 @@ politicized notion of blackness (and perhaps race more broadly) to come?
 
 [^11]: Jacqueline Rosemain, *La Danse aux Antilles: Des rythmes sacrés au zouk* (Paris: L'Harmattan, 1990), 34, 37 (translation mine).
 
-[^12]: Gérard Barthélemy agrees that "there is nothing in rhythm that is due to a particular morphology, and even, less to race; genetics clearly have nothing to do with it. Everything is on the contrary the result of automatisms, themselves due to a long apprenticeship in the course of growing up." Gérard Barthélemy, *Créoles-Bossales: Conflit en Haïti* (Petit-Bourg, Guadeloupe: Ibis Rouge, 2000), 173 (translation mine). For example, in his seminal study, John Miller Chernoff talks of the functional importance of rhythm at all levels and all ages in African existence: "African children play games and sing songs displaying a rhythmic character . . . learn to speak languages in which proper rhythmic accentuation and phrasing is essential to meaning. . . . Facility with rhythms is something people learn as they grow up in an African culture, one of the many cultural acquisitions that make someone seem familiar to people who have also learned the same things. Rhythms are built into the way people relate to each other." John Miller Chernoff, *African Rhythm and African Sensibility* (Chicago: University of Chicago Press, 1979), 94. Miller's project examines the sociocultural significance of African rhythm and music and their deep "integration into the various patterns of social, economic, and political life" (35).
+[^12]: Gérard Barthélemy agrees that "there is nothing in rhythm that is due to a particular morphology, and even, less to race; genetics clearly have nothing to do with it. Everything is on the contrary the result of automatisms, themselves due to a long apprenticeship in the course of growing up." Gérard Barthélemy, *Créoles-Bossales: Conflit en Haïti* (Petit-Bourg, Guadeloupe: Ibis Rouge, 2000), 173 (translation mine). For example, in his seminal study, John Miller Chernoff talks of the functional importance of rhythm at all levels and all ages in African existence: "African children play games and sing songs displaying a rhythmic character ... learn to speak languages in which proper rhythmic accentuation and phrasing is essential to meaning... . Facility with rhythms is something people learn as they grow up in an African culture, one of the many cultural acquisitions that make someone seem familiar to people who have also learned the same things. Rhythms are built into the way people relate to each other." John Miller Chernoff, *African Rhythm and African Sensibility* (Chicago: University of Chicago Press, 1979), 94. Miller's project examines the sociocultural significance of African rhythm and music and their deep "integration into the various patterns of social, economic, and political life" (35).
 
 [^13]: Quoted in Jacqueline Sieger, "Entretien avec Aimé Césaire," *Afrique* 5 (October 1961): 65.
 
