@@ -491,10 +491,10 @@ challenges and reorganizations that have characterized the region.[^28]
 
 {% include image.html
             img="issue01/bonilla-video.jpg"
-            title="*Visualizing Sovereignty in the Postcolonial
-Caribbean*, 2016"
-            caption="Screenshot of *Visualizing Sovereignty in the Postcolonial
-Caribbean*, 2016; animated video designed by Yarimar Bonilla and Max
+            title="\"Visualizing Sovereignty in the Postcolonial
+Caribbean\", 2016"
+            caption="Screenshot of \"Visualizing Sovereignty in the Postcolonial
+Caribbean\", 2016; animated video designed by Yarimar Bonilla and Max
 Hantel and produced by Kindea Labs. Video forthcoming." %}
 
 The video begins with a traditional geographic map of the Caribbean but
