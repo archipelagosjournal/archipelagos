@@ -1,6 +1,7 @@
 ---
 layout: page
 title: about us
+author: Kaiama L. Glover & Alex Gil
 ---
 
 The transformation of the academy by the digital dispensation presents
