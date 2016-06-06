@@ -786,12 +786,10 @@ this vital record of Caribbean poetry history a priority.
     Nation Language in Anglophone Caribbean Poetry* (London: New Beacon,
     1984), 13.
 
-[^2]: See writing.upenn.edu/pennsound;[http://www.poetryarchive.org](http://www.poetryarchive.org;)
-   [http://www.poetryfoundation.org](http://www.poetryfoundation.org;) [http://www.poets.org](http://www.poets.org;) and[http://www.ubuweb.com](http://www.ubuweb.com.)
+[^2]: See [http://writing.upenn.edu/pennsound](http://writing.upenn.edu/pennsound); [http://www.poetryarchive.org](http://www.poetryarchive.org;); [http://www.poetryfoundation.org](http://www.poetryfoundation.org;) [http://www.poets.org](http://www.poets.org;) and[http://www.ubuweb.com](http://www.ubuweb.com.)
 
 [^3]: See "PennSound Transforms How Poetry Is Taught the World Over,"
-    *Penn News*, 26 June 2014,
-   [http://www.upenn.edu/pennnews/news/pennsound-transforms-how-poetry-taught-world-over](http://www.upenn.edu/pennnews/news/pennsound-transforms-how-poetry-taught-world-over.)
+    *Penn News*, 26 June 2014, [http://www.upenn.edu/pennnews/news/pennsound-transforms-how-poetry-taught-world-over](http://www.upenn.edu/pennnews/news/pennsound-transforms-how-poetry-taught-world-over.)
 
 [^4]: For a discussion of race in digital canons, see Amy E. Earhart,
     "Can Information Be Unfettered? Race and the New Digital Humanities
@@ -807,9 +805,7 @@ this vital record of Caribbean poetry history a priority.
 [^5]: Laurence A. Breiner, "The Half-Life of Performance Poetry,"
     *Journal of West Indian Literature* 8, no. 1 (1998): 20.
 
-[^6]: See twitter.com/2CentsMovement;
-   [http://www.facebook.com/The2CentsMovement](http://www.facebook.com/The2CentsMovement;) and
-   [http://www.youtube.com/user/TheTwoCentsMovement](http://www.youtube.com/user/TheTwoCentsMovement.)
+[^6]: See twitter.com/2CentsMovement; [http://www.facebook.com/The2CentsMovement](http://www.facebook.com/The2CentsMovement;) and [http://www.youtube.com/user/TheTwoCentsMovement](http://www.youtube.com/user/TheTwoCentsMovement.)
 
 [^7]: Brathwaite, *History of the Voice*, 13.
 
@@ -873,7 +869,7 @@ this vital record of Caribbean poetry history a priority.
     collections such as the [Digital Library of the
     Caribbean](http://www.dloc.com), while excellent, primarily hold
     literary materials converted from print documents. See
-    radiohaitilives.com and[http://www.dloc.com](http://www.dloc.com.)
+    radiohaitilives.com and [http://www.dloc.com](http://www.dloc.com.)
 
 [^22]: Jean Claude Cournand, quoted in Bobie-lee Dixon, "Not Afraid to
     Put In Their '2 Cents,'" *Trinidad and Tobago Guardian*, 16 July
@@ -889,16 +885,10 @@ this vital record of Caribbean poetry history a priority.
     "The Spoken Word Intercol Champion," *Bocas News*,
    [http://www.bocaslitfest.com/2015/the-spoken-word-intercol-champion-is](http://www.bocaslitfest.com/2015/the-spoken-word-intercol-champion-is.)
 
-[^25]: See
-   [http://www.youtube.com/playlist?list=PLsZJUoc\_yr1ufNZGIsFg74Fl3yuZTNU9k](http://www.youtube.com/playlist?list=PLsZJUoc\_yr1ufNZGIsFg74Fl3yuZTNU9k.)
+[^25]: See [http://www.youtube.com/playlist?list=PLsZJUoc\_yr1ufNZGIsFg74Fl3yuZTNU9k](http://www.youtube.com/playlist?list=PLsZJUoc\_yr1ufNZGIsFg74Fl3yuZTNU9k.)
 
 [^26]: See twitter.com/2CentsMovement. See also the individual albums on
-    2 Cents Movement's Facebook page,
-   [http://www.facebook.com/The2CentsMovement](http://www.facebook.com/The2CentsMovement,) where some of the school tour
-    photos are collected, including all images in this essay; for
-    example, see the album "Five Rivers Sec---Speak Out Tour 2014---Day 27,"
-   [http://www.facebook.com/media/set/?set=a.610565055739844.1073741948.125245237605164&type=3](http://www.facebook.com/media/set/?set=a.610565055739844.1073741948.125245237605164&type=3.)
-    For information on the current Courts Bocas Speak Out Tour, see
+    2 Cents Movement's Facebook page, [http://www.facebook.com/The2CentsMovement](http://www.facebook.com/The2CentsMovement,) where some of the school tour photos are collected, including all images in this essay; for example, see the album "Five Rivers Sec---Speak Out Tour 2014---Day 27,"[http://www.facebook.com/media/set/?set=a.610565055739844.1073741948.125245237605164&type=3](http://www.facebook.com/media/set/?set=a.610565055739844.1073741948.125245237605164&type=3.) For information on the current Courts Bocas Speak Out Tour, see
    [http://www.bocaslitfest.com/courts-bocas-speak-out](http://www.bocaslitfest.com/courts-bocas-speak-out.)
 
 [^27]: Dhiraj Murthy, *Twitter: Social Communication in the Twitter Age*
@@ -945,15 +935,11 @@ this vital record of Caribbean poetry history a priority.
     Palgrave Macmillan, 2008), 4.
 
 [^38]: Tanya Barrientos, "Penn's Rich Poetry Legacy," *Penn Current*, 20
-    May 2010,
-   [http://www.upenn.edu/pennnews/current/2010-05-20/features/penn's-rich-poetry-legacy](http://www.upenn.edu/pennnews/current/2010-05-20/features/penn's-rich-poetry-legacy.)
+    May 2010, [http://www.upenn.edu/pennnews/current/2010-05-20/features/penn's-rich-poetry-legacy](http://www.upenn.edu/pennnews/current/2010-05-20/features/penn's-rich-poetry-legacy.)
 
-[^39]: See [http://writing.upenn.edu/pennsound/x/Brathwaite.php](http://writing.upenn.edu/pennsound/x/Brathwaite.php;)
-    [http://writing.upenn.edu/pennsound/x/Philip.php](http://writing.upenn.edu/pennsound/x/Philip.php;) and
-    [http://writing.upenn.edu/pennsound/x/Bennett.php](http://writing.upenn.edu/pennsound/x/Bennett.php.)
+[^39]: See [http://writing.upenn.edu/pennsound/x/Brathwaite.php](http://writing.upenn.edu/pennsound/x/Brathwaite.php;); [http://writing.upenn.edu/pennsound/x/Philip.php](http://writing.upenn.edu/pennsound/x/Philip.php;); and [http://writing.upenn.edu/pennsound/x/Bennett.php](http://writing.upenn.edu/pennsound/x/Bennett.php.)
 
-[^40]: Charles Bernstein, "PennSound Manifesto," PennSound, 2003,
-    [http://writing.upenn.edu/pennsound/manifesto.php](http://writing.upenn.edu/pennsound/manifesto.php.)
+[^40]: Charles Bernstein, "PennSound Manifesto," PennSound, 2003, [http://writing.upenn.edu/pennsound/manifesto.php](http://writing.upenn.edu/pennsound/manifesto.php.)
 
 [^41]: Astra Taylor, *The People's Platform: Taking Back Power and
     Culture in the Digital Age* (New York: Picador, 2014), 153.
@@ -962,25 +948,18 @@ this vital record of Caribbean poetry history a priority.
 
 [^43]: Center for Social Media and the Poetry Foundation, *Code for Best
     Practices in Fair Use for Poetry* (Washington, DC: American
-    University, 2011),
-    [http://www.poetryfoundation.org/foundation/bestpractices](http://www.poetryfoundation.org/foundation/bestpractices).
+    University, 2011), [http://www.poetryfoundation.org/foundation/bestpractices](http://www.poetryfoundation.org/foundation/bestpractices).
 
 [^44]: Kate Eichhorn, "Past Performance, Present Dilemma: A Poetics of
     Archiving Sound," *Mosaic* 42, no. 1 (2009): 187, 190, 184.
 
 [^45]: See caribbeanpoetry.educ.cam.ac.uk.
 
-[^46]: See[http://www.poetryarchive.org/collection/caribbean-poetry-0](http://www.poetryarchive.org/collection/caribbean-poetry-0;) and
-   [http://www.poetryarchive.org/articles/guide-language-caribbean-poetry](http://www.poetryarchive.org/articles/guide-language-caribbean-poetry.)
+[^46]: See [http://www.poetryarchive.org/collection/caribbean-poetry-0](http://www.poetryarchive.org/collection/caribbean-poetry-0;) and [http://www.poetryarchive.org/articles/guide-language-caribbean-poetry](http://www.poetryarchive.org/articles/guide-language-caribbean-poetry.)
 
-[^47]: Earhart, "Can Information Be Unfettered?,"
-    [dhdebates.gc.cuny.edu](http://dhdebates.gc.cuny.edu)/debates/text/16,
-    para. 15.
+[^47]: Earhart, "Can Information Be Unfettered?," [dhdebates.gc.cuny.edu](http://dhdebates.gc.cuny.edu)/debates/text/16, para. 15.
 
-[^48]: Linton Kwesi Johnson, "Di Great Insohreckshan,"
-   [http://www.poetryarchive.org/poem/di-great-insohreckshan](http://www.poetryarchive.org/poem/di-great-insohreckshan.) Johnson, "Di
-    Great Insohreckshan," YouTube video, 2:00, posted by Oscar David De
-    Barros, 25 January 2013,[http://www.youtube.com/watch?v=IUNQS7Pwwu4](http://www.youtube.com/watch?v=IUNQS7Pwwu4.)
+[^48]: Linton Kwesi Johnson, "Di Great Insohreckshan," [http://www.poetryarchive.org/poem/di-great-insohreckshan](http://www.poetryarchive.org/poem/di-great-insohreckshan.) Johnson, "Di Great Insohreckshan," YouTube video, 2:00, posted by Oscar David De Barros, 25 January 2013,[http://www.youtube.com/watch?v=IUNQS7Pwwu4](http://www.youtube.com/watch?v=IUNQS7Pwwu4.)
 
 [^49]: Brathwaite, *History of the Voice*, 46.
 
@@ -996,9 +975,7 @@ this vital record of Caribbean poetry history a priority.
     which interrupts nothing, which is in fact deployed to remove
     interruption, to remove digression and to clarify" (36).
 
-[^52]: Linton Kwesi Johnson author page at the Poetry Archive,
-   [http://www.poetryarchive](http://www.poetryarchive.)org/poet/linton-kwesi-johnson (accessed 23 July
-    2015).
+[^52]: Linton Kwesi Johnson author page at the Poetry Archive, [http://www.poetryarchive](http://www.poetryarchive.)org/poet/linton-kwesi-johnson (accessed 23 July 2015).
 
 [^53]: Onuora, quoted in Morris, *Is English We Speaking*, 38.
 
