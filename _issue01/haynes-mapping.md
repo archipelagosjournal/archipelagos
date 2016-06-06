@@ -842,170 +842,91 @@ rhetorical devices (5)
 
 ---
 
-[^1]: Sean Douglas, "Mayor: Beware Dangerous Sub-cultures," *Trinidad
-    and Tobago Newsday*, 11 February 2016,
-    [http://www.newsday.co.tt/news/0,223841.html.](http://www.newsday.co.tt/news/0,223841.html)
+[^1]: Sean Douglas, "Mayor: Beware Dangerous Sub-cultures," *Trinidad and Tobago Newsday*, 11 February 2016, [http://www.newsday.co.tt/news/0,223841.html.](http://www.newsday.co.tt/news/0,223841.html)
 
-[^2]: "Ordinary Jamaicans Know Nothing about Twitter, Says Pickersgill,"
-    *Jamaica Observer*, 26 November 2014,
-    [http://www.jamaicaobserver.com/news/Ordinary-Jamaicans-know-nothing-about-Twitter--says-Pickersgill.](http://www.jamaicaobserver.com/news/Ordinary-Jamaicans-know-nothing-about-Twitter--says-Pickersgill.)
+[^2]: "Ordinary Jamaicans Know Nothing about Twitter, Says Pickersgill," *Jamaica Observer*, 26 November 2014, [http://www.jamaicaobserver.com/news/Ordinary-Jamaicans-know-nothing-about-Twitter--says-Pickersgill.](http://www.jamaicaobserver.com/news/Ordinary-Jamaicans-know-nothing-about-Twitter--says-Pickersgill.)
 
-[^3]: "Hazel Brown: Making a Difference," *Newsday*, 21 April 2013,
-    [http://www.newsday.co.tt/features/0,176606.html.](http://www.newsday.co.tt/features/0,176606.html)
+[^3]: "Hazel Brown: Making a Difference," *Newsday*, 21 April 2013, [http://www.newsday.co.tt/features/0,176606.html.](http://www.newsday.co.tt/features/0,176606.html)
 
-[^4]: Pearson Broome and Emmanuel Adugu, "Whither Social Media for
-    Digital Activism: The Case of the Caribbean," *British Journal of
-    Education, Society, and Behavioural Science* 10, no. 3 (2015): 1--21;
-    Kristina Hinds Harrison, "Virtual Shop Fronts: The Internet, Social
-    Media, and Caribbean Civil Society Organisations," *Globalizations*
-    11, no. 6 (2014): 751--66.
+[^4]: Pearson Broome and Emmanuel Adugu, "Whither Social Media for Digital Activism: The Case of the Caribbean," *British Journal of Education, Society, and Behavioural Science* 10, no. 3 (2015): 1--21; Kristina Hinds Harrison, "Virtual Shop Fronts: The Internet, Social Media, and Caribbean Civil Society Organisations," *Globalizations* 11, no. 6 (2014): 751--66.
 
-[^5]: Marcia A. Forbes, *Streaming*, vol. 1, *\#Social Media, Mobile
-    Lifestyles* (Kingston: Phase Three, 2012); Daniel Miller and Don
-    Slater, *The Internet: An Ethnographic Approach* (Oxford: Berg,
-    2000); Daniel Miller, *Tales from Facebook* (Cambridge: Polity,
-    2011); Kevin Adonis Browne, *Tropic Tendencies: Rhetoric, Popular
-    Culture, and the Anglophone Caribbean* (Pittsburgh: University of
-    Pittsburgh Press, 2013); Bernard Jankee, "The Word in Cyberspace:
-    Constructing Jamaican Identity on the Internet," in Annie Paul, ed.,
-    *Caribbean Culture: Soundings on Kamau Brathwaite* (Kingston:
-    University of the West Indies Press, 2007); Annie Paul, "Log On:
-    Towards Social and Digital Islands," in Michael Bucknor and Alison
-    Donnell, eds., *The Routledge Companion to Anglophone Caribbean
-    Literature* (Abingdon, UK: Routledge, 2011); Rachel Afi Quinn, "This
-    Bridge Called the Internet: Black Lesbian Feminist Organizing in
-    Santo Domingo," in Cheryl R. Rodriguez, Dzodzi Tsikata, and Akosua
-    Adomako Ampofo, eds., *Transatlantic Feminisms Women and Gender
-    Studies in Africa and the Diaspora* (Lanham: Lexington Books, 2015).
+[^5]: Marcia A. Forbes, *Streaming*, vol. 1, *\#Social Media, Mobile Lifestyles* (Kingston: Phase Three, 2012); Daniel Miller and Don Slater, *The Internet: An Ethnographic Approach* (Oxford: Berg, 2000); Daniel Miller, *Tales from Facebook* (Cambridge: Polity, 2011); Kevin Adonis Browne, *Tropic Tendencies: Rhetoric, Popular Culture, and the Anglophone Caribbean* (Pittsburgh: University of Pittsburgh Press, 2013); Bernard Jankee, "The Word in Cyberspace: Constructing Jamaican Identity on the Internet," in Annie Paul, ed., *Caribbean Culture: Soundings on Kamau Brathwaite* (Kingston: University of the West Indies Press, 2007); Annie Paul, "Log On: Towards Social and Digital Islands," in Michael Bucknor and Alison Donnell, eds., *The Routledge Companion to Anglophone Caribbean Literature* (Abingdon, UK: Routledge, 2011); Rachel Afi Quinn, "This Bridge Called the Internet: Black Lesbian Feminist Organizing in Santo Domingo," in Cheryl R. Rodriguez, Dzodzi Tsikata, and Akosua Adomako Ampofo, eds., *Transatlantic Feminisms Women and Gender Studies in Africa and the Diaspora* (Lanham: Lexington Books, 2015).
 
-[^6]: For a discussion on the digital divide in Trinidad and Tobago, see
-    Bheshem Ramlal and Patrick Watson, "The Digital Divide in Trinidad
-    and Tobago," *Social and Economic Studies* 63, no. 1 (2014): 1--23.
+[^6]: For a discussion on the digital divide in Trinidad and Tobago, see Bheshem Ramlal and Patrick Watson, "The Digital Divide in Trinidad and Tobago," *Social and Economic Studies* 63, no. 1 (2014): 1--23.
 
-[^7]: Susanna Paasonen, "Rethinking Cyberfeminisn," *Communications* 36,
-    no. 3 (2011): 340.
+[^7]: Susanna Paasonen, "Rethinking Cyberfeminisn," *Communications* 36, no. 3 (2011): 340.
 
-[^8]: Nicholas Laughlin, "Eleven Key Moments in \[Anglo-\]Caribbean Blog
-    History," *Global Voices*, 13 January 2006,
-    [http://globalvoicesonline.org/2006/01/13/11-key-moments-in-anglo-caribbean-blog-history.](http://globalvoicesonline.org/2006/01/13/11-key-moments-in-anglo-caribbean-blog-history.)
+[^8]: Nicholas Laughlin, "Eleven Key Moments in \[Anglo-\]Caribbean Blog History," *Global Voices*, 13 January 2006, [http://globalvoicesonline.org/2006/01/13/11-key-moments-in-anglo-caribbean-blog-history.](http://globalvoicesonline.org/2006/01/13/11-key-moments-in-anglo-caribbean-blog-history.)
 
-[^9]: See
-    [http://www.change.org/p/we-did-it-angostura-has-said-they-will-pull-the-ad-thank-you-all.](http://www.change.org/p/we-did-it-angostura-has-said-they-will-pull-the-ad-thank-you-all.)
+[^9]: See [http://www.change.org/p/we-did-it-angostura-has-said-they-will-pull-the-ad-thank-you-all.](http://www.change.org/p/we-did-it-angostura-has-said-they-will-pull-the-ad-thank-you-all.)
 
-[^10]: See
-    [http://www.buzzfeed.com/copyranter/another-liquor-company-creates-a-rapey-ad\#.gq9qOZmR1E.](http://www.buzzfeed.com/copyranter/another-liquor-company-creates-a-rapey-ad\#.gq9qOZmR1E.)
+[^10]: See [http://www.buzzfeed.com/copyranter/another-liquor-company-creates-a-rapey-ad\#.gq9qOZmR1E.](http://www.buzzfeed.com/copyranter/another-liquor-company-creates-a-rapey-ad\#.gq9qOZmR1E.)
 
-[^11]: Malaika Brooks-Smith-Lowe, "Kickstarting the Goat Dairy in
-    Grenada," *Guardian*, 30 August 2013,
-    [http://www.theguardian.com/global-development-professionals-network/2013/aug/30/kickstarter-goat-dairy-grenada.](http://www.theguardian.com/global-development-professionals-network/2013/aug/30/kickstarter-goat-dairy-grenada.)
+[^11]: Malaika Brooks-Smith-Lowe, "Kickstarting the Goat Dairy in Grenada," *Guardian*, 30 August 2013, [http://www.theguardian.com/global-development-professionals-network/2013/aug/30/kickstarter-goat-dairy-grenada.](http://www.theguardian.com/global-development-professionals-network/2013/aug/30/kickstarter-goat-dairy-grenada.)
 
 [^12]: See womantratt.wix.com/home.
 
-[^13]: Patrice Daniel, "An Open Letter to Caribbean Men, from Caribbean
-    Women," *RH Reality Check*, 12 March 2013,
-    [http://rhrealitycheck.org/article/2013/03/12/an-open-letter-to-caribbean-men-from-caribbean-women.](http://rhrealitycheck.org/article/2013/03/12/an-open-letter-to-caribbean-men-from-caribbean-women.)
+[^13]: Patrice Daniel, "An Open Letter to Caribbean Men, from Caribbean Women," *RH Reality Check*, 12 March 2013, [http://rhrealitycheck.org/article/2013/03/12/an-open-letter-to-caribbean-men-from-caribbean-women.](http://rhrealitycheck.org/article/2013/03/12/an-open-letter-to-caribbean-men-from-caribbean-women.)
 
-[^14]: See www.sasod.org.gy; www.facebook.com/caiso; and
-    [http://unitedandstrongstlucia.wordpress.com.](http://unitedandstrongstlucia.wordpress.com.)
+[^14]: See www.sasod.org.gy; www.facebook.com/caiso; and [http://unitedandstrongstlucia.wordpress.com.](http://unitedandstrongstlucia.wordpress.com.)
 
-[^15]: See www.facebook.com/AirMeNow and
-    [http://www.youtube.com/playlist?list=PLLNiArTOn\_azPDdIR4FvkyepgRQrb9K8Y.](http://www.youtube.com/playlist?list=PLLNiArTOn\_azPDdIR4FvkyepgRQrb9K8Y.)
+[^15]: See www.facebook.com/AirMeNow and [http://www.youtube.com/playlist?list=PLLNiArTOn\_azPDdIR4FvkyepgRQrb9K8Y.](http://www.youtube.com/playlist?list=PLLNiArTOn\_azPDdIR4FvkyepgRQrb9K8Y.)
 
-[^16]: Danar Royal, dir., *Jamaica Anti-Rape Campaign (Please Share)*,
-    2:15, posted 8 October 2012, [http://www.youtube.com/watch?v=IS8uJ9dol5s.](http://www.youtube.com/watch?v=IS8uJ9dol5s.)
-    For a broader discussion on gender consiousness, see Patricia
-    Mohammed, "Like Sugar in Coffee: Third Wave Feminism and the
-    Caribbean," *Social and Economic Studies* 52, no. 3 (2003): 5--30.
+[^16]: Danar Royal, dir., *Jamaica Anti-Rape Campaign (Please Share)*, 2:15, posted 8 October 2012, [http://www.youtube.com/watch?v=IS8uJ9dol5s.](http://www.youtube.com/watch?v=IS8uJ9dol5s.) For a broader discussion on gender consiousness, see Patricia Mohammed, "Like Sugar in Coffee: Third Wave Feminism and the Caribbean," *Social and Economic Studies* 52, no. 3 (2003): 5--30.
 
-[^17]: See www.bigbeautifulblackgirls.com,
-    bigbeautifulblackgirls.tumblr.com, and
-    [http://www.facebook.com/BigBeautifulBlackGirls.](http://www.facebook.com/BigBeautifulBlackGirls.)
+[^17]: See www.bigbeautifulblackgirls.com, bigbeautifulblackgirls.tumblr.com, and [http://www.facebook.com/BigBeautifulBlackGirls.](http://www.facebook.com/BigBeautifulBlackGirls.)
 
 [^18]: See [http://redforgender.wordpress.com/e-mas-caribbean-blog-carnival.](http://redforgender.wordpress.com/e-mas-caribbean-blog-carnival.)
 
-[^19]: Matthew Hunte, "Blog Carnival Shows the Caribbean Some Love,"
-    *Global Voices*, 4 February 2014,
-    [http://globalvoices.org/2014/02/04/blog-carnival-shows-the-caribbean-some-love;](http://globalvoices.org/2014/02/04/blog-carnival-shows-the-caribbean-some-love;)
-    Shivanee Ramlochen, "Bloggers' Paradise," *Trinidad* *Guardian*, 16
-    February 2014, B29,
-    [http://digital.guardian.co.tt/default.aspx?iid=87563&startpage=page0000101\#folio=100;](http://digital.guardian.co.tt/default.aspx?iid=87563&startpage=page0000101\#folio=100;)
-    Juliana Britto Schwartz, "This Week in Feminism South of the
-    Border," Feministing.com, 31 January 2014,
-    [http://feministing.com/2014/01/31/this-week-in-feminism-south-of-the-border-2.](http://feministing.com/2014/01/31/this-week-in-feminism-south-of-the-border-2.)
+[^19]: Matthew Hunte, "Blog Carnival Shows the Caribbean Some Love," *Global Voices*, 4 February 2014, [http://globalvoices.org/2014/02/04/blog-carnival-shows-the-caribbean-some-love;](http://globalvoices.org/2014/02/04/blog-carnival-shows-the-caribbean-some-love;) Shivanee Ramlochen, "Bloggers' Paradise," *Trinidad* *Guardian*, 16 February 2014, B29, [http://digital.guardian.co.tt/default.aspx?iid=87563&startpage=page0000101\#folio=100;](http://digital.guardian.co.tt/default.aspx?iid=87563&startpage=page0000101\#folio=100;) Juliana Britto Schwartz, "This Week in Feminism South of the Border," Feministing.com, 31 January 2014, [http://feministing.com/2014/01/31/this-week-in-feminism-south-of-the-border-2.](http://feministing.com/2014/01/31/this-week-in-feminism-south-of-the-border-2.)
 
 [^20]: Ramlochen, "Bloggers' Paradise."
 
-[^21]: Tzarina T. Prater, "'Look Pon Likkle Chiney Gal': Tessanne Chin,
-    the Voice, and Digital Caribbean Subjects," *Anthurium: A Caribbean
-    Studies Journal* 12, no. 1 (2015): article 11.
+[^21]: Tzarina T. Prater, "'Look Pon Likkle Chiney Gal': Tessanne Chin, the Voice, and Digital Caribbean Subjects," *Anthurium: A Caribbean Studies Journal* 12, no. 1 (2015): article 11.
 
-[^22]: See Sandra Abd'Allah-Alvarez Ramírez, "¿Ciberfeminismo en Cuba?,"
-    paper presented at "Towards a New Social Contract?," 31st
-    International Congress of the Latin American Studies Association, 30
-    May--1 June 2013, Washington, DC.
+[^22]: See Sandra Abd'Allah-Alvarez Ramírez, "¿Ciberfeminismo en Cuba?," paper presented at "Towards a New Social Contract?," 31st International Congress of the Latin American Studies Association, 30 May--1 June 2013, Washington, DC.
 
 [^23]: See Miller and Slater, *The Internet*.
 
-[^24]: Gabrielle Hosein, "Momentous Trivialities," *Diary of a Mothering
-    Worker*,
-    [http://grrlscene.wordpress.com/momentous-trivialities-diary-of-a-mothering-worker.](http://grrlscene.wordpress.com/momentous-trivialities-diary-of-a-mothering-worker.)
+[^24]: Gabrielle Hosein, "Momentous Trivialities," *Diary of a Mothering Worker*, [http://grrlscene.wordpress.com/momentous-trivialities-diary-of-a-mothering-worker.](http://grrlscene.wordpress.com/momentous-trivialities-diary-of-a-mothering-worker.)
 
-[^25]: Soyini Ayanna, "About Me," *Creative Commess*,
-    [http://soyluv.wordpress.com/about.](http://soyluv.wordpress.com/about.)
+[^25]: Soyini Ayanna, "About Me," *Creative Commess*, [http://soyluv.wordpress.com/about.](http://soyluv.wordpress.com/about.)
 
 [^26]: Annie Paul, *Active Voice*, [http://anniepaul.net.](http://anniepaul.net.)
 
-[^27]: "Building the New Caribbean Media," *Antillean Media Group*,
-    [http://www.antillean.org/about.](http://www.antillean.org/about.)
+[^27]: "Building the New Caribbean Media," *Antillean Media Group*, [http://www.antillean.org/about.](http://www.antillean.org/about.)
 
 [^28]: WomenSpeak Project, *Women Speak*, [http://womenspeak.tumblr.com.](http://womenspeak.tumblr.com.)
 
-[^29]: Ivette Romero-Cesareo and Lisa Paravisini-Gebert, *Repeating
-    Islands*, [http://repeatingislands.com/our-blog.](http://repeatingislands.com/our-blog.)
+[^29]: Ivette Romero-Cesareo and Lisa Paravisini-Gebert, *Repeating Islands*, [http://repeatingislands.com/our-blog.](http://repeatingislands.com/our-blog.)
 
-[^30]: Zahira Kelly (Bad Dominicana) quotes Cate Young (BattyMamzelle),
-    "This Is What I Mean When I Say 'White Feminism," imploring, "Please
-    everybody: read this article!"
-    [http://bad-dominicana.tumblr.com/post/138419448358/white-feminism-does-not-mean-every-white-woman;](http://bad-dominicana.tumblr.com/post/138419448358/white-feminism-does-not-mean-every-white-woman;)
-    *BattyMamzelle*, 10 January 2014,
-    [http://battymamzelle.blogspot.com/2014/01/This-Is-What-I-Mean-When-I-Say-White-Feminism.html\#.VwxPjXqYuCf.](http://battymamzelle.blogspot.com/2014/01/This-Is-What-I-Mean-When-I-Say-White-Feminism.html\#.VwxPjXqYuCf.)
+[^30]: Zahira Kelly (Bad Dominicana) quotes Cate Young (BattyMamzelle), "This Is What I Mean When I Say 'White Feminism," imploring, "Please everybody: read this article!" [http://bad-dominicana.tumblr.com/post/138419448358/white-feminism-does-not-mean-every-white-woman;](http://bad-dominicana.tumblr.com/post/138419448358/white-feminism-does-not-mean-every-white-woman;) *BattyMamzelle*, 10 January 2014, [http://battymamzelle.blogspot.com/2014/01/This-Is-What-I-Mean-When-I-Say-White-Feminism.html\#.VwxPjXqYuCf.](http://battymamzelle.blogspot.com/2014/01/This-Is-What-I-Mean-When-I-Say-White-Feminism.html\#.VwxPjXqYuCf.)
 
-[^31]: Annie Paul, *Active Voice*, anniepaul.net; Mar the Mongoose, *The
-    Mongoose Chronicles*, [http://mongoosechronicles.blogspot.com.](http://mongoosechronicles.blogspot.com.)
+[^31]: Annie Paul, *Active Voice*, anniepaul.net; Mar the Mongoose, *The Mongoose Chronicles*, [http://mongoosechronicles.blogspot.com.](http://mongoosechronicles.blogspot.com.)
 
-[^32]: Gabrielle Hosein, *Diary of a Mothering Worker*,
-    [http://grrlscene.wordpress.com/souldeya.](http://grrlscene.wordpress.com/souldeya.)
+[^32]: Gabrielle Hosein, *Diary of a Mothering Worker*, [http://grrlscene.wordpress.com/souldeya.](http://grrlscene.wordpress.com/souldeya.)
 
 [^33]: Soyini Ayanna, *Creative Commess*, [http://soyluv.wordpress.com/about.](http://soyluv.wordpress.com/about.)
 
-[^34]: derevolushunwidin, trendsettah, and pieces2peace, *Add Fyah and
-    Stir*, [http://addfyahandstir.wordpress.com/about.](http://addfyahandstir.wordpress.com/about.)
+[^34]: derevolushunwidin, trendsettah, and pieces2peace, *Add Fyah and Stir*, [http://addfyahandstir.wordpress.com/about.](http://addfyahandstir.wordpress.com/about.)
 
-[^35]: Cate Young (BattyMamzelle), *Battymamzelle*,
-    [http://battymamzelle.blogspot.com/p/about\_29.html\#.Vt7gU\_krIdU.](http://battymamzelle.blogspot.com/p/about\_29.html\#.Vt7gU\_krIdU.)
+[^35]: Cate Young (BattyMamzelle), *Battymamzelle*, [http://battymamzelle.blogspot.com/p/about\_29.html\#.Vt7gU\_krIdU.](http://battymamzelle.blogspot.com/p/about\_29.html\#.Vt7gU\_krIdU.)
 
 [^36]: Carla Moore, *MooreTalkJa*, [http://mooretalkja.wordpress.com.](http://mooretalkja.wordpress.com.)
 
-[^37]: Mar the Mongoose, "About Me," *The Mongoose Chronicles*,
-    [http://www.blogger.com/profile/06241127953404268513.](http://www.blogger.com/profile/06241127953404268513.)
+[^37]: Mar the Mongoose, "About Me," *The Mongoose Chronicles*, [http://www.blogger.com/profile/06241127953404268513.](http://www.blogger.com/profile/06241127953404268513.)
 
-[^38]: Carolyn Joy Cooper, "About," *Jamaica Woman Tongue*,
-    [http://carolynjoycooper.wordpress.com/about.](http://carolynjoycooper.wordpress.com/about.)
+[^38]: Carolyn Joy Cooper, "About," *Jamaica Woman Tongue*, [http://carolynjoycooper.wordpress.com/about.](http://carolynjoycooper.wordpress.com/about.)
 
 [^39]: Amílcar Sanatan, "About I," [http://www.amilcarsanatan.com/about-us.](http://www.amilcarsanatan.com/about-us.)
 
-[^40]: Zahira Kelly (Bad Dominicana), "About Me," *The Bad Dominicana*,
-    [http://bad-dominicana.tumblr.com/about.](http://bad-dominicana.tumblr.com/about.)
+[^40]: Zahira Kelly (Bad Dominicana), "About Me," *The Bad Dominicana*, [http://bad-dominicana.tumblr.com/about.](http://bad-dominicana.tumblr.com/about.)
 
-[^41]: Sandra Abd'Allah-Alvarez Ramírez (Negra Cubana), "¿Quién es
-    Negracubana?," *Negra Cubana tenia que ser*,
-    [http://negracubanateniaqueser.com/quien-es-negracubana.](http://negracubanateniaqueser.com/quien-es-negracubana.)
+[^41]: Sandra Abd'Allah-Alvarez Ramírez (Negra Cubana), "¿Quién es Negracubana?," *Negra Cubana tenia que ser*, [http://negracubanateniaqueser.com/quien-es-negracubana.](http://negracubanateniaqueser.com/quien-es-negracubana.)
 
-[^42]: See Alondra Nelson, "Introduction: Future Texts," *Social Text*
-    20, no. 2 (2002): 1--15.
+[^42]: See Alondra Nelson, "Introduction: Future Texts," *Social Text* 20, no. 2 (2002): 1--15.
 
-[^43]: Paul C. Adams, "Cyberspace and Virtual Places," *Geographical
-    Review* 87, no. 2 (1997): 260.
+[^43]: Paul C. Adams, "Cyberspace and Virtual Places," *Geographical Review* 87, no. 2 (1997): 260.
 
 [^44]: Forbes, *\#Social Media, Mobile Lifestyles*.
 
@@ -1015,41 +936,19 @@ rhetorical devices (5)
 
 [^47]: See Miller and Slater, *The Internet*.
 
-[^48]: Colin Robinson, "Mrs. Joyce Pierre's Daughter," *One Nation . . .
-    Many Bodies . . . Boundless Faith*, 28 June 2015,
-    [http://onenationmanybodies.wordpress.com/2015/06/28/mrs-joyce-pierres-daugther.](http://onenationmanybodies.wordpress.com/2015/06/28/mrs-joyce-pierres-daugther.)
+[^48]: Colin Robinson, "Mrs. Joyce Pierre's Daughter," *One Nation . . . Many Bodies . . . Boundless Faith*, 28 June 2015, [http://onenationmanybodies.wordpress.com/2015/06/28/mrs-joyce-pierres-daugther.](http://onenationmanybodies.wordpress.com/2015/06/28/mrs-joyce-pierres-daugther.)
 
-[^49]: Yaoni Sánchez, "Cult of Personality in Cuban Parliament,"
-    *Generación Y*, 15 July 2015,
-    [http://generacionyen.wordpress.com/2015/07/15/cult-of-personality-in-cuban-parliament.](http://generacionyen.wordpress.com/2015/07/15/cult-of-personality-in-cuban-parliament.)
+[^49]: Yaoni Sánchez, "Cult of Personality in Cuban Parliament," *Generación Y*, 15 July 2015, [http://generacionyen.wordpress.com/2015/07/15/cult-of-personality-in-cuban-parliament.](http://generacionyen.wordpress.com/2015/07/15/cult-of-personality-in-cuban-parliament.)
 
-[^50]: Sara Bharrat, "The Senior Government Official Guyanese Women
-    Dislike," *Guyanese Experience*, July 2015,
-    [http://sarabharrat.wordpress.com/2015/07.](http://sarabharrat.wordpress.com/2015/07.)
+[^50]: Sara Bharrat, "The Senior Government Official Guyanese Women Dislike," *Guyanese Experience*, July 2015, [http://sarabharrat.wordpress.com/2015/07.](http://sarabharrat.wordpress.com/2015/07.)
 
-[^51]: Soyini Ayanna, "The Language of Blackness," *Creative Commess*,
-    11 July 2015,
-    [http://soyluv.wordpress.com/2015/07/11/the-language-of-blackness.](http://soyluv.wordpress.com/2015/07/11/the-language-of-blackness.)
+[^51]: Soyini Ayanna, "The Language of Blackness," *Creative Commess*, 11 July 2015, [http://soyluv.wordpress.com/2015/07/11/the-language-of-blackness.](http://soyluv.wordpress.com/2015/07/11/the-language-of-blackness.)
 
-[^52]: Sara Bharatt, "Three into One Definitely Can't Go, or Can It?,"
-    *Guyanese Experience*, 15 May 2015,
-    [http://sarabharrat.wordpress.com/2015/05/15/three-into-one-definitely-cant-go-or-can-it.](http://sarabharrat.wordpress.com/2015/05/15/three-into-one-definitely-cant-go-or-can-it.)
+[^52]: Sara Bharatt, "Three into One Definitely Can't Go, or Can It?," *Guyanese Experience*, 15 May 2015, [http://sarabharrat.wordpress.com/2015/05/15/three-into-one-definitely-cant-go-or-can-it.](http://sarabharrat.wordpress.com/2015/05/15/three-into-one-definitely-cant-go-or-can-it.)
 
-[^53]: Sherlina Nageer, "No Women Died, This Is Not a Women's Issue,"
-    *Black Looks*, 15 August 2012,
-    [http://www.blacklooks.org/2012/08/no-women-died-this-is-not-a-womens-issue;](http://www.blacklooks.org/2012/08/no-women-died-this-is-not-a-womens-issue;)
-    "End Sexual-Orientation and Gender-Identity Discrimination in
-    Guyana," *Huffpost Gay Voices*, 10 July 2012 (updated 2 February
-    2016),
-    [http://www.huffingtonpost.com/sherlina-nageer/guyana-lbt-rights\_b\_1663183.html;](http://www.huffingtonpost.com/sherlina-nageer/guyana-lbt-rights\_b\_1663183.html;)
-    "In Praise of Bad-john Lil Girls," *Feminist Conversations on
-    Caribbean Life*, 21 August 2013,
-    [http://redforgender.wordpress.com/2013/08/21/in-praise-of-bad-john-lil-girls.](http://redforgender.wordpress.com/2013/08/21/in-praise-of-bad-john-lil-girls.)
-    See freedombyanymeans.wordpress.com.
+[^53]: Sherlina Nageer, "No Women Died, This Is Not a Women's Issue," *Black Looks*, 15 August 2012, [http://www.blacklooks.org/2012/08/no-women-died-this-is-not-a-womens-issue;](http://www.blacklooks.org/2012/08/no-women-died-this-is-not-a-womens-issue;) "End Sexual-Orientation and Gender-Identity Discrimination in Guyana," *Huffpost Gay Voices*, 10 July 2012 (updated 2 February 2016), [http://www.huffingtonpost.com/sherlina-nageer/guyana-lbt-rights\_b\_1663183.html;](http://www.huffingtonpost.com/sherlina-nageer/guyana-lbt-rights\_b\_1663183.html;) "In Praise of Bad-john Lil Girls," *Feminist Conversations on Caribbean Life*, 21 August 2013, [http://redforgender.wordpress.com/2013/08/21/in-praise-of-bad-john-lil-girls.](http://redforgender.wordpress.com/2013/08/21/in-praise-of-bad-john-lil-girls.) See freedombyanymeans.wordpress.com.
 
-[^54]: Cate Young (BattyMamzelle), "The Hardest Word to Say Is Goodbye:
-    Why I'm Quitting *Jezebel*," *BattyMamzelle*, 8 October 2013,
-    [http://battymamzelle.blogspot.com/2013/10/Why-Im-Quitting-Jezebel.html\#.UlqP\_FCsim4.](http://battymamzelle.blogspot.com/2013/10/Why-Im-Quitting-Jezebel.html\#.UlqP\_FCsim4.)
+[^54]: Cate Young (BattyMamzelle), "The Hardest Word to Say Is Goodbye: Why I'm Quitting *Jezebel*," *BattyMamzelle*, 8 October 2013, [http://battymamzelle.blogspot.com/2013/10/Why-Im-Quitting-Jezebel.html\#.UlqP\_FCsim4.](http://battymamzelle.blogspot.com/2013/10/Why-Im-Quitting-Jezebel.html\#.UlqP\_FCsim4.)
 
 [^55]: [http://www.facebook.com/WalkingIntoWalls/info/?tab=page\_info.](http://www.facebook.com/WalkingIntoWalls/info/?tab=page\_info.)
 
@@ -1057,28 +956,12 @@ rhetorical devices (5)
 
 [^57]: Paasonen, "Rethinking Cyberfeminism," 347.
 
-[^58]: See [http://www.stabroeknews.com/category/features/in-the-diaspora;](http://www.stabroeknews.com/category/features/in-the-diaspora;)
-    [http://www.outlish.com;](http://www.outlish.com;) [http://blackgirlinthering.com;](http://blackgirlinthering.com;) and
-    [http://www.complexdwoman.co.uk.](http://www.complexdwoman.co.uk.)
+[^58]: See [http://www.stabroeknews.com/category/features/in-the-diaspora;](http://www.stabroeknews.com/category/features/in-the-diaspora;) [http://www.outlish.com;](http://www.outlish.com;) [http://blackgirlinthering.com;](http://blackgirlinthering.com;) and [http://www.complexdwoman.co.uk.](http://www.complexdwoman.co.uk.)
 
-[^59]: See Curwen Best, *The Politics of Caribbean Cyber Culture* (New
-    York: Palgrave Macmillan, 2008).
+[^59]: See Curwen Best, *The Politics of Caribbean Cyber Culture* (New York: Palgrave Macmillan, 2008).
 
 [^60]: Stephanie Leitch, personal communication with the author.
 
-[^61]: See Honor Ford-Smith, "Ring Ding in a Tight Corner: Sistren,
-    Collective Democracy, and the Organization of Cultural Production,"
-    in M. Jacqui Alexander and Chandra Talpade Mohanty, eds., *Feminist
-    Genealogies, Colonial Legacies, Democratic Futures* (New York:
-    Routledge, 1997); Andaiye, *The Angle You Look from Determines What
-    You See: Towards A Critique of Feminist Politics in the Caribbean*,
-    Lucille Mathurin Mair Lecture series (Mona: Centre for Gender and
-    Development Studies, University of the West Indies, 2002); Rawwida
-    Baksh-Soodeen, "Issues of Difference in Contemporary Caribbean
-    Feminism," *Feminist Review* 59 (June 1998): 74--85.
+[^61]: See Honor Ford-Smith, "Ring Ding in a Tight Corner: Sistren, Collective Democracy, and the Organization of Cultural Production," in M. Jacqui Alexander and Chandra Talpade Mohanty, eds., *Feminist Genealogies, Colonial Legacies, Democratic Futures* (New York: Routledge, 1997); Andaiye, *The Angle You Look from Determines What You See: Towards A Critique of Feminist Politics in the Caribbean*, Lucille Mathurin Mair Lecture series (Mona: Centre for Gender and Development Studies, University of the West Indies, 2002); Rawwida Baksh-Soodeen, "Issues of Difference in Contemporary Caribbean Feminism," *Feminist Review* 59 (June 1998): 74--85.
 
-[^62]: See Shona N. Jackson, *Creole Indigeneity: Between Myth and
-    Nation in the Caribbean* (Minneapolis: University of Minnesota
-    Press, 2012); and Melanie J. Newton, "Returns to a Native Land:
-    Indigeneity and Decolonization in the Anglophone Caribbean," *Small
-    Axe*, no. 41 (July 2013): 108--22.
+[^62]: See Shona N. Jackson, *Creole Indigeneity: Between Myth and Nation in the Caribbean* (Minneapolis: University of Minnesota Press, 2012); and Melanie J. Newton, "Returns to a Native Land: Indigeneity and Decolonization in the Anglophone Caribbean," *Small Axe*, no. 41 (July 2013): 108--22.
