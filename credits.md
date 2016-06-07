@@ -19,7 +19,7 @@ Columbia group for experimental methods in the humanities (xpmethod)\\
 Columbia University Center for Digital Research and Scholarship\\
 Digital Humanities Center, Columbia University Libraries
 
-### Special Ackowledgment
+### Special Acknowledgment
 
 *sx archipelagos* is particularly grateful for the support we received from the National Endowment for the Humanities. Through its Digital Start-Up Grant program, the NEH provided much-needed resources for the multiple valences of experimentation and innovation undergirding this platform.
 

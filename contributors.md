@@ -4,7 +4,7 @@ title: contributors
 ---
 
 ## Alex Gil | editor
-[Alex Gil](http://www.elotroalex.com/){:target="_blank"} is Digital Scholarship Coordinator for the Humanities and History at Columbia University Libraries. He collaborates with faculty, students and the library on the use of technologies on humanities research, pedagogy and scholarly communications. Current projects include [Ed](http://elotroalex.github.io/ed/){:target="_blank"}, a foundation for *sx archipelagos*; the Open Syllabus Project; the Translation Toolkit; and, In The Same Boats, a visualization of trans-Atlantic intersections of black intellectuals in the 20th century. He is co-founder and active member of the Global Outlook::Digital Humanities initiative and the co-founder of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/){:target="_blank"} and the Studio@Butler at Columbia University.
+[Alex Gil](http://www.elotroalex.com/){:target="_blank"} is Digital Scholarship Coordinator for the Humanities and History at Columbia University Libraries. He collaborates with faculty, students and the library on the use of technologies on humanities research, pedagogy and scholarly communications. His research is focused on textual scholarship, digital humanities and Caribbean studies. Current projects include [Ed](http://elotroalex.github.io/ed/){:target="_blank"}, a foundation for *sx archipelagos*; the Open Syllabus Project; a geo-bibliography of Aimé Césaire; the Translation Toolkit; and, In The Same Boats, a visualization of trans-Atlantic intersections of black intellectuals in the 20th century. He is co-founder and active member of the Global Outlook::Digital Humanities initiative, [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/){:target="_blank"}, and the Studio@Butler at Columbia University.
 
 ## Kaiama L. Glover | editor
 
@@ -70,6 +70,7 @@ Janet Neigh is Assistant Professor of English at Penn State Erie, The Behrend Co
 
 David Scott is Professor of Anthropology at Columbia University. He is the author of *Formations of Ritual: Colonial and Anthropological Discourses on the Sinhala Yaktovil* (Minnesota 1994), *Refashioning Futures: Criticism After Postcoloniality* (Princeton UP 1999), *Conscripts of Modernity: The Tragedy of Colonial Enlightenment* (Duke UP 2004), and *Omens of Adversity: Tragedy, Time, Memory, and Justice* (Duke UP 2014), and co-editor of *Powers of the Secular Modern: Talal and His Interlocutors* (Stanford UP). He is the founder and director of the Small Axe Project.
 
-## Dennis Tenen | Architect
+
+## Dennis Tenen | Project Architect
 
 [Dennis Tenen](http://denten.plaintext.in/) teaches English and Comparative Literature at Columbia University. Tenen's research happens at the intersection of people, texts, and technology. His recent work appeared on the pages of Computational Culture, boundary 2, and Modernism/modernity on topics that range from book piracy, to algorithmic composition, unintelligent design, and the history of data visualization. Tenen is a co-founder of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/){:target="_blank"}. His first book, *[Plain Text: The Poetics of Computation](http://xpmethod.plaintext.in/minimal-computing/plaintext.html)*, is forthcoming from Stanford University Press.

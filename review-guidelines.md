@@ -130,7 +130,7 @@ considered the project’s future. Possible questions are
 
 ---
 
-## Review of Articles: A Brief Note.
+## Review of Articles: A Brief Note
 
 Our reviewers are expected to maintain the highest academic standards in
 the review of scholarly articles for publication in *sx archipelagos*.

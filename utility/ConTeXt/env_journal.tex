@@ -3,6 +3,8 @@
 \setupcolors[state=start]
 \setupreferencing[autofile=yes]
 \setupinteraction[state=start, color=black, contrastcolor=black, style={\tf}]
+\placebookmarks[chapter,subsection][chapter,subsection]
+
 
 \definefontfeature
   [default]
@@ -11,9 +13,11 @@
 
 %\definefontfamily [roboto][sans][Roboto]
 
-\usemodule[simplefonts]
-\setmainfont[xits][expansion=quality,protrusion=quality]
-\setupbodyfont[xits, 11pt]
+%\usemodule[simplefonts]
+%\setmainfont[xits][expansion=quality,protrusion=quality]
+\definefontfamily[main][sans][Helvetica Neue][expansion=quality,protrusion=quality,it=file:helveticaneueitalic, sl=file:helveticaneueitalic]
+\definefontfamily[light][sans][Helvetica Neue][tf=file:helveticaneuelight, expansion=quality,protrusion=quality,it=file:helveticaneuelightitalic, sl=file:helveticaneuelightitalic]
+\setupbodyfont[main, 11pt]
 
 
 \newdimen\Margin
@@ -38,21 +42,25 @@
 \define[2]\MyChapterCommand%
   {\vbox{%]
 \setupinterlinespace[line=21pt]%  
-%\setmainfont[Latin Modern Sans Quotation,14pt]%
-\switchtobodyfont[14pt]
-\bf
+
+
+\setupbodyfont[light, 14pt]%
+%\switchtobodyfont[14pt]
+
 \setupalign[flushleft, verytolerant]{%
 \blank[40mm]#2%
 }}}
 
 
-\setuphead[section]      [style=\tfc]
-\setuphead[subsection]   [style=\tfb]
-\setuphead[subsubsection][style=\bf]
+
+
+
+\setuphead[section]      [style={\switchtobodyfont[light]\tfc}]
+\setuphead[subsection]   [style={\switchtobodyfont[light]\tfb}]
+\setuphead[subsubsection][style={\switchtobodyfont[light]\bf}]
 
 \setuphead[chapter, section, subsection, subsubsection][incrementnumber=yes,number=no,align={flushleft, verytolerant}, alternative=inmargin]
 \setuphead[chapter]      [header=empty, command=\MyChapterCommand]
-
 \enabletrackers[graphics.locating]
 
 \definedescription
@@ -113,7 +121,9 @@
 \setupurl
    [style=\tf]
 
-\startsetups[footnote:align]  
+\startsetups[footnote:align]
+  \definefontfamily[footnote][sans][helveticaneue][expansion=quality,protrusion=quality,it=file:helveticaneueitalic, sl=file:helveticaneueitalic]
+  \setupbodyfont[footnote, 8pt]  
   \setupalign[hanging, hz, hyphenated, morehyphenation, verytolerant, flushleft]
 \stopsetups
 
@@ -170,7 +180,7 @@
 \setupheadertexts[\setups{text b}][\setups{text a}][\setups{text a}][\setups{text b}]
 
 \startsetups[text a]
-  sx archipelagos Issue ({\bf\getvariable{article}{issue}}{\bf)}~[~\getvariable{article}{date}~]
+  sx archipelagos {\it Issue (\getvariable{article}{issue})}~[~\getvariable{article}{date}~]
 \stopsetups
 
 \startsetups[text b]

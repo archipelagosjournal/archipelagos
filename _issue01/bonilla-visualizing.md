@@ -12,10 +12,10 @@ author:
 date: May 2016
 issue: 1
 order: 5
-abstract: "This essay asks how visual representations of the postcolonial Caribbean are shaped by, and in turn could reshape, the political imaginary of sovereignty. Describing several different experiments with form---from conventional maps to temporal charts to animation---it argues that visualizing sovereignty is a first step in retheorizing the meaning of sovereignty itself beyond the regulatory limits of insular, nation-state autonomy. The authors call for collaborative efforts to create \"prophetic cartographies\" attuned to alternative political currents and the possibility of imagining the Caribbean otherwise."
+abstract: "This essay asks how visual representations of the postcolonial Caribbean are shaped by, and in turn could reshape, the political imaginary of sovereignty. Describing several different experiments with form—from conventional maps to temporal charts to animation—it argues that visualizing sovereignty is a first step in retheorizing the meaning of sovereignty itself beyond the regulatory limits of insular, nation-state autonomy. The authors call for collaborative efforts to create \"prophetic cartographies\" attuned to alternative political currents and the possibility of imagining the Caribbean otherwise."
 ---
 
-The test for this project arose during a fit of last-minute teaching
+The genesis for this project arose during a fit of last-minute teaching
 prep for one of the authors. While putting the final touches on a
 lecture for a Caribbean Perspectives class, Yarimar struggled with how
 to visually represent the political terrain of the Caribbean and
@@ -61,7 +61,7 @@ governments hold supreme authority over their internal affairs and that
 other states should not intervene under exception of threat or
 obligation of alliance.[^1] Recent scholarship has sought to complicate
 this notion by demonstrating the extent to which formally independent
-nations (mostly in the global South) have been palpably shaped by
+nations (mostly in the Global South) have been palpably shaped by
 outside interests, supranational organizations, and both internal and
 external nongovernmental actors. These scholars have emphasized how
 nonstate, trans-state, and suprastate actors (such as the United
@@ -105,7 +105,7 @@ This history of fractured, uneven, contested, and negotiated sovereignty
 continues to shape the region as a whole, and at present the *majority*
 of societies in the Caribbean are not independent nation-states but
 rather protectorates, territories, departments, and commonwealths (see
-[appendix]({{site.baseurl}}/assets/extra/issue01-bonilla-appendix.pdf)). In addition, the Caribbean also holds a large number of
+[appendix]({{site.baseurl}}/assets/extras/issue01-bonilla-appendix.pdf)). In addition, the Caribbean also holds a large number of
 nonsovereign enclaves: military bases, privately owned islands,
 semiautonomous tourist resorts, free-trade zones, tax havens, wildlife
 preserves, satellite launching stations, detention centers, penal
@@ -269,7 +269,7 @@ textured detail of its constitutive events.
 			url="https://www.youtube.com/embed/pJxrTzfG2bo"
             img="issue01/invasion-of-america.jpg"
             title="Invasion of America"
-            caption="Invasion of America" %}
+            caption="Figure 2. Invasion of America" %}
 
 
 Vincent Brown has developed a similarly rich visual argument in his
@@ -286,7 +286,7 @@ among insurgents than previously imagined.[^19]
             img="issue01/brown-revolt.jpg"
             url="http://revolt.axismaps.com/map/"
             title="Slave Revolt in Jamaica, 1760--1761: A Cartographic Narrative"
-            caption="Slave Revolt in Jamaica, 1760--1761: A Cartographic Narrative" %}
+            caption="Figure 3. Slave Revolt in Jamaica, 1760--1761: A Cartographic Narrative" %}
 
 
 Brown argues that if we are to take seriously the opportunities afforded
@@ -306,7 +306,7 @@ families is diagramed through the use of family trees.[^21] The website
 shows both the possibilities and the limitations of adopting this
 graphic form to represent the lives of families whose structures of
 kinship were violently molded and could never be based solely on
-biological descent.[^22] As Brown suggests, even when they reach their
+biological descent.[^22] As Vincent Brown suggests, even when they reach their
 limits these representational experiments can open up new questions
 about the most appropriate representational strategies for the material
 in question and can generate new questions by uncovering patterns and
@@ -318,7 +318,7 @@ Our own efforts at mapping the Caribbean political landscape have
 yielded similar insights. After her initial experiment attempting to
 alter pre-existing maps, Yarimar enlisted the help of her research
 assistant at the time, Landon Yarrington, to create a map that would
-foreground the nonindependent societies of the Caribbean region. The
+foreground the nonindependent societies of the Caribbean region (see fig. 4). The
 goal was to visually depict the large number of Caribbean societies
 (listed in table 1) that were not independent nation-states and to use
 color to portray the diversity of political forms in the region.
@@ -326,7 +326,7 @@ color to portray the diversity of political forms in the region.
 {% include image.html
             img="issue01/landon-map.jpg"            
             title="Map created by Landon Yarrington in 2011."
-            caption="Figure 2. Map created by Landon Yarrington in 2011." %}
+            caption="Figure 4. Map created by Landon Yarrington in 2011." %}
 
 
 The creation of this map quickly revealed some of the challenges of
@@ -345,7 +345,7 @@ into the narrative form of the geographic map.
 
 Working with cartographer Jeff Blossom at the Harvard Center for
 Geographic analysis, we developed a new map that sought to tackle these
-cartographic challenges (see fig. 3). In this map we used an inset to
+cartographic challenges (see fig. 5). In this map we used an inset to
 facilitate the view of the Eastern Caribbean, and we distorted the size
 of the ABC islands (Aruba, Bonaire, and Curacao), to bring them into
 better view. We also erased the continental landmass, portraying only
@@ -356,7 +356,7 @@ color to visually demarcate political jurisdictions.
 {% include image.html
             img="issue01/blossom-map.jpg"            
             title="Map created by Jeff Blossom and Yarimar Bonilla in 2015."
-            caption="Figure 3. Map created by Jeff Blossom and Yarimar Bonilla in 2015." %}
+            caption="Figure 5. Map created by Jeff Blossom and Yarimar Bonilla in 2015." %}
 
 
 Although we played with size and scale, the map retains a sense of
@@ -371,7 +371,7 @@ form part of the framework of the Caribbean.[^23] Moreover, an
 understanding of the complex history of the southern Caribbean islands,
 and of both the economic and social structures of places like Trinidad
 and Curacao, is almost impossible without an understanding of their
-close ties to the Latin American coast. These absences are in the
+close ties to the Latin American coast. These absences are particularly significant in the
 context of an explicitly cartographic interface that implies a fidelity
 to the geographic terrain. The southern coast is then not just absent
 but visually silenced in this form of representation. Moreover, the use
@@ -381,7 +381,7 @@ comprehend the larger argument about the shifting and contested nature
 of political sovereignty.
 
 In order to address these issues we decided to create a temporal map of
-the postcolonial Caribbean. More of an infographic than a map, it
+the postcolonial Caribbean (see fig. 6). More of an infographic than a map, it
 features Caribbean societies ordered by the year in which they shifted
 away from a colonial status---either by becoming independent or by
 entering into a "postcolonial" arrangement with their colonial
@@ -390,7 +390,7 @@ centers.[^24]
 {% include image.html
             img="issue01/temporal-map.jpg"            
             title="Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015."
-            caption="Figure 4. Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015." %}
+            caption="Figure 6. Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015." %}
 
 
 Organizationally, the temporal map poses several alternatives to a
@@ -465,7 +465,7 @@ to illuminate. By fixing each society at a particular point in time the
 image fails to represent the contested and fluctuating nature of these
 political arrangements and obscures political configurations that
 although temporary are key to understanding the contemporary terrain.
-For example, the map in figure 4 does not allow us to represent the
+For example, the map in figure 6 does not allow us to represent the
 temporary existence of the West Indies Federation, the failure of which
 sparked the wave of 1960s independence movements that followed. It also
 fails to show that Puerto Rico was an unincorporated US territory since
@@ -482,6 +482,8 @@ Caribbean societies. It wrongly implies that once achieved, national
 sovereignty is not perpetually challenged through military occupations
 and other forms of political and economic intervention.
 
+
+
 In order to better convey these relationships, we recruited the
 assistance of a professional animator to set the above image into
 motion. The final product retains the effects of the temporal map but
@@ -489,13 +491,17 @@ challenges the static effect of the original by allowing us to represent
 movement, contingency, temporary arrangements, and the constant
 challenges and reorganizations that have characterized the region.[^28]
 
-{% include image.html
+{% include interactive.html
+			type="youtube"
+			url="https://player.vimeo.com/video/169690419?autoplay=1"
             img="issue01/bonilla-video.jpg"
-            title="*Visualizing Sovereignty in the Postcolonial
-Caribbean*, 2016"
-            caption="Screenshot of *Visualizing Sovereignty in the Postcolonial
-Caribbean*, 2016; animated video designed by Yarimar Bonilla and Max
-Hantel and produced by Kindea Labs. Video forthcoming." %}
+            title="Visualizing Sovereignty in the Postcolonial
+Caribbean, 2016; animated video designed by Yarimar Bonilla and Max
+Hantel and produced by Kindea Labs."
+            caption="Figure 7. \"Visualizing Sovereignty in the Postcolonial
+Caribbean\", 2016; animated video designed by Yarimar Bonilla and Max
+Hantel and produced by Kindea Labs." %}
+
 
 The video begins with a traditional geographic map of the Caribbean but
 then releases Caribbean societies from their static positioning in order
@@ -575,8 +581,8 @@ of its constituent states. Similarly, at the scale of specific islands,
 revolutionary movements challenged the meaning of independence and the
 partial nature of sovereignty under capitalism. The New Jewel movement
 in Grenada led by Maurice Bishop, which took power from 1979 to 1983,
-for instance, and the 26th of July movement in Cuba by Fidel Castro in
-1959 inaugurated the period of the Cuban Revolution still in effect
+for instance, and the 26th of July movement in Cuba launched by Fidel Castro in
+1953 inaugurated the period of the Cuban Revolution still in effect
 today.
 
 Of course, the temporal difference between the longevity of those two
@@ -774,7 +780,7 @@ Project working group at Barnard College and Columbia University.
 
 [^27]: Neil Smith, "Homeless/Global: Scaling Places," in Jon Bird et al., eds., *Mapping the Futures: Local Cultures, Global Change* (London: Routledge, 1993), 90.
 
-[^28]: Video forthcoming.
+[^28]: [https://vimeo.com/169690419](https://vimeo.com/169690419)
 
 [^29]: See Pedro L. San Miguel, *The Imagined Island: History, Identity, and Utopia in Hispaniola* (Chapel Hill: University of North Carolina Press, 2006).
 

@@ -8,4 +8,10 @@ layout: default
   	<img class="project-image" src="{{site.baseurl}}/{{ page.image }}"/>
   </a>
   {{ content }}
+  		<div class="footer">
+			<ul id="footer-nav">
+				<li><a href="#">Return to top</a></li>
+				<li> | </li>
+				{% for index in site.archives %}{% if index.issue == page.collection %}<li><a href="{{site.baseurl}}/archives/{{ page.collection }}.html">Table of Contents</a></li>{% endif %}{% endfor %}
+			</ul>
 </div>

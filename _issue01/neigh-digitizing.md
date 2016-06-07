@@ -39,7 +39,7 @@ Internet audio archives for poetry have flourished in recent years.
 Websites such as [PennSound](http://writing.upenn.edu/pennsound/), the
 [Poetry Archive](http://www.poetryarchive.org/), the [Poetry
 Foundation](http://www.poetryfoundation.org/), the [Academy of American
-Poets](https://www.poets.org/), and [UbuWeb](http://www.ubuweb.com) have
+Poets](https://www.poets.org/), and [UbuWeb](http://bit.ly/22NdDBL) have
 provided excellent resources for contemporary poetics. These
 twenty-first-century open-access collections offer both live and studio
 recordings, roundtable discussions of poetry, lectures, and taped
@@ -91,7 +91,8 @@ used to reinvigorate Afro-centric oral traditions.[^7]
 
 {% include image.html
             img="issue01/poet-performing-2.jpg"
-            title="2 Cents Movement Poet"
+            title="2 Cents Movement poet Idrees Saleem
+performing at the University of the West Indies, St. Augustine Campus, Trinidad and Tobago. Posted on 24 November 2014."
             caption="Figure 1. 2 Cents Movement poet Idrees Saleem
 performing at the University of the West Indies, St. Augustine Campus, Trinidad and Tobago. Posted on 24 November 2014." %}
 
@@ -230,7 +231,8 @@ international following by circulating their poetry on social media.
 
 {% include image.html
             img="issue01/audience-interaction-1.jpg"
-            title="Audience Interaction"
+            title="Marshall Davis Jones performing at El
+Dorado East Secondary School, Trinidad and Tobago Courts Bocas Speak Out Tour 2015."
             caption="Figure 2. Marshall Davis Jones performing at El
 Dorado East Secondary School, Trinidad and Tobago Courts Bocas Speak Out Tour 2015." %}
 
@@ -250,14 +252,15 @@ the performer's back or the corner of her shoulder.[^26]
 
 {% include image.html
             img="issue01/audience-interaction-2.jpg"
-            title="Audience Interaction"
+            title="UWE Speak Event, University of the West Indies, St. Augustine Campus, Trinidad and Tobago, Courts Bocas Speak Out Tour 2015."
             caption="Figure 3. UWE Speak Event, University of the West Indies, St. Augustine Campus, Trinidad and Tobago, Courts Bocas Speak Out Tour 2015." %} 
 
  
 
 {% include image.html
             img="issue01/poet-performing-1.jpg"
-            title="Poet performer"
+            title="Marshall Davis Jones performing at El
+Dorado East Secondary School, Trinidad and Tobago, Courts Bocas Speak Out Tour 2015."
             caption="Figure 4. Marshall Davis Jones performing at El
 Dorado East Secondary School, Trinidad and Tobago, Courts Bocas Speak Out Tour 2015." %} 
 
@@ -281,7 +284,7 @@ high school communities in Trinidad and Tobago.[^27]
 
 {% include image.html
             img="issue01/audience-interaction-3.jpg"
-            title="Audience interaction"
+            title="Bishops Anstey Secondary School, Trinidad and Tobago, Courts Bocas Speak Out Tour 2015."
             caption="Figure 5. Bishops Anstey Secondary School, Trinidad and Tobago, Courts Bocas Speak Out Tour 2015." %} 
 
 
@@ -375,7 +378,7 @@ audience connection and encourage dialogue beyond the space of the poem.
             type="youtube"
             url="https://www.youtube.com/embed/9OA8eLoPylU"
             img="issue01/maxi-man-youtube.jpg"
-            title="2 Cents Project - Crystal Skeete - Maxi Man tracking School Gyal"
+            title="Crystal Skeete and the \"Maxi Man\" cast, University of the West Indies, St. Augustine Campus, Trinidad and Tobago. Posted on 23 June 2013."
             caption="Figure 6. Crystal Skeete and the \"Maxi Man\" cast, University of the West Indies, St. Augustine Campus, Trinidad and Tobago. Posted on 23 June 2013." %}
 
 
@@ -391,7 +394,7 @@ go sour."[^32] Skeete's conversational style, enhanced by the video
 editing and camera angles, encourage the viewer to feel as though Skeete
 is speaking directly to her. Standing in the middle of the street,
 Skeete begins with the lines, "Posing on every street corner / this is
-the resurrection of 'Jean and Dinah' / . . . / No Yankees here / only
+the resurrection of 'Jean and Dinah' / ... / No Yankees here / only
 maxi man conductor." Referencing Mighty Sparrow's calypso hit "Jean and
 Dinah," about how the presence of a World War II US army base led to
 prostitution in Trinidad, Skeete draws attention to how girls getting
@@ -532,7 +535,7 @@ While PennSound's open-access model holds a lot of potential for
 Caribbean performance poetry, its prioritizing of free resources may not
 be as easy to achieve for Caribbean poetry. An extreme example of this
 free culture ethos is represented by Kenneth Goldsmith, the founder of
-[UBUweb](http://www.ubuweb.com), who for a while maintained a page on
+[UBUweb](http://bit.ly/22NdDBL), who for a while maintained a page on
 the site called the "Wall of Shame": he would publically condemn any
 artist who asked for her work to be removed from the site by writing her
 name on the wall.[^41] Unlike Goldsmith, PennSound strives to ensure
@@ -784,7 +787,7 @@ this vital record of Caribbean poetry history a priority.
 
 [^1]: Edward Kamau Brathwaite, *History of the Voice: The Development of Nation Language in Anglophone Caribbean Poetry* (London: New Beacon, 1984), 13.
 
-[^2]: See [http://writing.upenn.edu/pennsound](http://writing.upenn.edu/pennsound); [http://www.poetryarchive.org](http://www.poetryarchive.org); [http://www.poetryfoundation.org](http://www.poetryfoundation.org); [http://www.poets.org](http://www.poets.org); and [http://www.ubuweb.com](http://www.ubuweb.com).
+[^2]: See [http://writing.upenn.edu/pennsound](http://writing.upenn.edu/pennsound); [http://www.poetryarchive.org](http://www.poetryarchive.org); [http://www.poetryfoundation.org](http://www.poetryfoundation.org); [http://www.poets.org](http://www.poets.org); and [http://bit.ly/22NdDBL](http://bit.ly/22NdDBL).
 
 [^3]: See "PennSound Transforms How Poetry Is Taught the World Over," *Penn News*, 26 June 2014, [https://news.upenn.edu/news/pennsound-transforms-how-poetry-taught-world-over](https://news.upenn.edu/news/pennsound-transforms-how-poetry-taught-world-over).
 

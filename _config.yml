@@ -74,4 +74,6 @@ author:
 version:             0.0.1
 
 # Excluded
-exclude: [utility, Gemfile, Gemfile.lock]
+
+exclude: [utility, Gemfile, Gemfile.lock, extras]
+

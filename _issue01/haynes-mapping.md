@@ -809,7 +809,7 @@ reinscribing inequalities.
 
 ---
 
-**Appendix**
+## Appendix
 
 ***Blog Category:** Description (number of times used)*
 

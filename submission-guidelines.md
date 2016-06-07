@@ -6,7 +6,7 @@ title: for authors
 
 *sx archipelagos*, a small axe journal of digital practice, publishes scholarly articles, digital projects, and digital project reviews related to the Caribbean. We publish one issue per year and accept submissions on a rolling basis.
 
-Contact: Kaiama L. Glover and Alex Gil (archipelagos@smallaxe.net)
+Contact: archipelagos@smallaxe.net
 
 ---
 
@@ -55,7 +55,7 @@ responses will help to maintain schedules.
 
 #### Documents
 
-**Markdown (.md)**: Both our website and PDFs are built from the same
+*Markdown (.md)*: Both our website and PDFs are built from the same
 Markdown files. While we gladly accept articles in Office format, we
 encourage our authors to submit plain text files (UTF-8 encoding),
 written using [Kramdown syntax](http://kramdown.gettalong.org/syntax.html), a version of Markdown, and saved with the .md extension. This will help us keep our workflow light and our file types closer to the production line. For some background on our
@@ -63,7 +63,7 @@ infrastructural choices, and to get started with Markdown, please take
 some time to read “[Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown),” by Dennis Tenen and Grant Whytoff. We sincerely appreciate those who accept the challenge of changing their work habits and are happy to
 provide assistance during the process. You will find many markdown editing tools available, and most plain text editors are great at handling markdown.
 
-**Office formats (.odt, .doc, .docx)**: If you find the Markdown workflow
+*Office formats (.odt, .doc, .docx)*: If you find the Markdown workflow
 overwhelming, we will convert your Microsoft Word, LibreOffice, or
 OpenOffice files to Markdown ourselves at the end of the process. In
 order to minimize the work needed to convert your files into publishable
@@ -134,7 +134,7 @@ screenshot to appear:
 ### Hyperlinks
 
 All referenced pages (whenever possible and allowed by the site's robot.txt file) must point to a specific archived copy at [the Internet
-Archive](https://archive.org/index.php). They must also use an 301works (https://archive.org/details/301works) approved url shortener whenever they appear in text, especially in footnotes. Let us know if you need help with this process.
+Archive](https://archive.org/index.php). They must also use an url shortener (ex. [bit.ly](https://bitly.com/)) whenever they appear in text, especially in footnotes. Let us know if you need help with this process.
 
 Please ensure that all external and internal links in your document are working before submission. Many websites and Web pages disappear or
 become displaced over time. In order to avoid link rot, we run periodic
@@ -213,17 +213,6 @@ Reference: *Merriam-Webster Collegiate*, Web.
     appear in *small axe* with their preferred spellings and
     presentations (see Lexicon).
 
--   Notes require meticulous attention. It is much more difficult to
-    locate required bibliographic information months after your article
-    has been written than it is to include it at the creation stage. See
-    specific examples included here of various forms of citations or
-    consult *CMS*.
-
--   If you use Zotero and are writing your article in Markdown, you can
-    streamline your bibliographic citations in Chicago Style by using
-    the method described in “[Sustainable
-    Authorship](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).”
-
 -   Please identify the components of your article—such as headings
     (“Heading 2” is a major divider; “Heading 3” is subordinate to
     Heading 2, etc.), epigraphs, excerpts, and captions—to
@@ -293,13 +282,17 @@ Reference: *Merriam-Webster Collegiate*, Web.
 
 #### Extracts
 
--   Set off prose extracts of more than fifty words.**{FYI, the print
-    journal now does this when more than eighty** **words. Also, if
-    quoting poetry, set off if four lines or more.}** Use the word count
+-   Set off prose extracts of more than eighty words. Use the word count
     function if in doubt. Cap beginning of all extracts, unless the
     first line of the extract text is a syntactical part of the lead-in
     the sentence. It is not necessary to bracket the capitalization of
     the first letter if it was lowercase in the original.
+
+-   When extracting poetry please use hyphens at the beginning of each line, and in brackets, after the poem tell us how the original is set. Example:<br>  
+    \- c'est tout un  
+    \- et que le flot roule  
+    \- et que ventouse le soleil  
+    \[ second line and third line are indented five spaces \]
 
 #### Illustrations and Figures
 
@@ -371,11 +364,10 @@ apart: “the terms *witchcraft* and *magic* became popular . . .”
     grammatically incomplete sentence.
 
 -   Ellipses may be used between paragraphs in a multiparagraph
-    extract.**{In the print journal, we indicate paragraph breaks
-    in extracts. See *CMS* 13.20 and 13.54}**
+    extract.
 
--   Do not use the ellipses special character insert; instead, use
-    periods and spaces as needed.
+-   Do not use the ellipses special character insert; instead, use three
+    periods without spaces as needed. Ex: ...
 
 #### Comma
 
@@ -405,6 +397,16 @@ Avoid constructions like “s/he,” “he/she,” and “and/or”
 
 
 ### Note Preparation
+
+
+-   Notes require meticulous attention. It is much more difficult to
+    locate required bibliographic information months after your article
+    has been written than it is to include it at the creation stage. When in doubt consult *CMS*.
+
+-   If you use Zotero and are writing your article in Markdown, you can
+    streamline your bibliographic citations in Chicago Style by using
+    the method described in “[Sustainable
+    Authorship](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).”
 
 -   Present citations as numbered footnotes with complete bibliographic
     data using the *CMS* guidelines; do not include a bibliography or
