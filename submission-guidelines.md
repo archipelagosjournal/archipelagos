@@ -134,7 +134,7 @@ screenshot to appear:
 ### Hyperlinks
 
 All referenced pages (whenever possible and allowed by the site's robot.txt file) must point to a specific archived copy at [the Internet
-Archive](https://archive.org/index.php). They must also use an 301works (https://archive.org/details/301works) approved url shortener whenever they appear in text, especially in footnotes. Let us know if you need help with this process.
+Archive](https://archive.org/index.php). They must also use an url shortener (ex. [bit.ly](https://bitly.com/)) whenever they appear in text, especially in footnotes. Let us know if you need help with this process.
 
 Please ensure that all external and internal links in your document are working before submission. Many websites and Web pages disappear or
 become displaced over time. In order to avoid link rot, we run periodic
@@ -401,9 +401,7 @@ Avoid constructions like “s/he,” “he/she,” and “and/or”
 
 -   Notes require meticulous attention. It is much more difficult to
     locate required bibliographic information months after your article
-    has been written than it is to include it at the creation stage. See
-    specific examples included here of various forms of citations or
-    consult *CMS*.
+    has been written than it is to include it at the creation stage. When in doubt consult *CMS*.
 
 -   If you use Zotero and are writing your article in Markdown, you can
     streamline your bibliographic citations in Chicago Style by using

@@ -39,7 +39,7 @@ Internet audio archives for poetry have flourished in recent years.
 Websites such as [PennSound](http://writing.upenn.edu/pennsound/), the
 [Poetry Archive](http://www.poetryarchive.org/), the [Poetry
 Foundation](http://www.poetryfoundation.org/), the [Academy of American
-Poets](https://www.poets.org/), and [UbuWeb](http://www.ubuweb.com) have
+Poets](https://www.poets.org/), and [UbuWeb](http://bit.ly/22NdDBL) have
 provided excellent resources for contemporary poetics. These
 twenty-first-century open-access collections offer both live and studio
 recordings, roundtable discussions of poetry, lectures, and taped
@@ -535,7 +535,7 @@ While PennSound's open-access model holds a lot of potential for
 Caribbean performance poetry, its prioritizing of free resources may not
 be as easy to achieve for Caribbean poetry. An extreme example of this
 free culture ethos is represented by Kenneth Goldsmith, the founder of
-[UBUweb](http://www.ubuweb.com), who for a while maintained a page on
+[UBUweb](http://bit.ly/22NdDBL), who for a while maintained a page on
 the site called the "Wall of Shame": he would publically condemn any
 artist who asked for her work to be removed from the site by writing her
 name on the wall.[^41] Unlike Goldsmith, PennSound strives to ensure
@@ -787,7 +787,7 @@ this vital record of Caribbean poetry history a priority.
 
 [^1]: Edward Kamau Brathwaite, *History of the Voice: The Development of Nation Language in Anglophone Caribbean Poetry* (London: New Beacon, 1984), 13.
 
-[^2]: See [http://writing.upenn.edu/pennsound](http://writing.upenn.edu/pennsound); [http://www.poetryarchive.org](http://www.poetryarchive.org); [http://www.poetryfoundation.org](http://www.poetryfoundation.org); [http://www.poets.org](http://www.poets.org); and [http://www.ubuweb.com](http://www.ubuweb.com).
+[^2]: See [http://writing.upenn.edu/pennsound](http://writing.upenn.edu/pennsound); [http://www.poetryarchive.org](http://www.poetryarchive.org); [http://www.poetryfoundation.org](http://www.poetryfoundation.org); [http://www.poets.org](http://www.poets.org); and [http://bit.ly/22NdDBL](http://bit.ly/22NdDBL).
 
 [^3]: See "PennSound Transforms How Poetry Is Taught the World Over," *Penn News*, 26 June 2014, [https://news.upenn.edu/news/pennsound-transforms-how-poetry-taught-world-over](https://news.upenn.edu/news/pennsound-transforms-how-poetry-taught-world-over).
 
