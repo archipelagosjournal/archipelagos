@@ -26,7 +26,7 @@ ssed -r -i -f $root/utility/ConTeXt/iframe.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/tables.ssed $filename.tex
 
 echo ConTeXt $filename
-context --purgeall --batchmode $filename.tex > $filename.log 
+context --batchmode $filename.tex > $filename.log 
 #echo Showing
 #subl contextRunLog.log
 #subl pandoc.log

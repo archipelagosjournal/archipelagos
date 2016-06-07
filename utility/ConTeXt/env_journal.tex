@@ -3,6 +3,8 @@
 \setupcolors[state=start]
 \setupreferencing[autofile=yes]
 \setupinteraction[state=start, color=black, contrastcolor=black, style={\tf}]
+\placebookmarks[chapter,subsection][chapter,subsection]
+
 
 \definefontfeature
   [default]
@@ -14,7 +16,7 @@
 %\usemodule[simplefonts]
 %\setmainfont[xits][expansion=quality,protrusion=quality]
 \definefontfamily[main][sans][Helvetica Neue][expansion=quality,protrusion=quality,it=file:helveticaneueitalic, sl=file:helveticaneueitalic]
-\definefontfamily[light][sans][Helvetica Neue Light][expansion=quality,protrusion=quality,it=file:helveticaneueitalic, sl=file:helveticaneueitalic]
+\definefontfamily[light][sans][Helvetica Neue][tf=file:helveticaneuelight, expansion=quality,protrusion=quality,it=file:helveticaneuelightitalic, sl=file:helveticaneuelightitalic]
 \setupbodyfont[main, 11pt]
 
 
