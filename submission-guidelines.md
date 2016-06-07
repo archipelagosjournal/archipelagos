@@ -374,8 +374,8 @@ apart: “the terms *witchcraft* and *magic* became popular . . .”
     extract.**{In the print journal, we indicate paragraph breaks
     in extracts. See *CMS* 13.20 and 13.54}**
 
--   Do not use the ellipses special character insert; instead, use
-    periods and spaces as needed.
+-   Do not use the ellipses special character insert; instead, use three
+    periods without spaces as needed. Ex: ...
 
 #### Comma
 
