@@ -50,6 +50,7 @@ for issuePath in $(find $root -maxdepth 1 -name "_issue*" -type d  ); do
 
 done	
 
+cp -r $root/extras $root/assets/
 cd $root
 
 jekyll build
