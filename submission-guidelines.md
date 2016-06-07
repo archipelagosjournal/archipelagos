@@ -55,7 +55,7 @@ responses will help to maintain schedules.
 
 #### Documents
 
-**Markdown (.md)**: Both our website and PDFs are built from the same
+*Markdown (.md)*: Both our website and PDFs are built from the same
 Markdown files. While we gladly accept articles in Office format, we
 encourage our authors to submit plain text files (UTF-8 encoding),
 written using [Kramdown syntax](http://kramdown.gettalong.org/syntax.html), a version of Markdown, and saved with the .md extension. This will help us keep our workflow light and our file types closer to the production line. For some background on our
@@ -63,7 +63,7 @@ infrastructural choices, and to get started with Markdown, please take
 some time to read “[Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown),” by Dennis Tenen and Grant Whytoff. We sincerely appreciate those who accept the challenge of changing their work habits and are happy to
 provide assistance during the process. You will find many markdown editing tools available, and most plain text editors are great at handling markdown.
 
-**Office formats (.odt, .doc, .docx)**: If you find the Markdown workflow
+*Office formats (.odt, .doc, .docx)*: If you find the Markdown workflow
 overwhelming, we will convert your Microsoft Word, LibreOffice, or
 OpenOffice files to Markdown ourselves at the end of the process. In
 order to minimize the work needed to convert your files into publishable
