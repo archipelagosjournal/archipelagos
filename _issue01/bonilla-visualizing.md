@@ -12,10 +12,10 @@ author:
 date: May 2016
 issue: 1
 order: 5
-abstract: "This essay asks how visual representations of the postcolonial Caribbean are shaped by, and in turn could reshape, the political imaginary of sovereignty. Describing several different experiments with form---from conventional maps to temporal charts to animation---it argues that visualizing sovereignty is a first step in retheorizing the meaning of sovereignty itself beyond the regulatory limits of insular, nation-state autonomy. The authors call for collaborative efforts to create \"prophetic cartographies\" attuned to alternative political currents and the possibility of imagining the Caribbean otherwise."
+abstract: "This essay asks how visual representations of the postcolonial Caribbean are shaped by, and in turn could reshape, the political imaginary of sovereignty. Describing several different experiments with form—from conventional maps to temporal charts to animation—it argues that visualizing sovereignty is a first step in retheorizing the meaning of sovereignty itself beyond the regulatory limits of insular, nation-state autonomy. The authors call for collaborative efforts to create \"prophetic cartographies\" attuned to alternative political currents and the possibility of imagining the Caribbean otherwise."
 ---
 
-The test for this project arose during a fit of last-minute teaching
+The genesis for this project arose during a fit of last-minute teaching
 prep for one of the authors. While putting the final touches on a
 lecture for a Caribbean Perspectives class, Yarimar struggled with how
 to visually represent the political terrain of the Caribbean and
@@ -105,7 +105,7 @@ This history of fractured, uneven, contested, and negotiated sovereignty
 continues to shape the region as a whole, and at present the *majority*
 of societies in the Caribbean are not independent nation-states but
 rather protectorates, territories, departments, and commonwealths (see
-[appendix]({{site.baseurl}}/assets/extra/issue01-bonilla-appendix.pdf)). In addition, the Caribbean also holds a large number of
+[appendix]({{site.baseurl}}/assets/extras/issue01-bonilla-appendix.pdf)). In addition, the Caribbean also holds a large number of
 nonsovereign enclaves: military bases, privately owned islands,
 semiautonomous tourist resorts, free-trade zones, tax havens, wildlife
 preserves, satellite launching stations, detention centers, penal
@@ -482,6 +482,8 @@ Caribbean societies. It wrongly implies that once achieved, national
 sovereignty is not perpetually challenged through military occupations
 and other forms of political and economic intervention.
 
+
+
 In order to better convey these relationships, we recruited the
 assistance of a professional animator to set the above image into
 motion. The final product retains the effects of the temporal map but
@@ -489,15 +491,17 @@ challenges the static effect of the original by allowing us to represent
 movement, contingency, temporary arrangements, and the constant
 challenges and reorganizations that have characterized the region.[^28]
 
-{% include image.html
-            img="issue01/bonilla-video.jpg"
-            title="''Visualizing Sovereignty in the Postcolonial
-Caribbean', 2016; animated video designed by Yarimar Bonilla and Max
-Hantel and produced by Kindea Labs."
+{% include interactive.html
+			type="youtube"
 			url="https://player.vimeo.com/video/169690419?autoplay=1"
-            caption="Figure 7. 'Visualizing Sovereignty in the Postcolonial
-Caribbean', 2016; animated video designed by Yarimar Bonilla and Max
+            img="issue01/bonilla-video.jpg"
+            title="Visualizing Sovereignty in the Postcolonial
+Caribbean, 2016; animated video designed by Yarimar Bonilla and Max
+Hantel and produced by Kindea Labs."
+            caption="Figure 7. \"Visualizing Sovereignty in the Postcolonial
+Caribbean\", 2016; animated video designed by Yarimar Bonilla and Max
 Hantel and produced by Kindea Labs." %}
+
 
 The video begins with a traditional geographic map of the Caribbean but
 then releases Caribbean societies from their static positioning in order
