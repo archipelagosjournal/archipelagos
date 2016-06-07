@@ -213,17 +213,6 @@ Reference: *Merriam-Webster Collegiate*, Web.
     appear in *small axe* with their preferred spellings and
     presentations (see Lexicon).
 
--   Notes require meticulous attention. It is much more difficult to
-    locate required bibliographic information months after your article
-    has been written than it is to include it at the creation stage. See
-    specific examples included here of various forms of citations or
-    consult *CMS*.
-
--   If you use Zotero and are writing your article in Markdown, you can
-    streamline your bibliographic citations in Chicago Style by using
-    the method described in “[Sustainable
-    Authorship](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).”
-
 -   Please identify the components of your article—such as headings
     (“Heading 2” is a major divider; “Heading 3” is subordinate to
     Heading 2, etc.), epigraphs, excerpts, and captions—to
@@ -293,13 +282,17 @@ Reference: *Merriam-Webster Collegiate*, Web.
 
 #### Extracts
 
--   Set off prose extracts of more than fifty words.**{FYI, the print
-    journal now does this when more than eighty** **words. Also, if
-    quoting poetry, set off if four lines or more.}** Use the word count
+-   Set off prose extracts of more than eighty words. Use the word count
     function if in doubt. Cap beginning of all extracts, unless the
     first line of the extract text is a syntactical part of the lead-in
     the sentence. It is not necessary to bracket the capitalization of
     the first letter if it was lowercase in the original.
+
+-   When extracting poetry please use hyphens at the beginning of each line, and in brackets, after the poem tell us how the original is set. Example:<br>  
+    \- c'est tout un  
+    \- et que le flot roule  
+    \- et que ventouse le soleil  
+    \[ second line and third line are indented five spaces \]
 
 #### Illustrations and Figures
 
@@ -371,8 +364,7 @@ apart: “the terms *witchcraft* and *magic* became popular . . .”
     grammatically incomplete sentence.
 
 -   Ellipses may be used between paragraphs in a multiparagraph
-    extract.**{In the print journal, we indicate paragraph breaks
-    in extracts. See *CMS* 13.20 and 13.54}**
+    extract.
 
 -   Do not use the ellipses special character insert; instead, use three
     periods without spaces as needed. Ex: ...
@@ -405,6 +397,18 @@ Avoid constructions like “s/he,” “he/she,” and “and/or”
 
 
 ### Note Preparation
+
+
+-   Notes require meticulous attention. It is much more difficult to
+    locate required bibliographic information months after your article
+    has been written than it is to include it at the creation stage. See
+    specific examples included here of various forms of citations or
+    consult *CMS*.
+
+-   If you use Zotero and are writing your article in Markdown, you can
+    streamline your bibliographic citations in Chicago Style by using
+    the method described in “[Sustainable
+    Authorship](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).”
 
 -   Present citations as numbered footnotes with complete bibliographic
     data using the *CMS* guidelines; do not include a bibliography or
