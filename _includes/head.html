@@ -17,7 +17,7 @@
     <meta property="og:author" content="{% for author in page.author %}{% if forloop.length == 1 %}{{ author.name }}{% elsif forloop.length == 2 %}{% if forloop.last == true %} and {{ author.name }}{% else %}{{ author.name }}{% endif %}{% else %}{% if forloop.last == true %}and {{ author.name }}{% else %}{{ author.name }}, {% endif %}{% endif %}{% endfor %}"/>
     <meta property="og:book:release_date" content="{{ page.date }}"/>
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="{{ site.url }}"/>
+    <meta property="og:url" content="http://smallaxe.net/sxarchipelagos/index.html"/>
     <meta property="og:image" content="http://smallaxe.net{{site.baseurl}}/public/open-graph-logo.png"/> 
 
     <title>sx archipelagos</title>  
