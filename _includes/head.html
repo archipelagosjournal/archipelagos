@@ -1,4 +1,5 @@
 <head>
+    <title>sx archipelagos</title>  
     <link href="http://gmpg.org/xfn/11" rel="profile">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
@@ -6,7 +7,7 @@
     <!-- Enable responsiveness on mobile devices-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
       <!--   Dublin Core metadata for Zotero -->  
-    <meta name="DC.title" content="{{ page.title['long']}}"/>
+    <meta name="DC.title" content="{% if page.layout !="article" %}sx archipelagos{% else %}{{ page.title['long'] }}{% endif %}"/>
     <meta name="DC.creator" content="{% for author in page.author %}{% if forloop.length == 1 %}{{ author.name }}{% elsif forloop.length == 2 %}{% if forloop.last == true %} and {{ author.name }}{% else %}{{ author.name }}{% endif %}{% else %}{% if forloop.last == true %}and {{ author.name }}{% else %}{{ author.name }}, {% endif %}{% endif %}{% endfor %}" />
     <meta name="DC.date" content="{{ page.date }}" />
     <meta name="DC.rights" content="{{ page.rights }}" />
@@ -35,10 +36,6 @@
     <meta property="og:image:width" content="200" />
     <meta property="og:image:height" content="200" />
     {% endif %}
-
-
-
-    <title>sx archipelagos</title>
 
     <!-- CSS -->
     <link rel="stylesheet" href="{{ site.baseurl }}/public/css/syntax.css">
