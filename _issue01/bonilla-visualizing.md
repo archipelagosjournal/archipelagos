@@ -7,8 +7,11 @@ title:
 author: 
 - name: Yarimar Bonilla
   shortname: Bonilla
+  bio: "Yarimar Bonilla is Associate Professor of anthropology and Latino & Caribbean Studies at Rutgers University, where she is on the executive board for the Advanced Institute for Critical Caribbean Studies. She teaches and writes about social movements, colonial
+legacies, and the politics of history in the Atlantic World. She is the author of *Non-Sovereign Futures: French Caribbean Politics in the Wake of Disenchantment* (2015) and is currently working on a book project about the statehood movement in Puerto Rico."
 - name: Max Hantel
-  shortname: Hantel 
+  shortname: Hantel
+  bio: "Max Hantel is a postdoctoral fellow in the Gender Research Institute at Dartmouth College. He is currently completing his book project, Haunted Confluence: Intergenerational Geographies of Race and Sex in Afro-Caribbean Feminism. His work on Caribbean philosophy and political ecology has appeared in *Small Axe*, *The Journal of French and Francophone Philosophy*, and *Rhizomes*."
 date: May 2016
 issue: 1
 order: 5
