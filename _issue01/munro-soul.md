@@ -4,9 +4,11 @@ section: articles
 title: 
   "long": "'Who Stole the Soul?' Rhythm and Race in the Digital Age"
   "short": "Who Stole the Soul?"
+doi: "10.7916/D8NC619F"
 author: 
 - name: "Martin Munro"
   shortname: Munro
+  bio: Martin Munro is Winthrop-King Professor of French and Francophone Studies at Florida State University. He previously worked in Scotland, Ireland, and Trinidad. His recent publications include: *Writing on the Fault Line: Haitian Literature and the Earthquake of 2010* (Liverpool, 2014); and *Tropical Apocalypse: Haiti and the Caribbean End Times* (Virginia, 2015). He is Director of the Winthrop-King Institute for Contemporary French and Francophone Studies at Florida State.
 date: "May 2016"
 issue: 1
 order: 3
