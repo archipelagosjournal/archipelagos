@@ -4,6 +4,7 @@ section: articles
 title: 
   "long": "Visualizing Sovereignty: Cartographic Queries for the Digital Age"
   "short": "Visualizing Sovereignty"
+doi: "10.7916/D8CV4HTJ"
 author: 
 - name: Yarimar Bonilla
   shortname: Bonilla
