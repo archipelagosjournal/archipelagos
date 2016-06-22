@@ -5,6 +5,7 @@ issue: 1
 title: 
   "long": "Musical Passage: A Voyage to 1688 Jamaica "
   "short": "Musical Passage"
+doi: "10.7916/D80K28PX"
 credit: "Laurent Dubois, David Garner &amp; Mary Caton Lingold"
 image: images/issue01/musical-passage.jpg
 thumb: images/issue01/musical-passage-thumb.jpg
