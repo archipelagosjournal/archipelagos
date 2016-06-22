@@ -4,9 +4,11 @@ section: articles
 title: 
   "long": "Twitter's and @douenislands' Ambiguous Paths"
   "short": Ambiguous Paths
+doi: "10.7916/D8S46S1S"
 author: 
 - name: Jeannine Murray-Román
   shortname: Murray-Román  
+  bio: Jeannine Murray-Román (PhD Comparative Literature, UCLA) is Assistant Professor of French and Spanish in the Department of Modern Languages and Linguistics at Florida State University. Her areas of specialization are comparative Caribbean literatures and Cultures with an interest in digital humanities and postcolonial, transnational, and performance studies. Her book, *Performance and Personhood in Caribbean Literature: From Alexis to the Digital Age* was published by University of Virginia Press in 2016.
 date: May 2016
 issue: 1
 order: 2
