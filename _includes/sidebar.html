@@ -5,7 +5,15 @@
     <!-- Toggleable sidebar -->
     <div class="sidebar" id="sidebar">
       <div class="sidebar-item">
+        {% if page.layout != "article" %}
         <p><em>sx archipelagos</em>—a small axe journal of digital practice—is part of the <a href="http://smallaxe.net/" target="_blank">Small Axe Project</a>.</p>
+        {% else %}
+
+        <h1 class="article-title">{{page.title["long"]}}</h1>
+        <p>{% include author-loop.html %}</p>
+        <p>Issue ({{page.issue}}) | {{ page.date | date: '%B %Y'}} <br>DOI: {{ page.doi }}</p>
+
+        {% endif %}
       </div>
       <nav class="main-nav">
       <a class="sidebar-nav-item" href="{{ site.baseurl }}/index.html">Home</a>  

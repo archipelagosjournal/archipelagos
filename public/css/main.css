@@ -185,9 +185,6 @@ h2.tagline {
   margin-top:.4rem;
 }
 
-h1.post-title {
-	font-size: 1.4rem;
-}
 
 h2 {
 	margin-top: 1.4rem;
@@ -570,6 +567,16 @@ ul#footer-nav li {
 	margin-bottom: 0;
   font-size: .8rem;
 }
+
+
+
+h1.article-title {
+  font-size: .8rem;
+  color: white;
+  margin-bottom: .4rem;
+}
+
+
 
 .sidebar a {
   font-weight: 300;

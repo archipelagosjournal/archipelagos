@@ -4,10 +4,11 @@ section: articles
 title: 
   "long": "Twitter's and @douenislands' Ambiguous Paths"
   "short": Ambiguous Paths
+doi: "10.7916/D8S46S1S"
 author: 
 - name: Jeannine Murray-Román
   shortname: Murray-Román  
-date: May 2016
+date: "June 2016"
 issue: 1
 order: 2
 abstract: "The Douen Islands project was cofounded in 2013 by a group of Trinidadian artists, including poet Andre Bagoo, graphic designer Kriston Chen, and artist Rodell Warner, among others. Its name refers to the folk figures of douen, whose backward-pointing feet create backward paths. This essay uses a Twitter-focused analysis to explore the representations of the douen in two Douen Islands projects: first, considering the social mediatization of the text and the performance event the artists created, and, second, exploring how a backward-reading practice impacts possible interpretations of the douen's persona as tweeted in these two projects."

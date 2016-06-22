@@ -5,19 +5,19 @@
 <!-- Introductory material -->
 <ul>
 
-{% assign documents = (include.issue | sort: 'order') %}  
+{% assign articles = (include.issue | sort: 'order') %}  
 
 <h3>Introduction</h3>
 
-{% for document in documents %}
-  {% if document.section == "introduction" %}
+{% for page in articles %}
+  {% if page.section == "introduction" %}
 
     <li>
-      <a href="{{ document.url | prepend:site.baseurl }}">
-        <span class="toc-title">{{ document.title }}</span>
+      <a href="{{ page.url | prepend:site.baseurl }}">
+        <span class="toc-title">{{ page.title }}</span>
       </a><br>
     <span class="byline"> 
-    {{ document.author }}
+    {{ page.author }}
     </span>
     </li>
 
@@ -27,13 +27,13 @@
 
 <ul>
 <h3>Essays</h3>
-{% for document in documents %}
-  {% if document.section == "articles" %}
+{% for page in articles %}
+  {% if page.section == "articles" %}
 
 
     <li>
-      <a href="{{ document.url | prepend:site.baseurl }}">
-        <span class="toc-title">{{ document.title["long"] }}</span>
+      <a href="{{ page.url | prepend:site.baseurl }}">
+        <span class="toc-title">{{ page.title["long"] }}</span>
       </a><br>
     <span class="byline">
     {% include author-loop.html %}
@@ -41,7 +41,7 @@
     </span>
     <!-- PDF -->
     <p>
-      <a class="alt-link" href="{{ site.baseurl }}/assets{{ document.url | replace:'.html','.pdf' }}" target="_blank">PDF</a> 
+      <a class="alt-link" href="{{ site.baseurl }}/assets{{ page.url | replace:'.html','.pdf' }}" target="_blank">PDF</a> 
     </p>
     </li>
 
@@ -55,18 +55,17 @@
 
 
 
-{% for document in documents %}
-  {% if document.section == "projects" %}
+{% for page in articles %}
+  {% if page.section == "projects" %}
 
     <li>
-      <a href="{{ document.url | prepend:site.baseurl }}">
-        <span class="toc-title">{{ document.title["long"] }}</span>
+      <a href="{{ page.url | prepend:site.baseurl }}">
+        <span class="toc-title">{{ page.title["long"] }}</span>
       </a><br>
     <span class="byline"> 
-        {{ document.credit }}
+        {{ page.credit }}
     </span><br>
-    <a class="alt-link" href="{{ document.url | prepend:site.baseurl }}">Read our exchange</a><span class="alt-link"> | </span><a class="alt-link" href="{{ document.link }}" target="_blank">Visit the Project Site</a>
-    <a class="alt-link" href="{{ document.link }}" target="_blank"><img class="project-image-toc" src="{{site.baseurl}}/{{ document.thumb }}" width="33%" /></a>
+    <a class="alt-link" href="{{ page.url | prepend:site.baseurl }}">Read our exchange</a><span class="alt-link"> | </span><a class="alt-link" href="{{ page.link }}" target="_blank">Visit the Project Site</apage    <a class="alt-link" href="{{ page.link }}" target="_blank"><img class="project-image-toc" src="{{site.baseurl}}/{{ page.thumb }}" width="33%" /></a>
     </li>
 
   {% endif %}
@@ -77,12 +76,12 @@
 
 <ul>
 <h3>Digital Project Reviews</h3>
-{% for document in documents %}
-  {% if document.section == "reviews" %}
+{% for page in articles %}
+  {% if page.section == "reviews" %}
 
     <li>
-      <a href="{{ document.url | prepend:site.baseurl }}">
-        <span class="toc-title">{{ document.title["long"] }}</span>
+      <a href="{{ page.url | prepend:site.baseurl }}">
+        <span class="toc-title">{{ page.title["long"] }}</span>
       </a><br>
     <span class="byline">
   {% include author-loop.html %}
@@ -90,7 +89,7 @@
     </span>
     <!-- PDF -->
     <p>
-      <a class="alt-link" href="{{ site.baseurl }}/assets{{ document.url | replace:'.html','.pdf' }}" target="_blank">PDF</a>     
+      <a class="alt-link" href="{{ site.baseurl }}/assets{{ page.url | replace:'.html','.pdf' }}" target="_blank">PDF</a>     
     </p>
     </li>
 
