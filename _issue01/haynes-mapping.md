@@ -4,9 +4,11 @@ section: articles
 title: 
   "long": "Mapping Caribbean Cyberfeminisms"
   "short": Mapping Caribbean Cyberfeminisms
+doi: "10.7916/D8HM58J8"
 author: 
 - name: Tonya Haynes
   shortname: Haynes
+  bio: "Tonya Haynes lectures at the Institute for Gender and Development Studies: Nita Barrow Unit, blogs on redforgender.wordpress.com, and is a founding member of CODE RED for gender justice! and CatchAFyah Caribbean Feminist Network. She holds a PhD from the University of the West Indies and researches in the area of Caribbean feminisms and Caribbean Feminist Thought. Her work has been published in *Global Public Health* and *Small Axe: A Journal of Caribbean Criticism*."
 date: May 2016
 issue: 1
 order: 4

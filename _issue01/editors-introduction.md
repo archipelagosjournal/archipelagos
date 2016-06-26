@@ -6,13 +6,17 @@ order: 0
 title: 
   "long": "Editors' Introduction: The Caribbean Digital"
   "short": "Editor's Introduction"
+doi: "10.7916/D81J99TR"
 author: 
 - name: Kaiama L. Glover
   shortname: Glover
-- name: Kelly Baker Josephs
-  shortname: Josephs
+  bio: "[Kaiama L. Glover](https://barnard.edu/profiles/kaiama-l-glover) is Associate Professor of French and Africana Studies at Barnard College, Columbia University. She is the author of [Haiti Unbound: A Spiralist Challenge to the Postcolonial Canon](http://liverpooluniversitypress.co.uk/products/61903) (Liverpool UP 2010), first editor of [Marie Vieux Chauvet: Paradoxes of the Postcolonial Feminine](http://yalebooks.com/book/9780300214192/yale-french-studies-number-128) (Yale French Studies 2016), and translator of Frankétienne’s Ready to Burst (Archipelago Books 2014). She has received awards and fellowships from the National Endowment for the Humanities, the Mellon Foundation, and the Fulbright Foundation. Current projects include forthcoming translations of Marie Vieux Chauvet’s *Dance on the Volcano* (Archipelago Books) and René Depestre’s *Hadriana in All My Dreams* (Akashic Books), and the multimedia platform *In the Same Boats: Toward an Afro-Atlantic Visual Cartography*."
 - name: Alex Gil
   shortname: Gil
+  bio: "[Alex Gil](http://www.elotroalex.com/) is Digital Scholarship Coordinator for the Humanities and History at Columbia University Libraries. He collaborates with faculty, students and the library on the use of technologies on humanities research, pedagogy and scholarly communications. His research is focused on textual scholarship, digital humanities and Caribbean studies. Current projects include [Ed](http://elotroalex.github.io/ed/), a foundation for *sx archipelagos*; the Open Syllabus Project; a geo-bibliography of Aimé Césaire; the Translation Toolkit; and, In The Same Boats, a visualization of trans-Atlantic intersections of black intellectuals in the 20th century. He is co-founder and active member of the Global Outlook::Digital Humanities initiative, [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/), and the Studio@Butler at Columbia University."
+- name: Kelly Baker Josephs
+  shortname: Josephs
+  bio: "Kelly Baker Josephs is Associate Professor of English at York College, CUNY. She is the author of [*Disturbers of the Peace: Representations of Insanity in Anglophone Caribbean Literature*](http://www.upress.virginia.edu/title/4572) (2013), editor of [*sx salon: a small axe literary platform*](http://smallaxe.net/sxsalon-home), and manager of [*The Caribbean Commons*](http://caribbean.commons.gc.cuny.edu) website. Her current project, “Caribbean Articulations: Storytelling in a Digital Age,” explores the intersections between new technologies and Caribbean cultural production."
 ---
 
 

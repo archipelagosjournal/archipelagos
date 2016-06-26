@@ -4,9 +4,11 @@ section: reviews
 title: 
   "long": "A Review of \"Two Plantations\""
   "short": Review
+doi: "10.7916/D84B31DN"
 author: 
 - name: Jessica Marie Johnson
   shortname: Johnson
+  bio: "Jessica Marie Johnson is Assistant Professor of History at Michigan State University. Her work has appeared in *Slavery & Abolition*, *The Black Scholar*, *Meridians: Feminism, Race and Transnationalism*, and *Debates in the Digital Humanities*. As a digital humanist, Johnson explores the way digital and social media disseminate and create historical narratives, in particular, comparative histories of slavery and people of African descent."
 date: "May 2016"
 issue: 1
 order: 7
