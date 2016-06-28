@@ -13,18 +13,8 @@ layout: default
 		  {% endif %}
 		  {{ content }}
 		</div>
-		<br><hr>
 
-<div class="bios">
-	{% for author in page.author %}
-	<h3>{{author.name}}</h3>
-
-		{% if author.bio %}
-		<p>{{ author.bio | markdownify }}</p>
-		{% endif %}
-		
-	{% endfor %}
-</div>
+      {% include bios.html %}
 
 		
 		<hr>

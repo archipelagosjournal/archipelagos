@@ -17,7 +17,7 @@
         <span class="toc-title">{{ page.title }}</span>
       </a><br>
     <span class="byline"> 
-    {{ page.author }}
+    {% include author-loop.html %}
     </span>
     </li>
 
@@ -63,7 +63,7 @@
         <span class="toc-title">{{ page.title["long"] }}</span>
       </a><br>
     <span class="byline"> 
-        {{ page.credit }}
+        {% include author-loop.html %}
     </span><br>
     <a class="alt-link" href="{{ page.url | prepend:site.baseurl }}">Read our exchange</a><span class="alt-link"> | </span><a class="alt-link" href="{{ page.link }}" target="_blank">Visit the Project Site</apage    <a class="alt-link" href="{{ page.link }}" target="_blank"><img class="project-image-toc" src="{{site.baseurl}}/{{ page.thumb }}" width="33%" /></a>
     </li>
