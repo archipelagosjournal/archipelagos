@@ -83,9 +83,11 @@ master's house.
 
 ---
 
-## Indexing
+## Colophon
 
-[We are in the process of establishing DOI's and an ISSN. Look for this space in the future for more information]
+All content is available in full on the site without embargo. We do not charge author fees. We are fully open access in all formats. Each article is provided with a unique URL. 
+
+come with several layers of metadata.
 
 ---
 

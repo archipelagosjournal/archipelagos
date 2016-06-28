@@ -11,6 +11,10 @@ url:                 'http://smallaxe.net'
 baseurl:             '/sxarchipelagos'
 githuburl:           'https://github.com/sx-archipelagos/sxa'
 
+# Colophon
+issn: 2473-2206
+
+# Collections
 collections:
   issue01:
     output: true
