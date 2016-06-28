@@ -76,23 +76,32 @@ Caribbean](http://www.dloc.com/). We do so remaining ever vigilant to
 materialist, ecological, identitarian, and liberatory considerations. We
 do so, in the last instance, fully conscious of our decades-old
 wrangling of computers—from Kamau Brathwaite's *Sycorax* to the
-ingenious scholar-hackers of today's Havana. Our cutting edge comes,
+ingenious scholar-hackers of today's Havana or the model work of [Create Caribbean](http://createcaribbean.org/create/) in Dominica. Our cutting edge comes,
 then, not from a misguided sense of techno-utopianism—or worse,
 techno-determinism—but as a new small axe, hacking away still at that
 master's house.
+
+
+---
+
+## Open Access Policy
+
+<em>sx archipelagos</em> is an open access journal, which means that all content is freely available without charge to users and or institutions. Users are allowed to read, download, copy, distribute, print, search, or link to the full texts of the articles in this journal without asking prior permission from the journal. Authors retain their copyright and agree to license their articles with a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+
+The technological stack used for *sx archipelagos* is offered with an MIT license, except for the aggregate design connecting our platform to the Small Axe Project. All of our data is open on our <a href="{{site.githuburl}}">Github repository</a>.
 
 ---
 
 ## Colophon
 
-All content is available in full on the site without embargo. We do not charge author fees. We are fully open access in all formats. Each article is provided with a unique URL. 
+ISSN: 2473-2206
 
-come with several layers of metadata.
+All articles are peer-reviewed using the double-blind method. All digital projects are peer-reviewed single blind. Project reviews are edited by the journal editors.
 
----
+Each article provides metadata in the following standards in the HTML code:
 
-## Rights
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>Articles published as part of <em>sx archipelagos</em> are distributed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> unless otherwise noted.
-
-The technological stack used for *sx archipelagos* is offered with an MIT license, except for the aggregate design connecting our platform to the Small Axe Project. All of our data is open on our <a href="{{site.githuburl}}">Github repository</a>.
+- Dublin Core (For Zotero and other indexing tools)
+- Open Graph (For social media distribution)
+- Highwire Press (For Google Scholar)
