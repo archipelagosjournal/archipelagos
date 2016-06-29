@@ -5,9 +5,11 @@ pdf: neigh-digitizing.pdf
 title: 
   "long": "Digitizing the \'Sound Explosions\' of Anglophone Caribbean Performance Poetry"
   "short": Digitizing the Sound Explosions
+doi: "10.7916/D8WS8TBG"
 author: 
 - name: Janet Neigh
   shortname: Neigh
+  bio: "Janet Neigh is Assistant Professor of English at Penn State Erie, The Behrend College. Her research is forthcoming in *The Cambridge Companion to Postcolonial Poetry* and has been published in *Feminist Formations*, *Modernism/modernity*, and *The Journal of West Indian Literature*."
 date: March 2016
 issue: 1
 order: 1

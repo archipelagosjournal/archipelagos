@@ -123,6 +123,18 @@ a:focus {
   text-decoration: underline;
 }
 
+a.header-title {
+
+  font-weight: 300;
+  text-transform: uppercase;
+  max-width: 38rem;
+  padding-left:  1rem;
+  padding-right: 1rem;
+  margin-left:  auto;
+  margin-right: auto;
+  font-size: .7rem;
+}
+
 /* Headings */
 
 
@@ -170,11 +182,9 @@ h2.tagline {
   font-size: 3rem;
   line-height: 2.6rem;
   margin-bottom: 3rem;
+  margin-top:.4rem;
 }
 
-h1.post-title {
-	font-size: 1.4rem;
-}
 
 h2 {
 	margin-top: 1.4rem;
@@ -218,6 +228,41 @@ p {
 
 strong {
   color: #303030;
+}
+
+/* Footer */
+div.footer-menu {
+    margin: auto;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+ul#footer-menu {
+  list-style-type: none;
+}
+
+ul#footer-menu li {
+  display: inline-block;
+  padding-right: .4rem;
+  text-transform: uppercase;
+  font-size: 0.6rem;
+}
+
+a.footer-menu-item {
+    color: #939598;
+}
+
+a.footer-menu-item-active {
+    color: #D0181F;
+}
+
+@media (max-width: 46em) {
+  ul#footer-menu li {
+  padding-right: .2rem;
+  font-size: 0.5rem;
+}
+
 }
 
 /* Table of contents */
@@ -422,7 +467,6 @@ ul#main-nav, ul#main-nav-small {
   list-style-type: none;
   display: inline-block;
   margin: 0;
-
   margin-top: 10px;
   padding: 0;
   padding-right: 1rem;
@@ -557,6 +601,16 @@ ul#footer-nav li {
 	margin-bottom: 0;
   font-size: .8rem;
 }
+
+
+
+h1.article-title {
+  font-size: .8rem;
+  color: white;
+  margin-bottom: .4rem;
+}
+
+
 
 .sidebar a {
   font-weight: 300;
@@ -991,6 +1045,7 @@ sub {
 	line-height: 1.2rem;
 	font-size: 0.9rem;
 	letter-spacing: .01rem;
+
 }
 
 .footnotes .foot-block {
@@ -1003,6 +1058,24 @@ sub {
 a.footnote {
 	padding-left: .05rem;
 	font-size: .66rem;
+}
+
+.footnotes a {
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  -ms-word-break: break-all;
+  /* This is the dangerous one in WebKit, as it breaks things wherever */
+  word-break: break-all;
+  /* Instead use this non-standard one: */
+  word-break: break-word;
+
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
 }
 
 /*Bibliography styles*/

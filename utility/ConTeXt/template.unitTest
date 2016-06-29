@@ -39,5 +39,14 @@ $for(include-after)$
 $include-after$
 
 $endfor$
+$if(author)$
+\page
+$for(author)$
+\subsection{$author.name$}
+
+$author.bio$
+
+$endfor$
+$endif$
 \stopchapter
 \stoptext

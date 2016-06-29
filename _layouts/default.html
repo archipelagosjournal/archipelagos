@@ -12,15 +12,18 @@
     <div class="wrap">
       <div class="masthead">
         <a id="logo" href="http://smallaxe.net" alt="small axe logo"><img src="{{ site.baseurl }}/public/logo.svg" height="40px" width="52px"/></a>
-
-        {% include menu.html %}
+        <a class="header-title" href="{{ site.baseurl }}/index.html">{{ site.title }}</a>
+        {% comment %}{% include menu.html %}{% endcomment %}
        
       </div>
 
       <div class="container content">
         {{ content }}
       </div>
+
     </div>
+
+    {% include footer.html %}
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 

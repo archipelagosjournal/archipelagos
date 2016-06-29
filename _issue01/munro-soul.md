@@ -4,10 +4,13 @@ section: articles
 title: 
   "long": "'Who Stole the Soul?' Rhythm and Race in the Digital Age"
   "short": "Who Stole the Soul?"
+doi: "10.7916/D8NC619F"
 author: 
 - name: "Martin Munro"
   shortname: Munro
+  bio: "Martin Munro is Winthrop-King Professor of French and Francophone Studies at Florida State University. He previously worked in Scotland, Ireland, and Trinidad. His recent publications include: *Writing on the Fault Line: Haitian Literature and the Earthquake of 2010* (Liverpool, 2014); and *Tropical Apocalypse: Haiti and the Caribbean End Times* (Virginia, 2015). He is Director of the Winthrop-King Institute for Contemporary French and Francophone Studies at Florida State."
 date: "May 2016"
+language: en
 issue: 1
 order: 3
 abstract: "This essay asks the following basic questions: What happens to the relationship between rhythm and race in the digital age? What happens when mastery of rhythm is no longer necessarily tied to ritual, to manual drumming, and to the physical, bodily re-creation of rhythm? When electronic and digital media give virtually anyone the ability to \"drum\" and to create rhythmic music, what happens to the longstanding association between blackness and rhythm? Referring to David Scott's recent arguments on a stalled, tragic time in the Caribbean in particular, the author draws connections between the apparent redundancy of revolutionary, anticolonial thinking in the present and the perhaps less apparent decoupling of rhythm and race in contemporary musical styles. If, as Scott says, the teleologies of anticolonial politics no longer hold true, has rhythm as a marker of time, and as an integral element in the poetics of resistance, lost its association with radical blackness and become a deracialized, dehistoricized commodity?"

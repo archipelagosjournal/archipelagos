@@ -208,10 +208,7 @@ Reference: *Merriam-Webster Collegiate*, Web.
 -   Please make sure that proper names are spelled correctly and
     consistently, with the proper accents. If you have time, a separate
     list of unusual terms or proper names in your manuscript is very
-    helpful to the copyeditor in maintaining consistency. In the
-    guidelines that follow, you will find a list of terms that often
-    appear in *small axe* with their preferred spellings and
-    presentations (see Lexicon).
+    helpful to the copyeditor in maintaining consistency. 
 
 -   Please identify the components of your article—such as headings
     (“Heading 2” is a major divider; “Heading 3” is subordinate to
@@ -246,7 +243,7 @@ Reference: *Merriam-Webster Collegiate*, Web.
 
 #### Capitalization
 
--   Use down style in general. See Lexicon for specific usage.
+-   Use down style in general.
 
 -   Shortened references to capitalized entities are lowercased. For
     example, “The Labour Party did such-and-such. Later, the party

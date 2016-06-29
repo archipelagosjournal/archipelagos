@@ -5,19 +5,26 @@
     <!-- Toggleable sidebar -->
     <div class="sidebar" id="sidebar">
       <div class="sidebar-item">
-        <p><em>sx archipelago</em> is part of the Small Axe Project. To learn more visit our project platforms below.</p>
-      </div>
+        {% if page.layout != "article" %}
+        <p><em>sx archipelagos</em>—a small axe journal of digital practice—is part of the <a href="http://smallaxe.net/" target="_blank">Small Axe Project</a>.<br></p>
+        {% else %}
 
-      <nav class="sidebar-nav">     
-              <a class="sidebar-nav-item" href="http://smallaxe.net/">Small Axe</a>
-              <a class="sidebar-nav-item" href="http://smallaxe.net/sx-salon">SX Salon</a>
-              <a class="sidebar-nav-item" href="http://smallaxe.net/sx-visualities">SX Visualities</a> 
-              <a class="sidebar-nav-item" href="http://smallaxe.net/literary-competition">Literary Competition</a> 
-              <a class="sidebar-nav-item" href="http://smallaxe.net/people">People</a>
-              <a class="sidebar-nav-item" href="http://smallaxe.net/archive">Archive</a>   
-      </nav>
+        <h1 class="article-title">{{page.title["long"]}}</h1>
+        <p>{% include author-loop.html %}</p>
+        <p>Issue ({{page.issue}}) | {{ page.date | date: '%B %Y'}} <br>DOI: {{ page.doi }}</p>
+
+        {% endif %}
+      </div>
+      <nav class="main-nav">
+      <a class="sidebar-nav-item" href="{{ site.baseurl }}/index.html">Home</a>  
+        {% assign pages_list = site.pages | sort:"url" %}
+        {% for node in pages_list %}{% if node.title != null AND node.title != "Menu" %}{% if node.layout == "page" %}<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+        {% endif %}{% endif %}{% endfor %}
+    </nav>
+
 
       <div class="sidebar-footer">
         <p>&copy; {{ site.time | date: '%Y' }}. Small Axe, Inc. Offered with a CC-BY 4.0 International License. Source documents can be found on our <a href="{{ site.githuburl }}">repository</a></p>
+        <p>ISSN: {{ site.issn }}</p>
       </div>
     </div>

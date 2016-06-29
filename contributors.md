@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: contributors
 ---
 
@@ -44,6 +44,7 @@ Max Hantel is a postdoctoral fellow in the Gender Research Institute at Dartmout
 Tonya Haynes lectures at the Institute for Gender and Development Studies: Nita Barrow Unit, blogs on redforgender.wordpress.com, and is a founding member of CODE RED for gender justice! and CatchAFyah Caribbean Feminist Network. She holds a PhD from the University of the West Indies and researches in the area of Caribbean feminisms and Caribbean Feminist Thought. Her work has been published in *Global Public Health* and *Small Axe: A Journal of Caribbean Criticism*.
 
 ##Jessica Marie Johnson
+
 Jessica Marie Johnson is Assistant Professor of History at Michigan State University. Her work has appeared in *Slavery & Abolition*, *The Black Scholar*, *Meridians: Feminism, Race and Transnationalism*, and *Debates in the Digital Humanities*. As a digital humanist, Johnson explores the way digital and social media disseminate and create historical narratives, in particular, comparative histories of slavery and people of African descent.
 
 ## Kelly Baker Josephs
