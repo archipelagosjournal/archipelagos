@@ -95,7 +95,7 @@ ISSN: 2473-2206
 
 All articles are peer-reviewed using the double-blind method. All digital projects are peer-reviewed single blind. Project reviews are edited by the journal editors.
 
-We provide DOIs for all articles. Citation information and DOIs can be found on the drawer sidebar for each individual articles. Each article also provides metadata in the following standards in the HTML code:
+We provide DOIs for all articles. Citation information and DOIs can be found on the drawer sidebar for each individual article. Each article also provides metadata in the following standards in the HTML code:
 
 - Dublin Core (For general metadata needs)
 - Open Graph (For social media distribution)
