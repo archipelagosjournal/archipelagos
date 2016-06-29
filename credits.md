@@ -44,5 +44,3 @@ Barnard Committee on Online and On-Campus Learning
 [Brian Ballsun-Stanton](https://www.fedarch.org/) (Ph.D. University of New South Wales, 2012) is currently a Research Associate at Macquarie University in Sydney, Australia. His research interests include exploring how people interact with and understand the nature of data and an investigation into the mechanics of ludic-narrative interactions in games. He is the Technical Director and Data Architect for the Field Acquired Information Management Systems (FAIMS) Project.
 Department of Ancient History
 
-### Juliet Ali | project designer
-
