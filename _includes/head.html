@@ -1,4 +1,4 @@
-<head>
+<head profile="http://dublincore.org/documents/dcq-html/">
     <title>sx archipelagos</title>  
     <link href="http://gmpg.org/xfn/11" rel="profile">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,10 +8,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
     <!--   Dublin Core metadata -->  
+    <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+    <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
     <meta name="DC.title" content="{% if page.layout !="article" %}sx archipelagos{% else %}{{ page.title['long'] }}{% endif %}"/>
     <meta name="DC.creator" content="{% for author in page.author %}{% if forloop.length == 1 %}{{ author.name }}{% elsif forloop.length == 2 %}{% if forloop.last == true %} and {{ author.name }}{% else %}{{ author.name }}{% endif %}{% else %}{% if forloop.last == true %}and {{ author.name }}{% else %}{{ author.name }}, {% endif %}{% endif %}{% endfor %}" />
-    <meta name="DC.date" content="{{ page.date }}" />
-    <meta name="DC.rights" content="CC-BY International 4.0" />
+    <meta name="DC.type" content="Text" />
+    <meta name="DCTERMS.abstract" content="{{page.abstract}}" />
+    <meta name="DC.date" content="{{ page.date | date: '%B %Y'}}" />
+    <meta name="DCTERMS.issued" content="{{ page.date | date: '%B %Y'}}" />
+    <meta name="DC.identifier" scheme="DCTERMS.URI" content="{{ page.doi }}" />
+    <meta name="DC.identifier" scheme="DCTERMS.ISSN" content="{{ site.issn }}" />
+    <meta name="DC.publisher" content="Small Axe Project" />
+    <meta name="DC.format" content="text/html" />
+    <meta name="DCTERMS.license" content="CC-BY International 4.0" />
     <meta name="DC.source" content="{{ site.title }}" />
     <meta name="DC.language" content="{{ page.language }}" />
 
@@ -45,11 +54,8 @@
     <meta name="citation_title" content="{{ page.title['long'] }}"/>
     {% for author in page.author %}<meta name="citation_author" content="{{author.name}}"/>
     {% endfor %}<meta name="citation_journal_title" content="{{site.title}}"/>
-    <meta name="citation_publication" content="{{site.title}}"/>
     <meta name="citation_issue" content="{{page.issue}}">
     <meta name="citation_publication_date" content="{{page.date | date: '%B %Y'}}">
-    <meta name="citation_language" content="{{page.language}}">
-    <meta name="citation_issn" content="{{site.issn}}">
     <meta name="citation_pdf_url" content="{{site.url}}{{ site.baseurl }}/assets{{ page.url | replace:'.html','.pdf' }}">
     {% endif %}
 
