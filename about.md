@@ -81,16 +81,7 @@ then, not from a misguided sense of techno-utopianism—or worse,
 techno-determinism—but as a new small axe, hacking away still at that
 master's house.
 
-
----
-
-## Open Access Policy
-
-<em>sx archipelagos</em> is an open access journal, which means that all content is freely available without charge to users and or institutions. Users are allowed to read, download, copy, distribute, print, search, or link to the full texts of the articles in this journal without asking prior permission from the journal. Authors retain their copyright and agree to license their articles with a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
-
-The technological stack used for *sx archipelagos* is offered with an MIT license, except for the aggregate design connecting our platform to the Small Axe Project. All of our data is open on our <a href="{{site.githuburl}}">Github repository</a>.
+<br>
 
 ---
 
@@ -98,10 +89,16 @@ The technological stack used for *sx archipelagos* is offered with an MIT licens
 
 ISSN: 2473-2206
 
+<em>sx archipelagos</em> is an open access journal, which means that all content is freely available without charge to users or institutions. Users are allowed to read, download, copy, distribute, print, search, or link to the full texts of the articles in this journal without asking prior permission from the publishers. Authors retain their copyright and agree to license their articles with a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+
 All articles are peer-reviewed using the double-blind method. All digital projects are peer-reviewed single blind. Project reviews are edited by the journal editors.
 
-Each article provides metadata in the following standards in the HTML code:
+We provide DOIs for all articles. Citation information and DOIs can be found on the drawer sidebar for each individual articles. Each article also provides metadata in the following standards in the HTML code:
 
-- Dublin Core (For Zotero and other indexing tools)
+- Dublin Core (For general metadata needs)
 - Open Graph (For social media distribution)
 - Highwire Press (For Google Scholar)
+
+The technological stack used for *sx archipelagos* is offered with an MIT license, except for the aggregate design connecting our platform to the Small Axe Project. All of our data is open on our <a href="{{site.githuburl}}">Github repository</a>.

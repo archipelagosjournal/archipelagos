@@ -234,7 +234,8 @@ strong {
 div.footer-menu {
     margin: auto;
     text-align: center;
-    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 ul#footer-menu {
@@ -250,6 +251,10 @@ ul#footer-menu li {
 
 a.footer-menu-item {
     color: #939598;
+}
+
+a.footer-menu-item-active {
+    color: #D0181F;
 }
 
 @media (max-width: 46em) {
