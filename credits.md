@@ -8,16 +8,9 @@ title: credits
 [Kaiama L. Glover](#kaiama-l-glover--editor) & [Alex Gil](#alex-gil--editor)
 
 ### Digital Architecture | Design
-<<<<<<< HEAD
-Juliet Ali\\
-[Brian Ballsun-Stanton](#brian-ballsun-stanton--production-editor)\\
-[Dennis Tenen](#dennis-tenen--project-architect)
-
-=======
 Dennis Tenen\\
 Brian Ballsun-Stanton\\
 Juliet Ali
->>>>>>> a635f8a8169ddad237479719488eee622ba6a749
 
 ### Institutional Partners
 
