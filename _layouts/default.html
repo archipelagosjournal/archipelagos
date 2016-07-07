@@ -11,7 +11,7 @@
          content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
       <div class="masthead">
-        <a id="logo" href="http://smallaxe.net" alt="small axe logo"><img src="{{ site.baseurl }}/public/logo.svg" height="40px" width="52px"/></a>
+        <a id="logo" href="http://smallaxe.net"><img src="{{ site.baseurl }}/public/logo.svg" alt="small axe logo" height="40px" width="52px"/></a>
         <a class="header-title" href="{{ site.baseurl }}/index.html">{{ site.title }}</a>
         {% comment %}{% include menu.html %}{% endcomment %}
        
@@ -27,7 +27,7 @@
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-    <script type="text/javascript" src="/public/js/main.js"></script>
+    <script type="text/javascript" src="{{site.baseurl}}/public/js/main.js"></script>
     <script type="text/javascript">
     // adds a target="_blank" to any link that is not part of the current domain
 
