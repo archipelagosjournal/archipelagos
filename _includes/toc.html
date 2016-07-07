@@ -57,7 +57,7 @@
     <span class="byline"> 
         {% include author-loop.html %}
     </span><br>
-    <a class="alt-link" href="{{ page.url | prepend:site.baseurl }}">Read our exchange</a><span class="alt-link"> | </span><a class="alt-link" href="{{ page.link }}" target="_blank">Visit the Project Site</a>    <a class="alt-link" href="{{ page.link }}" target="_blank"><img class="project-image-toc" src="{{site.baseurl}}/{{ page.thumb }}" width="33%" /></a>
+    <a class="alt-link" href="{{ page.url | prepend:site.baseurl }}">Read our exchange</a><span class="alt-link"> | </span><a class="alt-link" href="{{ page.link }}" target="_blank">Visit the Project Site</a>    <a class="alt-link" href="{{ page.link }}" target="_blank"><img class="project-image-toc" alt="thumbnail for {{page.title["long"]}}" src="{{site.baseurl}}/{{ page.thumb }}" width="33%" /></a>
     </li>
 
   {% endif %}
@@ -87,7 +87,5 @@
 {% endfor %}
 </ul>
 
-<ul>
-  <li><a href="{{ site.baseurl }}/about.html#colophon"><h3>Colophon</h3></a></li>
-</ul>
+<h3><a href="{{ site.baseurl }}/about.html#colophon">Colophon</a></h3>
 </div>
