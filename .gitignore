@@ -15,6 +15,7 @@ Gemfile.lock
 *.zip
 *.vi
 *~
+assets/issue*/*.pdf
 
 # OS or Editor folders
 .DS_Store
