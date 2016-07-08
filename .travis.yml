@@ -8,6 +8,7 @@ rvm:
 
 script:
 - bundle exec jekyll build -d _site/
+- bundle exec jekyll build -d _site/sxarchipelagos
 - bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html --empty-alt-ignore
 
 
