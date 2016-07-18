@@ -51,7 +51,7 @@ master's house, both infrastructurally and historically. Stewards of an
 archive that cannot be disentangled from The Archive housed at major
 global institutions—whose mechanical image lies outside our control—and
 of our fragile, opaque archives in their saltpetered warehouses at the
-margins, we have commited to join those who are active in the design of our
+margins, we have committed to join those who are active in the design of our
 future memory.
 
 As the academy increasingly embraces the "digital turn," we ask the
