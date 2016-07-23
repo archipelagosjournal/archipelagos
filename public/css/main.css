@@ -128,11 +128,13 @@ a.header-title {
   font-weight: 300;
   text-transform: uppercase;
   max-width: 38rem;
-  padding-left:  1rem;
+  padding-left:  .66rem;
   padding-right: 1rem;
   margin-left:  auto;
   margin-right: auto;
   font-size: .7rem;
+  top: 25px;
+  position: absolute;
 }
 
 /* Headings */
