@@ -51,7 +51,7 @@ master's house, both infrastructurally and historically. Stewards of an
 archive that cannot be disentangled from The Archive housed at major
 global institutions—whose mechanical image lies outside our control—and
 of our fragile, opaque archives in their saltpetered warehouses at the
-margins, we have commited to join those who are active in the design of our
+margins, we have committed to join those who are active in the design of our
 future memory.
 
 We have thought through our platform with the same critical eye we cast on the archive, and our resulting infrastructure embodies our principles. We are fully open access and charge no author fees. Our authors retain their copyright. We pursue best indexing, accessibility and archival practices. We emphasize the primacy of "[sustainable authorship in plain text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)." Our website and PDFs are generated from the same markdown files using Jekyll and ConTeXt, respectively. The resulting website is light-weight and mobile-friendly, acknowledging the importance of mobile phones, bandwidth differentials and data costs in the Caribbean. We version and share our software and data freely on [GitHub](https://github.com/sx-archipelagos/sxa). We have reduced the workflow for producing a journal to a small team and a small budget, and we offer our production knowledge to those who would ask for it.
