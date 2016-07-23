@@ -19,7 +19,7 @@ collections:
   issue01:
     output: true
     number: 1
-    date: "Summer 2016"
+    date: "June 2016"
     title: "Issue (1)"
     editors:
     - Kaiama Glover
@@ -31,7 +31,7 @@ collections:
   issue02:
     output: true
     number: 2
-    date: "Summer 2017"
+    date: "June 2017"
     title: "Issue (2)"
     editors:
     - Kaiama Glover
