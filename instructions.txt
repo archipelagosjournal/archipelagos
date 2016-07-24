@@ -1,0 +1,5 @@
+Instructions
+
+rvm gemset use jekyll
+bundle install
+./utility/ConTeXt/makeIssues.sh
