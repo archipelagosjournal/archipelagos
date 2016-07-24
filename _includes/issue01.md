@@ -2,5 +2,5 @@
 
 [Read more...]({{site.baseurl}}/about.html){:.readmore}
 
-## Issue (1) | June 2016
+## Issue (1) | May 2016
 
