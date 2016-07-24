@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sx-archipelagos/sxa.svg?branch=master)](https://travis-ci.org/sx-archipelagos/sxa)
+
 # Small Axe Archipelagos
 
 The transformation of the academy by the digital dispensation presents

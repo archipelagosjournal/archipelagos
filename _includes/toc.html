@@ -3,15 +3,11 @@
 <div id="toc">
 
 <!-- Introductory material -->
+{% assign articles = (include.issue | sort: 'order') %} 
 <ul>
-
-{% assign articles = (include.issue | sort: 'order') %}  
-
 <h3>Introduction</h3>
-
 {% for page in articles %}
   {% if page.section == "introduction" %}
-
     <li>
       <a href="{{ page.url | prepend:site.baseurl }}">
         <span class="toc-title">{{ page.title }}</span>
@@ -49,12 +45,8 @@
 {% endfor %}
 </ul>
 
-
 <ul>
 <h3>Digital Projects</h3>
-
-
-
 {% for page in articles %}
   {% if page.section == "projects" %}
 
@@ -65,14 +57,12 @@
     <span class="byline"> 
         {% include author-loop.html %}
     </span><br>
-    <a class="alt-link" href="{{ page.url | prepend:site.baseurl }}">Read our exchange</a><span class="alt-link"> | </span><a class="alt-link" href="{{ page.link }}" target="_blank">Visit the Project Site</apage    <a class="alt-link" href="{{ page.link }}" target="_blank"><img class="project-image-toc" src="{{site.baseurl}}/{{ page.thumb }}" width="33%" /></a>
+    <a class="alt-link" href="{{ page.url | prepend:site.baseurl }}">Read our exchange</a><span class="alt-link"> | </span><a class="alt-link" href="{{ page.link }}" target="_blank">Visit the Project Site</a>    <a class="alt-link" href="{{ page.link }}" target="_blank"><img class="project-image-toc" alt="thumbnail for {{page.title["long"]}}" src="{{site.baseurl}}/{{ page.thumb }}" width="33%" /></a>
     </li>
 
   {% endif %}
 {% endfor %} 
 </ul>
-
-
 
 <ul>
 <h3>Digital Project Reviews</h3>
@@ -96,7 +86,6 @@
   {% endif %}
 {% endfor %}
 </ul>
-<ul>
+
 <h3><a href="{{ site.baseurl }}/about.html#colophon">Colophon</a></h3>
-</ul>
 </div>

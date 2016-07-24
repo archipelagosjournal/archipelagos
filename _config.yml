@@ -7,7 +7,7 @@ permalink:           none
 title:               "sx archipelagos"
 tagline:             ''
 description:         'a Small Axe journal of digital practice'
-url:                 'http://smallaxe.net'
+url:                 ''
 baseurl:             '/sxarchipelagos'
 githuburl:           'https://github.com/sx-archipelagos/sxa'
 
@@ -69,5 +69,6 @@ author:
 version:             0.0.1
 
 # Excluded
-exclude: [utility, Gemfile, Gemfile.lock, extras]
+
+exclude: [utility, Gemfile, Gemfile.lock, extras, vendor]
 

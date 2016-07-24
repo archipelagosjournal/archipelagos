@@ -5,7 +5,7 @@
 	<h3>{{author.name}}</h3>
 
 		{% if author.bio %}
-		<p>{{ author.bio | markdownify }}</p>
+		{{ author.bio | markdownify }}
 		{% endif %}
 		
 	{% endfor %}
