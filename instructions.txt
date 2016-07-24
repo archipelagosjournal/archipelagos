@@ -1,5 +1,15 @@
 Instructions
 
+# without Docker (PDFs may not generate well)
 rvm gemset use jekyll
 bundle install
 ./utility/ConTeXt/makeIssues.sh
+
+# with Docker
+rvm gemset use jekyll
+bundle install
+sudo docker run -it denubis/md-jekyll-context
+cd /root/sxa-dev
+utility/ConTeXt/makeIssues.sh
+exit
+sudo docker cp <id>:/root/sxa-dev/assets sxa-dev
