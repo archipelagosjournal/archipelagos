@@ -54,8 +54,6 @@ of our fragile, opaque archives in their saltpetered warehouses at the
 margins, we have committed to join those who are active in the design of our
 future memory.
 
-We have thought through our platform with the same critical eye we cast on the archive, and our resulting infrastructure embodies our principles. We are fully open access and charge no author fees. Our authors retain their copyright. We pursue best indexing, accessibility, and archival practices. We emphasize the primacy of "[sustainable authorship in plain text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)." Our website and PDFs are generated from the same markdown files using Jekyll and ConTeXt, respectively. The resulting website is light-weight and mobile-friendly, acknowledging the importance of mobile phones, bandwidth differentials, and data costs in the Caribbean. We version and share our software and data freely on [GitHub](https://github.com/sx-archipelagos/sxa). We have reduced the workflow for producing a journal to a small team and a small budget, and we offer our production knowledge to those who would ask for it.
-
 As the academy increasingly embraces the "digital turn," we ask the
 following: How might we, as editors, publishers, and ourselves
 Caribbeanist scholars, encourage and facilitate our colleagues’
@@ -70,8 +68,9 @@ committed to serving?
 
 To answer these and other urgent questions, we need in this moment to
 engage two critical functions: to understand and to build. For us, these
-functions do not follow one from the other, but rather operate in tandem. As
-we build and understand, we do so illuminated by first light of the
+functions do not follow one from the other, but rather operate in tandem. As such, we have thought through our platform with the same critical eye we cast on the archive, and our resulting infrastructure embodies our principles. We are fully open access and charge no author fees. Our authors retain their copyright. We pursue best indexing, accessibility, and archival practices. We emphasize the primacy of "[sustainable authorship in plain text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)." Our website and PDFs are generated from the same markdown files using Jekyll and ConTeXt, respectively. The resulting website is light-weight and mobile-friendly, acknowledging the importance of mobile phones, bandwidth differentials, and data costs in the Caribbean. We version and share our software and data freely on [GitHub](https://github.com/sx-archipelagos/sxa). We have reduced the workflow for producing a journal to a small team and a small budget, and we offer our production knowledge to those who would ask for it. 
+
+As we build and understand, we do so illuminated by the first light of the
 long arc of Caribbean remembrance, from Maroon communities to the recent
 collaborative efforts to build a [Digital Library of the
 Caribbean](http://www.dloc.com/). We do so remaining ever vigilant to
