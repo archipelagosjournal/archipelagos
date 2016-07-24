@@ -5,7 +5,7 @@ title:
   "long": "Twitter's and @douenislands' Ambiguous Paths"
   "short": Ambiguous Paths
 doi: "10.7916/D8S46S1S"
-date: "June 2016"
+date: May 2016
 author: 
 - name: Jeannine Murray-Román
   shortname: Murray-Román

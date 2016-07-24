@@ -9,7 +9,7 @@ author:
 - name: Anne Eller
   shortname: Eller
   bio: "Anne Eller is Assistant Professor of History at Yale University.  Her first book, *We Dream Together: Dominican Independence, Haiti, and the Fight for Caribbean Freedom*, will appear in late 2016 with Duke University Press."
-date: "May 2016"
+date: May 2016
 issue: 1
 order: 6
 ---

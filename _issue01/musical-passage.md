@@ -6,6 +6,7 @@ title:
   "long": "Musical Passage: A Voyage to 1688 Jamaica "
   "short": "Musical Passage"
 doi: "10.7916/D80K28PX"
+date: May 2016
 author:
 - name: Laurent Dubois
   shortname: Dubois

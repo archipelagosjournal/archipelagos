@@ -3,6 +3,7 @@ layout: page
 section: introduction
 title: "Learning from Each Other"
 doi: "10.7916/D85B02J1"
+date: May 2016
 author: 
 - name: David Scott
   shortname: Scott

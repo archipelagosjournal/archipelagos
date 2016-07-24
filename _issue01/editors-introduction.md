@@ -3,6 +3,7 @@ layout: article
 section: articles
 issue: 1
 order: 0
+date: May 2016
 title: 
   "long": "Editors' Introduction: The Caribbean Digital"
   "short": "Editor's Introduction"
