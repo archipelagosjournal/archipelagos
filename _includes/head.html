@@ -12,7 +12,7 @@
     <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
     <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
     <meta name="DC.title" content="{% if page.layout !="article" %}sx archipelagos{% else %}{{ page.title['long'] }}{% endif %}"/>
-    <meta name="DC.contributor" content="{% for author in page.author %}{% if forloop.length == 1 %}{{ author.name }}{% elsif forloop.length == 2 %}{% if forloop.last == true %} and {{ author.name }}{% else %}{{ author.name }}{% endif %}{% else %}{% if forloop.last == true %}and {{ author.name }}{% else %}{{ author.name }}, {% endif %}{% endif %}{% endfor %}" />
+    <meta name="DC.creator" content="{% for author in page.author %}{% if forloop.length == 1 %}{{ author.name }}{% elsif forloop.length == 2 %}{% if forloop.last == true %} and {{ author.name }}{% else %}{{ author.name }}{% endif %}{% else %}{% if forloop.last == true %}and {{ author.name }}{% else %}{{ author.name }}, {% endif %}{% endif %}{% endfor %}" />
     <meta name="DC.type" content="Text" />
     <meta name="DCTERMS.abstract" content="{{page.abstract}}" />
     <meta name="DC.date" content="{{ page.date | date: '%Y-%m'}}" />
@@ -20,6 +20,8 @@
     <meta name="DC.identifier" scheme="DCTERMS.URI" content="{{ page.doi }}" />
     <meta name="DC.identifier" scheme="DCTERMS.ISSN" content="{{ site.issn }}" />
     <meta name="DC.publisher" content="{{site.publisher}}" />
+    <meta name="DC.relation.ispartof" content="{{site.title}}" />
+    <meta name="DC.citation.issue" content="{{page.issue}}" />
     <meta name="DC.format" content="text/html" />
     <meta name="DCTERMS.license" content="https://creativecommons.org/licenses/by/4.0/" />
     <meta name="DC.source" content="{{ site.title }}" />
@@ -58,14 +60,20 @@
     <meta name="citation_title" content="{{ page.title['long'] }}"/>
     {% for author in page.author %}<meta name="citation_author" content="{{author.name}}"/>{% endfor %}
     <meta name="citation_publication_date" content="{{page.date | date: '%Y/%m/%d'}}">
-    <meta name="citation_date" content="{{page.date | date: '%Y/%m/%d'}}">
-    <meta name="citation_year" content="{{page.date | date: '%Y'}}">
+    <meta name="citation_online_date" content="{{site.time | date: '%Y/%m/%d'}}">
     <meta name="citation_language" content="{{page.language}}"/>
     <meta name="citation_pdf_url" content="{{site.url}}{{ site.baseurl }}/assets{{ page.url | replace:'.html','.pdf' }}">
     <meta name="citation_fulltext_html_url" content="{{site.url}}{{ site.baseurl }}{{ page.url }}"/>
-    <meta name="citation_public_url" content="{{site.url}}{{ site.baseurl }}{{ page.url }}"/>
     <meta name="citation_publisher" content="{{site.publisher}}"/>
     <meta name="citation_doi" content="{{page.doi}}"/>
+
+<!-- Alternative tags -->
+<!--    
+    <meta name="citation_year" content="{{page.date | date: '%Y'}}">
+    <meta name="citation_date" content="{{page.date | date: '%Y/%m/%d'}}">
+    <meta name="citation_public_url" content="{{site.url}}{{ site.baseurl }}{{ page.url }}"/>
+    <meta name="citation_abstract_html_url" content="{{site.url}}{{ site.baseurl }}{{ page.url }}" />
+-->
     
     {% endif %}
 
