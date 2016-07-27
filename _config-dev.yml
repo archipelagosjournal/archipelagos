@@ -1,3 +1,10 @@
+# CONFIG FILE FOR DEVELOPMENT
+#
+# To run config-dev.yml use:
+# $ jekyll build --config _config_dev.yml
+# or
+# $ jekyll serve --config _config-dev.yml
+
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
