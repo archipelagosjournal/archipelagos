@@ -1,0 +1,75 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           none
+
+# Setup
+title:               "sx archipelagos"
+tagline:             ''
+publisher:           "Small Axe Project"
+description:         'a Small Axe journal of digital practice'
+url:                 ''
+baseurl:             '/sxarchipelagos'
+githuburl:           'https://github.com/sx-archipelagos/sxa'
+
+# Colophon
+issn: 2473-2206
+
+# Collections
+collections:
+  issue01:
+    output: true
+    number: 1
+    date: "June 2016"
+    title: "Issue (1)"
+    editors:
+    - Kaiama Glover
+    - Alex Gil
+    production:
+    - Alex Gil
+    - Dennis Tenen
+    - Brian Ballsun-Stanton
+  issue02:
+    output: true
+    number: 2
+    date: "June 2017"
+    title: "Issue (2)"
+    editors:
+    - Kaiama Glover
+    - Alex Gil
+    production:
+    - Alex Gil
+    - Dennis Tenen
+    - Brian Ballsun-Stanton
+  archives:
+    output: true
+
+# Jekyll-Kramdown
+markdown: kramdown
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Gems
+gems:
+  - jekyll-sitemap
+
+
+# About/contact
+author:
+  name:              "SX:Archipelagos"
+  email:             archipelagos@smallaxe.net
+
+# Custom vars
+version:             0.0.1
+
+# Excluded
+
+exclude: [utility, Gemfile, Gemfile.lock, extras, vendor]
+
