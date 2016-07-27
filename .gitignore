@@ -3,6 +3,7 @@ _gh_pages
 _site
 .ruby-version
 Gemfile.lock
+instructions.txt
 
 # Numerous always-ignore extensions
 *.diff
