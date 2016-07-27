@@ -13,6 +13,7 @@ date: May 2016
 issue: 1
 order: 4
 abstract: "Caribbean cyberfeminisms are diverse, heterogeneous, and polyvocal. Networks may be simultaneously national, regional, global, transnational, and diasporic. Through practices of media creation, curating, (re)blogging, (re)tweeting, sharing, and commenting across multiple social media platforms, Caribbean feminist knit together an online community that is often linked to on-the-ground organizing and action. Online feminist practices are therefore rich archives for the study of Caribbean feminisms. To date, scholarly work on women's and feminist movements in the region has failed to document and analyze these practices and sites of activism. Similarly, Caribbean feminist critiques of technology and new media are not well developed. The essay attends to this gap by offering a partial and preliminary mapping Caribbean cyberfeminisms primarily through documentation and analysis of Caribbean feminist blogs."
+language: en
 ---
 
 

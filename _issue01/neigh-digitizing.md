@@ -14,6 +14,7 @@ date: May 2016
 issue: 1
 order: 1
 abstract: "The Internet offers new performance platforms for Caribbean poets who prioritize oral expression. One group realizing this potential is the youth-led artist collective the 2 Cents Movement, based out of Trinidad and Tobago. Members circulate their video poems on social networking sites, and through their do-it-yourself approach, they are building a broader youth audience for their work. More generally, Caribbean poets are often underrepresented in online poetry resources, particularly in institution-based Internet audio archives. This essay uses the 2 Cents Movement as a preliminary model to understand how Internet audio archives can be redesigned to amplify the total expression of Caribbean poetry. Admittedly, the 2 Cents Movement offers only a partial solution to a big problem; however, this essay demonstrates the value of examining poets' engagements with digital technologies to develop better archival standards and practices in sync with the politics of the work."
+language: en
 ---
 
 If Louise Bennett, the prolific Jamaican artist, were still alive and

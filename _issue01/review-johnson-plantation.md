@@ -12,6 +12,7 @@ author:
 date: May 2016
 issue: 1
 order: 7
+language: en
 ---
 
 Based on research compiled by Richard Dunn over more than forty years,

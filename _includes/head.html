@@ -15,11 +15,11 @@
     <meta name="DC.creator" content="{% for author in page.author %}{% if forloop.length == 1 %}{{ author.name }}{% elsif forloop.length == 2 %}{% if forloop.last == true %} and {{ author.name }}{% else %}{{ author.name }}{% endif %}{% else %}{% if forloop.last == true %}and {{ author.name }}{% else %}{{ author.name }}, {% endif %}{% endif %}{% endfor %}" />
     <meta name="DC.type" content="Text" />
     <meta name="DCTERMS.abstract" content="{{page.abstract}}" />
-    <meta name="DC.date" content="{{ page.date | date: '%B %Y'}}" />
-    <meta name="DCTERMS.issued" content="{{ page.date | date: '%B %Y'}}" />
+    <meta name="DC.date" content="{{ page.date | date: '%Y-%m'}}" />
+    <meta name="DCTERMS.issued" content="{{ page.date | date: '%Y-%m'}}" />
     <meta name="DC.identifier" scheme="DCTERMS.URI" content="{{ page.doi }}" />
     <meta name="DC.identifier" scheme="DCTERMS.ISSN" content="{{ site.issn }}" />
-    <meta name="DC.publisher" content="Small Axe Project" />
+    <meta name="DC.publisher" content="{{site.publisher}}" />
     <meta name="DC.format" content="text/html" />
     <meta name="DCTERMS.license" content="CC-BY International 4.0" />
     <meta name="DC.source" content="{{ site.title }}" />

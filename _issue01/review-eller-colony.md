@@ -12,6 +12,7 @@ author:
 date: May 2016
 issue: 1
 order: 6
+language: en
 ---
 
 [*A Colony in Crisis*](https://colonyincrisis.lib.umd.edu/) is a digital
