@@ -57,6 +57,7 @@
     {% endfor %}<meta name="citation_journal_title" content="{{site.title}}"/>
     <meta name="citation_issue" content="{{page.issue}}">
     <meta name="citation_publication_date" content="{{page.date | date: '%B %Y'}}">
+    <meta name="citation_fulltext_html_url" content="{{site.url}}{{ site.baseurl }}/assets{{ page.url }}"/>
     <meta name="citation_pdf_url" content="{{site.url}}{{ site.baseurl }}/assets{{ page.url | replace:'.html','.pdf' }}">
     {% endif %}
 
