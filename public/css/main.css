@@ -677,9 +677,9 @@ a.sidebar-nav-item:focus {
 .sidebar-toggle {
   position: absolute;
   top: 1rem;
-  left: 1rem;
+  left: 2rem;
   display: block;
-  padding: .25rem .75rem;
+  padding: .33rem .75rem;
   color: #505050;
   background-color: #fff;
   border-radius: .5rem;
@@ -688,8 +688,8 @@ a.sidebar-nav-item:focus {
 
 .sidebar-toggle:before {
   display: inline-block;
-  width: 1rem;
-  height: .75rem;
+  width: 1.33rem;
+  height: 1rem;
   content: "";
   background-image: -webkit-linear-gradient(to bottom, #444, #444 20%, #fff 20%, #fff 40%, #444 40%, #444 60%, #fff 60%, #fff 80%, #444 80%, #444 100%);
   background-image:    -moz-linear-gradient(to bottom, #444, #444 20%, #fff 20%, #fff 40%, #444 40%, #444 60%, #fff 60%, #fff 80%, #444 80%, #444 100%);
@@ -776,7 +776,7 @@ a.sidebar-nav-item:focus {
 }
 .layout-reverse .sidebar-toggle {
   left: auto;
-  right: 1rem;
+  right: 3rem;
 }
 
 .layout-reverse #sidebar-checkbox:checked ~ .sidebar,
