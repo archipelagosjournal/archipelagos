@@ -447,7 +447,7 @@ tbody tr:nth-child(odd) th {
 
 a#logo {
 	display: inline-block;
-	margin-left: 7.6%;
+	margin-left: 3rem;
   margin-top: .2rem;
 	margin-bottom: -.33rem;
 }
@@ -529,6 +529,8 @@ ul#footer-nav li {
 }
 
 @media (max-width: 46em) {
+
+
   ul#main-nav {
 
     font-size: 1rem;
@@ -545,6 +547,14 @@ ul#footer-nav li {
 
   ul#footer-nav {
   font-size: .6rem
+  }
+
+  a#logo {
+    margin-left: 1rem;
+  }
+
+  .header-title {
+    display: none;
   }
 }
 
@@ -666,6 +676,7 @@ a.sidebar-nav-item:focus {
     padding-left:  1.5rem;
     padding-right: 1.5rem;
   }
+
 }
 
 /* Hide the sidebar checkbox that we toggle with `.sidebar-toggle` */
@@ -679,7 +690,7 @@ a.sidebar-nav-item:focus {
   top: 1rem;
   left: 2rem;
   display: block;
-  padding: .33rem .75rem;
+  padding: .5rem .5rem .25rem .5rem;
   color: #505050;
   background-color: #fff;
   border-radius: .5rem;
@@ -688,13 +699,13 @@ a.sidebar-nav-item:focus {
 
 .sidebar-toggle:before {
   display: inline-block;
-  width: 1.33rem;
-  height: 1rem;
+  width: 1.8rem;
+  height: 1.2rem;
   content: "";
-  background-image: -webkit-linear-gradient(to bottom, #444, #444 20%, #fff 20%, #fff 40%, #444 40%, #444 60%, #fff 60%, #fff 80%, #444 80%, #444 100%);
-  background-image:    -moz-linear-gradient(to bottom, #444, #444 20%, #fff 20%, #fff 40%, #444 40%, #444 60%, #fff 60%, #fff 80%, #444 80%, #444 100%);
-  background-image:     -ms-linear-gradient(to bottom, #444, #444 20%, #fff 20%, #fff 40%, #444 40%, #444 60%, #fff 60%, #fff 80%, #444 80%, #444 100%);
-  background-image:         linear-gradient(to bottom, #444, #444 20%, #fff 20%, #fff 40%, #444 40%, #444 60%, #fff 60%, #fff 80%, #444 80%, #444 100%);
+  background-image: -webkit-linear-gradient(to bottom, #444, #444 16%, #fff 16%, #fff 44%, #444 44%, #444 56%, #fff 56%, #fff 84%, #444 84%, #444 100%);
+  background-image:    -moz-linear-gradient(to bottom, #444, #444 16%, #fff 16%, #fff 44%, #444 44%, #444 56%, #fff 56%, #fff 84%, #444 84%, #444 100%);
+  background-image:     -ms-linear-gradient(to bottom, #444, #444 16%, #fff 16%, #fff 44%, #444 44%, #444 56%, #fff 56%, #fff 84%, #444 84%, #444 100%);
+  background-image:         linear-gradient(to bottom, #444, #444 16%, #fff 16%, #fff 44%, #444 44%, #444 56%, #fff 56%, #fff 84%, #444 84%, #444 100%);
 }
 
 .sidebar-toggle:active,
@@ -716,6 +727,10 @@ a.sidebar-nav-item:focus {
 @media (min-width: 30.1em) {
   .sidebar-toggle {
     position: absolute;
+  }
+  .layout-reverse .sidebar-toggle {
+  left: auto;
+  right: 1rem;
   }
 }
 
@@ -776,7 +791,7 @@ a.sidebar-nav-item:focus {
 }
 .layout-reverse .sidebar-toggle {
   left: auto;
-  right: 3rem;
+  right: 2rem;
 }
 
 .layout-reverse #sidebar-checkbox:checked ~ .sidebar,
