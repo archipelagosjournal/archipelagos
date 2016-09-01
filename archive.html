@@ -4,13 +4,14 @@ title: archive
 ---
 
 <ul>
-
-{% for issue in site.archives %}
+{% assign issues = site.pages | sort:"url" %}
+{% for issue in issues %}
+	{% if issue.slug %}
     <li class="toc-issue">
         <p class="toc-title"><a href="{{ site.baseurl }}{{ issue.url }}">
           {{ issue.title }}
-        </a> — <span class="issue-date">{{ issue.release }}</span></p>
-             
+        </a> — <span class="issue-date">{{ issue.release }}</span></p>             
     </li>
+    {% endif %}
 {% endfor %} 
 </ul>
