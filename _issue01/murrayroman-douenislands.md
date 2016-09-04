@@ -788,7 +788,7 @@ douen retains its capacity for devious and deviant paths.
 
 [^14]: The 2009 version of this work was installed and exhibited at Alice Yard; its 2010 and 2011 Erotic Art Week installations took place at the Bohemia Gallery in Port of Spain.
 
-[^15]: See [http://www.rodellwarner.com/index.php?/photobooth](http://www.rodellwarner.com/index.php?/photobooth); and Dave Williams, "Losing Your Head in the Photobooth," *sx salon*, 9 November 2009, [http://smallaxe.net/wordpress3/works/2009/11/09/dave-williams-on-rodell-warner](http://smallaxe.net/wordpress3/works/2009/11/09/dave-williams-on-rodell-warner).
+[^15]: See [http://www.rodellwarner.com/index.php?/photobooth](http://www.rodellwarner.com/index.php?/photobooth); and Dave Williams, "Losing Your Head in the Photobooth," *sx salon*, 9 November 2009.
 
 [^16]: Marcela Fuentes, "Performance Constellations: Memory and Event in Digitally Enabled Protests in the Americas," *Text and Performance Quarterly* 31, no. 1 (2015): 34.
 
