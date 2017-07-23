@@ -10,7 +10,7 @@
   {% if page.section == "introduction" %}
     <li>
       <a href="{{ page.url | prepend:site.baseurl }}">
-        <span class="toc-title">{{ page.title }}</span>
+        <span class="toc-title">{{ page.title  | markdownify | remove: '<p>' | remove: '</p>' }}</span>
       </a><br>
     <span class="byline"> 
     {% include author-loop.html %}
@@ -29,7 +29,7 @@
 
     <li>
       <a href="{{ page.url | prepend:site.baseurl }}">
-        <span class="toc-title">{{ page.title["long"] }}</span>
+        <span class="toc-title">{{ page.title["long"] | markdownify | remove: '<p>' | remove: '</p>' }}</span>
       </a><br>
     <span class="byline">
     {% include author-loop.html %}
@@ -52,7 +52,7 @@
 
     <li>
       <a href="{{ page.url | prepend:site.baseurl }}">
-        <span class="toc-title">{{ page.title["long"] }}</span>
+        <span class="toc-title">{{ page.title["long"]  | markdownify | remove: '<p>' | remove: '</p>' }}</span>
       </a><br>
     <span class="byline"> 
         {% include author-loop.html %}
@@ -71,7 +71,7 @@
 
     <li>
       <a href="{{ page.url | prepend:site.baseurl }}">
-        <span class="toc-title">{{ page.title["long"] }}</span>
+        <span class="toc-title">{{ page.title["long"]  | markdownify | remove: '<p>' | remove: '</p>' }}</span>
       </a><br>
     <span class="byline">
   {% include author-loop.html %}
@@ -86,6 +86,3 @@
   {% endif %}
 {% endfor %}
 </ul>
-
-<h3><a href="{{ site.baseurl }}/about.html#colophon">Colophon</a></h3>
-</div>

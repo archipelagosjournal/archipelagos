@@ -29,18 +29,19 @@ collections:
     - Alex Gil
     - Dennis Tenen
     - Brian Ballsun-Stanton
+    - Kelly S. Martin    
   issue02:
     output: true
     number: 2
-    date: "June 2017"
+    date: "August 2017"
     title: "Issue (2)"
     editors:
     - Kaiama Glover
     - Alex Gil
     production:
     - Alex Gil
-    - Dennis Tenen
     - Brian Ballsun-Stanton
+    - Kelly S. Martin
   archives:
     output: true
 

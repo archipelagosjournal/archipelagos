@@ -6,7 +6,22 @@ title: home
 <h1 class="journal-title">{{ site.title }}</h1>
 <h2 class="tagline">{{site.description}}</h2>
 
-{% capture homepage-content %}{% include issue01.md %}{% endcapture %}
-{{ homepage-content | markdownify }}
+<p><em>sx archipelagos</em> is the latest born-digital articulation of the Small Axe Project. It is a peer-reviewed publication platform devoted to creative exploration, debate, and critical thinking about and through digital practices in contemporary scholarly and artistic work in and on the Caribbean. Given the wide implications of the “digital turn” for our very conceptions of knowledge, our mission is to discern the ways in which the digital may enhance and transform our comprehension of the regional and diasporic Caribbean. *sx archipelagos* responds to this challenge with three distinct dimensions of critical production: scholarly essays; digital scholarship projects; and digital project reviews.</p>
 
-{% include toc.html issue=site.issue01 %}
+<a href="{{site.baseurl}}/about.html">Read more...</a>
+
+<hr>
+
+<h2>Current Issue (2) | August 2017</h2>
+
+{% include toc.html issue=site.issue02 %}
+
+<hr>
+
+<h2>Past Issues</h2>
+<ul>
+	<li class="toc-title"><a href="{{ site.url }}{{ site.baseurl }}/issue01.html">Issue (1)</h3></a></li>	
+</ul>
+
+<h3><a href="{{ site.baseurl }}/about.html#colophon">Colophon</a></h3>
+</div>
