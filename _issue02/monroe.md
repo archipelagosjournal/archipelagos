@@ -1,6 +1,6 @@
 ---
 layout: article
-section: articles
+section: reviews
 title: 
   "long": "Review of the \'Digital Archaeological Archive of Comparative Slavery\'"
   "short": "Review"
@@ -9,9 +9,9 @@ author:
 - name: J. Cameron Monroe 
   shortname: Monrow
   bio: "[insert]"
-date: August 2017
-issue: 1
-order: 3
+date: July 2017
+issue: 2
+order: 1
 abstract: "[insert]"
 language: en
 ---

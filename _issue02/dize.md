@@ -18,8 +18,8 @@ author:
 - name: Brittany M. de Gail
   shortname: de Gail
   bio: "[insert]"
-date: August 2017
-issue: 1
+date: July 2017
+issue: 2
 order: 2
 abstract: "[insert]"
 language: en
