@@ -16,3 +16,5 @@ sudo docker cp <id>:/root/sxa-dev/assets sxa-dev
 
 # Notify Google
 http://www.google.com/ping?sitemap=http://smallaxe.net/sxarchipelagos/sitemap.xml
+
+# Run HTML Proofer

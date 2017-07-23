@@ -10,7 +10,7 @@ root=$(git rev-parse --show-toplevel)
 # images/issue01/ is the images
 
 
-for issuePath in $(find $root -maxdepth 1 -name "_issue*" -type d  ); do
+for issuePath in $(find $root -maxdepth 1 -name "_issue02" -type d  ); do
 	_issue=${issuePath##*/}
 	issue=$(echo "$_issue" | sed -e 's/_//g')
 	echo "Processing: $issue"
