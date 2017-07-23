@@ -10,7 +10,7 @@ author:
   shortname: Lauro
   bio: "[insert]"
 date: August 2017
-issue: 2
+issue: 1
 order: 1
 abstract: "[insert]"
 language: en

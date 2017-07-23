@@ -1,6 +1,6 @@
 ---
 layout: article
-section: reviews
+section: articles
 title: 
   "long": "Review of the \'Digital Archaeological Archive of Comparative Slavery\'"
   "short": "Review"
@@ -10,12 +10,11 @@ author:
   shortname: Monrow
   bio: "[insert]"
 date: August 2017
-issue: 2
-order: 1
+issue: 1
+order: 3
 abstract: "[insert]"
 language: en
 ---
-
 
 > There were no beds given the slaves, unless one coarse blanket be considered such, and none but the men and women had these. . . . They find less difficulty from the want of beds, than from the want of time to sleep; for when their day's work in the field is done, the most of them having their washing, mending, and cooking to do, and having few or none of the ordinary facilities for doing either of these, very many of their sleeping hours are consumed in preparing for the field the coming day. 
 > Frederick Douglass, *The Narrative of the Life of Frederick Douglass* 
