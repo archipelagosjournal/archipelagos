@@ -9,8 +9,8 @@ author:
 - name: Abby Broughton
   shortname: Broughton
   bio: "[insert]"
-- name: Kelsey Corbett-Rivera
-  shortname: Corbett-Rivera
+- name: Kelsey Corlett-Rivera
+  shortname: Corlett-Rivera
   bio: "[insert]"
 - name: Nathan Dize
   shortname: Dize
@@ -18,9 +18,9 @@ author:
 - name: Brittany M. de Gail
   shortname: de Gail
   bio: "[insert]"
-date: May 2016
-issue: 1
-order: 5
+date: August 2017
+issue: 2
+order: 2
 abstract: "[insert]"
 language: en
 ---
@@ -128,7 +128,7 @@ Teaching language includes teaching culture, which by default requires a study o
 
 [^5]: The digital archive in French poses major questions relating to power and the production of history, especially since North American institutions possess and have digitized massive collections of French language materials. Whether or not these institutions are equipped to handle the burden of curating and critically engaging with these digital archives is often an afterthought in the race to digitize collections, which deserves further study. 
 
-[^6]: This seems to be shifting since the MLA Commons released the “keywords” project on the *Digital Pedagogy in the Humanities: Concepts, Models, and Experiments* site, which gives scholars and teachers a curated list of digital projects along with suggested implementation tactics. See Rebecca Frost Davis et al., “Digital Pedagogy in the Humanities | MLA Commons,” an open-access, born-digital publication that aggregates digital experiments by practitioners and presents pedagogical projects in their original forms: [bit.ly/2lkwiaQ](http://bit.ly/2lkwiaQ). 
+[^6]: This seems to be shifting since the MLA Commons released the “keywords” project on the *Digital Pedagogy in the Humanities: Concepts, Models, and Experiments* site, which gives scholars and teachers a curated list of digital projects along with suggested implementation tactics. See Rebecca Frost Davis et al., “Digital Pedagogy in the Humanities \| MLA Commons,” an open-access, born-digital publication that aggregates digital experiments by practitioners and presents pedagogical projects in their original forms: [bit.ly/2lkwiaQ](http://bit.ly/2lkwiaQ). 
 
 [^7]: Luke Waltzer, “Digital Humanities and the ‘Ugly Stepchildren’ of American Higher Education,” in *Debates in the Digital Humanities* (Minneapolis: University of Minnesota Press, 2012), 342. 
 

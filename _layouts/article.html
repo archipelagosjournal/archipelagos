@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="article">
-		  <h1 class="page-title">{{ page.title["long"] }}</h1>
+		  <h1 class="page-title">{{ page.title["long"]   | markdownify | remove: '<p>' | remove: '</p>' }}</h1>
 		  <p class="byline">{% assign document = page %}{% include author-loop.html %}</p>
 		  <br>
 		  {% if page.abstract %}  
