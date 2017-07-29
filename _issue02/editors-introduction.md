@@ -4,7 +4,7 @@ section: introduction
 issue: 2
 order: 0
 date: July 2017
-title: "Editors' Introduction: No More a Fragile Thing"
+title: "No More a Fragile Thing"
 doi: "[insert]"
 author: 
 - name: Kaiama L. Glover

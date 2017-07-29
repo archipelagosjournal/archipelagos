@@ -12,6 +12,16 @@ title: credits
 [Brian Ballsun-Stanton](#brian-ballsun-stanton--production-editor)\\
 Juliet Ali
 
+### Editorial Board
+Yarimar Bonilla  
+Elizabeth Dillon  
+Laurent Dubois  
+Schuyler Esprit  
+Jessica Johnson  
+Kelly Josephs  
+Frances Negrón-Muntaner  
+Laurie Taylor
+
 ### Institutional Partners
 
 Columbia group for experimental methods in the humanities (xpmethod)\\
@@ -43,4 +53,15 @@ Barnard Committee on Online and On-Campus Learning
 ### Brian Ballsun-Stanton | production editor
 [Brian Ballsun-Stanton](https://www.fedarch.org/) (Ph.D. University of New South Wales, 2012) is currently a Research Associate at Macquarie University in Sydney, Australia. His research interests include exploring how people interact with and understand the nature of data and an investigation into the mechanics of ludic-narrative interactions in games. He is the Technical Director and Data Architect for the Field Acquired Information Management Systems (FAIMS) Project.
 Department of Ancient History
+
+### Juliet Ali | copy-editor
+
+### Laurent Dubois | editorial board
+Laurent Dubois is Professor of Romance Studies and History and Director of the the Forum for Scholars &amp; Publics at Duke University. He is the author of A Colony of Citizens: Revolution &amp; Slave Emancipation in the French Caribbean, 1787-1804 (2004), Avengers of the New World: The Story of the Haitian Revolution (2004), Soccer Empire: The World Cup and the Future of France (2010), Haiti: The Aftershocks of History (2012) and most recently The Banjo: America’s African Instrument (2016). His writings have appeared in The Nation, The New Yorker, the New York Times, Slate, Sports Illustrated, and The New Republic. In 2016-18 he was a fellow at the National Humanities Center, where he is working on two projects: a book on soccer called The Language of the Game (under contract with Basic Books), and an experimental biography of Katherine Dunham.
+
+### Schuyler Esprit | editorial board
+Schuyler Esprit is a scholar of Caribbean literature and cultural studies, and postcolonial theory. Dr. Esprit holds a PhD in English literature from University of Maryland, College Park. She is the Founding Director of Create Caribbean Inc., Research Institute at Dominica State College. The Research Institute supports students and scholars to use digital technologies for research, teaching and learning in areas of Caribbean development, especially its culture, history and heritage. She currently works as Registrar and Dean of Academic Affairs at Dominica State College. Schuyler is also a writer and editor, research consultant, and youth advocate. She has taught and held professional positions at a number of universities in the United States, and has also worked as the Editor of Dominica’s longest running newspaper, The Chronicle. She is now completing her book entitled West Indian Readers: A Social History and its digital companion, both of which are historical explorations of reading culture in the Caribbean. She has also written the introduction to the 2016 Papillote Press edition of The Orchid House, the 1953 novel by Dominican writer Phyllis Shand Allfrey.
+
+### Laurie Taylor | editorial board
+Laurie N. Taylor is the Digital Scholarship Librarian at the University of Florida, and Digital Scholarship Director for the international collaborative Digital Library of the Caribbean (dLOC). Her work focuses on digital scholarship and developing socio-technical supports (people, policies, technologies, communities) for scholarly cyberinfrastructure to foster an environment of radical collaboration that supports diversity and inclusivity. She is the Editor-in- Chief of the LibraryPress@UF, a joint imprint of the UF Libraries and Press, member of the UF Digital Humanities Graduate Certificate Board, affiliate librarian for the Center for Gender, Sexualities, and Women’s Studies Research, and affiliate faculty member in the UF’s Center for Latin American Studies.
 
