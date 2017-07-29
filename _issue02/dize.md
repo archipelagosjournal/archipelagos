@@ -21,7 +21,7 @@ author:
 date: July 2017
 issue: 2
 order: 3
-abstract: "[insert]"
+abstract: "This essay explore​s​ the use of A Colony in Crisis: The Saint-Domingue Grain Crisis of 1789 in the French literature classroom and how it helps address gaps in digital humanities and French language pedagogy while interrogating the colonial positionality of the French Revolution’s digital archive. In 2015, the Newberry Library received a Digitizing Hidden Special Collections and Archives grant from the Council on Library and Information Resources (CLIR) to digitize 30,000 French language pamphlets, a portion of which pertains to the period before, during, and after the French Revolution. As the digital archive of the French Revolution rapidly grows, the need to draw attention to the broader context of revolution in the French Empire–particularly in the Caribbean–has become even more urgent. ​One of the most effective ways of addressing the marginalization of the Caribbean in colonial archives is through pedagogical interventions and course design. While digital humanities pedagogy has become somewhat normalized in the anglophone literature classroom, the French language classroom has been slow to adapt to the use of digital tools and pedagogy beyond the introductory language course."
 language: en
 ---
 
@@ -37,9 +37,10 @@ Given this environment, it was imperative for us, the authors of *[A Colony in C
 
 The University of Maryland (UMD) Libraries’ Special Collections holds nearly ten thousand French pamphlets, dating from the seventeenth through the twentieth centuries. Many of the French pamphlets were stored in boxes according to subject; perhaps they arrived in College Park in said boxes, or perhaps this system was implemented during earlier attempts to catalogue this collection. Regardless, while the pamphlets focusing on mainland France were organized thematically in uniform boxes, those focusing on the French colonies had been preserved in separate boxes, distinct from the rest of the collection. 
 
-{ img=“colonial-boxes.jpg” 
-	title=“French Pamphlet Storage Boxes” 
-	caption=“Photo of colonial pamphlet storage boxes in UMD Special Collections”} 
+{% include image.html
+  img="issue02/colonial-boxes.jpg"
+  title="French Pamphlet Storage Boxes"
+  caption="Figure 1. Photo of colonial pamphlet storage boxes in UMD Special Collections." %}
 
 The colonial materials were not included in a finding aid developed with the help of the UMD French Department in the 1990s, whereas the items from France were broken down into very specific subjects (Series). 
 

@@ -45,6 +45,9 @@ collections:
   archives:
     output: true
 
+# Current issue
+current: issue02
+
 # Jekyll-Kramdown
 markdown: kramdown
 
