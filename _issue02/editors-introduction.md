@@ -1,12 +1,10 @@
 ---
-layout: article
-section: articles
+layout: page
+section: introduction
 issue: 2
 order: 0
-date: May 2016
-title: 
-  "long": "Editors' Introduction: No More a Fragile Thing"
-  "short": "Editors' Introduction"
+date: July 2017
+title: "Editors' Introduction: No More a Fragile Thing"
 doi: "[insert]"
 author: 
 - name: Kaiama L. Glover
@@ -18,8 +16,6 @@ author:
 
 language: en
 ---
-
-"No More a Fragile Thing"
 
 We're back. One year in with this experiment of a journal and, though our baby is by no means all grown up, she has come a ways. We have a community of vocal and generous readers. We have the support of a brilliant (and generous) newly-constituted editorial board [hyperlink to section of Credits page]. We have been indexed by Google scholar. A year ago this journal was a nascent and necessarily fragile thing. As we brought her out into the world, we were cautious and concerned in every respect - helicopter-parenting each submission, leaning over our developer's shoulder as he built the back-end from scratch, soliciting the counsel of our closest colleagues, making sure to understand every nut and bolt of infrastructure, every nuance of narrative. sxa.1 was our announcement of the Small Axe Project's investment in and fascination with our Caribbean digital community as we Editors saw it and believed it to be - in all its complexity and promise. 
 
