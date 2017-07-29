@@ -8,7 +8,7 @@ doi: "[insert]"
 author: 
 - name: Laura Wagner
   shortname: Wagner
-  bio: "[insert]"
+  bio: "Laura Wagner, PhD, is the Radio Haiti project archivist at the Rubenstein Rare Book and Manuscript Library at Duke University. She received her BA from Yale University and her PhD in anthropology from UNC Chapel Hill, where her research focused on the aftermath of the 2010 earthquake in Haiti. She is also a fiction and nonfiction writer."
 date: July 2017
 issue: 2
 order: 2

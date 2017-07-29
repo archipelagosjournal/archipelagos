@@ -7,8 +7,8 @@ title:
 doi: "[insert]"
 author: 
 - name: J. Cameron Monroe 
-  shortname: Monrow
-  bio: "[insert]"
+  shortname: Monroe
+  bio: "J. Cameron Monroe is an Associate Professor of Anthropology at the University of California Santa Cruz, and Director of the UCSC Archaeological Research Center. He earned a B.A. from UC Berkeley (1995) and PhD from UCLA (2003), both degrees in Anthropology. Between 2004 and 2006, he was a Postdoctoral Fellow in the Departments of African and African American Studies, Anthropology, and History at Washington University in St. Louis. He joined the Department of Anthropology at UC Santa Cruz in the Fall of 2006. Monroe’s research uses an archaeological approach to examines political, economic, and cultural transformation in West Africa and the Diaspora in the era of the trans-Atlantic slave trade. Between 2000 and 2013 he conducted field research in the Republic of Benin on the spatial dimensions of political authority and the slave trade in the Kingdom of Dahomey. Since 2015 he has directed research on the materiality of political authority in the Kingdom of Haiti.  At UC Santa Cruz, he teaches courses in general archaeology, the archaeology of colonialism, slavery and the slave trade, and spatial analysis."
 date: July 2017
 issue: 2
 order: 1

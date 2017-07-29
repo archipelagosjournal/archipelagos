@@ -8,7 +8,7 @@ doi: "[insert]"
 author: 
 - name: Sarah Juliet Lauro 
   shortname: Lauro
-  bio: "[insert]"
+  bio: "Sarah Juliet Lauro is assistant professor of hemispheric literature at the University of Tampa. She is the author of many works that address the figure of the living dead zombie, including the book The Transatlantic Zombie: Slavery, Rebellion, and Living Death (Rutgers UP, 2015) and editor of the forthcoming collection Zombie Theory: A Reader (University of Minnesota Press, 2017). Her next book project turns from zombies as a figuration of slavery and slave revolt, which is her central interest in the monster, to literal commemorations of slave rebellion in literature, art, film, and digital culture."
 date: July 2017
 issue: 2
 order: 1

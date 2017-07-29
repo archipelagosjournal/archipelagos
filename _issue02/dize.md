@@ -8,13 +8,13 @@ doi: "[insert]"
 author: 
 - name: Abby Broughton
   shortname: Broughton
-  bio: "[insert]"
+  bio: "Abby R. Broughton is a PhD student in the Department of French and Italian at Vanderbilt University, where she specializes in 20th century queer literature, body and identity politics, and the intersection of illustration and text. Abby is a co-author, translator, and editor of A Colony in Crisis: The Saint-Domingue Grain Shortage of 1789."
 - name: Kelsey Corlett-Rivera
   shortname: Corlett-Rivera
-  bio: "[insert]"
+  bio: "Kelsey Corlett-Rivera is the Head of the Research Commons and Librarian for the School of Languages, Literatures, and Cultures at the University of Maryland. Kelsey leverages emerging technologies to provide services for researchers on campus, and is the site designer and editor of A Colony in Crisis: The Saint-Domingue Grain Shortage of 1789."
 - name: Nathan Dize
   shortname: Dize
-  bio: "[insert]"
+  bio: "Nathan H. Dize is a PhD student in the Department of French and Italian at Vanderbilt University where he specializes in Haitian theater, poetry, and revolutionary poetics during the nineteenth and early twentieth centuries. Nathan is the content curator, translator, and editor of A Colony in Crisis: The Saint-Domingue Grain Shortage of 1789."
 - name: Brittany M. de Gail
   shortname: de Gail
   bio: "[insert]"

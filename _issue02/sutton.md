@@ -8,7 +8,7 @@ doi: "[insert]"
 author: 
 - name: Angela Sutton  
   shortname: Sutton
-  bio: "[insert]"
+  bio: "Angela Sutton is a historian of the Atlantic World, with specializations in early Modern West Africa, Digital History, Caribbean History, and Maritime History. She is a postdoctoral fellow at the Digital Humanities Center, developing projects with the digital archive of Ecclesiastical and Secular Sources for Slave Societies (ESSSS), one of the largest collections of primary sources for Africans in the Americas. She is in the process of revising her dissertation into a manuscript, tentatively titled, "Mercantile Culture of the Gold Coast Slave Trade in the Atlantic World Economy, 1620 -1720." Her archival research in the seventeenth-century English, Dutch, Swedish, and Prussian slave trades has been supported by a number of generous sources, including Vanderbilt University’s College of Arts & Sciences, the American Council of Learned Societies (ACLS), the Fulbright Foundation, the Max Kade Center, and Vanderbilt University. In the 2017-2018 academic year, she is a CCF research fellow with the John Carter Brown Library."
 date: July 2017
 issue: 2
 order: 4
