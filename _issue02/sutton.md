@@ -1,6 +1,6 @@
 ---
 layout: article
-section: articles
+section: projects
 title: 
   "long": "The Digital Overhaul of the Archive of Ecclesiastical and Secular Sources for Slave Societies (ESSSS)"
   "short": "Digital Overhaul"
@@ -12,7 +12,7 @@ author:
 date: July 2017
 issue: 2
 order: 4
-abstract: "[insert]"
+abstract: "The archive of the Ecclesiastical and Secular Sources for Slave Societies (ESSSS) digitally preserves endangered ecclesiastical and secular documents related to Africans and Afro-descended peoples in the Americas. It began in 2003 with an NEH grant to explore the potential for gathering digital copies of church records in Cuba and Brazil, and expanded from there. With over 600,000 documents concerning the lives of 4-6 million Africans and their descendants, it is now the largest repository of its kind. The consequences of this rapid yet steady expansion have been an increasingly irrelevant digital platform that is unsustainable and difficult to maneuver. While the archive grows and the information in the ESSSS documents continues to be preserved, fewer researchers are now able to access it. The ESSSS team is currently in the process of updating the archive’s platform in order to increase functionality, sustainability, and accessibility.  The new archive will be interoperable with the latest digital preservation and dissemination projects, allowing for novel uses of the data. At the heart of this overhaul are several conversations about how to use technology in ways that best centralize underrepresented historic actors, and promote interdisciplinary collaboration between scholars in and of Latin America and the Caribbean. This article discusses the many collaborative decisions between scholars and librarians that went into the digital overhaul of the archive with the hopes of contributing to and exploring the ongoing challenges around combating obsolescence of older digital projects of particular significance to the interconnected histories of Africa and the Americas."
 language: en
 ---
 

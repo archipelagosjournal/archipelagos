@@ -658,8 +658,7 @@ half-backward pair of feet will leave behind?
             title="Tomorrow Please God, 12--13."
             caption="Figure 7. Tomorrow Please God, 12--13." %}
 
-<!-- ![Figure 7. *Tomorrow Please God*, 12--13.](/images/issue01/tomorrow-please-god-2.png "Figure 6. *Figure 7. *Tomorrow Please God*, 12--13.")
- -->
+
 The two shadowboxes, with the brain on the left side and the
 ambi-directional pair of footprints on the right, are elevated above a
 background of David LeVay's *Anatomy, Second Edition*, discussing
