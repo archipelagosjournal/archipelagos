@@ -90,18 +90,19 @@ Images accompanying your documents will be open to the review process.
 Please provide crisp images with a minimum of 144ppi resolution and at
 least 800 pixels wide. Please submit your images in JPG format. We accept PNG's if the image has transparencies. 
 
-Please use the following syntax in your documents, regardless of format, to indicate where you would like your images to be inserted:
+Please use the following rubric in your documents, filling out the appropriate content in brackets (without the brackets in the final version), and place the whole where you would like your images to be inserted:
 
 ~~~ text
-{  img="my-image.jpg"
-   title="insert title here"
-   caption="insert caption here. include credit if appropriate."
-   url="http://optional-url.com" }
+{% include image.html
+   img="[my-image.jpg]"
+   title="[insert title here]"
+   caption="[insert caption here. include credit if appropriate.]"
+   url="[http://optional-url.com]" %}
 ~~~
 
 We ask that you name your image files using one or two keywords
-separated by a hyphen as in the example above. Please remember to
-provide credit line text as needed, particularly for photographs.
+separated by a hyphen as in the example above. *Do not use spaces or capital letters in your file name*. Please remember to
+provide credit line text as needed, particularly for photographs. The URL field is optional and you should only use it if you want the reader to link from your image to another page on the internet.
 
 #### Video, Sound, and Interactive Media
 
@@ -120,21 +121,12 @@ us, whenever possible, a full-screen version of your interactive media
 hosted elsewhere.
 
 In order to include any of these media types, we ask that you send us a
-screenshot and the appropriate link to the separate content. Please indicate in the
-following format the position in your article where you would like your
-screenshot to appear:
-
-~~~ text
-{  img="my-screenshot.jpg"
-   title="insert title here"
-   caption="insert caption here. include credit if appropriate."
-   url="http://video-url.com" }
-~~~
+screenshot and the appropriate link to the separate content. Please use the same rubric as the one we use for images above, and place the rubric in the place of the text where you would like your screenshot link to appear. The URL should point to the full-screen version (whenever possible) of your interactive media, sound file or video. Whenever appropriate use a screenshot with the play button visible. For example, if it's a YouTube video, take a screenshot of the full screen version with the red and white play button in the center.
 
 ### Hyperlinks
 
 All referenced pages (whenever possible and allowed by the site's robot.txt file) must point to a specific archived copy at [the Internet
-Archive](https://archive.org/index.php). They must also use an url shortener (ex. [bit.ly](https://bitly.com/)) whenever they appear in text, especially in footnotes. Let us know if you need help with this process.
+Archive](https://archive.org/index.php). If a copy does not yet exist, please create one. Let us know if you need help with this process.
 
 Please ensure that all external and internal links in your document are working before submission. Many websites and Web pages disappear or
 become displaced over time. In order to avoid link rot, we run periodic
@@ -149,12 +141,11 @@ citations when the links are fundamental to the argument and you cannot provide 
 When sharing external documents, do not link to cloud storage services
 (e.g., Dropbox, Google Docs) or closed-access sources. In these cases,
 simply cite the documents. If you have permission to use them, you may
-be able to submit them with your files. We do welcome and encourage links to open
-institutional repositories.
+be able to submit them with your files. We do welcome and encourage links to open institutional repositories.
 
 ### Tables
 
-If you would like a table to display as you read your text you can submit it either as a .csv (Comma Separated Values) file or written directly in [kramdown/markdown](http://kramdown.gettalong.org/syntax.html#tables), its final format. In general, we prefer the simpler table formats. Please avoid rowspans, for example. 
+If you would like a table to display as you read your text you can submit it either as a .csv (Comma Separated Values) file or written directly in [kramdown/markdown](http://kramdown.gettalong.org/syntax.html#tables), its final format. In general, we prefer the simpler table formats. Please avoid rowspans, for example. If you feel you need a complex visualization, consider submitting an image or hosting the visualization elsewhere and linking to it from a screenshot. 
 
 If you would like to submit a more complex table you can do so as a separate PDF. We would then link to the table from within the text. 
 
@@ -168,7 +159,9 @@ opportunity to launch your project upon publication of the relevant *sx
 archipelagos* issue. Throughout the review and publication process, our
 editorial team will work with you to provide constructive feedback on
 your project. You remain, of course, responsible for the development and
-upkeep of your project before and after we showcase it on our platform.
+upkeep of your project before and after we showcase it on our platform. If your project is accepted in our digital projects featured section, we will also publish the review exchange between our reviewers and your team. 
+
+We also support essay-length "project narratives" that describe the process, infrastructure, or new major feature of a digital project. These essays go through the single-blind method, and will be published alongside featured projects. If you have any questions about which is the right fit for you, feel free to contact us.
 
 We are particularly keen to support projects that make an important
 scholarly contribution to the study of the Caribbean; that are conscious
