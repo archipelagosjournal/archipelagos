@@ -4,7 +4,7 @@ section: articles
 title: 
   "long": "*Nou toujou la!* The Digital (After-)Life of Radio Haïti-Inter"
   "short": "Nou toujou la!"
-doi: "[insert]"
+doi: "doi:10.7916/D8J394ZN"
 author: 
 - name: Laura Wagner
   shortname: Wagner
