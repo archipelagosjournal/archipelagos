@@ -15,7 +15,7 @@ title: credits
 
 ### Editorial Board
 [Yarimar Bonilla](#yarimar-bonilla--editorial-board)  
-[Elizabeth Dillon](#elizabeth-dillon--editorial-board)  
+[Elizabeth Maddock Dillon](#elizabeth-maddock-dillon--editorial-board)  
 [Laurent Dubois](#laurent-dubois--editorial-board)  
 [Schuyler Esprit](#schuyler-esprit--editorial-board)  
 [Jessica Johnson](#jessica-johnson--editorial-board)  
