@@ -4,6 +4,7 @@ _site
 .ruby-version
 Gemfile.lock
 instructions.txt
+RAKEFILE
 
 # Numerous always-ignore extensions
 *.diff
