@@ -123,8 +123,6 @@ Teaching language includes teaching culture, which by default requires a study o
 
 ---
 
-## Notes
-
 [^1]: See "About," *Voices of the Revolution*, [bit.ly/2lrnnEZ](http://bit.ly/2lrnnEZ) (accessed 8 January 2017); and "2015 Funded Projects," *Council on Library and Information Resources*, [bit.ly/2kxQGXu](http://bit.ly/2kxQGXu) (accessed 8 January 2017).
 
 [^2]: There are digital archives of the Haitian Revolution, such as the Haiti Collection at the John Carter Brown Library, Brown University, [bit.ly/2lDN1GX](http://bit.ly/2lDN1GX), and other digital exhibitions of Haitian history, such as Malick Ghachem’s 2014 "The Other Revolution: Haiti, 1789–1804," at the John Carter Brown Library, [bit.ly/2kxQtDs](http://bit.ly/2kxQtDs) (accessed 9 January 2016), and Adam Silvia’s 2014 "Haiti: An Island Luminous," at the gallery at the Green Library, Florida International University, [bit.ly/2lsyNZO](http://bit.ly/2lsyNZO) (accessed 16 January 2017).

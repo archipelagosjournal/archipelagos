@@ -45,8 +45,6 @@ For Victor, the destruction of the house reflects the myopic vision of the state
 
 ---
 
-## Notes
-
 [^1]: "The Caribbean Memory Project—About Us," *Caribbean Memory Project*, www.caribbeanmemoryproject.com/about.html.
 
 [^2]: Rubadiri Victor, "The Foundation Stone," *Facebook*, 16 September 2016 (capitalization and suspension points in original), [www.facebook.com/rubadiri/posts/10157555719545145](https://www.facebook.com/rubadiri/posts/10157555719545145).

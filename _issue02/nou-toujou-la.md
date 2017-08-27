@@ -209,8 +209,6 @@ Radio Haiti Archive—Duke Libraries:
 
 ---
 
-## Notes
-
 [^1]: J. J. Dominique, interview by Laura Wagner, Montreal, 22 October 2015, [http://www.youtube.com/watch?v=-18Ha_A-KuU](http://www.youtube.com/watch?v=-18Ha_A-KuU). All translations are mine.
 
 [^2]: "Édito sur réouverture Radio Haiti-Inter, Jean L. Dominique," 6 October 1986, RL10059RR1362, Radio Haiti Collection, David M. Rubenstein Rare Book and Manuscript Library, Duke University, Durham, NC (hereafter RHC). Listen at [http://soundcloud.com/radiohaitiarchives/edito-jean-l-dominique-sur-la-reouverture-de-radio-haiti-inter-6-octobre-1986](http://soundcloud.com/radiohaitiarchives/edito-jean-l-dominique-sur-la-reouverture-de-radio-haiti-inter-6-octobre-1986).

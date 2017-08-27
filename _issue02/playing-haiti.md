@@ -141,8 +141,6 @@ I benefitted from presenting parts of this article at the Southern American Stud
 
 ---
 
-## Notes
-
 [^2]: bell hooks, "Eating the Other: Desire and Resistance," in *Black Looks: Race and Representation* (Boston: South End, 1992), 21–39, genius.com/Bell-hooks-eating-the-other-desire-and-resistance-annotated.
 
 [^3]: I am currently working on a book project that will address more fully the range of games in which slave resistance is rendered playable. Some are mainstream entertainment games like those described here, but there are also art games and educational games aimed at elementary school children that depict runaway slaves, which I include in my study. See, for example, the art game *Thralled*, a side-scrolling puzzle game about a runaway slave, created by students at the USC Games Lab, and *Mission US: Flight to Freedom*, an educational game about the Underground Railroad. I argued in "Kill the Overseer! Playing the Rebel Slave in Videogames," a recent talk given at the Experimental Media and Performing Arts Center, Rensselaer Polytechnic Institute, Troy, NY, on 1 February 2017, that both these games use emotional stress (the persistent sound of a crying baby in the first, the demand to click through a series of chores before the overseer metes out punishment in the second) to heighten the player’s experience, fostering empathy for the playable character as a representative of historical slave resistance. See [empac.rpi.edu/events/2017/spring/kill-overseer](http://empac.rpi.edu/events/2017/spring/kill-overseer).

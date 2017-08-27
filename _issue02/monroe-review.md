@@ -41,8 +41,6 @@ In all, DAACS has achieved a monumental task, synthesizing and integrating numer
 
 ---
 
-## Notes
-
 [^1]: Frederick Douglass, *The Narrative of the Life of Frederick Douglass* (London: H. G. Collins, 1845), 16–17.
 
 [^2]: See, for example, Akinwumi Ogundiran and Toyin Falola, eds., *Archaeology of Atlantic Africa and the African Diaspora* (Bloomington: Indiana University Press, 2007); and Theresa A. Singleton, ed., *“I, Too, Am America”: Archaeological Studies of African-American Life* (Charlottesville: University Press of Virginia, 1999).
