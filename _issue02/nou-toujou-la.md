@@ -192,20 +192,15 @@ Radio Haiti remained tenacious in the face of dictatorship and privation, throug
 
 ## Useful Links
 
-Facebook:  
-[www.facebook.com/radioHaitiinter](http://www.facebook.com/radiohaitiinter)
+Facebook: [www.facebook.com/radioHaitiinter](http://www.facebook.com/radiohaitiinter)
 
-Twitter:   
-[@AchivRadyoAyiti](https://twitter.com/achivradyoayiti?lang=en)
+Twitter: [@AchivRadyoAyiti](https://twitter.com/achivradyoayiti?lang=en)
 
-Pilot site:  
-[www.radiohaitilives.com](http://www.radiohaitilives.com)
+Pilot site: [www.radiohaitilives.com](http://www.radiohaitilives.com)
 
-Preliminary collection guide:  
-[www.library.duke.edu/rubenstein/findingaids/radiohaiti](www.library.duke.edu/rubenstein/findingaids/radiohaiti)
+Preliminary collection guide: [www.library.duke.edu/rubenstein/findingaids/radiohaiti](www.library.duke.edu/rubenstein/findingaids/radiohaiti)
 
-Radio Haiti Archive—Duke Libraries:  
-[repository.duke.edu/dc/radiohaiti](https://repository.duke.edu/dc/radiohaiti)
+Radio Haiti Archive—Duke Libraries: [repository.duke.edu/dc/radiohaiti](https://repository.duke.edu/dc/radiohaiti)
 
 ---
 

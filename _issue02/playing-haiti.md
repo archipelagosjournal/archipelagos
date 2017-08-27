@@ -29,7 +29,7 @@ These kinds of viewpoints, a hallmark of the game franchise, may take on a speci
 {% include image.html
 	img="issue02/lauro-vid1.png"
 	url="https://www.youtube.com/embed/yZXlevoppJY"
-	title="*Assassin’s Creed: Liberation*"
+	title="Assassin’s Creed: Liberation"
 	caption="Video 1. A viewpoint synchronization moment from the game *Assassin’s Creed: Liberation* (Ubisoft, 2012)." %}
 
 
@@ -85,7 +85,7 @@ Videogames that capitalize on the history of slave resistance produce a potentia
 
 {% include image.html
 	img="issue02/lauro-fig2.png"
-	title="*Assassin’s Creed: Liberation*"
+	title="Assassin’s Creed: Liberation"
 	caption="Figure 2. This graphic from promotional materials associated with the game *Assassin’s Creed: Liberation* illustrates Aveline’s triple persona; from left to right: the assassin, the slave, and the lady." %}
 
 Aveline has three costumes that she dons: the assassin’s garb, the slave’s rags, and the lady’s gown. Each costume comes with different skill sets and elicits different treatment by the community as Aveline walks through the city. As Soraya Murray has suggested, we see in the diversity of this avatar and her ability to maneuver through society an illustration of the diversity of roles taken on by people of color in New Orleans.[^26] That the manipulation of the same buttons on the controller will have different effects depending on whether the avatar is wearing the costume of the slave, the assassin, or the lady also undergirds the themes of slavery and freedom as they are manifested in the haptic dimensions of the game, since the player is aware of a range of her abilities and deficiencies. In the guise of the lady, for example, Aveline’s mobility is somewhat restricted. On the other hand, she is swiftest and strongest in her assassin’s garb. Aveline’s polyvalence as a character, too, raises the specter of the collaborative effort of the slaves, free blacks, and wealthy mixed-race landowners to throw off the colonial yoke during the Haitian Revolution, as she alternately plays slave, assassin (and sometime Vodou initiate), and free lady of color. Significantly, Aveline’s role as a fictional character in a deeply important history of resistance, which draws on her Saint-Dominguan heritage and is concretized by her possession of Vodou fetishes and poison blow darts in her arsenal, reveals the deeper *techne* of the game as rooted in role-playing. I want to suggest, then, that Aveline’s triple nature also represents the player trying on different social and historical roles and serves as a reminder of the game’s fiction and of the player’s limitations within the game designer’s algorithm.
