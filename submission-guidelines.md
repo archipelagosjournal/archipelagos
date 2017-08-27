@@ -24,20 +24,17 @@ Contact: archipelagos@smallaxe.net
 
 ### The Workflow
 
-*sx archipelagos* uses a combination of email, Dropbox and Github to manage the editorial workflow.
-We ask you to submit your abstracts and articles to <archipelagos@smallaxe.net>.
+*sx archipelagos* uses a combination of email, Dropbox and Github to manage the editorial workflow. We ask you to submit your abstracts and articles to <archipelagos@smallaxe.net>. Most exchanges with authors will happen through email using this account.
 
-1.  Once our Call For Papers is out you will be able to submit either an abstract or a previously written article within a month of the CFP. The next steps describing file exchanges will be handled through email, and we're here to answer any questions as they arise.
+1. A CFP will be published shortly after each issue is published, but we accept abstracts and articles on a rolling basis. 
 
-2.  Abstracts and previously written articles will be vetted by the editorial team, who will decide to move forward to solicit a new article or send an existing one to peer review.
+2. Article submissions must include a bio (or bios for multi-author) and an abstract. Please place these at the bottom of your document. All multimedia content should accompany the initial article submission in a zip file or equivalent.
 
-3. Articles should include a bio (or bios for multi-author), and an abstract in the bottom of the file at all times. All multimedia content should accompany the first article submission as a zip file.
+3. Articles are double-blind reviewed by our team of outside peer-reviewers. Digital project reviews are reviewed by the *sx archipelagos* Editorial Board. Contributors receive written notification from the editors (accepted, accepted with minor revisions, substantive revisions required or rejected) within two months of submission.
 
-4. Articles are double-blind reviewed by our team of outside peer-reviewers. Digital project reviews are reviewed by the editors (see section on Digital Projects below for more specific guidelines). Accepted contributions may be accepted as is or may go through one or two rounds of revisions.
+4. Copyediting begins upon succesful completion of the peer-review process. Contributors can expect to receive an updated file with suggestions and queries from our copyeditor. The revised file must be returned within two weeks of receipt. This will be the final opportunity to make substantive changes to the file. Contributors will receive a final PDF and link to the site close to launch for minor edits.
 
-5. Once the peer-review process is complete, our copyeditor examines your article for clarity and flow; checks grammar, punctuation, and spelling; and scrutinizes your notes. You will receive an updated file with suggestions from our copyeditor, which you will have approximately two weeks to accept, reject, or modify. This will be your final major review of your manuscript. We will send you a final PDF and a link to the site close to launch for final, minor edits.
-
-6. Throughout the editing and production process, please watch your e-mail for any last-minute queries from *sx archipelagos* editors. Your prompt responses will help to maintain schedules.
+4. Throughout the editing and production process, contributors are expected to watch e-mail for any last-minute queries from *sx archipelagos* editors. Prompt responses will help to maintain schedules.
 
 ### File types
 
