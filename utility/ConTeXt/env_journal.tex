@@ -3,7 +3,7 @@
 \setupcolors[state=start]
 \setupreferencing[autofile=yes]
 \setupinteraction[state=start, color=black, contrastcolor=black, style={\tf}]
-\placebookmarks[chapter,subsection][chapter,subsection]
+\placebookmarks[chapter,subsection, subsubsection][chapter,subsection, subsubsection]
 
 
 \definefontfeature
@@ -59,13 +59,13 @@
 
 \define[2]\MyChapterCommand%
   {\vbox{%]
-\setupinterlinespace[line=21pt]%  
+\setupinterlinespace[line=26pt]%  
 
 
 %\switchtobodyfont[main]%
 %\switchtobodyfont[14pt]
 
-\setupalign[flushleft, verytolerant, hz, hanging]{%
+\setupalign[flushleft, verytolerant, stretch, hz, hanging]{%
 \blank[40mm]{\switchtobodyfont[light]\switchtobodyfont[14pt]#2}%
 }}}
 
@@ -96,6 +96,7 @@
   [blockquote]
   [before={\blank[medium]},
    after={\blank[medium]\setupalign[hz, hanging]},
+   style={\switchtobodyfont[light]\setupalign[hz, hanging]},
    indentnext=no,
   ]
 

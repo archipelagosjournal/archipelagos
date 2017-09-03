@@ -86,7 +86,7 @@ On Christmas Day 2002, there was an attempt on Michèle Montas’s life in which
 
 Radio Haiti never reopened.
 
-**The Project**
+## The Project
 
 "Archives assemble," wrote Haitian anthropologist and historian Michel-Rolph Trouillot. "Their assembly work is not limited to a more or less passive act of collecting. Rather, it is an active act of production that prepares facts for historical intelligibility. Archives set up both the substantive and formal elements of the narrative."[^7] During its first life, Radio Haiti was the radical counternarrative that represented the majority of the Haitian people. Its archive—Radio Haiti’s digital afterlife—should reflect that history and likewise endeavor to be radically accessible in terms of both technology and description. What happens when a major US academic library is tasked with processing and rendering "historically intelligible" the single most important archive of twentieth-century Haitian history? What happens when traditional archival practice collides with a massive non-English audio collection? Can an institution with an emphasis on preservation and research create a multilingual digital archive that is truly accessible, first and foremost, to Haitian people in Haiti? This section explores some of the practical and symbolic implications of the Radio Haiti project—a project that is still underway and riddled with challenges still unresolved.
 
@@ -192,15 +192,11 @@ Radio Haiti remained tenacious in the face of dictatorship and privation, throug
 
 ## Useful Links
 
-Facebook: [www.facebook.com/radioHaitiinter](http://www.facebook.com/radiohaitiinter)
-
-Twitter: [@AchivRadyoAyiti](https://twitter.com/achivradyoayiti?lang=en)
-
-Pilot site: [www.radiohaitilives.com](http://www.radiohaitilives.com)
-
-Preliminary collection guide: [www.library.duke.edu/rubenstein/findingaids/radiohaiti](www.library.duke.edu/rubenstein/findingaids/radiohaiti)
-
-Radio Haiti Archive—Duke Libraries: [repository.duke.edu/dc/radiohaiti](https://repository.duke.edu/dc/radiohaiti)
+* Facebook: [www.facebook.com/radioHaitiinter](http://www.facebook.com/radiohaitiinter)
+* Twitter: [\@AchivRadyoAyiti](https://twitter.com/achivradyoayiti)
+* Pilot site: [www.radiohaitilives.com](http://www.radiohaitilives.com)
+* Preliminary collection guide: [www.library.duke.edu/rubenstein/findingaids/radiohaiti](http://www.library.duke.edu/rubenstein/findingaids/radiohaiti)
+* Radio Haiti Archive—Duke Libraries: [repository.duke.edu/dc/radiohaiti](https://repository.duke.edu/dc/radiohaiti)
 
 ---
 
@@ -226,7 +222,7 @@ Radio Haiti Archive—Duke Libraries: [repository.duke.edu/dc/radiohaiti](https:
 
 [^11]: See Trouillot, *Silencing the Past*; and Ann Laura Stoler, *Along the Archival Grain: Epistemic Anxieties and Colonial Common Sense* (Princeton, NJ: Princeton University Press, 2009).
 
-[^12]: Laura Wagner, "Bringing Radio Haiti Home, One Step at a Time," 29 June 2016, *H-Net*, networks.h-net.org/node/116721/blog/h-haiti-blog/132330/bringing-radio-haiti-home-one-step-time; reposted 1 July 2016, *The Devil’s Tale*, blogs.library.duke.edu/rubenstein/2016/07/01/12259.
+[^12]: Laura Wagner, "Bringing Radio Haiti Home, One Step at a Time," 29 June 2016, *H-Net*, [http://networks.h-net.org/node/116721/blog/h-haiti-blog/132330/bringing-radio-haiti-home-one-step-time](http://networks.h-net.org/node/116721/blog/h-haiti-blog/132330/bringing-radio-haiti-home-one-step-time); reposted 1 July 2016, *The Devil’s Tale*, [http://blogs.library.duke.edu/rubenstein/2016/07/01/12259](http://blogs.library.duke.edu/rubenstein/2016/07/01/12259).
 
 [^13]: Barbie Zelizer, "Why Memory’s Work on Journalism Does Not Reflect Journalism’s Work on Memory," *Memory Studies* 1, no. 1 (2008): 80.
 
@@ -234,17 +230,17 @@ Radio Haiti Archive—Duke Libraries: [repository.duke.edu/dc/radiohaiti](https:
 
 [^15]: Jan J. Dominique, *Mémoire errante* (Montreal: Éditions du Remue-ménage, 2008), 150.
 
-[^16]: Laura Wagner, "Duvalierism, with and without Duvalier: Radio Haiti Commemorates the Massacres of April 26, 1963 and 1986," 26 April 2016, *The Devil’s Tale*, blogs.library.duke.edu/rubenstein/2016/04/26/duvalierism-without-duvalier-radio-haiti-commemorates-massacres-april-26-1963-1986.
+[^16]: Laura Wagner, "Duvalierism, with and without Duvalier: Radio Haiti Commemorates the Massacres of April 26, 1963 and 1986," 26 April 2016, *The Devil’s Tale*, [http://blogs.library.duke.edu/rubenstein/2016/04/26/duvalierism-without-duvalier-radio-haiti-commemorates-massacres-april-26-1963-1986](http://blogs.library.duke.edu/rubenstein/2016/04/26/duvalierism-without-duvalier-radio-haiti-commemorates-massacres-april-26-1963-1986).
 
-[^17]: Laura Wagner, "‘Radio Haiti, You Are the Rain. If You Didn’t Fall, We Could Not Bloom’: Repression and Remembrance on November 28," 20 November 2015, *The Devil’s Tale*, blogs.library.duke.edu/rubenstein/2015/11/20/radio-haiti-you-are-the-rain-if-you-didnt-fall-we-could-not-bloom-repression-and-remembrance-on-november-28.
+[^17]: Laura Wagner, "‘Radio Haiti, You Are the Rain. If You Didn’t Fall, We Could Not Bloom’: Repression and Remembrance on November 28," 20 November 2015, *The Devil’s Tale*, [http://blogs.library.duke.edu/rubenstein/2015/11/20/radio-haiti-you-are-the-rain-if-you-didnt-fall-we-could-not-bloom-repression-and-remembrance-on-november-28](http://blogs.library.duke.edu/rubenstein/2015/11/20/radio-haiti-you-are-the-rain-if-you-didnt-fall-we-could-not-bloom-repression-and-remembrance-on-november-28).
 
-[^18]: "*Face à l’opinion*: Lovinsky Pierre-Antoine sou jistis, enpinite ak memwa aprè koudeta," 16 December 1997, RL10059CS0527, RHC. Listen at soundcloud.com/radiohaitiarchives/sets/face-lopinion-lovinsky-pierre.
+[^18]: "*Face à l’opinion*: Lovinsky Pierre-Antoine sou jistis, enpinite ak memwa aprè koudeta," 16 December 1997, RL10059CS0527, RHC. Listen at [http://soundcloud.com/radiohaitiarchives/sets/face-lopinion-lovinsky-pierre](http://soundcloud.com/radiohaitiarchives/sets/face-lopinion-lovinsky-pierre).
 
 [^19]: The original Haitian Creole is "Nou mèt konnen ke nou menm nou te lèd, men yo menm, yo pa konn sa! Donk, nou la!" Dominique is playing with and twisting the well-known saying, "Pito nou lèd, men nou la!"("We may be ugly, but we’re here!"), which means, more or less, "We will not give up, even if others declare us ugly, even if others say we aren’t people." The playfulness is sadly lost in translation, and the term *lèd* (which literally means "ugly," but here refers to cruel and vicious acts rather than appearance) has been adapted.
 
 [^20]: "Face à l’opinion: Nathalie Lamaute-Brisson," 5 August 1999, RL10059CS0973, RHC.
 
-[^21]: "Affaire Jean Dominique, les dates, les gens et les faits connus." 20 January 2014, *Le Nouvelliste,* lenouvelliste.com/lenouvelliste/article/126501/Affaire-Jean-Dominique-les-dates-les-gens-et-les-faits-connus.html.
+[^21]: "Affaire Jean Dominique, les dates, les gens et les faits connus." 20 January 2014, *Le Nouvelliste,* [http://lenouvelliste.com/lenouvelliste/article/126501/Affaire-Jean-Dominique-les-dates-les-gens-et-les-faits-connus.html](http://lenouvelliste.com/lenouvelliste/article/126501/Affaire-Jean-Dominique-les-dates-les-gens-et-les-faits-connus.html).
 
 [^22]: Jacques Derrida, "Archive Fever: A Freudian Impression," trans. Eric Prenowitz, *Diacritics* 25, no. 2 (1995): 11.
 
@@ -258,10 +254,10 @@ Radio Haiti Archive—Duke Libraries: [repository.duke.edu/dc/radiohaiti](https:
 
 [^27]: Mary Caton Lingold, Darren Mueller, and Whitney Anne Trettien, preface to Mary Caton Lingold, Darren Mueller, and Whitney Anne Trettien, eds., *Digital Sound Studies: A Provocation* (Durham, NC: Duke University Press, forthcoming), 7.
 
-[^28]: See Sopan Deb, "Trump Proposes Eliminating the Arts and Humanities Endowments," 15 March 2017, *New York Times*, www.nytimes.com/2017/03/15/arts/nea-neh-endowments-trump.html?\_r=1.
+[^28]: See Sopan Deb, "Trump Proposes Eliminating the Arts and Humanities Endowments," 15 March 2017, *New York Times*, [http://www.nytimes.com/2017/03/15/arts/nea-neh-endowments-trump.html?\_r=1](http://www.nytimes.com/2017/03/15/arts/nea-neh-endowments-trump.html).
 
 [^29]: "Communiqué sur la censure," 10 May 1979, RL10059RR0160, RHC; and "Censure et théâtre," May 1979 RL10059CS0016, RHC.
 
-[^30]: See Roody Edmé, "Haïti-Mémoire: Il était une fois Richard Brisson," 16 January 2017, *AlterPresse*, www.alterpresse.org/spip.php?article21161\#.WS7zO9y1thF.
+[^30]: See Roody Edmé, "Haïti-Mémoire: Il était une fois Richard Brisson," 16 January 2017, *AlterPresse*, [http://www.alterpresse.org/spip.php?article21161\#.WS7zO9y1thF](http://www.alterpresse.org/spip.php?article21161\#.WS7zO9y1thF).
 
-[^31]: "*Le point*: Bon appétit, messieurs!," 20 October 1980, RL10059CS0978, RHC. Listen at soundcloud.com/radiohaitiarchives/sets/bon-app-tit-messieurs.
+[^31]: "*Le point*: Bon appétit, messieurs!," 20 October 1980, RL10059CS0978, RHC. Listen at [http://soundcloud.com/radiohaitiarchives/sets/bon-app-tit-messieurs](http://soundcloud.com/radiohaitiarchives/sets/bon-app-tit-messieurs).

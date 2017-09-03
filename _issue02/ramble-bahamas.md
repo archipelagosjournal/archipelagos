@@ -106,13 +106,13 @@ The recommendation to consistently use tags based on our research themes (nation
 
 ---
 
-[^1]: "About" (under "FDT"), *Ramble Bahamas*, www.ramblebahamas.org/about.
+[^1]: "About" (under "FDT"), *Ramble Bahamas*, [www.ramblebahamas.org/about](http://www.ramblebahamas.org/about).
 
 [^2]: "About," *Ramble Bahamas* (as accessed March 2017).
 
 [^3]: Omeka is the open-source web publishing platform used by *Ramble Bahamas*; see [omeka.org/about](http://omeka.org/about/).
 
-[^4]: See "A Review of *Ramble Bahamas*," this issue of *sx archipelagos*. See also www.ramblebahamas.org.
+[^4]: See "A Review of *Ramble Bahamas*," this issue of *sx archipelagos*. See also [www.ramblebahamas.org](http://www.ramblebahamas.org).
 
 [^5]: Garnette Cadogan, "Walking while Black," 8 July 2016, [lithub.com/walking-while-black](http://lithub.com/walking-while-black/).
 
