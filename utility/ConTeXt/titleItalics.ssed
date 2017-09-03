@@ -1,0 +1,11 @@
+/^\\setupinteraction/{
+s/{\\em ([^}]*)}/*\1*/
+}
+
+
+
+s#\\subsection\[([^]]+*)\]\{(.*)\}#\\subsection[reference={\1},\nbookmark={\2},\ntitle={\2}]#
+
+/bookmark=/{
+s/{\\em ([^}]*)}/*\1*/
+}
