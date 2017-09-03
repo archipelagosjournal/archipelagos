@@ -38,7 +38,7 @@ def mycite(key, value, fmt, meta):
 
 
     if key == 'Header' and fmt == 'context':
-                
+        
         style = value[1][1]
 
         if "red" in style:

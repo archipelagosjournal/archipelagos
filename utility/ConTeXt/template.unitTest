@@ -10,7 +10,9 @@ $endif$
 \starttext
 
 
-\startchapter[title={$title.long$}, marking={$title.short$}]
+\startchapter[title={$title.long$}
+, marking={$title.short$}
+, bookmark={$title.long$}]
 $if(font)$
 {\tfd font: $font$}
 $endif$

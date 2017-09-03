@@ -40,9 +40,9 @@ for issuePath in $(find $root -maxdepth 1 -name "_issue02" -type d  ); do
 	cp -r $root/images/$issue images
 
 	cp $root/$_issue/*.md .
-	
+	mkdir -p $root/utility/log/$_issue/
 	for file in $(find . -name "*.md"); do		
-		$root/utility/ConTeXt/convert.sh $file $root $output
+		$root/utility/ConTeXt/convert.sh $file $root $output $root/utility/log/$_issue/
 	done	
 
 	cp *.pdf $root/assets/$issue/

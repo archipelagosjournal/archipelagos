@@ -16,9 +16,27 @@
 %\usemodule[simplefonts]
 %\setmainfont[xits][expansion=quality,protrusion=quality]
 \definefontfamily[main][sans][Helvetica Neue][expansion=quality,protrusion=quality,it=file:helveticaneueitalic, sl=file:helveticaneueitalic]
-\definefontfamily[light][sans][Helvetica Neue][tf=file:helveticaneuelight, expansion=quality,protrusion=quality,it=file:helveticaneuelightitalic, sl=file:helveticaneuelightitalic]
+\definefontfamily[light][sans][Helvetica Neue][tf=helveticaneuelight, expansion=quality,protrusion=quality,it=file:helveticaneuelightitalic, sl=file:helveticaneuelightitalic]
+%[tf=helveticaneuethin, it=helveticaneuelightitalic, sl=helveticaneuelightitalic, bf=helveticaneuebold, bi=helveticaneuelightitalic]
+
+%[tf=file:HelveticaNeueLight.ttf, em=file:HelveticaNeueLightItalic.ttf, expansion=quality,protrusion=quality,it=file:HelveticaNeueLightItalic.ttf, sl=file:helveticaneuelightitalic]
 \setupbodyfont[main, 11pt]
 
+% helveticalt55roman         helveticaneuelt   helveticaneueltroman       /home/brian/.fonts/helveticaneue.ttf
+% helveticaneue              helveticaneue     helveticaneue              /home/brian/.fonts/HelveticaNeue.ttf
+% helveticaneuebold          helveticaneue     helveticaneuebold          /home/brian/.fonts/HelveticaNeue-Bold.ttf
+% helveticaneueitalic        helveticaneue     helveticaneueitalic        /home/brian/.fonts/HelveticaNeueItalic.ttf
+% helveticaneuelight         helveticaneue     helveticaneuelight         /home/brian/.fonts/HelveticaNeueLight.ttf
+% helveticaneuelightitalic   helveticaneue     helveticaneuelightitalic   /home/brian/.fonts/HelveticaNeueLightItalic.ttf
+% helveticaneuelt            helveticaneuelt   helveticaneueltroman       /home/brian/.fonts/helveticaneue.ttf
+% helveticaneuelt55roman     helveticaneuelt   helveticaneueltroman       /home/brian/.fonts/helveticaneue.ttf
+% helveticaneueltnormal      helveticaneuelt   helveticaneueltroman       /home/brian/.fonts/helveticaneue.ttf
+% helveticaneueltregular     helveticaneuelt   helveticaneueltroman       /home/brian/.fonts/helveticaneue.ttf
+% helveticaneueltroman       helveticaneuelt   helveticaneueltroman       /home/brian/.fonts/helveticaneue.ttf
+% helveticaneuenormal        helveticaneue     helveticaneueitalic        /home/brian/.fonts/HelveticaNeueItalic.ttf
+% helveticaneueregular       helveticaneue     helveticaneue              /home/brian/.fonts/HelveticaNeue.ttf
+% helveticaneuethin          helveticaneue     helveticaneuethin          /home/brian/.fonts/HelveticaNeue-Thin.ttf
+% helveticaneuew0145light                      helveticaneuew0145light    /home/brian/.fonts/helveticaneue-light.ttf
 
 \newdimen\Margin
 \Margin=3cm
@@ -44,13 +62,12 @@
 \setupinterlinespace[line=21pt]%  
 
 
-\setupbodyfont[light, 14pt]%
+%\switchtobodyfont[main]%
 %\switchtobodyfont[14pt]
 
-\setupalign[flushleft, verytolerant]{%
-\blank[40mm]#2%
+\setupalign[flushleft, verytolerant, hz, hanging]{%
+\blank[40mm]{\switchtobodyfont[light]\switchtobodyfont[14pt]#2}%
 }}}
-
 
 
 
