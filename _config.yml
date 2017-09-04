@@ -15,6 +15,7 @@ githuburl:           'https://github.com/sx-archipelagos/sxa'
 # Colophon
 issn: 2473-2206
 
+
 # Collections
 collections:
   issue01:
@@ -25,6 +26,7 @@ collections:
     editors:
     - Kaiama Glover
     - Alex Gil
+    - Kelly Baker Josephs
     production:
     - Alex Gil
     - Dennis Tenen
@@ -33,7 +35,7 @@ collections:
   issue02:
     output: true
     number: 2
-    date: "August 2017"
+    date: "September 2017"
     title: "Issue (2)"
     editors:
     - Kaiama Glover
@@ -47,6 +49,7 @@ collections:
 
 # Current issue
 current: issue02
+current-issue: 2
 
 # Jekyll-Kramdown
 markdown: kramdown

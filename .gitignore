@@ -17,6 +17,7 @@ RAKEFILE
 *.zip
 *.vi
 *~
+*.ttf
 
 # OS or Editor folders
 .DS_Store
