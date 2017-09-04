@@ -826,7 +826,7 @@ douen retains its capacity for devious and deviant paths.
 
 [^34]: See [http://vimeo.com/78231839](http://vimeo.com/78231839).
 
-[^35]: See [http://www.facebook.com/douen.islands](http://www.facebook.com/douen.islands) and [http://www.facebook.com/douen.islands.1](http://www.facebook.com/douen.islands.1); [http://www.instagram.com/douenislands](http://www.instagram.com/douenislands); [http://twitter.com/douenislands](http://twitter.com/douenislands); [http://douenislands.tumblr.com](http://douenislands.tumblr.com).
+[^35]: See [http://www.facebook.com/douen.islands](http://www.facebook.com/douen.islands); [http://www.instagram.com/douenislands](http://www.instagram.com/douenislands); [http://twitter.com/douenislands](http://twitter.com/douenislands); [http://douenislands.tumblr.com](http://douenislands.tumblr.com).
 
 [^36]: Roberto Simanowski, "Digital and Net Art," in Marie-Laure Ryan, Lori Emerson, and Benjamin Robertson, eds., *The Johns Hopkins Guide to Digital Media* (Baltimore, MD: Johns Hopkins University Press, 2014), 134.
 
