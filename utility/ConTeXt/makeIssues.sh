@@ -41,7 +41,8 @@ for issuePath in $(find $root -maxdepth 1 -name "_issue02" -type d  ); do
 
 	cp $root/$_issue/*.md .
 	mkdir -p $root/utility/log/$_issue/
-	for file in $(find . -name "*.md"); do		
+	for file in $(find . -name "*.md"); do
+		$root/utility/ConTeXt/archiveOrg.py $file		
 		$root/utility/ConTeXt/convert.sh $file $root $output $root/utility/log/$_issue/
 	done	
 
