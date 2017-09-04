@@ -11,7 +11,8 @@ https://github.com/adachis/Lifehacker.me/raw/master/fonts/HelveticaNeue-Bold.ttf
 HereDoc
 wget --directory-prefix=$HOME/.fonts -i $HOME/.fonts/toDownload -nc
 
-export OSFONTDIR=$HOME/.fonts:$(find / -name "*ttf" -o -name "*otf" -printf "%h\n" 2>/dev/null | sort | uniq | tr '\n' :)
+# export OSFONTDIR=$HOME/.fonts:$(find / -name "*ttf" -o -name "*otf" -printf "%h\n" 2>/dev/null | sort | uniq | tr '\n' :)
+export OSFONTDIR=$HOME/.fonts
 echo $OSFONTDIR
 
 mtxrun --script fonts --reload
