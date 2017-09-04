@@ -28,7 +28,7 @@ with open(sys.argv[1], 'r') as file:
 				replaceList.append(("%s%s%s" % (groups[0],groups[1],groups[2]), replaceURL))
 
 if len(replaceList) > 0:
-	shutil(sys.argv[1], sys.argv[1]+".bak")
+	shutil.copyfile(sys.argv[1], sys.argv[1]+".bak")
 	with open(sys.argv[1], 'r') as readFile:
 		contents = readFile.read()
 
