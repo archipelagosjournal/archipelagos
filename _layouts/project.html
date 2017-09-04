@@ -10,10 +10,14 @@ layout: default
   {{ content }}
   {% include bios.html %}
 </div>
+
 <div class="footer">
-			<ul id="footer-nav">
-				<li><a href="#">Return to top</a></li>
-				<li> | </li>
-				{% for index in site.archives %}{% if index.issue == page.collection %}<li><a href="{{site.baseurl}}/archives/{{ page.collection }}.html">Table of Contents</a></li>{% endif %}{% endfor %}
-			</ul>
+      <ul id="footer-nav">
+        <li><a href="#">Return to top</a></li>
+        {% if site.current-number == page.issue %}
+        <li> | </li>
+        <a href="{{site.baseurl}}/">Return to Table of Contents</a>
+        {% else %}
+        {% endif %}
+      </ul>
 </div>
