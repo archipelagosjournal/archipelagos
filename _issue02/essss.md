@@ -50,7 +50,7 @@ The success of this project has allowed this group of scholars, and the scholars
 As the ESSSS digital archive expanded, it outgrew the initial infrastructure used to manage it. The ESSSS team had in the past, out of necessity, privileged locating and saving endangered information over digital curation. This is because of the specialized and difficult, and often dangerous, nature of rescuing these older documents, which become permanently inaccessible on a regular basis. For example, in the Chocόe region of Colombia, the ESSSS preservation team worked in an area known for being a refuge of the Revolutionary Armed Forces of Columbia. In Cuba, they often labored without consistent access to electricity and running water. One of the collections the ESSSS team digitized went missing from the church where it had been stored, so now the ESSSS photographs are all that remains of the historic record of Africans in the region. Some of the churches, which served plantations in the early modern era, are in locations that are difficult to access or in places vulnerable to climate change: some document collections have been damaged from insect swarms and flooding, for example. Each day these records disappear from churches, and it is a race against time to collect and preserve these early and rare primary sources for African history in the Caribbean and wider Atlantic world.
 
 {% include image.html
-	img="issue02/InsectDamage.jpg"
+	img="issue02/Insects.jpg"
 	title="Insect-Damaged Manuscript"
 	caption="Insects have taken their toll on the pages of this manuscript. Photo by David LaFevor" %}
 
@@ -80,7 +80,7 @@ Ideally, once each of these conditions has been met, the ESSSS team can proceed 
 It is important to note that this digitization process is not an extraction. All physical documents are left where they were found, though if the project is funded by an EAP grant, ESSSS team members will use the boxes and acid-free paper supplied by the British Library to organize and repackage the documents and other materials, if needed. And because we are aware of the issues that scholars, particularly those from developing nations, have encountered using our outdated site to read the digital images, we always leave behind hard drives full of the digital copies with local archivists, librarians, priests, and students who have indicated interest in receiving these materials. The goal of our project has always primarily been to widen access to the past for everyone.
 
 {% include image.html
-	img="issue02/Brazilstudents2015.jpg"
+	img="issue02/BrazilStudents2015.jpg"
 	title="Digitization Training"
 	caption="Josilene Pereira Pacheco and Francisco Sávio da Silva digitize a notarial record from the nineteenth century at the Arquivo Judicial da Comarca de João Pessoa in the city of João Pessoa, July 2015. Photo by David LaFevor" %}
 

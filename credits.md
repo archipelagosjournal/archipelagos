@@ -18,10 +18,10 @@ title: credits
 [Elizabeth Maddock Dillon](#elizabeth-maddock-dillon--editorial-board)  
 [Laurent Dubois](#laurent-dubois--editorial-board)  
 [Schuyler Esprit](#schuyler-esprit--editorial-board)  
-[Jessica Johnson](#jessica-johnson--editorial-board)  
+[Jessica Marie Johnson](#jessica-marie-johnson--editorial-board)  
 [Kelly Baker Josephs](#kelly-baker-josephs--editorial-board)  
-[Frances Negrón-Muntaner](frances-negron-muntaner--editorial-board)  
-[Laurie Taylor](laurie-taylor--editorial-board)
+[Frances Negrón-Muntaner](#frances-negron-muntaner--editorial-board)  
+[Laurie Taylor](#laurie-taylor--editorial-board)
 
 ### Institutional Partners
 
@@ -59,7 +59,7 @@ Department of Ancient History
 
 ### Dennis Tenen | project architect
 
-[Dennis Tenen](http://denten.plaintext.in/) teaches English and Comparative Literature at Columbia University. Tenen's research happens at the intersection of people, texts, and technology. His recent work appeared on the pages of Computational Culture, boundary 2, and Modernism/modernity on topics that range from book piracy, to algorithmic composition, unintelligent design, and the history of data visualization. Tenen is a co-founder of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/). His first book, *[Plain Text: The Poetics of Computation](http://xpmethod.plaintext.in/minimal-computing/plaintext.html)*, is forthcoming from Stanford University Press.
+[Dennis Tenen](http://denten.plaintext.in/) teaches English and Comparative Literature at Columbia University. Tenen's research happens at the intersection of people, texts, and technology. His recent work appeared on the pages of Computational Culture, boundary 2, and Modernism/modernity on topics that range from book piracy, to algorithmic composition, unintelligent design, and the history of data visualization. Tenen is a co-founder of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/). His first book, *[Plain Text: The Poetics of Computation](http://xpmethod.plaintext.in/trans-media-collective/plaintext.html)* was published in 2017 by Stanford University Press.
 
 ---
 

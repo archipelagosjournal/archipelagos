@@ -896,7 +896,7 @@ rhetorical devices (5)
 
 [^26]: Annie Paul, *Active Voice*, [http://anniepaul.net.](http://anniepaul.net)
 
-[^27]: "Building the New Caribbean Media," *Antillean Media Group*, [http://www.antillean.org/about.](http://www.antillean.org/about)
+[^27]: "Building the New Caribbean Media," *Antillean Media Group*, [http://www.antillean.org/about.](https://web.archive.org/web/20141220170855/http://www.antillean.org:80/about/)
 
 [^28]: WomenSpeak Project, *Women Speak*, [http://womenspeak.tumblr.com.](http://womenspeak.tumblr.com)
 

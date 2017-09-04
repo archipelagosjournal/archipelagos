@@ -14,7 +14,7 @@
     <meta name="DC.title" content="{% if page.layout !="article" %}sx archipelagos{% else %}{{ page.title['long'] }}{% endif %}"/>
     <meta name="DC.creator" content="{% for author in page.author %}{% if forloop.length == 1 %}{{ author.name }}{% elsif forloop.length == 2 %}{% if forloop.last == true %} and {{ author.name }}{% else %}{{ author.name }}{% endif %}{% else %}{% if forloop.last == true %}and {{ author.name }}{% else %}{{ author.name }}, {% endif %}{% endif %}{% endfor %}" />
     <meta name="DC.type" content="Text" />
-    <meta name="DCTERMS.abstract" content="{{page.abstract}}" />
+    <meta name="DCTERMS.abstract" content="{{page.abstract | remove: '*' | remove: '"'}}" />
     <meta name="DC.date" content="{{ page.date | date: '%Y-%m'}}" />
     <meta name="DCTERMS.issued" content="{{ page.date | date: '%Y-%m'}}" />
     <meta name="DC.identifier" scheme="DCTERMS.URI" content="{{ page.doi }}" />

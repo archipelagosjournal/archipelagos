@@ -559,8 +559,7 @@ BocasLitFest event.
 
 
 While Douen Islands maintains two
-[Facebook](http://www.facebook.com/douen.islands)
-[pages](http://www.facebook.com/douen.islands.1) in addition to their
+[Facebook pages](http://www.facebook.com/douen.islands) in addition to their
 [Instagram](http://www.instagram.com/douenislands),
 [Twitter](file:///C:\Users\Kelly\Documents\sx%20archipelagos%20May%202016\returned\twitter.com\douenislands),
 and
@@ -771,7 +770,7 @@ douen retains its capacity for devious and deviant paths.
 
 [^6]: A figure that shares a similar origin story and the physical characteristic of the backward feet with Trinidad and Tobago's douen can be found throughout Latin America as *el duende*.
 
-[^7]: See Kriston Chen, "Douen Islands: In Forest and Wild Skies," 1 August 2014, [http://www.notsirk.com/blog/2014/7/31/douen-islands-into-forests-wild-skies](http://www.notsirk.com/blog/2014/7/31/douen-islands-into-forests-wild-skies).
+[^7]: Kriston Chen, "Douen Islands: In Forest and Wild Skies," 1 August 2014, [http://www.notsirk.com/](http://www.notsirk.com/) [Page not found as of September 2017].
 
 [^8]: See Kenwyn Chrichlow, "Figures at the Forest's Edge," *Kaieteur News Online*, 6 June 2010, [http://www.kaieteurnewsonline.com/2010/06/06/%E2%80%98figures-trapped-at-the-forest%E2%80%99s-edge%E2%80%99](http://www.kaieteurnewsonline.com/2010/06/06/%E2%80%98figures-trapped-at-the-forest%E2%80%99s-edge%E2%80%99).
 

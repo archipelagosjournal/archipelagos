@@ -157,6 +157,6 @@ project as it grows.
 
 [^15]: See, for example, Antonio Sánchez Valverde, *Idea del valor de la isla española de Santo Domingo* (1862), [http://archive.org/details/ideadelvalordel00valvgoog](http://archive.org/details/ideadelvalordel00valvgoog).
 
-[^16]: "The Project," para. 2 under 'The Goals." The [Haiti Lab](http://www.fhi.duke.edu/labs/haiti-lab/online-projects) at the John Hope Franklin Humanities Institute at Duke University gathers an important group of these projects; see [http://www.fhi.duke.edu/labs/haiti-lab/online-projects](http://www.fhi.duke.edu/labs/haiti-lab/online-projects).
+[^16]: "The Project," para. 2 under 'The Goals." The [Haiti Lab](http://sites.fhi.duke.edu/haitilab/) at the John Hope Franklin Humanities Institute at Duke University gathers an important group of these projects; see [http://www.fhi.duke.edu/labs/haiti-lab/online-projects](https://web.archive.org/web/20160202032516/http://www.fhi.duke.edu/labs/haiti-lab/online-projects).
 
 [^17]: See, for example, "The Question of Recovery: Slavery, Freedom, and the Archive," special issue, *Social Text*, no. 125 (December 2015).
