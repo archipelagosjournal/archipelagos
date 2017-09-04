@@ -5,7 +5,6 @@ permalink:           none
 
 # Setup
 title:               "sx archipelagos"
-tagline:             ''
 publisher:           "Small Axe Project"
 description:         'a small axe platform for digital practice'
 url:                 'http://smallaxe.net'
@@ -49,7 +48,7 @@ collections:
 
 # Current issue
 current: issue02
-current-issue: 2
+current-number: 2
 
 # Jekyll-Kramdown
 markdown: kramdown
@@ -70,8 +69,8 @@ gems:
 
 # About/contact
 author:
-  name:              "SX:Archipelagos"
-  email:             archipelagos@smallaxe.net
+  name: "SX:Archipelagos"
+  email: archipelagos@smallaxe.net
 
 # Custom vars
 version:             0.0.1

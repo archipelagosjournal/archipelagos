@@ -22,10 +22,10 @@ layout: default
 		<div class="footer">
 			<ul id="footer-nav">
 				<li><a href="#">Return to top</a></li>
+				{% if site.current-number == page.issue %}
 				<li> | </li>
-				{% if site.current-issue == page.issue %}This is in the current issue
+				<a href="{{site.baseurl}}/">Return to Table of Contents</a>
 				{% else %}
-				This is not in the current issue
 				{% endif %}
 
 			</ul>
