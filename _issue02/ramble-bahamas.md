@@ -10,10 +10,10 @@ date: July 2017
 author:
 - name: Jessica Dawson
   shortname: Dawson
-  bio: "Jessica Dawson has served most recently as Public History Fellow in Research & Technology for “From Dat Time”: The Oral & Public History Institute of the University of The Bahamas. In this role she acted as webmaster and curator for Ramble Bahamas.  Prior to this, she has taught in the field of cultural anthropology and worked in historic preservation in Ohio state. She holds a B.A. in Anthropology from Washington State University and an M.A. in American Studies & Public History from Youngstown State University."
+  bio: "Jessica Dawson has served most recently as Public History Fellow in Research & Technology for \"From Dat Time\": The Oral & Public History Institute of the University of The Bahamas. In this role she acted as webmaster and curator for *Ramble Bahamas*.  Prior to this, she has taught in the field of cultural anthropology and worked in historic preservation in Ohio state. She holds a B.A. in Anthropology from Washington State University and an M.A. in American Studies & Public History from Youngstown State University."
 - name: Tracey Thompson
   shortname: Thompson
-  bio: "Tracey​ Thompson is Director of “From Dat Time”: The Oral & Public History Institute of the University of The Bahamas. She oversees the research programme and administrative processes of the institute and has been involved in research, teaching, and administration at the University of The Bahamas for more than twenty-five years. Her research focuses principally on African and African Diaspora History, the Philosophy of History, Oral History, and Public History."
+  bio: "Tracey Thompson is the director of \"From Dat Time\": The Oral and Public History Institute of the University of The Bahamas. She oversees the research program and administrative processes of the institute and has been involved in research, teaching, and administration at the University of The Bahamas for more than twenty-five years. Her research focuses principally on African and African diaspora history, the philosophy of history, oral history, and public history."
 image: images/issue02/ramble-bahamas.png
 thumb: images/issue02/ramble-bahamas-thumb.png
 link: "http://www.ramblebahamas.org/"

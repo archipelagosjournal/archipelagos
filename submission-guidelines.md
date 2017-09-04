@@ -26,7 +26,7 @@ Contact: archipelagos@smallaxe.net
 
 *sx archipelagos* uses a combination of email, Dropbox and Github to manage the editorial workflow. We ask you to submit your abstracts and articles to <archipelagos@smallaxe.net>. Most exchanges with authors will happen through email using this account.
 
-1. A CFP will be published shortly after each issue is published, but we accept abstracts and articles on a rolling basis. 
+1. Submissions of individual articles are accepted on a rolling basis. We also welcome proposals for themed sections.
 
 2. Article submissions must include a bio (or bios for multi-author) and an abstract. Please place these at the bottom of your document. All multimedia content should accompany the initial article submission in a zip file or equivalent.
 
@@ -34,7 +34,7 @@ Contact: archipelagos@smallaxe.net
 
 4. Copyediting begins upon succesful completion of the peer-review process. Contributors can expect to receive an updated file with suggestions and queries from our copyeditor. The revised file must be returned within two weeks of receipt. This will be the final opportunity to make substantive changes to the file. Contributors will receive a final PDF and link to the site close to launch for minor edits.
 
-4. Throughout the editing and production process, contributors are expected to watch e-mail for any last-minute queries from *sx archipelagos* editors. Prompt responses will help to maintain schedules.
+5. Throughout the editing and production process, contributors are expected to watch e-mail for any last-minute queries from *sx archipelagos* editors. Prompt responses will help to maintain schedules.
 
 ### File types
 

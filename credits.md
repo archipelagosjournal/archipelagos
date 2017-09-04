@@ -19,7 +19,7 @@ title: credits
 [Laurent Dubois](#laurent-dubois--editorial-board)  
 [Schuyler Esprit](#schuyler-esprit--editorial-board)  
 [Jessica Johnson](#jessica-johnson--editorial-board)  
-[Kelly Josephs](#kelly-josephs--editorial-board)  
+[Kelly Baker Josephs](#kelly-baker-josephs--editorial-board)  
 [Frances Negrón-Muntaner](frances-negron-muntaner--editorial-board)  
 [Laurie Taylor](laurie-taylor--editorial-board)
 

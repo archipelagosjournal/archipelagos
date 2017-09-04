@@ -17,7 +17,7 @@ author:
   bio: "Nathan H. Dize is a PhD student in the Department of French and Italian at Vanderbilt University, where he specializes in Haitian theater, poetry, and revolutionary poetics during the nineteenth and early twentieth centuries. Nathan is a content curator, a translator, and an editor of *A Colony in Crisis: The Saint-Domingue Grain Shortage of 1789.*"
 - name: Brittany M. de Gail
   shortname: de Gail
-  bio: "Brittany de Gail is a site editor for *A Colony in Crisis* and an administrative assistant at the University of Maryland Libraries, where she also graduated with a B.A. in Chinese and Government and Politics."
+  bio: "Brittany de Gail is a site editor for A Colony in Crisis and an administrative assistant at the University of Maryland Libraries. She graduated from UMD with a BA in Chinese and government and politics."
 date: July 2017
 issue: 2
 order: 3
