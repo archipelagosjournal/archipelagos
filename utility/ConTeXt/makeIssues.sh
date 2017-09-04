@@ -30,9 +30,9 @@ for issuePath in $(find $root -maxdepth 1 -name "_issue02" -type d  ); do
 	cd $root/$_issue/
 	for file in $(find . -name "*.md"); do
 		echo "$file"
-		$root/utility/ConTeXt/archiveOrg.py $file		
+		#$root/utility/ConTeXt/archiveOrg.py $file		
 	done
-	
+
 	rm -rf $root/assets/$issue/
 	mkdir -p $root/assets/$issue
 
