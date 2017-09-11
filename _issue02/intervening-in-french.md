@@ -5,16 +5,16 @@ title:
   "long": "Intervening in French: *A Colony in Crisis*, the Digital Humanities, and the French Classroom"
   "short": "Intervening in French"
 doi: "doi:10.7916/D88K7NG5"
-author: 
-- name: Abby Broughton
-  shortname: Broughton
-  bio: "Abby R. Broughton is a PhD student in the Department of French and Italian at Vanderbilt University, where she specializes in twentieth-century queer literature, body and identity politics, and the intersection of illustration and text. She is a co-author, a translator, and an editor of *A Colony in Crisis: The Saint-Domingue Grain Shortage of 1789.*"
-- name: Kelsey Corlett-Rivera
-  shortname: Corlett-Rivera
-  bio: "Kelsey Corlett-Rivera is the head of the Research Commons and a librarian for the School of Languages, Literatures, and Cultures at the University of Maryland. She leverages emerging technologies to provide services for researchers on campus and is the site designer and an editor of *A Colony in Crisis: The Saint-Domingue Grain Shortage of 1789.*"
+author:
 - name: Nathan Dize
   shortname: Dize
   bio: "Nathan H. Dize is a PhD student in the Department of French and Italian at Vanderbilt University, where he specializes in Haitian theater, poetry, and revolutionary poetics during the nineteenth and early twentieth centuries. Nathan is a content curator, a translator, and an editor of *A Colony in Crisis: The Saint-Domingue Grain Shortage of 1789.*"
+- name: Kelsey Corlett-Rivera
+  shortname: Corlett-Rivera
+  bio: "Kelsey Corlett-Rivera is the head of the Research Commons and a librarian for the School of Languages, Literatures, and Cultures at the University of Maryland. She leverages emerging technologies to provide services for researchers on campus and is the site designer and an editor of *A Colony in Crisis: The Saint-Domingue Grain Shortage of 1789.*"
+- name: Abby Broughton
+  shortname: Broughton
+  bio: "Abby R. Broughton is a PhD student in the Department of French and Italian at Vanderbilt University, where she specializes in twentieth-century queer literature, body and identity politics, and the intersection of illustration and text. She is a co-author, a translator, and an editor of *A Colony in Crisis: The Saint-Domingue Grain Shortage of 1789.*"
 - name: Brittany M. de Gail
   shortname: de Gail
   bio: "Brittany de Gail is a site editor for A Colony in Crisis and an administrative assistant at the University of Maryland Libraries. She graduated from UMD with a BA in Chinese and government and politics."
