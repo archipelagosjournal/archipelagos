@@ -18,6 +18,6 @@ editor:
 
 ## Issue (2)
 
-<blockquote>This issue is dedicated to those who find themselves in the path of Juracán, past and future.</blockquote>
+<blockquote>We dedicate this issue to those who find themselves in the path of Juracán, past and future.</blockquote>
 
 {% include toc.html issue=site.issue02 %}
