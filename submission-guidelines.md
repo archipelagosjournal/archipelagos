@@ -62,11 +62,11 @@ Please provide crisp images with a minimum of 144ppi resolution and at least 800
 Please use the following rubric in your documents, filling out the appropriate content in brackets (without the brackets in the final version), and place the whole where you would like your images to be inserted:
 
 ~~~ text
-{% include image.html
+{% raw %}{% include image.html
    img="[my-image.jpg]"
    title="[insert title here]"
-   caption="[insert caption here. include credit if appropriate.]"
-   url="[http://optional-url.com]" %}
+   caption="[insert caption here.]"
+   url="[http://optional-url.com]" %}{% endraw %}
 ~~~
 
 N.B. Urls are optional, and should only be used when you want the image to point to a specific resource.
