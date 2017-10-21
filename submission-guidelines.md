@@ -22,9 +22,9 @@ Contact: archipelagos@smallaxe.net
 
 *sx archipelagos* is founded on principles of minimal computing. We encourage our authors to help us avoid redundancy and costly workflows. We understand that unfamiliar environments and formats can be challenging to work with, and these guidelines are a work in progress as we strive for the right balance between our authors’ needs and our mission. Your ideas are most welcome.
 
-### The Workflow
+### General Notes
 
-*sx archipelagos* uses a combination of email, Dropbox and Github to manage the editorial workflow. We ask you to submit your abstracts and articles to <archipelagos@smallaxe.net>. Most exchanges with authors will happen through email using this account.
+*sx archipelagos* uses a combination of email, Dropbox and Github to manage [the editorial workflow](http://smallaxe.net/sxarchipelagos/workflow.html). We ask you to submit your abstracts and articles to <archipelagos@smallaxe.net>. Most exchanges with authors will happen through email using this account.
 
 1. Submissions of individual articles are accepted on a rolling basis. We also welcome proposals for themed sections.
 
@@ -32,7 +32,7 @@ Contact: archipelagos@smallaxe.net
 
 3. Articles are double-blind reviewed by our team of outside peer-reviewers. Digital project reviews are reviewed by the *sx archipelagos* Editorial Board. Contributors receive written notification from the editors (accepted, accepted with minor revisions, substantive revisions required or rejected) within two months of submission.
 
-4. Copyediting begins upon succesful completion of the peer-review process. Contributors can expect to receive an updated file with suggestions and queries from our copyeditor. The revised file must be returned within two weeks of receipt. This will be the final opportunity to make substantive changes to the file. Contributors will receive a final PDF and link to the site close to launch for minor edits.
+4. Copyediting begins upon successful completion of the peer-review process. Contributors can expect to receive an updated file with suggestions and queries from our Copy Editor. The revised file must be returned within two weeks of receipt. This will be the final opportunity to make substantive changes to the file. Contributors will receive a final PDF and link to the site close to launch for minor edits.
 
 5. Throughout the editing and production process, contributors are expected to watch e-mail for any last-minute queries from *sx archipelagos* editors. Prompt responses will help to maintain schedules.
 

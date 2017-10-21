@@ -4,6 +4,8 @@ title: our work-flow
 author: Kaiama L. Glover & Alex Gil
 ---
 
+[Draft]
+
 Part of what makes *sx archipelagos* unique is our work-flow, carefully designed to minimize production costs, and allow our small team to run a robust academic journal, without paid services outside server costs and DOI provision. While every journal will have unique requirements and resources available to the team, we believe that our work-flow provides a viable, portable model. The work-flow below is the next step after the original set-up is in place.
 
 ## New elements
