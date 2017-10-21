@@ -59,7 +59,7 @@ At *sx archipelagos* we value the richness of our visual culture. If you are sub
 
 Please provide crisp images with a minimum of 144ppi resolution and at least 800 pixels wide. Please submit your images in JPG format. We accept PNG's if the image has transparencies or is made of simple colors (i.e. a logo).
 
-Please use the following rubric in your documents, filling out the appropriate content in brackets (without the brackets in the final version), and place the whole where you would like your images to be inserted:
+Please use the following rubric in your documents, typing each character in the exact order, and filling out the appropriate content in brackets (without the brackets in the final version), and place the whole where you would like your images to be inserted:
 
 ~~~ text
 {% raw %}{% include image.html
