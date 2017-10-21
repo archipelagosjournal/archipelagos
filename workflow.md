@@ -23,15 +23,16 @@ N.B. We understand each stage of a text's life-cycle from first draft to product
 
 In this stage, all exchanges can take place in Microsoft Word, as long as all parties abide by [the style guidelines](http://smallaxe.net/sxarchipelagos/submission-guidelines.html#documents) documented on the journal site. Track Changes is only appropriate for step #10. Editors will keep copies of v1 in a local folders. Editors will keep copies of v2-v5 (without Track Changes) in a Dropbox shared folder with Copy-Editor. Copy-Editor is responsible for keeping v3 & v4 (with Track Changes) in a local folder. 
 
-[December-March]\\
-1. CFP goes out
-2. Contributors submits v1 to E over email
+[December-May]
+
+1. CFP goes out      
+2. Contributors submits v1 to Editors over email (April deadline)
 3. Editors sends to Peer Reviewers over email as received
 4. Peer Reviewers evaluate work (1 month from receipt)
 4. Editors responds to Contributors with reports based on peer-review work
 6. Contributors make revisions & send v2 back to Editors via email (1 month from receipt) 
 7. Editors share all v2s with Copy-Editor in Dropbox
-8. Copy-Editor makes v3, shares in Dropbox with Editors & sends to Contributors via email.\\[April-May]\\
+8. Copy-Editor makes v3, shares in Dropbox with Editors & sends to Contributors via email.   
 10. Contributors make v4 with Track Changes and send to Copy-Editor along with Ancillary Materials (bio, abstracts and multimedia content). Copy-Editor places all files in appropriate folder in Dropbox.
 11. Copy-Editor makes v5
 12. CE shares set of v5 without Track Changes + Ancillary Materials with Editors in Dropbox.
@@ -42,6 +43,7 @@ In this stage, all exchanges can take place in Microsoft Word, as long as all pa
 In this stage we transition to markdown work-flows, out of which both the site and the PDFs are generated. All edits by CE and E should happen on Github at this stage. Authors will have a final chance to make small corrections on a generated PDF, but these should be input back into our system using markdown is this step 6 below?.
 
 [June-July]
+
 1. Editor-tech converts v5 to markdown using Pandoc
 2. Editor-tech uploads v5.md to Github & creates draft of web issue for internal use.
 3. Editor-tech generates v5 as PDFs, & shares with Copy-Editor on Dropbox.
