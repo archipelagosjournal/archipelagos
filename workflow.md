@@ -40,7 +40,7 @@ In this stage, all exchanges can take place in Microsoft Word, as long as all pa
 12. CE shares set of v5 without Track Changes + Ancillary Materials with Editors in Dropbox.
 13. Editors obtain DOIs
 
-### II. Github/PDF/Markdown Stage
+### II. The Markdown Stage
 
 In this stage we transition to markdown work-flows, out of which both the site and the PDFs are generated. All edits by CE and E should happen on Github at this stage. Authors will have a final chance to make small corrections on a generated PDF, but these should be input back into our system using markdown is this step 6 below?.
 
