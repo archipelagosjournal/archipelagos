@@ -23,7 +23,7 @@ N.B. We understand each stage of a text's life-cycle from first draft to product
 
 ### I. The Word Stage
 
-In this stage, all exchanges can take place in Microsoft Word, as long as all parties abide by [the style guidelines](http://smallaxe.net/sxarchipelagos/submission-guidelines.html#documents) documented on the journal site. Track Changes is only appropriate for step #10. Editors will keep copies of v1 in a local folders. Editors will keep copies of v2-v5 (without Track Changes) in a Dropbox shared folder with Copy-Editor. Copy-Editor is responsible for keeping v3 & v4 (with Track Changes) in a local folder. 
+In this stage, all exchanges can take place in Microsoft Word, as long as all parties abide by [the style guidelines](http://smallaxe.net/sxarchipelagos/submission-guidelines.html#documents) documented on the journal site. Editors will keep copies of all versions in this stage on Dropbox. No promise of preservation is made for this stage.
 
 [December-May]
 
@@ -42,7 +42,7 @@ In this stage, all exchanges can take place in Microsoft Word, as long as all pa
 
 ### II. The Markdown Stage
 
-In this stage we transition to markdown work-flows, out of which both the site and the PDFs are generated. All edits by CE and E should happen on Github at this stage. Authors will have a final chance to make small corrections on a generated PDF, but these should be input back into our system using markdown is this step 6 below?.
+In this stage we transition to markdown work-flows, out of which both the site and the PDFs are generated. All edits by Copy Editor and Editor should happen on Github at this stage. 
 
 [June-July]
 
