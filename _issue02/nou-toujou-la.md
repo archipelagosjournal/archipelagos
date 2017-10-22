@@ -195,7 +195,7 @@ Radio Haiti remained tenacious in the face of dictatorship and privation, throug
 * Facebook: [www.facebook.com/radioHaitiinter](http://www.facebook.com/radiohaitiinter)
 * Twitter: [\@AchivRadyoAyiti](http://web.archive.org/web/20170904035017/https://twitter.com/achivradyoayiti)
 * Pilot site: [www.radiohaitilives.com](http://www.radiohaitilives.com)
-* Preliminary collection guide: [https://www.library.duke.edu/rubenstein/findingaids/radiohaiti](http://www.library.duke.edu/rubenstein/findingaids/radiohaiti)
+* Preliminary collection guide: [www.library.duke.edu/rubenstein/findingaids/radiohaiti](https://library.duke.edu/rubenstein/findingaids/radiohaiti/)
 * Radio Haiti Archive—Duke Libraries: [repository.duke.edu/dc/radiohaiti]()
 
 ---
