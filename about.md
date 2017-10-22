@@ -45,4 +45,4 @@ Read the [Author Agreement]({{site.baseurl}}/public/author-agreement.pdf). This 
 
 - Authors maintain copyright without restriction;
 - Authors grant *sx archipelagos* the authority to publish their work in the journal with a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/);
-- Authors maintain publication rights without restriction
+- Authors maintain publication rights without restrictions.
