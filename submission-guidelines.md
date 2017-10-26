@@ -30,6 +30,8 @@ Contact: archipelagos@smallaxe.net
 
 2. Article submissions must include a bio (or bios for multi-author) and an abstract. Please place these at the bottom of your document. All multimedia content should accompany the initial article submission in a zip file or equivalent.
 
+6. We are an open access journal. If you are accepted for publication you will receive a copy of our [Author Agreement]({{site.baseurl}}/public/author-agreement.pdf).
+
 3. Articles are double-blind reviewed by our team of outside peer-reviewers. Digital project reviews are reviewed by the *sx archipelagos* Editorial Board. Contributors receive written notification from the editors (accepted, accepted with minor revisions, substantive revisions required or rejected) within two months of submission.
 
 4. Copyediting begins upon successful completion of the peer-review process. Contributors can expect to receive an updated file with suggestions and queries from our Copy Editor. The revised file must be returned within two weeks of receipt. This will be the final opportunity to make substantive changes to the file. Contributors will receive a final PDF and link to the site close to launch for minor edits.
