@@ -27,7 +27,8 @@ In this stage, all exchanges can take place in Microsoft Word, as long as all pa
 
 [December-May]
 
-1. CFP goes out      
+1. CFP goes out
+14. Contributors submit abstract to Editors over email (January deadline)      
 2. Contributors submits v1 to Editors over email (April deadline)
 3. Editors sends to Peer Reviewers over email as received
 4. Peer Reviewers evaluate work (1 month from receipt)
