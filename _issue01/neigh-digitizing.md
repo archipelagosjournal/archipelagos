@@ -45,7 +45,7 @@ Foundation](http://www.poetryfoundation.org/), the [Academy of American
 Poets](https://www.poets.org/), and [UbuWeb](http://bit.ly/22NdDBL) have
 provided excellent resources for contemporary poetics. These
 twenty-first-century open-access collections offer both live and studio
-recordings, roundtable discussions of poetry, lectures, and taped
+recordings, [roundtable discussions of poetry](http://example.com/), lectures, and taped
 interviews.[^2] While these digital platforms promise democratization,
 they often repeat the exclusions of print archives. Many of these
 collections, which now determine the content of poetry syllabi in
