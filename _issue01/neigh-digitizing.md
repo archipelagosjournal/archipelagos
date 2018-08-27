@@ -17,7 +17,7 @@ abstract: "The Internet offers new performance platforms for Caribbean poets who
 language: en
 ---
 
-If Louise Bennett, the famous Jamaican artist, were still alive and
+If Louise Bennett, the prolific Jamaican artist, were still alive and
 performing today, how would the Internet fit into her creative practice?
 Would she post poetry recordings on Facebook? Would children play with a
 Miss Lou app? Would Aunty Roachy deliver wisdom via Twitter? Since
@@ -45,7 +45,7 @@ Foundation](http://www.poetryfoundation.org/), the [Academy of American
 Poets](https://www.poets.org/), and [UbuWeb](http://bit.ly/22NdDBL) have
 provided excellent resources for contemporary poetics. These
 twenty-first-century open-access collections offer both live and studio
-recordings, [roundtable discussions of poetry](http://example.com/), lectures, and taped
+recordings, roundtable discussions of poetry, lectures, and taped
 interviews.[^2] While these digital platforms promise democratization,
 they often repeat the exclusions of print archives. Many of these
 collections, which now determine the content of poetry syllabi in
