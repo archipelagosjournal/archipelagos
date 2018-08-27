@@ -17,7 +17,7 @@ abstract: "The Internet offers new performance platforms for Caribbean poets who
 language: en
 ---
 
-If Louise Bennett, the prolific Jamaican artist, were still alive and
+If Louise Bennett, the famous Jamaican artist, were still alive and
 performing today, how would the Internet fit into her creative practice?
 Would she post poetry recordings on Facebook? Would children play with a
 Miss Lou app? Would Aunty Roachy deliver wisdom via Twitter? Since
