@@ -19,8 +19,3 @@ http://www.google.com/ping?sitemap=http://smallaxe.net/sxarchipelagos/sitemap.xm
 
 # Run HTML Proofer
 use travis ci
-
-# Sx server
-host: smallaxe.net
-user: sxarchipelagos
-pass: 4QVje52UfdAYkbDp
