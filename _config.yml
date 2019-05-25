@@ -43,12 +43,25 @@ collections:
     - Alex Gil
     - Brian Ballsun-Stanton
     - Kelly S. Martin
+  issue03:
+    output: true
+    number: 3
+    date: "September 2019"
+    title: "Issue (3)"
+    editors:
+    - Kaiama Glover
+    - Alex Gil
+    - Jessica Marie Johnson
+    production:
+    - Alex Gil
+    - Brian Ballsun-Stanton
+    - Kelly S. Martin
   archives:
     output: true
 
 # Current issue
-current: issue02
-current-number: 2
+current: issue03
+current-number: 3
 
 # Jekyll-Kramdown
 markdown: kramdown
