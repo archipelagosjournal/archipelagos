@@ -3,9 +3,9 @@ layout: default
 title: "Issue (3)"
 subtitle: "Slavery in the Machine"
 blurb: ""
-release: "September 2019"
+release: "April 2019"
 slug: "issue03"
-number: 2
+number: 3
 editor: 
 - Kaiama L. Glover
 - Alex Gil

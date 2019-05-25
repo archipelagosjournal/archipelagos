@@ -1,13 +1,11 @@
 ---
-layout: article
-section: articles
+layout: page
+section: introduction
 issue: 1
 order: 0
 date: July 2017
-title: 
-  "long": "Editors' Introduction: The Caribbean Digital"
-  "short": "Editor's Introduction"
-doi: "[insert]"
+title: "Editors' Introduction: The Caribbean Digital"
+doi: ""
 author: 
 - name: Kaiama L. Glover
   shortname: Glover

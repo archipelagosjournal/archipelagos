@@ -1,6 +1,6 @@
 ---
 layout: article
-section: projects
+section: articles
 title: 
   "long": "Haiti @ the Digital Crossroads: Archiving Black Sovereignty"
   "short": "Haiti @ the Digital Crossroads"
@@ -8,45 +8,11 @@ doi: "doi:10.7916/D812651T"
 author: 
 - name: Marlene L. Daut  
   shortname: Daut
-  bio: "Marlene L. Daut specializes in early Caribbean, nineteenth-century
-African American, and early modern French colonial literary and
-historical studies. Her first book, *Tropics of Haiti: Race and the
-Literary History of the Haitian Revolution in the Atlantic World,
-1789–1865* (Liverpool University Press, 2015) was part of the Liverpool
-Studies in International Slavery. Her second book, *Baron de Vastey and
-the Origins of Black Atlantic Humanism* (Palgrave Macmillan, 2017) was
-part of the series in the New Urban Atlantic. She is now working on a
-collaborative project with Grégory Pierrot and Marion Rohrleitner titled
-*An Anthology of Haitian Revolutionary Fictions (Age of Slavery*), which
-is under contract with the University of Virginia Press. Daut is the
-cocreator and coeditor of H-Net Commons’s digital platform
-[H-Haiti](https://networks.h-net.org/h-haiti). She also curates a
-website on early Haitian print culture at [*La Gazette Royale
-d’Hayti*](http://lagazetteroyale.com/) and has developed an online
-bibliography of fictions of the Haitian Revolution from 1787 to 1900 at
-<http://haitianrevolutionaryfictions.com>."
-date: August 2019
+  bio: "Marlene L. Daut specializes in early Caribbean, nineteenth-century African American, and early modern French colonial literary and historical studies. Her first book, *Tropics of Haiti: Race and the Literary History of the Haitian Revolution in the Atlantic World, 1789–1865* (Liverpool University Press, 2015) was part of the Liverpool Studies in International Slavery. Her second book, *Baron de Vastey and the Origins of Black Atlantic Humanism* (Palgrave Macmillan, 2017) was part of the series in the New Urban Atlantic. She is now working on a collaborative project with Grégory Pierrot and Marion Rohrleitner titled *An Anthology of Haitian Revolutionary Fictions (Age of Slavery*), which is under contract with the University of Virginia Press. Daut is the cocreator and coeditor of H-Net Commons’s digital platform [H-Haiti](https://networks.h-net.org/h-haiti). She also curates a website on early Haitian print culture at [*La Gazette Royale d’Hayti*](http://lagazetteroyale.com/) and has developed an online bibliography of fictions of the Haitian Revolution from 1787 to 1900 at <http://haitianrevolutionaryfictions.com>."
+date: April 2019
 issue: 3
 order: 3
-abstract: "In the spirit of Papa Legba (a Haitian *lwa* who is the arbiter of the crossroads between the human and nonhuman worlds), this essay examines
-the challenges and opportunities presented when using a digital
-humanities approach to archiving early Haitian sovereignty, a critical
-but often forgotten part of the story of the making of the modern
-world-system. Abdul JanMohamed and David Lloyd have written about
-“archival work, as a form of counter-memory” that is “essential to the
-critical articulation of minority discourse.” However, because archives,
-like other kinds of texts, reflect the worldview of their creators, the
-archivist working to articulate “minority discourse” must be careful not
-to reproduce patterns of domination or cultural exploitation. For Haiti,
-this means that we must work against the idea that the abundant
-historical resources now made readily (and often freely) available by
-various digitization projects, represent a “new frontier” for research,
-an idea that encourages the notion that the country is “open for
-business” on a variety of levels. Instead, by using the metaphor of the
-crossroads, this essay demonstrates how a multimodal approach—involving
-content, context, collaboration, and access—can allow for alternative
-ways of (humanely) archiving black sovereignty, thus contributing to
-“new narratives” of Haiti."
+abstract: "In the spirit of Papa Legba (a Haitian <em>lwa</em> who is the arbiter of the crossroads between the human and nonhuman worlds), this essay examines the challenges and opportunities presented when using a digital humanities approach to archiving early Haitian sovereignty, a critical but often forgotten part of the story of the making of the modern world-system. Abdul JanMohamed and David Lloyd have written about “archival work, as a form of counter-memory” that is “essential to the critical articulation of minority discourse.” However, because archives, like other kinds of texts, reflect the worldview of their creators, the archivist working to articulate “minority discourse” must be careful not to reproduce patterns of domination or cultural exploitation. For Haiti, this means that we must work against the idea that the abundant historical resources now made readily (and often freely) available by various digitization projects, represent a “new frontier” for research, an idea that encourages the notion that the country is “open for business” on a variety of levels. Instead, by using the metaphor of the crossroads, this essay demonstrates how a multimodal approach—involving content, context, collaboration, and access—can allow for alternative ways of (humanely) archiving black sovereignty, thus contributing to “new narratives” of Haiti."
 language: en
 ---
 
@@ -1088,10 +1054,7 @@ decolonization over democratization, requires that institutions and
 researchers alike work together to remove the many barriers that exist
 to accessing historical resources. These include not simply problems of
 language, which translation often appears able to solve, but the much
-more heady and material problem of financing. Adeline Koh has warned
-humanities practitioners about the vast amounts of money that US and
-European governments are making available for digital humanities
-projects: “DH will not save you.”[^84] But historians who archive might
+more heady and material problem of financing. But historians who archive might
 help us to avoid recreating, through the process of expensive (and thus
 often inaccessible) scholarly publications, the very systems of
 domination, exploitation, and ownership that we rail against when
@@ -1578,9 +1541,6 @@ acts in this moment, but which must always remain open.”[^88]
     12 September 2016,
     <https://networks.h-net.org/node/116721/discussions/143483/lakou-consciousness-myriam-ja-chancy-gives-academic-convocation>.
 
-[^84]: Adeline Koh, “A Letter to the Humanities: DH Will Not Save You,”
-    *Hybrid Pedagogy*, 19 April 2015,
-    <http://hybridpedagogy.org/a-letter-to-the-humanities-dh-will-not-save-you/>.
 
 [^85]: David Nicholls, *From Dessalines to Duvalier: Race, Colour, and
     National Independence in Haiti* (Cambridge: Cambridge University
