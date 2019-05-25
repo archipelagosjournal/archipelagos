@@ -2,7 +2,7 @@
 layout: article
 section: reviews
 title: 
-  "long": "A Review of \'Two Plantations\'"
+  "long": "A Review of 'Two Plantations'"
   "short": Review
 doi: "10.7916/D84B31DN"
 author: 

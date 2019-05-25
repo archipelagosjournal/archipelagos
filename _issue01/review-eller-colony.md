@@ -2,7 +2,7 @@
 layout: article
 section: reviews
 title: 
-  "long": "A Review of \'A Colony in Crisis\'"
+  "long": "A Review of 'A Colony in Crisis'"
   "short": Review
 doi: "10.7916/D8833S3J"
 author: 
