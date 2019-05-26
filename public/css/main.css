@@ -1037,6 +1037,12 @@ div#toc ul li {
 	color: gray;
 }
 
+div.epigraph p.citation {
+  font-size: .9rem;
+  text-align: right;
+  margin-bottom: 2rem;
+}
+
 /* Abstracts */
 
 .abstract {

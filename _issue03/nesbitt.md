@@ -25,25 +25,18 @@ website on early Haitian print culture at [*La Gazette Royale
 d’Hayti*](http://lagazetteroyale.com/) and has developed an online
 bibliography of fictions of the Haitian Revolution from 1787 to 1900 at
 <http://haitianrevolutionaryfictions.com>."
-date: August 2019
+date: April 2019
 issue: 3
 order: 1
 abstract: "The essay interrogates C. L. R. James’s famous claim in *The* *Black Jacobins* (1938) that the slaves of St. Domingue were “closer to a modern proletariat than any group of workers in existence at the time,” by comparing James’s understanding of the concept *proletariat*—there and in *World Revolution* (1937)—with Marx’s various developments of the concept across the three volumes of *Capital*. This analysis distinguishes James’s political and historicist deployment of the term from Marx’s analytical usage of the notion in his categorial critique of capitalism. In contrast with James’s linear, Marxist-humanist understanding of the passage from slavery to capitalism, Marx himself demarcates a well-defined delineation between these two basic categories, understood in *Capital* as analytically (as opposed to historically) distinct modes of production. The essay thus concludes by analyzing Marx’s conceptual differentiation of slavery and industrial capitalism in *Capital*, drawing on Etienne Balibar’s analysis of the concepts of mode of production and transition in *Reading Capital* (1965)."
 language: en
 ---
 
+{% include epigraph.html
+    quote = "The slaves worked on the land, and, like revolutionary peasants everywhere, they aimed at the extermination of their oppressors. But working and living together in gangs of hundreds on the huge sugar-factories which covered North Plain, they were closer to a modern proletariat than any group of workers in existence at the time, and the rising was, therefore, a thoroughly prepared and organized mass movement."
+    citation = "C. L. R. James, <em>The Black Jacobins</em>."
+%}
 
-The slaves worked on the land, and, like revolutionary peasants
-everywhere, they aimed at the extermination of their oppressors. But
-working and living together in gangs of hundreds on the huge
-sugar-factories which covered North Plain, they were closer to a modern
-proletariat than any group of workers in existence at the time, and the
-rising was, therefore, a thoroughly prepared and organized mass
-movement.
-
-—C. L. R. James, *The Black Jacobins*
-
-&lt;/epigraph&gt;
 
 In this famous passage that opens the fourth chapter of *The Black
 Jacobins: Toussaint L’Ouverture and the San Domingo Revolution*, to
