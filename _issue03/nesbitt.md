@@ -8,23 +8,11 @@ doi: ""
 author: 
 - name: Nick Nesbitt  
   shortname: Nesbitt
-  bio: "Marlene L. Daut specializes in early Caribbean, nineteenth-century
-African American, and early modern French colonial literary and
-historical studies. Her first book, *Tropics of Haiti: Race and the
-Literary History of the Haitian Revolution in the Atlantic World,
-1789–1865* (Liverpool University Press, 2015) was part of the Liverpool
-Studies in International Slavery. Her second book, *Baron de Vastey and
-the Origins of Black Atlantic Humanism* (Palgrave Macmillan, 2017) was
-part of the series in the New Urban Atlantic. She is now working on a
-collaborative project with Grégory Pierrot and Marion Rohrleitner titled
-*An Anthology of Haitian Revolutionary Fictions (Age of Slavery*), which
-is under contract with the University of Virginia Press. Daut is the
-cocreator and coeditor of H-Net Commons’s digital platform
-[H-Haiti](https://networks.h-net.org/h-haiti). She also curates a
-website on early Haitian print culture at [*La Gazette Royale
-d’Hayti*](http://lagazetteroyale.com/) and has developed an online
-bibliography of fictions of the Haitian Revolution from 1787 to 1900 at
-<http://haitianrevolutionaryfictions.com>."
+  bio: "Nick Nesbitt is a professor of French at Princeton University. Most
+recently, he is the author of *Caribbean Critique: Antillean Critical
+Theory from Toussaint to Glissant* (Liverpool University Press, 2013)
+and the editor of *The Concept in Crisis: Reading “Capital” Today* (Duke
+University Press, 2017)."
 date: April 2019
 issue: 3
 order: 1
@@ -820,14 +808,7 @@ divergent forms and temporalities of the legal, economic, productive and
 reproductive, racial, gendered, and political components of the
 historical transition from slavery to capitalism.[^68]
 
-Nick Nesbitt
-------------
-
-Nick Nesbitt is a professor of French at Princeton University. Most
-recently, he is the author of *Caribbean Critique: Antillean Critical
-Theory from Toussaint to Glissant* (Liverpool University Press, 2013)
-and the editor of *The Concept in Crisis: Reading “Capital” Today* (Duke
-University Press, 2017).
+---
 
 [^1]: C. L. R. James, *The Black Jacobins: Toussaint L’Ouverture and the
     San Domingo Revolution* (1938; repr., New York: Vintage, 1989),
