@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html manifest="bdsx.hyperesources/cache.manifest">
+  <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge" />
+	<title>break .dance ⇢ a choreo-essay</title>
+	<style>
+		html {
+			height:100%;
+		}
+		body {
+			margin:0;
+			height:100%;
+		}
+	</style>
+	<!-- copy these lines to your document head: -->
+
+	<meta name="viewport" content="user-scalable=yes, initial-scale=1.0, width=1200" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	
+			
+	<script>
+
+	function extendHype(hypeDocument, element, event) {
+		
+		hypeDocument.TypeTextExtension = function(obj ){ 
+/*
+
+		Markhunte 2018  version 1.3.2
+			@1.3.2  -- 
+			•Fixed bug that stopped no cursor runs from completing. - misplaced } and also needed extra check on if blinker is running 
+			so we do not restart it by mistake at end of run.
+			•change to touchend. iOS seemed to show the keyboard and then hide. (need to investigate further)
+			•set the input div (iOS) to -200px top as it was showing through the Mobile Safai semi transparent menu bar
+			
+			
+		@1.3.1  -- 
+			•Put the blinker setInteval in a function so we can stop and start it. 
+			This allows us to set the speed for auto type to give a better affect.
+		
+			•Added vertical-align:top to the blinker span. This sets the top of the span/cursor to the top of the parant div. 
+			This helps stop jumping of the text as the span will try to adust the size of the text line
+			
+			•Added cursorVerticalAlign:   option to the cursor options. This allow for use manual control of vertical-align of the cursor
+  			
+  			•Added  cursorLineHeight: option to the cursor options. this allow for use manual control of line-height of the cursor
+  			
+		@version 1.3.0  -- 
+			removed the need for jquery, Change Cursor options mapping
+		
+		
+		
+		
+ @Construtor Example
+  
+  hypeDocument.TypeTextExtension({
+        	textElement:textElement,
+        	typeType:"keydown",
+            hasCursor: {
+        cursor:"*" ,
+        cursorFontSize:120,
+        cursorLineHeight:'120%',
+    	cursorColour:"pink" },
+        	 typeString:"Here is some text to type out <br> And this is a second line. <br><br><br> This is a third line with 3 returns above"
+            	})
+	
+
+@Construtor object break down
+		**Required Properties** 
+		 
+	*@param  textElement : (Element) = the Hype element that will show the Typed text. This normally will be a Text Box or a Rectangle.
+   	*@param   typeString : (String) = is the text that will be typed out, You can add line breaks/newlines by using the standard html tag  `<br>`
+   	
+**Override Automatically Typing Options**
+
+	*@param  (String) typeType =  You can turn off Automatically Typing and set the Typing behaviour to type one character per keydown
+	*@param  (Number) autoTypingSpeed  =  You can change the Automatic Typing speed to you desired speed.
+												The speed is measures in thousands of a second. The number 1000= 1s,  400 = 0.4s.
+												Enter the Number in in Integer form. i.e  100, 122, 400
+
+**Optional Cursor.**
+												
+*@param  (true:Bool) hasCursor  = . You can add a blinking cursor. The cursor can be use with Auto typing and Keydown typing.
+
+**Override Cursor defualt Options**
+
+------
+For Cursor options replace  hasCursor:true,
+
+with
+
+ hasCursor: {
+        cursor:"*" ,
+        cursorFontSize:120,
+        cursorLineHeight:'120%',
+    	cursorColour:"pink" },
+-----
+*@param  (String) cursor =  Change the symbol for the cursor. A Character, String, Emoji can be used.
+*@param  (Int:Number) cursorFontSize = 	This is handy if the Chosen font of the Text Element means the cursor symbol is appearing small.
+											Enter a number here of the equivalent pixel size you want.
+											
+*@param  (String) cursorLineHeight = You can adjust this with the _cursorLineHeight_ option. 
+											Enter either the pixels '`100px'` or percentage  '`120%'` you want the height to drop in cursor to.
+											
+*@param  (String) cursorColour = 	Change the cursor colour,Enter either a a Named colour "red" or a hex colour "#EDD039". Remember to try and use web safe colours.
+
+**extra Cursor Option**
+
+*@param  (String) cursorVerticalAlign =  This overrides the **top** default of **vertical-align**.
+
+There may be times when you want or need to set the vertical-align to either `"middle"` or `"bottom"`
+
+The cursor is set in it's own `<span>`  when the cursor blinks it is doing so by using display properties.
+this means it may, depending on font and size, adjust the Text Box size/padding. This appears as jumping Text.
+The default of top accounts for this in most cases.
+									
+*/
+
+
+if(typeof obj.textElement == "undefined"){throw new Error("No Element has been added constructor hypeDocument.TypeTextExtension to recieve the string");return } 
+if(typeof obj.typeString == "undefined"){ throw new Error("No typeString has been added to the constructor hypeDocument.TypeTextExtension");return }
+if(typeof obj.autoTypingSpeed == "undefined"){ obj.autoTypingSpeed = 200}
+if(typeof obj.autoTypingSpeed != "number"){ throw new Error("The  autoTypingSpeed added to the constructor hypeDocument.TypeTextExtension, must be a number. Not " + (typeof obj.autoTypingSpeed) );return }   
+
+ 
+ window.blinkerOn = false; 
+if (obj.hasOwnProperty('hasCursor')){
+ 
+ 
+  if ( obj.hasCursor.hasOwnProperty('cursorFontSize') == false ){
+   window.cursorFontSize =  parseInt(obj.textElement.style.fontSize,10)  } else { window.cursorFontSize =  obj.hasCursor.cursorFontSize}
+ if(typeof  window.cursorFontSize != "number"){ throw new Error("The cursorFontSize added to the constructor hypeDocument.TypeTextExtension, must be a number. Not " + (typeof  window.cursorFontSize) );return }   
+ //
+ 
+ if ( obj.hasCursor.hasOwnProperty('cursorColour') == false ){
+   window.cursorColour = "#2F9DEC"   } else { window.cursorColour =  obj.hasCursor.cursorColour}
+ //
+ if (obj.hasCursor.hasOwnProperty('cursor') == false ){
+   window.cursor = "|"   } else { window.cursor =  obj.hasCursor.cursor}
+ //
+if (obj.hasCursor.hasOwnProperty('cursorVerticalAlign') == false ){
+ window.cursorVerticalAlign = "top"   } else { window.cursorVerticalAlign =  obj.hasCursor.cursorVerticalAlign} 
+  //
+  
+ if (obj.hasCursor.hasOwnProperty('cursorLineHeight') == false ){
+ 
+ window.cursorLineHeight = obj.textElement.style.lineHeight   } else { window.cursorLineHeight =  obj.hasCursor.cursorLineHeight}
+ if(typeof  window.cursorLineHeight != "string"){ throw new Error("The cursorLineHeight added to the constructor hypeDocument.TypeTextExtension, must be a Sting. i.e \"90px\" or \"90%\". Not " + (typeof  window.cursorFontSize) );return }   
+ //
+
+  }
+  
+   
+  
+  window.blinker = ""
+  window.blinkspeed = 600	
+  window.textElement = obj.textElement;
+  window.charS = obj.typeString
+  var newDiv = document.createElement("DIV");
+
+ 
+	window.autoTypingSpeed = obj.autoTypingSpeed
+	   
+ 	//**--ADD DIV AND INPUT Field FOR iOS. This allows the typed text to show without the IOS cursor showing.
+ 	//-- The text that hits the input which is off scene will be mirroed in the hype scene text.
+	var newDiv = document.createElement("DIV");
+	newDiv.setAttribute('style', 'top: -200px; position: absolute');
+	
+	 newInput = document.createElement("INPUT");
+    newInput.id = "Input"  
+     newInput.setAttribute('style','font-size: 48px')//- This is only for iOS so we do not get zooming whe we focus.
+
+   window.foo_label = document.createElement("Label");
+ 		window.foo_label.htmlFor = "Input" 
+     	window.foo_label.value= "";
+    	window.foo_label.className = "foo_Label"
+  
+ 		newDiv.appendChild(newInput)
+    	newDiv.appendChild(window.foo_label)
+    
+  		document.body.appendChild(newDiv)
+  		
+  //*-End iOS DIV ADD
+   
+  //START BLINKER
+  if (obj.hasOwnProperty('hasCursor')){
+  
+  
+  //	window.blinker  = "<span id=\"blinker\" style=\"vertical-align:middle; font-size:" +  window.cursorFontSize + "px ;color:" + window.cursorColour + "!important\">" + window.cursor + "</span>";
+	
+	window.blinker  = "<span id=\"blinker\" style=\"line-height:" + window.cursorLineHeight + ";vertical-align:" + window.cursorVerticalAlign +"; font-size:" +  window.cursorFontSize + "px ;color:" + window.cursorColour + "!important\">" + window.cursor + "</span>";
+	window.textElement.innerHTML = window.blinker
+	
+	 console.log('HERE')
+	//-- Start the cursor blinking
+	 startBlink()
+	  window.blinkerOn = true
+ //
+	} //---<<<<
+if(typeof obj.typeType == "undefined"){ 
+ 
+  obj.typeType ="auto"
+  
+  }
+   var typType = obj.typeType.toLowerCase()
+  
+  switch(typType) {
+    case "auto":
+        isAutoType()
+      
+        break;
+    case "keydown":
+       isKeydownType()
+        break;
+    default:
+       isAutoType() 
+}
+  
+////-----
+  
+  //
+  
+  	function isKeydownType(){
+  	 
+  	 //-- For iOS	   
+  	window.textElement.addEventListener('touchend', function(event) {
+ 
+  
+   //console.log('focus')
+   window.foo_label.focus()
+  
+  });
+  
+  	
+	 document.addEventListener('keydown', function(event) {
+     
+	
+	var charArray = window.charS.split('');
+	 
+	if (! window.indexer){window.indexer =0};  
+	  
+	//-- start typing
+
+ 
+ 	 if (window.indexer == charArray.length){
+	 
+	  return;
+	 }
+	 
+     var charItem = charArray[window.indexer];
+     
+    
+    
+     if  (charItem == "<" ) {
+if  (charArray[window.indexer +1] == "b" && charArray[window.indexer +2] == "r" && charArray[window.indexer +3] == ">") {
+     charItem = "\<br\>";
+     window.indexer = window.indexer + 3
+}
+if  (charArray[window.indexer +1] == "i" && charArray[window.indexer +2] == "n" && charArray[window.indexer +6] == "t" && charArray[window.indexer +7] == ">") {
+ 
+    charItem = "\<span style=\"padding-left:2em\"\><\/span>";
+     window.indexer = window.indexer + 7
+}
+ 
+     }
+  
+    if (window.blinker != ""){
+  var blinkR = document.querySelector("#blinker") ;
+ blinkR.remove() 
+ }
+   
+	 window.textElement.innerHTML =  window.textElement.innerHTML + charItem  + window.blinker
+  		window.indexer++;
+    }, false);
+	
+ 
+	  
+
+  	}
+  	
+  	function isAutoType(){
+  	window.blinkspeed = 300
+  	clearInterval(window.thisBlinkerFire);
+	 if (window.blinkerOn){
+	 startBlink()	
+	 }
+	 
+	var charArray = window.charS.split('');
+	
+	
+	var counter;
+	var i=0;
+
+
+//-- add characters and remove last cursor/blinker, ad new blinker after last character
+ window.thisFire =   setInterval(function(){
+	 
+	 if (i == charArray.length){
+	 clearInterval( window.thisFire);
+	 clearInterval(window.thisBlinkerFire);
+	 window.blinkspeed = 600
+	 if (window.blinkerOn){
+	 startBlink()	
+	 }	
+	  return;
+	 }
+     var charItem = charArray[i];
+     
+     if   (charItem == "<" )     {
+
+if  (charArray[i +1] == "b" && charArray[i +2] == "r" && charArray[i +3] == ">") {
+ 
+     charItem = "\<br\>";
+		i = i + 3
+		
+		}
+		
+		///<indent>
+	if  (charArray[i +1] == "i" && charArray[i +2] == "n" && charArray[i +6] == "t" && charArray[i +7] == ">") {
+ 
+     charItem = "\<span style=\"padding-left:2em\"\><\/span>";
+		i = i + 7
+		
+		}	
+		
+     }
+     
+    
+    
+    
+    
+     
+     if (window.blinker != ""){
+  var blinkR = document.querySelector("#blinker") ;
+  
+    blinkR.remove()
+ 
+ }
+   
+    
+     
+	 textElement.innerHTML =  textElement.innerHTML + charItem  + blinker;
+
+  		i++;
+
+	 }, window.autoTypingSpeed);
+  	}	
+  	
+  	
+  	function startBlink(){
+  	
+  	window.thisBlinkerFire =   setInterval(function(){
+	  
+	
+	  
+    var blinker = document.getElementById("blinker");
+    
+    if (blinker.style.display === "none") {
+        blinker.style.display = "inline";
+    } else {
+       blinker.style.display = "none";
+    }
+  
+	  
+	  }, window.blinkspeed);
+  
+  
+  }
+  	
+  
+  	//-- Remove poly fill for IE
+  	(function (arr) {
+  arr.forEach(function (item) {
+    if (item.hasOwnProperty('remove')) {
+      return;
+    }
+    Object.defineProperty(item, 'remove', {
+      configurable: true,
+      enumerable: true,
+      writable: true,
+      value: function remove() {
+        if (this.parentNode !== null)
+          this.parentNode.removeChild(this);
+         //console.log( 'ieremove');
+      }
+    });
+  });
+})([Element.prototype, CharacterData.prototype, DocumentType.prototype]);
+  	
+  }//Main END
+		
+		return true;
+	}
+
+	if("HYPE_eventListeners" in window === false) {
+		window.HYPE_eventListeners = Array();
+	}
+	
+	window.HYPE_eventListeners.push({"type":"HypeDocumentLoad", "callback":extendHype});
+	
+</script>
+	
+
+	<!-- end copy -->
+  </head>
+  <body>
+	<!-- copy these lines to your document: -->
+
+	<div id="bdsx_hype_container" style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;">
+		<script type="text/javascript" charset="utf-8" src="bdsx.hyperesources/bdsx_hype_generated_script.js?70296"></script>
+	</div>
+
+	<!-- end copy -->
+  </body>
+</html>

@@ -19,6 +19,9 @@ RAKEFILE
 *~
 *.ttf
 *.tar
+*.m4v
+*.mp4
+*.mp3
 
 # OS or Editor folders
 .DS_Store
