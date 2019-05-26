@@ -18,6 +18,7 @@ RAKEFILE
 *.vi
 *~
 *.ttf
+*.tar
 
 # OS or Editor folders
 .DS_Store
