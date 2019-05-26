@@ -6,48 +6,18 @@ title:
   "short": "Collaborating with Aponte"
 doi: ""
 author:
-- name: Linda Rodríguez
+- name: Linda Rodriguez
   shortname: Rodríguez
-  bio: ""
+  bio: "Linda Rodriguez was a senior Fellow for the Cuban Studies Program at the David Rockefeller Center for Latin American Studies at Harvard University. She received her doctorate degree in the Department of History of Art and Architecture at Harvard in 2012. She was working on a manuscript on the art and contributions of Vicente Escobar and José Antonio Aponte. She made important contributions to digital scholarship, including her work on *Digital Aponte* and *Torn Apart/Separados*."
 - name: Ada Ferrer
   shortname: Ferrer
   bio: "Ada Ferrer is Julius Silver Professor of History and Latin American and Caribbean Studies, New York University. She is author of the award-winning books *Insurgent Cuba: Race, Nation, and Revolution, 1868–1898* (University of North Carolina Press, 1999) and *Freedom’s Mirror: Cuba and Haiti in the Age of Revolution* (Cambridge University Press, 2014). She is currently the Andrew W. Mellon Foundation Fellow at the Cullman Center for Scholars and Writers at the New York Public Library, as well as a Guggenheim Foundation Fellow."
 date: July 2017
 issue: 3
 order: 2
-abstract: "This essay explore​s​ the use of *A Colony in Crisis: The Saint-Domingue Grain Crisis of 1789* in the French literature classroom and how it helps address gaps in digital humanities and French language pedagogy while interrogating the colonial positionality of the French Revolution’s digital archive. In 2015, the Newberry Library received a Digitizing Hidden Special Collections and Archives grant from the Council on Library and Information Resources (CLIR) to digitize 30,000 French language pamphlets, a portion of which pertains to the period before, during, and after the French Revolution. As the digital archive of the French Revolution rapidly grows, the need to draw attention to the broader context of revolution in the French Empire–particularly in the Caribbean–has become even more urgent. ​One of the most effective ways of addressing the marginalization of the Caribbean in colonial archives is through pedagogical interventions and course design. While digital humanities pedagogy has become somewhat normalized in the anglophone literature classroom, the French language classroom has been slow to adapt to the use of digital tools and pedagogy beyond the introductory language course."
+abstract: "In the last fifteen years or so, the story of José Antonio Aponte—the free black carpenter and artist who attempted to lead a major antislavery revolution in early-nineteenth-century Havana—has drawn the animated attention of scholars in history, art history, literary criticism, and anthropology, among other fields. Most of that scholarship has utilized time-worn techniques of scholarly practice: rigorous and wide-ranging archival research, perceptive close readings of judicial testimony, forays into theoretical works as interpretive aids to analysis. This essay revisits the story of Aponte, relying on the digital humanities website *Digital Aponte* that we—Linda Rodríguez, in collaboration with Ada Ferrer—curated. *Digital Aponte* invites an interdisciplinary collaboration that can be said to echo the collaborative approaches Aponte himself pursued in his creative, intellectual, and political practices. In the present, such approaches advance our understandings of Aponte and the histories of black antislavery in the Atlantic world, just as they foreground the profound link between artistic and revolutionary work."
 language: en
 ---
-
-
-**&lt;ALEX: No abstract.** **No bio provided for Linda; Ada’s I pulled
-from the latest issue of *Small Axe*. Three images indicated but I have
-no images and no caption info.&gt;**
-
-
-===================================================================
-
-Linda Rodríguez and Ada Ferrer
-
-### Abstract
-
-In the last fifteen years or so, the story of José Antonio Aponte—the
-free black carpenter and artist who attempted to lead a major
-antislavery revolution in early-nineteenth-century Havana—has drawn the
-animated attention of scholars in history, art history, literary
-criticism, and anthropology, among other fields.[^1] Most of that
-scholarship has utilized time-worn techniques of scholarly practice:
-rigorous and wide-ranging archival research, perceptive close readings
-of judicial testimony, forays into theoretical works as interpretive
-aids to analysis. This essay revisits the story of Aponte, relying on
-the digital humanities website *Digital Aponte* that we— Linda
-Rodríguez, in collaboration with Ada Ferrer—curated. *Digital Aponte*
-invites an interdisciplinary collaboration that can be said to echo the
-collaborative approaches Aponte himself pursued in his creative,
-intellectual, and political practices. In the present, such approaches
-advance our understandings of Aponte and the histories of black
-antislavery in the Atlantic world, just as they foreground the profound
-link between artistic and revolutionary work.
 
 Aponte’s Story, Basic Outlines 
 -------------------------------
@@ -153,7 +123,7 @@ own home. Then, sometime after the execution, the book disappeared. So
 for this revolution that never quite was, perhaps the most important
 source is a book that no modern scholar has ever seen.
 
-Aponte scholars, of course, have looked for it. Historian Matt Childs,
+Aponte scholars, of course, have looked for it.[^1] Historian Matt Childs,
 for example, uncovered the fact that the Spanish governor of Cuba, who
 had ordered Aponte’s execution, asked to personally view some of the
 material from the trial on the evening before his return to Spain (just
@@ -275,14 +245,9 @@ curating our [*Digital Aponte*](http://aponte.hosting.nyu.edu/) project
 meant first making that archival record as accessible as possible.[^8]
 
 {% include image.html
-
-img="\[my-image.jpg\]"
-
-title="\[insert title here\]"
-
-caption="\[Figure 1. insert caption here.\]"
-
-url="\[http://optional-url.com\]" %}
+    img="issue03/ferrer-1.png"
+    title="Screenshot of Digital Aponte."
+    caption="Figure 1. Digital Aponte." %}
 
 *Digital Aponte* aspires to foreground Aponte’s words, through the
 archival document, as they have arrived to us. Our effort may be
@@ -613,14 +578,9 @@ Plaisir came up with more than fifty pieces, and Renée Stout with some
 nine (plus a gun).
 
 {% include image.html
-
-img="\[my-image.jpg\]"
-
-title="\[insert title here\]"
-
-caption="\[Figure 2. insert caption here.\]"
-
-url="\[http://optional-url.com\]" %}
+    img="issue03/ferrer-2.jpg"
+    title="José Bedia Júbilo de Aponte."
+    caption="Figure 2. *Júbilo de Aponte*, 2017. Mixed media on mixed papers, 106 x 143 inches. Courtesy of the artist." %}
 
 In many cases, the production of the art was preceded by sustained
 engagement with *Digital Aponte* or with the site’s creators. Here it
@@ -638,14 +598,9 @@ fig. 3). We might even say it derives from a synergy between her own
 artistic and political practice and Aponte’s.
 
 {% include image.html
-
-img="\[my-image.jpg\]"
-
-title="\[insert title here\]"
-
-caption="\[Figure 3. insert caption here.\]"
-
-url="\[http://optional-url.com\]" %}
+    img="issue03/ferrer-3.jpg"
+    title="José Bedia painting."
+    caption="Figure 3. *Aponte (Láminas 10-11)*, 2017. Pyrite, oil, graphite on wood panel, 21.5 x 36 x 2 inches overall. Courtesy of the artist and Lehmann Maupin, New York." %}
 
 Another such conversation occurred with Renée Stout, who was
 particularly interested in what Aponte might have tried to hide or
@@ -708,20 +663,7 @@ that while definitive answers (like the book of paintings itself) remain
 elusive, the collaborative process of seeking them out is itself part of
 the project of envisioning freedom.
 
-Linda Rodríguez
----------------
-
-Ada Ferrer 
------------
-
-Ada Ferrer is Julius Silver Professor of History and Latin American and
-Caribbean Studies, New York University. She is author of the
-award-winning books *Insurgent Cuba: Race, Nation, and Revolution,
-1868–1898* (University of North Carolina Press, 1999) and *Freedom’s
-Mirror: Cuba and Haiti in the Age of Revolution* (Cambridge University
-Press, 2014). She is currently the Andrew W. Mellon Foundation Fellow at
-the Cullman Center for Scholars and Writers at the New York Public
-Library, as well as a Guggenheim Foundation Fellow.
+---
 
 [^1]: See, for example, José Luciano Franco, *Las conspiraciones de 1810
     y 1812 *(Havana: Editorial de Ciencias Sociales, 1977); Stephan

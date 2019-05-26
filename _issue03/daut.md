@@ -1122,7 +1122,7 @@ as a soil from which other gifts, or the same gift endowed with
 different meanings, may grow towards a future which is colonized by our
 acts in this moment, but which must always remain open.”[^88]
 
-
+---
 
 [^1]: Robert Lawless, *Haiti’s Bad Press* (Rochester, NY: Schenkman,
     1992). For theorization of the concept of “new narratives,” see “New
