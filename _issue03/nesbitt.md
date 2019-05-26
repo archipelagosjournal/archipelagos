@@ -137,8 +137,6 @@ State-power without which it is quite impossible to transform the
 organisation of society.”[^10] In this context, James continues, there
 appeared “a new class,” one that,
 
-> &lt;extract&gt;
->
 > suffering intolerably from the difficulties created by the chaos in
 > production, would be driven to seize the State-power and create the
 > conditions for the new Socialist society…. This class Marx and Engels
@@ -150,8 +148,6 @@ appeared “a new class,” one that,
 > organisation, would be forced to combine industrially and ultimately
 > politically by the increasing pressure upon them of the bourgeois
 > system of production.[^11]
->
-> &lt;/extract&gt;
 
 Here, James gives more extensive description and attention to the notion
 of the proletariat, as a specific historical development of European
@@ -251,8 +247,6 @@ chapter 25 (“The General Law of Capitalist Accumulation”), Marx
 categorically affirms this first sense to be the manner in which he
 understands the concept within his systematic analysis:
 
-> &lt;extract&gt;
->
 > “Proletarian” must be understood to mean, economically speaking,
 > nothing other than “wage-labourer,” the man who produces and valorizes
 > “capital.”…“The sickly proletarian of the primitive forest” is a
@@ -261,8 +255,6 @@ understands the concept within his systematic analysis:
 > to this as an orang-utang. He is not, therefore, a proletarian. This
 > would only be the case if the primitive forest exploited him, instead
 > of being exploited by him.[^21]
->
-> &lt;/extract&gt;
 
 Marx is here unambiguous, and, regarding James’s own assertion, it is
 clear that by this definition, the plantation slaves were no proletariat
@@ -382,16 +374,12 @@ commodities.”[^32] The bookkeeping practices of the plantation system
 make this eminently clear (see fig. 1).
 
 {% include image.html
-
-img="Tableau-detail.tif"
-
-title="Tableau des Finances"
-
-caption="Figure 1. “Tableau des Finances et du Commerce de la partie
+    img="issue03/nesbitt-1.jpg"
+    title="Tableau des Finances"
+    caption="Figure 1. “Tableau des Finances et du Commerce de la partie
 Françoise de St. Domingue,” 1792 (detail). Copy in the John Carter Brown
 Library, Brown University."
-
-url= "<https://archive.org/details/tableaudesfinanc00slsn>" %}
+    url= "https://archive.org/details/tableaudesfinanc00slsn" %}
 
 Marx’s assertion of the structural equivalency of slaves, machines, and
 animals in the plantation mode of production is strikingly confirmed in
@@ -474,15 +462,9 @@ barbarically premodern, a social form and mode of production in which
 humans constituted legal, machinic property (see fig. 2).
 
 {% include image.html
-
-img="sucrerie-machine.pdf"
-
-title="Sucrerie"
-
-caption=" Figure 2. “Sucrerie,” from Denis Diderot et al.,
-*Encyclopédie, ou, Dictionnaire raisonné des sciences,des arts et des
-métiers…/ par Diderot \[et\] d’Alembert* (1751–71) (Parma: F. M. Ricci,
-1970–79), vol. 1, plates." %}
+    img="issue03/nesbitt-2.jpg"
+    title="Sucrerie"
+    caption="Figure 2. “Sucrerie,” from Denis Diderot et al., *Encyclopédie, ou, Dictionnaire raisonné des sciences,des arts et des métiers…/ par Diderot \[et\] d’Alembert* (1751–71) (Parma: F. M. Ricci, 1970–79), vol. 1, plates." %}
 
 The complex, overdetermined historical process of the transition from
 plantation slavery to the industrial production of sugar in Guadeloupe
@@ -585,12 +567,9 @@ distinguishes them together from traditional handicraft (see fig.
 3).[^49]
 
 {% include image.html
-
-img="auguiller.pdf"
-
-title="Aiguillier"
-
-caption="Figure 3. “Aiguillier,” from Diderot et al., *Encyclopédie*,
+    img="issue03/nesbitt-3.jpg"
+    title="Aiguillier"
+    caption="Figure 3. “Aiguillier,” from Diderot et al., *Encyclopédie*,
 vol. 1, plates." %}
 
 Instead, the crucial analytical distinction (and this will prove key as
@@ -606,16 +585,11 @@ founding their common distinction from the capitalist (industrial) mode
 of production (fig. 4).
 
 {% include image.html
-
-img="auguiller detail.pdf"
-
-title="Aiguillier"
-
-caption="Figure 3. “Aiguillier” (detail), from Diderot et al.,
+    img="issue03/nesbitt-4.jpg"
+    title="Aiguillier detail"
+    caption="Figure 3. “Aiguillier” (detail), from Diderot et al.,
 *Encyclopédie*, vol. 1, plates."
-
-url=
-"<http://www.slaveryimages.org/details.php?categorynum=7&categoryName=New%20World%20Agriculture%20and%20Plantation%20Labor&theRecord=35&recordCount=114>"
+    url="http://www.slaveryimages.org/details.php?categorynum=7&categoryName=New%20World%20Agriculture%20and%20Plantation%20Labor&theRecord=35&recordCount=114"
 %}
 
 In other words, handicraft and manufacture (including plantation
@@ -625,15 +599,9 @@ in which living labor directly manipulates tools in the production
 process (see fig. 5).
 
 {% include image.html
-
-img="Récolte de l’indigo.pdf"
-
-title="Récolte de l’indigo"
-
-caption="Figure 5. “Récolte de l’indigo,” from José Mariano da Conceição
-Velloso, *O fazendeiro do Brazil, cultivador* (Lisbon, 1806), vol. 2,
-plate 1, foldout following 341. Copy in the John Carter Brown Library,
-Brown University." %}
+    img="issue03/nesbitt-5.jpg"
+    title="Récolte de l’indigo"
+    caption="Figure 5. “Récolte de l’indigo,” from José Mariano da Conceição Velloso, *O fazendeiro do Brazil, cultivador* (Lisbon, 1806), vol. 2, plate 1, foldout following 341. Copy in the John Carter Brown Library, Brown University." %}
 
 The gradual, cumulative increases in productivity observable in the
 transition from handicraft to manufacture derive from the
@@ -659,12 +627,9 @@ of the anthropological function of living labor as “tool-bearer” (see
 fig. 6).
 
 {% include image.html
-
-img="sucrerie de betteraves.pdf"
-
-title="Sucrerie de betteraves, 1843"
-
-caption="Figure 6. “Intérieur de la Sucrerie de betteraves de Château
+    img="issue03/nesbitt-6.png"
+    title="Sucrerie de betteraves, 1843"
+    caption="Figure 6. “Intérieur de la Sucrerie de betteraves de Château
 Freyes, près de Villeneuve-St.-Georges,” *L’Ilustration Journal
 Universel*, 13 May 1843." %}
 
@@ -696,8 +661,6 @@ the object of labor (commodities).[^55]
 This displacement, analytically rather than empirically apprehended,
 entails, Balibar concludes,
 
-> &lt;extract&gt;
->
 > a reorganization of the entire system, of the relation of the real
 > appropriation of nature, of the “productive forces.”…The machine which
 > replaces the ensemble of tools and educated, specialized labor-power
@@ -706,8 +669,6 @@ entails, Balibar concludes,
 > not that of elements or individuals, but of functions.…The subject of
 > development is nothing but what is defined by the succession of the
 > forms of organization of labour.”[^56]
->
-> &lt;/extract&gt;
 
 The point to be taken from this excursus on the structural logic of the
 capitalist mode of production is not merely that the displacement of
