@@ -12,7 +12,7 @@ author:
 date: April 2019
 issue: 3
 order: 3
-abstract: "In the spirit of Papa Legba (a Haitian <em>lwa</em> who is the arbiter of the crossroads between the human and nonhuman worlds), this essay examines the challenges and opportunities presented when using a digital humanities approach to archiving early Haitian sovereignty, a critical but often forgotten part of the story of the making of the modern world-system. Abdul JanMohamed and David Lloyd have written about “archival work, as a form of counter-memory” that is “essential to the critical articulation of minority discourse.” However, because archives, like other kinds of texts, reflect the worldview of their creators, the archivist working to articulate “minority discourse” must be careful not to reproduce patterns of domination or cultural exploitation. For Haiti, this means that we must work against the idea that the abundant historical resources now made readily (and often freely) available by various digitization projects, represent a “new frontier” for research, an idea that encourages the notion that the country is “open for business” on a variety of levels. Instead, by using the metaphor of the crossroads, this essay demonstrates how a multimodal approach—involving content, context, collaboration, and access—can allow for alternative ways of (humanely) archiving black sovereignty, thus contributing to “new narratives” of Haiti."
+abstract: "In the spirit of Papa Legba (a Haitian <em>lwa</em> who is the arbiter of the crossroads between the human and nonhuman worlds), this essay examines the challenges and opportunities presented when using a digital humanities approach to archiving early Haitian sovereignty, a critical but often forgotten part of the story of the making of the modern world-system. Abdul JanMohamed and David Lloyd have written about “archival work, as a form of counter-memory” that is “essential to the critical articulation of minority discourse.” However, because archives, like other kinds of texts, reflect the worldview of their creators, the archivist working to articulate “minority discourse” must be careful not to reproduce patterns of domination or cultural exploitation. For Haiti, this means that we must work against the idea that the abundant historical resources now made readily (and often freely) available by various digitization projects, represent a “new frontier” for research, an idea that encourages the notion that the country is “open for business” on a variety of levels. Instead, by using the metaphor of the crossroads, this essay demonstrates how a multimodal approach—involving content, context, collaboration, and access—can allow for alternative ways of (humanely) archiving black sovereignty.
 language: en
 ---
 
@@ -40,7 +40,7 @@ and Toussaint Louverture* provides a concrete example of how attempts to
 create new narratives about Haiti could end up unwittingly reinforcing
 some of the same old narratives commonly found in Haiti’s bad press. The
 long awaited and heavily advertised exhibit included portraits of
-Toussaint by Jacob Lawrence and Lubaina Hamid, among others, and
+Toussaint by Jacob Lawrence and Lubaina Himid, among others, and
 excerpts of writings about the famous revolutionary leader by C. L. R.
 James. There was also audio of Ulysse’s highly celebrated one-woman
 show, *Because When God Is Too Busy*. Charles Forsdick, in a blog post
@@ -126,7 +126,7 @@ concerned itself with US and Western European reactions to and readings
 of the Haitian Revolution and especially with what Mimi Sheller has
 called the “Haytian fear.”[^8] Overburdened attention to Atlantic world
 anxieties about the meaning and consequences of the Haitian Revolution
-for the colonial powers (England, France, the United States, and the
+for the colonial powers (England, Spain, Portugal, France, the United States, and the
 Netherlands) has come most often at the expense of analyzing
 nineteenth-century Haitian interpretations of the history of the
 Atlantic world, Haitians’ own reactions and responses to US and European
@@ -193,7 +193,7 @@ sovereignty in Haiti unfolded (and eventually fell apart) after the
 Revolution.
 
 Ultimately, in thinking about how to use digital archival methods to
-develop a Haitian-led digital praxis—centered on access, content,
+develop a Haitian-informed digital praxis—centered on access, content,
 context, and collaboration—I hope to put forward alternative ways of
 approaching the Haitian past as a living history, one that has the
 ability to, in Karen Salt’s words, “highlight…black politics alongside
@@ -205,10 +205,10 @@ political agency of black bodies.”[^13]
 
 For practitioners of Vodou, the *lwa* Papa Legba (Attibon Legba) is the
 god of the *kalfou*, or “crossroads” who acts as an arbiter between the
-living and nonliving worlds. Legba is also traditionally known as the
+human beings of the living world and the gods of the spirit world. Legba is also traditionally known as the
 “opener of gates” and therefore of opportunities. Vodou songs routinely
 implore, “Papa Legba, louvri barrye pou mwen”—open the gate for me. In
-one of the first histories of Haiti written entirely in Haitian Kreyòl,
+the first history of the Haitiian Revolution written entirely in Haitian Kreyòl,
 *Ti dife boule sou istwa Ayiti*, Michel-Rolph Trouillot gave chapter 5
 the iconic words of Papa Legba as a title, “Louvri barye.”[^14] This
 simultaneously secular and sacred evocation of Vodou practice was used
@@ -293,7 +293,7 @@ documentation left behind by nineteenth-century Haitians, and especially
 to that found in early-nineteenth-century Haitian newspapers under the
 government of Henry Christophe, will allow me to do is both to put
 “better objects”—Haitian-produced objects—into my archive and to ask
-“better questions,” namely, How did the early sovereign period of
+“better questions,” namely, how did the early sovereign period of
 postindependence affect Haiti’s long march toward sovereignty against
 the Atlantic World powers?
 
@@ -313,7 +313,7 @@ contributing to the history of Haitian independence as it has been for
 Haitian revolutionary studies. Nineteenth-century Haitian print culture
 is extensive, encompassing not just traditional historical writing and
 the customary political documents found in any state but also novels,
-poetry, plays, music, artwork, sculpture, and journalism.[^25]
+poetry, plays, music, artwork, and journalism.[^25]
 
 Delving into the archives of this robust culture of print is crucial
 work for understanding Haitian history, but it is also fraught work.
@@ -360,7 +360,7 @@ Revolution and early-nineteenth-century Haiti is not actually housed in
 Haitian institutions, scholars interested in the revolutionary period
 and the period immediately after independence find themselves traveling
 all over the world, including to Jamaica, Puerto Rico, England, France,
-Germany, and Denmark, as well as to the United States and Canada. While
+Germany, Spain, and Denmark, as well as to the United States and Canada. While
 many documents from Haiti can be found in archives located abroad, most
 of the archives in England, France, and the United States overwhelmingly
 contain sources about Haiti that were very often written by natives of
@@ -373,7 +373,7 @@ it was in “diaries and political boundaries.”[^30] Such an idea is
 rooted deeply in nineteenth-century Haitian intellectual history. Hérard
 Dumesle, for instance, wrote in his 1824 *Voyage dans le nord d’Hayti;*
 *ou, Révélations des lieux et des monuments historiques*, “Persuaded
-that nothing in nature is mute if we know how to read it, I interrogate
+that nothing in nature is mute if we know how to read it, I interrogated
 monuments and places.”[^31] Throughout the body of the work, Dumesle
 describes how he traveled to various sites in Haiti, including the
 Citadel and the Palace at Sans Souci, allowing these buildings, these
@@ -439,7 +439,7 @@ the UK National Archives, available for anyone to copy, save, or
 download.[^41] In this sense, digitization, while not to be confused
 with democratization, is helping both to bring greater attention to the
 existence of this document and to provide the possibility of greater
-access to it as well as to knowledge of its vital history.
+access to it, as well as to knowledge of its vital history.
 
 Through the painstaking efforts of digital archivists, archival
 repositories are aiming toward and achieving increasing decolonization.
@@ -475,8 +475,7 @@ one document digitized by DLOC is titled “[La désignation des postes
 pour l’armée de St.
 Domingue](http://dloc.com/CA00510270/00001?search=revolution)”; another
 is a piece of Toussaint’s
-[correspondence](http://dloc.com/CA00510263/00001?search=toussaint) from
-the Haitian National Archives.[^43] In addition, the Haitian Library of
+[correspondence](http://dloc.com/CA00510263/00001?search=toussaint).[^43] In addition, the Haitian Library of
 the Pères du Saint-Esprit has also now been partially digitized; it
 offers a great deal of material from the colonial period, including the
 only known extant copy of Saint-Domingue’s almanac of 1764 (a crucial
@@ -665,7 +664,7 @@ Working together with archivists to provide access to important content
 is only a small part of a larger journey that requires that we put
 nineteenth-century Haitian documents in context through digital
 curation. The “Digital Humanities Manifesto” (version 2.0) introduces
-the importance of curation, in general, in the following way:
+the importance of curation in the following way:
 
 > Whereas the modern university segregated scholarship from curation,
 > demoting the latter to a secondary, supportive role, and sending
@@ -1002,7 +1001,7 @@ of the *Gazette Royale* held by the Bibliothèque du Port-Royal in Paris,
 as well as to fifteen additional issues available at the Library of the
 American Philosophical Society in Philadelphia. Finally, a series of
 enthusiastic archivists, librarians, and specialists in document
-conservation at various institutions, but especially David Gary, have
+conservation at various institutions, but especially David Gary and Aura Díaz López, have
 also enabled this project to succeed in far more ways than I could
 enumerate here.
 
@@ -1054,7 +1053,7 @@ decolonization over democratization, requires that institutions and
 researchers alike work together to remove the many barriers that exist
 to accessing historical resources. These include not simply problems of
 language, which translation often appears able to solve, but the much
-more heady and material problem of financing. But historians who archive might
+more heady and material problem of financing. But historians who digitally archive might
 help us to avoid recreating, through the process of expensive (and thus
 often inaccessible) scholarly publications, the very systems of
 domination, exploitation, and ownership that we rail against when
@@ -1077,7 +1076,7 @@ access in Nicholls’s way. Maybe Nicholls didn’t have the right passcode
 peace with this lack of access and move forward with the publication of
 his book anyway. I think that we, too, must remain unafraid of opacity,
 those moments when the archive refuses to speak to us, to make sense to
-us, or even to let us in.[^86] Indeed, the fact remains that for a
+us, or even to let us in.[^86] The fact remains that for a
 variety of complicated reasons, most Haitian archives are not open to
 the general public.
 
@@ -1295,7 +1294,7 @@ acts in this moment, but which must always remain open.”[^88]
 
 [^37]: See Gaffield, *Haitian Connections in the Atlantic World*.
 
-[^38]: Later, Gaffield discovered a second government-printed copy of
+[^38]: Later, Gaffield located a second government-printed copy of
     the act in the UK National Archives. See Gaffield, “Haiti’s
     Declaration of Independence.”
 
@@ -1421,8 +1420,8 @@ acts in this moment, but which must always remain open.”[^88]
     par le sujet, à parler des indigenes, ils l’ont fait avec cet esprit
     de préjugé et de partialité qu’ils ne peuvent abandoner….”; Baron de
     Vastey, *Essai sur les causes de la revolution et des guerres
-    civiles d’Hayti, faisant suite au réflexions politiques sur quelques
-    ouvrages et journaux français concernant Hayti* (Sans-Souci, Haiti:
+    civiles d’Hayti, faisant suite au "Réflexions politiques sur quelques
+    ouvrages et journaux français, concernant Hayti"* (Sans-Souci, Haiti:
     L’Imprimerie Royale, 1819), 1.
 
 [^62]: “Est-il étonnant si nous étions enclins aux suicides, aux
@@ -1479,9 +1478,7 @@ acts in this moment, but which must always remain open.”[^88]
     Mercer Cook (Oxford: Heinemann, 1947), 75.
 
 [^71]: Frances Smith Foster, “Creative Collaboration: As African
-    American as Sweet Potato Pie,” in Harold Bloom, ed.,
-
-    *African American Poets*, vol. 1 (New York: Infobase, 2009), 87.
+    American as Sweet Potato Pie,” in Harold Bloom, ed., *African American Poets*, vol. 1 (New York: Infobase, 2009), 87.
 
 [^72]: Gina Athena Ulysse, “Seven Keywords for this Rasanblaj,”
     *Anthropology Now* 8, no. 3 (2016): 122.
