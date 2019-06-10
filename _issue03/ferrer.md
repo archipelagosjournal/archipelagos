@@ -6,9 +6,9 @@ title:
   "short": "Collaborating with Aponte"
 doi: ""
 author:
-- name: Linda Rodriguez
+- name: Linda M. Rodriguez
   shortname: Rodríguez
-  bio: "Linda Rodriguez was a senior Fellow for the Cuban Studies Program at the David Rockefeller Center for Latin American Studies at Harvard University. She received her doctorate degree in the Department of History of Art and Architecture at Harvard in 2012. She was working on a manuscript on the art and contributions of Vicente Escobar and José Antonio Aponte. She made important contributions to digital scholarship, including her work on *Digital Aponte* and *Torn Apart/Separados*."
+  bio: "Linda M. Rodriguez (1978–2018) earned her PhD in art history at Harvard University, where she wrote a dissertation on free black artists in colonial Havana, among them José Antonio Aponte. Rodríguez was Post-Doctoral Fellow in Art History and, later, Visiting Scholar at the Center for Latin American and Caribbean Studies at New York University. In addition to curating Digital Aponte, she collaborated in *Separados/Torn Apart*, a project that visualizes the geography and finances of the “zero-tolerance” immigration policy developed by ICE, and in Hablemos de La Habana (Let’s Talk about Havana), a collaborative forum about the city’s future organized by Friends of Havana and the World Monuments Fund. Linda passed away on 1 October 2018, just as the authors were starting to revise this article. Her brilliance, creativity, generosity, energy, and warmth were at the heart of the Digital Aponte project from the outset. We miss her deeply and honor her memory and spirit by carrying on the work she helped so many do."
 - name: Ada Ferrer
   shortname: Ferrer
   bio: "Ada Ferrer is Julius Silver Professor of History and Latin American and Caribbean Studies, New York University. She is author of the award-winning books *Insurgent Cuba: Race, Nation, and Revolution, 1868–1898* (University of North Carolina Press, 1999) and *Freedom’s Mirror: Cuba and Haiti in the Age of Revolution* (Cambridge University Press, 2014). She is currently the Andrew W. Mellon Foundation Fellow at the Cullman Center for Scholars and Writers at the New York Public Library, as well as a Guggenheim Foundation Fellow."
@@ -19,8 +19,6 @@ abstract: "In the last fifteen years or so, the story of José Antonio Aponte—
 language: en
 ---
 
-Aponte’s Story, Basic Outlines 
--------------------------------
 
 In Havana on the night of 14 March 1812, three free men of color left
 the capital city for the countryside. One of the men wore a uniform,
@@ -378,7 +376,7 @@ To illustrate how we might develop and apply this method, we turn to
 Aponte’s description of his lámina 26. Aponte there depicts the Greek
 philosopher Diogenes inside a barrel on a desolate beach, enjoying the
 protection of the Egyptian goddess Isis. The Spanish Visigothic ruler
-King Rodrigo orders Diogenes out of the barrel. Then, from two fistfuls
+King Rodrigo orders Diogenes out of the barrel. Then, taking two fistfuls
 of dirt from the barrel, the philosopher fashions the Spanish coat of
 arms and the flag of Spain. That kind of magic was not in the
 philosopher’s purview, but he was able to do it, Aponte said, because of
@@ -426,7 +424,7 @@ connections between his library books and themes in the book of
 paintings. On the website, images of the library books sit on a
 bookshelf to reinforce the notion that Aponte perhaps kept his books in
 a similar fashion and to call to mind the physical space of his home
-workshop. Clicking on a book’s spine takes the viewer to a page
+and workshop. Clicking on a book’s spine takes the viewer to a page
 dedicated to that particular book. Each of these pages contains
 commentary from scholars about how they identified the particular
 version of each book as the one Aponte likely owned, along with an image
@@ -437,7 +435,7 @@ shared books.
 
 But understanding Aponte’s conceptual world requires that we go beyond
 his library. Aponte’s book of paintings was a visual artifact, one we
-cannot see. Yet *Digital Aponte* recreates the visual worlds with which
+cannot see. *Digital Aponte* recreates the visual worlds with which
 Aponte engaged. The image gallery includes an overview of visual culture
 of turn-of-the-nineteenth-century Havana along with a sampling of
 images. The image gallery proceeds from the premise of a serious
@@ -467,7 +465,7 @@ important to Aponte and between those sites and critical spaces of
 exchange and dialogue (markets and docks, for instance). We glimpse, in
 other words, the literal paths Aponte walked. Ultimately, this section
 of the website might serve as a template for a walking tour of Aponte’s
-Havana. The walking tour, in turn, helps not only to preserve Aponte’s
+Havana. Such a walking tour would help not only to preserve Aponte’s
 memory but to open spaces (and paths) for more critical historical
 narratives and even perhaps for other kinds of tourism, as is being
 pioneered in Brazil with the [*Pasts
@@ -489,7 +487,7 @@ Jamaica, 1760–1761: A Cartographic
 Narrative*](http://revolt.axismaps.com/).[^17] Finally, the fact that
 the Cuban government has recently authorized the construction of a
 monument to Aponte (by renown sculptor Alberto Lescay) near Peñas Altas
-makes it important to have that space reflected on the website’s map and
+makes it important to have that space reflected on the website’s map. It
 also suggests a generative synergy between the physical monument and
 *Digital Aponte*, itself a kind of dynamic, interactive monument to the
 memory of Aponte and his political and creative work.
@@ -571,7 +569,7 @@ The majority read the testimony and did not (or could not?) limit
 themselves to just one image; rather, they selected themes or elements
 that appeared throughout and worked them into complex pieces. Some found
 it impossible to limit themselves to creating a single painting or
-drawing. Édouard Duval Carrié completed four painting that drew on
+drawing. Édouard Duval Carrié completed four paintings that drew on
 multiple láminas; José Bedia created a large, monumental piece that
 contains elements from perhaps a dozen láminas (see fig. 2). Marielle
 Plaisir came up with more than fifty pieces, and Renée Stout with some
@@ -662,6 +660,12 @@ quality in Aponte’s work and to model it in our own, cognizant always
 that while definitive answers (like the book of paintings itself) remain
 elusive, the collaborative process of seeking them out is itself part of
 the project of envisioning freedom.
+
+Acknowledgments
+--------------------------------------------------
+
+We wish to thank the Polonsky Foundation-NYU Digital Humanities Internship Program, NYU’s FAS Office of Educational Technology, and Digital Scholarship Services at Bobst Library. In particular, we would like to acknowledge Jennifer Vinopal, Zachary Coble, Andrew Battista, and Armanda Lewis for their institutional support, and we thank Kris Minhae Choe and Eric Anderson for their extensive and valuable work on the website.
+
 
 ---
 
