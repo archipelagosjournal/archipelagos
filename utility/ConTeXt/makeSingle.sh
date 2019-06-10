@@ -43,7 +43,7 @@ for issuePath in $(find $root -maxdepth 1 -name "_issue03" -type d  ); do
 	
 	for file in $(find . -name "*.md"); do		
 		
-		$root/utility/ConTeXt/convert.sh $file $root $output
+		$root/utility/ConTeXt/convert.sh $file $root $output $root/utility/log/$_issue/
 	done	
 
 	cp *.pdf $root/assets/$issue/
