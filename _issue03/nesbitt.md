@@ -16,12 +16,12 @@ University Press, 2017)."
 date: April 2019
 issue: 3
 order: 1
-abstract: "The essay interrogates C. L. R. James’s famous claim in *The* *Black Jacobins* (1938) that the slaves of St. Domingue were “closer to a modern proletariat than any group of workers in existence at the time,” by comparing James’s understanding of the concept *proletariat*—there and in *World Revolution* (1937)—with Marx’s various developments of the concept across the three volumes of *Capital*. This analysis distinguishes James’s political and historicist deployment of the term from Marx’s analytical usage of the notion in his categorial critique of capitalism. In contrast with James’s linear, Marxist-humanist understanding of the passage from slavery to capitalism, Marx himself demarcates a well-defined delineation between these two basic categories, understood in *Capital* as analytically (as opposed to historically) distinct modes of production. The essay thus concludes by analyzing Marx’s conceptual differentiation of slavery and industrial capitalism in *Capital*, drawing on Etienne Balibar’s analysis of the concepts of mode of production and transition in *Reading Capital* (1965)."
+abstract: "The essay interrogates C. L. R. James’s famous claim in *The* *Black Jacobins* (1938) that the slaves of St. Domingue were “closer to a modern proletariat than any group of workers in existence at the time,” by comparing James’s understanding of the concept *proletariat*—there and in *World Revolution* (1937)—with Marx’s various developments of the concept across the three volumes of *Capital*. This analysis distinguishes James’s political and historicist deployment of the term from Marx’s analytical usage of the notion in his categorial critique of capitalism. In contrast with James’s linear, Marxist-humanist understanding of the passage from slavery to capitalism, Marx defines these two basic categories in *Capital* as analytically (as opposed to historically) distinct modes of production. The essay thus concludes by analyzing Marx’s conceptual differentiation of slavery and industrial capitalism in *Capital*, drawing on Etienne Balibar’s analysis of the concepts of mode of production and transition in *Reading Capital* (1965)."
 language: en
 ---
 
 {% include epigraph.html
-    quote = "The slaves worked on the land, and, like revolutionary peasants everywhere, they aimed at the extermination of their oppressors. But working and living together in gangs of hundreds on the huge sugar-factories which covered North Plain, they were closer to a modern proletariat than any group of workers in existence at the time, and the rising was, therefore, a thoroughly prepared and organized mass movement."
+    quote = "The slaves worked on the land, and, like revolutionary peasants everywhere, they aimed at the extermination of their oppressors. But working and living together in gangs of hundreds on the huge sugar-factories which covered the North Plain, they were closer to a modern proletariat than any group of workers in existence at the time, and the rising was, therefore, a thoroughly prepared and organized mass movement."
     citation = "C. L. R. James, <em>The Black Jacobins</em>."
 %}
 
@@ -39,7 +39,7 @@ and to initiate a more just, communist form of social organization.[^1]
 Only the year before, James, a militant Marxist-Leninist, had completed
 *World Revolution, 1917–1936: The Rise and Fall of the Communist
 International*, his incisive history of the Bolshevik Revolution modeled
-on Leon Trotsky’s own famous study.[^2] James stood at the time as
+on Leon Trotsky’s famous study.[^2] James stood at the time as
 perhaps the leading anglophone voice of global Trotskyism. Pursuing this
 engagement in even more original terms, *The Black Jacobins* is, among
 its many virtues and characteristics, an early and perhaps the greatest
@@ -58,7 +58,7 @@ To do so, I will limit my analysis to considering whether Karl Marx’s
 understanding of the concepts of *proletariat* and *slavery* in his
 mature work correspond to the uses, both literal and implied, that James
 makes of them in the above passage. While Marx’s conceptualizations of
-proletariat and slavery by no means constitute the final word on the
+the proletariat and slavery by no means constitute the final word on the
 relation of slavery to capitalism, such a move is well justified, I
 think, not only by James’s lifelong dedication to both political Marxism
 and Marx’s theoretical critique of capitalism itself but also by the
@@ -95,14 +95,14 @@ chaotic rebellion but “a thoroughly prepared and organized mass
 movement,” perhaps the first instance of a consciously conceived and
 successfully implemented proletarian revolution, one that, like the
 Bolshevik Revolution a century later, occurred not in the center of the
-industrial west, as Marx and Friedrich Engels initially hoped, but at
+industrial West, as Marx and Friedrich Engels initially hoped, but at
 its putatively underdeveloped periphery.
 
 One might justifiably point out that with the single exception of this
 key passage—which points forward in visionary terms to the future
 developments of this argument by figures such as Eric Williams, Eugene
 Genovese, and Robin Blackburn—the notion of the slave as proletarian is
-not a focus of *The Black Jacobins.*[^8] The same cannot be said,
+not a focus of *The Black Jacobins*.[^8] The same cannot be said,
 however, of James’s *World Revolution*, in which the terms *proletariat*
 and *proletarian* appear many hundreds of times. In *World Revolution*,
 which was written a year before *The Black Jacobins*, James
@@ -329,7 +329,7 @@ slave owner, or one is a contractual, “free” seller of her labor power
 for its market value. Such a distinction is not a matter of degree, of
 being, in James’s words, “closer to a modern proletariat,” but is rather
 absolute. In conclusion, then, I shall briefly review Marx’s
-understanding of the distinction between plantation slavery and
+understanding of the difference between plantation slavery and
 capitalism, to more clearly grasp the distinction between the two—a
 distinction James himself invokes only in passing.
 
@@ -371,7 +371,7 @@ Library, Brown University."
 
 Marx’s assertion of the structural equivalency of slaves, machines, and
 animals in the plantation mode of production is strikingly confirmed in
-this 1792 document from St. Domingue summarizing in a single page the
+this 1792 document from St. Domingue, which summarizes in a single page the
 wealth of St. Domingue in the calendar year 1791.[^33] The document
 tabulates the enormous slave-based wealth of St. Domingue during the
 interim period between 1789 and the 6 February 1794 abolition, when
@@ -394,13 +394,11 @@ categorial analysis: “The capitalist,” Marx observes in the second
 volume of *Capital*, “cannot sell the worker again as a commodity, for
 he is not his slave, and the capitalist has bought nothing more than the
 utilization of his labour-power for a certain time.”[^34] As such, and
-this is Marx’s key point, in contrast to the wage laborer, none of these
-elements of constant capital (whose value component, in other words,
-remains constant), including slaves, are able to produce the essential
+this is Marx’s key point, in contrast to the wage laborer, no form of constant capital (whose value component, in other words,
+remains constant), including slaves, is able to produce the essential
 and defining element of capitalism—incremental increases in surplus
-value—but instead merely pass on to a commodity preexisting value, and
-thus themselves, though enabling the capture of market profit by their
-owner, produce only material *use values* (sugar, coffee).[^35]
+value—but instead merely passes on to a commodity preexisting value. Though enabling the *capture* of market profit by their
+owner, they themselves *produce* only material use values (sugar, coffee).[^35]
 
 Among the key factors Marx identifies in the transition to the
 capitalist mode of production, the imposition of the contractual wage
@@ -460,7 +458,7 @@ and Martinique in the 1840s in fact serves precisely to underscore the
 imperative of analytical clarity regarding the problem of transition. If
 in the years immediately prior to the 1848 abolition there developed a
 series of bizarre anomalies in the system, from the renting out of
-“slaves” who then received salaried employment in the towns and cities
+“slaves” who then received salaried employment in the towns and cities,
 to the various documented cases of so-called slaves actually employing
 and paying salaries to their so-called masters, such phenomena testify
 not to the gradual, linear, becoming-capitalist of the plantation mode
@@ -501,7 +499,7 @@ distinction, “the basic elements of which are the *law of property* and
 the *law of contract.*” Under the capitalist mode of production, this
 division takes the form of a primary distinction between, firstly, the
 “*abstract universalistic character*…of *human persons*”’ who are
-entitled to enter into contractual relations (i.e., between the
+entitled to enter into *contractual* relations (i.e., between the
 capitalist owner of the means of production and wage labor), and, on the
 other hand, the *property* relation that “is established exclusively
 between human persons and things (or what are *reputed* to be persons
@@ -574,8 +572,8 @@ of production (fig. 4).
 
 {% include image.html
     img="issue03/nesbitt-4.jpg"
-    title="Aiguillier detail"
-    caption="Figure 3. “Aiguillier” (detail), from Diderot et al.,
+    title="Aiguillier (detail)"
+    caption="Figure 4. “Aiguillier (detail)," from Diderot et al.,
 *Encyclopédie*, vol. 1, plates."
     url="http://www.slaveryimages.org/details.php?categorynum=7&categoryName=New%20World%20Agriculture%20and%20Plantation%20Labor&theRecord=35&recordCount=114"
 %}
@@ -625,12 +623,12 @@ The introduction of machinery and mechanized production suppresses the
 direct contact of labor with the object of labor (the commodity), and an
 entirely distinct criterion for the development of the production
 process replaces the (analytically) previous division and specialization
-of living labor in its manual manipulation of tools.[^52] In its place,
+of living labor via its manual manipulation of tools.[^52] In its place,
 development under industrial production occurs as the tendential
 replacement and *elimination* of manual labor by machine production. Not
 only is production henceforth organized independently from the
 anthropological characteristics of human labor power and its
-rationalization, development furthermore occurs as a separation of
+rationalization, but development furthermore occurs as a separation of
 living labor from the means of labor (i.e., machines).[^53]
 
 Instead of the unity of living labor and the means of labor (tools)
@@ -752,7 +750,7 @@ and 1865, the crushing of the slave-power in America by the Northern
 states. Each of these dates marks a definitive stage in the transition
 from feudal to capitalist society.”[^62] When James did speak of the
 “scientific” analysis of history, as, for example, in his 1940 article
-“Trotsky’s Place in History,” he did so as an affirmation of Trotsky’s
+“Trotsky’s Place in History,” he did so as an affirmation of an
 empiricist methodology: “Trotsky claimed and irrefutably demonstrated
 that his history was scientific in that it flowed from the objective
 facts. He challenged anyone to question his documentation.”[^63]
@@ -770,7 +768,7 @@ narrative description of a political history that James adopts, and
 demands instead Marx’s properly scientific mode of analysis and his
 narrative presentation of a conceptual logic in a discursive form
 utterly distinct from the linearity of historiographic inquiry.[^64]
-What is more, that logic itself must be conceived differentially, as a
+What is more, the logic of *Capital* itself must be conceived differentially, as a
 dominant order of logical exposition (of the value-form) in
 overdetermined tension with other, heterogeneous orders that “interrupt
 and cut across the first,” delimiting and marking off the contingent
@@ -799,14 +797,14 @@ production enables a more encompassing critique of the discrepant
 multiplicity of any mode of production in transition. Transition, in
 this view, is not to be grasped as the idealist metamorphosis of the
 structure (the structure is, as Marx famously said, not the materialist
-real itself but made manifest only in its *reproduction* as a
+real itself, but in the form of its *reproduction* as a
 “thought-concrete” \[*Gedankenkonkretum*\]).[^67] Instead, the preceding
 analysis can hope to initiate consideration of transition as the complex
 “recombination of elements” in what Althusser famously named *décalage*,
 or noncorrespondence, the historical passage between the various
 divergent forms and temporalities of the legal, economic, productive and
 reproductive, racial, gendered, and political components of the
-historical transition from slavery to capitalism.[^68]
+historical transition from slavery to capitalism.
 
 ---
 
@@ -815,7 +813,7 @@ historical transition from slavery to capitalism.[^68]
     85–86.
 
 [^2]: C. L. R. James, *World Revolution, 1917–1936: The Rise and Fall of
-    the Communist International*, ed. Christian Høgsbjerg (1936; repr.,
+    the Communist International*, ed. Christian Høgsbjerg (1937; repr.,
     Durham, NC: Duke University Press, 2017). See, in particular,
     Høgsbjerg’s meticulous and illuminating introduction to this recent
     republication of one of James’s most important books. On James’s
@@ -840,7 +838,7 @@ historical transition from slavery to capitalism.[^68]
 
 [^5]: See James, *The Black Jacobins*, 283, 284. This is the case as
     well with the single other extensive reference to the proletariat in
-    The Black Jacobins, the memorable passage from the 1963 appendix,
+    *The Black Jacobins*, the memorable passage from the 1963 appendix,
     “From Toussaint Louverture to Fidel Castro,” that echoes the initial
     formulation I have cited. In his 1963 revision, James underscores
     the transformative force of “the large-scale agriculture of the
@@ -956,9 +954,9 @@ historical transition from slavery to capitalism.[^68]
     Logic*, texts that he critiqued intensively with Raya Dunayevskaya
     and the other members of the Johnson-Forrest Tendency, James never
     seems to have undertaken a similar critical appraisal of Marx’s
-    *Capital*. The one exception is his 1967 talk “Marx’s Capital, the
+    *Capital*. The one exception is his 1967 talk “Marx’s *Capital*, the
     Working-day, and Capitalist Production,” in which James discusses
-    not the concept of labor-power or the capitalist mode of production
+    not the concept of labor power or the capitalist mode of production
     (concepts at issue in the present essay) but chapter 10 of
     *Capital*, vol. 1, on the lived experience of class struggle over
     the duration of the working day: “\[Marx\] is concerned with what is
@@ -968,7 +966,7 @@ historical transition from slavery to capitalism.[^68]
     AK, 2009), 151. It is in any case certain that a central dimension
     of the intellectual project of the Johnson-Forrest Tendency in the
     1940s involved a close reading of Marx’s *Capital*, a reading the
-    group brought to bear against the their corresponding intensive
+    group brought to bear against their corresponding intensive
     study of Hegel’s *Logic*. Grace Lee Boggs observed in 1947, “As soon
     as C. L. R. discovered that I could read German and had studied
     Hegel, he had me translating sections of *Das Kapital* and comparing
@@ -989,14 +987,14 @@ historical transition from slavery to capitalism.[^68]
     1996), 30.
 
 [^16]: Le Robert, *Dictionnaire historique de la langue française*
-    (2018), s.v. “proletariat.”
+    (2018), s.v. “prolétariat.”
 
 [^17]: Two of Marx’s many citations gleaned from Capital, vol. 1: “One
     might almost say that modern society lives at the expense of the
     proletarians, on the portion of the wages of labour which it
     withdraws from their pockets” (Sismondi, qtd. on 207); “The
     proletarian, by selling his labour for a definite quantity of the
-    means of subsistence (approvisionnement ), renounces all claim to a
+    means of subsistence (*approvisionnement*), renounces all claim to a
     share in the product” (Charbuliez, qtd. on 718). J. C. L. Simonde de
     Sismondi, *Études sur l’économie politique*, vol. 1 (Bruxelles:
     Société Typographique Belge, 1837), 1:24; Antoine-Elisée Charbuliez,
@@ -1150,7 +1148,7 @@ historical transition from slavery to capitalism.[^68]
     sure, by James. On this founding theoretical distinction of Marx’s
     critique—developed from the very first paragraph of *Capital*—and
     its invisibility in traditional Marxism, see Postone, *Time, Labor,
-    and Social Domination*, 7–15.
+    and Social Domination*, 7–15. On the concept of Left Ricardianism—that is, the failure to clearly distinguish wealth from value and the consequent promotion of the redistribution of that wealth rather than the destruction of the capitalist mode of production—see Patrick Murray, “The Illusion of the Economic: The Trinity Formula and the ‘Religion of Everyday Life,’” in Martha Campbell and Geert Reuten, eds., *The Culmination of Capital: Essays on Volume III of Marx’s Capital* (New York: Palgrave 2002), 250–52.
 
 [^30]: Quoted in Josette Fallope, *Esclaves et citoyens: Les noirs à la
     Guadeloupe au XIXe siècle* (Basse Terre: Société d’histoire de la
@@ -1171,8 +1169,8 @@ historical transition from slavery to capitalism.[^68]
     his master” (1:377, 1032).
 
 [^33]: On the development of qualitative management practices in New
-    World slavery, see Caitlin Rosenthal, Accounting for Slavery:
-    Masters and Management (Cambridge, MA: Harvard University Press,
+    World slavery, see Caitlin Rosenthal, *Accounting for Slavery:
+    Masters and Management* (Cambridge, MA: Harvard University Press,
     2018); and Ian Baucom, *Specters of the Atlantic: Finance Capital,
     Slavery, and the Philosophy of History* (Durham, NC: Duke University
     Press, 2005).
@@ -1246,8 +1244,8 @@ historical transition from slavery to capitalism.[^68]
     took on more and more the character of social labor.” McLemee and Le
     Blanc, C. L. R. James and Revolutionary Marxism, 190. On the
     historical development of American slavery and capitalism, see
-    Clavin Schermerhorn, The Business of Slavery and the Rise of
-    American Capitalism, 1815–1860 (New Haven, CT: Yale University
+    Clavin Schermerhorn, *The Business of Slavery and the Rise of
+    American Capitalism, 1815–1860* (New Haven, CT: Yale University
     Press, 2015).
 
 [^40]: “On the plantation…near Basse Terre, it is not uncommon to see
@@ -1261,7 +1259,7 @@ historical transition from slavery to capitalism.[^68]
     On the economic, social, political, and historical decomposition of
     slavery in 1840s Guadeloupe, see 237–308.
 
-[^41]: On the methodology of Capital as a form-based, categorial—as
+[^41]: On the methodology of *Capital* as a form-based, categorial—as
     opposed to historical or empiricist—analysis of capitalism
     (specifically, as what Marx calls “value-form analysis”), see
     Postone, *Time, Labor, and Social Domination*, 123–44; Juan
@@ -1430,7 +1428,7 @@ historical transition from slavery to capitalism.[^68]
     (2017),
     <https://catalyst-journal.com/vol1/no1/slavery-capitalism-post>. See
     also Seymour Drescher, “Capitalism and Slavery after Fifty Years,”
-    *Slavery and Abolition* 18, no. 3 (1997): 212\_27.
+    *Slavery and Abolition* 18, no. 3 (1997): 212–27.
 
 [^61]: C. L. R. James, quoted in Paul Le Blanc, introduction to McLemee
     and Le Blanc, *C. L. R. James and Revolutionary Marxism*, 5. This is
@@ -1459,12 +1457,12 @@ historical transition from slavery to capitalism.[^68]
 [^65]: On this point, see Althusser’s long-neglected but essential
     reformulation of the problem of Marx’s methodology in his 1977
     preface to Gérard Duménil’s *Le concept de loi économique dans “Le
-    Capital*.*”* The preface, translated by G. M. Goshgarian, appears in
+    Capital.”* The preface, translated by G. M. Goshgarian, appears in
     *Rethinking Marxism* 30, no. 1 (2018): 4–24. While in this late text
     Althusser develops a brilliant interpretation of Marx’s methodology
     and the contingency of the latter’s analytical focus on valorization
     in *Capital*, this arguably culminates in Althusser’s problematic
-    (not to say symptomatic) hypostatization of “class struggle” as
+    (not to say symptomatic) hypostatization of the categories “use value, labour productivity, and—class struggle! \[*sic*\]” as
     heterogeneous to, rather than constituted by, the logic and social
     demands of valorization (20). For all its brilliance, in other
     words, Althusser’s remains a critique from the standpoint of labor
@@ -1483,5 +1481,3 @@ historical transition from slavery to capitalism.[^68]
     distinction between the real object of analysis and its reproduction
     as a “thought-concrete” in the analysis of *Capital*, see Iñigo
     Carrera, “Method.”
-
-[^68]: Toscano, “Transition Deprogrammed,” 768.
