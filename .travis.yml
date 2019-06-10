@@ -1,20 +1,23 @@
 language: ruby
-rvm:
-- 2.2.2
+  rvm:
+  - 2.2.2
+  before_install:
+  - bash ./utility/ConTeXt/install.sh
+  script:
+  - bundle exec jekyll build -d _site/sxarchipelagos
+  - bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html --allow-hash-href
+  - "./utility/ConTeXt/makeIssues.sh"
+  cache: bundler
 
-
-# Assume bundler is being used, therefore
-# the `install` step will run `bundle install` by default.
-
-script:
-- bundle exec jekyll build -d _site/sxarchipelagos
-- bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html --allow-hash-href
-
-
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GH_TOKEN  #  Alex, todo, set in repo settings: https://docs.travis-ci.com/user/deployment/pages/
+  keep_history: true
+  on:
+    branch: travis-pages
+  
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
-
-sudo: false # route your build to the container-based infrastructure for a faster build
-
-cache: bundler
+    - secure: Di7YvQOX8pug/i2AHfblVmBE/3eMz6dS7wwWBc8N4St3aMWebMk5KNfzzUGDJUXtfu98PSOYn/JX8cxTQDmcw78b8LJTqL8pnrbx7mOp9LBxlZlxkIjLgP8uUjiGxGn0Kfe5ipJznXLLwTBoovomr4yGcd1u+m6p791Z5AWorJU2/nMmWN3NhUJnlWrbJV4GPeTKYQHNIt4Ge9FXlTaKiVd4XdzeEE+xpVHQEWu/7H7cSdrfgss38O862YNJ2GxtDKea/AeCm2uOUUe+Im8kEIsU1/9p6osRAbKnBW2q0xglawALxpHFE568VOmxGyJyyjEwKCvrOYtytFqt4sdc4lwFGXdN9odOB7I2nN6ivH8NBkYxBnbWi4YTEcUNbZQZ16SH+GCnGdD4W9RgVqwDPHgDNSOtDXaOQ7XgluuCy9lePF1hzZfPQt0wfWVpE7wFXwbvVV1ErQliOOOyoIubZR7w0r9C/kgUbymaBhNgkP3jL3qERjWX2VFpGNwOkxqeUF/UKJj39JTwd2148DMVHKEecYlTbdRufilhw8rpEOB64L5Ugx1p/vw62q578pa00TNIuiKaNuEjcHxW+SMFYr4A9rO+umAwFZO8N+kKSIR0J9PN6eb82SURrvJuHzVsXfithIKa6grkdAyaT+9lopGpgDuZBTxK67UQKTsrsLE=
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
