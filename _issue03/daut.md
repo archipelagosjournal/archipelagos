@@ -1070,13 +1070,13 @@ Port-au-Prince and a formidable scholar in his own right, “for his
 unintended kindness in refusing to allow \[Nicholls\] access to the
 archives.” “If he had,” Nicholls writes, “I would probably have been
 faced with such daunting practical problems that this book might never
-have been finished.”[^85] Trouillot placed an immediate obstacle of
+have been finished.”[^84] Trouillot placed an immediate obstacle of
 access in Nicholls’s way. Maybe Nicholls didn’t have the right passcode
 (*Papa Legba,* *louvri barrye pou mwen*), but he had to make his own
 peace with this lack of access and move forward with the publication of
 his book anyway. I think that we, too, must remain unafraid of opacity,
 those moments when the archive refuses to speak to us, to make sense to
-us, or even to let us in.[^86] The fact remains that for a
+us, or even to let us in.[^85] The fact remains that for a
 variety of complicated reasons, most Haitian archives are not open to
 the general public.
 
@@ -1108,7 +1108,7 @@ memories of lost sovereignty hurt and are conjured up again and again
 when we study the history of early Haiti. “And the museums,” Aimé
 Césaire reminds us, “it would have been better not to have needed
 them….No, in the scales of knowledge all the museums in the world will
-never weigh so much as one spark of human sympathy.”[^87] One way to
+never weigh so much as one spark of human sympathy.”[^86] One way to
 work through this pain is to take it to the crossroads where the living
 and the dead, the colonial and the decolonial, have no choice but to
 interrogate one another. Drawing on the words of George Lamming from
@@ -1119,7 +1119,7 @@ language—not to curse our meeting—but to push it further, reminding the
 descendants of both sides that what’s done is done, and can only be seen
 as a soil from which other gifts, or the same gift endowed with
 different meanings, may grow towards a future which is colonized by our
-acts in this moment, but which must always remain open.”[^88]
+acts in this moment, but which must always remain open.”[^87]
 
 ---
 
@@ -1538,17 +1538,16 @@ acts in this moment, but which must always remain open.”[^88]
     12 September 2016,
     <https://networks.h-net.org/node/116721/discussions/143483/lakou-consciousness-myriam-ja-chancy-gives-academic-convocation>.
 
-
-[^85]: David Nicholls, *From Dessalines to Duvalier: Race, Colour, and
+[^84]: David Nicholls, *From Dessalines to Duvalier: Race, Colour, and
     National Independence in Haiti* (Cambridge: Cambridge University
     Press, 1979), xliii.
 
-[^86]: On opacity, see “One World in Relation: Édouard Glissant in
+[^85]: On opacity, see “One World in Relation: Édouard Glissant in
     Conversation with Manthia Diawara,” trans. Christopher Winks, *Nka*,
     no. 28 (Spring 2011): 14–15.
 
-[^87]: Aimé Césaire, *Discourse on Colonialism*, trans. Joan Pinkham
+[^86]: Aimé Césaire, *Discourse on Colonialism*, trans. Joan Pinkham
     (New York: Monthly Review, 1972), 71, 72.
 
-[^88]: George Lamming, *The Pleasures of Exile* (Ann Arbor: University
+[^87]: George Lamming, *The Pleasures of Exile* (Ann Arbor: University
     of Michigan Press, 1991), 15.
