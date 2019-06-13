@@ -573,7 +573,7 @@ of production (fig. 4).
 {% include image.html
     img="issue03/nesbitt-4.jpg"
     title="Aiguillier (detail)"
-    caption="Figure 4. “Aiguillier (detail)," from Diderot et al.,
+    caption="Figure 4. “Aiguillier (detail),” from Diderot et al.,
 *Encyclopédie*, vol. 1, plates."
     url="http://www.slaveryimages.org/details.php?categorynum=7&categoryName=New%20World%20Agriculture%20and%20Plantation%20Labor&theRecord=35&recordCount=114"
 %}
