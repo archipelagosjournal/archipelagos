@@ -11,106 +11,70 @@ author:
   shortname: Johnson
   bio: ""
 language: en
+special: multiverse
 ---
 
-**{EDITORS: Johnson prefers capped “Global North,” but *small axe* style
+EDITORS: Johnson prefers capped “Global North,” but *small axe* style
 is “global North.” Your call. Also, she refers to Lizabeth
 Paravisini-Gebert as Lisa. Paravisini-Gebert signs her emails “Lisa” but
-her essay says “Lizabeth.” Again, your call. See highlights.}**
-
+her essay says “Lizabeth.” Again, your call. See highlights.
 
 
 ## Slavery in the Machine
 
-<script
-src=‘https://edsu.github.com/multiverse/multiverse.js’></script>
-
 <div>
-
 i, <br>
 
 <ul class=“multiverse” data-multiverse-timer=“3000”>
-
-<li>the crosssroads</li>
-
-<li>spirit</li>
-
-<li>the dead</li>
-
-<li>the deathless</li>
-
-<li>the living</li>
-
-<li>humanity</li>
-
+    <li>the crosssroads</li>
+    <li>spirit</li>
+    <li>the dead</li>    
+    <li>the deathless</li>  
+    <li>the living</li>   
+    <li>humanity</li>
 </ul>
 
 carried <br>
 
 <ul class=“multiverse” data-multiverse-timer=“6000”>
-
-<li>the fractional</li>
-
-<li>the missing</li>
-
-<li>the destroyed</li>
-
+    <li>the fractional</li>
+    <li>the missing</li>
+    <li>the destroyed</li>
 </ul>
 
 (this, <br>
 
 <ul class=“multiverse” data-multiverse-timer=“3000”>
-
-<li>political and deliberate lost-in-translation</li>
-
-<li>masking</li>
-
-<li>testimony</li>
-
-<li><i>mi isla</i></li>)
-
+    <li>political and deliberate lost-in-translation</li>
+    <li>masking</li>
+    <li>testimony</li>
+    <li><i>mi isla</i></li>)
 </ul>
 
 for years <br>
 
 <ul class=“multiverse” data-multiverse-timer=“6000”>
-
-<li>of collaboration</li>
-
-<li>of accountability</li>
-
-<li>of community</li>
-
+    <li>of collaboration</li>
+    <li>of accountability</li>
+    <li>of community</li>
 </ul>
 
 and years <br>
 
 <ul class=“multiverse” data-multiverse-timer=“3000”>
-
-<li>of creating</li>
-
-<li>of remixing</li>
-
-<li>of redoing</li>
-
-<li>of recovering</li>
-
-</ul>\[footnote -
-
-This text is remixed with Ibeyi, “I Carried This for Years,” *Ash*
-(2017), using multiverse.js, a script built by Ed Summers.
-<multiverse.js> (Accessed 20 February 2019.)\]
+    <li>of creating</li>
+    <li>of remixing</li>
+    <li>of redoing</li>
+    <li>of recovering</li>
+</ul>
 
 </div>
 
-<script
-src=‘https://edsu.github.com/multiverse/multiverse.js’></script>
+footnote -
 
-</font>
-
-</head>
-
-</html>
+This text is remixed with Ibeyi, “I Carried This for Years,” *Ash*
+(2017), using multiverse.js, a script built by Ed Summers.
+<multiverse.js> (Accessed 20 February 2019.)
 
 French-Cuban songstresses Lisa-Kaindé Diaz and Naomi Diaz of Ibeyi wrote
 “Deathless” out of a haunting. Describing the inspiration behind the
@@ -310,6 +274,8 @@ artistic soul Linda Rodriguez (1978–2018). There are no words to
 describe the pain of losing her, a pain everyone who knew her shared.
 Linda, we miss you. We have more to learn from you. We continue to read,
 to study, and to listen.
+
+---
 
 [^1]: Alyssa Edes, “Ibeyi on Spirituality and Joy in ‘Ash,’” 4 October
     2017, https://www.kbbi.org/post/ibeyi-spirituality-and-joy-ash.
