@@ -17,8 +17,8 @@ editor:
 <h2 class="tagline">a small axe platform for digital practice</h2>
 
 
-## Issue (3)
+## Issue (3) | Slavery in the Machine | June 2019
 
-<blockquote>We dedicate this issue to Linda Rodriguez, who left us too soon.</blockquote>
+<p><em>We dedicate this issue to Linda Rodriguez, whose spirit now lights the way.</em></p>
 
 {% include toc.html issue=site.issue03 %}

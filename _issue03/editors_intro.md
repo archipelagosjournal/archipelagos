@@ -1,4 +1,21 @@
-**“The Caribbean Won’t Stand Still.”**
+---
+layout: page
+section: introduction
+issue: 3
+order: 1
+date: April 2019
+title: "The Caribbean Won’t Stand Still."
+doi: ""
+author: 
+- name: Kaiama L. Glover
+  shortname: Glover
+  bio: "[Kaiama L. Glover](https://barnard.edu/profiles/kaiama-l-glover) is Associate Professor of French and Africana Studies at Barnard College, Columbia University. She is the author of [Haiti Unbound: A Spiralist Challenge to the Postcolonial Canon](http://liverpooluniversitypress.co.uk/products/61903) (Liverpool UP 2010), first editor of [Marie Vieux Chauvet: Paradoxes of the Postcolonial Feminine](http://yalebooks.com/book/9780300214192/yale-french-studies-number-128) (Yale French Studies 2016), and translator of Frankétienne’s Ready to Burst (Archipelago Books 2014). She has received awards and fellowships from the National Endowment for the Humanities, the Mellon Foundation, and the Fulbright Foundation. Current projects include forthcoming translations of Marie Vieux Chauvet’s *Dance on the Volcano* (Archipelago Books) and René Depestre’s *Hadriana in All My Dreams* (Akashic Books), and the multimedia platform *In the Same Boats: Toward an Afro-Atlantic Visual Cartography*."
+- name: Alex Gil
+  shortname: Gil
+  bio: "[Alex Gil](http://www.elotroalex.com/) is the Digital Scholarship Librarian at Columbia University Libraries. His research and practice focuses on digital humanities, epistemic design, minimal computing, and Caribbean literature. He is co-founder and moderator of [Columbia's Group for Experimental Methods in Humanistic Research](http://xpmethod.plaintext.in/), and the Studio@Butler at Columbia University Libraries."
+language: en
+---
+
 
 Two of our articles in this issue lead with an epigraph by singular
 Trinidadian thinker C. L. R. James. Nick Nesbitt evokes the James who

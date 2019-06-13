@@ -1,6 +1,26 @@
-**The *Early Caribbean Digital Archive***
+---
+layout: article
+section: projects
+title: 
+  "long": "The *Early Caribbean Digital Archive*"
+  "short": "EACD"
+doi: ""
+author: 
+- name: Elizabeth Dillon
+  shortname: Dillon
+  bio: ""
+date: April 2019
+issue: 3
+order: 1
+image: 
+thumb: 
+link: "https://ecda.northeastern.edu/"
+language: en
+---
 
-**Review**
+## The *Early Caribbean Digital Archive*
+
+## *sx archipelagos* review
 
 The *[Early Caribbean Digital Archive](https://ecda.northeastern.edu/)*
 is a compelling platform that engages with the pitfalls and
@@ -75,6 +95,10 @@ On the whole, *The Early Caribbean Digital Archive* offers a useful and
 wide-ranging portal into significant materials from the plantation
 Americas and, as important, proposes compelling paths for querying and
 pushing against the constraints of the colonial record.
+
+## Response from the creators of *The Early Caribbean Digital Archive*
+
+---
 
 [^1]: “The Early Caribbean Digital Archive,”
     https://ecda.northeastern.edu/.
