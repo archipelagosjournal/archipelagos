@@ -16,7 +16,7 @@ extension="${filename##*.}"
 filename="${filename%.*}"
 
 echo Pandoc $filename
-pandoc --template $root/utility/ConTeXt/template.unitTest -f markdown -t context+smart --filter $root/utility/ConTeXt/contextStyles.py --wrap=none -o $filename.tex $1
+pandoc --template $root/utility/ConTeXt/template.unitTest -f markdown -t context --filter $root/utility/ConTeXt/contextStyles.py --wrap=none -o $filename.tex $1
 echo Postprocess $filename
 
 
