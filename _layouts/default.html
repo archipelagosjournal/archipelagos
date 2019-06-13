@@ -28,7 +28,7 @@
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script type="text/javascript" src="{{site.baseurl}}/public/js/main.js"></script>
-    <script src="https://edsu.github.com/multiverse/multiverse.js"></script>
+    <script src="{{site.baseurl}}/public/js/multiverse.js"></script>
     <script type="text/javascript">
     // adds a target="_blank" to any link that is not part of the current domain
 
@@ -45,22 +45,5 @@
 })();</script>
 
 <!-- Facebook SDK for JavaScript -->
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '837201816410405',
-      xfbml      : true,
-      version    : 'v2.6'
-    });
-  };
-
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
   </body>
 </html>

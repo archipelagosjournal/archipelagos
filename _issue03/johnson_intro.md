@@ -25,7 +25,7 @@ her essay says “Lizabeth.” Again, your call. See highlights.
 <div>
 i, <br>
 
-<ul class=“multiverse” data-multiverse-timer=“3000”>
+<ul class="multiverse" data-multiverse-timer="3000">
     <li>the crosssroads</li>
     <li>spirit</li>
     <li>the dead</li>    
@@ -36,7 +36,7 @@ i, <br>
 
 carried <br>
 
-<ul class=“multiverse” data-multiverse-timer=“6000”>
+<ul class="multiverse" data-multiverse-timer="6000">
     <li>the fractional</li>
     <li>the missing</li>
     <li>the destroyed</li>
@@ -44,7 +44,7 @@ carried <br>
 
 (this, <br>
 
-<ul class=“multiverse” data-multiverse-timer=“3000”>
+<ul class="multiverse" data-multiverse-timer="3000">
     <li>political and deliberate lost-in-translation</li>
     <li>masking</li>
     <li>testimony</li>
@@ -53,7 +53,7 @@ carried <br>
 
 for years <br>
 
-<ul class=“multiverse” data-multiverse-timer=“6000”>
+<ul class="multiverse" data-multiverse-timer="6000">
     <li>of collaboration</li>
     <li>of accountability</li>
     <li>of community</li>
@@ -61,7 +61,7 @@ for years <br>
 
 and years <br>
 
-<ul class=“multiverse” data-multiverse-timer=“3000”>
+<ul class="multiverse" data-multiverse-timer="3000">
     <li>of creating</li>
     <li>of remixing</li>
     <li>of redoing</li>
@@ -251,7 +251,7 @@ infinite literacies, accountable to black life, joy, and freedom
 projects around the world. Not dead, but deathless. Or, to remix another
 song by Ibeyi, we have carried
 
-<ul class=“multiverse” data-multiverse-timer=“3000”>
+<ul class="multiverse" data-multiverse-timer="3000">
 
 <li>the crosssroads</li>
 
