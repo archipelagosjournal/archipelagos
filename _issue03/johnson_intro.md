@@ -14,15 +14,9 @@ language: en
 special: multiverse
 ---
 
-EDITORS: Johnson prefers capped “Global North,” but *small axe* style
-is “global North.” Your call. Also, she refers to Lizabeth
-Paravisini-Gebert as Lisa. Paravisini-Gebert signs her emails “Lisa” but
-her essay says “Lizabeth.” Again, your call. See highlights.
 
-
-## Slavery in the Machine
-
-<div>
+<div class="epigraph">
+<blockquote>
 i, <br>
 
 <ul class="multiverse" data-multiverse-timer="3000">
@@ -44,12 +38,7 @@ carried <br>
 
 (this, <br>
 
-<ul class="multiverse" data-multiverse-timer="3000">
-    <li>political and deliberate lost-in-translation</li>
-    <li>masking</li>
-    <li>testimony</li>
-    <li><i>mi isla</i></li>)
-</ul>
+<ul class="multiverse" data-multiverse-timer="3000"><li>political and deliberate lost-in-translation</li><li>masking</li><li>testimony</li><li><i>mi isla</i></li>)</ul>
 
 for years <br>
 
@@ -67,37 +56,34 @@ and years <br>
     <li>of redoing</li>
     <li>of recovering</li>
 </ul>
-
+</blockquote>
+<p class="citation" style="font-size: small">Remix of Ibeyi, "I Carried This for Years," <em>Ash</em> (2017), using <em>multiverse.js</em> by Ed Summers.</p>
 </div>
 
-footnote -
-
-This text is remixed with Ibeyi, “I Carried This for Years,” *Ash*
-(2017), using multiverse.js, a script built by Ed Summers.
-<multiverse.js> (Accessed 20 February 2019.)
-
 French-Cuban songstresses Lisa-Kaindé Diaz and Naomi Diaz of Ibeyi wrote
-“Deathless” out of a haunting. Describing the inspiration behind the
+"Deathless" out of a haunting. Describing the inspiration behind the
 song, Lisa-Kaindé told the story of being harassed by a police officer
 in Paris at sixteen years old. The harassment only stopped when the
 police officer wrenched her bag from her hands and a book from it
-spilled on the floor. She related, “And I think he thought, ‘Oh, she
+spilled on the floor. She related, "And I think he thought, ‘Oh, she
 might be intelligent and have something in her head.’ So he just gave me
-my empty bag and left.”[^1] Against saxophonist Kamasi Washington’s
+my empty bag and left."[^p1] Against saxophonist Kamasi Washington’s
 lilting playing, two haunting verses narrate that moment of terror,
-evoking the confusion and fear of a teenaged girl who was, “Innocent /
-Sweet sixteen / Frozen with fear.” At the same time, in the breaks
+evoking the confusion and fear of a teenaged girl who was, "Innocent /
+Sweet sixteen / Frozen with fear." At the same time, in the breaks
 between these verses, the chorus of the song tells a different story.
 Defying the authority and threat embodied in the looming figure of the
-police officer, Ibeyi sings out in defiance, “Whatever happens, whatever
-happened / Oh hey / We are deathless / We are deathless.”
+police officer, Ibeyi sings out in defiance, "Whatever happens, whatever
+happened / Oh hey / We are deathless / We are deathless."
 
-This special issue of *sx archipelagos*, “Slavery in the Machine,” sings
+[^p1]: Alyssa Edes, "Ibeyi on Spirituality and Joy in ‘Ash,’" 4 October 2017, https://www.kbbi.org/post/ibeyi-spirituality-and-joy-ash.
+
+This special issue of *sx archipelagos*, "Slavery in the Machine," sings
 out with that same defiance. In the face of environmental catastrophes,
-“unpayable debt” levied by a global North created out of plantation
+"unpayable debt" levied by a global North created out of plantation
 profits, police and military violence, and the continued predations of
 US empire, the Caribbean and its diaspora refuse death. Our women,
-children, and men rebuke the “bad press” spoken in their name by
+children, and men rebuke the "bad press" spoken in their name by
 outsiders. Our artists refuse to be bound by the permutations of forced
 migration or nation-centric narratives of being, cleaving instead to
 affinities, networks, relations that cross islands and mainlands, race
@@ -118,8 +104,8 @@ language, then the contributors to this issue have dared to write it.
 What does the digital have to say, after all, to a region of the world
 that has often been framed as natural and primitive, exotic and
 excessive, but rarely as possessing its own indigenous technologies for
-unpacking the brutalities of the New World? The contributors to “Slavery
-in the Machine” speak across historiographies and archives, literatures
+unpacking the brutalities of the New World? The contributors to "Slavery
+in the Machine" speak across historiographies and archives, literatures
 and audiences to provide an array of answers. As a body, the
 contributions gathered here challenge readers to expand their frame in
 horizontal and vertical directions—to stand at the crossroads—and
@@ -158,42 +144,42 @@ digital that sets slavery, black life, or the Caribbean outside the
 analysis.
 
 The contributions to this issue offer a rich range of work to engage.
-“Slavery in the Machine” is composed of three essays, one hypertext
+"Slavery in the Machine" is composed of three essays, one hypertext
 experience, two project reflections, and one project review. In an essay
 on the stakes of and methodologies for producing new narratives of
-Haiti, Marlene Daut challenges scholars to “ensure that the new or
+Haiti, Marlene Daut challenges scholars to "ensure that the new or
 alternative narratives we encourage, craft, and center to oppose bad
 press will in fact not generate similarly, or perhaps newly, hostile and
-harmful images of Haiti.” Using the crossroads as her methodologic
+harmful images of Haiti." Using the crossroads as her methodologic
 sounding board and analyzing several digital projects that take up Haiti
 or the Haitian Revolution as their primary topic, Daut explores how
-“using multimodal archival methods to document the Haitian past can help
+"using multimodal archival methods to document the Haitian past can help
 us to better understand the political processes that drove Haitians to
 create and sustain an independent nation-state in the nineteenth
-century.” In “The Slave-Machine: Slavery, Capitalism, and the
-‘Proletariat’ in *The Black Jacobins* and *Capital*,” Nick Nesbitt
+century." In "The Slave-Machine: Slavery, Capitalism, and the
+‘Proletariat’ in *The Black Jacobins* and *Capital*," Nick Nesbitt
 explores the machinery of capitalism. Centering C. L. R. James’s claim
 in the iconic text *The Black Jacobins* that the enslaved of
-eighteenth-century Saint Domingue were “closer to a modern proletariat
-than any group of workers in existence at the time,” Nesbitt compares
+eighteenth-century Saint Domingue were "closer to a modern proletariat
+than any group of workers in existence at the time," Nesbitt compares
 the powerful political rhetoric in James’s text with Marx’s more narrow
-definition of *proletariat* and *capitalism*. In “Xroads Praxis: Black
-Diasporic Technologies for Remaking the New World,” I return to the
+definition of *proletariat* and *capitalism*. In "Xroads Praxis: Black
+Diasporic Technologies for Remaking the New World," I return to the
 devastation spread by Hurricane María and use the blackout created by
 the hurricane—a blackness so intense it could be seen from space—as a
 jumping off point for considering what missing data, black spaces,
 \#BlackTheory, and histories of slavery can do to humanize digitized
-data sets. By proposing an “xroads praxis,” I challenge digital
-humanists to explore “what digital and analog landscapes hide and
+data sets. By proposing an "xroads praxis," I challenge digital
+humanists to explore "what digital and analog landscapes hide and
 reveal, seeing them in their fullness after the storm of 1441/1492,
-finding black space on the map that does not conclude in black death.”
-Marisa Parham’s “Breaking, Dancing, Making in the Machine: Notes on
-.break .dance” proceeds to do precisely this work. Like Daut and me,
+finding black space on the map that does not conclude in black death."
+Marisa Parham’s "Breaking, Dancing, Making in the Machine: Notes on
+.break .dance" proceeds to do precisely this work. Like Daut and me,
 Parham uses the crossroads, but she expands her analysis to include
 movement and ephemerality as codes in and of themselves. Parham surfaces
 black diasporic knowledge as a constituent technology in the making of
 the New World. This groundbreaking essay is the highest form of
-humanistic study, digital or analog. Parham’s “.break .dance”
+humanistic study, digital or analog. Parham’s ".break .dance"
 exemplifies the kind of rigorous, creative, and challenging
 possibilities that unfold when black diasporic intellectual work is
 taken seriously, and digital tools and coding languages are learned for
@@ -214,8 +200,8 @@ transgressions occupied Spanish investigators and led to his execution
 (at the crossroads), and his story would seem to end with his death. But
 it is in his masking, that is, in the work he hid, destroyed,
 dissembled, and avoided discussing, that Ferrer and Rodriguez find
-inspiration. In “The Caribbean Digital and Open Peer Review: A *Musical
-Passage* Hypothesis,” Laurent Dubois, David Garner, and Mary Caton
+inspiration. In "The Caribbean Digital and Open Peer Review: A *Musical
+Passage* Hypothesis," Laurent Dubois, David Garner, and Mary Caton
 Lingold use the missing, the ephemeral, and the haunting echo of data as
 music and musical production to imagine community differently.
 Describing their process of peer review and the online forum they
@@ -223,7 +209,7 @@ created to discuss and share work related to *Musical Passage*, Dubois,
 Garner, and Lingold remind us that one of the many contributions
 technology offers scholars of the Caribbean and the African diaspora is
 the opportunity to find intellectual, political, and sonic kin by
-creating virtual spaces that transgress borders. Lisa Paravisini-Gebert,
+creating virtual spaces that transgress borders. Lizabeth Paravisini-Gebert,
 in her review of *Puerto Rico Syllabus* notes a similar community formed
 from Columbia University’s Unpayable Debt Working Group. In 2016 the
 Puerto Rico Oversight, Management, and Economic Stability Act (PROMESA),
@@ -236,14 +222,11 @@ austerity measures with evidence from across the disciplines and in a
 public format accessible to organizers, teachers, and laypeople on the
 ground.
 
-<script src=‘https://edsu.github.com/multiverse/multiverse.js’></script>
-
 <div>
-
 This special issue, with its wide range of themes, techniques, styles,
 methods, and applications, deals in black diasporic knowledge as a
-technology that has been like Aponte’s insurgent book—hidden “deep
-inside a trunk full of clothes” in “a pine box with a sliding top.” Not
+technology that has been like Aponte’s insurgent book—hidden "deep
+inside a trunk full of clothes" in "a pine box with a sliding top." Not
 absent, but hidden. Not lost, but secreted away. Never rejected, simply
 folded up for secret pleasure alone or with kin. Not accountable or even
 legible to institutions, but brimming with multiple legibilities and
@@ -252,23 +235,18 @@ projects around the world. Not dead, but deathless. Or, to remix another
 song by Ibeyi, we have carried
 
 <ul class="multiverse" data-multiverse-timer="3000">
-
-<li>the crosssroads</li>
-
-<li>spirit</li>
-
-<li>the dead</li>
-
-<li>the deathless</li>
-
-<li>the living</li>
-
-<li>humanity</li>
+    <li>the crosssroads</li>
+    <li>spirit</li>
+    <li>the dead</li>
+    <li>the deathless</li>
+    <li>the living</li>
+    <li>humanity</li>
+</ul>
 
 for years and years. In this issue, scholars of the Caribbean and the
 African diaspora offer a glimpse of that joy and burden and what it
-means to confront slavery in the machine.<br>
-
+means to confront slavery in the machine.</div>
+<br>
 This special issue is dedicated to scholar, organizer, and beautiful
 artistic soul Linda Rodriguez (1978–2018). There are no words to
 describe the pain of losing her, a pain everyone who knew her shared.
@@ -277,5 +255,4 @@ to study, and to listen.
 
 ---
 
-[^1]: Alyssa Edes, “Ibeyi on Spirituality and Joy in ‘Ash,’” 4 October
-    2017, https://www.kbbi.org/post/ibeyi-spirituality-and-joy-ash.
+
