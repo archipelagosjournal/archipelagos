@@ -1,0 +1,1 @@
+s#\\\{\\letterpercent\{\} include epigraph.html quote = \\quotation\{(.*)\} citation = \\quotation\{(.*)\} \\letterpercent\{\}\\\}#\\startblockquote\n\1\n\\stopblockquote \n\n\\startalignment[flushright]\n\\tfx{\2\}\n\\stopalignment\n\\blank[2*line]\n#g

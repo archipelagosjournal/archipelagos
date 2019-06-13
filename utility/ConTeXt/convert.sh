@@ -16,7 +16,7 @@ extension="${filename##*.}"
 filename="${filename%.*}"
 
 echo Pandoc $filename
-pandoc --template $root/utility/ConTeXt/template.unitTest --smart --normalize -f markdown -t context --filter $root/utility/ConTeXt/contextStyles.py --wrap=none -o $filename.tex $1
+pandoc --template $root/utility/ConTeXt/template.unitTest -f markdown -t context+smart --filter $root/utility/ConTeXt/contextStyles.py --wrap=none -o $filename.tex $1
 echo Postprocess $filename
 
 
@@ -25,7 +25,7 @@ ssed -r -i -f $root/utility/ConTeXt/thinrule.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/iframe.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/tables.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/titleItalics.ssed $filename.tex
-
+ssed -r -i -f $root/utility/ConTeXt/epigraph.ssed $filename.tex
 echo ConTeXt $filename, log into $3 
 
 cp $filename.tex $3/$filename.tex
