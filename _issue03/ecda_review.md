@@ -15,7 +15,7 @@ order: 1
 image: 
 thumb: 
 link: "https://ecda.northeastern.edu/"
-language: en
+
 ---
 
 ## The *Early Caribbean Digital Archive*

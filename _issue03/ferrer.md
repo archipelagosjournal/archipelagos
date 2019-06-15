@@ -8,7 +8,7 @@ doi: ""
 author:
 - name: Linda M. Rodriguez
   shortname: Rodríguez
-  bio: "Linda M. Rodriguez (1978–2018) earned her PhD in art history at Harvard University, where she wrote a dissertation on free black artists in colonial Havana, among them José Antonio Aponte. Rodríguez was Post-Doctoral Fellow in Art History and, later, Visiting Scholar at the Center for Latin American and Caribbean Studies at New York University. In addition to curating Digital Aponte, she collaborated in *Separados/Torn Apart*, a project that visualizes the geography and finances of the “zero-tolerance” immigration policy developed by ICE, and in Hablemos de La Habana (Let’s Talk about Havana), a collaborative forum about the city’s future organized by Friends of Havana and the World Monuments Fund. Linda passed away on 1 October 2018, just as the authors were starting to revise this article. Her brilliance, creativity, generosity, energy, and warmth were at the heart of the Digital Aponte project from the outset. We miss her deeply and honor her memory and spirit by carrying on the work she helped so many do."
+  bio: "Linda M. Rodriguez (1978–2018) earned her PhD in art history at Harvard University, where she wrote a dissertation on free black artists in colonial Havana, among them José Antonio Aponte. Rodríguez was Post-Doctoral Fellow in Art History and, later, Visiting Scholar at the Center for Latin American and Caribbean Studies at New York University. In addition to curating *Digital Aponte*, she collaborated in *Separados/Torn Apart*, a project that visualizes the geography and finances of the “zero-tolerance” immigration policy developed by ICE, and in *Hablemos de La Habana* (Let’s Talk about Havana), a collaborative forum about the city’s future organized by Friends of Havana and the World Monuments Fund. Dr. Rodriguez passed away on 1 October 2018, just as the authors were starting to revise this article."
 - name: Ada Ferrer
   shortname: Ferrer
   bio: "Ada Ferrer is Julius Silver Professor of History and Latin American and Caribbean Studies, New York University. She is author of the award-winning books *Insurgent Cuba: Race, Nation, and Revolution, 1868–1898* (University of North Carolina Press, 1999) and *Freedom’s Mirror: Cuba and Haiti in the Age of Revolution* (Cambridge University Press, 2014). She is currently the Andrew W. Mellon Foundation Fellow at the Cullman Center for Scholars and Writers at the New York Public Library, as well as a Guggenheim Foundation Fellow."
@@ -245,7 +245,7 @@ meant first making that archival record as accessible as possible.[^8]
 {% include image.html
     img="issue03/ferrer-1.png"
     title="Screenshot of Digital Aponte."
-    caption="Figure 1. Digital Aponte." %}
+    caption="Figure 1. *Digital Aponte*." %}
 
 *Digital Aponte* aspires to foreground Aponte’s words, through the
 archival document, as they have arrived to us. Our effort may be
@@ -577,8 +577,8 @@ nine (plus a gun).
 
 {% include image.html
     img="issue03/ferrer-2.jpg"
-    title="José Bedia Júbilo de Aponte."
-    caption="Figure 2. *Júbilo de Aponte*, 2017. Mixed media on mixed papers, 106 x 143 inches. Courtesy of the artist." %}
+    title="José Bedia, Júbilo de Aponte, 2017; mixed media on mixed papers, 106 x 143 in. (courtesy of the artist)."
+    caption="José Bedia, *Júbilo de Aponte*, 2017; mixed media on mixed papers, 106 x 143 in. (courtesy of the artist)." %}
 
 In many cases, the production of the art was preceded by sustained
 engagement with *Digital Aponte* or with the site’s creators. Here it
@@ -597,8 +597,8 @@ artistic and political practice and Aponte’s.
 
 {% include image.html
     img="issue03/ferrer-3.jpg"
-    title="José Bedia painting."
-    caption="Figure 3. *Aponte (Láminas 10-11)*, 2017. Pyrite, oil, graphite on wood panel, 21.5 x 36 x 2 inches overall. Courtesy of the artist and Lehmann Maupin, New York." %}
+    title="Figure 3. Teresita Fernández, Aponte, 2017; pyrite, oil, and graphite on wood panel, 21.5 x 36 x 2 in. overall (courtesy of the artist and Lehmann Maupin, New York; photograph by Yolanda Navas)."
+    caption="Figure 3. Teresita Fernández, *Aponte*, 2017; pyrite, oil, and graphite on wood panel, 21.5 x 36 x 2 in. overall (courtesy of the artist and Lehmann Maupin, New York; photograph by Yolanda Navas)." %}
 
 Another such conversation occurred with Renée Stout, who was
 particularly interested in what Aponte might have tried to hide or
