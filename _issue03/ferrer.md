@@ -577,7 +577,7 @@ nine (plus a gun).
 
 {% include image.html
     img="issue03/ferrer-2.jpg"
-    title="José Bedia, Júbilo de Aponte, 2017; mixed media on mixed papers, 106 x 143 in. (courtesy of the artist)."
+    title="José Bedia, *Júbilo de Aponte*, 2017; mixed media on mixed papers, 106 x 143 in. (courtesy of the artist)."
     caption="José Bedia, *Júbilo de Aponte*, 2017; mixed media on mixed papers, 106 x 143 in. (courtesy of the artist)." %}
 
 In many cases, the production of the art was preceded by sustained
@@ -597,7 +597,7 @@ artistic and political practice and Aponte’s.
 
 {% include image.html
     img="issue03/ferrer-3.jpg"
-    title="Figure 3. Teresita Fernández, Aponte, 2017; pyrite, oil, and graphite on wood panel, 21.5 x 36 x 2 in. overall (courtesy of the artist and Lehmann Maupin, New York; photograph by Yolanda Navas)."
+    title="Figure 3. Teresita Fernández, *Aponte*, 2017; pyrite, oil, and graphite on wood panel, 21.5 x 36 x 2 in. overall (courtesy of the artist and Lehmann Maupin, New York; photograph by Yolanda Navas)."
     caption="Figure 3. Teresita Fernández, *Aponte*, 2017; pyrite, oil, and graphite on wood panel, 21.5 x 36 x 2 in. overall (courtesy of the artist and Lehmann Maupin, New York; photograph by Yolanda Navas)." %}
 
 Another such conversation occurred with Renée Stout, who was
