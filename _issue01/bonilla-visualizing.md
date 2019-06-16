@@ -328,9 +328,7 @@ goal was to visually depict the large number of Caribbean societies
 color to portray the diversity of political forms in the region.
 
 {% include image.html
-            img="issue01/landon-map.jpg"            
-            title="Map created by Landon Yarrington in 2011."
-            caption="Figure 4. Map created by Landon Yarrington in 2011." %}
+    img="issue01/landon-map.jpg" title="Map created by Landon Yarrington in 2011." caption="Figure 4. Map created by Landon Yarrington in 2011." %}
 
 
 The creation of this map quickly revealed some of the challenges of
@@ -358,9 +356,9 @@ Caribbean (Belize, Guyana, Suriname, and Guiana). Once again, we used
 color to visually demarcate political jurisdictions.
 
 {% include image.html
-            img="issue01/blossom-map.jpg"            
-            title="Map created by Jeff Blossom and Yarimar Bonilla in 2015."
-            caption="Figure 5. Map created by Jeff Blossom and Yarimar Bonilla in 2015." %}
+    img="issue01/blossom-map.jpg" 
+    title="Map created by Jeff Blossom and Yarimar Bonilla in 2015."
+    caption="Figure 5. Map created by Jeff Blossom and Yarimar Bonilla in 2015." %}
 
 
 Although we played with size and scale, the map retains a sense of
@@ -392,9 +390,7 @@ entering into a "postcolonial" arrangement with their colonial
 centers.[^24]
 
 {% include image.html
-            img="issue01/temporal-map.jpg"            
-            title="Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015."
-            caption="Figure 6. Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015." %}
+    img="issue01/temporal-map.jpg" title="Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015." caption="Figure 6. Temporal map of the postcolonial Caribbean created by Jeff Blossom and Yarimar Bonilla in 2015." %}
 
 
 Organizationally, the temporal map poses several alternatives to a

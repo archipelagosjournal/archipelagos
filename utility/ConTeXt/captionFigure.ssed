@@ -1,1 +1,2 @@
 s#\\\{\\letterpercent\{\} include image.html img ?= ?\\quotation\{(.*)\} title ?= ?\\quotation\{(.*)\} caption ?= ?\\quotation\{(.*)\} \\letterpercent\{\}\\\}#\\placefigure[\1]\{\2\}\{\\externalfigure[\1]\}\n#g
+

@@ -29,6 +29,14 @@ ssed -r -i -f $root/utility/ConTeXt/epigraph.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/captionFigure.ssed $filename.tex
 echo ConTeXt $filename, log into $3 
 
+
+if [ $(grep --count "letterpercent{} include" $filename.tex) -gt 0 ]; then
+	grep --color --line-number --with-filename "letterpercent{} include" $filename.tex -r 
+	echo "*** ERROR: \t Untrapped include found! Fix!"
+	exit 1;
+fi
+
+
 cp $filename.tex $3/$filename.tex
 context --batchmode $filename.tex > $3/$filename.log 
 #echo Showing

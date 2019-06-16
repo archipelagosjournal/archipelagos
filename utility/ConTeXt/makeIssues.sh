@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -euo pipefail
+
 root=$(git rev-parse --show-toplevel)
 
  
@@ -53,7 +55,7 @@ for issuePath in $(find $root -maxdepth 1 -name "_issue*" -type d  ); do
 	mkdir -p $root/utility/log/$_issue/
 	for file in $(find . -name "*.md"); do
 
-		$root/utility/ConTeXt/convert.sh $file $root $output $root/utility/log/$_issue/
+		$root/utility/ConTeXt/convert.sh $file $root $root/utility/log/$_issue/
 	done	
 
 	cp *.pdf $root/assets/$issue/
