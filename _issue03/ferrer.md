@@ -244,7 +244,7 @@ meant first making that archival record as accessible as possible.[^8]
 
 {% include image.html
     img="issue03/ferrer-1.png"
-    title="Screenshot of Digital Aponte."
+    title="Screenshot of *Digital Aponte*."
     caption="Figure 1. *Digital Aponte*." %}
 
 *Digital Aponte* aspires to foreground Aponte’s words, through the
@@ -578,7 +578,7 @@ nine (plus a gun).
 {% include image.html
     img="issue03/ferrer-2.jpg"
     title="José Bedia, *Júbilo de Aponte*, 2017; mixed media on mixed papers, 106 x 143 in. (courtesy of the artist)."
-    caption="José Bedia, *Júbilo de Aponte*, 2017; mixed media on mixed papers, 106 x 143 in. (courtesy of the artist)." %}
+    caption="Figure 2. José Bedia, *Júbilo de Aponte*, 2017; mixed media on mixed papers, 106 x 143 in. (courtesy of the artist)." %}
 
 In many cases, the production of the art was preceded by sustained
 engagement with *Digital Aponte* or with the site’s creators. Here it
@@ -597,7 +597,7 @@ artistic and political practice and Aponte’s.
 
 {% include image.html
     img="issue03/ferrer-3.jpg"
-    title="Figure 3. Teresita Fernández, *Aponte*, 2017; pyrite, oil, and graphite on wood panel, 21.5 x 36 x 2 in. overall (courtesy of the artist and Lehmann Maupin, New York; photograph by Yolanda Navas)."
+    title="Teresita Fernández, *Aponte*, 2017; pyrite, oil, and graphite on wood panel, 21.5 x 36 x 2 in. overall (courtesy of the artist and Lehmann Maupin, New York; photograph by Yolanda Navas)."
     caption="Figure 3. Teresita Fernández, *Aponte*, 2017; pyrite, oil, and graphite on wood panel, 21.5 x 36 x 2 in. overall (courtesy of the artist and Lehmann Maupin, New York; photograph by Yolanda Navas)." %}
 
 Another such conversation occurred with Renée Stout, who was

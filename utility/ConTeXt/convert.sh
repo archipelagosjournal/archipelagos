@@ -5,7 +5,7 @@ if [ -z $1 ]; then
 	echo "./convert.sh foo.md"
 	exit 1;
 fi
-echo "Starting $1"
+echo "Starting $1. Root at: `pwd`"
 fullfile=$1
 
 root=$2
@@ -26,6 +26,7 @@ ssed -r -i -f $root/utility/ConTeXt/iframe.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/tables.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/titleItalics.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/epigraph.ssed $filename.tex
+ssed -r -i -f $root/utility/ConTeXt/captionFigure.ssed $filename.tex
 echo ConTeXt $filename, log into $3 
 
 cp $filename.tex $3/$filename.tex
