@@ -292,8 +292,8 @@ contractual demands of wage labor.[^25]
 
 The historical shift between plantation slave-based and
 industrial-capitalist modes of production in the eighteenth and
-nineteenth centuries was—from the categorial perspective of Marx’s
-critique of political economy—comprised neither a gradual, tendential
+nineteenth centuries—from the categorial perspective of Marx’s
+critique of political economy—neither comprised a gradual, tendential
 shift from the former to the latter, nor was it a matter of the size of
 manufactures and concentrations of laborers, as James implies in *The
 Black Jacobins*. Instead, Marx arguably identifies three key factors
@@ -476,7 +476,7 @@ developed across the three volumes of *Capital*, such that these
 incongruous and inconsistent *facts* might be subject to an analytical
 measure: if a well-off “slave” who employs his “master” for a wage to
 make from this labor a profit is perhaps not yet a capitalist, prior to
-gaining the legal entitlements of abolition he no longer, beyond any
+gaining the legal entitlements of abolition, he no longer, beyond any
 doubt, functions socially and economically as a slave.
 
 While much has been written on the relation of slavery and capitalism,
@@ -538,7 +538,7 @@ of production, when understood analytically rather than empirically, is
 radically discontinuous rather than linear and cumulative.[^46] In fact,
 he argues, the so-called “productive forces are not ‘things’ at all, but
 are instead to be conceived as a *relation* constituted by a pattern of
-arrangement and temporal ‘rhythm’ distinctive of the capitalist mode of
+arrangement and temporal ‘rhythm’ distinctive to the capitalist mode of
 production.”[^47]
 
 Balibar derives the nature of this “arrangement” from Marx’s
@@ -1000,7 +1000,7 @@ historical transition from slavery to capitalism.
     Société Typographique Belge, 1837), 1:24; Antoine-Elisée Charbuliez,
     *Richesse ou pauvreté* (Paris: A. Le Gallois, 1841), 14.
 
-[^18]: That one finds in Capital differing, even contradictory, uses and
+[^18]: That one finds in *Capital* differing, even contradictory, uses and
     definitions of the concept *proletariat* is not surprising, given
     the often rough and unfinished nature of its three volumes. While it
     is well known that after Marx’s death, Engels constructed volumes 2
@@ -1242,7 +1242,7 @@ historical transition from slavery to capitalism.
     over a hundred slaves. Division of labor increased. Slaves began to
     perform skilled labor, were hired out for wages. Slave production
     took on more and more the character of social labor.” McLemee and Le
-    Blanc, C. L. R. James and Revolutionary Marxism, 190. On the
+    Blanc, *C. L. R. James and Revolutionary Marxism*, 190. On the
     historical development of American slavery and capitalism, see
     Clavin Schermerhorn, *The Business of Slavery and the Rise of
     American Capitalism, 1815–1860* (New Haven, CT: Yale University
@@ -1313,7 +1313,7 @@ historical transition from slavery to capitalism.
     empiricist or historicist. To proceed from the enabling legal
     framework for the capitalist mode of production to the key factors
     whose particular arrangement determines its nature is to follow the
-    logic of a structural presentation with no inherent relation to the
+    logic of a structural presentation with no isomorphic relation to the
     historical, empirical supersession of capitalism over various
     precapitalist modes of production such as feudalism and plantation
     slavery.
@@ -1344,21 +1344,6 @@ historical transition from slavery to capitalism.
     volume 1, “Machinery and Large-Scale Industry.”
 
 [^53]: Balibar, “On the Basic Concepts of Historical Materialism,” 403.
-    Universal automation and the corresponding general elimination of
-    living labor from production is arguably the dominant tendency of
-    contemporary, posthuman capitalism. If this tendency that Marx first
-    identified analytically is now universally visible in its
-    contemporary, phenomenal forms of appearance, journalistic and
-    academic economic analysis—having long ago rejected Marx’s
-    conceptual framework as outdated—arguably merely registers their
-    phenomenal occurrence, while remaining unable to account
-    theoretically for such structural tendencies of capital as a general
-    and total social process. See Danielle Paquette, “He’s One of the
-    Only Humans at Work—and He Loves It,” *Washington Post*, 10
-    September 2018,
-    <https://www.washingtonpost.com/world/asia_pacific/hes-one-of-the-only-humans-at-work--and-he-loves-it/2018/09/09/71392542-9541-11e8-8ffb-5de6d5e49ada_story.html?noredirect=on&utm_term=.298c4864611d>.
-    See also Nick Nesbitt, “Posthuman Capitalism,” 2018,
-    <https://www.academia.edu/34055148/Posthuman_capitalism>.
 
 [^54]: Balibar, “On the Basic Concepts of Historical Materialism,” 403.
     “An organism of production,” Balibar continues, “is now no longer
