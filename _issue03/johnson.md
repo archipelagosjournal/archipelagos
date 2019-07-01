@@ -23,27 +23,13 @@ tweets as @jmjafrx."
 date: April 2019
 issue: 3
 order: 4
-abstract: "This essay offers “xroads praxis” as a black diasporic technology for exploring what digital and analog landscapes hide and reveal. Invoking
-the crossroads, where deals are made and past meets present, a xroads
-praxis centers black humanity on the other side of the trick/tragedy—the
-Middle Passage, after the hurricane, deep in the slave ship. At the
-crossroads, the things we make (hashtags, tweets, Instagram posts,
-multimedia exhibits, archives, and blogs) may remain or they may
-disappear, may break or may be stolen/archived/corrupted, even without
-our permission. But they haunt, they scream, and they remain accountable
-to the living and lived. Moving through the black space on the map of
-Puerto Rico after Hurricane María to the haunting compositions created
-by jazz saxophonist Matana Roberts, this essay engages, in atmospheric,
-musical, and visual form, with the ways blackness challenges
-technological conventions—and technology’s failure to contend with
-slavery’s past and empire’s present—as its own technology, one powerful
-enough to remake the New World."
+abstract: "This essay offers “xroads praxis” as a black diasporic technology for exploring what digital and analog landscapes hide and reveal. Invoking the crossroads, where deals are made and past meets present, a xroads praxis centers black humanity on the other side of the trick/tragedy—the Middle Passage, after the hurricane, deep in the slave ship. At the crossroads, the things we make (hashtags, tweets, Instagram posts, multimedia exhibits, archives, and blogs) may remain or they may disappear, may break or may be stolen/archived/corrupted, even without our permission. But they haunt, they scream, and they remain accountable to the living and lived. Moving through the black space on the map of Puerto Rico after Hurricane María to the haunting compositions created by jazz saxophonist Matana Roberts, this essay engages, in atmospheric, musical, and visual form, with the ways blackness challenges technological conventions—and technology’s failure to contend with slavery’s past and empire’s present—as its own technology, one powerful enough to remake the New World."
 language: en
 ---
 
 {% include epigraph.html
-    quote = "Memory ... dulls the lash<br>for the master, sharpens it for the slave."
-    citation = "Natasha Tretheway, “Native Guard”"
+    quote = "Memory ... dulls the lash/for the master, sharpens it for the slave."
+    citation = "Natasha Tretheway, “Native Guard.”"
 %}
 
 
@@ -171,8 +157,7 @@ fullness after the storm of 1441/1492, finding black space on the map
 that does not conclude in black death, requires exploring with a xroads
 praxis.[^9]
 
-Part 1. /*Black*/ Code 
----------------------------
+## Part 1. /*Black*/ Code 
 
 Confronting the Suomi image of black space in Puerto Rico brings to mind
 another image. In 2012, digital humanist Ben Schmidt created a data
@@ -204,7 +189,7 @@ tornadoes.”[^10]
 {% include image.html
     img="issue03/johnson-c.png"
     title="Johnson NOAA 20sep17\_maria\_geocolor hurricane"
-    caption=" NOAA GOES-16 satellite image of the eye of Hurricane María
+    caption="NOAA GOES-16 satellite image of the eye of Hurricane María
     over Puerto Rico, 20 September 2017."
     url="https://www.youtube.com/watch?v=ezQxonSFCaU" 
 %}
@@ -320,8 +305,7 @@ exceeded the register. Even in plain sight, black people who carried
 their own lanterns were not simply following the rules. They were
 masking, and the light was their mask.
 
-Part 2. \#BlackTheory
----------------------
+## Part 2. \#BlackTheory
 
 Excavating black life from the crossroads of death and forced
 illumination is an ethical project. Histories of slavery offer one
@@ -486,8 +470,7 @@ absconded figures, bodies in freedom, to offer a practicum on what, how,
 and who our digital selves could be if we dared to embrace the sensorium
 of hauntings left behind.
 
-Part 3. \*screams\*
--------------------
+## Part 3. \*screams\*
 
 {% include image.html
     img="issue03/johnson-audio-a.png"
@@ -753,8 +736,7 @@ intimate embodiments of violence. It offers an opportunity to look both
 into and at the data without losing emotion, sensation, and redress as a
 framing for black life.
 
-Part 4. We Keep the Light
--------------------------
+## Part 4. We Keep the Light
 
 Dark space and illumination represent the twin poles of commodification
 slavery necessitated. One occasioned the disappeared and dispossessed,
