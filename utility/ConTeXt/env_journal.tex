@@ -6,6 +6,7 @@
 \placebookmarks[chapter,subsection, subsubsection][chapter,subsection, subsubsection]
 
 
+
 \definefontfeature
   [default]
   [default]
@@ -15,6 +16,13 @@
 
 %\usemodule[simplefonts]
 %\setmainfont[xits][expansion=quality,protrusion=quality]
+
+\definefallbackfamily[main]
+                 [sans]
+                 [Noto Emoji]
+                 [tf=file: NotoColorEmoji.ttf
+                 range={miscellaneoussymbols,dingbats},force=yes]
+
 \definefontfamily[main]
                  [sans]
                  [Helvetica Neue]
@@ -31,6 +39,8 @@
                   sl=file:helveticaneuelightitalic,
                   expansion=quality,
                   protrusion=quality]
+
+                 
 %[tf=helveticaneuethin, it=helveticaneuelightitalic, sl=helveticaneuelightitalic, bf=helveticaneuebold, bi=helveticaneuelightitalic]
 
 %[tf=file:HelveticaNeueLight.ttf, em=file:HelveticaNeueLightItalic.ttf, expansion=quality,protrusion=quality,it=file:HelveticaNeueLightItalic.ttf, sl=file:helveticaneuelightitalic]

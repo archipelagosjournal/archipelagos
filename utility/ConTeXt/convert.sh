@@ -1,5 +1,5 @@
 #!/bin/bash
-set -euo pipefail
+#set -euo pipefail
 
 if [ -z $1 ]; then
 	echo "./convert.sh foo.md"
@@ -10,14 +10,24 @@ fullfile=$1
 
 root=$2
 
+Color_Off='\033[0m'       # Text Reset
+Red='\033[0;31m'          # Red
+
 
 filename=$(basename "$fullfile")
 extension="${filename##*.}"
 filename="${filename%.*}"
 
+if [ $(grep --count "[“”]" $fullfile) -gt 0 ]; then
+	echo -e "${Red}Don't use smartquotes! If you want nested quotes, use single and double quotes. Aborting."
+	exit 1
+fi
+
+
 echo Pandoc $filename
 pandoc --template $root/utility/ConTeXt/template.unitTest -f markdown -t context --filter $root/utility/ConTeXt/contextStyles.py --wrap=none -o $filename.tex $1
 echo Postprocess $filename
+
 
 
 ssed -r -i -f $root/utility/ConTeXt/hyphenated.ssed $filename.tex
@@ -32,13 +42,24 @@ echo ConTeXt $filename, log into $3
 
 if [ $(grep --count "letterpercent{} include" $filename.tex) -gt 0 ]; then
 	grep --color --line-number --with-filename "letterpercent{} include" $filename.tex -r 
-	echo "*** ERROR: \t Untrapped include found! Fix!"
+	echo -e "*** ERROR: \t Untrapped include found! Fix!"
 	exit 1;
 fi
 
 
 cp $filename.tex $3/$filename.tex
 context --batchmode $filename.tex > $3/$filename.log 
+contextmode=$?
+
+grep --color --line-number --with-filename "error" $3$filename.log -r 
+grep --color --line-number --with-filename ">>" $3$filename.log -r 
+grep --color --line-number --with-filename ": missing" $3$filename.log -r 
+
+if [ $contextmode -gt 0 ]; then
+		
+	echo -e "*** ERROR: \t ConTeXt Fatal Error! Read the log! ${3}${filename}.log "
+	exit 1;
+fi
 #echo Showing
 #subl contextRunLog.log
 #subl pandoc.log

@@ -8,10 +8,12 @@ doi: ""
 author:
 - name: Linda M. Rodriguez
   shortname: Rodríguez
-  bio: "Linda M. Rodriguez (1978–2018) earned her PhD in art history at Harvard University, where she wrote a dissertation on free black artists in colonial Havana, among them José Antonio Aponte. Rodríguez was Post-Doctoral Fellow in Art History and, later, Visiting Scholar at the Center for Latin American and Caribbean Studies at New York University. In addition to curating *Digital Aponte*, she collaborated in *Separados/Torn Apart*, a project that visualizes the geography and finances of the “zero-tolerance” immigration policy developed by ICE, and in *Hablemos de La Habana* (Let’s Talk about Havana), a collaborative forum about the city’s future organized by Friends of Havana and the World Monuments Fund. Dr. Rodriguez passed away on 1 October 2018, just as the authors were starting to revise this article."
+  bio: >
+  	Linda M. Rodriguez (1978–2018) earned her PhD in art history at Harvard University, where she wrote a dissertation on free black artists in colonial Havana, among them José Antonio Aponte. Rodríguez was Post-Doctoral Fellow in Art History and, later, Visiting Scholar at the Center for Latin American and Caribbean Studies at New York University. In addition to curating *Digital Aponte*, she collaborated in *Separados/Torn Apart*, a project that visualizes the geography and finances of the "zero-tolerance" immigration policy developed by ICE, and in *Hablemos de La Habana* (Let’s Talk about Havana), a collaborative forum about the city’s future organized by Friends of Havana and the World Monuments Fund. Dr. Rodriguez passed away on 1 October 2018, just as the authors were starting to revise this article.
 - name: Ada Ferrer
   shortname: Ferrer
-  bio: "Ada Ferrer is Julius Silver Professor of History and Latin American and Caribbean Studies, New York University. She is author of the award-winning books *Insurgent Cuba: Race, Nation, and Revolution, 1868–1898* (University of North Carolina Press, 1999) and *Freedom’s Mirror: Cuba and Haiti in the Age of Revolution* (Cambridge University Press, 2014). She is currently the Andrew W. Mellon Foundation Fellow at the Cullman Center for Scholars and Writers at the New York Public Library, as well as a Guggenheim Foundation Fellow."
+  bio: >
+  	Ada Ferrer is Julius Silver Professor of History and Latin American and Caribbean Studies, New York University. She is author of the award-winning books *Insurgent Cuba: Race, Nation, and Revolution, 1868–1898* (University of North Carolina Press, 1999) and *Freedom’s Mirror: Cuba and Haiti in the Age of Revolution* (Cambridge University Press, 2014). She is currently the Andrew W. Mellon Foundation Fellow at the Cullman Center for Scholars and Writers at the New York Public Library, as well as a Guggenheim Foundation Fellow.
 date: July 2017
 issue: 3
 order: 2
@@ -97,7 +99,7 @@ Spain; distant and local armies; Havana and the heavens. Authorities
 also soon learned that Aponte had shown the book to his coconspirators,
 explaining some of its images as a way to help prepare for the coming
 revolution. He had shown one companion the fascinating and complex
-“self-portrait” on pages 24 and 25, supposedly to help picture himself
+"self-portrait" on pages 24 and 25, supposedly to help picture himself
 as leader of a new order without slavery; he had shown them pictures of
 the camps of the black militias that had protected Havana against the
 British in 1762 to illustrate how their own rebel camps should be
@@ -134,7 +136,7 @@ book as a gift for the king of Spain, Ferrer searched in a section of
 the [Royal Palace
 Archives](https://www.patrimonionacional.es/colecciones-reales/archivo-general-de-palacio)
 called Locos y Anónimos, which houses letters and gifts to the Crown
-made by unknown or “insignificant” people.
+made by unknown or "insignificant" people.
 
 For the most part, these were old-fashioned analog searches that led to
 many interesting things but never to the book. Yet the book’s absence
@@ -151,7 +153,7 @@ book of paintings. Aponte’s descriptions of his work come to us through
 this complex, layered archival document. The layers of the archival
 record register the agency of the colonial state and Aponte himself. A
 colonial notary recorded Aponte’s words. As Kathryn Burns reminds us,
-notaries “gave records their words and final form”— making myriad
+notaries "gave records their words and final form"— making myriad
 decisions about how to edit the archival record.[^3] In addition to the
 decisions of the notary, we encounter the decisions of the judicial
 officials questioning Aponte as to the contents of his book of
@@ -168,10 +170,10 @@ the images, at times, in ways that evidence this ambiguity.[^4]
 The fragments of Aponte’s testimony, read through these layers, often
 appear as frustrating glimpses into the book, never quite complete. Yet
 as the powerful work of scholars of slavery demonstrates, grappling with
-the “impossibility of recovery” necessitates the improvisation of new
+the "impossibility of recovery" necessitates the improvisation of new
 historical methods.[^5] Engaging with fragments and silences forces us
-to see the archive as “home to the counter-narrative, or at least to its
-possibility.”[^6]
+to see the archive as "home to the counter-narrative, or at least to its
+possibility."[^6]
 
 For instance, Ferrer’s *Freedom’s Mirror* pursues one method of working
 within the archive to probe meanings in the book’s absent presence.
@@ -236,8 +238,8 @@ world in which Aponte lived and created.
 Here, the digital humanities—by fostering both critical methodological
 innovation and interdisciplinary collaboration—are especially promising.
 They provide frameworks for opening up the archive and engaging with the
-imperfect record available to us, reframing “the archive itself as a
-site of action rather than as a record of fixity of loss.”[^7] For
+imperfect record available to us, reframing "the archive itself as a
+site of action rather than as a record of fixity of loss."[^7] For
 curating our [*Digital Aponte*](http://aponte.hosting.nyu.edu/) project
 (see fig. 1), transforming Aponte’s descriptions into a site of action
 meant first making that archival record as accessible as possible.[^8]
@@ -249,14 +251,14 @@ meant first making that archival record as accessible as possible.[^8]
 
 *Digital Aponte* aspires to foreground Aponte’s words, through the
 archival document, as they have arrived to us. Our effort may be
-“predicated on impossibility,”[^9] but it aims to provide a platform for
+"predicated on impossibility,"[^9] but it aims to provide a platform for
 the kind of innovative methodology and collaboration that Aponte and his
-story require and deserve. First, under the tab labeled “Book of
-Paintings,” we introduce the archival document (“[Trial
-Transcript](http://aponte.hosting.nyu.edu/transcript/)”) by explaining
+story require and deserve. First, under the tab labeled "Book of
+Paintings," we introduce the archival document ("[Trial
+Transcript](http://aponte.hosting.nyu.edu/transcript/)") by explaining
 the circumstances of its production before presenting Aponte’s actual
 descriptions of his book
-(“[Láminas](http://aponte.hosting.nyu.edu/book-of-paintings/)”).
+("[Láminas](http://aponte.hosting.nyu.edu/book-of-paintings/)").
 
 Opening up the archive and attending to Aponte’s world also meant
 putting the archival record in conversation with Aponte as an
@@ -264,18 +266,18 @@ intellectual and artist. We wanted to engage with the possible
 influences that contributed to his development as a thinker and creator,
 ultimately leading to the production of the book of paintings. In this
 way, the archive inspired us to design the website so it also becomes a
-tool to communicate our “sense of history’s possibilities.”[^10] The
+tool to communicate our "sense of history’s possibilities."[^10] The
 digital allows for this capaciousness. We can present to the site viewer
 these aspects of Aponte all at once, individually, or sequentially. The
 historian and digital humanist Jessica Marie Johnson observes that this
-is the “nature of a form that is chimeric, elusive, and eerily
+is the "nature of a form that is chimeric, elusive, and eerily
 transparent at the same time—digital and social media cannot be read
-forward or back as if it were chapters in a book.”[^11] The design of
+forward or back as if it were chapters in a book."[^11] The design of
 the website presents the viewer with the ability to choose the order in
 which they engage with Aponte’s work of art and his ostensible formative
 influences. The viewer may choose to contemplate a recreation of
-Aponte’s library (“[Aponte’s
-Library](http://aponte.hosting.nyu.edu/apontes-library/)”), which
+Aponte’s library ("[Aponte’s
+Library](http://aponte.hosting.nyu.edu/apontes-library/)"), which
 consisted of a dozen volumes across a wide range of topics. Sometimes,
 when interrogators asked Aponte how he knew about a story he depicted in
 his book, he responded by citing a volume in his collection. By making
@@ -283,11 +285,11 @@ Aponte’s library accessible on the website, viewers can consider the
 written (and possibly illustrated) works that influenced Aponte’s
 intellectual formation and contributed to the construction of the book
 of paintings. Site users may also consider the visual culture of
-Aponte’s time, through an image gallery (“[Image
-Gallery](http://aponte.hosting.nyu.edu/havana-visual-culture/)”), and
+Aponte’s time, through an image gallery ("[Image
+Gallery](http://aponte.hosting.nyu.edu/havana-visual-culture/)"), and
 the possible sources of inspiration for both the content and form of his
 illustrations in the book of paintings. Lastly, a map of Havana
-(“[Aponte’s Havana](http://aponte.hosting.nyu.edu/apontes-havana/)”)
+("[Aponte’s Havana](http://aponte.hosting.nyu.edu/apontes-havana/)")
 plots sites relevant to Aponte’s life and also locations he represented
 in his book, providing the basis for the contemplation of Aponte’s own
 experience of Havana. *Digital Aponte* presents different *caminos*
@@ -297,8 +299,8 @@ caminos that Cuban *orichas* (deities) follow upon consecration.
 The Book, the Trial, and Collaborative Interpretation
 -----------------------------------------------------
 
-The “[Book of
-Paintings](http://aponte.hosting.nyu.edu/book-of-paintings/)” page
+The "[Book of
+Paintings](http://aponte.hosting.nyu.edu/book-of-paintings/)" page
 introduces the contents of Aponte’s book through a table that provides a
 link to each numbered image, describes the contents of that image, and
 indicates whether annotations are available. The table allows for the
@@ -307,9 +309,9 @@ to begin reading the book or to simply go directly to a page and start
 exploring. We wanted to create micro and macro ways to engage, so to
 speak, with the book. When the viewer clicks on a particular page of the
 book, she encounters the original Spanish text of the archival document
-on the left and, if applicable, an annotation sidebar (“Commentary”) on
-the right. Longer annotations can be expanded via a “Read More” link and
-collapsed via a “Read Less” link.
+on the left and, if applicable, an annotation sidebar ("Commentary") on
+the right. Longer annotations can be expanded via a "Read More" link and
+collapsed via a "Read Less" link.
 
 The collection of annotations of Aponte’s trial record is the part of
 the website that, we hope, will be most dynamic. Presently, the
@@ -339,9 +341,9 @@ collaboration and exchange. Aponte famously used the artistic practice
 of collage, fully a hundred years before the date art historians
 generally identify as its origin. Collage might itself be understood as
 a method that allows the creator literally to use the work of others.
-Aponte testified that “not being a painter, he bought different prints
+Aponte testified that "not being a painter, he bought different prints
 and paintings to take from them, or from used fans, that which fulfilled
-his idea.” As Linda Rodríguez has noted, Aponte repurposed others’
+his idea." As Linda Rodríguez has noted, Aponte repurposed others’
 images, using them to create his own meaning.[^13] Similarly, because he
 had less confidence in his drawing and painting skills, he sometimes had
 the apprentices in his carpentry workshop paint parts of some
@@ -494,8 +496,8 @@ memory of Aponte and his political and creative work.
 
 Just as the website incorporates Aponte’s Havana, it must also, of
 course, highlight Aponte the man. Currently the biography section of the
-website is minimal (“[José Antonio
-Aponte](http://aponte.hosting.nyu.edu/jose-antonio-aponte/)”). One of
+website is minimal ("[José Antonio
+Aponte](http://aponte.hosting.nyu.edu/jose-antonio-aponte/)"). One of
 the obvious areas in which further research on Aponte is needed is the
 genealogical. We know, for example, that his grandfather, Joaquín
 Aponte, was a captain in the Batallón de Morenos of Havana, Spain’s
@@ -625,7 +627,7 @@ protected it.
 Thinking about Aponte’s love for his book is a fitting way to introduce
 folks to both *Digital Aponte* and *Visionary Aponte*. Both are, we
 think, labors of love. They are a living monument to Aponte—not just to
-Aponte as “a fighter for freedom” but rather, or also, to the Aponte who
+Aponte as "a fighter for freedom" but rather, or also, to the Aponte who
 loved and cherished his own work as an artist, creator, historian,
 theorist. *Visionary Aponte* and *Digital Aponte* both help educate a
 broader public about the book and its creator, and they help expand an
@@ -645,7 +647,7 @@ recovery: somewhere finding Aponte’s long-lost and beloved book.
 Finding the book, however, is ultimately an improbable outcome. There is
 no guarantee that the book has survived in one piece. The fact that the
 book may not have had identifying information, such as Aponte’s name or
-a title (“Book of Paintings” is what authorities called it; we do not
+a title ("Book of Paintings" is what authorities called it; we do not
 know if Aponte gave it a name), means that, even if it survived, it may
 not be identifiable by whoever happens to come across it. Even, for the
 moment, imagining that the book can be found, we would still be unable
@@ -677,15 +679,15 @@ We wish to thank the Polonsky Foundation-NYU Digital Humanities Internship Progr
     Slavery in the Age of Revolution* (Durham, NC: Duke University
     Press, 2004); Matt Childs, *The 1812 Aponte Rebellion in Cuba and
     the Struggle Against Atlantic Slavery* (Chapel Hill: University of
-    North Carolina Press, 2006); Jorge Pavez Ojeda, “Expediente contra
+    North Carolina Press, 2006); Jorge Pavez Ojeda, "Expediente contra
     José Antonio Aponte y el sentido de las pinturas que se hayan en el
-    Libro que se le aprehendió en su casa: 1812,” *Anales de
+    Libro que se le aprehendió en su casa: 1812," *Anales de
     Desclasificación* 1, no. 2 (2006): 717–68; Jorge Pavez Ojeda,
-    “Lecturas de un códice afrocubano: Naturalismo, etiopismo y
+    "Lecturas de un códice afrocubano: Naturalismo, etiopismo y
     universalismo en el libro de José Antonio Aponte (La Habana, circa
-    1760–1812),” *Historia crítica* 45 (2011): 56–85; Jorge Pavez Ojeda,
-    “Painting of Black History: The Afro-Cuban Codex of José Antonio
-    Aponte (Havana, Cuba, 1812),” in Adrien Delmas and Nigel Penn, eds.,
+    1760–1812)," *Historia crítica* 45 (2011): 56–85; Jorge Pavez Ojeda,
+    "Painting of Black History: The Afro-Cuban Codex of José Antonio
+    Aponte (Havana, Cuba, 1812)," in Adrien Delmas and Nigel Penn, eds.,
     *Written Culture in Colonial Context: Africa and the Americas,
     1500–1900* (Leiden: Brill, 2012), 271–303; Ada Ferrer, *Freedom’s
     Mirror: Cuba and Haiti in the Age of Revolution* (Cambridge:
@@ -702,14 +704,14 @@ We wish to thank the Polonsky Foundation-NYU Digital Humanities Internship Progr
 [^4]: Ferrer, *Freedom’s Mirror*, 315.
 
 [^5]: Laura Helton, Justin Leroy, Max A. Mishler, Samantha Seeley, and
-    Shauna Sweeney, “The Question of Recovery: An Introduction,” *Social
+    Shauna Sweeney, "The Question of Recovery: An Introduction," *Social
     Text* 33, no. 4 (2015): 1.
 
-[^6]: Jennifer L. Morgan, “Archives and Histories of Racial Capitalism:
-    An Afterforward,” *Social Text* 33, no. 4 (2015): 154.
+[^6]: Jennifer L. Morgan, "Archives and Histories of Racial Capitalism:
+    An Afterforward," *Social Text* 33, no. 4 (2015): 154.
 
-[^7]: Lauren F. Klein, “The Image of Absence: Archival Silence, Data
-    Visualization, and James Hemings,” *American Literature* 85, no. 4
+[^7]: Lauren F. Klein, "The Image of Absence: Archival Silence, Data
+    Visualization, and James Hemings," *American Literature* 85, no. 4
     (2013): 665.
 
 [^8]: See *Digital Aponte*, aponte.hosting.nyu.edu. We would like to
@@ -717,25 +719,25 @@ We wish to thank the Polonsky Foundation-NYU Digital Humanities Internship Progr
     students Kris Minhae Choe and Eric Anderson to improving and
     enhancing *Digital Aponte*.
 
-[^9]: Saidiya Hartman, “Venus in Two Acts,” *Small Axe*, no. 26 (June
+[^9]: Saidiya Hartman, "Venus in Two Acts," *Small Axe*, no. 26 (June
     2008): 2–3.
 
-[^10]: Vincent Brown, “Mapping a Slave Revolt: Visualizing Spatial
-    History through the Archives of Slavery,” *Social Text* 33, no. 4
+[^10]: Vincent Brown, "Mapping a Slave Revolt: Visualizing Spatial
+    History through the Archives of Slavery," *Social Text* 33, no. 4
     (2015): 134.
 
-[^11]: Jessica Marie Johnson and Kismet Nuñez, “Alter Egos and Infinite
-    Literacies, Part III: How to Build a Real Gyrl in 3 Easy Steps,”
+[^11]: Jessica Marie Johnson and Kismet Nuñez, "Alter Egos and Infinite
+    Literacies, Part III: How to Build a Real Gyrl in 3 Easy Steps,"
     *The Black Scholar* 45, no. 4 (2015): 47.
 
 [^12]: As the annotations grow, the site will have to experiment with
     ways to present the annotations visually on the page, perhaps moving
     them to the bottom (rather than the side) of the screen or making
-    only the first line of the annotation visible before the “Read More”
+    only the first line of the annotation visible before the "Read More"
     link, for instance.
 
-[^13]: Linda Rodríguez, “‘No siendo pintor’: José Antonio Aponte and the
-    Possibilities of Art and Social Change in Colonial Havana,” in
+[^13]: Linda Rodríguez, "‘No siendo pintor’: José Antonio Aponte and the
+    Possibilities of Art and Social Change in Colonial Havana," in
     Zuleica Romay and Ada Ferrer, eds., *Los mundos de Aponte* (Havana:
     Instituto Juan Marinello, forthcoming).
 
@@ -743,8 +745,8 @@ We wish to thank the Polonsky Foundation-NYU Digital Humanities Internship Progr
     Who Became the First Revolutionary Abolitionist* (Boston: Beacon,
     2017).
 
-[^15]: See Laurent Dubois, “An Enslaved Enlightenment: Rethinking the
-    History of the French Atlantic,” Social History 31, no. 1 (2006):
+[^15]: See Laurent Dubois, "An Enslaved Enlightenment: Rethinking the
+    History of the French Atlantic," Social History 31, no. 1 (2006):
     1–14; and Susan Buck-Morss, *Hegel, Haiti, and Universal History*
     (Pittsburgh: University of Pittsburgh Press, 2009).
 
@@ -757,25 +759,25 @@ We wish to thank the Polonsky Foundation-NYU Digital Humanities Internship Progr
 
 [^18]: See María del Carmen Barcia, *Los ilustres apellidos: Negros en
     la Habana colonial* (Havana: Editorial de Ciencias Sociales, 2009);
-    and Carlos Venegas, “La conspiración de Aponte: Lugares de su
-    memoria,” in Romay and Ferrer, *Los Mundos de Aponte* (forthcoming).
+    and Carlos Venegas, "La conspiración de Aponte: Lugares de su
+    memoria," in Romay and Ferrer, *Los Mundos de Aponte* (forthcoming).
 
-[^19]: “José Antonio Aponte,” EcuRed,
+[^19]: "José Antonio Aponte," EcuRed,
     [https://www.ecured.cu/José\_Antonio\_Aponte](https://www.ecured.cu/José_Antonio_Aponte).
 
 [^20]: See Slave Societies Digital Archive,
     <https://www.slavesocieties.org/>.
 
-[^21]: “Legajo 4, Expte. 21. Diligencias para establecer una cofradía de
-    San José el Gremio de carpinteros, 1800,” Slave Societies Digital
+[^21]: "Legajo 4, Expte. 21. Diligencias para establecer una cofradía de
+    San José el Gremio de carpinteros, 1800," Slave Societies Digital
     Archive,
     [https://essss.library.vanderbilt.edu/islandora/object/essss%3A3824\#page/1/mode/1up](https://essss.library.vanderbilt.edu/islandora/object/essss%3A3824%23page/1/mode/1up).
-    See Jane Landers, “Catholic Conspirators? Religious Rebels in
-    Nineteenth-Century Cuba,” *Slavery and Abolition* 36, no. 3 (2015):
+    See Jane Landers, "Catholic Conspirators? Religious Rebels in
+    Nineteenth-Century Cuba," *Slavery and Abolition* 36, no. 3 (2015):
     495–520.
 
-[^22]: On the 1839 conspiracy, see Pavez Ojeda, “Expediente contra José
-    Antonio Aponte”; on La Escalera, see Aisha Finch, *Rethinking Slave
+[^22]: On the 1839 conspiracy, see Pavez Ojeda, "Expediente contra José
+    Antonio Aponte"; on La Escalera, see Aisha Finch, *Rethinking Slave
     Rebellion in Cuba: La Escalera and the Insurgencies of 1841–1844*
     (Chapel Hill: University of North Carolina Press, 2015).
 

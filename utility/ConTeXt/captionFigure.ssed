@@ -1,2 +1,5 @@
-s#\\\{\\letterpercent\{\} include image.html img ?= ?\\quotation\{(.*)\} title ?= ?\\quotation\{(.*)\} caption ?= ?\\quotation\{(.*)\} \\letterpercent\{\}\\\}#\\placefigure[\1]\{\2\}\{\\externalfigure[\1]\}\n#g
+s#\\\{\\letterpercent\{\} include image.html img ?= ?\\quotation\{(.*)\} url ?= ?\\quotation\{(.*)\} title ?= ?\\quot[atione]+\{(.*)\} caption ?= ?\\quot[atione]+\{(.*)\} \\letterpercent\{\}\\\}#\\placefigure[here]\{\\goto\{\3\}[url(\2)]\}{\\externalfigure[\1]\}\n#g
+
+
+s#\\\{\\letterpercent\{\} include image.html img ?= ?\\quotation\{(.*)\} title ?= ?\\quot[atione]+\{(.*)\} caption ?= ?\\quot[atione]+\{(.*)\} \\letterpercent\{\}\\\}#\\placefigure[here]\{\2\}\{\\externalfigure[\1]\}\n#g
 

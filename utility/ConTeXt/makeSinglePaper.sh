@@ -40,7 +40,8 @@ for issuePath in $(find $root -maxdepth 1 -name "$1" -type d  ); do
 	cd /tmp/$issue
 
 	cp $root/utility/ConTeXt/env_journal.tex .
-
+	cp $root/utility/ConTeXt/*.ttf .
+	
 	cp -r $root/images/$issue images
 
 	rm -rf /tmp/images
@@ -54,6 +55,7 @@ for issuePath in $(find $root -maxdepth 1 -name "$1" -type d  ); do
 	for file in $(find . -name "$2*" -a -name "*.md"); do		
 		
 		$root/utility/ConTeXt/convert.sh $file $root $root/utility/log/$_issue/
+
 	done	
 
 	cp *.pdf $root/assets/$issue/
