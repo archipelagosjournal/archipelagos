@@ -363,7 +363,9 @@ make this eminently clear (see fig. 1).
 
 {% include image.html
     img="issue03/nesbitt-1.jpg"
-    title="Tableau des Finances"
+    title="Figure 1. “Tableau des Finances et du Commerce de la partie
+Françoise de St. Domingue,” 1792 (detail). Copy in the John Carter Brown
+Library, Brown University."
     caption="Figure 1. “Tableau des Finances et du Commerce de la partie
 Françoise de St. Domingue,” 1792 (detail). Copy in the John Carter Brown
 Library, Brown University."
@@ -449,7 +451,7 @@ humans constituted legal, machinic property (see fig. 2).
 
 {% include image.html
     img="issue03/nesbitt-2.jpg"
-    title="Sucrerie"
+    title="Figure 2. “Sucrerie,” from Denis Diderot et al., *Encyclopédie, ou, Dictionnaire raisonné des sciences,des arts et des métiers…/ par Diderot \[et\] d’Alembert* (1751–71) (Parma: F. M. Ricci, 1970–79), vol. 1, plates."
     caption="Figure 2. “Sucrerie,” from Denis Diderot et al., *Encyclopédie, ou, Dictionnaire raisonné des sciences,des arts et des métiers…/ par Diderot \[et\] d’Alembert* (1751–71) (Parma: F. M. Ricci, 1970–79), vol. 1, plates." %}
 
 The complex, overdetermined historical process of the transition from
@@ -554,7 +556,8 @@ distinguishes them together from traditional handicraft (see fig.
 
 {% include image.html
     img="issue03/nesbitt-3.jpg"
-    title="Aiguillier"
+    title="Figure 3. “Aiguillier,” from Diderot et al., *Encyclopédie*,
+vol. 1, plates."
     caption="Figure 3. “Aiguillier,” from Diderot et al., *Encyclopédie*,
 vol. 1, plates." %}
 
@@ -572,7 +575,8 @@ of production (fig. 4).
 
 {% include image.html
     img="issue03/nesbitt-4.jpg"
-    title="Aiguillier (detail)"
+    title="Figure 4. “Aiguillier (detail),” from Diderot et al.,
+*Encyclopédie*, vol. 1, plates."
     caption="Figure 4. “Aiguillier (detail),” from Diderot et al.,
 *Encyclopédie*, vol. 1, plates."
     url="http://www.slaveryimages.org/details.php?categorynum=7&categoryName=New%20World%20Agriculture%20and%20Plantation%20Labor&theRecord=35&recordCount=114"
@@ -586,7 +590,7 @@ process (see fig. 5).
 
 {% include image.html
     img="issue03/nesbitt-5.jpg"
-    title="Récolte de l’indigo"
+    title="Figure 5. “Récolte de l’indigo,” from José Mariano da Conceição Velloso, *O fazendeiro do Brazil, cultivador* (Lisbon, 1806), vol. 2, plate 1, foldout following 341. Copy in the John Carter Brown Library, Brown University."
     caption="Figure 5. “Récolte de l’indigo,” from José Mariano da Conceição Velloso, *O fazendeiro do Brazil, cultivador* (Lisbon, 1806), vol. 2, plate 1, foldout following 341. Copy in the John Carter Brown Library, Brown University." %}
 
 The gradual, cumulative increases in productivity observable in the
@@ -614,7 +618,9 @@ fig. 6).
 
 {% include image.html
     img="issue03/nesbitt-6.png"
-    title="Sucrerie de betteraves, 1843"
+    title="Figure 6. “Intérieur de la Sucrerie de betteraves de Château
+Freyes, près de Villeneuve-St.-Georges,” *L’Ilustration Journal
+Universel*, 13 May 1843."
     caption="Figure 6. “Intérieur de la Sucrerie de betteraves de Château
 Freyes, près de Villeneuve-St.-Georges,” *L’Ilustration Journal
 Universel*, 13 May 1843." %}
