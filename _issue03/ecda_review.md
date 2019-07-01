@@ -6,8 +6,11 @@ title:
   "short": "EACD"
 doi: ""
 author: 
-- name: Elizabeth Dillon
+- name: Elizabeth Maddock Dillon
   shortname: Dillon
+  bio: ""
+- name: Nicole Aljoe
+  shortname: Aljoe
   bio: ""
 date: April 2019
 issue: 3
@@ -97,6 +100,120 @@ pushing against the constraints of the colonial record.
 
 ## Response from the creators of *The Early Caribbean Digital Archive*
 
+Nicole Aljoe *and* Elizabeth Maddock Dillon
+
+The [*Early Caribbean Digital Archive*](https://ecda.northeastern.edu/)
+is a collaborative platform that aims to engage its users in thinking
+about the coloniality of the archive of the early Caribbean and
+possibilities for decolonizing this archive. It is an archive that
+foregrounds the constructed nature of any archive and that—we
+hope—encourages user engagement in the process of knowledge curating and
+knowledge making, including revision and expansion of the materials on
+our site. In this respect, it remains a work-in-progress. For that
+reason, we are particularly grateful for the thoughtful review of the
+*ECDA* provided by *sx archipelagos*.
+
+Above all, the *ECDA* aims to use the digital nature of our archive to
+challenge existing modes of using and creating archives of colonialism.
+One of the key tenets that we have arrived at, as a team, is a
+commitment to a notion of the archive as a changing and changeable
+object—a notion of the archive as more *event* than object, as more an
+*encounter* than a knowledge base. And for that reason the biggest
+challenge (and excitement) of designing and developing the *ECDA* has
+been trying to use the affordances of a digital platform to shift how
+makers and users of archives might get their hands into the archive. How
+do we make it possible for users (and not just makers) to “stir the
+archive” and thus to perturb the knowledge structures that have made the
+enslaved and indigenous people of the early Caribbean so invisible and
+inaccessible to our existing accounts of history?[^resp1]
+
+We are pleased that the review of the *ECDA* notes two areas of success
+in this effort: our collection of embedded slave narratives and our
+classroom materials. By extracting embedded narratives of enslaved
+people from the texts of European colonial writers and placing them in
+the archive as discrete items with their own metadata, we aim to “remix”
+the archive and give pride of authorial place to new voices, as well as
+to challenge some of the metadata structures that have been used to
+shore up the coloniality of knowledge and power. The pages under the
+“Classroom” tab, which include guidelines about how one might use the
+embedded slave narratives in a class, work in tandem with the embedded
+slave narrative collection to invite people to explore what might be
+learned (or lost) from such processes of remix. In newer materials on
+the classroom pages, we also include sample assignments (and
+documentation) that invite students and users to identify additional
+embedded slave narratives for inclusion in the *ECDA* collection. We
+could not agree more with the review that our current collection is
+slim—indeed, it only begins to scratch the surface of what is possible.
+But in pioneering a method for building such a collection, we hope that
+we have opened the door for both our team and users of the archive to
+continue to expand the collection in exciting new directions.
+
+As we write this, the *ECDA* team of graduate students and faculty is
+preparing a series of workshops in collaboration with the National
+Archive of Barbados and the University of West Indies, Cave Hill.[^resp2] At
+these workshops, we will work with our partners in Barbados to invite
+university students, heritage professionals, and members of the public
+to transcribe runaway-slave advertisements from the recently digitized
+*Barbados Mercury* and to begin conducting further research into the
+narratives of the enslaved people whose lives are glimpsed—fugitively—in
+these ads. We are not entirely sure what will come of these workshops in
+terms of materials on our site. We do expect to add a section on
+runaway-slave ads to our collection of embedded slave narratives, but we
+also expect that collaborating with partners in Barbados may lead us in
+new directions that we have not yet considered. The collaboration may
+change the way we have been thinking about knowledge structures,
+histories, narratives, metadata, digital representation, digital access,
+and digital infrastructure; we are prepared and excited for that
+possibility.
+
+The review of the site usefully points out places of incompletion (such
+as a “Representing Slavery” link—we are working on it, we promise) and
+places where greater clarity could be offered to users. We have already
+made some of the changes suggested. But we are also committed to a few
+choices that the review questions. Overall, we see the *ECDA* as a site
+of engagement rather than as an argument on the order of an academic
+essay. For that reason, we include less language than our reviewers
+might wish to explicate our methodological engagement with the
+coloniality of the archive. We foreground citations of a number of
+important scholars/writers on our splash page because these quotes are
+incisive and provocative—they speak to the heart of the issue of
+colonial archive and do so in a way that invites thought rather than
+imparts “knowledge.” (Marisa Fuentes’s reference, in one such quotation,
+to the desirability of an “unbiased account” of history is one that she
+describes as a “disciplinary demand”—and thus one that she herself
+questions, as do we.)
+
+An additional question raised in the review about whether embedded slave
+narratives are “mere literary devices” is an important one. Are the
+“voices” of enslaved people in these embedded narratives so heavily
+mediated that they cannot count as the voices of the enslaved? This is a
+question that we hope users of the site and the collection of embedded
+slave narratives will consider. We also hope that users of the site will
+be able to discern the deeply mediated nature of all the texts and
+images collected in the archive: for example, the voice of Bryan
+Edwards—redacted through his editor, publisher, and readers—is also
+mediated and shaped as a literary device, much as [Clara’s
+voice](https://ecda.northeastern.edu/item/neu:m0415083s/) is within his
+text.[^resp3] Our scholarly introductions to items in the archive foreground
+the production, circulation, and reception histories of each item in
+order to make these multiple levels of mediation more evident and
+available to users of the archive.
+
+The review also suggests that we organize the entirety of the site
+around the collection of embedded slave narratives. We like that
+idea—except, we have more modes of digital remix on deck. We are
+working, for instance, on exhibits or clusters of “text networks”
+(including one on the Haitian Maroon and “lord of poison” Makandal) that
+map constellations of related texts across different genres and
+languages—from, for instance, trial transcript, to newspaper, to short
+story, to poem, to novel. We also have users who are designing exhibits
+around archival materials that they have uncovered. In short, we are
+working to offer a platform for collaborative engagement, and we expect
+more experimental models of remixing the archive to appear as we
+continue to work with new collaborators and explore new possibilities of
+digital curation and knowledge creation.
+
+
 ---
 
 [^1]: “The Early Caribbean Digital Archive,”
@@ -104,3 +221,15 @@ pushing against the constraints of the colonial record.
 
 [^2]: Mary Louise Pratt, *Imperial Eyes: Travel Writing and
     Transculturation* (New York: Routledge, 1992), 201.
+
+[^resp1]: On “stirring the archive,” see Lauren Klein, “The Carework and
+    Codework of the Digital Humanities,”
+
+    http://lklein.com/2015/06/the-carework-and-codework-of-the-digital-humanities/.
+
+[^resp2]: Warm thanks to our partners in Barbados, Amalia S. Levi, Tara
+    Inniss, and Ingrid Thompson, for making this possible.
+
+[^resp3]: See “The Narrative of Clara” (from Bryan Edwards, *The History,
+    Civil and Commercial, of the British Colonies in the West Indies*,
+    1793), under “Archive/Browse/Embedded Slave Narratives.”
