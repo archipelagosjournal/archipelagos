@@ -1,8 +1,8 @@
 ---
-layout: article
+layout: project
 section: projects
 title: 
-  "long": "The *Early Caribbean Digital Archive*"
+  "long": "The Early Caribbean Digital Archive"
   "short": "EACD"
 doi: ""
 author: 
@@ -12,13 +12,12 @@ author:
 date: April 2019
 issue: 3
 order: 1
-image: 
-thumb: 
+image: images/issue03/ecda.png
+thumb: images/issue03/ecda-thumb.png
 link: "https://ecda.northeastern.edu/"
 
 ---
 
-## The *Early Caribbean Digital Archive*
 
 ## *sx archipelagos* review
 
