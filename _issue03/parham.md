@@ -11,7 +11,7 @@ author:
   bio: "Marisa Parham is Professor of English at Amherst College, and directs the Immersive Reality Lab for the Humanities, which is an independent workgroup for digital and experimental humanities (irLh). irLh develops and incubates digital projects for AR, VR, and screen, and supports the work of digital scholars. Parham currently serves as faculty diversity and inclusion officer (FDIO) at Amherst College. Marisa Parham is also the author of *Haunting and Displacement in African-American Literature and Culture* (2008), *The African-American Student’s Guide to College* (1998), and is co-editor of *Theorizing Glissant: Sites and Citations* (2015)."
 date: April 2019
 issue: 3
-order: 4
+order: 5
 abstract: ".break .dance is a time-based web experience opened in response to xxx and xxx, thinking about “Slavery in the Machine.” In thinking through and against the machineries of commercial interface efficacy, this pocket intentionally shows its material and discursive seams. Rooted in a sense of anarchival play, it is designed for multiple engagements, changes over time, and assumes no one will take the same path through."
 language: en
 ---

@@ -27,7 +27,7 @@ Hall to demand the mayor's resignation. They also shifted the public
 conversation on gender-based violence away from what they deemed
 "victim-blaming" and "slut-shaming" toward one of state accountability
 and respect for women's autonomy and bodily integrity. The leaders of
-the feminist organization womantra were among those identified as
+the feminist organization womantra[^corr1] were among those identified as
 coordinating the protest action and media engagement. Womantra is one of
 the most vibrant, feminist Pan-Caribbean online spaces linked to
 on-the-ground action in Trinidad and Tobago. Such spaces serve as a key
@@ -967,3 +967,5 @@ rhetorical devices (5)
 [^61]: See Honor Ford-Smith, "Ring Ding in a Tight Corner: Sistren, Collective Democracy, and the Organization of Cultural Production," in M. Jacqui Alexander and Chandra Talpade Mohanty, eds., *Feminist Genealogies, Colonial Legacies, Democratic Futures* (New York: Routledge, 1997); Andaiye, *The Angle You Look from Determines What You See: Towards A Critique of Feminist Politics in the Caribbean*, Lucille Mathurin Mair Lecture series (Mona: Centre for Gender and Development Studies, University of the West Indies, 2002); Rawwida Baksh-Soodeen, "Issues of Difference in Contemporary Caribbean Feminism," *Feminist Review* 59 (June 1998): 74--85.
 
 [^62]: See Shona N. Jackson, *Creole Indigeneity: Between Myth and Nation in the Caribbean* (Minneapolis: University of Minnesota Press, 2012); and Melanie J. Newton, "Returns to a Native Land: Indigeneity and Decolonization in the Anglophone Caribbean," *Small Axe*, no. 41 (July 2013): 108--22.
+
+[^corr1]: (Correction issued 04/31/2019) While WOMANTRA was a key space for mobilisation of women, the protest was not organised by WOMANTRA's leadership but rather by activists Angelique Nixon and Atillah Springer.
