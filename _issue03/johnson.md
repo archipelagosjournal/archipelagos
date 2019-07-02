@@ -26,7 +26,7 @@ date: April 2019
 issue: 3
 order: 4
 abstract: >
-	This essay offers "xroads praxis" as a black diasporic technology for exploring what digital and analog landscapes hide and reveal. Invoking the crossroads, where deals are made and past meets present, a xroads praxis centers black humanity on the other side of the trick/tragedy—the Middle Passage, after the hurricane, deep in the slave ship. At the crossroads, the things we make (hashtags, tweets, Instagram posts, multimedia exhibits, archives, and blogs) may remain or they may disappear, may break or may be stolen/archived/corrupted, even without our permission. But they haunt, they scream, and they remain accountable to the living and lived. Moving through the black space on the map of Puerto Rico after Hurricane María to the haunting compositions created by jazz saxophonist Matana Roberts, this essay engages, in atmospheric, musical, and visual form, with the ways blackness challenges technological conventions—and technology’s failure to contend with slavery’s past and empire’s present—as its own technology, one powerful enough to remake the New World.
+	This essay offers "xroads praxis" as a black diasporic technology for exploring what digital and analog landscapes hide and reveal. Invoking the crossroads, where deals are made and past meets present, a xroads praxis centers black humanity on the other side of the trick/tragedy—the Middle Passage, after the hurricane, deep in the slave ship. At the crossroads, the things we make (hashtags, tweets, Instagram posts, multimedia exhibits, archives, and blogs) may remain or they may disappear, may break or may be stolen/archived/corrupted, even without our permission. But they haunt, they scream, and they remain accountable to the living and lived. Moving through the black space on the map of Puerto Rico after Hurricane María to the haunting compositions created by jazz saxophonist Matana Roberts, this essay engages, in atmospheric, musical, and visual form, with the ways blackness challenges technological conventions—and technology's failure to contend with slavery's past and empire's present—as its own technology, one powerful enough to remake the New World.
 language: en
 ---
 
@@ -75,13 +75,13 @@ international slave-trading merchants.
 
 Human catastrophe leaves a mark, a black spot in time and space. On 20
 September 2017, when Hurricane María made landfall on the island, the
-site of Christopher Columbus’s second so-called discovery and the
+site of Christopher Columbus's second so-called discovery and the
 birthplace of the New World, it swept bridges off their supports, tore
 leaves off the trees in the rainforest, drove wildlife into migration or
 into hiding. The electrical grid, already a battered, colonial
 infrastructure, fell to pieces, as did the water and sewage systems and
 other public services. San Juan, the capital, *el santo*, the herald of
-Spanish empire, bowed and flailed in Guabancex’s onslaught until,
+Spanish empire, bowed and flailed in Guabancex's onslaught until,
 finally, darkness reigned.[^2]
 
 But blackness in the blackened spaces hit hardest by Hurricane María
@@ -116,7 +116,7 @@ harassment of black islanders, shifted after the storm. Police wasted no
 time implementing and enforcing a curfew, including breaking up
 gathering spaces of dance and play—the kind that inevitably erupt when
 there is one working generator in a neighborhood and the night is long,
-hot, and dark. And in breaking news about the storm’s impact, social
+hot, and dark. And in breaking news about the storm's impact, social
 media queries circulated desperately and especially among Puerto Ricans
 in the United States searching for incommunicado kin; blackness appeared
 in the loss and mourning of a diaspora for its people—for those lost
@@ -143,7 +143,7 @@ wind and water and tears down the houses and uproots the trees."[^8]
 
 The black space on the map of Puerto Rico after the storm offers more
 than a referendum on an environmental event. It surfaces, in atmospheric
-and visual form, our failure to contend with slavery’s past and empire’s
+and visual form, our failure to contend with slavery's past and empire's
 present. This failure erupted in full hurricane force across the
 Caribbean as the archipelago paid the price of generations of extractive
 violence. And yet blackness as density of life is still there.
@@ -165,9 +165,9 @@ praxis.[^9]
 Confronting the Suomi image of black space in Puerto Rico brings to mind
 another image. In 2012, digital humanist Ben Schmidt created a data
 visualization of all the voyages in the US Maury collection. The Maury
-collection, eighty-eight microfilmed reels of historical ships’ weather
+collection, eighty-eight microfilmed reels of historical ships' weather
 logs produced between 1784 and 1863, became part of the International
-Comprehensive Ocean-Atmosphere Data Set in 2002. Schmidt’s image tracks
+Comprehensive Ocean-Atmosphere Data Set in 2002. Schmidt's image tracks
 all the voyages in black, plotted on a white background of vacated of
 land masses.
 
@@ -235,7 +235,7 @@ As a result, visibility offers little relief. On the other side of
 disappearing, for black and blackened subjects, lies the overindexed,
 overexposed voyeurism that accompanies images of death and destruction
 in places that look like Puerto Rico (or Haiti, Cuba, Brazil, and
-beyond). The West’s tropic and trope-ic desire for blackened flesh fed
+beyond). The West's tropic and trope-ic desire for blackened flesh fed
 European men for years through the writings of Moreau de St. Mery,
 Edward Long, Agostino Brunias, Jean-Baptiste Labat, John Stedman, and
 Michel Adanson, to name a few. Moving at the speed of the digital,
@@ -244,10 +244,10 @@ units, fiction and travel writers continue to render the islands, towns,
 and regions of the global South spaces of paradise and tourism, illicit
 desires and illegal release. In other words, visualizing blackness alone
 does its own damage to black humanity. It coughed up former president
-George W. H. Bush’s lurid laughter in a September 2005 press conference
+George W. H. Bush's lurid laughter in a September 2005 press conference
 on Hurricane Katrina, when he described New Orleans as a town where he
 used "to enjoy myself, occasionally too much." It excreted from
-President Trump’s statement that Haitian and African migrants to the
+President Trump's statement that Haitian and African migrants to the
 United States were coming from "shithole countries." These imperial
 discharges, tinged in white masculine voyeurism, claim to visualize
 blackness. But these men consume only black bodies, not black life.
@@ -259,7 +259,7 @@ Africans armed themselves and gathered in the city of New York.
 Buildings went up in flames. The mathematics of black resistance during
 the period of slavery often added up to this—a handful of white lives
 lost, a morass of black life extinguished, and a series of punitive
-legal and surveillance measures instituted. New York’s slave revolt
+legal and surveillance measures instituted. New York's slave revolt
 proved no exception. Ten white residents lost their lives. In
 retaliation, mobs attacked enslaved and free black residents of the
 town. Police arrested some seventy, others were assaulted in the deluge.
@@ -274,7 +274,7 @@ Laws like these encoded ocularity, visuality, illumination, and data
 collection as tools of power over black humanity for generations. The
 New York Lantern Laws demanded a mechanization of black being. A forced
 illumination. An exposure and an outing. In the presumed visibility cast
-by the lantern’s glow, slaveowners received a false sense of safety and
+by the lantern's glow, slaveowners received a false sense of safety and
 a skewed biometric of what people of African descent look like in the
 dark. Blackness indexed by empire loads deviance/death/devastation.
 Where the code ignores blackness, it allows white space on the map to do
@@ -291,7 +291,7 @@ Cramer and Alessandra Raengo write:
 > commands within its existing constraints, which we will call "black
 > coding."[^15]
 
-Taking Cramer and Raengo’s distinction seriously, Lantern Laws, the
+Taking Cramer and Raengo's distinction seriously, Lantern Laws, the
 Jones Act, Immigration and Customs Enforcement, the prison warden, the
 plantation overseer, or the barracoon provide containers for code work,
 but the wake work of attending to black life precedes and proceeds in
@@ -317,7 +317,7 @@ of slavery have been suffused with the drive for data. Historians of
 slavery were some of the first to take up computational and digital
 forms in an attempt to organize knowledge about bondage, the plantation
 complex, and the structure of African-descended life in the New World.
-In 1998, David Eltis and David Richardson’s *Trans-Atlantic Slave Trade
+In 1998, David Eltis and David Richardson's *Trans-Atlantic Slave Trade
 Database*, which launched a database containing almost thirty thousand
 Atlantic slave trade voyages, was just one of several databases and
 digital projects that emerged at the beginning of this century. In 2000,
@@ -372,7 +372,7 @@ forms:
 - Digital Humanities: digital humanities within academia
 - digital humanities: humanities work rendered digitally
 - Digital Media: content created online
-- digital practice: 💋💩😎🕷💦
+- digital practice: 
 
 The fourth form, digital practice, embraces the locus of hybrid,
 playful, fluid, and meta possibilities that the digital creates and
@@ -426,7 +426,7 @@ would never be enough."[^19]
 Xroads praxis evokes African diasporic intellectual and cultural
 production, where the crossroads plays a central role in systems of
 belief, cosmology, history, and social life. The crossroads is where,
-according to diasporic Yoruba practices and beliefs, Ellegua or Papa
+according to diasporic Yoruba practices and beliefs, Elegua or Papa
 Legba grants the humble petitioner-practitioner access to spirit world.
 The crossroads is linked, at times, to the Bakongo cosmogram, brought
 with enslaved Africans to the Americas and representing four temporal
@@ -446,12 +446,12 @@ famous blues musician, made his deal with the devil, giving up his soul
 for supernatural musical ability.
 
 The crossroads continues to be of contemporary cultural relevance to
-black people around the world. In hip-hop artist Common’s video for
+black people around the world. In hip-hop artist Common's video for
 "Black America, Again," a cosmogram was painted on the ground in front
-of Gilmor Homes, Freddie Gray’s neighborhood. It was sculpted into the
+of Gilmor Homes, Freddie Gray's neighborhood. It was sculpted into the
 floor of the Schomburg Center for Research in Black Culture by artist
 Houston Conwill. It was where black women wait for justice in Kimberlé
-Crenshaw’s theory of intersectionality. The crossroads is, in short,
+Crenshaw's theory of intersectionality. The crossroads is, in short,
 where worlds come together and break apart, good and evil meet to make
 deals, utter desperation meets otherworldly possibility, and spirit
 meets flesh, where a choice must be made but perhaps not just yet. It is
@@ -473,7 +473,7 @@ absconded figures, bodies in freedom, to offer a practicum on what, how,
 and who our digital selves could be if we dared to embrace the sensorium
 of hauntings left behind.
 
-## Part 3. \*screams\*
+## Part 3. *screams*
 
 {% include image.html
     img="issue03/johnson-audio-a.png"
@@ -481,35 +481,35 @@ of hauntings left behind.
     title="Pov Piti"
     caption="Pov Piti" %}
 
-The second track of Matana Roberts’s *Coin Coin Chapter One: Gens de
+The second track of Matana Roberts's *Coin Coin Chapter One: Gens de
 couleur libres* is titled "Pov Piti." *Pov Piti* means "poor little one"
 in Creole/Kreyol.[^21] "Pov Piti" is the title of a Creole folksong
 found along the Gulf Coast, most often referring to a woman who has lost
 the love of her life. Sometimes this woman is Lolotte; more often she is
 Mamzelle Zizi. One of the most cited versions of Mamzelle Zizi may be
-found in Louisiana Creole in Lyle Saxon’s 1945 *Gumbo Ya-Ya: Folk Tales
+found in Louisiana Creole in Lyle Saxon's 1945 *Gumbo Ya-Ya: Folk Tales
 of Louisiana*. Saxon, chronicler of Louisiana and New Orleans folklore
-and director of the Louisiana branch of the Federal Writers’ Project
+and director of the Louisiana branch of the Federal Writers' Project
 from 1935 to 1943, printed his version as Mamzelle Zizi mourning her
 lover. Jealous of her rival "who wears pretty clothes, which at that
 time consisted of a brilliant madras tignon, imported from the Indies, a
 gaily embroidered petticoat and earrings,"[^22] Mamzelle Zizi is
 inconsolable:
 
-> Pov’ piti Mamzelle Zizi!  
+> Pov' piti Mamzelle Zizi!  
 > Li gagnin bobo dans coeur!  
-> Pov’ piti Mamzelle,  
+> Pov' piti Mamzelle,  
 > Li gaignin tristesse dans coeur!  
 > 
 > Calalou porté madras,  
 > Li gagnin jupon brodé,  
 > Li gagnin des belles allures,  
-> Boucle d’oreilles en or tout pure.  
+> Boucle d'oreilles en or tout pure.  
 > 
 > \[*Saxon's Translation*\]  
-> (Poor lil’ Mamzelle Zizi!  
+> (Poor lil' Mamzelle Zizi!  
 > She has a pain in her heart!  
-> Poor lil’ Mamzelle Zizi,  
+> Poor lil' Mamzelle Zizi,  
 > She has sadness in her heart!)  
 > 
 > (Calalou wears madras,  
@@ -518,19 +518,19 @@ inconsolable:
 > Earrings made of pure gold.)[^23]
 
 In 1956, Adelaide van Wey sang an updated version, released by
-Smithsonian Folkways under the title "Pauv’ Piti’ Mom’zelle Zizi." A
-folk ballad meant to be sung on repeat, Van Wey’s intepretation had
+Smithsonian Folkways under the title "Pauv' Piti' Mom'zelle Zizi." A
+folk ballad meant to be sung on repeat, Van Wey's intepretation had
 three parts. Throughout the first two, Van Wey crooned throatily over a
 piano and zither in a dark lament. Entering the third part, a half step,
 a motif, quickened the pace, and the song shifted into dance tempo, Van
-Wey singing lightly over Mamzelle Zizi’s pain.[^24] Pov piti has
+Wey singing lightly over Mamzelle Zizi's pain.[^24] Pov piti has
 inspired other, even more upbeat versions, from New Orleans jazz icon
-Dr. John’s 2000 rendition of Mamzelle Zizi to the 2001 Orchestre
-Bourbon’s rendition (led by Georges Fourcade) of Mamzelle Zizi and
+Dr. John's 2000 rendition of Mamzelle Zizi to the 2001 Orchestre
+Bourbon's rendition (led by Georges Fourcade) of Mamzelle Zizi and
 recorded on the album *Le barde créole*.[^25]
 
 The pov piti invoked by Matana Roberts is not a Creole dance tune.
-Matana begins her version of this poor little girl’s story with silence,
+Matana begins her version of this poor little girl's story with silence,
 broken gently by melodic piano chords. Behind the piano are choked,
 coughing sounds, barely comprehensible, almost words. A wave of
 synth-electronic sound with percussive accents begins to flood in. As it
@@ -579,7 +579,7 @@ voice can be heard. Faint and femme, this ghost echoes everything
 spoken, the same historical narrative, but in French.
 
 Matana Roberts is a sound experimentalist, jazz saxophonist, composer
-and improviser. Born on Chicago’s South Side, Roberts currently resides
+and improviser. Born on Chicago's South Side, Roberts currently resides
 in New York City. *Coin Coin: Gens de Couleurs Libres* is the first
 chapter of her second project. The work is named after the formerly
 enslaved woman of African descent named Marie Thérèze Coincoin Metoyer,
@@ -588,7 +588,7 @@ Louisiana. Coin Coin was born a slave in 1742. Her owner, Louis
 Juchereau de St. Denis, was the commandant of Natchitoches when the
 rural outpost, some four miles north of New Orleans, was still under
 French control. In 1767, a yellow fever epidemic decimated the outpost,
-killing her mother and her owner. With St. Denis’s passing, ownership of
+killing her mother and her owner. With St. Denis's passing, ownership of
 Coin Coin passed to his youngest daughter, who leased her to Claude
 Thomas Pierre Metoyer. Coin Coin bore Metoyer several children, some of
 whom Metoyer then freed. In 1778, Metoyer finally freed Coin Coin
@@ -604,15 +604,15 @@ Metoyers and their extended families.[^27]
 Roberts, through family lore and history, learned she was descended from
 one of these children. She speaks in interviews about growing up steeped
 in references to her ancestress—including a grandfather who used to call
-Roberts "Coin Coin" to tease. Constellation Records, Roberts’s label,
+Roberts "Coin Coin" to tease. Constellation Records, Roberts's label,
 describes *Coin Coin* as "a multi-chapter work that combines conceptual
-scoring (graphic notation, ‘chance’ strategies), storytelling and
+scoring (graphic notation, 'chance' strategies), storytelling and
 historical narrative, performative theatre (personae, costume,
 multi-media), and a deeply considered channeling of personal ancestry
-and the ‘universal’ experience of Africans in America." Peter Margasak,
+and the 'universal' experience of Africans in America." Peter Margasak,
 writing for National Public Radio, framed Coin Coin even further: "She
 \[Roberts\] realized putting together fragments and snippets that
-wouldn’t serve much purpose on their own, could result in something new
+wouldn't serve much purpose on their own, could result in something new
 and meaningful."[^28]
 
 Roberts calls her technique "panoramic sound quilting," but her act of
@@ -635,7 +635,7 @@ SoundCloud for free.
 {% include image.html
     img="issue03/johnson-d.jpeg"
     title="Matana Roberts Notation"
-    caption="Roberts’s graphic notation for Coin Coin." 
+    caption="Roberts's graphic notation for Coin Coin." 
 %}
 
 In the process of composing *Mississippi Moonchile* and *River Run
@@ -661,22 +661,22 @@ abolition of the trade in 1808, reverberate against a chanting
 chorus.[^31]
 
 Hauntings and crossings—the sound of them, the emotion in them, and the
-sensation of them—dominate Matana’s project. In a 2015 interview,
+sensation of them—dominate Matana's project. In a 2015 interview,
 Roberts described her process:
 
 > I have a really big interest in the spirit world: spooks and the
-> things we can’t necessarily see but feel. An exploration of ghosts and
+> things we can't necessarily see but feel. An exploration of ghosts and
 > things of that nature. There was a period of my childhood where I
 > tried to contact people on that plane and I stopped doing that as a
 > teenager because I heard it can induce states of psychosis if you
-> don’t have a proper guide. So I left that and I realised that music is
+> don't have a proper guide. So I left that and I realised that music is
 > my medium, my guide.[^32]
 
 The song "Pov Piti," the *Coin Coin* project, and Matana Roberts herself
 form a singularity—an epicenter or node—of black digital practice and
-its relationship with slavery’s archive. Roberts and her ghosts pose
+its relationship with slavery's archive. Roberts and her ghosts pose
 critical questions and possibilities for what can and cannot be done
-with the data found in slavery’s archive, with digital and social media,
+with the data found in slavery's archive, with digital and social media,
 and historical narratives of bondage—particularly narratives of intimacy
 and sex, violence, and property. Roberts feared hearing voices would
 induce states of psychosis, then reframed her haunting against
@@ -685,11 +685,11 @@ created sonic histories where poor little enslaved girls scream,
 materialize on city streets, and spill themselves across blogs, grams,
 and tweets. Unafraid of emotion, Roberts rooted the unspeakable affect
 of the trade in her own mourning, even sounding out the cries heard in
-pov piti herself, in the wake of her mother’s death.[^33] She played
+pov piti herself, in the wake of her mother's death.[^33] She played
 with quantity, layering femme whispers upon femme whispers, one colonial
 language over another. Coin Coin is ("I am") regardless of whether there
 is visual proof ("There will never be any pictures of me"), and in
-Roberts’s creation, she time-travels from the past into a new present to
+Roberts's creation, she time-travels from the past into a new present to
 live again.
 
 {% include image.html
@@ -703,7 +703,7 @@ digital project space or site. Coin Coin, through Roberts, does what she
 could not in life—she absconds. She becomes Maroon code. The *Coin Coin*
 project escapes from written documents, the analog, and the archive. It
 transforms the use of digital tools as they become available and so
-transforms the listener-user’s relationship to sound, subjects, and
+transforms the listener-user's relationship to sound, subjects, and
 subjectivity, the living and the dead. At points, over and over, Coin
 Coin disappears from sight and reappears on sites in whispers and
 phantasms. It is possible to find, for instance, images Roberts
@@ -719,12 +719,12 @@ ephemeral and historically tangible, gives hauntings a power to use and
 be used in the service of a historical narrative that does not reproduce
 humans as solely nodes of data.
 
-Matana Roberts’s intellectual and creative works illustrate the kind of
+Matana Roberts's intellectual and creative works illustrate the kind of
 interventions black digital practice makes in conversations around
 digital humanities, justice, and history. Using digital tools to
-excavate slavery’s archive generates histories of intimate violence,
+excavate slavery's archive generates histories of intimate violence,
 torment, and dispossession. A digital praxis attuned to black life and
-not to slavery’s penchant for black death cannot ignore loss,
+not to slavery's penchant for black death cannot ignore loss,
 heartbreak, absence, and silence. Black digital practice makes space for
 this praxis, for black diasporic longing, insurgence, hauntings, and
 community mourning to inform how digital tools might be used to uncover
@@ -732,7 +732,7 @@ acts of resistance, insurgent politics, and evidence of self-fashioning.
 Black digital practice incorporates analog pasts; transgresses
 boundaries between institutions, communities, and individuals; and is
 unafraid of the ephemeral or incremental in comparison. In the black
-diasporic subterranean that is slavery’s archive, black digital practice
+diasporic subterranean that is slavery's archive, black digital practice
 has the potential to call into being the fluidity, dispersal, and
 mobility that has always existed alongside structural, personal, and
 intimate embodiments of violence. It offers an opportunity to look both
@@ -750,9 +750,9 @@ there and then attends to it.
 
 {% include image.html
     img="issue03/johnson-e.png"
-    title="Parham’s Inverted Maury Map"
+    title="Parham's Inverted Maury Map"
     caption="In "Black Haunts in the Anthropocene," Marisa Parham
-    inverts the white and black space in Schmdit’s data visualization."
+    inverts the white and black space in Schmdit's data visualization."
     url="http://blackhaunts.mp285.com/" 
 %}
 
@@ -761,7 +761,7 @@ Anthropocene" Parham writes:
 
 > I find the images haunting, but the dark lines of the triangle trade
 > are not sooty from centuries of moving Africans into new world
-> slavery, nor from moving the fruits of their labor to fuel others’
+> slavery, nor from moving the fruits of their labor to fuel others'
 > growth. They are dark because those sea roots were there before the
 > slave trade. This fact gives me a feeling of a timeless before and
 > after, which is difficult to reconcile with any sense of enduring
@@ -797,7 +797,7 @@ Gil, Kaiama Glover, and anonymous reviewers for their constructive
 critique of this essay; any mistakes are mine and mine alone. This work
 was incubated with and influenced by Clyde Woods; Katherine McKittrick;
 Rae Paris; Bettina Judd; \#Scenesat20, a symposium in honor of Saidiya
-Hartman’s *Scenes of Subjection* (particularly Fred Moten’s "Blackness
+Hartman's *Scenes of Subjection* (particularly Fred Moten's "Blackness
 Is X"); Yomaira Figueroa; Bianca Laureano of the LatiNegrxs Project;
 Mark Anthony Neal; students in the Black Code studies course I taught at
 Johns Hopkins University (Spring 2017); students in the \#femdh course I
@@ -848,16 +848,16 @@ Puerto Rico; and my grandmother, Mary Nuñez.
 [^5]: Powerful exceptions to this in the days immediately following the
     hurricane include Defend Puerto Rico
     ([http://www.defendpr.com](http://www.defendpr.com/)), Rosa
-    Clemente’s documentary unit PR on the Map (<http://pronthemap.com>),
+    Clemente's documentary unit PR on the Map (<http://pronthemap.com>),
     the Palabras for Puerto Rico initiative launched from Michigan State
     University (\#ProyectoPalabrasPR), and Afro-diasporic descendants on
-    the island and across the diaspora. See Yomaira Figueroa, "Borikén’s
+    the island and across the diaspora. See Yomaira Figueroa, "Borikén's
     Present Past or the Archive of Disappearances," *Yomaira C. Figuero,
     PhD* (blog), 1 October 2017,
     [http://www.yomairafigueroa.com/blog-1/2017/9/30/present-past-or-the-archive-of-disappearances](https://web.archive.org/web/20190223191402/http:/www.yomairafigueroa.com/blog-1/2017/9/30/present-past-or-the-archive-of-disappearances).
 
 [^6]: Benjamin Kentish, "Puerto Ricans Accuse Trump of Treating Them
-    ‘like Dogs’ during Disaster Visit," *Independent*, 5 October 2017,
+    'like Dogs' during Disaster Visit," *Independent*, 5 October 2017,
     [https://www.independent.co.uk/news/world/americas/trump-puerto-ricans-treat-like-dog-hurricane-maria-visit-accusation-a7985326.html](https://web.archive.org/web/20190223191455/https:/www.independent.co.uk/news/world/americas/trump-puerto-ricans-treat-like-dog-hurricane-maria-visit-accusation-a7985326.html).
 
 [^7]: Alexia Fernández Campbell, "It Took 11 Months to Restore Power to
@@ -912,7 +912,7 @@ Puerto Rico; and my grandmother, Mary Nuñez.
     [http://www.eblackstudies.org](https://web.archive.org/web/20190223192132/http:/www.eblackstudies.org/);
     Alondra Nelson, "Afrofuturism: Archive," 16 June 2011,
     [https://alondranelson.wordpress.com/2011/06/16/afrofuturism-archive](https://web.archive.org/web/20180711072802/https:/alondranelson.wordpress.com/2011/06/16/afrofuturism-archive/);
-    Moya Bailey and Ayana A. H. Jamieson, "Guest Editors’ Introduction:
+    Moya Bailey and Ayana A. H. Jamieson, "Guest Editors' Introduction:
     Palimpsests in the Life and Work of Octavia E. Butler," *Palimpsest:
     A Journal on Women, Gender, and the Black International* 6, no. 1
     (2017): v–xiii; Radical Women of Color Bloggers Blogring,
@@ -946,7 +946,7 @@ Puerto Rico; and my grandmother, Mary Nuñez.
     Press, 2016); Saidiya V. Hartman, Scenes of Subjection: Terror,
     Slavery, and Self-Making in Nineteenth-Century America (New York:
     Oxford University Press, 1997); Jennifer L. Morgan, "Accounting for
-    ‘the Most Excruciating Torment’: Gender, Slavery, and Trans-Atlantic
+    'the Most Excruciating Torment': Gender, Slavery, and Trans-Atlantic
     Passages," History of the Present 6 (2016): 184–207; Clyde Adrian
     Woods, Development Arrested: The Blues and Plantation Power in the
     Mississippi Delta (New York: Verso, 1998); Moya Bailey,
@@ -970,12 +970,12 @@ Puerto Rico; and my grandmother, Mary Nuñez.
     couleur libres*, CD (Constellation Records, 2011).
 
 [^22]: Lyle Saxon, Edward Dreyer, Robert Tallant, and the Louisiana
-    Writers’ Project, *Gumbo YA-YA: Folk Tales of Louisiana* (Boston:
+    Writers' Project, *Gumbo YA-YA: Folk Tales of Louisiana* (Boston:
     Houghton Mifflin, 1945), 436.
 
-[^23]: Ibid., 436–37 (Saxon’s translation).
+[^23]: Ibid., 436–37 (Saxon's translation).
 
-[^24]: Adelaide van Wey, "Pauv’ Piti’ Mom’zelle Zizi," *Street Cries and
+[^24]: Adelaide van Wey, "Pauv' Piti' Mom'zelle Zizi," *Street Cries and
     Creole Songs of New Orleans*, LP (Folkways Records RF 203 \[1964\],
     1956). Many thanks to musicologist Guthrie Ramsey for helping me put
     this recording in context; any mistakes are my own.
@@ -996,7 +996,7 @@ Puerto Rico; and my grandmother, Mary Nuñez.
     Coincoin: Cane River Slave, Slave Owner, and Paradox," in Janet
     Allured and Judith F. Gentry, eds., *Louisiana Women: Their Lives
     and Times* (Athens: University of Georgia Press, 2009); and Gary B.
-    Mills and Elizabeth Shown Mills, *The Forgotten People: Cane River’s
+    Mills and Elizabeth Shown Mills, *The Forgotten People: Cane River's
     Creoles of Color* (1997; repr., Baton Rouge: Louisiana State
     University Press, 2013).
 
@@ -1015,7 +1015,7 @@ Puerto Rico; and my grandmother, Mary Nuñez.
     Three: River Run Thee*, CD (Constellation Records, 2015).
 
 [^31]: George Lydiard Sulivan, *Dhow Chasing in Zanzibar Waters and on
-    the Eastern Coast of Africa: Narrative of Five Years’ Experiences in
+    the Eastern Coast of Africa: Narrative of Five Years' Experiences in
     the Suppression of the Slave Trade* (London: S. Low, Marston, Low,
     and Searle, 1873).
 
@@ -1027,8 +1027,8 @@ Puerto Rico; and my grandmother, Mary Nuñez.
     Roberts explained the context of the screams on the first volume:
     "My mother had passed away, maybe ten days before that was recorded.
     So those screams were therapeutic in a different kind of way. But
-    there’s a welcoming to them too—you know? We’re here, I’m alive,
-    let’s celebrate what we do have." Matana Roberts, quoted in Molly
+    there's a welcoming to them too—you know? We're here, I'm alive,
+    let's celebrate what we do have." Matana Roberts, quoted in Molly
     Sheridan, "Matana Roberts: Creative Defiance; Interview by Molly
     Sheridan," *New Music Box*, 1 February 2013,
     [https://nmbx.newmusicusa.org/matana-roberts-creative-defiance](https://web.archive.org/web/20190223193226/https:/nmbx.newmusicusa.org/matana-roberts-creative-defiance/).

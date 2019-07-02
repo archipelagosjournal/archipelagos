@@ -2,7 +2,7 @@
 layout: project
 section: projects
 title: 
-  "long": "The Early Caribbean Digital Archive"
+  "long": "Early Caribbean Digital Archive"
   "short": "EACD"
 doi: ""
 author: 
