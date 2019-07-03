@@ -4,7 +4,7 @@ section: introduction
 issue: 3
 order: 1
 date: April 2019
-title: "The Caribbean Won’t Stand Still."
+title: "The Caribbean Won't Stand Still"
 doi: ""
 author: 
 - name: Kaiama L. Glover

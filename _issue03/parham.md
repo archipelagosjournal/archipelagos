@@ -41,11 +41,10 @@ Sometimes .break .dance tempts the reader to look around, to notice how there 
 
 Sometimes .break .dance invites the reader to look underneath the text, to see what lies underneath thought, the other place a thought comes from and to glimpse what it might mean to launch to elsewhere. I use *tendwa* symbols to show where these places currently are. Based in Congolese cosmology to denote porosity between ancestral timespaces and the known world— dimensionality— a *tendwa* invites you to listen for what is thrumming on the lower frequencies. 
 
-.break .dance also asks readers to look behind the project, to notice citation and origin. Citation is always in process, because I have been learning how I do not always know where things are coming from. I have switched my citational practice into a meditative practice, so those pages are always growing out by growing back. You can read a bit about the background for the project here.
+.break .dance also asks readers to look behind the project, to notice citation and origin. Citation is always in process, because I have been learning how I do not always know where things are coming from. I have switched my citational practice into a meditative practice, so those pages are always growing out by growing back. You can read a more about the background in "[Breaking, Dancing, Making in the Machine: Notes on .break .dance]({{site.baseurl}}/issue03/break-dance-process/index.html)," or you can begin .break .dance by clicking on the image below.
 
 ---
 
-To access the project click [here]({{site.baseurl}}/issue03/break-dance/index.html){: target="_blank"}.
+[![.break .dance link]({{site.baseurl}}/images/issue03/bd-enter.png)]({{site.baseurl}}/issue03/break-dance/index.html#go){:target="_blank"}
 
-To access the project process piece click [here]({{site.baseurl}}/issue03/break-dance-process/index.html){: target="_blank"}.
 
