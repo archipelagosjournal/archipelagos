@@ -2,8 +2,8 @@
 layout: article
 section: articles
 title: 
-  "long": "Break Dance"
-  "short": "Break Dance"
+  "long": ".break .dance"
+  "short": ".break .dance"
 doi: "doi:10.7916/D812651T"
 author: 
 - name: Marisa Parham  
@@ -18,7 +18,7 @@ abstract: >
 language: en
 ---
 
-## Opening
+## Brief Introduction
 
 .break .dance is an ongoing research pocket opened by Marisa Parham, with support from the irlH team. 
 
