@@ -21,12 +21,11 @@ author:
     Journal*; *Bitch Magazine*; *Black Perspectives* (AAIHS);
     *Somatosphere*; and *Post-Colonial Digital Humanities* (*DHPoco*). She
     tweets as @jmjafrx.
-
 date: April 2019
 issue: 3
 order: 4
 abstract: >
-    This essay offers "xroads praxis" as a black diasporic technology for exploring what digital and analog landscapes hide and reveal. Invoking the crossroads, where deals are made and past meets present, a xroads praxis centers black humanity on the other side of the trick/tragedy—the Middle Passage, after the hurricane, deep in the slave ship. At the crossroads, the things we make (hashtags, tweets, Instagram posts, multimedia exhibits, archives, and blogs) may remain or they may disappear, may break or may be stolen/archived/corrupted, even without our permission. But they haunt, they scream, and they remain accountable to the living and lived. Moving through the black space on the map of Puerto Rico after Hurricane María to the haunting compositions created by jazz saxophonist Matana Roberts, this essay engages, in atmospheric, musical, and visual form, with the ways blackness challenges technological conventions—and technology's failure to contend with slavery's past and empire's present—as its own technology, one powerful enough to remake the New World.
+    This essay offers "xroads praxis" as a black diasporic technology for exploring what digital and analog landscapes hide and reveal. Invoking the crossroads, where deals are made and past meets present, a xroads praxis centers black humanity on the other side of the trick/tragedy—the Middle Passage, after the hurricane, deep in the slave ship. At the crossroads, the things we make (hashtags, tweets, Instagram posts, multimedia exhibits, archives, and blogs) may remain or they may disappear, may break or may be stolen/archived/corrupted, even without our permission. But they haunt, they scream, and they remain accountable to the living and lived. Moving through the black space on the map of Puerto Rico after Hurricane María to the haunting compositions created by jazz saxophonist Matana Roberts, this essay engages, in atmospheric, musical, and visual form, with the ways blackness challenges us to remake the New World.
 language: en
 ---
 
@@ -160,7 +159,7 @@ fullness after the storm of 1441/1492, finding black space on the map
 that does not conclude in black death, requires exploring with a xroads
 praxis.[^9]
 
-## Part 1. /*Black*/ Code 
+## Part 1. <!––Black––> Code 
 
 Confronting the Suomi image of black space in Puerto Rico brings to mind
 another image. In 2012, digital humanist Ben Schmidt created a data
@@ -384,7 +383,6 @@ research ethics from theoretical frameworks, research methodologies, and
 narrative structures (in short, \#BlackTheory) developed in Black
 studies:
 
-
 - blues epistemology \| Woods
 - wake work \| Sharpe
 - dark sousveillance \| Browne
@@ -478,8 +476,8 @@ of hauntings left behind.
 {% include image.html
     img="issue03/johnson-audio-a.png"
     url="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/12068585&auto_play=false&show_user=true&visual=true"
-    title="Pov Piti"
-    caption="Pov Piti" %}
+    title="Light a candle. Drink a glass of water. Press Play. Listen for two minutes."
+    caption="Light a candle. Drink a glass of water. Press Play. Listen for two minutes." %}
 
 The second track of Matana Roberts's *Coin Coin Chapter One: Gens de
 couleur libres* is titled "Pov Piti." *Pov Piti* means "poor little one"
