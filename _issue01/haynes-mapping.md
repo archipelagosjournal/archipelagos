@@ -8,11 +8,13 @@ doi: "10.7916/D8HM58J8"
 author: 
 - name: Tonya Haynes
   shortname: Haynes
-  bio: "Tonya Haynes lectures at the Institute for Gender and Development Studies: Nita Barrow Unit, blogs on redforgender.wordpress.com, and is a founding member of CODE RED for gender justice! and CatchAFyah Caribbean Feminist Network. She holds a PhD from the University of the West Indies and researches in the area of Caribbean feminisms and Caribbean Feminist Thought. Her work has been published in *Global Public Health* and *Small Axe: A Journal of Caribbean Criticism*."
+  bio: >
+    Tonya Haynes lectures at the Institute for Gender and Development Studies: Nita Barrow Unit, blogs on redforgender.wordpress.com, and is a founding member of CODE RED for gender justice! and CatchAFyah Caribbean Feminist Network. She holds a PhD from the University of the West Indies and researches in the area of Caribbean feminisms and Caribbean Feminist Thought. Her work has been published in *Global Public Health* and *Small Axe: A Journal of Caribbean Criticism*.
 date: May 2016
 issue: 1
 order: 4
-abstract: "Caribbean cyberfeminisms are diverse, heterogeneous, and polyvocal. Networks may be simultaneously national, regional, global, transnational, and diasporic. Through practices of media creation, curating, (re)blogging, (re)tweeting, sharing, and commenting across multiple social media platforms, Caribbean feminist knit together an online community that is often linked to on-the-ground organizing and action. Online feminist practices are therefore rich archives for the study of Caribbean feminisms. To date, scholarly work on women's and feminist movements in the region has failed to document and analyze these practices and sites of activism. Similarly, Caribbean feminist critiques of technology and new media are not well developed. The essay attends to this gap by offering a partial and preliminary mapping Caribbean cyberfeminisms primarily through documentation and analysis of Caribbean feminist blogs."
+abstract: >
+  Caribbean cyberfeminisms are diverse, heterogeneous, and polyvocal. Networks may be simultaneously national, regional, global, transnational, and diasporic. Through practices of media creation, curating, (re)blogging, (re)tweeting, sharing, and commenting across multiple social media platforms, Caribbean feminist knit together an online community that is often linked to on-the-ground organizing and action. Online feminist practices are therefore rich archives for the study of Caribbean feminisms. To date, scholarly work on women's and feminist movements in the region has failed to document and analyze these practices and sites of activism. Similarly, Caribbean feminist critiques of technology and new media are not well developed. The essay attends to this gap by offering a partial and preliminary mapping Caribbean cyberfeminisms primarily through documentation and analysis of Caribbean feminist blogs.
 language: en
 ---
 

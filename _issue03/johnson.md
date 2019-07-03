@@ -372,7 +372,7 @@ forms:
 - Digital Humanities: digital humanities within academia
 - digital humanities: humanities work rendered digitally
 - Digital Media: content created online
-- digital practice: 
+- digital practice: 💋💩😎🕷💦 
 
 The fourth form, digital practice, embraces the locus of hybrid,
 playful, fluid, and meta possibilities that the digital creates and

@@ -8,11 +8,13 @@ doi: "doi:10.7916/D812651T"
 author: 
 - name: Marisa Parham  
   shortname: Parham
-  bio: "Marisa Parham is Professor of English at Amherst College, and directs the Immersive Reality Lab for the Humanities, which is an independent workgroup for digital and experimental humanities (irLh). irLh develops and incubates digital projects for AR, VR, and screen, and supports the work of digital scholars. Parham currently serves as faculty diversity and inclusion officer (FDIO) at Amherst College. Marisa Parham is also the author of *Haunting and Displacement in African-American Literature and Culture* (2008), *The African-American Student’s Guide to College* (1998), and is co-editor of *Theorizing Glissant: Sites and Citations* (2015)."
+  bio: >
+    Marisa Parham is Professor of English at Amherst College, and directs the Immersive Reality Lab for the Humanities, which is an independent workgroup for digital and experimental humanities (irLh). irLh develops and incubates digital projects for AR, VR, and screen, and supports the work of digital scholars. Parham currently serves as faculty diversity and inclusion officer (FDIO) at Amherst College. Marisa Parham is also the author of *Haunting and Displacement in African-American Literature and Culture* (2008), *The African-American Student’s Guide to College* (1998), and is co-editor of *Theorizing Glissant: Sites and Citations* (2015).
 date: April 2019
 issue: 3
 order: 5
-abstract: ".break .dance is a time-based web experience opened in response to xxx and xxx, thinking about “Slavery in the Machine.” In thinking through and against the machineries of commercial interface efficacy, this pocket intentionally shows its material and discursive seams. Rooted in a sense of anarchival play, it is designed for multiple engagements, changes over time, and assumes no one will take the same path through."
+abstract: >
+  .break .dance is a time-based web experience opened in response to xxx and xxx, thinking about "Slavery in the Machine. In thinking through and against the machineries of commercial interface efficacy, this pocket intentionally shows its material and discursive seams. Rooted in a sense of anarchival play, it is designed for multiple engagements, changes over time, and assumes no one will take the same path through.
 language: en
 ---
 
@@ -22,7 +24,7 @@ language: en
 
 A pocket is a place; it is also a position. A pocket is a place for experimentation in form and content. It is also a kind of space, a thing behind a thing, the thing you hold on to, just in case. It is the ephemeral non-space between thought and its elaboration or instrumentation, a tiny universe of intellectual possibility. 
 
-.break .dance is a time-based web experience opened in response to xxx and xxx, thinking about “Slavery in the Machine.” In thinking through and against the machineries of commercial interface efficacy, this pocket intentionally shows its material and discursive seams. Rooted in a sense of anarchival play, it is designed for multiple engagements, changes over time, and assumes no one will take the same path through. This pocket was last updated on 3/8/2019.
+.break .dance is a time-based web experience opened in response to xxx and xxx, thinking about "Slavery in the Machine." In thinking through and against the machineries of commercial interface efficacy, this pocket intentionally shows its material and discursive seams. Rooted in a sense of anarchival play, it is designed for multiple engagements, changes over time, and assumes no one will take the same path through. This pocket was last updated on 3/8/2019.
 
 In honor of the many ways Black diasporic peoples use memory, performance, and speculative prayer to recode time and space, .break .dance begins with a cosmogram of Kongo origin, tendwa kia nza-n’ Kongo, the four movements of the sun. Cosmograms are two-dimensional figures that tie the cardinal directions to the sky’s map— sun, moon, stars. The tendwa reminds us of how our simplest navigational moments are always multi-dimensional: one foot in front of the other can also mean face toward the wind, a turn east toward the sun, or following the North Star to freedom.
 

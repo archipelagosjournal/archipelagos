@@ -8,7 +8,8 @@ doi: ""
 author: 
 - name: Lizabeth Paravisini-Gebert 
   shortname: Paravisini-Gebert
-  bio: "Lizabeth Paravisini-Gebert is based in the Hispanic Studies Department at Vassar College, where she holds the Randolph Distinguished Professor Chair; she is also a member of the Programs in Environmental Studies, Latin American Studies, International Studies, and Women’s Studies. Her most recent book, *Extinctions: Colonialism, Biodiversity, and the Narratives of the Caribbean*, is forthcoming this year from Liverpool University Press. She coauthors, with Ivette Romero-Cesareo, the blog [*Repeating Islands*](https://repeatingislands.com/), and coedits, with Michael Aronna, the [The Oviedo Project](http://pages.vassar.edu/oviedo/)."
+  bio: >
+    Lizabeth Paravisini-Gebert is based in the Hispanic Studies Department at Vassar College, where she holds the Randolph Distinguished Professor Chair; she is also a member of the Programs in Environmental Studies, Latin American Studies, International Studies, and Women’s Studies. Her most recent book, *Extinctions: Colonialism, Biodiversity, and the Narratives of the Caribbean*, is forthcoming this year from Liverpool University Press. She coauthors, with Ivette Romero-Cesareo, the blog [*Repeating Islands*](https://repeatingislands.com/), and coedits, with Michael Aronna, the [The Oviedo Project](http://pages.vassar.edu/oviedo/).
 date: April 2019
 issue: 3
 order: 6
@@ -20,11 +21,11 @@ language: en
 for a public syllabus project led by Yarimar Bonilla, Marisol Lebrón,
 and Sarah Molinari, stemming from the work of the Unpayable Debt working
 group at Columbia University convened by Frances Negrón-Muntaner and
-Sarah Muir. Intended as “a carefully curated portal with various points
-of entry,” its goal is that of exploring “critical questions about the
+Sarah Muir. Intended as "a carefully curated portal with various points
+of entry," its goal is that of exploring "critical questions about the
 role of debt in contemporary capitalism; the relationship between debt,
 migration, and violence, and the emergence of new political and cultural
-identities.”[^1] Begun in 2017, *Puerto Rico Syllabus* (\#PRSyllabus)
+identities."[^1] Begun in 2017, *Puerto Rico Syllabus* (\#PRSyllabus)
 identifies salient themes related to Puerto Rico’s economic history,
 offering a collaboratively curated bibliography (often linked to
 full-text articles) to help the reader access relevant texts, videos,
@@ -62,10 +63,10 @@ ideas and information is well suited to collaborative endeavors that
 benefit from access to a large network of potential contributors. In
 their definition of *crowdsourcing*, Enrique Estellés-Arolas and
 Fernando González Ladrón de Guevara underscore the participative nature
-and online basis of a proposal from an individual or institution to “a
+and online basis of a proposal from an individual or institution to "a
 group of individuals of varying knowledge, heterogeneity, and number,
 via a flexible open call \[for\] the voluntary undertaking of a
-task.”[^2] \#PRSyllabus is envisioned by its proponents as the first of
+task."[^2] \#PRSyllabus is envisioned by its proponents as the first of
 a series of related public syllabi focused on the destructive impact of
 debt on Detroit, the Caribbean, Argentina, and Greece.
 
@@ -83,14 +84,14 @@ well as in the amount of materials available under each topic. This is
 natural in an organically developing collaboration, and the site will
 find its balance as the project develops. One can see how new sections
 will soon be needed—for example, a section on Puerto Rico’s
-environmental crisis, now covered primarily in the “Hurricane Maria”
+environmental crisis, now covered primarily in the "Hurricane Maria"
 section—but this is quite natural in dynamic projects such as this one.
 
 The materials gathered at \#PRSyllabus consists primarily of recent
 articles, books, and scholarly essays—most written after 2000—with an
 understandable preponderance of newspaper and magazine articles in the
 approach to the present economic crisis. The readings are divided very
-usefully into primary readings and items for “further reading.” The
+usefully into primary readings and items for "further reading." The
 materials listed are relevant and informative, and the brief but very
 helpful summaries of the contents of articles and essays guide the
 would-be instructor toward a selection of nuanced analyses of the topics
@@ -107,14 +108,14 @@ crisis.
 
 The project leaders and contributors envision a fully bilingual site and
 have begun translating the contextualizing sections of the site
-(“About,” invitations to collaborate, etc.) from the original English
+("About," invitations to collaborate, etc.) from the original English
 into Spanish. The developing site, however, assumes a bilingual reader
 (instructor as well as student), since the articles and videos supplied
 appear randomly in either Spanish or English, depending on their source
 and provenance. This is, once again, a natural result of the project’s
-collaborative practice, whose ideal “target” audience is clearly a
-bilingual user. The site includes “[Activist Organizations and Citizen
-Initiatives](https://puertoricosyllabus.com/additional-resources/activists-organizations-and-citizen-initiatives/),”
+collaborative practice, whose ideal "target" audience is clearly a
+bilingual user. The site includes "[Activist Organizations and Citizen
+Initiatives](https://puertoricosyllabus.com/additional-resources/activists-organizations-and-citizen-initiatives/),"
 a very helpful list of groups offering opportunities for users to become
 involved in efforts to address the crisis more directly and personally.
 
@@ -132,13 +133,13 @@ top of the page with nesting pages would facilitate navigation while
 offering more flexibility in the organization of the materials, allowing
 for the highlighting of new or special topics through the creative use
 of widgets and footers. The landing page, where the viewer now scrolls
-down to access the “About,” “Goals,” and “Project Leaders” sections, in
+down to access the "About," "Goals," and "Project Leaders" sections, in
 addition to a lengthy video titled *Exploring the Puerto Rico Syllabus
-Project*, could benefit from being “nested” horizontally below a footer
+Project*, could benefit from being "nested" horizontally below a footer
 image in order to keep navigation functionality simple. As it stands
-now, there is too much crucial information about the project “beneath
-the fold.” A comparison of the site to the other public syllabi sites
-highlighted on the “About” page shows the number of missed opportunities
+now, there is too much crucial information about the project "beneath
+the fold." A comparison of the site to the other public syllabi sites
+highlighted on the "About" page shows the number of missed opportunities
 at the design level.
 
 Visually, the site’s appeal is limited. The WordPress theme used allows
@@ -168,9 +169,9 @@ perfect point of departure for teaching and scholarship.
 
 ---
 
-[^1]: “About,” *Puerto Rico Syllabus*, puertoricosyllabus.com.
+[^1]: "About," *Puerto Rico Syllabus*, puertoricosyllabus.com.
 
 [^2]: Enrique Estellés-Arolas and Fernando González Ladrón de Guevara,
-    “Towards an Integrated Crowdsourcing Definition,” *Journal of
+    "Towards an Integrated Crowdsourcing Definition," *Journal of
     Information Science* 38, no. 2 (2012): 189–200; PDF available at
     [www.researchgate.net/publication/216804524\_Towards\_an\_Integrated\_Crowdsourcing\_Definition/download](http://www.researchgate.net/publication/216804524_Towards_an_Integrated_Crowdsourcing_Definition/download).

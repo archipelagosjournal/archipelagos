@@ -8,10 +8,12 @@ doi: ""
 author: 
 - name: Elizabeth Maddock Dillon
   shortname: Dillon
-  bio: ""
+  bio: 
+   
 - name: Nicole Aljoe
   shortname: Aljoe
-  bio: ""
+  bio: 
+   
 date: April 2019
 issue: 3
 order: 1
@@ -34,10 +36,10 @@ methodology and scholarly responsibility.
 
 Perhaps the most important question the *Early Caribbean Digital
 Archive* brings to the fore is whether—or to what extent—it is in fact
-possible to “decolonize the colonial archive” via digital practices of
-“remixing.” The site authors acknowledge at the outset that the
-materials they feature “are primarily authored and published by
-Europeans,” but they quickly promise to push against that coloniality by
+possible to "decolonize the colonial archive" via digital practices of
+"remixing." The site authors acknowledge at the outset that the
+materials they feature "are primarily authored and published by
+Europeans," but they quickly promise to push against that coloniality by
 foregrounding the narratives and experiences of nonwhite peoples in the
 early Americas.[^1] The project’s stated goals are to go beyond
 digitization and cataloging to provide both understanding of the
@@ -47,24 +49,24 @@ archive so to tell different, lesser-known stories.
 Before getting to the matter of whether the site accomplishes these
 objectives, it would be of interest for the site authors to reflect on a
 number of grounding methodological questions, perhaps within the context
-of the site’s “[About](https://ecda.northeastern.edu/home/about/)”
+of the site’s "[About](https://ecda.northeastern.edu/home/about/)"
 section. Notably, how do we think about those sources we know are
 curated (selected, abridged, otherwise manipulated) by those in
 power—sources whose very presence in the archive reflects choices made
 by colonial subjects? Even more provocatively, what precisely is
-“decolonizing” and (why) do we want to “decolonize the archive”—might
+"decolonizing" and (why) do we want to "decolonize the archive"—might
 not our goal be instead to replace the archive with anticolonial and
 antislavery methods? Why, also, as per Marisa Fuentes’s citation on the
 site’s landing page, should the goal of such projects be to present an
-“unbiased account?” Why should “coherency” be the goal? Might not the
-goal of history be to acknowledge our biases—or even to have “the right”
+"unbiased account?" Why should "coherency" be the goal? Might not the
+goal of history be to acknowledge our biases—or even to have "the right"
 biases (it might be argued, even, that the attempt to be neutral is to
 operate from the position of the colonizer—or what Mary Louise Pratt has
-called the “monarch-of-all-I-survey” position)?[^2] Such broad questions
+called the "monarch-of-all-I-survey" position)?[^2] Such broad questions
 are worth posing.
 
-Also important, if “troubling” to consider, is the matter of how
-to determine whether the “embedded narratives” might in fact have been
+Also important, if "troubling" to consider, is the matter of how
+to determine whether the "embedded narratives" might in fact have been
 mere literary devices. In other words, given that the invented
 interlocutor is a major trope of the Enlightenment, can we accept at
 face value the idea that these enslaved narrators were real and not
@@ -79,15 +81,15 @@ extraction for a greater number of the embedded slave narratives
 discoverable among the documents included in their archive.
 Clearly/prominently identifying/naming enslaved narrators as the
 defining offering of the platform would go a long way to doing the work
-of “decolonizing.” Indeed, this is an extremely intriguing and very
+of "decolonizing." Indeed, this is an extremely intriguing and very
 promising dimension of the site’s contributions.
 
-The “About” section under the “Archive” tab might more accurately be
-labeled “Using the ECDA” or “Suggestion for Use,” or something along
+The "About" section under the "Archive" tab might more accurately be
+labeled "Using the ECDA" or "Suggestion for Use," or something along
 those lines.
 
-The “Classroom” tab is fantastic. How, though, do the site authors
-determine whether materials uploaded via the “Submit Materials” button
+The "Classroom" tab is fantastic. How, though, do the site authors
+determine whether materials uploaded via the "Submit Materials" button
 at the bottom of the page ultimately end up on the site? Are these
 materials vetted by a committee and, if so, what kinds of criteria are
 used? Clarity around these questions would be useful to include on the
@@ -122,8 +124,8 @@ object—a notion of the archive as more *event* than object, as more an
 challenge (and excitement) of designing and developing the *ECDA* has
 been trying to use the affordances of a digital platform to shift how
 makers and users of archives might get their hands into the archive. How
-do we make it possible for users (and not just makers) to “stir the
-archive” and thus to perturb the knowledge structures that have made the
+do we make it possible for users (and not just makers) to "stir the
+archive" and thus to perturb the knowledge structures that have made the
 enslaved and indigenous people of the early Caribbean so invisible and
 inaccessible to our existing accounts of history?[^resp1]
 
@@ -131,11 +133,11 @@ We are pleased that the review of the *ECDA* notes two areas of success
 in this effort: our collection of embedded slave narratives and our
 classroom materials. By extracting embedded narratives of enslaved
 people from the texts of European colonial writers and placing them in
-the archive as discrete items with their own metadata, we aim to “remix”
+the archive as discrete items with their own metadata, we aim to "remix"
 the archive and give pride of authorial place to new voices, as well as
 to challenge some of the metadata structures that have been used to
 shore up the coloniality of knowledge and power. The pages under the
-“Classroom” tab, which include guidelines about how one might use the
+"Classroom" tab, which include guidelines about how one might use the
 embedded slave narratives in a class, work in tandem with the embedded
 slave narrative collection to invite people to explore what might be
 learned (or lost) from such processes of remix. In newer materials on
@@ -167,7 +169,7 @@ and digital infrastructure; we are prepared and excited for that
 possibility.
 
 The review of the site usefully points out places of incompletion (such
-as a “Representing Slavery” link—we are working on it, we promise) and
+as a "Representing Slavery" link—we are working on it, we promise) and
 places where greater clarity could be offered to users. We have already
 made some of the changes suggested. But we are also committed to a few
 choices that the review questions. Overall, we see the *ECDA* as a site
@@ -178,14 +180,14 @@ coloniality of the archive. We foreground citations of a number of
 important scholars/writers on our splash page because these quotes are
 incisive and provocative—they speak to the heart of the issue of
 colonial archive and do so in a way that invites thought rather than
-imparts “knowledge.” (Marisa Fuentes’s reference, in one such quotation,
-to the desirability of an “unbiased account” of history is one that she
-describes as a “disciplinary demand”—and thus one that she herself
+imparts "knowledge." (Marisa Fuentes’s reference, in one such quotation,
+to the desirability of an "unbiased account" of history is one that she
+describes as a "disciplinary demand"—and thus one that she herself
 questions, as do we.)
 
 An additional question raised in the review about whether embedded slave
-narratives are “mere literary devices” is an important one. Are the
-“voices” of enslaved people in these embedded narratives so heavily
+narratives are "mere literary devices" is an important one. Are the
+"voices" of enslaved people in these embedded narratives so heavily
 mediated that they cannot count as the voices of the enslaved? This is a
 question that we hope users of the site and the collection of embedded
 slave narratives will consider. We also hope that users of the site will
@@ -202,8 +204,8 @@ available to users of the archive.
 The review also suggests that we organize the entirety of the site
 around the collection of embedded slave narratives. We like that
 idea—except, we have more modes of digital remix on deck. We are
-working, for instance, on exhibits or clusters of “text networks”
-(including one on the Haitian Maroon and “lord of poison” Makandal) that
+working, for instance, on exhibits or clusters of "text networks"
+(including one on the Haitian Maroon and "lord of poison" Makandal) that
 map constellations of related texts across different genres and
 languages—from, for instance, trial transcript, to newspaper, to short
 story, to poem, to novel. We also have users who are designing exhibits
@@ -216,20 +218,20 @@ digital curation and knowledge creation.
 
 ---
 
-[^1]: “The Early Caribbean Digital Archive,”
+[^1]: "The Early Caribbean Digital Archive,"
     https://ecda.northeastern.edu/.
 
 [^2]: Mary Louise Pratt, *Imperial Eyes: Travel Writing and
     Transculturation* (New York: Routledge, 1992), 201.
 
-[^resp1]: On “stirring the archive,” see Lauren Klein, “The Carework and
-    Codework of the Digital Humanities,”
+[^resp1]: On "stirring the archive," see Lauren Klein, "The Carework and
+    Codework of the Digital Humanities,"
 
     http://lklein.com/2015/06/the-carework-and-codework-of-the-digital-humanities/.
 
 [^resp2]: Warm thanks to our partners in Barbados, Amalia S. Levi, Tara
     Inniss, and Ingrid Thompson, for making this possible.
 
-[^resp3]: See “The Narrative of Clara” (from Bryan Edwards, *The History,
+[^resp3]: See "The Narrative of Clara" (from Bryan Edwards, *The History,
     Civil and Commercial, of the British Colonies in the West Indies*,
-    1793), under “Archive/Browse/Embedded Slave Narratives.”
+    1793), under "Archive/Browse/Embedded Slave Narratives."

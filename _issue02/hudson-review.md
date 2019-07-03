@@ -8,7 +8,8 @@ doi: "doi:10.7916/D8RJ4WW9"
 author: 
 - name: Peter Hudson 
   shortname: Hudson
-  bio: "Peter James Hudson is the author of *Bankers and Empire: How Wall Street Colonized the Caribbean* (2017). He teaches in the departments of history and African American studies at the University of California, Los Angeles."
+  bio: >
+    Peter James Hudson is the author of *Bankers and Empire: How Wall Street Colonized the Caribbean* (2017). He teaches in the departments of history and African American studies at the University of California, Los Angeles.
 date: July 2017
 issue: 2
 order: 2

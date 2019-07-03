@@ -22,7 +22,7 @@ the article or monograph format for single-blind review. Our review
 process is crafted in accordance with the [DHCommons
 model](http://dhcommons.org/journal/submission-guidelines), with some
 additions and revisions. Once peer review is completed, projects are
-“launched” via a dedicated page on the *sx archipelagos* platform. This
+"launched" via a dedicated page on the *sx archipelagos* platform. This
 landing page features a brief description of and link to the project,
 along with excerpts of audio, visual, and other multimedia elements.
 This page also provides a link to (a curated version of) the dialogue
@@ -96,7 +96,7 @@ relates to the goals of the project. A reviewer may ask questions like
 -   How do the graphic and UX design elements of the front end
     contribute to the goals of the intellectual contribution? (When
     considering the public-facing design, reviewers should not place
-    undue weight on “ease of use” or “glossy design” but rather consider
+    undue weight on "ease of use" or "glossy design" but rather consider
     whether the project’s features fit the intellectual mission of the
     project and the resources the project’s team had available to them.)
 

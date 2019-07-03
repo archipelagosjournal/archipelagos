@@ -9,11 +9,13 @@ date: May 2016
 author: 
 - name: Jeannine Murray-Román
   shortname: Murray-Román
-  bio: "Jeannine Murray-Román (PhD Comparative Literature, UCLA) is Assistant Professor of French and Spanish in the Department of Modern Languages and Linguistics at Florida State University. Her areas of specialization are comparative Caribbean literatures and Cultures with an interest in digital humanities and postcolonial, transnational, and performance studies. Her book, *Performance and Personhood in Caribbean Literature: From Alexis to the Digital Age* was published by University of Virginia Press in 2016."
+  bio: >
+    Jeannine Murray-Román (PhD Comparative Literature, UCLA) is Assistant Professor of French and Spanish in the Department of Modern Languages and Linguistics at Florida State University. Her areas of specialization are comparative Caribbean literatures and Cultures with an interest in digital humanities and postcolonial, transnational, and performance studies. Her book, *Performance and Personhood in Caribbean Literature: From Alexis to the Digital Age* was published by University of Virginia Press in 2016.
 date: May 2016
 issue: 1
 order: 2
-abstract: "The Douen Islands project was cofounded in 2013 by a group of Trinidadian artists, including poet Andre Bagoo, graphic designer Kriston Chen, and artist Rodell Warner, among others. Its name refers to the folk figures of douen, whose backward-pointing feet create backward paths. This essay uses a Twitter-focused analysis to explore the representations of the douen in two Douen Islands projects: first, considering the social mediatization of the text and the performance event the artists created, and, second, exploring how a backward-reading practice impacts possible interpretations of the douen's persona as tweeted in these two projects."
+abstract: >
+  The Douen Islands project was cofounded in 2013 by a group of Trinidadian artists, including poet Andre Bagoo, graphic designer Kriston Chen, and artist Rodell Warner, among others. Its name refers to the folk figures of douen, whose backward-pointing feet create backward paths. This essay uses a Twitter-focused analysis to explore the representations of the douen in two Douen Islands projects: first, considering the social mediatization of the text and the performance event the artists created, and, second, exploring how a backward-reading practice impacts possible interpretations of the douen's persona as tweeted in these two projects.
 language: en
 ---
 

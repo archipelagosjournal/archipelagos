@@ -8,20 +8,25 @@ doi: "doi:10.7916/D88K7NG5"
 author:
 - name: Nathan H. Dize
   shortname: Dize
-  bio: "Nathan H. Dize is a PhD student in the Department of French and Italian at Vanderbilt University, where he specializes in Haitian theater, poetry, and revolutionary poetics during the nineteenth and early twentieth centuries. Nathan is a content curator, a translator, and an editor of *A Colony in Crisis: The Saint-Domingue Grain Shortage of 1789.*"
+  bio: >
+    Nathan H. Dize is a PhD student in the Department of French and Italian at Vanderbilt University, where he specializes in Haitian theater, poetry, and revolutionary poetics during the nineteenth and early twentieth centuries. Nathan is a content curator, a translator, and an editor of *A Colony in Crisis: The Saint-Domingue Grain Shortage of 1789.*
 - name: Kelsey Corlett-Rivera
   shortname: Corlett-Rivera
-  bio: "Kelsey Corlett-Rivera is the head of the Research Commons and a librarian for the School of Languages, Literatures, and Cultures at the University of Maryland. She leverages emerging technologies to provide services for researchers on campus and is the site designer and an editor of *A Colony in Crisis: The Saint-Domingue Grain Shortage of 1789.*"
+  bio: >
+    Kelsey Corlett-Rivera is the head of the Research Commons and a librarian for the School of Languages, Literatures, and Cultures at the University of Maryland. She leverages emerging technologies to provide services for researchers on campus and is the site designer and an editor of *A Colony in Crisis: The Saint-Domingue Grain Shortage of 1789.*
 - name: Abby R. Broughton
   shortname: Broughton
-  bio: "Abby R. Broughton is a PhD student in the Department of French and Italian at Vanderbilt University, where she specializes in twentieth-century queer literature, body and identity politics, and the intersection of illustration and text. She is a co-author, a translator, and an editor of *A Colony in Crisis: The Saint-Domingue Grain Shortage of 1789.*"
+  bio: >
+    Abby R. Broughton is a PhD student in the Department of French and Italian at Vanderbilt University, where she specializes in twentieth-century queer literature, body and identity politics, and the intersection of illustration and text. She is a co-author, a translator, and an editor of *A Colony in Crisis: The Saint-Domingue Grain Shortage of 1789.*
 - name: Brittany M. de Gail
   shortname: de Gail
-  bio: "Brittany de Gail is a site editor for A Colony in Crisis and an administrative assistant at the University of Maryland Libraries. She graduated from UMD with a BA in Chinese and government and politics."
+  bio: >
+    Brittany de Gail is a site editor for A Colony in Crisis and an administrative assistant at the University of Maryland Libraries. She graduated from UMD with a BA in Chinese and government and politics.
 date: July 2017
 issue: 2
 order: 3
-abstract: "This essay explore​s​ the use of *A Colony in Crisis: The Saint-Domingue Grain Crisis of 1789* in the French literature classroom and how it helps address gaps in digital humanities and French language pedagogy while interrogating the colonial positionality of the French Revolution’s digital archive. In 2015, the Newberry Library received a Digitizing Hidden Special Collections and Archives grant from the Council on Library and Information Resources (CLIR) to digitize 30,000 French language pamphlets, a portion of which pertains to the period before, during, and after the French Revolution. As the digital archive of the French Revolution rapidly grows, the need to draw attention to the broader context of revolution in the French Empire–particularly in the Caribbean–has become even more urgent. ​One of the most effective ways of addressing the marginalization of the Caribbean in colonial archives is through pedagogical interventions and course design. While digital humanities pedagogy has become somewhat normalized in the anglophone literature classroom, the French language classroom has been slow to adapt to the use of digital tools and pedagogy beyond the introductory language course."
+abstract: >
+  This essay explore​s​ the use of *A Colony in Crisis: The Saint-Domingue Grain Crisis of 1789* in the French literature classroom and how it helps address gaps in digital humanities and French language pedagogy while interrogating the colonial positionality of the French Revolution’s digital archive. In 2015, the Newberry Library received a Digitizing Hidden Special Collections and Archives grant from the Council on Library and Information Resources (CLIR) to digitize 30,000 French language pamphlets, a portion of which pertains to the period before, during, and after the French Revolution. As the digital archive of the French Revolution rapidly grows, the need to draw attention to the broader context of revolution in the French Empire–particularly in the Caribbean–has become even more urgent. ​One of the most effective ways of addressing the marginalization of the Caribbean in colonial archives is through pedagogical interventions and course design. While digital humanities pedagogy has become somewhat normalized in the anglophone literature classroom, the French language classroom has been slow to adapt to the use of digital tools and pedagogy beyond the introductory language course.
 language: en
 ---
 
