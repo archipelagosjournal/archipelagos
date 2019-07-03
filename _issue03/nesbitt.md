@@ -360,11 +360,12 @@ and sale of slaves is also in its form a purchase and sale of
 commodities."[^32] The bookkeeping practices of the plantation system
 make this eminently clear (see fig. 1).
 
+
 {% include image.html
     img="issue03/nesbitt-1.jpg"
     title='Figure 1. "Tableau des Finances et du Commerce de la partie Françoise de St. Domingue," 1792 (detail). Copy in the John Carter Brown Library, Brown University.'
     caption='Figure 1. "Tableau des Finances et du Commerce de la partie Françoise de St. Domingue," 1792 (detail). Copy in the John Carter Brown Library, Brown University.'
-    url= "https://archive.org/details/tableaudesfinanc00slsn" %}
+    url="https://archive.org/details/tableaudesfinanc00slsn" %}
 
 Marx’s assertion of the structural equivalency of slaves, machines, and
 animals in the plantation mode of production is strikingly confirmed in

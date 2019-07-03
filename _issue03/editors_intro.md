@@ -82,8 +82,6 @@ expectations around ways of being and knowing in the academy from the
 innovative—our past-, present-, and future-looking—third issue of *sx*
 *archipelagos*.
 
-Onward,
-
-Kaiama & Alex
-
+Onward,  
+Kaiama & Alex  
 Editors
