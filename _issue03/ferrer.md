@@ -9,7 +9,7 @@ author:
 - name: Linda M. Rodriguez
   shortname: Rodríguez
   bio: >
-    Linda M. Rodriguez (1978–2018) earned her PhD in art history at Harvard University, where she wrote a dissertation on free black artists in colonial Havana, among them José Antonio Aponte. Rodríguez was Post-Doctoral Fellow in Art History and, later, Visiting Scholar at the Center for Latin American and Caribbean Studies at New York University. In addition to curating *Digital Aponte*, she collaborated in *Separados/Torn Apart*, a project that visualizes the geography and finances of the "zero-tolerance" immigration policy developed by ICE, and in *Hablemos de La Habana* (Let’s Talk about Havana), a collaborative forum about the city’s future organized by Friends of Havana and the World Monuments Fund. Dr. Rodriguez passed away on 1 October 2018, just as the authors were starting to revise this article.
+   	Linda M. Rodriguez (1978–2018) earned her PhD in art history at Harvard University, where she wrote a dissertation on free black artists in colonial Havana, among them José Antonio Aponte. Rodríguez was Post-Doctoral Fellow in Art History and, later, Visiting Scholar at the Center for Latin American and Caribbean Studies at New York University. In addition to curating *Digital Aponte*, she collaborated in *Separados/Torn Apart*, a project that visualizes the geography and finances of the "zero-tolerance immigration policy developed by ICE, and in *Hablemos de La Habana* (Let’s Talk about Havana), a collaborative forum about the city’s future organized by Friends of Havana and the World Monuments Fund. Dr. Rodriguez passed away on 1 October 2018, just as the authors were starting to revise this article.
 - name: Ada Ferrer
   shortname: Ferrer
   bio: >
@@ -17,10 +17,10 @@ author:
 date: July 2017
 issue: 3
 order: 2
-abstract: "In the last fifteen years or so, the story of José Antonio Aponte—the free black carpenter and artist who attempted to lead a major antislavery revolution in early-nineteenth-century Havana—has drawn the animated attention of scholars in history, art history, literary criticism, and anthropology, among other fields. Most of that scholarship has utilized time-worn techniques of scholarly practice: rigorous and wide-ranging archival research, perceptive close readings of judicial testimony, forays into theoretical works as interpretive aids to analysis. This essay revisits the story of Aponte, relying on the digital humanities website *Digital Aponte* that we—Linda Rodríguez, in collaboration with Ada Ferrer—curated. *Digital Aponte* invites an interdisciplinary collaboration that can be said to echo the collaborative approaches Aponte himself pursued in his creative, intellectual, and political practices. In the present, such approaches advance our understandings of Aponte and the histories of black antislavery in the Atlantic world, just as they foreground the profound link between artistic and revolutionary work."
+abstract: >
+  In the last fifteen years or so, the story of José Antonio Aponte—the free black carpenter and artist who attempted to lead a major antislavery revolution in early-nineteenth-century Havana—has drawn the animated attention of scholars in history, art history, literary criticism, and anthropology, among other fields. Most of that scholarship has utilized time-worn techniques of scholarly practice: rigorous and wide-ranging archival research, perceptive close readings of judicial testimony, forays into theoretical works as interpretive aids to analysis. This essay revisits the story of Aponte, relying on the digital humanities website *Digital Aponte* that we—Linda Rodríguez, in collaboration with Ada Ferrer—curated. *Digital Aponte* invites an interdisciplinary collaboration that can be said to echo the collaborative approaches Aponte himself pursued in his creative, intellectual, and political practices. In the present, such approaches advance our understandings of Aponte and the histories of black antislavery in the Atlantic world, just as they foreground the profound link between artistic and revolutionary work.
 language: en
 ---
-
 
 In Havana on the night of 14 March 1812, three free men of color left
 the capital city for the countryside. One of the men wore a uniform,

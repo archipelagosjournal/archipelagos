@@ -7,7 +7,8 @@ date: May 2016
 author: 
 - name: David Scott
   shortname: Scott
-  bio: "David Scott is Professor of Anthropology at Columbia University. He is the author of *Formations of Ritual: Colonial and Anthropological Discourses on the Sinhala Yaktovil* (Minnesota 1994), *Refashioning Futures: Criticism After Postcoloniality* (Princeton UP 1999), *Conscripts of Modernity: The Tragedy of Colonial Enlightenment* (Duke UP 2004), and *Omens of Adversity: Tragedy, Time, Memory, and Justice* (Duke UP 2014), and co-editor of *Powers of the Secular Modern: Talal and His Interlocutors* (Stanford UP). He is the founder and director of the Small Axe Project."
+  bio: >
+    David Scott is Professor of Anthropology at Columbia University. He is the author of *Formations of Ritual: Colonial and Anthropological Discourses on the Sinhala Yaktovil* (Minnesota 1994), *Refashioning Futures: Criticism After Postcoloniality* (Princeton UP 1999), *Conscripts of Modernity: The Tragedy of Colonial Enlightenment* (Duke UP 2004), and *Omens of Adversity: Tragedy, Time, Memory, and Justice* (Duke UP 2014), and co-editor of *Powers of the Secular Modern: Talal and His Interlocutors* (Stanford UP). He is the founder and director of the Small Axe Project.
 issue: 1
 language: en
 ---
@@ -28,7 +29,7 @@ about the forms and platforms that should best shape and drive our
 responsive hermeneutic endeavors.
 
 In recent years the humanities and social sciences have been provoked to
-consider the implications of the “digital turn” for scholarly production
+consider the implications of the "digital turn" for scholarly production
 and reception. The rise of new digital technologies, new modes of
 accessing and organizing intellectual resources, new ways of connecting
 and sharing various dimensions of understanding (and therefore of

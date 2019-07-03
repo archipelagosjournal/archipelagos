@@ -8,14 +8,17 @@ doi: "10.7916/D8CV4HTJ"
 author: 
 - name: Yarimar Bonilla
   shortname: Bonilla
-  bio: "Yarimar Bonilla is Associate Professor of anthropology and Latino & Caribbean Studies at Rutgers University, where she is on the executive board for the Advanced Institute for Critical Caribbean Studies. She teaches and writes about social movements, colonial legacies, and the politics of history in the Atlantic World. She is the author of *Non-Sovereign Futures: French Caribbean Politics in the Wake of Disenchantment* (2015) and is currently working on a book project about the statehood movement in Puerto Rico."
+  bio: >
+    Yarimar Bonilla is Associate Professor of anthropology and Latino & Caribbean Studies at Rutgers University, where she is on the executive board for the Advanced Institute for Critical Caribbean Studies. She teaches and writes about social movements, colonial legacies, and the politics of history in the Atlantic World. She is the author of *Non-Sovereign Futures: French Caribbean Politics in the Wake of Disenchantment* (2015) and is currently working on a book project about the statehood movement in Puerto Rico.
 - name: Max Hantel
   shortname: Hantel
-  bio: "Max Hantel is a postdoctoral fellow in the Gender Research Institute at Dartmouth College. He is currently completing his book project, Haunted Confluence: Intergenerational Geographies of Race and Sex in Afro-Caribbean Feminism. His work on Caribbean philosophy and political ecology has appeared in *Small Axe*, *The Journal of French and Francophone Philosophy*, and *Rhizomes*."
+  bio: >
+    Max Hantel is a postdoctoral fellow in the Gender Research Institute at Dartmouth College. He is currently completing his book project, Haunted Confluence: Intergenerational Geographies of Race and Sex in Afro-Caribbean Feminism. His work on Caribbean philosophy and political ecology has appeared in *Small Axe*, *The Journal of French and Francophone Philosophy*, and *Rhizomes*.
 date: May 2016
 issue: 1
 order: 5
-abstract: "This essay asks how visual representations of the postcolonial Caribbean are shaped by, and in turn could reshape, the political imaginary of sovereignty. Describing several different experiments with form—from conventional maps to temporal charts to animation—it argues that visualizing sovereignty is a first step in retheorizing the meaning of sovereignty itself beyond the regulatory limits of insular, nation-state autonomy. The authors call for collaborative efforts to create 'prophetic cartographies' attuned to alternative political currents and the possibility of imagining the Caribbean otherwise."
+abstract: >
+  This essay asks how visual representations of the postcolonial Caribbean are shaped by, and in turn could reshape, the political imaginary of sovereignty. Describing several different experiments with form—from conventional maps to temporal charts to animation—it argues that visualizing sovereignty is a first step in retheorizing the meaning of sovereignty itself beyond the regulatory limits of insular, nation-state autonomy. The authors call for collaborative efforts to create 'prophetic cartographies' attuned to alternative political currents and the possibility of imagining the Caribbean otherwise.
 language: en
 ---
 
@@ -734,7 +737,7 @@ Project working group at Barnard College and Columbia University.
 
 [^4]: See Michel-Rolph Trouillot, *Silencing the Past: Power and the Production of History* (Boston: Beacon, 1995); and Julia Gaffield, *Haitian Connections in the Atlantic World: Recognition after Revolution* (Chapel Hill: University of North Carolina Press, 2015).
 
-[^5]: Antonio Benìtez-Rojo, *The Repeating Island: The Caribbean and the Postmodern Perspective* (Durham, NC: Duke University Press, 1996), 2.  
+[^5]: Antonio Benìtez-Rojo, *The Repeating Island: The Caribbean and the Postmodern Perspective* (Durham, NC: Duke University Press, 1996), 2.
 
 [^6]: Michel-Rolph Trouillot, "North Atlantic Universals: Analytical Fictions, 1942--1945," *South Atlantic Quarterly* 101, no. 4 (2002): 848.
 

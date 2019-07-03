@@ -42,7 +42,7 @@ Contact: archipelagos@smallaxe.net
 
 #### Documents
 
-*Markdown (.md)*: Publishing is in many ways a game of file conversions. Both our website and PDFs are built from the same Markdown files. While we gladly accept articles in Office format, we encourage our authors to submit plain text files (UTF-8 encoding), written using [Kramdown syntax](http://kramdown.gettalong.org/syntax.html), a version of Markdown, and saved with the .md extension. This will help us keep our workflow light and our file types closer to the production line, contributing in turn to our continued ownership of all aspects of journal production. For some background on our infrastructural choices, and to get started with Markdown, please take some time to read “[Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown),” by Dennis Tenen and Grant Whytoff. We sincerely appreciate those who accept the challenge of changing their work habits and are happy to provide assistance during the process. You will find many markdown editing tools available, and most plain text editors are great at handling markdown.
+*Markdown (.md)*: Publishing is in many ways a game of file conversions. Both our website and PDFs are built from the same Markdown files. While we gladly accept articles in Office format, we encourage our authors to submit plain text files (UTF-8 encoding), written using [Kramdown syntax](http://kramdown.gettalong.org/syntax.html), a version of Markdown, and saved with the .md extension. This will help us keep our workflow light and our file types closer to the production line, contributing in turn to our continued ownership of all aspects of journal production. For some background on our infrastructural choices, and to get started with Markdown, please take some time to read "[Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)," by Dennis Tenen and Grant Whytoff. We sincerely appreciate those who accept the challenge of changing their work habits and are happy to provide assistance during the process. You will find many markdown editing tools available, and most plain text editors are great at handling markdown.
 
 *Office formats (.odt, .doc, .docx)*: If you find the Markdown workflow overwhelming, we will convert your Microsoft Word, LibreOffice, or OpenOffice files to Markdown ourselves at the end of the process. In order to minimize the work needed to convert your files into publishable format, **please be sure to follow our guidelines and style guide closely**. Here are some specific formatting issues that will make our file conversion work tractable:
 
@@ -133,19 +133,19 @@ Style Reference: *Chicago Manual of Style* (*CMS*), 16th ed. Spelling Reference:
 
 -   Please make sure that proper names are spelled correctly and consistently, with the proper accents. If you have time, a separate list of unusual terms or proper names in your manuscript is very helpful to the copyeditor in maintaining consistency.
 
--   Please identify the components of your article—such as headings (“Heading 2” is a major divider; “Heading 3” is subordinate to Heading 2, etc.), epigraphs, excerpts, and captions—to avoid confusion.
+-   Please identify the components of your article—such as headings ("Heading 2" is a major divider; "Heading 3" is subordinate to Heading 2, etc.), epigraphs, excerpts, and captions—to avoid confusion.
 
--   Avoid contractions such as “isn’t,” “aren’t,” and “didn’t,” which seem casual in an academic journal.
+-   Avoid contractions such as "isn’t," "aren’t," and "didn’t," which seem casual in an academic journal.
 
 -   Please refer to *sx archipelagos* pieces as essays or articles rather than as papers.
 
--   Use “scare quotes” sparingly to highlight a word for emphasis or irony, per *CMS* 7.58. See Emphasis below.
+-   Use "scare quotes" sparingly to highlight a word for emphasis or irony, per *CMS* 7.58. See Emphasis below.
 
 #### Abbreviations
 
--   Spell out “e.g.” and “i.e.” in running text; may be used in parenthetical text, followed by a comma.
+-   Spell out "e.g." and "i.e." in running text; may be used in parenthetical text, followed by a comma.
 
--   Do not include “Ltd.,” “Inc.,” or “Co.” in publisher names.
+-   Do not include "Ltd.," "Inc.," or "Co." in publisher names.
 
 -   In citations, use two-letter postal codes for states (Durham, NC: Duke University Press). No state needs to be given for well-known locations (Chicago, New York, Boston, Philadelphia, Baltimore) or if the state appears in the publisher’s name (Minneapolis: University of Minnesota Press).
 
@@ -157,9 +157,9 @@ Style Reference: *Chicago Manual of Style* (*CMS*), 16th ed. Spelling Reference:
 
 -   Use down style in general.
 
--   Shortened references to capitalized entities are lowercased. For example, “The Labour Party did such-and-such. Later, the party continued to influence such-and-such.”
+-   Shortened references to capitalized entities are lowercased. For example, "The Labour Party did such-and-such. Later, the party continued to influence such-and-such."
 
--   For a quote in running text, cap the first word in the quotation when it is set off with a verb of speech or of writing (As X explains \[remarked, said, wrote\], “When . . .”). Do not cap if syntactical part of sentence and preceded by a conjunction (X explains that “when . . .”).
+-   For a quote in running text, cap the first word in the quotation when it is set off with a verb of speech or of writing (As X explains \[remarked, said, wrote\], "When . . ."). Do not cap if syntactical part of sentence and preceded by a conjunction (X explains that "when . . .").
 
 -   Lowercase prepositions, regardless of length (including in titles of works cited in notes), unless particular emphasis is needed for clarity (e.g., Voting For or Against).
 
@@ -167,9 +167,9 @@ Style Reference: *Chicago Manual of Style* (*CMS*), 16th ed. Spelling Reference:
 
 #### Emphasis
 
--   In quotations, added emphasis must be distinguished from emphasis in original. In a footnote: after page number, add “emphasis mine” or “italics in original” in parenthesis. In in-text citation: “quoted material *running* in the text ends here” (119; emphasis mine) \[or, (119; italics in original)\]. If adding emphasis to text that already has italics in it, indicate your italics with brackets: “quoted material *running in* \[emphasis mine\] the text *ends here*.”
+-   In quotations, added emphasis must be distinguished from emphasis in original. In a footnote: after page number, add "emphasis mine" or "italics in original" in parenthesis. In in-text citation: "quoted material *running* in the text ends here" (119; emphasis mine) \[or, (119; italics in original)\]. If adding emphasis to text that already has italics in it, indicate your italics with brackets: "quoted material *running in* \[emphasis mine\] the text *ends here*."
 
--   When using a word ironically, use quotation marks to set it off: distinguishing between “true” and “false” religion. Note that using “so-called” eliminates the need for quotation marks: in a “civilized” society; but, in a so-called civilized society.
+-   When using a word ironically, use quotation marks to set it off: distinguishing between "true" and "false" religion. Note that using "so-called" eliminates the need for quotation marks: in a "civilized" society; but, in a so-called civilized society.
 
 #### Extracts
 
@@ -185,7 +185,7 @@ Style Reference: *Chicago Manual of Style* (*CMS*), 16th ed. Spelling Reference:
 
 -   See above under "Submission Guidelines for Articles and Reviews: Images" for appropriate file types and image formats.
 
--   If needed under a figure, provide a number with the caption. In text, refer to a figure as “see figure 1” or “(see fig. 1).”
+-   If needed under a figure, provide a number with the caption. In text, refer to a figure as "see figure 1" or "(see fig. 1)."
 
 #### Numbers and Dates
 
@@ -197,7 +197,7 @@ Style Reference: *Chicago Manual of Style* (*CMS*), 16th ed. Spelling Reference:
 
 -   For page numbers, see *CMS* 9.64 for the inclusive style: 13–14; 96–117; 100–104; 107–8; 236–37; 1100–1123; 1103–35.
 
--   Arabic numerals and lowercase for chapters, parts, and so on (“in part1,” “after chapter 3”) in running text. For dollars: US\$6000.
+-   Arabic numerals and lowercase for chapters, parts, and so on ("in part1," "after chapter 3") in running text. For dollars: US\$6000.
 
 -   For time: 1:00 a.m.; 3:20–4:00 p.m.; five o’clock in the morning.
 
@@ -224,11 +224,11 @@ We are working to provide a multi-lingual platform, and when the time comes we w
 
 #### Which/That
 
--   “Which” is nonrestrictive (use with a comma); “that” is restrictive.
+-   "Which" is nonrestrictive (use with a comma); "that" is restrictive.
 
 #### Words as Words
 
-When referring to words as the words themselves, use italics to set apart: “the terms *witchcraft* and *magic* became popular . . .”
+When referring to words as the words themselves, use italics to set apart: "the terms *witchcraft* and *magic* became popular . . ."
 
 ### Punctuation
 
@@ -246,9 +246,9 @@ When referring to words as the words themselves, use italics to set apart: “th
 
 -   Use the serial comma (X, Y, Z, and so on).
 
--   No comma after short introductory phrases, unless confusion results. Add one after longer phrases and after sentence adverbs (“Thus, . . . .”).
+-   No comma after short introductory phrases, unless confusion results. Add one after longer phrases and after sentence adverbs ("Thus, . . . .").
 
--   No comma in “not only . . . but” phrases, unless confusion results. No comma after “yet” used at the beginning of a sentence.
+-   No comma in "not only . . . but" phrases, unless confusion results. No comma after "yet" used at the beginning of a sentence.
 
 #### Em dash
 
@@ -260,20 +260,20 @@ When referring to words as the words themselves, use italics to set apart: “th
 
 #### Solidus
 
-Avoid constructions like “s/he,” “he/she,” and “and/or”
+Avoid constructions like "s/he," "he/she," and "and/or"
 
 
 ### Note Preparation
 
 -   Notes require meticulous attention. It is much more difficult to locate required bibliographic information months after your article has been written than it is to include it at the creation stage. When in doubt consult *CMS*.
 
--   If you use Zotero and are writing your article in Markdown, you can streamline your bibliographic citations in Chicago Style by using the method described in “[Sustainable Authorship](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).”
+-   If you use Zotero and are writing your article in Markdown, you can streamline your bibliographic citations in Chicago Style by using the method described in "[Sustainable Authorship](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)."
 
 -   Present citations as numbered footnotes with complete bibliographic data using the *CMS* guidelines; do not include a bibliography or reference list.
 
 -   Avoid placing note numbers in the middle of a sentence.
 
--   Present full citation at first mention in an article; use surname(s) and short title thereafter, or “ibid.” for a sequence of individual repeated references. Exception: If the article is a close reading of one or two literary works, give full citation in a footnote at first mention, with the notation “hereafter cited in text”; if necessary, also introduce an abbreviation for the title that will appear in the in-text citation with the page numbers.
+-   Present full citation at first mention in an article; use surname(s) and short title thereafter, or "ibid." for a sequence of individual repeated references. Exception: If the article is a close reading of one or two literary works, give full citation in a footnote at first mention, with the notation "hereafter cited in text"; if necessary, also introduce an abbreviation for the title that will appear in the in-text citation with the page numbers.
 
 -   Include two-letter state abbreviation for lesser-known locations or if there could be confusion (as with Cambridge, MA).
 

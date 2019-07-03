@@ -10,13 +10,16 @@ date: May 2016
 author:
 - name: Laurent Dubois
   shortname: Dubois
-  bio: "Laurent Dubois is Professor of Romance Studies and History and the Faculty Director of the [Forum for Scholars & Publics](https://fsp.trinity.duke.edu/) at Duke University. He is the author of six books, including Avengers of the New World: The Story of the Haitian Revolution (2004), Haiti: The Aftershocks of History (2012) and most recently [The Banjo: America’s African Instrument](http://www.hup.harvard.edu/catalog.php?isbn=9780674047846). In 2016-2017 he will be a Fellow at the National Humanities Center."
+  bio: >
+    Laurent Dubois is Professor of Romance Studies and History and the Faculty Director of the [Forum for Scholars & Publics](https://fsp.trinity.duke.edu/) at Duke University. He is the author of six books, including Avengers of the New World: The Story of the Haitian Revolution (2004), Haiti: The Aftershocks of History (2012) and most recently [The Banjo: America’s African Instrument](http://www.hup.harvard.edu/catalog.php?isbn=9780674047846). In 2016-2017 he will be a Fellow at the National Humanities Center.
 - name: David Garner
   shortname: Garner
-  bio: "David K. Garner will begin as Assistant Professor of Composition and Theory at the University of South Carolina in fall 2016. He is a composer whose works often draw on other music as a point of departure, from Beethoven to bluegrass. Awards include a Charles Ives Scholarship from the American Academy of Arts & Letters, an ASCAP Young Composer Award, and first prizes in the OSSIA, Red Note, and NACUSA competitions."
+  bio: >
+    David K. Garner will begin as Assistant Professor of Composition and Theory at the University of South Carolina in fall 2016. He is a composer whose works often draw on other music as a point of departure, from Beethoven to bluegrass. Awards include a Charles Ives Scholarship from the American Academy of Arts & Letters, an ASCAP Young Composer Award, and first prizes in the OSSIA, Red Note, and NACUSA competitions.
 - name: Mary Caton Lingold
   shortname: Lingold
-  bio: "Mary Caton Lingold is a doctoral candidate in English at Duke, where she is completing a dissertation on early Afro-Atlantic literature and music. She is co-editor of the web collection [Provoke!: Digital Sound Studies](http://soundboxproject.com/), and a book by the same name and under contract at Duke UP. Her article on music in Caribbean travel narratives is forthcoming in *Early American Literature.* She also directs the [Sonic Dictionary](http://sonicdictionary.fhi.duke.edu/), a crowdsourced database of audio recordings."
+  bio: >
+    Mary Caton Lingold is a doctoral candidate in English at Duke, where she is completing a dissertation on early Afro-Atlantic literature and music. She is co-editor of the web collection [Provoke!: Digital Sound Studies](http://soundboxproject.com/), and a book by the same name and under contract at Duke UP. Her article on music in Caribbean travel narratives is forthcoming in *Early American Literature.* She also directs the [Sonic Dictionary](http://sonicdictionary.fhi.duke.edu/), a crowdsourced database of audio recordings.
 image: images/issue01/musical-passage.jpg
 thumb: images/issue01/musical-passage-thumb.jpg
 link: "http://www.musicalpassage.org/#home"
@@ -34,7 +37,7 @@ music. The site is designed around two pages from eighteenth-century
 British naturalist and collector Hans Sloane’s *A Voyage to the Islands*
 (1707), which documents his time in Jamaica in the late 1680s. The pages
 of *Voyage* that have been placed at the center of this site present
-notation of songs played at a “festival.” This material is precious and
+notation of songs played at a "festival." This material is precious and
 fascinating, representing the earliest notation we have of music
 produced by enslaved Africans in the Caribbean or North America. The
 performers whose music is represented and interpreted here were likely
@@ -54,14 +57,14 @@ Caribbean and the wider Atlantic world.
 
 ## *sx archipelagos* review
 
-> “an important contribution to the fields of Atlantic and Caribbean
-history and ethnomusicology”
+> "an important contribution to the fields of Atlantic and Caribbean
+history and ethnomusicology"
 
 *Musical Passage* is a fascinating and well-conceived example of digital
 scholarship that makes an important contribution to the fields of
 Atlantic and Caribbean history and ethnomusicology. There is a
 direct—and successful—effort here to combat the phenomenon of presumed
-“loss in” and “silences of” the Afro-Atlantic archive. The site’s
+"loss in" and "silences of" the Afro-Atlantic archive. The site’s
 authors present a compelling articulation of the importance of their
 methodological approach and of, especially, the singular value of the
 digital to grappling with the diversity of textual artifacts that must
@@ -83,7 +86,7 @@ interdisciplinarity of the approach.
 As the project develops further, it would be desirable that the authors
 extend its value for a wide digital scholarly community by more
 explicitly articulating—by documenting, in fact—critical elements of the
-“back-end.” What technological stack undergirds the project (file types,
+"back-end." What technological stack undergirds the project (file types,
 data models, platforms, etc.)? What plans have been made (institutional
 relationships concretized) to assure the preservation
 (support/maintenance) of the project for the future? How far into the
@@ -98,13 +101,13 @@ with respect to existing, related digital scholarship projects. How is
 *Musical Passage* in dialogue (methodologically, substantively, or
 otherwise) with other Afro-Atlantic digital humanities (DH) projects?
 Has it made use of other DH resources in its own construction? Might the
-authors consider adding a “For Further Consideration/Reading” section
+authors consider adding a "For Further Consideration/Reading" section
 that would include both digital and analog bibliographical references?
 
 
 ## Response from the creators of *Musical Passage*
 
-> “seeking to combat the silences around Afro-Atlantic music”
+> "seeking to combat the silences around Afro-Atlantic music"
 
 We were delighted to receive the positive feedback articulated in the
 review of our draft materials for *Musical Passage*. We are glad that
@@ -120,9 +123,9 @@ We also appreciate reviewers’ suggestions for articulating and thinking
 through some questions we have not given enough attention to at this
 point. The review encourages us to explicitly discuss some of these
 questions with our Web designer, Marc Harkness, in order to find a way
-to document the “back-end” of the site. Mary Caton Lingold will
+to document the "back-end" of the site. Mary Caton Lingold will
 specifically be working with Harkness to offer some discussion of this
-directly on the site itself, in the “About” page, so that this becomes
+directly on the site itself, in the "About" page, so that this becomes
 not just a page describing our backgrounds and the project but also a
 kind of meta-cartography of how the site has been built.
 
@@ -139,7 +142,7 @@ of mapping out each of our roles in the process and what those
 contributions were, probably in some kind of narrative style, one that
 attempts to condense the process of collaboration through which *Musical
 Passage* was produced. This, along with the material about the design of
-the site, will make the “About” page a space through which to
+the site, will make the "About" page a space through which to
 illustrate, showcase, and perhaps model the kind of collaboration that
 makes a (hopefully successful) digital humanities project happen.
 
@@ -172,7 +175,7 @@ construction and makes videos of how it is navigated, will assure some
 kind of archiving and storage of the site over the long term.
 
 Finally, the suggestion that we incorporate citations of scholarly
-material into the site is also an excellent one. Since the “About” page
+material into the site is also an excellent one. Since the "About" page
 is already going to incorporate a great deal of discussion about the
 process of production of the site, we will likely provide citations at
 the end of the presentation of the written material that will be

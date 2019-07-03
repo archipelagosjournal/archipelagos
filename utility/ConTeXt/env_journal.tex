@@ -16,12 +16,19 @@
 
 %\usemodule[simplefonts]
 %\setmainfont[xits][expansion=quality,protrusion=quality]
+\definefallbackfamily[main]
+                 [sans]
+                 [Open Sans Emoji]
+                 [range=0x1F000-0x1FFFF]
+                 %[range={0x1F48B}]
+                 %[range={miscellaneoussymbols,emotion, dingbats}]
 
 \definefallbackfamily[main]
                  [sans]
-                 [Noto Emoji]
-                 [tf=file: NotoColorEmoji.ttf
-                 range={miscellaneoussymbols,dingbats},force=yes]
+                 [Noto Sans]
+                 [range=0x00000-0xFFFFF]
+
+                 %[range=0x1F000-0x1FFFF]
 
 \definefontfamily[main]
                  [sans]

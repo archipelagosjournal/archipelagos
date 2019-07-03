@@ -90,7 +90,7 @@ Jessica Marie Johnson is Assistant Professor of History at Michigan State Univer
 
 ### Kelly Baker Josephs | editorial board
 
-Kelly Baker Josephs is Associate Professor of English at York College, CUNY. She is the author of *Disturbers of the Peace: Representations of Insanity in Anglophone Caribbean Literature* (2013), editor of sx salon: a small axe literary platform, and manager of The Caribbean Commons website. Her current project, “Caribbean Articulations: Storytelling in a Digital Age,” explores the intersections between new technologies and Caribbean cultural production.
+Kelly Baker Josephs is Associate Professor of English at York College, CUNY. She is the author of *Disturbers of the Peace: Representations of Insanity in Anglophone Caribbean Literature* (2013), editor of sx salon: a small axe literary platform, and manager of The Caribbean Commons website. Her current project, "Caribbean Articulations: Storytelling in a Digital Age," explores the intersections between new technologies and Caribbean cultural production.
 
 ### Frances Negrón-Muntaner | editorial board
 
