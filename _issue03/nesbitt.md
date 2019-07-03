@@ -792,7 +792,7 @@ production enables a more encompassing critique of the discrepant
 multiplicity of any mode of production in transition. Transition, in
 this view, is not to be grasped as the idealist metamorphosis of the
 structure (the structure is, as Marx famously said, not the materialist
-real itself, but in the form of its *reproduction* as a
+real itself but its *reproduction* as a
 "thought-concrete" \[*Gedankenkonkretum*\]).[^67] Instead, the preceding
 analysis can hope to initiate consideration of transition as the complex
 "recombination of elements" in what Althusser famously named *décalage*,
