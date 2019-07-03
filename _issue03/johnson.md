@@ -9,24 +9,24 @@ author:
 - name: Jessica Marie Johnson  
   shortname: Johnson
   bio: >
-  	Jessica Marie Johnson is a writer and historian of slavery at Johns
-	Hopkins University. She is the author of *Practicing Freedom: Black
-	Women, Intimacy, and Kinship in New Orleans Atlantic World* (University
-	of Pennsylvania Press, forthcoming) and a co-editor, with Mark Anthony
-	Neal, of "Black Code," a special issue of *The Black Scholar *(2017).
-	Her work has appeared in *Slavery and Abolition*; *The Black Scholar*;
-	*Meridians: Feminism, Race, and Transnationalism*; *American Quarterly*;
-	*Social Text*; the *Journal of African American History*; the *William
-	and Mary Quarterly*; *Debates in the Digital Humanities*; *Forum
-	Journal*; *Bitch Magazine*; *Black Perspectives* (AAIHS);
-	*Somatosphere*; and *Post-Colonial Digital Humanities* (*DHPoco*). She
-	tweets as @jmjafrx.
+    Jessica Marie Johnson is a writer and historian of slavery at Johns
+    Hopkins University. She is the author of *Practicing Freedom: Black
+    Women, Intimacy, and Kinship in New Orleans Atlantic World* (University
+    of Pennsylvania Press, forthcoming) and a co-editor, with Mark Anthony
+    Neal, of "Black Code," a special issue of *The Black Scholar *(2017).
+    Her work has appeared in *Slavery and Abolition*; *The Black Scholar*;
+    *Meridians\: Feminism, Race, and Transnationalism*; *American Quarterly*;
+    *Social Text*; the *Journal of African American History*; the *William
+    and Mary Quarterly*; *Debates in the Digital Humanities*; *Forum
+    Journal*; *Bitch Magazine*; *Black Perspectives* (AAIHS);
+    *Somatosphere*; and *Post-Colonial Digital Humanities* (*DHPoco*). She
+    tweets as @jmjafrx.
 
 date: April 2019
 issue: 3
 order: 4
 abstract: >
-	This essay offers "xroads praxis" as a black diasporic technology for exploring what digital and analog landscapes hide and reveal. Invoking the crossroads, where deals are made and past meets present, a xroads praxis centers black humanity on the other side of the trick/tragedy—the Middle Passage, after the hurricane, deep in the slave ship. At the crossroads, the things we make (hashtags, tweets, Instagram posts, multimedia exhibits, archives, and blogs) may remain or they may disappear, may break or may be stolen/archived/corrupted, even without our permission. But they haunt, they scream, and they remain accountable to the living and lived. Moving through the black space on the map of Puerto Rico after Hurricane María to the haunting compositions created by jazz saxophonist Matana Roberts, this essay engages, in atmospheric, musical, and visual form, with the ways blackness challenges technological conventions—and technology's failure to contend with slavery's past and empire's present—as its own technology, one powerful enough to remake the New World.
+    This essay offers "xroads praxis" as a black diasporic technology for exploring what digital and analog landscapes hide and reveal. Invoking the crossroads, where deals are made and past meets present, a xroads praxis centers black humanity on the other side of the trick/tragedy—the Middle Passage, after the hurricane, deep in the slave ship. At the crossroads, the things we make (hashtags, tweets, Instagram posts, multimedia exhibits, archives, and blogs) may remain or they may disappear, may break or may be stolen/archived/corrupted, even without our permission. But they haunt, they scream, and they remain accountable to the living and lived. Moving through the black space on the map of Puerto Rico after Hurricane María to the haunting compositions created by jazz saxophonist Matana Roberts, this essay engages, in atmospheric, musical, and visual form, with the ways blackness challenges technological conventions—and technology's failure to contend with slavery's past and empire's present—as its own technology, one powerful enough to remake the New World.
 language: en
 ---
 
@@ -751,7 +751,7 @@ there and then attends to it.
 {% include image.html
     img="issue03/johnson-e.png"
     title="Parham's Inverted Maury Map"
-    caption="In "Black Haunts in the Anthropocene," Marisa Parham
+    caption="In \"Black Haunts in the Anthropocene,\" Marisa Parham
     inverts the white and black space in Schmdit's data visualization."
     url="http://blackhaunts.mp285.com/" 
 %}
