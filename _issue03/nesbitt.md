@@ -363,8 +363,8 @@ make this eminently clear (see fig. 1).
 
 {% include image.html
     img="issue03/nesbitt-1.jpg"
-    title='Figure 1. "Tableau des Finances et du Commerce de la partie Françoise de St. Domingue," 1792 (detail). Copy in the John Carter Brown Library, Brown University.'
-    caption='Figure 1. "Tableau des Finances et du Commerce de la partie Françoise de St. Domingue," 1792 (detail). Copy in the John Carter Brown Library, Brown University.'
+    title='&quot;Tableau des Finances et du Commerce de la partie Françoise de St. Domingue,&quot; 1792 (detail). Copy in the John Carter Brown Library, Brown University.'
+    caption='Figure 1. &quot;Tableau des Finances et du Commerce de la partie Françoise de St. Domingue,&quot; 1792 (detail). Copy in the John Carter Brown Library, Brown University.'
     url="https://archive.org/details/tableaudesfinanc00slsn" %}
 
 Marx’s assertion of the structural equivalency of slaves, machines, and
@@ -447,8 +447,8 @@ humans constituted legal, machinic property (see fig. 2).
 
 {% include image.html
     img="issue03/nesbitt-2.jpg"
-    title='Figure 2. "Sucrerie," from Denis Diderot et al., *Encyclopédie, ou, Dictionnaire raisonné des sciences,des arts et des métiers…/ par Diderot \[et\] d’Alembert* (1751–71) (Parma: F. M. Ricci, 1970–79), vol. 1, plates.'
-    caption='Figure 2. "Sucrerie," from Denis Diderot et al., *Encyclopédie, ou, Dictionnaire raisonné des sciences,des arts et des métiers…/ par Diderot \[et\] d’Alembert* (1751–71) (Parma: F. M. Ricci, 1970–79), vol. 1, plates.' %}
+    title='&quot;Sucrerie,&quot; from Denis Diderot et al., *Encyclopédie, ou, Dictionnaire raisonné des sciences,des arts et des métiers…/ par Diderot \[et\] d’Alembert* (1751–71) (Parma: F. M. Ricci, 1970–79), vol. 1, plates.'
+    caption='Figure 2. &quot;Sucrerie,&quot; from Denis Diderot et al., *Encyclopédie, ou, Dictionnaire raisonné des sciences,des arts et des métiers…/ par Diderot \[et\] d’Alembert* (1751–71) (Parma: F. M. Ricci, 1970–79), vol. 1, plates.' %}
 
 The complex, overdetermined historical process of the transition from
 plantation slavery to the industrial production of sugar in Guadeloupe
@@ -552,8 +552,8 @@ distinguishes them together from traditional handicraft (see fig.
 
 {% include image.html
     img="issue03/nesbitt-3.jpg"
-    title='Figure 3. "Aiguillier," from Diderot et al., *Encyclopédie*, vol. 1, plates.'
-    caption='Figure 3. "Aiguillier," from Diderot et al., *Encyclopédie*, vol. 1, plates.' %}
+    title='&quot;Aiguillier,&quot; from Diderot et al., *Encyclopédie*, vol. 1, plates.'
+    caption='Figure 3. &quot;Aiguillier,&quot; from Diderot et al., *Encyclopédie*, vol. 1, plates.' %}
 
 Instead, the crucial analytical distinction (and this will prove key as
 well, I will argue below, to distinguish the often highly developed
@@ -569,9 +569,9 @@ of production (fig. 4).
 
 {% include image.html
     img="issue03/nesbitt-4.jpg"
-    title='Figure 4. "Aiguillier (detail)," from Diderot et al.,
+    title='&quot;Aiguillier (detail),&quot; from Diderot et al.,
     *Encyclopédie*, vol. 1, plates.'
-    caption='Figure 4. "Aiguillier (detail)," from Diderot et al.,
+    caption='Figure 4. &quot;Aiguillier (detail),&quot; from Diderot et al.,
     *Encyclopédie*, vol. 1, plates.'
     url="http://www.slaveryimages.org/details.php?categorynum=7&categoryName=New%20World%20Agriculture%20and%20Plantation%20Labor&theRecord=35&recordCount=114"
 %}
@@ -584,8 +584,8 @@ process (see fig. 5).
 
 {% include image.html
     img="issue03/nesbitt-5.jpg"
-    title='Figure 5. "Récolte de l’indigo," from José Mariano da Conceição Velloso, *O fazendeiro do Brazil, cultivador* (Lisbon, 1806), vol. 2, plate 1, foldout following 341. Copy in the John Carter Brown Library, Brown University.'
-    caption='Figure 5. "Récolte de l’indigo," from José Mariano da Conceição Velloso, *O fazendeiro do Brazil, cultivador* (Lisbon, 1806), vol. 2, plate 1, foldout following 341. Copy in the John Carter Brown Library, Brown University.' %}
+    title='&quot;Récolte de l’indigo,&quot; from José Mariano da Conceição Velloso, *O fazendeiro do Brazil, cultivador* (Lisbon, 1806), vol. 2, plate 1, foldout following 341. Copy in the John Carter Brown Library, Brown University.'
+    caption='Figure 5. &quot;Récolte de l’indigo,&quot; from José Mariano da Conceição Velloso, *O fazendeiro do Brazil, cultivador* (Lisbon, 1806), vol. 2, plate 1, foldout following 341. Copy in the John Carter Brown Library, Brown University.' %}
 
 The gradual, cumulative increases in productivity observable in the
 transition from handicraft to manufacture derive from the
@@ -612,8 +612,8 @@ fig. 6).
 
 {% include image.html
     img="issue03/nesbitt-6.png"
-    title='Figure 6. "Intérieur de la Sucrerie de betteraves de Château Freyes, près de Villeneuve-St.-Georges," *L’Ilustration Journal Universel*, 13 May 1843.'
-    caption='Figure 6. "Intérieur de la Sucrerie de betteraves de Château Freyes, près de Villeneuve-St.-Georges," *L’Ilustration Journal Universel*, 13 May 1843.' %}
+    title='&quot;Intérieur de la Sucrerie de betteraves de Château Freyes, près de Villeneuve-St.-Georges,&quot; *L’Ilustration Journal Universel*, 13 May 1843.'
+    caption='Figure 6. &quot;Intérieur de la Sucrerie de betteraves de Château Freyes, près de Villeneuve-St.-Georges,&quot; *L’Ilustration Journal Universel*, 13 May 1843.' %}
 
 The introduction of machinery and mechanized production suppresses the
 direct contact of labor with the object of labor (the commodity), and an
@@ -783,7 +783,7 @@ necessary, universal emancipation from its misery remains one of the
 great narrative analyses of leftist revolutionary history, equaled in
 originality of insight and rhetorical force perhaps only by Marx’s own
 1871 visionary history of the Commune and the incipient actuality of
-communism, *The Civil War in France. *
+communism, *The Civil War in France.*
 
 To pair James and Marx is not to play one off against the other in a
 zero-sum critical ploy but rather to initiate, productively, a more
