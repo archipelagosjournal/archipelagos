@@ -4,16 +4,16 @@ section: projects
 title: 
   "long": "The Caribbean Digital & Peer Review: A Musical Passage Hypothesis"
   "short": "The Caribbean Digital & Peer Review"
-doi: ""
+doi: 
 author:
 - name: Laurent Dubois
   shortname: Dubois
   bio: >
-    Laurent Dubois is a professor of Romance studies and history and the founder and faculty director of the Forum for Scholars and Publics at Duke University. He is the author of seven books, including *The Banjo: America’s African Instrument* (Harvard University Press, 2016) and the forthcoming *Freedom Roots: Histories from the Caribbean* (University of North Carolina Press), co-authored with Richard Turits.
+    Laurent Dubois is a professor of Romance studies and history and the founder and faculty director of the Forum for Scholars and Publics at Duke University. He is the author of seven books, including *The Banjo: America's African Instrument* (Harvard University Press, 2016) and the forthcoming *Freedom Roots: Histories from the Caribbean* (University of North Carolina Press), co-authored with Richard Turits.
 - name: David Kirkland Garner
   shortname: Garner
   bio: >
-    David Kirkland Garner is an assistant professor of composition and theory at the University of South Carolina. He seeks to make time and history audible, particularly through an exploration of archival recordings documenting the musical traditions of the US South.** **Garner’s first album, *Dark Holler*, was released to critical acclaim in 2017 on New Focus Recordings.
+    David Kirkland Garner is an assistant professor of composition and theory at the University of South Carolina. He seeks to make time and history audible, particularly through an exploration of archival recordings documenting the musical traditions of the US South. Garner's first album, *Dark Holler*, was released to critical acclaim in 2017 on New Focus Recordings.
 - name: Mary Caton Lingold
   shortname: Lingold
   bio: >
@@ -25,7 +25,6 @@ abstract: >
 language: en
 ---
 
-
 **Featuring:** Kenneth Bilby, Marlene Daut, Anne Eller, Marc Fields, Rebecca
 Geoffrey-Schwinden, Kim Hall, Jessica Krug, Jeffrey Menzies, Patricia
 Van Leeuwarde Moonsammy, Gregory Pierrot, Pete Ross, and Richard Rath
@@ -35,7 +34,7 @@ Van Leeuwarde Moonsammy, Gregory Pierrot, Pete Ross, and Richard Rath
 What forms of peer review can best nurture and sustain the practice and
 potential of digital work in Caribbean studies? This question has
 animated *sx archipelagos* from its founding and, in the spring of 2017,
-this journal’s editors posed it to us directly. Having [reviewed and
+this journal's editors posed it to us directly. Having [reviewed and
 presented](http://smallaxe.net/sxarchipelagos/issue01/musical-passage.html)
 in issue 1 of the journal a project we were then developing, the editors
 invited us one year later to participate in an experiment with our
@@ -61,10 +60,10 @@ The only requirement for all participants was to create an account with
 hypothes.is in order to use the annotation software. We invited as much
 or as little commentary as people were able to offer.
 
-In a letter sent to invitees, we described our goal as being “the
+In a letter sent to invitees, we described our goal as being "the
 creation of a commons space that will offer a community of readers a
 punctual opportunity to enter into dialogue with contributors, leaving
-comments on and posing questions about their work.” We committed to
+comments on and posing questions about their work." We committed to
 respond to and engage with all comments as they were posted throughout
 the course of the week-long commons event. We advertised the project
 widely online and via social media, extending a broad invitation to
@@ -79,23 +78,22 @@ Jamaica by Matthew Smith, chair of the Department of History and
 Archaeology at University of the West Indies–Jamaica, and Herbie Miller,
 curator of the Jamaica Music Museum. The workshop was organized around
 the material presented on *Musical Passage*. Selections from the site
-were played for a group of musicians led by Earl “Chinna” Smith. The
+were played for a group of musicians led by Earl "Chinna" Smith. The
 musicians responded with their own interpretations of the songs,
 connecting them to other songs and forms over the course of several
 hours. In preparation for the *archipelagos* commons event, we edited
-and posted
-[videos](https://www.youtube.com/playlist?list=PLwcqVNt0EPDlGgT6ueKV_wjvPT1-tD_Y_)
+and posted [videos](https://www.youtube.com/playlist?list=PLwcqVNt0EPDlGgT6ueKV_wjvPT1-tD_Y_)
 of these performances from the workshop. We invited participants to
 watch the videos and engage with them as they thought about and
 commented on the site.
 
 The hypothes.is annotation software provided participants with a range
-of possibilities for responding to the material. “Page notes” allowed
+of possibilities for responding to the material. "Page notes" allowed
 them to post general comments about the project as a whole, so we
 invited comments there about the overall design and future directions
 for the sites. We began the conversation in part by posting [a general
 welcome](https://hyp.is/aB8tsjT9Eeey5C9oIr2voQ/www.musicalpassage.org/)
-as the first “page note.” “Annotations,” meanwhile, could be tied to
+as the first "page note." "Annotations," meanwhile, could be tied to
 particular bits of text within the site, which were highlighted whenever
 one was created. Tags could be created as part of these annotations,
 providing an additional way to network comments around a particular
@@ -103,15 +101,14 @@ topic.
 
 The form of the annotation software offered multiple ways of engaging
 with the knowledge generated on the site itself. When these came in the
-form of annotations, they were usefully cataloged under the author’s
-name, as with this collection of [Richard Rath’s
-annotations](https://hypothes.is/users/rcrath). Replies to such
-annotations, meanwhile—where, for example, Kenneth Bilby’s extensive
+form of annotations, they were usefully cataloged under the author's
+name, as with this collection of [Richard Rath's annotations](https://hypothes.is/users/rcrath). Replies to such
+annotations, meanwhile—where, for example, Kenneth Bilby's extensive
 comments appeared—were not cataloged by author and so had to be located
 in other ways, something that might be improved in updates of the
 annotation software. In general, the format raised interesting questions
 about authorship, as the digital often does. Contributors appeared with
-the name of their hypothes.is account: for some, this was simply their
+the name of their hypothes.is account. For some, this was simply their
 name, but others used some kind of alias. (A full list of participants
 and their screen names is [on the
 site](https://hyp.is/pBZX-kPTEemegFO8l_kIYg/www.musicalpassage.org/)).
@@ -124,7 +121,7 @@ in the digital space.
 
 Once it began, the commons event rapidly became a delightful spiral of
 conversation. A question about the possible biographical stories we can
-tell about “Mr. Baptiste,” the figure who produced the musical notation
+tell about "Mr. Baptiste," the figure who produced the musical notation
 on the page, generated a [marvelous series of thirty-three
 responses](https://hyp.is/72DokjUbEeeO-Kv7CZ8IeQ/www.musicalpassage.org/),
 including comments from Gregory Pierrot, Hall, Rebecca
@@ -133,26 +130,24 @@ subthreads of dialogue. By the end of the week, this conversation had
 led the three of us site directors both to rethink the interpretation we
 present on the site and to pursue further research in order to expand
 our empirical foundations around this central question. Inspired in part
-by these lively debates about Baptiste’s identity, Mary Caton Lingold
+by these lively debates about Baptiste's identity, Mary Caton Lingold
 went on to carry out research in Jamaica that ultimately helped to
-support our theories about the composer’s identity and expertise. This
+support our theories about the composer's identity and expertise. This
 new research, combined with the hypothes.is event of 2017, will form the
 basis for a revision of the site.
 
 Another line of discussion opened up when the TIP high school students
-working with David Garner asked a [sharp
-question](https://hyp.is/XF2mqldzEeeOH0sSRdtUwg/www.musicalpassage.org/)
+working with David Garner asked a [sharp question](https://hyp.is/XF2mqldzEeeOH0sSRdtUwg/www.musicalpassage.org/)
 that generated a richly detailed response from Kenneth Bilby,
 essentially a mini-essay on musical notation and the complexities of
-capturing the nuances of Jamaica music. This in turn generated [a
-response](https://via.hypothes.is/http://www.musicalpassage.org/#annotations:XF2mqldzEeeOH0sSRdtUwg)
+capturing the nuances of Jamaica music. This in turn generated [a response](https://via.hypothes.is/http://www.musicalpassage.org/#annotations:XF2mqldzEeeOH0sSRdtUwg)
 from Richard Rath that also explored the varied ways ethnomusicologists
 and historians might try to understand what music sounded like in the
 past.
 
 The opportunity to engage in an open forum with Bilby and Rath was
-particularly valuable. Rath’s work was the major foundation for our own
-work on the site and Bilby’s work on Jamaica and on Afro-Caribbean music
+particularly valuable. Rath's work was the major foundation for our own
+work on the site and Bilby's work on Jamaica and on Afro-Caribbean music
 more broadly had provided us intellectual inspiration and guidance
 throughout the project. In a traditional peer review process, Rath and
 Bilby would have been the most suitable expert reviewers for the
@@ -169,7 +164,7 @@ to us. These were the kinds of dialogues that normally might take place
 following a paper presentation at a conference and, as such, would only
 involve those in the room at the time and would be limited to a few
 moments during Q&A. While such exchanges are of course incredibly
-valuable for the development of one’s research, they are generally
+valuable for the development of one's research, they are generally
 accessible only to those with access to that particular academic space.
 Hypothes.is affords an opportunity, under the right conditions, to have
 much more open and inclusive conversations and thus to yield more open
@@ -181,16 +176,15 @@ itself as a form of intellectual engagement. Bilby offered new insights
 into the interpretations of the seventeenth-century music during the
 workshop in Jamaica,
 [explaining](https://hyp.is/WEVXAjWaEee3yrP-Zj8Brw/www.musicalpassage.org/)
-that the musicians had moved from the song “Angola” into a particular
+that the musicians had moved from the song "Angola" into a particular
 song by Ras Michael and meditating on what it meant that they had done
-so. He [led
-us](https://hyp.is/j3N8zDWaEeebgDtAtrs3uQ/www.musicalpassage.org/) into
+so. He [led us](https://hyp.is/j3N8zDWaEeebgDtAtrs3uQ/www.musicalpassage.org/) into
 the remarkable layers of meaning behind the interpretation of the song
-“Papa,” and the ways Earl “Chinna” Smith had transformed the original
+"Papa," and the ways Earl "Chinna" Smith had transformed the original
 song into a traditional Rastafarian song, played in Nyabinghi
-ceremonies, called “Africa We Want to Go” or “Zion Land.” Bibly also
+ceremonies, called "Africa We Want to Go" or "Zion Land." Bibly also
 explained that the song itself was derived from the 1950s Cuban song
-“Tabu.” This in turn prompted Patricia Van Leeuwarde Moonsammy to [push
+"Tabu." This in turn prompted Patricia Van Leeuwarde Moonsammy to [push
 us](https://hyp.is/j3N8zDWaEeebgDtAtrs3uQ/www.musicalpassage.org/) to
 think more about precisely what kind of emotional and spiritual
 relationship underpinned the playing of these songs. She suggested that
@@ -204,16 +198,16 @@ nature of the original workshop continued in the digital space, giving
 us new ideas for other potential musical encounters and workshops in
 Jamaica and elsewhere.
 
-Bilby’s comments during this project represented the first sustained
+Bilby's comments during this project represented the first sustained
 analysis we had read of the workshop in Jamaica, effectively producing a
 kind of paper—in multimedia and conversation form—about how this event
 offered new insights into the Sloane material. As [Bilby
 noted](https://hyp.is/dh2lklUoEeeiZesVMvM8HA/www.musicalpassage.org/),
-the act of interpretation by these musicians was a demonstration of “how
+the act of interpretation by these musicians was a demonstration of "how
 complex and multiply meaningful this web of diasporic musical
-interconnections” is in the Caribbean and beyond. As he pointed out, the
-musicians had moved from playing a version of “Koromanti 1” into the
-song “St. Thomas,” best known through a Sonny Rollins interpretation.
+interconnections" is in the Caribbean and beyond. As he pointed out, the
+musicians had moved from playing a version of "Koromanti 1" into the
+song "St. Thomas," best known through a Sonny Rollins interpretation.
 However, as Bilby then pointed out, the Rollins version itself has roots
 in an older Jamaican tune. These comments illuminated what had not been
 visible to us on first encounter with the workshop and the videos,
@@ -226,10 +220,9 @@ multimodal and allowed for the videos and the music posted by Bilby to
 be presented together. The acts of reading, listening, and historical
 and cultural interpretation were all intertwined, offering a new form of
 interpretive practice. This was also the case in a [fascinating thread
-of
-discussion](https://hyp.is/DW5SSlXWEeeEEB83jLWSsg/www.musicalpassage.org/)
+of discussion](https://hyp.is/DW5SSlXWEeeEEB83jLWSsg/www.musicalpassage.org/)
 involving Gregory Pierrot, Kim Hall, and David Garner around the
-question of how we might include the call of “Alla, alla” in future
+question of how we might include the call of "Alla, alla" in future
 recordings.
 
 One of the central questions raised by the materials on the site has to
@@ -238,43 +231,36 @@ affiliations in the context of Atlantic slavery. Our hope—our sense—is
 that in offering a set of musical pieces linked to particular terms,
 such as *Angola*, *Papa*, and *Koromanti*, these documents might provide
 new insight into what such categories meant to people of African descent
-themselves. In one annotation, we asked, “\[Can\] these songs . . .
-actually give us a better understanding of what ‘Koromanti’ meant as a
+themselves. In one annotation, we asked, "\[Can\] these songs . . .
+actually give us a better understanding of what 'Koromanti' meant as a
 term in seventeenth century Jamaica\[?\] How might we read back from the
 music? What does the fact that three songs that are so different are all
-called ‘Koromanti’ signify about the term and its meaning at the time?”
+called 'Koromanti' signify about the term and its meaning at the time?"
 The responses to this question were deeply insightful, amounting to a
-sort of [a
-mini-symposium](https://hyp.is/LgtBnjWbEee6YnsGxVM5tQ/www.musicalpassage.org/).
+sort of [a mini-symposium](https://hyp.is/LgtBnjWbEee6YnsGxVM5tQ/www.musicalpassage.org/).
 Such a conversation could have happened in a conference setting but,
 thanks to the hypothes.is format, is available here as its own kind of
 public forum. Moreover, this conversation animated other discussions,
-inspiring vital insights from [Jessica
-Krug](https://hypothes.is/users/Jessica_Krug) about the term
-*Koromanti*. This in turn generated a [new
+inspiring vital insights from [Jessica Krug](https://hypothes.is/users/Jessica_Krug) about the term *Koromanti*. This in turn generated a [new
 thread](https://hyp.is/vf5BZFddEeeQMyfszBXX9g/www.musicalpassage.org/)
 of discussion. These webs of conversation became so intricate that we
 began posting, in the replies, links to other threads within the page
 itself. And Krug pushed us to think in new ways about the material when
-she argued that the “plurality of musical forms” that appears under this
+she argued that the "plurality of musical forms" that appears under this
 term in the Hans Sloane biography currently on the site offers us an
 opportunity to think in complex and deeper ways about precisely what
-this term meant “for those using it the in the seventeenth century.”
+this term meant "for those using it the in the seventeenth century."
 
 At the end of the week, Patricia Van Leeuwaarde Moonsammy raised a set
-of [key
-questions](https://hyp.is/_57FhlhCEeekfyd-QZq8bA/www.musicalpassage.org/)
+of [key questions](https://hyp.is/_57FhlhCEeekfyd-QZq8bA/www.musicalpassage.org/)
 about how to improve the process for future experiments. Her weaving
-together of the threads helped us lay out a set of [proposed
-responses](https://hyp.is/yGW5XFh6EeerIWt4TdmnVA/www.musicalpassage.org/)
+together of the threads helped us lay out a set of [proposed responses](https://hyp.is/yGW5XFh6EeerIWt4TdmnVA/www.musicalpassage.org/)
 (including writing this piece) to what we read during the course of the
 week. Other participants offered a number of specific suggestions as
-well. These included some [design
-ideas](https://hyp.is/sThQlDWaEeegNiPXRncLMw/www.musicalpassage.org/)
-from Marc Fields; Marlene Daut’s push for us to think about other
-possible examples of such transcribed music; and [Anne
-Eller](https://hypothes.is/users/aee54)’s suggestion that we offer
-“collective biographies” of the enslaved who produced the music, so as
+well. These included some [design ideas](https://hyp.is/sThQlDWaEeegNiPXRncLMw/www.musicalpassage.org/)
+from Marc Fields; Marlene Daut's push for us to think about other
+possible examples of such transcribed music; and [Anne Eller](https://hypothes.is/users/aee54)'s suggestion that we offer
+"collective biographies" of the enslaved who produced the music, so as
 to balance out and sit alongside the longer Sloane document.
 
 Our active engagement, in real time, with the comments that were being
