@@ -682,8 +682,8 @@ live again.
 {% include image.html
     img="issue03/johnson-vid-a.png"
     url="https://player.vimeo.com/video/23003301?autoplay=1&loop=1&color=ffffff"
-    title='Matana Roberts, "Mississippi Moonchile," *Coin Coin*. Directed by Radwan Moumneh.'
-    caption='Matana Roberts, "Mississippi Moonchile," *Coin Coin*. Directed by Radwan Moumneh.' %}
+    title='Matana Roberts, &quot;Mississippi Moonchile,&quot; *Coin Coin*. Directed by Radwan Moumneh.'
+    caption='Matana Roberts, &quot;Mississippi Moonchile,&quot; *Coin Coin*. Directed by Radwan Moumneh.' %}
 
 Fluid and fugitive, Matana Roberts and Coin Coin do not occupy a single
 digital project space or site. Coin Coin, through Roberts, does what she
@@ -770,7 +770,7 @@ forget that even in the dark we keep the light.
 {% include image.html
     img="issue03/johnson-vid-b.png"
     url="https://www.youtube.com/embed/mO-PAYLa0Y0"
-    title='Lighter Thieves. "We Keep the Light."'
+    title='Lighter Thieves. &quot;We Keep the Light.&quot;'
     caption='Lighter Thieves. "We Keep the Light."' %}
 
 
