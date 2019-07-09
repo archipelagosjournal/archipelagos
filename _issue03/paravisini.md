@@ -4,7 +4,7 @@ section: reviews
 title: 
   "long": "Review of *Puerto Rico Syllabus*: Essential Tools for Critical Thinking about the Puerto Rican Debt Crisis"
   "short": "Review of *Puerto Rico Syllabus*"
-doi: ""
+doi: "10.7916/archipelagos-xnx4-bz51"
 author: 
 - name: Lizabeth Paravisini-Gebert 
   shortname: Paravisini-Gebert

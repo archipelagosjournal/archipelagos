@@ -4,7 +4,7 @@ section: projects
 title: 
   "long": "Early Caribbean Digital Archive"
   "short": "EACD"
-doi: ""
+doi: "10.7916/archipelagos-012j-wq44"
 author: 
 - name: Elizabeth Maddock Dillon
   shortname: Dillon
