@@ -19,7 +19,8 @@ extension="${filename##*.}"
 filename="${filename%.*}"
 
 if [ $(grep --count "[“”]" $fullfile) -gt 0 ]; then
-	echo -e "${Red}Don't use smartquotes! If you want nested quotes, use single and double quotes. Aborting."
+	echo -e "${Red}Don't use smartquotes! If you want nested quotes, use single and double quotes. Aborting${Color_Off}."
+	grep --color --line-number --with-filename "[“”]" $fullfile
 	exit 1
 fi
 
