@@ -222,7 +222,7 @@ p {
 }
 
 @media (max-width: 42em) {
-  .content p {
+  .content p, .content ul {
     font-size: 1rem;
   }
 }
