@@ -81,7 +81,7 @@ happened / Oh hey / We are deathless / We are deathless."
 
 This special issue of *sx archipelagos*, "Slavery in the Machine," sings
 out with that same defiance. In the face of environmental catastrophes,
-"unpayable debt" levied by a global North created out of plantation
+"unpayable debt" levied by a global north created out of plantation
 profits, police and military violence, and the continued predations of
 US empire, the Caribbean and its diaspora refuse death. Our women,
 children, and men rebuke the "bad press" spoken in their name by
