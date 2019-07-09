@@ -8,11 +8,12 @@ doi: ""
 author: 
 - name: Elizabeth Maddock Dillon
   shortname: Dillon
-  bio: 
-   
-- name: Nicole Aljoe
+  bio: >
+    Elizabeth Maddock Dillon is a professor in and the chair of the Department of English at Northeastern University and is a codirector of the NULab for Texts, Maps, and Networks there. She is the author of *New World Drama: The Performative Commons in the Atlantic World, 1649–1849* (2014) and *The Gender of Freedom: Fictions of Liberalism and the Literary Public Sphere* (2004). She is the coeditor, with Michael Drexler, of *The Haitian Revolution and the Early US: Histories, Geographies, Textualities* (forthcoming). She has published widely in journals on topics from aesthetics, to the novel and performance in the early Atlantic world, to Barbary pirates. She is the founder of the award-winning crowd-sourced digital archive *Our Marathon: The Boston Bombing Digital Archive* and the cofounder and codirector of the *Early Caribbean Digital Archive*.   
+- name: Nicole N. Aljoe
   shortname: Aljoe
-  bio: 
+  bio: >
+    Nicole N. Aljoe teaches English and Africana studies at Northeastern University. Her research focuses on eighteenth- and nineteenth-century black Atlantic and Caribbean literatures, with a specialization on the slave narrative. She has published widely in these areas, and is the author of *Creole Testimonies: Slave Narratives from the British West Indies, 1709–1836* (2011) and a coeditor of *Journeys of the Slave Narrative in the Early Americas* (2014) and *Literary Histories of the Early Anglophone Caribbean: Islands in the Stream* (2018). She is currently at work on two new projects: one examines representations of Caribbean Women of color; the other explores the relationships between narratives of black lives and the rise of the novel in Europe and the Americas in the eighteenth century. She is the cofounder and codirector of the *Early Caribbean Digital Archive*.
    
 date: April 2019
 issue: 3
