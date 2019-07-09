@@ -573,7 +573,6 @@ of production (fig. 4).
     *Encyclopédie*, vol. 1, plates.'
     caption='Figure 4. &quot;Aiguillier (detail),&quot; from Diderot et al.,
     *Encyclopédie*, vol. 1, plates.'
-    url="http://www.slaveryimages.org/details.php?categorynum=7&categoryName=New%20World%20Agriculture%20and%20Plantation%20Labor&theRecord=35&recordCount=114"
 %}
 
 In other words, handicraft and manufacture (including plantation

@@ -7,7 +7,9 @@ permalink:           none
 title:               "sx archipelagos"
 publisher:           "Small Axe Project"
 description:         'a small axe platform for digital practice'
-url:                 'http://archipelagos-dev.elotroalex.com'
+# url:                 'http://archipelagos-dev.elotroalex.com'
+url:                 "http://localhost:4000"
+# url:                 "http://smallaxe.net"
 baseurl:             '/sxarchipelagos'
 githuburl:           'https://github.com/sx-archipelagos/sxa'
 

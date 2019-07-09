@@ -771,7 +771,7 @@ We wish to thank the Polonsky Foundation-NYU Digital Humanities Internship Progr
 [^21]: "Legajo 4, Expte. 21. Diligencias para establecer una cofradía de
     San José el Gremio de carpinteros, 1800," Slave Societies Digital
     Archive,
-    [https://essss.library.vanderbilt.edu/islandora/object/essss%3A3824\#page/1/mode/1up](https://essss.library.vanderbilt.edu/islandora/object/essss%3A3824%23page/1/mode/1up).
+    [https://essss.library.vanderbilt.edu/islandora/object/essss%3A3824](https://essss.library.vanderbilt.edu/islandora/object/essss%3A3824).
     See Jane Landers, "Catholic Conspirators? Religious Rebels in
     Nineteenth-Century Cuba," *Slavery and Abolition* 36, no. 3 (2015):
     495–520.

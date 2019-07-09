@@ -218,7 +218,7 @@ competitions, held annually as part of the Bocas Lit Festival.[^23] The
 two different slams---Intercol features high school teams, and Verses
 features prominent poets who compete individually---reflect their
 mentorship structure. The 2015 winner of the Intercol slam, [Michael
-Logie](http://www.bocaslitfest.com/2015/the-spoken-word-intercol-champion-is/),
+Logie](https://www.bocaslitfest.com/2015/04/08/the-spoken-word-intercol-champion-is/),
 got to pick a 2 Cents Movement poet as a mentor to work with him for a
 year to help him develop his poetry.[^24] The 2 Cents Movement has also
 collaborated with the Trinidad and Tobago Radio Network on the [Free
@@ -836,7 +836,7 @@ this vital record of Caribbean poetry history a priority.
 
 [^23]: Verses was recently renamed the First Citizens National Poetry Slam.
 
-[^24]: "Logie Tops School's Spoken Word 'Intercol,'" *Trinidad and Tobago Guardian*, Accessed 2 April 2015, [http://www.guardian.co.tt/lifestyle/2015-04-01/logie-tops-schools-spoken-word-'intercol'](http://www.guardian.co.tt/lifestyle/2015-04-01/logie-tops-schools-spoken-word-'intercol'); "The Spoken Word Intercol Champion," *Bocas News*, [http://www.bocaslitfest.com/2015/the-spoken-word-intercol-champion-is](http://www.bocaslitfest.com/2015/the-spoken-word-intercol-champion-is).
+[^24]: "Logie Tops School's Spoken Word 'Intercol,'" *Trinidad and Tobago Guardian*, Accessed 2 April 2015, [http://www.guardian.co.tt/lifestyle/2015-04-01/logie-tops-schools-spoken-word-'intercol'](http://www.guardian.co.tt/lifestyle/2015-04-01/logie-tops-schools-spoken-word-'intercol'); "The Spoken Word Intercol Champion," *Bocas News*, [https://www.bocaslitfest.com/2015/04/08/the-spoken-word-intercol-champion-is/](https://www.bocaslitfest.com/2015/04/08/the-spoken-word-intercol-champion-is/).
 
 [^25]: See [http://www.youtube.com/playlist?list=PLsZJUoc\_yr1ufNZGIsFg74Fl3yuZTNU9k](http://www.youtube.com/playlist?list=PLsZJUoc\_yr1ufNZGIsFg74Fl3yuZTNU9k).
 

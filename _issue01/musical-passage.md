@@ -11,7 +11,7 @@ author:
 - name: Laurent Dubois
   shortname: Dubois
   bio: >
-    Laurent Dubois is Professor of Romance Studies and History and the Faculty Director of the [Forum for Scholars & Publics](https://fsp.trinity.duke.edu/) at Duke University. He is the author of six books, including Avengers of the New World: The Story of the Haitian Revolution (2004), Haiti: The Aftershocks of History (2012) and most recently [The Banjo: America’s African Instrument](http://www.hup.harvard.edu/catalog.php?isbn=9780674047846). In 2016-2017 he will be a Fellow at the National Humanities Center.
+    Laurent Dubois is Professor of Romance Studies and History and the Faculty Director of the [Forum for Scholars & Publics](https://fsp.trinity.duke.edu/) at Duke University. He is the author of six books, including Avengers of the New World: The Story of the Haitian Revolution (2004), Haiti: The Aftershocks of History (2012) and most recently [The Banjo: America’s African Instrument](www.hup.harvard.edu/catalog.php?isbn=9780674047846). In 2016-2017 he will be a Fellow at the National Humanities Center.
 - name: David Garner
   shortname: Garner
   bio: >
@@ -19,7 +19,7 @@ author:
 - name: Mary Caton Lingold
   shortname: Lingold
   bio: >
-    Mary Caton Lingold is a doctoral candidate in English at Duke, where she is completing a dissertation on early Afro-Atlantic literature and music. She is co-editor of the web collection [Provoke!: Digital Sound Studies](http://soundboxproject.com/), and a book by the same name and under contract at Duke UP. Her article on music in Caribbean travel narratives is forthcoming in *Early American Literature.* She also directs the [Sonic Dictionary](http://sonicdictionary.fhi.duke.edu/), a crowdsourced database of audio recordings.
+    Mary Caton Lingold is a doctoral candidate in English at Duke, where she is completing a dissertation on early Afro-Atlantic literature and music. She is co-editor of the web collection [Provoke!: Digital Sound Studies](http://soundboxproject.com/), and a book by the same name and under contract at Duke UP. Her article on music in Caribbean travel narratives is forthcoming in *Early American Literature.* She also directs the [Sonic Dictionary](https://sonicdictionary.duke.edu/), a crowdsourced database of audio recordings.
 image: images/issue01/musical-passage.jpg
 thumb: images/issue01/musical-passage-thumb.jpg
 link: "http://www.musicalpassage.org/#home"

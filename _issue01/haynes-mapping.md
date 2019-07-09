@@ -383,7 +383,7 @@ Blog Name | Blogger | Country | Categorization
 [1981: A Record of What Happened](http://amedjafifa.wordpress.com)| Some of It/DJ Afifa Aza | Jamaica | Personal-is-political, culture critic
 [Active Voice](http://anniepaul.net) | Annie Paul | Jamaica | +Feminism, culture critic, witty 
 [Add Fyah and Stir](http://addfyahandstir.wordpress.com) | | Antigua & Barbuda/St. Kitts--Nevis/T&T | Personal-is-political
-[Amílcar Sanatan](http://www.amilcarsanatan.com/blog) | | Trinidad & Tobago | +Feminism
+[Amílcar Sanatan](https://web.archive.org/web/20161015020643/http://www.amilcarsanatan.com/blog) | | Trinidad & Tobago | +Feminism
 [Antillean Media Group](http://www.antillean.org) | | Caribbean | +Feminism 
 [The Bad Dominicana](http://bad-dominicana.tumblr.com) | Zahira Kelly/Bad Dominicana | Dominican Republic | curator
 [BattyMamzelle](http://battymamzelle.blogspot.com) | Cate Young/BattyMamzelle | Trinidad & Tobago/US | Culture critic, personal-is-political
@@ -748,7 +748,7 @@ and masculinity, with articles such as "Why Is There So Much Pressure on
 Indian Men to Get Married?," "This Is Why I'm Feminist," and "Don't
 Laugh but T&T Needs a Men's Movement." Feminists from the Caribbean have
 also created their own online lifestyle magazines: for example, [*Black
-Girl in the Ring*](http://blackgirlinthering.com), from Antigua and
+Girl in the Ring*](https://web.archive.org/web/20160701222551/http://blackgirlinthering.com/), from Antigua and
 Barbuda/Guyana, and [*CompleXD Woman*](http://www.complexdwoman.co.uk),
 from Grenada/UK.[^58] Online activist practices include petitions,
 mobilizing to shut down offensive websites, and promotion of offline
@@ -866,7 +866,7 @@ rhetorical devices (5)
 
 [^10]: See [http://www.buzzfeed.com/copyranter/another-liquor-company-creates-a-rapey-ad](http://www.buzzfeed.com/copyranter/another-liquor-company-creates-a-rapey-ad)
 
-[^11]: Malaika Brooks-Smith-Lowe, "Kickstarting the Goat Dairy in Grenada," *Guardian*, 30 August 2013, [http://www.theguardian.com/global-development-professionals-network/2013/aug/30/kickstarter-goat-dairy-grenada.](http://www.theguardian.com/global-development-professionals-network/2013/aug/30/kickstarter-goat-dairy-grenada)
+[^11]: Malaika Brooks-Smith-Lowe, "Kickstarting the Goat Dairy in Grenada," *Guardian*, 30 August 2013, [https://web.archive.org/web/20160724211041/http://www.theguardian.com/global-development-professionals-network/2013/aug/30/kickstarter-goat-dairy-grenada.](http://www.theguardian.com/global-development-professionals-network/2013/aug/30/kickstarter-goat-dairy-grenada)
 
 [^12]: See [http://womantratt.wix.com/home](http://womantratt.wix.com/home).
 
@@ -922,7 +922,7 @@ rhetorical devices (5)
 
 [^38]: Carolyn Joy Cooper, "About," *Jamaica Woman Tongue*, [http://carolynjoycooper.wordpress.com/about.](http://carolynjoycooper.wordpress.com/about)
 
-[^39]: Amílcar Sanatan, "About I," [http://www.amilcarsanatan.com/about-us.](http://www.amilcarsanatan.com/about-us)
+[^39]: Amílcar Sanatan, "About I," [http://www.amilcarsanatan.com/](https://web.archive.org/web/20161015020643/http://www.amilcarsanatan.com/)
 
 [^40]: Zahira Kelly (Bad Dominicana), "About Me," *The Bad Dominicana*, [http://bad-dominicana.tumblr.com/about.](http://bad-dominicana.tumblr.com/about)
 

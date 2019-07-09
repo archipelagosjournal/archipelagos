@@ -1336,7 +1336,7 @@ acts in this moment, but which must always remain open."[^87]
     Nationale d’Haïti (est. 1939), "Bibliothèque Nationale
     d’Haiti—May/June 2011," Smithsonian Libraries, *Unbound* (blog), 17
     August 2011,
-    [https://blog.library.si.edu/blog/2011/08/17/bibliotheque-nationale-dhaiti-mayjune-2011/\#.XBflq2l7lhE](https://blog.library.si.edu/blog/2011/08/17/bibliotheque-nationale-dhaiti-mayjune-2011/%23.XBflq2l7lhE);
+    [https://blog.library.si.edu/blog/2011/08/17/bibliotheque-nationale-dhaiti-mayjune-2011/](https://blog.library.si.edu/blog/2011/08/17/bibliotheque-nationale-dhaiti-mayjune-2011/);
     on the Bibliothèque Haïtienne des Frères de l’Instruction
     Chrétienne (est. 1912), <http://www.dloc.com/ibhfic>; and on
     the Musée du Panthéon National Haïtien (MUPANAH) (est. 1983),

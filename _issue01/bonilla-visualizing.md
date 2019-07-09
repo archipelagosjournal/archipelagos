@@ -787,7 +787,7 @@ Project working group at Barnard College and Columbia University.
 
 [^29]: See Pedro L. San Miguel, *The Imagined Island: History, Identity, and Utopia in Hispaniola* (Chapel Hill: University of North Carolina Press, 2006).
 
-[^30]: Rory Carroll and Daniel Nasaw, "US Accused of Annexing Airport as Squabbling Hinders Aid Effort in Haiti," *Guardian* (UK), January 2010, [http://www.theguardian.com/world/2010/jan/17/us-accused-aid-effort-haiti](http://www.theguardian.com/world/2010/jan/17/us-accused-aid-effort-haiti).
+[^30]: Rory Carroll and Daniel Nasaw, "US Accused of Annexing Airport as Squabbling Hinders Aid Effort in Haiti," *Guardian* (UK), January 2010, [http://www.theguardian.com/world/2010/jan/17/us-accused-aid-effort-haiti](https://web.archive.org/web/20190328050632/https://www.theguardian.com/world/2010/jan/17/us-accused-aid-effort-haiti).
 
 [^31]: Benton, *Search for Sovereignty*, specifically chap. 5, "Landlocked: Colonial Enclaves and the Problem of Quasi-Sovereignty," 222--78.
 

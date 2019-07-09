@@ -782,7 +782,7 @@ douen retains its capacity for devious and deviant paths.
 
 [^11]: See Geosi Gyasi, "Interview with Trinidadian Poet, Andre Bagoo," 25 April 2015, [http://geosireads.wordpress.com/2015/04/25/interview-with-trinidadian-poet-andre-bagoo](http://geosireads.wordpress.com/2015/04/25/interview-with-trinidadian-poet-andre-bagoo).
 
-[^12]: See [http://www.instagram.com/p/m9BmgSGxJS](http://www.instagram.com/p/m9BmgSGxJS/); and [http://www.instagram.com/p/m\_SDXEGxJn/](http://www.instagram.com/p/m_SDXEGxJn/). See also performance stills included in Ramlochan's review of the event, "An Evening of Alice Yard Douens," 14 April 2014, [http://www.bocaslitfest.com/2014/an-evening-of-alice-yard-douens](http://www.bocaslitfest.com/2014/an-evening-of-alice-yard-douens).
+[^12]: See [http://www.instagram.com/p/m9BmgSGxJS](http://www.instagram.com/p/m9BmgSGxJS/); and [http://www.instagram.com/p/m\_SDXEGxJn/](http://www.instagram.com/p/m_SDXEGxJn/). See also performance stills included in Ramlochan's review of the event, "An Evening of Alice Yard Douens," 14 April 2014, [https://www.bocaslitfest.com/2014/04/18/an-evening-of-alice-yard-douens/](https://www.bocaslitfest.com/2014/04/18/an-evening-of-alice-yard-douens/).
 
 [^13]: See [http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar](http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar); and [http://www.instagram.com/p/m89WgVGxCB/](http://www.instagram.com/p/m89WgVGxCB/).
 
