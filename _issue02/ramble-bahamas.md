@@ -5,7 +5,7 @@ issue: 1
 title: 
   "long": "Ramble Bahamas"
   "short": "Ramble Bahamas"
-doi: "doi:10.7916/D84T6WRF"
+doi: "10.7916/D84T6WRF"
 date: July 2017
 author:
 - name: Jessica Dawson

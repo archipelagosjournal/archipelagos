@@ -4,7 +4,7 @@ section: reviews
 title: 
   "long": "Review of *The Caribbean Memory Project*"
   "short": "Review"
-doi: "doi:10.7916/D8RJ4WW9"
+doi: "10.7916/D8RJ4WW9"
 author: 
 - name: Peter Hudson 
   shortname: Hudson

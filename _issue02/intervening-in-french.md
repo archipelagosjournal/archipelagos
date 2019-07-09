@@ -4,7 +4,7 @@ section: articles
 title: 
   "long": "Intervening in French: *A Colony in Crisis*, the Digital Humanities, and the French Classroom"
   "short": "Intervening in French"
-doi: "doi:10.7916/D88K7NG5"
+doi: "10.7916/D88K7NG5"
 author:
 - name: Nathan H. Dize
   shortname: Dize

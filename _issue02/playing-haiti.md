@@ -4,7 +4,7 @@ section: articles
 title: 
   "long": "Digital Saint-Domingue: Playing Haiti in Videogames"
   "short": "Digital Saint-Domingue"
-doi: "doi:10.7916/D8DB8D8S"
+doi: "10.7916/D8DB8D8S"
 author: 
 - name: Sarah Juliet Lauro 
   shortname: Lauro

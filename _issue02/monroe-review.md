@@ -4,7 +4,7 @@ section: reviews
 title: 
   "long": "Review of the *Digital Archaeological Archive of Comparative Slavery*"
   "short": "Review"
-doi: "doi:10.7916/D8W95NKK"
+doi: "10.7916/D8W95NKK"
 author: 
 - name: J. Cameron Monroe 
   shortname: Monroe

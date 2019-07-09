@@ -4,7 +4,7 @@ section: projects
 title: 
   "long": "The Digital Overhaul of the Archive of *Ecclesiastical and Secular Sources for Slave Societies* (ESSSS)"
   "short": "Digital Overhaul"
-doi: "doi:10.7916/D812651T"
+doi: "10.7916/D812651T"
 author: 
 - name: Angela Sutton  
   shortname: Sutton
