@@ -5,15 +5,15 @@ title:
   long: >
     The Slave-Machine: Slavery, Capitalism, and the "Proletariat" in *The Black Jacobins* and *Capital*
   short: "The Slave-Machine"
-doi: ""
+doi: "10.7916/archipelagos-mq09-v798"
 author: 
 - name: Nick Nesbitt  
   shortname: Nesbitt
   bio: >
     Nick Nesbitt is a professor of French at Princeton University. Most recently, he is the author of *Caribbean Critique: Antillean Critical Theory from Toussaint to Glissant* (Liverpool University Press, 2013) and the editor of *The Concept in Crisis: Reading "Capital" Today* (Duke University Press, 2017).
-date: April 2019
+date: July 9 2019
 issue: 3
-order: 1
+order: 3
 abstract: >
   The essay interrogates C. L. R. James’s famous claim in *The Black Jacobins* (1938) that the slaves of St. Domingue were "closer to a modern proletariat than any group of workers in existence at the time," by comparing James’s understanding of the concept *proletariat*—there and in *World Revolution* (1937)—with Marx’s various developments of the concept across the three volumes of *Capital*. This analysis distinguishes James’s political and historicist deployment of the term from Marx’s analytical usage of the notion in his categorial critique of capitalism. In contrast with James’s linear, Marxist-humanist understanding of the passage from slavery to capitalism, Marx defines these two basic categories in *Capital* as analytically (as opposed to historically) distinct modes of production. The essay thus concludes by analyzing Marx’s conceptual differentiation of slavery and industrial capitalism in *Capital*, drawing on Etienne Balibar’s analysis of the concepts of mode of production and transition in *Reading Capital* (1965).
 language: en

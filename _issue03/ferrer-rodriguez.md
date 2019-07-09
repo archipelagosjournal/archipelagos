@@ -4,7 +4,7 @@ section: articles
 title: 
   "long": "Collaborating with Aponte: Digital Humanities, Art, and the Archive"
   "short": "Collaborating with Aponte"
-doi: ""
+doi: "10.7916/archipelagos-mq9x-dd28"
 author:
 - name: Linda M. Rodriguez
   shortname: Rodríguez
@@ -14,9 +14,9 @@ author:
   shortname: Ferrer
   bio: >
     Ada Ferrer is Julius Silver Professor of History and Latin American and Caribbean Studies, New York University. She is author of the award-winning books *Insurgent Cuba: Race, Nation, and Revolution, 1868–1898* (University of North Carolina Press, 1999) and *Freedom’s Mirror: Cuba and Haiti in the Age of Revolution* (Cambridge University Press, 2014). She is currently the Andrew W. Mellon Foundation Fellow at the Cullman Center for Scholars and Writers at the New York Public Library, as well as a Guggenheim Foundation Fellow.
-date: July 2017
+date: July 9 2019
 issue: 3
-order: 2
+order: 4
 abstract: >
   In the last fifteen years or so, the story of José Antonio Aponte—the free black carpenter and artist who attempted to lead a major antislavery revolution in early-nineteenth-century Havana—has drawn the animated attention of scholars in history, art history, literary criticism, and anthropology, among other fields. Most of that scholarship has utilized time-worn techniques of scholarly practice: rigorous and wide-ranging archival research, perceptive close readings of judicial testimony, forays into theoretical works as interpretive aids to analysis. This essay revisits the story of Aponte, relying on the digital humanities website *Digital Aponte* that we—Linda Rodríguez, in collaboration with Ada Ferrer—curated. *Digital Aponte* invites an interdisciplinary collaboration that can be said to echo the collaborative approaches Aponte himself pursued in his creative, intellectual, and political practices. In the present, such approaches advance our understandings of Aponte and the histories of black antislavery in the Atlantic world, just as they foreground the profound link between artistic and revolutionary work.
 language: en

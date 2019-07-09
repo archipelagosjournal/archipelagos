@@ -4,15 +4,15 @@ section: articles
 title: 
   "long": "Haiti @ the Digital Crossroads: Archiving Black Sovereignty"
   "short": "Haiti @ the Digital Crossroads"
-doi: "doi:10.7916/D812651T"
+doi: "10.7916/archipelagos-53xt-3v66"
 author: 
 - name: Marlene L. Daut  
   shortname: Daut
   bio: >
     Marlene L. Daut specializes in early Caribbean, nineteenth-century African American, and early modern French colonial literary and historical studies. Her first book, *Tropics of Haiti: Race and the Literary History of the Haitian Revolution in the Atlantic World, 1789–1865* (Liverpool University Press, 2015) was part of the Liverpool Studies in International Slavery. Her second book, *Baron de Vastey and the Origins of Black Atlantic Humanism* (Palgrave Macmillan, 2017) was part of the series in the New Urban Atlantic. She is now working on a collaborative project with Grégory Pierrot and Marion Rohrleitner titled *An Anthology of Haitian Revolutionary Fictions (Age of Slavery*), which is under contract with the University of Virginia Press. Daut is the cocreator and coeditor of H-Net Commons’s digital platform [H-Haiti](https://networks.h-net.org/h-haiti). She also curates a website on early Haitian print culture at [*La Gazette Royale d’Hayti*](http://lagazetteroyale.com/) and has developed an online bibliography of fictions of the Haitian Revolution from 1787 to 1900 at <http://haitianrevolutionaryfictions.com>.
-date: April 2019
+date: July 9 2019
 issue: 3
-order: 3
+order: 5
 abstract: >
   In the spirit of Papa Legba (a Haitian <em>lwa</em> who is the arbiter of the crossroads between the human and nonhuman worlds), this essay examines the challenges and opportunities presented when using a digital humanities approach to archiving early Haitian sovereignty, a critical but often forgotten part of the story of the making of the modern world-system. Abdul JanMohamed and David Lloyd have written about "archival work, as a form of counter-memory" that is "essential to the critical articulation of minority discourse." However, because archives, like other kinds of texts, reflect the worldview of their creators, the archivist working to articulate "minority discourse" must be careful not to reproduce patterns of domination or cultural exploitation. For Haiti, this means that we must work against the idea that the abundant historical resources now made readily (and often freely) available by various digitization projects, represent a "new frontier" for research, an idea that encourages the notion that the country is "open for business" on a variety of levels. Instead, by using the metaphor of the crossroads, this essay demonstrates how a multimodal approach—involving content, context, collaboration, and access—can allow for alternative ways of (humanely) archiving black sovereignty.
 language: en

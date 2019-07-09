@@ -3,9 +3,9 @@ layout: page
 section: introduction
 issue: 3
 order: 1
-date: April 2019
+date: July 9 2019
 title: "The Caribbean Won't Stand Still"
-doi: ""
+doi: "10.7916/archipelagos-6nh2-pj27"
 author: 
 - name: Kaiama L. Glover
   shortname: Glover

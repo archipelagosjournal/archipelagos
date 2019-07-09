@@ -3,14 +3,14 @@ layout: page
 section: introduction
 issue: 3
 order: 2
-date: April 2019
+date: July 9 2019
 title: "We Are Deathless (Slavery in the Machine)"
-doi: "10.7916/D8NS1689"
+doi: "10.7916/archipelagos-q06t-dm84"
 author: 
 - name: Jessica Marie Johnson
   shortname: Johnson
-  bio: 
-   
+  bio: >
+    Jessica Marie Johnson is a writer and historian of slavery at Johns Hopkins University. She is the author of *Practicing Freedom: Black Women, Intimacy, and Kinship in New Orleans Atlantic World* (University of Pennsylvania Press, forthcoming) and a co-editor, with Mark Anthony Neal, of "Black Code," a special issue of *The Black Scholar *(2017). Her work has appeared in *Slavery and Abolition*; *The Black Scholar*; *Meridians\: Feminism, Race, and Transnationalism*; *American Quarterly*; *Social Text*; the *Journal of African American History*; the *William and Mary Quarterly*; *Debates in the Digital Humanities*; *Forum Journal*; *Bitch Magazine*; *Black Perspectives* (AAIHS); *Somatosphere*; and *Post-Colonial Digital Humanities* (*DHPoco*). She tweets as @jmjafrx.  
 language: en
 special: multiverse
 ---

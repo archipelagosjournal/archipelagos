@@ -14,9 +14,9 @@ author:
   shortname: Aljoe
   bio: >
     Nicole N. Aljoe teaches English and Africana studies at Northeastern University. Her research focuses on eighteenth- and nineteenth-century black Atlantic and Caribbean literatures, with a specialization on the slave narrative. She has published widely in these areas, and is the author of *Creole Testimonies: Slave Narratives from the British West Indies, 1709–1836* (2011) and a coeditor of *Journeys of the Slave Narrative in the Early Americas* (2014) and *Literary Histories of the Early Anglophone Caribbean: Islands in the Stream* (2018). She is currently at work on two new projects: one examines representations of Caribbean Women of color; the other explores the relationships between narratives of black lives and the rise of the novel in Europe and the Americas in the eighteenth century. She is the cofounder and codirector of the *Early Caribbean Digital Archive*.
-date: April 2019
+date: July 9 2019
 issue: 3
-order: 1
+order: 8
 image: images/issue03/ecda.png
 thumb: images/issue03/ecda-thumb.png
 link: "https://ecda.northeastern.edu/"

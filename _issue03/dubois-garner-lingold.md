@@ -18,9 +18,9 @@ author:
   shortname: Lingold
   bio: >
     Mary Caton Lingold is an assistant professor of English at Virginia Commonwealth University, where she she is writing a book about the literary history of African music in the Atlantic world (1630–1830). Her 2017 essay on early Caribbean music was recognized as cowinner of the Richard Beale Davis prize for best essay in *Early American Literature*. She coedited *Digital Sound Studies* (Duke University Press, 2018) and [produced a podcast](https://soundcloud.com/c19podcast/tena-too-sings-america-listening-to-an-enslaved-womans-musical-memories-of-africa) on the transatlantic journey of a song by an enslaved woman named Tena.
-date: June 2017
+date: July 9 2019
 issue: 3
-order: 2
+order: 9
 abstract: >
 language: en
 ---

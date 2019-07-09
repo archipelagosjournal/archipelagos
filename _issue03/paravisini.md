@@ -10,9 +10,9 @@ author:
   shortname: Paravisini-Gebert
   bio: >
     Lizabeth Paravisini-Gebert is based in the Hispanic Studies Department at Vassar College, where she holds the Randolph Distinguished Professor Chair; she is also a member of the Programs in Environmental Studies, Latin American Studies, International Studies, and Women’s Studies. Her most recent book, *Extinctions: Colonialism, Biodiversity, and the Narratives of the Caribbean*, is forthcoming this year from Liverpool University Press. She coauthors, with Ivette Romero-Cesareo, the blog [*Repeating Islands*](https://repeatingislands.com/), and coedits, with Michael Aronna, the [The Oviedo Project](http://pages.vassar.edu/oviedo/).
-date: April 2019
+date: July 9 2019
 issue: 3
-order: 6
+order: 11
 abstract: 
 language: en
 ---
