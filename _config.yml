@@ -8,9 +8,9 @@ title:               "sx archipelagos"
 publisher:           "Small Axe Project"
 description:         'a small axe platform for digital practice'
 # url:                 'http://archipelagos-dev.elotroalex.com'
-url:                 "http://localhost:4000"
+url:                 ""
 # url:                 "http://smallaxe.net"
-baseurl:             '/sxarchipelagos'
+baseurl:             ''
 githuburl:           'https://github.com/sx-archipelagos/sxa'
 
 # Colophon

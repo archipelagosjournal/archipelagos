@@ -492,8 +492,9 @@ inconsolable:
 > Li gagnin jupon brodé,  
 > Li gagnin des belles allures,  
 > Boucle d'oreilles en or tout pure.  
-> 
-> \[*Saxon's Translation*\]  
+
+Saxon's Translation:
+
 > (Poor lil' Mamzelle Zizi!  
 > She has a pain in her heart!  
 > Poor lil' Mamzelle Zizi,  
