@@ -10,12 +10,12 @@ description:         'a small axe platform for digital practice'
 
 
 # DEV
-# url:                 ''
-# baseurl:             ''
+url:                 ''
+baseurl:             ''
 
 # TEST SERVER
-url:                 'http://archipelagos-dev.elotroalex.com'
-baseurl:             '/sxarchipelagos'
+# url:                 'http://archipelagos-dev.elotroalex.com'
+# baseurl:             '/sxarchipelagos'
 
 # PROD
 # url:                 "http://smallaxe.net"

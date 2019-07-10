@@ -5,7 +5,7 @@ language: ruby
   - bash ./utility/ConTeXt/install.sh
   script:
   - bundle exec jekyll build -d _site/sxarchipelagos
-  - bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html --allow-hash-href
+  - bundle exec htmlproofer ./_site --only-4xx --check-html --allow-hash-href
   - "./utility/ConTeXt/makeIssues.sh"
   cache: bundler
 
