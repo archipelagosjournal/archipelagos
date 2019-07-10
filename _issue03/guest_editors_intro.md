@@ -66,9 +66,9 @@ French-Cuban songstresses Lisa-Kaindé Diaz and Naomi Diaz of Ibeyi wrote
 song, Lisa-Kaindé told the story of being harassed by a police officer
 in Paris at sixteen years old. The harassment only stopped when the
 police officer wrenched her bag from her hands and a book from it
-spilled on the floor. She related, "And I think he thought, ‘Oh, she
-might be intelligent and have something in her head.’ So he just gave me
-my empty bag and left."[^p1] Against saxophonist Kamasi Washington’s
+spilled on the floor. She related, "And I think he thought, 'Oh, she
+might be intelligent and have something in her head.' So he just gave me
+my empty bag and left."[^p1] Against saxophonist Kamasi Washington's
 lilting playing, two haunting verses narrate that moment of terror,
 evoking the confusion and fear of a teenaged girl who was, "Innocent /
 Sweet sixteen / Frozen with fear." At the same time, in the breaks
@@ -77,7 +77,7 @@ Defying the authority and threat embodied in the looming figure of the
 police officer, Ibeyi sings out in defiance, "Whatever happens, whatever
 happened / Oh hey / We are deathless / We are deathless."
 
-[^p1]: Alyssa Edes, "Ibeyi on Spirituality and Joy in ‘Ash,’" 4 October 2017, https://www.kbbi.org/post/ibeyi-spirituality-and-joy-ash.
+[^p1]: Alyssa Edes, "Ibeyi on Spirituality and Joy in 'Ash,'" 4 October 2017, https://www.kbbi.org/post/ibeyi-spirituality-and-joy-ash.
 
 This special issue of *sx archipelagos*, "Slavery in the Machine," sings
 out with that same defiance. In the face of environmental catastrophes,
@@ -109,7 +109,7 @@ unpacking the brutalities of the New World? The contributors to "Slavery
 in the Machine" speak across historiographies and archives, literatures
 and audiences to provide an array of answers. As a body, the
 contributions gathered here challenge readers to expand their frame in
-horizontal and vertical directions—to stand at the crossroads—and
+horizontal and vertical directions---to stand at the crossroads---and
 reconsider questions, digital as well as analog, that humanists have
 taken for granted. Digital projects build themselves around interactions
 with users. Liberal humanism roots itself in the power of the
@@ -122,7 +122,7 @@ broadly, particularly in the fields of history and English. These fields
 privilege empirical analysis, large data sets, broad swaths of collected
 material. Instead of demanding empiricism, the contributors to this
 special issue take the chaos of colonialism, the destruction of the
-hurricane, and the cleansing heat of the slave revolt’s fire as evidence
+hurricane, and the cleansing heat of the slave revolt's fire as evidence
 of the impossibility of the complete data set. Instead, they embrace
 disaster as data, gather the fractional, the missing, and the destroyed
 and hold those null values as sites of analysis that center Caribbean
@@ -158,29 +158,29 @@ or the Haitian Revolution as their primary topic, Daut explores how
 us to better understand the political processes that drove Haitians to
 create and sustain an independent nation-state in the nineteenth
 century." In "The Slave-Machine: Slavery, Capitalism, and the
-‘Proletariat’ in *The Black Jacobins* and *Capital*," Nick Nesbitt
-explores the machinery of capitalism. Centering C. L. R. James’s claim
+'Proletariat' in *The Black Jacobins* and *Capital*," Nick Nesbitt
+explores the machinery of capitalism. Centering C. L. R. James's claim
 in the iconic text *The Black Jacobins* that the enslaved of
 eighteenth-century Saint Domingue were "closer to a modern proletariat
 than any group of workers in existence at the time," Nesbitt compares
-the powerful political rhetoric in James’s text with Marx’s more narrow
+the powerful political rhetoric in James's text with Marx's more narrow
 definition of *proletariat* and *capitalism*. In "Xroads Praxis: Black
 Diasporic Technologies for Remaking the New World," I return to the
 devastation spread by Hurricane María and use the blackout created by
-the hurricane—a blackness so intense it could be seen from space—as a
+the hurricane---a blackness so intense it could be seen from space---as a
 jumping off point for considering what missing data, black spaces,
 \#BlackTheory, and histories of slavery can do to humanize digitized
 data sets. By proposing an "xroads praxis," I challenge digital
 humanists to explore "what digital and analog landscapes hide and
 reveal, seeing them in their fullness after the storm of 1441/1492,
 finding black space on the map that does not conclude in black death."
-Marisa Parham’s "Breaking, Dancing, Making in the Machine: Notes on
+Marisa Parham's "Breaking, Dancing, Making in the Machine: Notes on
 .break .dance" proceeds to do precisely this work. Like Daut and me,
 Parham uses the crossroads, but she expands her analysis to include
 movement and ephemerality as codes in and of themselves. Parham surfaces
 black diasporic knowledge as a constituent technology in the making of
 the New World. This groundbreaking essay is the highest form of
-humanistic study, digital or analog. Parham’s ".break .dance"
+humanistic study, digital or analog. Parham's ".break .dance"
 exemplifies the kind of rigorous, creative, and challenging
 possibilities that unfold when black diasporic intellectual work is
 taken seriously, and digital tools and coding languages are learned for
@@ -192,11 +192,11 @@ and Linda Rodríguez explore *Digital Aponte*, their project translating
 the life and paintings of nineteenth-century Cuban artist and insurgent
 José Antonio Aponte into digital form. Spanish officials arrested Aponte
 during a series of slave revolts in 1812. Officials used his book of
-painting—a fantastic collection of original, collage, and remixed images
+painting---a fantastic collection of original, collage, and remixed images
 featuring black saints, Toussaint Louverture, Egyptian iconography, and
-more—as evidence of his guilt. The book of paintings, however, has not
+more---as evidence of his guilt. The book of paintings, however, has not
 surfaced in the years since. Ferrer and Rodriguez explore what it means
-to relate a life like Aponte’s. He was a man whose artistic
+to relate a life like Aponte's. He was a man whose artistic
 transgressions occupied Spanish investigators and led to his execution
 (at the crossroads), and his story would seem to end with his death. But
 it is in his masking, that is, in the work he hid, destroyed,
@@ -212,13 +212,13 @@ technology offers scholars of the Caribbean and the African diaspora is
 the opportunity to find intellectual, political, and sonic kin by
 creating virtual spaces that transgress borders. Lizabeth Paravisini-Gebert,
 in her review of *Puerto Rico Syllabus* notes a similar community formed
-from Columbia University’s Unpayable Debt Working Group. In 2016 the
+from Columbia University's Unpayable Debt Working Group. In 2016 the
 Puerto Rico Oversight, Management, and Economic Stability Act (PROMESA),
 signed by President Barack Obama, placed an impossible burden of debt
 and austerity on the island of Puerto Rico, leading to massive student
 and activist protests in Puerto Rico and on the mainland. Using the
 hashtag syllabus as form, medium, and genre, the *Puerto Rico Syllabus*
-surfaced a conversation—a missing dataset—that challenged these
+surfaced a conversation---a missing dataset---that challenged these
 austerity measures with evidence from across the disciplines and in a
 public format accessible to organizers, teachers, and laypeople on the
 ground.
@@ -226,7 +226,7 @@ ground.
 <div>
 This special issue, with its wide range of themes, techniques, styles,
 methods, and applications, deals in black diasporic knowledge as a
-technology that has been like Aponte’s insurgent book—hidden "deep
+technology that has been like Aponte's insurgent book---hidden "deep
 inside a trunk full of clothes" in "a pine box with a sliding top." Not
 absent, but hidden. Not lost, but secreted away. Never rejected, simply
 folded up for secret pleasure alone or with kin. Not accountable or even
@@ -249,7 +249,7 @@ African diaspora offer a glimpse of that joy and burden and what it
 means to confront slavery in the machine.</div>
 <br>
 This special issue is dedicated to scholar, organizer, and beautiful
-artistic soul Linda Rodriguez (1978–2018). There are no words to
+artistic soul Linda Rodriguez (1978--2018). There are no words to
 describe the pain of losing her, a pain everyone who knew her shared.
 Linda, we miss you. We have more to learn from you. We continue to read,
 to study, and to listen.

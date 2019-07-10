@@ -14,7 +14,7 @@ date: July 9 2019
 issue: 3
 order: 6
 abstract: >
-    This essay offers "xroads praxis" as a black diasporic technology for exploring what digital and analog landscapes hide and reveal. Invoking the crossroads, where deals are made and past meets present, a xroads praxis centers black humanity on the other side of the trick/tragedy—the Middle Passage, after the hurricane, deep in the slave ship. At the crossroads, the things we make (hashtags, tweets, Instagram posts, multimedia exhibits, archives, and blogs) may remain or they may disappear, may break or may be stolen/archived/corrupted, even without our permission. But they haunt, they scream, and they remain accountable to the living and lived. Moving through the black space on the map of Puerto Rico after Hurricane María to the haunting compositions created by jazz saxophonist Matana Roberts, this essay engages, in atmospheric, musical, and visual form, with the ways blackness challenges us to remake the New World.
+    This essay offers "xroads praxis" as a black diasporic technology for exploring what digital and analog landscapes hide and reveal. Invoking the crossroads, where deals are made and past meets present, a xroads praxis centers black humanity on the other side of the trick/tragedy---the Middle Passage, after the hurricane, deep in the slave ship. At the crossroads, the things we make (hashtags, tweets, Instagram posts, multimedia exhibits, archives, and blogs) may remain or they may disappear, may break or may be stolen/archived/corrupted, even without our permission. But they haunt, they scream, and they remain accountable to the living and lived. Moving through the black space on the map of Puerto Rico after Hurricane María to the haunting compositions created by jazz saxophonist Matana Roberts, this essay engages, in atmospheric, musical, and visual form, with the ways blackness challenges us to remake the New World.
 language: en
 ---
 
@@ -77,8 +77,8 @@ disappeared in the aftermath. In Carolina and Loíza, towns in the
 constellation near San Juan, that some one-fifth to three-quarters of
 the population (respectively) described itself as of African descent
 went without mention in the aftermath of the storm. In Poncé, which did
-not restore electricity to all its residents until August 2018—328 days
-after the storm—between 10 and 20 percent described themselves as
+not restore electricity to all its residents until August 2018---328 days
+after the storm---between 10 and 20 percent described themselves as
 black.[^3] Indigenous spaces suffered similar disappearances. Utuado,
 which for generations claimed indigenous patrimony on the island and is
 the home of Caguana Indigenous Ceremonial Park, barely rated a mention
@@ -102,12 +102,12 @@ the island itself, the federal and local police-military-surveillance
 apparatus that preoccupied itself with the war on drugs justified
 harassment of black islanders, shifted after the storm. Police wasted no
 time implementing and enforcing a curfew, including breaking up
-gathering spaces of dance and play—the kind that inevitably erupt when
+gathering spaces of dance and play---the kind that inevitably erupt when
 there is one working generator in a neighborhood and the night is long,
 hot, and dark. And in breaking news about the storm's impact, social
 media queries circulated desperately and especially among Puerto Ricans
 in the United States searching for incommunicado kin; blackness appeared
-in the loss and mourning of a diaspora for its people—for those lost
+in the loss and mourning of a diaspora for its people---for those lost
 beneath the sea.
 
 Like Hurricane Katrina, Hurricane María was a natural disaster only to
@@ -148,7 +148,7 @@ fullness after the storm of 1441/1492, finding black space on the map
 that does not conclude in black death, requires exploring with a xroads
 praxis.[^9]
 
-## Part 1. <!––Black––> Code 
+## Part 1. <!---Black---> Code 
 
 Confronting the Suomi image of black space in Puerto Rico brings to mind
 another image. In 2012, digital humanist Ben Schmidt created a data
@@ -197,7 +197,7 @@ words of Christina Sharpe, on wake work, "In the wake, the past that is
 not past reappears, always, to rupture the present."[^11] Keeping the
 past and present in hand, invoking the wake means visualizing the wave
 pattern left behind in the wake of ships passing. It means visualizing
-many crossings and crossroads—ships bearing dark-skinned refugees forced
+many crossings and crossroads---ships bearing dark-skinned refugees forced
 to flee their homes in one direction, ships from the global North
 bringing aid to a global South made disastrous by globalization and
 neoliberal devastation in the other. Use of the wake also gestures to
@@ -245,7 +245,7 @@ does not provide new answers. As scholar Simone Browne has explored, is
 a black person with a lantern a cyborg? In 1712, two dozen enslaved
 Africans armed themselves and gathered in the city of New York.
 Buildings went up in flames. The mathematics of black resistance during
-the period of slavery often added up to this—a handful of white lives
+the period of slavery often added up to this---a handful of white lives
 lost, a morass of black life extinguished, and a series of punitive
 legal and surveillance measures instituted. New York's slave revolt
 proved no exception. Ten white residents lost their lives. In
@@ -382,7 +382,7 @@ studies:
 - Man1 and Man2 \| Wynter
 - critical fabulation \| Hartman
 - undercommons \| Harney and Moten
-- …and more
+- ...and more
 
 What makes this rich and deep intellectual work so powerful is the way
 it challenges the container of West and Western thought. \#BlackTheory
@@ -524,12 +524,12 @@ coughing sounds, barely comprehensible, almost words. A wave of
 synth-electronic sound with percussive accents begins to flood in. As it
 does, the choking becomes a strangled stutter, the stutter transforms
 into guttural cries, the cries become hoarse screams. The expression is
-one of either extreme pain or extreme pleasure—or both, at the point
+one of either extreme pain or extreme pleasure---or both, at the point
 where the two coincide, a sonic expression of sensation at its most
 extreme. Amber Musser, writing on race and masochism, theorizes
 sensation as an analytic, as "both individual and impersonal; it
 occupies a sphere of multiplicity without being tethered to
-identity."[^26] Sensation, then, might be likened to raw data—except
+identity."[^26] Sensation, then, might be likened to raw data---except
 sensation requires corporeality.
 
 The body attached to these cries haunts their sound. In these first
@@ -591,7 +591,7 @@ Metoyers and their extended families.[^27]
 
 Roberts, through family lore and history, learned she was descended from
 one of these children. She speaks in interviews about growing up steeped
-in references to her ancestress—including a grandfather who used to call
+in references to her ancestress---including a grandfather who used to call
 Roberts "Coin Coin" to tease. Constellation Records, Roberts's label,
 describes *Coin Coin* as "a multi-chapter work that combines conceptual
 scoring (graphic notation, 'chance' strategies), storytelling and
@@ -648,8 +648,8 @@ Sullivan, whose crew intercepted and seized slave ships after the formal
 abolition of the trade in 1808, reverberate against a chanting
 chorus.[^31]
 
-Hauntings and crossings—the sound of them, the emotion in them, and the
-sensation of them—dominate Matana's project. In a 2015 interview,
+Hauntings and crossings---the sound of them, the emotion in them, and the
+sensation of them---dominate Matana's project. In a 2015 interview,
 Roberts described her process:
 
 > I have a really big interest in the spirit world: spooks and the
@@ -661,11 +661,11 @@ Roberts described her process:
 > my medium, my guide.[^32]
 
 The song "Pov Piti," the *Coin Coin* project, and Matana Roberts herself
-form a singularity—an epicenter or node—of black digital practice and
+form a singularity---an epicenter or node---of black digital practice and
 its relationship with slavery's archive. Roberts and her ghosts pose
 critical questions and possibilities for what can and cannot be done
 with the data found in slavery's archive, with digital and social media,
-and historical narratives of bondage—particularly narratives of intimacy
+and historical narratives of bondage---particularly narratives of intimacy
 and sex, violence, and property. Roberts feared hearing voices would
 induce states of psychosis, then reframed her haunting against
 encounters with her own ancestry as a descendant of Coin Coin. She
@@ -688,7 +688,7 @@ live again.
 
 Fluid and fugitive, Matana Roberts and Coin Coin do not occupy a single
 digital project space or site. Coin Coin, through Roberts, does what she
-could not in life—she absconds. She becomes Maroon code. The *Coin Coin*
+could not in life---she absconds. She becomes Maroon code. The *Coin Coin*
 project escapes from written documents, the analog, and the archive. It
 transforms the use of digital tools as they become available and so
 transforms the listener-user's relationship to sound, subjects, and
@@ -779,7 +779,7 @@ forget that even in the dark we keep the light.
 
 An earlier version of this essay was first presented as a keynote
 address at the "Race, Memory, and the Digital Humanities Symposium" at the
-College of William and Mary, Williamsburg, Virginia, 26–28 October 2017.
+College of William and Mary, Williamsburg, Virginia, 26--28 October 2017.
 Thank you to Liz Losh for hosting that historic event. Thank you to Alex
 Gil, Kaiama Glover, and anonymous reviewers for their constructive
 critique of this essay; any mistakes are mine and mine alone. This work
@@ -800,14 +800,14 @@ Puerto Rico; and my grandmother, Mary Nuñez.
 
 [^1]: On slavery and other forms of labor in Puerto Rico, see Jorge L.
     Chinea, "A Quest for Freedom: The Immigration of Maritime Maroons
-    into Puerto Rico, 1656–1800," *Journal of Caribbean History;
-    Kingston, Jamaica* 31, no. 1 (1997): 51–87; Luis A. Figueroa,
+    into Puerto Rico, 1656--1800," *Journal of Caribbean History;
+    Kingston, Jamaica* 31, no. 1 (1997): 51--87; Luis A. Figueroa,
     *Sugar, Slavery, and Freedom in Nineteenth-Century Puerto Rico*
     (Chapel Hill: University of North Carolina Press, 2006); Jay
     Kinsbruner, *Not of Pure Blood: The Free People of Color and Racial
     Prejudice in Nineteenth-Century Puerto Rico* (Durham, NC: Duke
     University Press, 1996); Francisco A. Scarano, *Sugar and Slavery in
-    Puerto Rico: The Municipality of Ponce, 1815–1849* (Madison:
+    Puerto Rico: The Municipality of Ponce, 1815--1849* (Madison:
     University of Wisconsin Press, 1984); Luis M. Díaz Soler, *Historia
     de la esclavitud negra en Puerto Rico* (1953; repr., San Juan: La
     Editorial, University of Puerto Rico, 1970); and David M. Stark,
@@ -815,7 +815,7 @@ Puerto Rico; and my grandmother, Mary Nuñez.
     University Press of Florida, 2015). For the period immediately
     following emancipation through annexation by the United States, see
     Eileen J. Suárez Findlay, *Imposing Decency: The Politics of
-    Sexuality and Race in Puerto Rico, 1870–1920* (Durham, NC: Duke
+    Sexuality and Race in Puerto Rico, 1870--1920* (Durham, NC: Duke
     University Press, 2000).
 
 [^2]: Guabancex is the Taino goddess of storms: "Guabancex stirs the
@@ -859,7 +859,7 @@ Puerto Rico; and my grandmother, Mary Nuñez.
 [^9]: Sylvia Wynter, "1492: A New World View," in Vera Lawrence Hyatt
     and Rex Nettleford, eds., *Race, Discourse, and the Origin of the
     Americas: A New World View* (Washington, DC: Smithsonian
-    Institution, 1995), 5–57.
+    Institution, 1995), 5--57.
 
 [^10]: Marisa Parham, "Black Haunts in the Anthropocene," *Notebook*
     (blog), mp285.com, 26 January 2014,
@@ -887,14 +887,14 @@ Puerto Rico; and my grandmother, Mary Nuñez.
     Matters: On the Surveillance of Blackness* (Durham, NC: Duke
     University Press, 2015). On the New York slave conspiracy, see
     Leslie M. Harris, *In the Shadow of Slavery: African Americans in
-    New York City, 1626–1863* (Chicago: University of Chicago Press,
+    New York City, 1626--1863* (Chicago: University of Chicago Press,
     2003); and Craig Steven Wilder, *In The Company of Black Men: The
     African Influence on African American Culture in New York City* (New
     York: New York University Press, 2002).
 
 [^15]: Lauren McLeod Cramer and Alessandra Raengo, "Freeing Black Codes:
     Liquid Blackness Plays the Jazz Ensemble," *The Black Scholar* 47,
-    no. 3 (2017): 8–21.
+    no. 3 (2017): 8--21.
 
 [^16]: See Abdul Alkhalimat,
     [http://www.eblackstudies.org](https://web.archive.org/web/20190223192132/http:/www.eblackstudies.org/);
@@ -903,7 +903,7 @@ Puerto Rico; and my grandmother, Mary Nuñez.
     Moya Bailey and Ayana A. H. Jamieson, "Guest Editors' Introduction:
     Palimpsests in the Life and Work of Octavia E. Butler," *Palimpsest:
     A Journal on Women, Gender, and the Black International* 6, no. 1
-    (2017): v–xiii; Radical Women of Color Bloggers Blogring,
+    (2017): v--xiii; Radical Women of Color Bloggers Blogring,
     [https://www.ringsurf.com/ring/idabwells](https://web.archive.org/web/20190223192331/https:/www.ringsurf.com/ring/idabwells/);
     Brittney C. Cooper, Susana M. Morris, and Robin M. Boylorn, eds.,
     *The Crunk Feminist Collection* (New York: Feminist Press at CUNY,
@@ -924,10 +924,10 @@ Puerto Rico; and my grandmother, Mary Nuñez.
     Seed in the Machine," *The Black Scholar* 47, no. 3 (2017): 1. For
     more on black digital practice, see Jessica Marie Johnson, "Markup
     Bodies: Black \[Life\] Studies and Slavery \[Death\] Studies at the
-    Digital Crossroads," *Social Text*, no. 137 (December 2018): 57–79;
+    Digital Crossroads," *Social Text*, no. 137 (December 2018): 57--79;
     and Jessica Marie Johnson, "4DH + 1 Black Code / Black Femme Forms
     of Knowledge and Practice," *American Quarterly* 70, no. 3 (2018):
-    665–70.
+    665--70.
 
 [^18]: See Marisa J. Fuentes, Dispossessed Lives: Enslaved Women,
     Violence, and the Archive (Philadelphia: University of Pennsylvania
@@ -935,7 +935,7 @@ Puerto Rico; and my grandmother, Mary Nuñez.
     Slavery, and Self-Making in Nineteenth-Century America (New York:
     Oxford University Press, 1997); Jennifer L. Morgan, "Accounting for
     'the Most Excruciating Torment': Gender, Slavery, and Trans-Atlantic
-    Passages," History of the Present 6 (2016): 184–207; Clyde Adrian
+    Passages," History of the Present 6 (2016): 184--207; Clyde Adrian
     Woods, Development Arrested: The Blues and Plantation Power in the
     Mississippi Delta (New York: Verso, 1998); Moya Bailey,
     "\#transform(ing)DH Writing and Research: An Autoethnography of
@@ -952,7 +952,7 @@ Puerto Rico; and my grandmother, Mary Nuñez.
     Afro-American Art and Philosophy* (New York: Vintage, 2010). See
     also Nettrice R. Gaskins, "The African Cosmogram Matrix in
     Contemporary Art and Culture," *Black Theology* 14, no. 1 (2016):
-    28–42.
+    28--42.
 
 [^21]: Matana Roberts, "pov piti," *Coin Coin Chapter One: Gens de
     couleur libres*, CD (Constellation Records, 2011).
@@ -961,7 +961,7 @@ Puerto Rico; and my grandmother, Mary Nuñez.
     Writers' Project, *Gumbo YA-YA: Folk Tales of Louisiana* (Boston:
     Houghton Mifflin, 1945), 436.
 
-[^23]: Ibid., 436–37 (Saxon's translation).
+[^23]: Ibid., 436--37 (Saxon's translation).
 
 [^24]: Adelaide van Wey, "Pauv' Piti' Mom'zelle Zizi," *Street Cries and
     Creole Songs of New Orleans*, LP (Folkways Records RF 203 \[1964\],
@@ -977,7 +977,7 @@ Puerto Rico; and my grandmother, Mary Nuñez.
 
 [^27]: See H. Sophie Burton, "Free People of Color in Spanish Colonial
     Natchitoches: Manumission and Dependency on the Louisiana-Texas
-    Frontier, 1766–1803," *Louisiana History* 45, no. 2 (2004): 173–97;
+    Frontier, 1766--1803," *Louisiana History* 45, no. 2 (2004): 173--97;
     H. Sophie Burton and F. Todd Smith, *Colonial Natchitoches: A Creole
     Community on the Louisiana-Texas Frontier* (College Station: Texas
     A&M University Press, 2008); Elizabeth Shown Mils, "Marie Thérèse
@@ -1015,7 +1015,7 @@ Puerto Rico; and my grandmother, Mary Nuñez.
     Roberts explained the context of the screams on the first volume:
     "My mother had passed away, maybe ten days before that was recorded.
     So those screams were therapeutic in a different kind of way. But
-    there's a welcoming to them too—you know? We're here, I'm alive,
+    there's a welcoming to them too---you know? We're here, I'm alive,
     let's celebrate what we do have." Matana Roberts, quoted in Molly
     Sheridan, "Matana Roberts: Creative Defiance; Interview by Molly
     Sheridan," *New Music Box*, 1 February 2013,
