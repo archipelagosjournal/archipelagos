@@ -11,7 +11,7 @@ author:
 - name: Laurent Dubois
   shortname: Dubois
   bio: >
-    Laurent Dubois is Professor of Romance Studies and History and the Faculty Director of the [Forum for Scholars & Publics](https://fsp.trinity.duke.edu/) at Duke University. He is the author of six books, including Avengers of the New World: The Story of the Haitian Revolution (2004), Haiti: The Aftershocks of History (2012) and most recently [The Banjo: America’s African Instrument](www.hup.harvard.edu/catalog.php?isbn=9780674047846). In 2016-2017 he will be a Fellow at the National Humanities Center.
+    Laurent Dubois is Professor of Romance Studies and History and the Faculty Director of the [Forum for Scholars & Publics](https://fsp.trinity.duke.edu/) at Duke University. He is the author of six books, including Avengers of the New World: The Story of the Haitian Revolution (2004), Haiti: The Aftershocks of History (2012) and most recently [The Banjo: America’s African Instrument](http://www.hup.harvard.edu/catalog.php?isbn=9780674047846). In 2016-2017 he will be a Fellow at the National Humanities Center.
 - name: David Garner
   shortname: Garner
   bio: >
