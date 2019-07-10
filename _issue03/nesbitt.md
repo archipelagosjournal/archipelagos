@@ -447,8 +447,8 @@ humans constituted legal, machinic property (see fig. 2).
 
 {% include image.html
     img="issue03/nesbitt-2.jpg"
-    title='&quot;Sucrerie,&quot; from Denis Diderot et al., *Encyclopédie, ou, Dictionnaire raisonné des sciences,des arts et des métiers.../ par Diderot \[et\] d'Alembert* (1751--71) (Parma: F. M. Ricci, 1970--79), vol. 1, plates.'
-    caption='Figure 2. &quot;Sucrerie,&quot; from Denis Diderot et al., *Encyclopédie, ou, Dictionnaire raisonné des sciences,des arts et des métiers.../ par Diderot \[et\] d'Alembert* (1751--71) (Parma: F. M. Ricci, 1970--79), vol. 1, plates.' %}
+    title="&quot;Sucrerie,&quot; from Denis Diderot et al., *Encyclopédie, ou, Dictionnaire raisonné des sciences,des arts et des métiers.../ par Diderot \[et\] d'Alembert* (1751--71) (Parma: F. M. Ricci, 1970--79), vol. 1, plates."
+    caption="Figure 2. &quot;Sucrerie,&quot; from Denis Diderot et al., *Encyclopédie, ou, Dictionnaire raisonné des sciences,des arts et des métiers.../ par Diderot \[et\] d'Alembert* (1751--71) (Parma: F. M. Ricci, 1970--79), vol. 1, plates." %}
 
 The complex, overdetermined historical process of the transition from
 plantation slavery to the industrial production of sugar in Guadeloupe
@@ -583,8 +583,8 @@ process (see fig. 5).
 
 {% include image.html
     img="issue03/nesbitt-5.jpg"
-    title='&quot;Récolte de l'indigo,&quot; from José Mariano da Conceição Velloso, *O fazendeiro do Brazil, cultivador* (Lisbon, 1806), vol. 2, plate 1, foldout following 341. Copy in the John Carter Brown Library, Brown University.'
-    caption='Figure 5. &quot;Récolte de l'indigo,&quot; from José Mariano da Conceição Velloso, *O fazendeiro do Brazil, cultivador* (Lisbon, 1806), vol. 2, plate 1, foldout following 341. Copy in the John Carter Brown Library, Brown University.' %}
+    title="&quot;Récolte de l'indigo,&quot; from José Mariano da Conceição Velloso, *O fazendeiro do Brazil, cultivador* (Lisbon, 1806), vol. 2, plate 1, foldout following 341. Copy in the John Carter Brown Library, Brown University."
+    caption="Figure 5. &quot;Récolte de l'indigo,&quot; from José Mariano da Conceição Velloso, *O fazendeiro do Brazil, cultivador* (Lisbon, 1806), vol. 2, plate 1, foldout following 341. Copy in the John Carter Brown Library, Brown University." %}
 
 The gradual, cumulative increases in productivity observable in the
 transition from handicraft to manufacture derive from the
@@ -611,8 +611,8 @@ fig. 6).
 
 {% include image.html
     img="issue03/nesbitt-6.png"
-    title='&quot;Intérieur de la Sucrerie de betteraves de Château Freyes, près de Villeneuve-St.-Georges,&quot; *L'Ilustration Journal Universel*, 13 May 1843.'
-    caption='Figure 6. &quot;Intérieur de la Sucrerie de betteraves de Château Freyes, près de Villeneuve-St.-Georges,&quot; *L'Ilustration Journal Universel*, 13 May 1843.' %}
+    title="&quot;Intérieur de la Sucrerie de betteraves de Château Freyes, près de Villeneuve-St.-Georges,&quot; *L'Ilustration Journal Universel*, 13 May 1843.'
+    caption='Figure 6. &quot;Intérieur de la Sucrerie de betteraves de Château Freyes, près de Villeneuve-St.-Georges,&quot; *L'Ilustration Journal Universel*, 13 May 1843." %}
 
 The introduction of machinery and mechanized production suppresses the
 direct contact of labor with the object of labor (the commodity), and an
