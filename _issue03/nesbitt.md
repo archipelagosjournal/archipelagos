@@ -496,7 +496,7 @@ existence of the capitalist mode of production is a two-part legal
 distinction, "the basic elements of which are the *law of property* and
 the *law of contract.*" Under the capitalist mode of production, this
 division takes the form of a primary distinction between, firstly, the
-"*abstract universalistic character*...of *human persons*"' who are
+"*abstract universalistic character*...of *human persons*" who are
 entitled to enter into *contractual* relations (i.e., between the
 capitalist owner of the means of production and wage labor), and, on the
 other hand, the *property* relation that "is established exclusively
