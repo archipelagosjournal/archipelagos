@@ -14,12 +14,12 @@ description:         'a small axe platform for digital practice'
 # baseurl:             ''
 
 # TEST SERVER
-url:                 'http://archipelagos-dev.elotroalex.com'
-baseurl:             '/sxarchipelagos'
+# url:                 'http://archipelagos-dev.elotroalex.com'
+# baseurl:             '/sxarchipelagos'
 
 # PROD
-# url:                 "http://smallaxe.net"
-# baseurl:             '/sxarchipelagos'
+url:                 "http://smallaxe.net"
+baseurl:             '/sxarchipelagos'
 
 githuburl:           'https://github.com/sx-archipelagos/sxa'
 

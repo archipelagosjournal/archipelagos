@@ -21,7 +21,7 @@ author:
 date: July 9 2019
 issue: 3
 order: 9
-abstract: >
+abstract: 
 language: en
 ---
 
