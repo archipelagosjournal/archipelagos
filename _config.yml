@@ -4,9 +4,9 @@
 permalink:           none
 
 # Setup
-title:               "sx archipelagos"
-publisher:           "Small Axe Project"
-description:         'a small axe platform for digital practice'
+title:               "archipelagos"
+publisher:           "Columbia University Libraries"
+description:         'a journal of Caribbean digital praxis'
 
 
 # DEV
@@ -21,7 +21,7 @@ description:         'a small axe platform for digital practice'
 url:                 "http://archipelagosjournal.org"
 baseurl:             ''
 
-githuburl:           'https://github.com/sx-archipelagos/sxa'
+githuburl:           'https://github.com/archipelagosjournal/archipelagos'
 
 # Colophon
 issn: 2473-2206
@@ -94,8 +94,8 @@ gems:
 
 # About/contact
 author:
-  name: "SX:Archipelagos"
-  email: archipelagos@smallaxe.net
+  name: "Archipelagos"
+  email: archipelagosjournal@gmail.com
 
 # Custom vars
 version:             0.0.1
