@@ -18,8 +18,8 @@ description:         'a small axe platform for digital practice'
 # baseurl:             '/sxarchipelagos'
 
 # PROD
-url:                 "http://smallaxe.net"
-baseurl:             '/sxarchipelagos'
+url:                 "http://archipelagosjournal.org"
+baseurl:             ''
 
 githuburl:           'https://github.com/sx-archipelagos/sxa'
 
