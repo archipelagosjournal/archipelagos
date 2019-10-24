@@ -14,7 +14,7 @@ editor:
 ---
 
 <h1 class="journal-title">{{ site.title }}</h1>
-<h2 class="tagline">a small axe platform for digital practice</h2>
+<h2 class="tagline">{{site.description}}</h2>
 
 
 ## Issue (3) | Slavery in the Machine | June 2019
