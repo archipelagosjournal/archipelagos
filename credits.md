@@ -20,7 +20,7 @@ title: credits
 [Schuyler Esprit](#schuyler-esprit--editorial-board)  
 [Jessica Marie Johnson](#jessica-marie-johnson--editorial-board)  
 [Kelly Baker Josephs](#kelly-baker-josephs--editorial-board)  
-[Frances Negrón-Muntaner](#frances-negrn-muntaner--editorial-board)
+[Frances Negrón-Muntaner](#frances-negrn-muntaner--editorial-board)  
 [Vincent Brown](#vincent-brown--editorial-board)  
 [Laurie Taylor](#laurie-taylor--editorial-board)
 
