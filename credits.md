@@ -24,11 +24,14 @@ title: credits
 [Vincent Brown](#vincent-brown--editorial-board)  
 [Laurie Taylor](#laurie-taylor--editorial-board)
 
+### Publisher
+
+[Digital Scholarship at Columbia](https://library.columbia.edu/services/digital-scholarship.html)
+
 ### Institutional Partners
 
-Columbia group for experimental methods in the humanities (xpmethod)\\
-Columbia University Center for Digital Research and Scholarship\\
-Digital Humanities Center, Columbia University Libraries
+[Columbia group for experimental methods in the humanities](http://xpmethod.plaintext.in/) (xpmethod)\\
+Columbia University Libraries
 
 ### Special Acknowledgment
 
@@ -43,7 +46,7 @@ Barnard Committee on Online and On-Campus Learning
 
 ### Kaiama L. Glover | editor
 
-[Kaiama L. Glover](https://barnard.edu/profiles/kaiama-l-glover) is Ann Whitney Olin Professor of French and Africana Studies and Director of the Digital Humanities Center at Barnard College, Columbia University. Her research focuses primarily on postcolonial francophone literature and culture, particularly that of Haiti and the French Antilles. Her book, [Haiti Unbound: A Spiralist Challenge to the Postcolonial Canon](https://www.liverpooluniversitypress.co.uk/books/isbn/9781846314995/) (Liverpool UP 2010) (Liverpool UP 2010), examines canon formation in the French and Creole-speaking Caribbean and the particular fate of the Haitian Spiralist authors vis-à-vis this canon. Her most recent monograph, Disorderly Women: On Caribbean Community and the Ethics of Self-Regard, is forthcoming with Duke University Press in 2020. In 2018-2019 she was a resident Fellow at the Columbia Institute for Ideas and Imagination in Paris, France where she began work on her new book project, “René Depestre: For the Love of Revolution.” Glover is founding co-editor of archipelagos journal, and founding co-director of the digital humanities project [In the Same Boats: Toward an Afro-Atlantic Intellectual Cartography](http://sameboats.org/). 
+[Kaiama L. Glover](https://barnard.edu/profiles/kaiama-l-glover) is Ann Whitney Olin Professor of French and Africana Studies and Director of the Digital Humanities Center at Barnard College, Columbia University. Her research focuses primarily on postcolonial francophone literature and culture, particularly that of Haiti and the French Antilles. Her book, *[Haiti Unbound: A Spiralist Challenge to the Postcolonial Canon](https://www.liverpooluniversitypress.co.uk/books/isbn/9781846314995/)* (Liverpool UP 2010), examines canon formation in the French and Creole-speaking Caribbean and the particular fate of the Haitian Spiralist authors vis-à-vis this canon. Her most recent monograph, *Disorderly Women: On Caribbean Community and the Ethics of Self-Regard*, is forthcoming with Duke University Press in 2020. In 2018-2019 she was a resident Fellow at the Columbia Institute for Ideas and Imagination in Paris, France where she began work on her new book project, “René Depestre: For the Love of Revolution.” Glover is founding co-editor of archipelagos journal, and founding co-director of the digital humanities project [In the Same Boats: Toward an Afro-Atlantic Intellectual Cartography](http://sameboats.org/). 
 
 
 ### Alex Gil | editor
