@@ -16,6 +16,7 @@ order: 6
 abstract: >
     This essay offers "xroads praxis" as a black diasporic technology for exploring what digital and analog landscapes hide and reveal. Invoking the crossroads, where deals are made and past meets present, a xroads praxis centers black humanity on the other side of the trick/tragedy---the Middle Passage, after the hurricane, deep in the slave ship. At the crossroads, the things we make (hashtags, tweets, Instagram posts, multimedia exhibits, archives, and blogs) may remain or they may disappear, may break or may be stolen/archived/corrupted, even without our permission. But they haunt, they scream, and they remain accountable to the living and lived. Moving through the black space on the map of Puerto Rico after Hurricane María to the haunting compositions created by jazz saxophonist Matana Roberts, this essay engages, in atmospheric, musical, and visual form, with the ways blackness challenges us to remake the New World.
 language: en
+script: 'multiverse.js'
 ---
 
 {% include epigraph.html
@@ -1022,3 +1023,4 @@ Puerto Rico; and my grandmother, Mary Nuñez.
     [https://nmbx.newmusicusa.org/matana-roberts-creative-defiance](https://web.archive.org/web/20190223193226/https:/nmbx.newmusicusa.org/matana-roberts-creative-defiance/).
 
 [^34]: Parham, "Black Haunts in the Anthropocene."
+

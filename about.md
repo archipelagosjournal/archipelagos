@@ -19,7 +19,7 @@ As we build and understand, we do so illuminated by the first light of the long 
 
 ---
 
-## Colophon
+## Editorial Policies
 
 ISSN: 2473-2206
 
