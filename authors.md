@@ -1,8 +1,10 @@
 ---
-layout: page
-title: title.for_authors
+layout: info
+title: titles.authors
 ---
 
+<h1 class="page-title">{% t page.title %}</h1>
+<br>
 
 *sx archipelagos*, a small axe journal of digital practice, publishes scholarly articles, digital projects, and digital project reviews related to the Caribbean. We publish one issue per year and accept submissions on a rolling basis.
 

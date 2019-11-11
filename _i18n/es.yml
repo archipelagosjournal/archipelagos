@@ -2,7 +2,7 @@ global:
   english: "in English"
   spanish: "en español"
   french: "en français"
-  subtitle: ""
+  subtitle: "revista de praxis digital en estudios caribeños"
   blurb:
     "*archipelagos* is a born-digital, peer-reviewed publication devoted to creative exploration, debate, and critical thinking about and through digital practices in contemporary scholarly and artistic work in and on the Caribbean. Given the wide implications of the “digital turn” for our very conceptions of knowledge, our mission is to discern the ways in which the digital may enhance and transform our comprehension of the regional and diasporic Caribbean. sx archipelagos responds to this challenge with three distinct dimensions of critical production: scholarly essays; digital scholarship projects; and digital project reviews."
   read_more: "Leer más ..."
@@ -11,6 +11,8 @@ global:
   projects: Projets numériques
   reviews: Revues de projets numériques
   past_issues: Numéros passés
-title:
+
+titles:
   about: "Acerca de"
   authors: "for authors"
+  credits: "credits"

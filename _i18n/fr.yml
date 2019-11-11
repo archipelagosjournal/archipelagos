@@ -11,7 +11,8 @@ global:
   projects: Projets numériques
   reviews: Revues de projets numériques
   past_issues: Numéros passés
-title:
+
+titles:
   about: "à propos de nous"
   authors: "pour nous auteurs"
   credits: "crédits"

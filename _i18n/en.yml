@@ -12,7 +12,7 @@ global:
   reviews: Digital Project Reviews
   past_issues: Past Issues
 
-title:
+titles:
   about: "about us"
   authors: "for authors"
   credits: "credits"
