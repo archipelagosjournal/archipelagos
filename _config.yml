@@ -90,12 +90,17 @@ kramdown:
 # Gems
 gems:
   - jekyll-sitemap
+  - jekyll-multiple-languages-plugin
 
 
 # About/contact
 author:
   name: "Archipelagos"
   email: archipelagosjournal@gmail.com
+
+
+#i18n
+languages: ["en", "es", "fr"]
 
 # Custom vars
 version:             0.0.1
