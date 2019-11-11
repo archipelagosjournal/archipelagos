@@ -1,8 +1,3 @@
----
-layout: page
-title: for reviewers
----
-
 At *sx archipelagos* we are working to build a community of reviewers and contributors so to sustain and enrich our collective Caribbeanist scholarship. If you would like to join our team of reviewers—to help us review articles and digital projects—please contact us at archipelagos@smallaxe.net.
 
 ---
@@ -54,14 +49,12 @@ knowledge; the project’s relationship to existing literature/projects;
 and/or early conversations in the literature about the project (where
 appropriate).
 
--   Will the project frame new conversations in the relevant subject
-    area?
-
--   Are the methods used in the project appropriate to the research
-    questions it poses?
-
--   Do the project’s methods contribute to digital scholarship in
-    general, and if so, how?
+- Will the project frame new conversations in the relevant subject
+  area?
+- Are the methods used in the project appropriate to the research
+  questions it poses?
+- Do the project’s methods contribute to digital scholarship in
+  general, and if so, how?
 
 ### Credit
 
@@ -73,13 +66,11 @@ acknowledgment of the scholarly and interpretative work involved in data
 curation, design, and the engineering of digital projects. Reviewers
 should ask the following questions of a project:
 
--   Does the project credit its contributors openly and fairly?
-
--   Are the labor conditions under which the project was produced made
-    evident?
-
--   Does the work cite its (digital scholarship) precedents and data
-    sources appropriately?
+- Does the project credit its contributors openly and fairly?
+- Are the labor conditions under which the project was produced made
+  evident?
+- Does the work cite its (digital scholarship) precedents and data
+  sources appropriately?
 
 ### Design
 
