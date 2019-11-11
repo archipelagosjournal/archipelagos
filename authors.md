@@ -1,6 +1,6 @@
 ---
 layout: page
-title: for authors
+title: title.for_authors
 ---
 
 

@@ -13,4 +13,6 @@ global:
   past_issues: Past Issues
 
 title:
-  about: "About Us"
+  about: "about us"
+  authors: "for authors"
+  credits: "credits"
