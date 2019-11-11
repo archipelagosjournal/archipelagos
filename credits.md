@@ -9,7 +9,7 @@ title: credits
 [Alex Gil](#alex-gil--editor)
 
 ### Production | Design
-[Juliet Ali](#juliet-ali--copy-editor)\\
+[Juliet Ali](#juliet-ali--designer)\\
 [Brian Ballsun-Stanton](#brian-ballsun-stanton--production-editor)\\
 [Dennis Tenen](#dennis-tenen--project-architect)
 
@@ -54,7 +54,7 @@ Barnard Committee on Online and On-Campus Learning
 
 ---
 
-### Juliet Ali | copy-editor
+### Juliet Ali | designer
 
 Juliet Ali is an artist and graphic designer. She is the art director of the Small Axe Project and has been designing the print journal since 2004. She holds an MFA in Illustration from the Fashion Institute of Technology, New York. Her experience in graphic design spans over thirty years in various industries, including advertising, toys, jewelry, home furnishing, and outdoor media. She taught art for three and a half years for the Board of Education, Trinidad, West Indies, and has been involved in the American Institute of Graphic Arts (AIGA) mentoring program for students from the High School of Art and Design. In 2013 she participated in a group show Dreams Lived/Dreams Shattered: MLK, JFK 50 Years Later held at FIT gallery. Since 2008 she owned and managed her own graphic design/consultancy business Astryd Design Inc.
 

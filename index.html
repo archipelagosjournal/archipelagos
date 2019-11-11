@@ -6,9 +6,7 @@ title: home
 <h1 class="journal-title">{{ site.title }}</h1>
 <h2 class="tagline">{% t global.subtitle %}</h2>
 
-<p>{% t global.intro %}</p>
-
-<!-- <p><em>archipelagos</em> is a born-digital, peer-reviewed publication devoted to creative exploration, debate, and critical thinking about and through digital practices in contemporary scholarly and artistic work in and on the Caribbean. Given the wide implications of the “digital turn” for our very conceptions of knowledge, our mission is to discern the ways in which the digital may enhance and transform our comprehension of the regional and diasporic Caribbean. <em>archipelagos</em> responds to this challenge with three distinct dimensions of critical production: scholarly essays; digital scholarship projects; and digital project reviews.</p> -->
+<p>{% t global.blurb %}</p>
 
 <a href="{{site.baseurl}}/about.html">{% t global.readmore %}</a>
 
@@ -24,7 +22,7 @@ title: home
 <!-- Introductory material -->
 
 <ul>
-    <h3>Introduction</h3>
+    <h3>{% t global.introduction %}</h3>
 
     <li>
         <a href="{{site.baseurl}}/issue03/editors_intro.html">
@@ -53,7 +51,7 @@ title: home
 </ul>
 
 <ul>
-    <h3>Essays</h3>
+    <h3>{% t global.essays %}</h3>
 
     <li>
         <a href="{{site.baseurl}}/issue03/nesbitt.html">
@@ -143,7 +141,7 @@ title: home
 </ul>
 
 <ul>
-    <h3>Digital Projects</h3>
+    <h3>{% t global.projects %}</h3>
 
     <li>
         <a href="{{site.baseurl}}/issue03/ecda_review.html">
@@ -188,7 +186,7 @@ title: home
 </ul>
 
 <ul>
-    <h3>Digital Project Reviews</h3>
+    <h3>{% t global.reviews %}</h3>
 
     <li>
         <a href="{{site.baseurl}}/issue03/paravisini.html">
@@ -211,7 +209,7 @@ title: home
 
 <hr>
 
-<h2>Past Issues</h2>
+<h2>{% t global.past_issues %}</h2>
 <ul>
 	<li class="toc-title"><a href="{{ site.baseurl }}/issue01.html">Issue (1)</a></li>
 	<li class="toc-title"><a href="{{ site.baseurl }}/issue02.html">Issue (2)</a></li>

@@ -37,7 +37,7 @@ We provide DOIs for all articles. Citation information and DOIs can be found on 
 - Open Graph (For social media distribution)
 - Highwire Press (For Google Scholar)
 
-The technological stack used for *archipelagos* is offered with an MIT license, except for the aggregate design connecting our platform to the Small Axe Project. All of our data is open on our <a href="{{site.githuburl}}">Github repository</a>.
+The technological stack used for *archipelagos* is offered with an MIT license. All of our data is open on our <a href="{{site.githuburl}}">Github repository</a>.
 
 ## Author Agreement
 
