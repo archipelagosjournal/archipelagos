@@ -15,15 +15,21 @@ As we build and understand, we do so illuminated by the first light of the long 
 
 ## Editorial Policies
 
-ISSN: 2473-2206
+### Open Access
 
 <em>archipelagos</em> is an open access journal, which means that all content is freely available without charge to users or institutions. Users are allowed to read, download, copy, distribute, print, search, or link to the full texts of the articles in this journal without asking prior permission from the publishers. 
 
-We do not charge article processing nor article submission charges to authors. Authors retain their copyright and agree to license their articles with a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Copies of articles will be preserved on Columbia University's repository [Academic Commons](https://academiccommons.columbia.edu/).
+We do not charge article processing nor article submission charges to authors. Authors retain their copyright and agree to license their articles with a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
+The technological stack used for *archipelagos* is offered with an MIT license. All of our data is open on our <a href="{{site.githuburl}}">Github repository</a>.
+
+### Academic Standards
+
 All articles are peer-reviewed using the double-blind method. All digital projects are peer-reviewed single blind. Project reviews are edited by the journal editors. We screen for plagiarism during our review process.
+
+### Distribution and Preservation
 
 We provide DOIs for all articles. Citation information and DOIs can be found on the drawer sidebar for each individual article. Each article also provides metadata in the following standards in the HTML code:
 
@@ -31,12 +37,13 @@ We provide DOIs for all articles. Citation information and DOIs can be found on 
 - Open Graph (For social media distribution)
 - Highwire Press (For Google Scholar)
 
-The technological stack used for *archipelagos* is offered with an MIT license. All of our data is open on our <a href="{{site.githuburl}}">Github repository</a>.
+Copies of articles will be archived on Columbia University's repository [Academic Commons](https://academiccommons.columbia.edu/). We are also archived in LOCKSS.
 
 ## Author Agreement
 
-Read the [Author Agreement]({{site.baseurl}}/public/author-agreement.pdf). This Agreement reflects the position that the Author(s) should retain the copyright to the Article and should have explicit rights to use the Article in future research, teaching, and other projects. Author rights are defined as follows:
+Read the [Author Agreement]({{site.baseurl}}/public/author-agreement.pdf). This Agreement reflects the position that the Author(s) should retain the copyright to the Article and should have explicit rights to use the Article in future research, teaching, and other projects. Author rights can be summarized as follows:
 
 - Authors maintain copyright without restriction;
 - Authors grant *archipelagos* the authority to publish their work in the journal with a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/);
 - Authors maintain publication rights without restrictions.
+- Authors agree to archive a copy of articles, when applicable, on Columbia University's repository [Academic Commons](https://academiccommons.columbia.edu/).

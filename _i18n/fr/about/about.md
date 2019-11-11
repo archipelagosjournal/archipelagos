@@ -13,30 +13,39 @@ Au fur et à mesure que nous construisons et comprenons, nous sommes éclairés 
 
 ## Politique editoriale
 
+### Accès ouvert
+
 *archipelagos* est un journal en accès libre, ce qui signifie que tout le contenu est disponible gratuitement pour les utilisateurs ou les institutions. Les utilisateurs sont autorisés à lire, télécharger, copier, distribuer, imprimer, rechercher ou créer un lien vers le texte intégral des articles de ce journal sans demander la permission préalable des éditeurs.
 
 Nous ne facturons pas les auteurs pour le traitement des articles ni pour la soumission d'articles. Les auteurs conservent leurs droits d'auteur et acceptent d'accorder une licence à leurs articles avec une licence internationale [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
+La base technologique utilisée pour *archipelagos* est proposée avec une license MIT. Toutes nos données sont disponibles sur notre référentiel à <a href="{{site.githuburl}}">Github.</a>
+
+
+### Standards académiques
+
 Tous les articles sont évalués par des pairs selon la méthode à double insu. Tous les projets numériques sont à simple insu et évalués par les pairs. Les revues de projet sont éditées par les éditeurs du journal. Nous filtrons le plagiat lors de notre processus d'examen.
+
+
+### Distribution et conservation
 
 Nous fournissons des DOI pour tous les articles. Vous trouverez des informations sur les citations et les DOI dans la barre latérale du tiroir pour chaque article. Chaque article fournit également des métadonnées dans les normes suivantes du code HTML:
 
-Dublin Core (Pour les besoins généraux en métadonnées)
-Open Graph (Pour la distribution sur les réseaux sociaux)
-Highwire Press (pour Google Scholar)
-Le format technologique utilisé pour *archipelagos* est proposé avec une licence MIT. Toutes nos données sont ouvertes sur notre repositoire à Github.
+- Dublin Core (Pour les besoins généraux en métadonnées)
+- Open Graph (Pour la distribution sur les réseaux sociaux)
+- Highwire Press (pour Google Scholar)
+- Le format technologique utilisé pour *archipelagos* est proposé avec une licence MIT. Toutes nos données sont ouvertes sur notre repositoire à Github.
+
+Des exemplaires des articles seront conservés dans le référentiel [Academic Commons](https://academiccommons.columbia.edu/) de l’Université de Columbia. Nous sommes aussi conservés dans le système [LOCKSS](https://www.lockss.org/).
 
 
 ### Accord d’auteur
 
-Lisez [l'accord d'auteur](http://archipelagosjournal.org/public/author-agreement.pdf). Cet accord reflète la position selon laquelle le ou les auteurs doivent conserver le droit d'auteur sur l'article et doivent disposer de droits explicites pour utiliser l'article dans des projets de recherche, d'enseignement ou autres. Les droits d'auteur sont définis comme suit:
+Lisez [l'accord d'auteur](http://archipelagosjournal.org/public/author-agreement.pdf). Cet accord reflète la position selon laquelle le ou les auteurs doivent conserver le droit d'auteur sur l'article et doivent disposer de droits explicites pour utiliser l'article dans des projets de recherche, d'enseignement ou autres. Les droits d'auteur sont résumée comme suit:
 
-les auteurs conservent les droits d'auteur sans restriction;
-les auteurs donnent à *archipelagos* le pouvoir de publier leurs travaux dans le journal avec une [licence internationale Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/);
-les auteurs conservent les droits de publication sans restrictions.
-
-### archive
-
-Le système LOCKSS est autorisé à collecter, conserver et servir cette Unité d'Archivage disponible en libre accès.
+- les auteurs conservent les droits d'auteur sans restriction;
+- les auteurs donnent à *archipelagos* le pouvoir de publier leurs travaux dans le journal avec une [licence internationale Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/);
+- les auteurs conservent les droits de publication sans restrictions.
+- les auteurs acceptent d'archiver une copie des articles, le cas échéant, sur le référentiel [Academic Commons](https://academiccommons.columbia.edu/) de l'Université Columbia.
