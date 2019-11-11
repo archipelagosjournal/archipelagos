@@ -45,7 +45,7 @@ Des exemplaires des articles seront conservés dans le référentiel [Academic C
 
 Lisez [l'accord d'auteur](http://archipelagosjournal.org/public/author-agreement.pdf). Cet accord reflète la position selon laquelle le ou les auteurs doivent conserver le droit d'auteur sur l'article et doivent disposer de droits explicites pour utiliser l'article dans des projets de recherche, d'enseignement ou autres. Les droits d'auteur sont résumée comme suit:
 
-- les auteurs conservent les droits d'auteur sans restriction;
+- Les auteurs conservent les droits d'auteur sans restriction;
 - les auteurs donnent à *archipelagos* le pouvoir de publier leurs travaux dans le journal avec une [licence internationale Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/);
-- les auteurs conservent les droits de publication sans restrictions.
+- les auteurs conservent les droits de publication sans restrictions;
 - les auteurs acceptent d'archiver une copie des articles, le cas échéant, sur le référentiel [Academic Commons](https://academiccommons.columbia.edu/) de l'Université Columbia.
