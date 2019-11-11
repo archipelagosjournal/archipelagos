@@ -11,5 +11,5 @@ global:
   projects: Projets numériques
   reviews: Revues de projets numériques
   past_issues: Numéros passés
-titles:
-  about: "Sur nous"
+title:
+  about: "À propos de nous"
