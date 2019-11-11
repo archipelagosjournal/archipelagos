@@ -1,0 +1,7 @@
+global:
+  english: "in English"
+  spanish: "en español"
+  french: "en français"
+
+titles:
+  about: "About Us"
