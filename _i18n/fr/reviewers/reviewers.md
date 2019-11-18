@@ -42,7 +42,7 @@ Nous demandons aux relecteurs d’être conscients du travail nécessaire à la 
 
 ### Conception
 
-Bien que le design constitue une catégorie distincte de évaluation, nous demandons aux évaluateurs de comprendre le design en termes de relation entre celui-ci et la prétendue contribution intellectuelle d'un projet donné. Pour*archipelagos*, la conception inclut l'architecture dorsale, le flux de travail et la conception d'interface frontale. Nous demandons aux examinateurs de prendre en compte la structure temporelle et technique globale d'un projet et son lien avec les objectifs du projet. Un critique peut poser des questions comme
+Bien que le design constitue une catégorie distincte d'évaluation, nous demandons aux évaluateurs de comprendre le design en termes de relation entre celui-ci et la prétendue contribution intellectuelle d'un projet donné. Pour*archipelagos*, la conception inclut l'architecture dorsale, le flux de travail et la conception d'interface frontale. Nous demandons aux examinateurs de prendre en compte la structure temporelle et technique globale d'un projet et son lien avec les objectifs du projet. Un critique peut poser des questions comme
 
 - Comment les efforts et les ressources utilisés dans le projet correspondent-ils à l'importation?
 - Comment les éléments graphiques et de conception UX du front-end contribuent-ils aux objectifs de la contribution intellectuelle? (Lors de l'examen de la conception destinée au public, les examinateurs ne doivent pas accorder trop d'importance à la « facilité d'utilisation » ou au « design brillant », mais plutôt à la question de savoir si les caractéristiques du projet correspondent à la mission intellectuelle du projet et aux ressources dont l'équipe du projet disposait.)
