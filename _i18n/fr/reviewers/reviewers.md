@@ -2,7 +2,7 @@ Chez *archipelagos*, nous travaillons à l’édification d’une communauté de
 
 ---
 
-## Table of Contents
+## Table des matières
 {:.no_toc}
 
 * ToC
