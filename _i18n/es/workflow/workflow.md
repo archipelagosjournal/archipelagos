@@ -1,52 +1,45 @@
+Parte de lo que hace que *archipelagos* especial es nuestro flujo de trabajo, cuidadosamente diseñado para minimizar los costos de producción y permitir que nuestro pequeño equipo ejecute una revista académica sólida, sin servicios pagados fuera de los costos del servidor y la provisión de DOIs. Si bien cada revista tendrá requisitos y recursos únicos disponibles para el equipo, creemos que [nuestra base de software de código abierto]({{site.githuburl}}) combinada con nuestro flujo de trabajo proporciona un modelo viable y portátil. El siguiente flujo de trabajo es el siguiente paso después de que la configuración original esté en su lugar.
 
-# Notre flux de travail
+## Elementos nuevos
 
-Notre flux de travail, conçu avec soin pour minimiser les coûts de production, et pour permettre à notre petite équipe de gérer un journal académique robuste, sans les services payants en dehors des coûts de serveur et de la fourniture de données DOI, fait partie du caractère unique de *archipelagos*. Bien que chaque journal ait des besoins et des ressources uniques disponibles pour l’équipe, nous pensons que notre infrastructure de logiciels open source, combinée à notre flux de travail, fournit un modèle viable et portable. Le flux de travail ci-dessous est la prochaine étape après la mise en place de la configuration initiale.
+La característica que define nuestro flujo de trabajo es la división en dos etapas de producción dependiendo de los tipos de archivos de computadora manejados: La etapa Word y la etapa Markdown. Si bien seguimos trabajando para un mundo donde los autores estructuran sus propios documentos, reduciendo aún más los costos generales de producción académica, somos conscientes de los hábitos de trabajo arraigados y hemos diseñado nuestro trabajo para dar cabida a maneras habituales de trabajar. Recibimos con entuciasmo, claro esta, a aquellos que quieran trabajar directamente in Markdown. 
 
-## Nouveaux éléments
+El segundo requisito principal para nuestro flujo de trabajo es la función ampliada del corregidor de copias. Después de recibir capacitación en la producción y edición de documentos YAML/Markdown bien formateados, nuestro corregidor de copias es responsable de garantizar la transición sin problemas de la primera etapa a la siguiente.
 
-La principale caractéristique de notre flux de travail est la division en deux étapes de la production selon les types de fichiers informatiques gérés: la phase Word et la phase de Markdown. Tout en continuant de travailler pour un monde où les auteurs structurent leurs propres documents, ce qui réduit encore les coûts globaux, nous sommes conscients des habitudes de travail enracinées et nous avons conçu notre travail en conséquence.
-
-La deuxième exigence majeure de notre flux de travail est le rôle élargi du réviseur. Après avoir reçu une formation en production et édition de documents YAML / Markdown bien formatés, notre réviseur est responsable de la transition en douceur de la première étape à la suivante.
-
-La troisième condition est la connaissance de la génération de sites statiques (Jekyll, GitHub, etc.) par un membre de l'équipe. Dans notre cas, il s’agit de l’un des éditeurs, appelé éditeur-tech ci-dessous. Par souci de durabilité, nous sommes en train de transmettre ces compétences aux autres membres de l’équipe et aux amis du projet.
-
-## La production d'articles
-
-N.B. Chaque phase du cycle de vie d’un texte, du premier brouillon à la production, est comprise comme une version différente du texte, abrégée ici par v1, v2, etc.
-
-I. Phase Word
-
-À cette étape, tous les échanges peuvent avoir lieu dans Microsoft Word, à condition que toutes les parties respectent les [directives de style](http://smallaxe.net/sxarchipelagos/submission-guidelines.html#documents) documentées sur le site du journal. Les rédacteurs conserveront des copies de toutes les versions de cette étape sur Dropbox. Aucune promesse de conservation n'est faite pour cette étape.
-
-1. Les contributeurs soumettent la v1 aux rédacteurs par courrier électronique 
-2. Les éditeurs envoient aux examinateurs par courrier électronique à la réception
-3. Les relecteurs pairs évaluent le travail (1 mois après la réception)
-4. Les éditeurs répondent aux contributeurs avec des rapports basés sur le travail de révision par les pairs
-5. Les contributeurs font des révisions et renvoient la v2 aux éditeurs par courrier électronique (1 mois après réception)
-6. Les éditeurs partagent toutes les v2 avec le réviseur dans Dropbox
-7. Le réviseur crée la v3, partage les informations dans Dropbox avec les éditeurs et l'envoie aux contributeurs par courrier électronique.
-8. Les contributeurs créent la v4 avec le suivi des modifications et l'envoient au réviseur avec du matériel auxiliaire (bio, résumés et contenu multimédia). Le réviseur place tous les fichiers dans le dossier approprié dans Dropbox.
-9. Le réviseur fait v5
-10. Le réviseur partage tous les fichiers v5 sans suivi des modifications + documents auxiliaires avec les éditeurs dans Dropbox.
-11. Les éditeurs obtiennent des DOI
-
-II. La phase Markdown
-
-Dans cette étape, nous passons aux flux de travail Markdown, à partir desquels le site et les PDF sont générés. Toutes les éditions par le réviseur et les éditeurs doivent avoir lieu sur Github à ce stade.
+El tercer requisito es el conocimiento de la generación de sitios estáticos (Jekyll, GitHub, etc.) por parte de un miembro del equipo. En nuestro caso, este es uno de los editores, llamado editor-técnico a continuación. En aras de la sostenibilidad, estamos en el proceso de transmitir estas habilidades a otros miembros del equipo y amigos del proyecto.
 
 
-1. L'éditeur-tech convertit v5 en démarque à l'aide de Pandoc
-2. L'éditeur-tech télécharge v5.md sur Github & crée un brouillon de problème Web à usage interne.
-3. L'éditeur-tech génère v5 sous forme de PDF et partage avec Copy-Editor sur Dropbox.
-4. Le réviseur envoie v5.pdf aux contributeurs en tant que preuve définitive
-5. Les contributeurs annotent v5.pdf avec des modifications mineures et le renvoient au réviseur.
-6. Le réviseur incorpore des modifications mineures à v5.pdf dans le fichier de démarquage sur Github pour créer la v6.
-7. Les éditeurs examinent et testent le dernier numéro pour en assurer la qualité
-8. Publication
+## La producción de articulos
 
+Nótese bien: Entendemos cada etapa del ciclo de vida de un texto desde el primer borrador hasta la producción como una *versión* diferente del texto, abreviada aquí como v1, v2, etc.
 
+### I. La etapa Word
 
+En esta etapa, todos los intercambios pueden tener lugar en Microsoft Word, siempre y cuando todas las partes cumplan con [las pautas de estilo](http://smallaxe.net/sxarchipelagos/submission-guidelines.html#documents) documentadas en el sitio de la revista. Los editores mantendrán copias de todas las versiones en esta etapa en Dropbox. No se hace ninguna promesa de preservación para esta etapa.
 
+1. CFP se pública
+14. Los colaboradores envían el resumen a los editores por correo electrónico
+2. Los colaboradores envían v1 a los editores por correo electrónico
+3. Los editores envían a los revisores por correo electrónico tal como se reciben
+4. Los revisores expertos evalúan el trabajo (1 mes desde la recepción)
+4. Los editores responden a los contribuyentes con informes basados en el trabajo de revisión por pares
+6. Los contribuyentes hacen revisiones y envían v2 a los editores por correo electrónico (1 mes desde la recepción)
+7. Los editores comparten todos los v2s con nuestro corregidor de copias en Dropbox
+8. Corregidor de copias crea v3, comparte en Dropbox con editores y los envía a los contribuyentes por correo electrónico.
+10. Los colaboradores hacen v4 con Track Changes y lo envían a Corregidor de copias junto con Materiales auxiliares (biografías, resúmenes y contenido multimedia). Corregidor de copias coloca todos los archivos en la carpeta apropiada en Dropbox.
+11. Corregidor de copias hace v5
+12. Corregidor comparte el conjunto de v5 sin seguimiento de cambios + materiales auxiliares con editores en Dropbox.
+13. Los editores obtienen DOI
 
+### II. La etapa Markdown
 
+En esta etapa, hacemos la transición a flujos de trabajo de reducción, a partir de los cuales se generan tanto el sitio como los PDF. Todas las ediciones por el corregidor de copias y editores deben realizarse en Github en esta etapa.
+
+1. Editor-tecnológico convierte v5 a markdown usando Pandoc
+2. Editor-tecnológico carga v5.md en Github y crea un borrador de problema web para uso interno.
+3. Editor-tecnológico genera v5 como PDF y comparte con el corregidor de copias en Dropbox.
+4. Corregidor de copias envía v5.pdf a los contribuyentes como prueba final
+5. Los colaboradores anotan v5.pdf con cambios menores y los envía de vuelta al corregidor de copias.
+6. Corregidor de copias incorpora cambios menores en v5.pdf en el archivo de descuento en Github para crear v6.
+7. Los editores revisan y prueban el problema final para garantizar la calidad.
+8. Publicación del numero.

@@ -1,52 +1,45 @@
+Part of what makes *archipelagos* unique is our work-flow, carefully designed to minimize production costs, and allow our small team to run a robust academic journal, without paid services outside server costs and DOI provision. While every journal will have unique requirements and resources available to the team, we believe that [our open source software stack]({{site.githuburl}}) combined with our work-flow provides a viable, portable model. The work-flow below is the next step after the original set-up is in place.
 
-# Notre flux de travail
+## New elements
 
-Notre flux de travail, conçu avec soin pour minimiser les coûts de production, et pour permettre à notre petite équipe de gérer un journal académique robuste, sans les services payants en dehors des coûts de serveur et de la fourniture de données DOI, fait partie du caractère unique de *archipelagos*. Bien que chaque journal ait des besoins et des ressources uniques disponibles pour l’équipe, nous pensons que notre infrastructure de logiciels open source, combinée à notre flux de travail, fournit un modèle viable et portable. Le flux de travail ci-dessous est la prochaine étape après la mise en place de la configuration initiale.
+The defining characteristic of our work-flow is the division into two stages of production by the types of computer files handled: The Word Stage and the Markdown Stage. While we continue to work for a world where authors structure their own documents, reducing overall costs further, we are cognizant of ingrained work habits, and have designed our work accordingly. 
 
-## Nouveaux éléments
+The second major requirement for our work-flow is the expanded role of the copy-editor. After receiving training in producing and editing well-formatted YAML/Markdown documents, our copy-editor is responsible for ensuring the smooth transition from the first stage to the next. 
 
-La principale caractéristique de notre flux de travail est la division en deux étapes de la production selon les types de fichiers informatiques gérés: la phase Word et la phase de Markdown. Tout en continuant de travailler pour un monde où les auteurs structurent leurs propres documents, ce qui réduit encore les coûts globaux, nous sommes conscients des habitudes de travail enracinées et nous avons conçu notre travail en conséquence.
-
-La deuxième exigence majeure de notre flux de travail est le rôle élargi du réviseur. Après avoir reçu une formation en production et édition de documents YAML / Markdown bien formatés, notre réviseur est responsable de la transition en douceur de la première étape à la suivante.
-
-La troisième condition est la connaissance de la génération de sites statiques (Jekyll, GitHub, etc.) par un membre de l'équipe. Dans notre cas, il s’agit de l’un des éditeurs, appelé éditeur-tech ci-dessous. Par souci de durabilité, nous sommes en train de transmettre ces compétences aux autres membres de l’équipe et aux amis du projet.
-
-## La production d'articles
-
-N.B. Chaque phase du cycle de vie d’un texte, du premier brouillon à la production, est comprise comme une version différente du texte, abrégée ici par v1, v2, etc.
-
-I. Phase Word
-
-À cette étape, tous les échanges peuvent avoir lieu dans Microsoft Word, à condition que toutes les parties respectent les [directives de style](http://smallaxe.net/sxarchipelagos/submission-guidelines.html#documents) documentées sur le site du journal. Les rédacteurs conserveront des copies de toutes les versions de cette étape sur Dropbox. Aucune promesse de conservation n'est faite pour cette étape.
-
-1. Les contributeurs soumettent la v1 aux rédacteurs par courrier électronique 
-2. Les éditeurs envoient aux examinateurs par courrier électronique à la réception
-3. Les relecteurs pairs évaluent le travail (1 mois après la réception)
-4. Les éditeurs répondent aux contributeurs avec des rapports basés sur le travail de révision par les pairs
-5. Les contributeurs font des révisions et renvoient la v2 aux éditeurs par courrier électronique (1 mois après réception)
-6. Les éditeurs partagent toutes les v2 avec le réviseur dans Dropbox
-7. Le réviseur crée la v3, partage les informations dans Dropbox avec les éditeurs et l'envoie aux contributeurs par courrier électronique.
-8. Les contributeurs créent la v4 avec le suivi des modifications et l'envoient au réviseur avec du matériel auxiliaire (bio, résumés et contenu multimédia). Le réviseur place tous les fichiers dans le dossier approprié dans Dropbox.
-9. Le réviseur fait v5
-10. Le réviseur partage tous les fichiers v5 sans suivi des modifications + documents auxiliaires avec les éditeurs dans Dropbox.
-11. Les éditeurs obtiennent des DOI
-
-II. La phase Markdown
-
-Dans cette étape, nous passons aux flux de travail Markdown, à partir desquels le site et les PDF sont générés. Toutes les éditions par le réviseur et les éditeurs doivent avoir lieu sur Github à ce stade.
+The third requirement is knowledge of static site generation (Jekyll, GitHub, etc.) by a member of the team. In our case this is one of the editors—called the editor-tech below. For the sake of sustainability, we are in the process of passing on these skills to other team members and friends of the project.
 
 
-1. L'éditeur-tech convertit v5 en démarque à l'aide de Pandoc
-2. L'éditeur-tech télécharge v5.md sur Github & crée un brouillon de problème Web à usage interne.
-3. L'éditeur-tech génère v5 sous forme de PDF et partage avec Copy-Editor sur Dropbox.
-4. Le réviseur envoie v5.pdf aux contributeurs en tant que preuve définitive
-5. Les contributeurs annotent v5.pdf avec des modifications mineures et le renvoient au réviseur.
-6. Le réviseur incorpore des modifications mineures à v5.pdf dans le fichier de démarquage sur Github pour créer la v6.
-7. Les éditeurs examinent et testent le dernier numéro pour en assurer la qualité
+## The Production of Articles
+
+N.B. We understand each stage of a text's life-cycle from first draft to production as a different *version* of the text, abbreviated here as v1, v2, etc.
+
+### I. The Word Stage
+
+In this stage, all exchanges can take place in Microsoft Word, as long as all parties abide by [the style guidelines](http://smallaxe.net/sxarchipelagos/submission-guidelines.html#documents) documented on the journal site. Editors will keep copies of all versions in this stage on Dropbox. No promise of preservation is made for this stage.
+
+1. CFP goes out
+14. Contributors submit abstract to Editors over email    
+2. Contributors submits v1 to Editors over email
+3. Editors sends to Peer Reviewers over email as received
+4. Peer Reviewers evaluate work (1 month from receipt)
+4. Editors responds to Contributors with reports based on peer-review work
+6. Contributors make revisions & send v2 back to Editors via email (1 month from receipt) 
+7. Editors share all v2s with Copy-Editor in Dropbox
+8. Copy-Editor makes v3, shares in Dropbox with Editors & sends to Contributors via email.   
+10. Contributors make v4 with Track Changes and send to Copy-Editor along with Ancillary Materials (bio, abstracts and multimedia content). Copy-Editor places all files in appropriate folder in Dropbox.
+11. Copy-Editor makes v5
+12. CE shares set of v5 without Track Changes + Ancillary Materials with Editors in Dropbox.
+13. Editors obtain DOIs
+
+### II. The Markdown Stage
+
+In this stage we transition to markdown work-flows, out of which both the site and the PDFs are generated. All edits by Copy Editor and Editor should happen on Github at this stage. 
+
+1. Editor-tech converts v5 to markdown using Pandoc
+2. Editor-tech uploads v5.md to Github & creates draft of web issue for internal use.
+3. Editor-tech generates v5 as PDFs, & shares with Copy-Editor on Dropbox.
+4. Copy-Editor sends v5.pdf to Contributors as Final Proof
+5. Contributors annotate v5.pdf with minor changes & sends back to Copy-Editor.
+6. Copy-Editor incorporates minor changes to v5.pdf in the markdown file on Github to create v6.
+7. Editors review and test the final issue to ensure quality.
 8. Publication
-
-
-
-
-
-

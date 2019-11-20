@@ -1,6 +1,3 @@
-
-# Notre flux de travail
-
 Notre flux de travail, conçu avec soin pour minimiser les coûts de production, et pour permettre à notre petite équipe de gérer un journal académique robuste, sans les services payants en dehors des coûts de serveur et de la fourniture de données DOI, fait partie du caractère unique de *archipelagos*. Bien que chaque journal ait des besoins et des ressources uniques disponibles pour l’équipe, nous pensons que notre infrastructure de logiciels open source, combinée à notre flux de travail, fournit un modèle viable et portable. Le flux de travail ci-dessous est la prochaine étape après la mise en place de la configuration initiale.
 
 ## Nouveaux éléments
