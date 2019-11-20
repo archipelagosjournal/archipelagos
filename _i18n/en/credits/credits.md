@@ -3,6 +3,9 @@
 [Kaiama L. Glover](#kaiama-l-glover--editor)\\
 [Alex Gil](#alex-gil--editor)
 
+### Managing Editor
+Soray Limare
+
 ### Production | Design
 [Juliet Ali](#juliet-ali--designer)\\
 [Brian Ballsun-Stanton](#brian-ballsun-stanton--production-editor)\\
