@@ -4,7 +4,7 @@
 [Alex Gil](#alex-gil--editor)
 
 ### Assistante aux rédacteurs-en-chef
-[Soraya Limare]
+Soraya Limare
 
 ### Production | Conception
 [Juliet Ali](#juliet-ali--designer)\\

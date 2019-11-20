@@ -1,10 +1,11 @@
 
-# pour nos auteurs
-
 *archipelagos*, un journal de pratique numérique, publie des articles scientifiques, des projets numériques et des comptes rendus de projets numériques sur les Caraïbes. Nous publions un numéro par an et acceptons les soumissions tout au long de l’année. Toutes les soumissions doivent être conformes au [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html).
 
 ## Table des matières
 {:.no_toc}
+
+* ToC
+{:toc}
 
 ## Directives de soumission d'articles ou de critiques
 

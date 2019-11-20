@@ -4,16 +4,17 @@ global:
   french: "en français"
   subtitle: "revista de praxis digital en estudios caribeños"
   blurb:
-    "*archipelagos* is a born-digital, peer-reviewed publication devoted to creative exploration, debate, and critical thinking about and through digital practices in contemporary scholarly and artistic work in and on the Caribbean. Given the wide implications of the “digital turn” for our very conceptions of knowledge, our mission is to discern the ways in which the digital may enhance and transform our comprehension of the regional and diasporic Caribbean. sx archipelagos responds to this challenge with three distinct dimensions of critical production: scholarly essays; digital scholarship projects; and digital project reviews."
+    "<em>archipelagos</em> es una revista académica de publicación electrónica, revisada por pares, dedicada a la exploración creativa, el debate y pensamiento crítico sobre y a travez la práctica digital en espacios artísticos y académicos en y para el Caribe. Dadas las amplias implicaciones del 'giro digital' para nuestra concepción del conocimiento, nuestra misión es discernir las formas en que lo digital puede mejorar y transformar nuestra comprensión del Caribe regional y diaspórico. <em>archipelagos</em> responde a este desafío con tres dimensiones distintas de producción crítica: ensayos académicos; proyectos de investigación digitales; y reseñas de proyectos digitales."
   read_more: "Leer más ..."
   introduction: "Introducción"
-  essays: Essais
-  projects: Projets numériques
-  reviews: Revues de projets numériques
-  past_issues: Numéros passés
+  essays: Ensayos
+  projects: Proyectos digitales
+  reviews: Reseñas
+  past_issues: Numeros pasados
 
 titles:
   about: "Acerca de"
-  authors: "for authors"
-  credits: "credits"
-  reviewers: "for reviewers"
+  authors: "para nuestros autores"
+  credits: "créditos"
+  reviewers: "para nuestros revisores"
+  workflow: "flujo de trabajo"

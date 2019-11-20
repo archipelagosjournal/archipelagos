@@ -1,10 +1,10 @@
-*sx archipelagos*, a small axe journal of digital practice, publishes scholarly articles, digital projects, and digital project reviews related to the Caribbean. We publish one issue per year and accept submissions on a rolling basis.
+*archipelagos* es una revista dedicada a la práctica digital, publica artículos académicos, proyectos digitales y reseñas de proyectos digitales relacionados con el Caribe. Publicamos un número por año y aceptamos envíos de forma continua.
 
-Contact: archipelagos@smallaxe.net
+Contact: archipelagosjournal@gmail.com
 
 ---
 
-## Table of Contents
+## Indice
 {:.no_toc}
 
 * ToC
@@ -12,105 +12,107 @@ Contact: archipelagos@smallaxe.net
 
 ---
 
-## Submission Guidelines for Articles or Reviews
+## Pautas de envío de artículos o reseñas
 
-*sx archipelagos* is founded on principles of minimal computing. We encourage our authors to help us avoid redundancy and costly workflows. We understand that unfamiliar environments and formats can be challenging to work with, and these guidelines are a work in progress as we strive for the right balance between our authors’ needs and our mission. Your ideas are most welcome.
+*archipelagos* se basa en principios de computación mínima. Alentamos a nuestros autores a que nos ayuden a evitar la redundancia y los flujos de trabajo costosos. Entendemos que los entornos y formatos desconocidos pueden ser difíciles de manejar, y estas pautas son un trabajo en progreso a medida que nos esforzamos por lograr el equilibrio adecuado entre las necesidades de nuestros autores y nuestra misión. Sus ideas son bienvenidas.
 
-### General Notes
+### Notas generales
 
-*sx archipelagos* uses a combination of email, Dropbox and Github to manage [the editorial workflow](http://smallaxe.net/sxarchipelagos/workflow.html). We ask you to submit your abstracts and articles to <archipelagos@smallaxe.net>. Most exchanges with authors will happen through email using this account.
+*archipelagos* utiliza una combinación de correo electrónico, Dropbox y GitHub para administrar [el flujo de trabajo editorial](http://smallaxe.net/sxarchipelagos/es/workflow.html). Le pedimos que envíe sus resúmenes y artículos a <archipelagosjournal@gmail.com>. La mayoría de los intercambios con los autores se realizarán por correo electrónico utilizando esta cuenta.
 
-1. Submissions of individual articles are accepted on a rolling basis. We also welcome proposals for themed sections.
+1. Las entregas de artículos individuales se aceptan de forma continua. También aceptamos propuestas para secciones temáticas.
 
-2. Article submissions must include a bio (or bios for multi-author) and an abstract. Please place these at the bottom of your document. All multimedia content should accompany the initial article submission in a zip file or equivalent.
+2. Las presentaciones de artículos deben incluir una biografía (o biografías para varios autores) y un resumen. Por favor colóquelos al final de su documento. Todo el contenido multimedia debe acompañar el envío inicial del artículo en un archivo zip o equivalente.
 
-6. We are an open access journal. If you are accepted for publication you will receive a copy of our [Author Agreement]({{site.baseurl}}/public/author-agreement.pdf).
+6. Somos una revista de acceso abierto. Si es aceptado para su publicación, recibirá una copia de nuestro [Acuerdo con el autor]({{site.baseurl}}/public/author-agreement.pdf).
 
-3. Articles are double-blind reviewed by our team of outside peer-reviewers. Digital project reviews are reviewed by the *sx archipelagos* Editorial Board. Contributors receive written notification from the editors (accepted, accepted with minor revisions, substantive revisions required or rejected) within two months of submission.
+3. Los artículos son revisados a doble ciego por nuestro equipo de revisores externos. Las reseñas son revisadas por los editores de *archipelagos*. Los contribuyentes reciben una notificación por escrito de los editores (aceptada, aceptada con revisiones menores, revisiones sustantivas requeridas o rechazadas) dentro de los dos meses posteriores a la presentación.
 
-4. Copyediting begins upon successful completion of the peer-review process. Contributors can expect to receive an updated file with suggestions and queries from our Copy Editor. The revised file must be returned within two weeks of receipt. This will be the final opportunity to make substantive changes to the file. Contributors will receive a final PDF and link to the site close to launch for minor edits.
+4. La corrección comienza cuando se completa con éxito el proceso de revisión por pares. Los contribuyentes pueden esperar recibir un archivo actualizado con sugerencias y consultas de nuestro editor de copias. El archivo revisado debe devolverse dentro de las dos semanas posteriores a la recepción. Esta será la última oportunidad para realizar cambios sustanciales en el archivo. Los contribuyentes recibirán un PDF final y un enlace al sitio cercano al lanzamiento para modificaciones menores.
 
-5. Throughout the editing and production process, contributors are expected to watch e-mail for any last-minute queries from *sx archipelagos* editors. Prompt responses will help to maintain schedules.
+5. A lo largo del proceso de edición y producción, se espera que los contribuyentes vigilen el correo electrónico para cualquier consulta de última hora de los editores de *archipelagos*. Las respuestas rápidas ayudarán a mantener horarios.
 
-### File types
+### Tipos de archivos
 
-#### Documents
+#### Documentos
 
-*Markdown (.md)*: Publishing is in many ways a game of file conversions. Both our website and PDFs are built from the same Markdown files. While we gladly accept articles in Office format, we encourage our authors to submit plain text files (UTF-8 encoding), written using [Kramdown syntax](http://kramdown.gettalong.org/syntax.html), a version of Markdown, and saved with the .md extension. This will help us keep our workflow light and our file types closer to the production line, contributing in turn to our continued ownership of all aspects of journal production. For some background on our infrastructural choices, and to get started with Markdown, please take some time to read "[Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)," by Dennis Tenen and Grant Whytoff. We sincerely appreciate those who accept the challenge of changing their work habits and are happy to provide assistance during the process. You will find many markdown editing tools available, and most plain text editors are great at handling markdown.
+*Markdown (.md)*: la publicación es, en muchos sentidos, un juego de conversiones de archivos de un formato a otro. Tanto nuestro sitio web como nuestros PDF se crean a partir de los mismos archivos de Markdown. Si bien aceptamos con gusto los artículos en formato de Office, alentamos a nuestros autores a enviar archivos de texto sin formato (codificación UTF-8), escritos utilizando Markdown con [sintaxis Kramdown](http://kramdown.gettalong.org/syntax.html), y guardado con la extensión .md. Esto nos ayudará a mantener nuestro flujo de trabajo ligero y nuestros tipos de archivos más cerca de la línea de producción, contribuyendo a su vez al control continuo de todos los aspectos de la producción de nuestra revista. Para obtener algunos antecedentes sobre nuestras opciones de infraestructura, y para comenzar con Markdown, tómese un tiempo para leer "[Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)", por Dennis Tenen y Grant Whytoff. Agradecemos sinceramente a quienes aceptan el desafío de cambiar sus hábitos de trabajo y les brindamos nuestra asistencia durante el proceso. Encontrará muchas herramientas de edición de Markdown disponibles, y la mayoría de los editores de texto plano son igualmente excelentes para manejar el mismo.
 
-*Office formats (.odt, .doc, .docx)*: If you find the Markdown workflow overwhelming, we will convert your Microsoft Word, LibreOffice, or OpenOffice files to Markdown ourselves at the end of the process. In order to minimize the work needed to convert your files into publishable format, **please be sure to follow our guidelines and style guide closely**. Here are some specific formatting issues that will make our file conversion work tractable:
+*Formatos de Office (.odt, .doc, .docx)*: Si encuentra que el flujo de trabajo de Markdown es abrumador, convertiremos sus archivos de Microsoft Word, LibreOffice u OpenOffice a Markdown nosotros mismos al final del proceso. Para minimizar el trabajo necesario para convertir sus archivos a formato publicable, **asegúrese de seguir atentamente nuestras pautas**. Aquí una lista de soluciones específicas para el formato Office que harán que nuestra conversión de archivos funcione:
 
-1. Please use the Heading styles (i.e. Heading 2, Heading 3, etc.) to separate your sections, beginning with Heading 2. Indicating headings by using bold does not translate well in our transformations. Do not use bold for headings.
-2. Attach links to the main body text (as opposed to spelling them out). In footnotes, spell out the link, but also link to it as you would with text: [http://example.com](http://example.com/)
-3. Remember to use `http://` and `https://` on your links or they won't work.
-4. Please make sure to use normal quotation marks. Avoid the use of "smart quotes."
-5. For hyphens, en-dashes and em-dashes use, respectively: `-` `--` and `---`.
-6. Do not try to do your own layout on Word. What you see is not what we get. If you need special layout, describe it in prose [in brackets].
-7. Do not insert images manually in the document. Refer to our guidelines for images below.
-8. Do not use data fields or tables in Word. Please see below for our accepted table formats.
+1. Utilice los estilos de Encabezado (es decir, Heading 2, Heading 3, etc.) para separar sus secciones, comenzando con el Encabezado 2. La indicación de encabezados usando negrita no funciona bien en nuestras transformaciones. No use negrita para encabezados.
+2. Adjunte enlaces al texto del cuerpo principal (en lugar de deletrearlos). En las notas al pie, deletree el enlace, pero también enlácelo como lo haría con el texto: `[ejemplo](http://example.com/)`
+3. Recuerde usar `http://` y `https://` en sus enlaces o no funcionarán.
+4. Asegúrese de utilizar comillas normales. Evite el uso de "comillas inteligentes".
+5. Para guiones, y dependiendo del tamaño de guion que desea, use un guion para guion sencillo, dos para guion corto (series de numeros o fechas) o, tres para guion largo. Respectivamente: `-`,`--` o `---`.
+6. No intente hacer su propio diseño en Word. Lo que ve, no es lo que obtenemos. Si necesita un diseño especial, descríbalo en prosa [entre corchetes].
+7. No inserte imágenes manualmente en el documento. Consulte nuestras pautas para las imágenes a continuación.
+8. No use campos de datos o tablas en Word. Consulte a continuación nuestros formatos de tabla aceptados.
 
-#### Images
+#### Imagenes
 
-At *sx archipelagos* we value the richness of our visual culture. If you are submitting your own photography, we ask you to be mindful of frame, color harmonies, and other design elements. Remember also that these files may contain embedded metadata that you might not want to publish. Images accompanying your documents will be open to the review process.
+En *archipelagos* valoramos la riqueza de nuestra cultura visual. Si envía su propia fotografía, le pedimos que tenga en cuenta el marco, las armonías de color y otros elementos de diseño. Recuerde también que estos archivos pueden contener metadatos incrustados que es posible que no desee compartir con el público. Las imágenes que acompañan a sus documentos estarán expuestas al proceso de revisión por pares junto a su texto.
 
-Please provide crisp images with a minimum of 144ppi resolution and at least 800 pixels wide. Please submit your images in JPG format. We accept PNG's if the image has transparencies or is made of simple colors (i.e. a logo).
+Proporcione imágenes nítidas con una resolución mínima de 144ppi y al menos 800 píxeles de ancho. Por favor envíe sus imágenes en formato JPG. Aceptamos PNG si la imagen tiene transparencias o está hecha de colores simples (es decir, un logotipo).
 
-Please use the following rubric in your documents, typing each character in the exact order, and filling out the appropriate content in brackets (without the brackets in the final version), and place the whole where you would like your images to be inserted:
+Utilice la siguiente rúbrica en sus documentos, escriba cada carácter en el orden exacto y complete el contenido apropiado entre paréntesis (sin los paréntesis en la versión final), y coloque el conjunto donde desea que se inserten sus imágenes:
 
 ~~~ text
 {% raw %}{% include image.html
-   img="[my-image.jpg]"
-   title="[insert title here]"
-   caption="[insert caption here.]"
-   url="[http://optional-url.com]" %}{% endraw %}
+   img="[mi-imagen.jpg]"
+   title="[titulo va aquí]"
+   caption="[captura de imagen va aquí.]"
+   url="[http://url-optional.com]" %}{% endraw %}
 ~~~
 
-N.B. Urls are optional, and should only be used when you want the image to point to a specific resource.
+Nótese bien: Las URLs son opcionales y solo deben usarse cuando desee que la imagen apunte a un recurso específico.
 
-We ask that you name your image files using one or two keywords separated by a hyphen as in the example above. **Do not use spaces or capital letters in your file name**. Please remember to provide credit line text as needed, particularly for photographs. The URL field is optional and you should only use it if you want the reader to link from your image to another page on the internet.
+Le pedimos que nombre sus archivos de imagen utilizando una o dos palabras clave separadas por un guión como en el ejemplo anterior. **No use espacios o letras mayúsculas en su nombre de archivo**. Recuerde proporcionar texto de línea de crédito según sea necesario, particularmente para fotografías. El campo URL es opcional y solo debe usarlo si desea que el lector enlace desde su imagen a otra página en Internet. Estos archivos deben enviarse por separado junto con el documento de Office o el archivo Markdown.
 
-#### Video, Sound, and Interactive Media
+#### Video, sonido y medios interactivos
 
-In order to make our articles and reviews available in PDF, and in order to increase the longevity of the Web files, we separate interactive media from static text and images. For video and sound, we encourage our authors to use a streaming service of their choice. Be mindful of privacy, stability, and copyright concerns when choosing streaming video. When required, we can provide you with a Digital Publication Agreement Form to use with rights holders.
+Para que nuestros artículos y reseñas estén disponibles en PDF, y para aumentar la longevidad de los archivos web, separamos los medios interactivos del texto estático y las imágenes. Para video y sonido, alentamos a nuestros autores a usar un servicio de transmisión de su elección (SoundCloud, YouTube, etc). Tenga en cuenta las preocupaciones de privacidad, estabilidad y derechos de autor al elegir la transmisión de video. Cuando sea necesario, podemos proporcionarle un Formulario de Acuerdo de Publicación Digital para usar con los dueños de derechos de autor.
 
-Since *sx archipelagos* was born of the need to support emergent forms of digital scholarship, we are also open to including interactive media (e.g., maps, visualizations) in our articles. We ask that you provide us, whenever possible, a full-screen version of your interactive media hosted elsewhere.
+Dado que *archipelagos* nació de la necesidad de apoyar formas emergentes de investigación digital, también estamos abiertos a incluir medios interactivos (por ejemplo, mapas, visualizaciones) en nuestros artículos. Le pedimos que nos proporcione, siempre que sea posible, una versión de pantalla completa de sus medios interactivos alojados en otro lugar.
 
-In order to include any of these media types, we ask that you send us a screenshot and the appropriate link to the separate content. Please use the same rubric as the one we use for images above, and place the rubric in the place of the text where you would like your screenshot link to appear. The URL should point to the full-screen version (whenever possible) of your interactive media, sound file or video. Whenever appropriate use a screenshot with the play button visible. For example, if it's a YouTube video, take a screenshot of the full screen version with the red and white play button in the center.
+Para incluir cualquiera de estos tipos de medios, le pedimos que nos envíe una captura de pantalla y el enlace apropiado al contenido separado. Utilice la misma rúbrica que la que usamos para las imágenes de arriba y coloque la rúbrica en el lugar del texto donde desea que aparezca el enlace de la captura de pantalla. La URL debe apuntar a la versión de pantalla completa (siempre que sea posible) de su medio interactivo, archivo de sonido o video. Siempre que sea apropiado, use una captura de pantalla con el botón de reproducción visible. Por ejemplo, si se trata de un video de YouTube, tome una captura de pantalla de la versión de pantalla completa con el botón de reproducción rojo y blanco en el centro.
 
-### Hyperlinks
+### Enlaces
 
-All referenced pages (whenever possible and allowed by the site's robot.txt file) should point to a specific archived copy at [the Internet Archive](https://archive.org/index.php) whenever possible. If a copy does not yet exist, please create one using their "[Save Page Now](https://archive.org/web/)" feature. Let us know if you need help with this process.
+Todas las páginas referenciadas, siempre que sea posible, deben apuntar a una copia archivada específica en [el Internet Archive](https://archive.org/index.php). Si aún no existe una copia, cree una utilizando su función "[Guardar página ahora](https://archive.org/web/)". Háganos saber si necesita ayuda con este proceso.
 
-Please ensure that all external and internal links in your document are working before submission. Many websites and Web pages disappear or become displaced over time. In order to avoid *link rot*, we run periodic build tests to ensure the viability of our internal and external links. Despite these measures, some links will be lost in the years to come. In order to minimize the impact on your article, please provide appropriate citations when the links are fundamental to the argument and you cannot provide an archived copy at the Internet Archive.
+Asegúrese de que todos los enlaces externos e internos de su documento estén funcionando antes de enviarlos. Muchos sitios web y páginas web desaparecen o se desplazan con el tiempo. Para evitar *la descomposición del enlace*, realizamos pruebas de compilación periódicas para garantizar la viabilidad de nuestros enlaces internos y externos. A pesar de estas medidas, algunos enlaces se perderán en los próximos años. Para minimizar el impacto en su artículo, proporcione las citas apropiadas cuando los enlaces sean fundamentales para el argumento y no pueda proporcionar una copia archivada en el Archivo de Internet.
 
-### External Documents
+### Documentos externos
 
-When sharing external documents, do not link to cloud storage services (e.g., Dropbox, Google Docs) or closed-access sources. In these cases, simply cite the documents. If you have permission to use them, you may be able to submit them with your files. We do welcome and encourage links to open institutional repositories.
+Al compartir documentos externos, no se vincule a servicios de almacenamiento en la nube (por ejemplo, Dropbox, Google Docs) ni a fuentes de acceso cerrado. En estos casos, simplemente cite los documentos. Si tiene permiso para usarlos, puede enviarlos con sus archivos. Damos la bienvenida y alentamos los enlaces a repositorios institucionales abiertos.
 
-### Tables
+### Tablas
 
-If you would like a table to display as you read your text you can submit it either as a .csv (Comma Separated Values) file or written directly in [kramdown/markdown](http://kramdown.gettalong.org/syntax.html#tables), its final format. In general, we prefer the simpler table formats. Please avoid rowspans, for example. If you feel you need a complex visualization, consider submitting an image or hosting the visualization elsewhere and linking to it from a screenshot. 
+Si desea que se muestre una tabla mientras lee su texto, puede enviarla como un archivo .csv (valores separados por comas) o escrito directamente en [kramdown/Markdown](http://kramdown.gettalong.org/syntax.html#tables), su formato final. En general, preferimos los formatos de tabla más simples. Evite los espacios en filas, por ejemplo. Si desea enviar una tabla más compleja, puede hacerlo como un PDF separado. Luego vincularíamos a la tabla desde el texto. 
 
-If you would like to submit a more complex table you can do so as a separate PDF. We would then link to the table from within the text. 
+Si cree que necesita una visualización aún más compleja, considere enviar una imagen o alojar la visualización en otro servidor y vincularla desde una captura de pantalla.
 
-**We do not accept tables in Office format.**
+**No aceptamos tablas en formato Office.**
 
-## Submission Guidelines for Digital Projects
+## Pautas para proyectos digitales
 
-*sx archipelagos* accepts mid-stage digital scholarship projects beyond the article or monograph format for single-blind review after our editorial team has had a first round of vetting. A polished version of the review will be offered to the project team or lead as coming from *sx archipelagos* and written in the royal "we." We expect the team to take the review seriously, and make appropriate and feasible changes to the project accordingly.
+*sx archipelagos* acepta proyectos digitales en etapa de desarollo intermedia para una revisión anónima de una vía, luego de que nuestro equipo editorial haya tenido una primera ronda de aprobación. 
 
-Throughout the review and publication process, our editorial team will work with you to provide constructive feedback on your project. You remain, of course, responsible for the development and upkeep of your project before and after we showcase it on our platform. If your project is accepted in our digital projects featured section, we will also publish the review exchange between our reviewers and your team. If the review process works for all parties, we offer the opportunity to launch or highlight your project upon publication of the relevant *sx archipelagos* issue. 
+Se ofrecerá una versión pulida de los comentarios de los revisores al equipo del proyecto, o al director, como proveniente de *archipelagos* y escrita en el "nosotros" real. Esperamos que el equipo tome en serio las sugerencias de nuestros revisores y, que haga los cambios indicados al proyecto, siempre que estos sean factibles.
 
-In addition to reviewing projects directly, we support essay-length "project narratives" that describe the process, infrastructure, or new major feature of a digital project. These essays go through the same single-blind method as projects, and will be published alongside featured projects. If you have any questions about which is the right fit for you, feel free to contact us.
+A lo largo del proceso de revisión y publicación, nuestro equipo editorial trabajará con usted para brindarle comentarios constructivos sobre su proyecto. Por supuesto, usted sigue siendo responsable del desarrollo y mantenimiento de su proyecto antes y después de que lo presentemos en nuestra revista. Si su proyecto es aceptado en nuestra sección de proyectos digitales, también publicaremos el intercambio de revisiones entre nuestros revisores y su equipo. Si el proceso de revisión resulta satisfactoria para ambas partes, ofrecemos la oportunidad de lanzar o resaltar su proyecto tras la publicación en *archipelagos*.
 
-We are particularly keen to support projects that make an important scholarly contribution to the study of the Caribbean; that are conscious of the design process and underlying infrastructures of digital technology; that acknowledge the contribution of all members of the team appropriately; and that have taken into account matters of longevity and ephemerality. For a more detailed sense of our criteria and process, please consult [the guidelines we have prepared for our reviewers]({{site.baseurl}}/review-guidelines.html).
+Además de revisar proyectos directamente, apoyamos "narrativas de proyectos" de modo ensayo que describen el proceso, la infraestructura o ofertas principales y originales de un proyecto digital dado. Estos ensayos pasan por el mismo método de revision anónima de una vía que los proyectos, y se publicarán en la misma sección que los proyectos. Si tiene alguna pregunta sobre cuál es la opción más adecuada para usted, no dude en contactarnos.
 
-Direct Project review occurs in two phases:
+Estamos particularmente interesados ​​en apoyar proyectos que hagan una importante contribución académica al estudio del Caribe; que son conscientes del proceso de diseño y las infraestructuras subyacentes de la tecnología digital; que reconocen la contribución de todos los miembros del equipo adecuadamente; y que han tenido en cuenta cuestiones de longevidad y efimeridad. Para obtener una idea más detallada de nuestros criterios y procesos, consulte [las pautas que hemos preparado para nuestros revisores]({{site.baseurl}}/review-guidelines.html).
 
-1.  Authors submit a Project Statement consisting of a 350-to-500-word abstract and a 5000-to-7000-word description. Reviewers will offer initial feedback within four to six weeks based on the description and an exploration of the project. If the project is still in beta and not available publicly, you must share a link to the development site. We will ensure that the link does not leave our editorial circles.
+La revisión directa del proyecto ocurre en dos fases:
 
-2.  Authors respond to reviewer feedback in a 1000-to-1200-word narrative and provide a link to a navigable beta site for final review.
+1. Los autores envían una Declaración del proyecto que consta de un resumen de 350 a 500 palabras y una descripción de 5000 a 7000 palabras. Los revisores ofrecerán comentarios iniciales dentro de cuatro a seis semanas según la descripción y una exploración del proyecto. Si el proyecto todavía está en versión beta y no está disponible públicamente, debe compartir un enlace al sitio de desarrollo. Nos aseguraremos de que el enlace no abandone nuestros círculos editoriales.
 
-3. The editors will write an introduction to the project and compile the project's own introduction written exclusively for us, the reviewer comments and the response from the project team or lead for final publication on a dedicated project page.
+2. Los autores responden a los comentarios de los revisores en una narrativa de 1000 a 1200 palabras y proporcionan un enlace a un sitio beta navegable para la revisión final.
 
-Project description essays will follow the same process as an article review.
+3. Los editores escribirán una introducción al proyecto y compilarán la propia introducción del proyecto escrita exclusivamente para nosotros, los comentarios del revisor y la respuesta del equipo del proyecto o el líder para la publicación final en una página dedicada al proyecto.
+
+Los ensayos de descripción del proyecto seguirán el mismo proceso que la revisión de un artículo.
