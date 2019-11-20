@@ -76,8 +76,7 @@ should ask the following questions of a project:
 
 Although design constitutes a separate category of review, we ask
 reviewers to understand design in terms of its relationship to the
-purported intellectual contribution of a given project. For *sx
-archipelagos*, design includes back-end architecture, workflow, and
+purported intellectual contribution of a given project. For *archipelagos*, design includes back-end architecture, workflow, and
 front-end interface design. We ask reviewers to consider the overall
 temporal and technical structure of a project and how this structure
 relates to the goals of the project. A reviewer may ask questions like

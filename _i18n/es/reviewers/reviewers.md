@@ -10,123 +10,56 @@ En *archipelagos* estamos trabajando para construir una comunidad de revisores y
 
 ---
 
-## Review Guidelines for Digital Projects
+## Pautas para revisión de proyectos digitales
 
-*archipelagos* accepts mid-stage digital scholarship projects beyond
-the article or monograph format for single-blind review. Our review
-process is crafted in accordance with the [DHCommons
-model](http://dhcommons.org/journal/submission-guidelines), with some
-additions and revisions. Once peer review is completed, projects are
-"launched" via a dedicated page on the *archipelagos* platform. This
-landing page features a brief description of and link to the project,
-along with excerpts of audio, visual, and other multimedia elements.
-This page also provides a link to (a curated version of) the dialogue
-between site authors and peer reviewers. Click for an example.
+*archipelagos* acepta proyectos de estudios digitales en etapa de desarrollo intermedia para una revisión anonima de una vía. Nuestro proceso de revisión está diseñado según el [modelo de DHCommons](http://dhcommons.org/journal/submission-guidelines), con algunas adiciones y revisiones. Una vez que se completa la revisión por pares, los proyectos se "lanzan" a través de una página dedicada en la plataforma *archipelagos*. Esta página presenta una breve descripción y un enlace al proyecto, junto con extractos de audio, visuales y otros elementos multimedia pertinentes. Esta página también proporciona (una versión curada de) el diálogo entre los autores del sitio y los revisores por pares.
 
-Project review occurs in two phases:
+La revisión del proyecto ocurre en dos fases:
 
-1.  Authors submit a Project Statement consisting of a 350-to-500-word
-    abstract and a 5000-to-7000-word description. Reviewers will offer
-    initial feedback within four to six weeks.
+1. Los autores envían una Declaración de proyecto que consta de un resumen de 350 a 500 palabras y una descripción de 5000 a 7000 palabras. Los revisores ofrecerán comentarios iniciales dentro de cuatro a seis semanas.
+2. Los autores responden a los comentarios de los revisores en una narrativa de 1000 a 1200 palabras y proporcionan un enlace a un sitio beta navegable para la revisión final.
 
-2.  Authors respond to reviewer feedback in a 1000-to-1200-word
-    narrative and provide a link to a navigable beta site for
-    final review.
+Los editores sintetizan los comentarios de los revisores y la respuesta del autor para su publicación final en una página dedicada al proyecto. 
 
-The Editors synthesize reviewer comments and the response from the
-author for final publication on a dedicated project page.
+Nuestras pautas de revisión se dividen en cuatro categorías: Contribución, Crédito, Diseño y Preservación.
 
-Our review guidelines are separated into four categories: Contribution,
-Credit, Design, and Preservation.
+### Contribución
 
-### Contribution
+Solicitamos a los revisores que evalúen cuidadosamente la contribución intelectual de facto o posible del proyecto. Los revisores deben considerar la naturaleza de esa contribución apropiada para la etapa actual del desarrollo del proyecto y considerar indicios de nuevo conocimiento derivados del proceso; la relación del proyecto con la literatura/proyectos existentes; y/o conversaciones tempranas en la literatura sobre el proyecto (cuando corresponda)
 
-We ask reviewers to carefully weigh the de facto or possible
-intellectual contribution of the project. Reviewers should consider the
-nature of that contribution appropriate to the current stage of the
-project’s development and consider early signs of process-derived
-knowledge; the project’s relationship to existing literature/projects;
-and/or early conversations in the literature about the project (where
-appropriate).
+- ¿El proyecto enmarcará nuevas conversaciones en el área temática relevante? 
+- ¿Los métodos utilizados en el proyecto son apropiados para las preguntas de investigación que plantea?
+- ¿Los métodos del proyecto contribuyen a la investigación digital en general, y si es así, cómo?
 
-- Will the project frame new conversations in the relevant subject
-  area?
-- Are the methods used in the project appropriate to the research
-  questions it poses?
-- Do the project’s methods contribute to digital scholarship in
-  general, and if so, how?
+### Crédito
 
-### Credit
+Pedimos a los revisores que sean conscientes del trabajo que se dedicó a la realización del proyecto digital. Los proyectos digitales generalmente dependen de una colaboración más distribuida que las monografías o artículos. *archipelagos* fomenta la acreditación del trabajo donde se debe y el reconocimiento del trabajo académico e interpretativo involucrado en la conservación de datos, el diseño y la ingeniería de proyectos digitales. Los revisores deben hacer las siguientes preguntas de un proyecto:
 
-We ask reviewers to be conscious of the labor that went into the making
-of a digital project. Digital projects generally depend on more
-distributed collaboration than monographs or articles. *archipelagos*
-encourages the crediting of work where credit is due and the
-acknowledgment of the scholarly and interpretative work involved in data
-curation, design, and the engineering of digital projects. Reviewers
-should ask the following questions of a project:
+- ¿El proyecto acredita a sus contribuyentes de manera abierta y justa?
+- ¿Son evidentes las condiciones laborales bajo las cuales se produjo el proyecto?
+- ¿Cita el trabajo sus antecedentes (otros proyectos digitales) y fuentes de datos de manera apropiada?
 
-- Does the project credit its contributors openly and fairly?
-- Are the labor conditions under which the project was produced made
-  evident?
-- Does the work cite its (digital scholarship) precedents and data
-  sources appropriately?
+### Diseño
 
-### Design
+Aunque el diseño constituye una categoría separada de revisión, solicitamos a los revisores que comprendan el diseño en términos de su relación con la supuesta contribución intelectual de un proyecto dado. Para *archipelagos*, el diseño incluye arquitectura de base (back-end), flujo de trabajo y diseño de interfaz (front-end). Solicitamos a los revisores que consideren la estructura general temporal y técnica de un proyecto y cómo esta estructura se relaciona con los objetivos del proyecto. Un revisor puede hacer preguntas como:
 
-Although design constitutes a separate category of review, we ask
-reviewers to understand design in terms of its relationship to the
-purported intellectual contribution of a given project. For *sx
-archipelagos*, design includes back-end architecture, workflow, and
-front-end interface design. We ask reviewers to consider the overall
-temporal and technical structure of a project and how this structure
-relates to the goals of the project. A reviewer may ask questions like
+- ¿Cómo coinciden el esfuerzo y los recursos utilizados en el proyecto con su importación?
+- ¿Cómo contribuyen los elementos de diseño gráfico y UX del front end a los objetivos de la contribución intelectual? (Al considerar el diseño orientado al público, los revisores no deben asignar un peso indebido a la "facilidad de uso" o al "diseño brillante", sino más bien considerar si las características del proyecto se ajustan a la misión intelectual del proyecto y los recursos que el equipo del proyecto tenía a su disposición.)
+- ¿Cómo la arquitectura de fondo obstaculiza o avanza la contribución del proyecto y tal vez lo vincula con los proyectos de becas digitales existentes?
 
--   How do effort and resources used in the project match its import?
+### Preservación
 
--   How do the graphic and UX design elements of the front end
-    contribute to the goals of the intellectual contribution? (When
-    considering the public-facing design, reviewers should not place
-    undue weight on "ease of use" or "glossy design" but rather consider
-    whether the project’s features fit the intellectual mission of the
-    project and the resources the project’s team had available to them.)
+Al considerar el ciclo de vida de un proyecto de beca digital, los revisores no deben considerar la preservación en términos de períodos de tiempo indefinidos. Preferimos que los autores ser realistas sobre la tasa plausible de la decadencia de sus proyectos y tener planes en marcha para gestionar la obsolescencia de las tecnologías que utilizan. Damos la bienvenida a proyectos con un mínimo de dos años de soporte post-beta. Por lo tanto, alentamos a nuestros revisores a buscar signos de que el equipo del proyecto haya considerado el futuro del proyecto. Las posibles preguntas son:
 
--   How does the back-end architecture hinder or move forward the
-    contribution of the project and perhaps link it to existing digital
-    scholarship projects?
-
-### Preservation
-
-When considering the life cycle of a digital scholarship project,
-reviewers should not to consider preservation in terms of indefinite
-periods of time. We encourage authors to be realistic about the
-plausible rate of decay of their projects and to have plans in place to
-manage the obsolescence of the technologies they use. We welcome
-projects with a minimum of two years post-beta support. We encourage our
-reviewers, therefore, to look for signs that the project team has
-considered the project’s future. Possible questions are
-
--   What standards have been used and why?
-
--   How robust is the documentation on the project? Could the project be
-    decomposed and recomposed based on this documentation?
-
--   How is the project managing its rate of decay?
-
--   Is the level of complexity of the project appropriate for its
-    sociotechnical or institutional context?
-
--   How conscious is the project team regarding the life cycle of the
-    project?
+- ¿Qué estándares se han utilizado y por qué?
+- ¿Qué tan robusta es la documentación del proyecto? ¿Se podría descomponer y recomponer el proyecto en función de esta documentación?
+- ¿Cómo gestiona el proyecto su tasa de descomposición?
+- ¿El nivel de complejidad del proyecto es apropiado para su contexto sociotécnico o institucional?
+- ¿Cuán consciente es el equipo del proyecto con respecto al ciclo de vida del proyecto?
 
 ---
 
-## Review of Articles: A Brief Note
+## Revisión de artículos: una breve nota
 
-Our reviewers are expected to maintain the highest academic standards in
-the review of scholarly articles for publication in *archipelagos*.
-Since many of our articles are media-rich—linking prose arguments
-rhetorically to visuals—we ask our reviewers also to provide feedback on
-the figures, images, and interactives used in articles.
-
+Se espera que nuestros revisores mantengan los más altos estándares académicos en la revisión de artículos académicos para su publicación en *archipelagos*. Dado que muchos de nuestros artículos son ricos en medios (vinculando retóricamente los argumentos en prosa a las imágenes), les pedimos a nuestros revisores que también den su opinión sobre las figuras, imágenes e interactivos utilizados en los artículos.
 
