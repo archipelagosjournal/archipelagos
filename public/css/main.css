@@ -123,6 +123,11 @@ a:focus {
   text-decoration: underline;
 }
 
+span.running-title {
+  font-size: 1.2rem;
+  font-weight: 200;
+}
+
 a.header-title {
 
   font-weight: 300;
