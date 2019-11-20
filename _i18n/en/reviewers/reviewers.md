@@ -12,12 +12,12 @@ At *archipelagos* we are working to build a community of reviewers and contribut
 
 ## Review Guidelines for Digital Projects
 
-*sx archipelagos* accepts mid-stage digital scholarship projects beyond
+*archipelagos* accepts mid-stage digital scholarship projects beyond
 the article or monograph format for single-blind review. Our review
 process is crafted in accordance with the [DHCommons
 model](http://dhcommons.org/journal/submission-guidelines), with some
 additions and revisions. Once peer review is completed, projects are
-"launched" via a dedicated page on the *sx archipelagos* platform. This
+"launched" via a dedicated page on the *archipelagos* platform. This
 landing page features a brief description of and link to the project,
 along with excerpts of audio, visual, and other multimedia elements.
 This page also provides a link to (a curated version of) the dialogue
@@ -60,7 +60,7 @@ appropriate).
 
 We ask reviewers to be conscious of the labor that went into the making
 of a digital project. Digital projects generally depend on more
-distributed collaboration than monographs or articles. *sx archipelagos*
+distributed collaboration than monographs or articles. *archipelagos*
 encourages the crediting of work where credit is due and the
 acknowledgment of the scholarly and interpretative work involved in data
 curation, design, and the engineering of digital projects. Reviewers
@@ -124,7 +124,7 @@ considered the project’s future. Possible questions are
 ## Review of Articles: A Brief Note
 
 Our reviewers are expected to maintain the highest academic standards in
-the review of scholarly articles for publication in *sx archipelagos*.
+the review of scholarly articles for publication in *archipelagos*.
 Since many of our articles are media-rich—linking prose arguments
 rhetorically to visuals—we ask our reviewers also to provide feedback on
 the figures, images, and interactives used in articles.

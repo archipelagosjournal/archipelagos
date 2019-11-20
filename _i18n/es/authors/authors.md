@@ -97,7 +97,7 @@ Si cree que necesita una visualización aún más compleja, considere enviar una
 
 ## Pautas para proyectos digitales
 
-*sx archipelagos* acepta proyectos digitales en etapa de desarollo intermedia para una revisión anónima de una vía, luego de que nuestro equipo editorial haya tenido una primera ronda de aprobación. 
+*archipelagos* acepta proyectos digitales en etapa de desarollo intermedia para una revisión anónima de una vía, luego de que nuestro equipo editorial haya tenido una primera ronda de aprobación. 
 
 Se ofrecerá una versión pulida de los comentarios de los revisores al equipo del proyecto, o al director, como proveniente de *archipelagos* y escrita en el "nosotros" real. Esperamos que el equipo tome en serio las sugerencias de nuestros revisores y, que haga los cambios indicados al proyecto, siempre que estos sean factibles.
 
