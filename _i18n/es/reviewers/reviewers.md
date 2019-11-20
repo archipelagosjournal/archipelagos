@@ -2,7 +2,7 @@ En *archipelagos* estamos trabajando para construir una comunidad de revisores y
 
 ---
 
-## Table of Contents
+## Indice
 {:.no_toc}
 
 * ToC

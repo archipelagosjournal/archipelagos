@@ -13,8 +13,14 @@ global:
   past_issues: Numeros pasados
 
 titles:
-  about: "Acerca de"
+  about: "acerca de"
   authors: "para nuestros autores"
   credits: "créditos"
   reviewers: "para nuestros revisores"
   workflow: "flujo de trabajo"
+  home: "página inicial"
+
+components:
+  ccby:
+    Este trabajo está licenciado bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Los documentos de origen se pueden encontrar en nuestro 
+  repository: repositorio

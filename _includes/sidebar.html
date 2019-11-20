@@ -6,7 +6,7 @@
     <div class="sidebar" id="sidebar">
       <div class="sidebar-item">
         {% if page.layout != "article" %}
-        <p><em>archipelagos</em>—a journal of Caribbean digital praxis.</p>
+        <p><em>archipelagos</em>—{% t global.subtitle %}.</p>
         {% else %}
 
         <h1 class="article-title">{{page.title["long"]}}</h1>
@@ -16,16 +16,17 @@
         {% endif %}
       </div>
       <nav class="main-nav">
-      <a class="sidebar-nav-item" href="{{ site.baseurl }}/index.html">Home</a>  
+      <a class="sidebar-nav-item" href="{{ site.baseurl }}/index.html">{% t titles.home %}</a>  
       <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/about/">{% t titles.about %}</a>
       <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/credits/">{% t titles.credits %}</a>
       <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/authors/">{% t titles.authors %}</a>
       <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/reviewers/">{% t titles.reviewers %}</a>
+      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/workflow/">{% t titles.workflow %}</a>
     </nav>
 
 
       <div class="sidebar-footer">
-        <p>&copy; {{ site.time | date: '%Y' }}. Archipelagos. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Source documents can be found on our <a href="{{ site.githuburl }}">repository</a></p>
+        <p>&copy; {{ site.time | date: '%Y' }}. Archipelagos. {% t components.ccby %} <a href="{{ site.githuburl }}">{% t components.repository %}</a>.</p>
         <p>ISSN: {{ site.issn }}</p>
       </div>
     </div>

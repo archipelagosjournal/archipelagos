@@ -17,3 +17,10 @@ titles:
   authors: "for authors"
   credits: "credits"
   reviewers: "for reviewers"
+  home: "home"
+  workflow: "our workflow"
+
+components:
+  ccby:
+    This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Source documents can be found on our   
+  repository: repository

@@ -1,6 +1,6 @@
 ---
-layout: page
-title: our work-flow
+layout: info
+title: titles.workflow
 author: Kaiama L. Glover & Alex Gil
 ---
 

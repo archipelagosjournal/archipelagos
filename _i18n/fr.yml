@@ -17,3 +17,10 @@ titles:
   authors: "pour nos auteurs"
   credits: "crédits"
   reviewers: "pour les relecteurs"
+  home: "page d'accueil"
+  workflow: "flu de travail"
+
+components:
+  ccby:
+    Ce travail est disponible sous une licence <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> Licence internationale Creative Commons Attribution 4.0 </a>. Les documents source sont disponibles sur notre 
+  repository: référentiel
