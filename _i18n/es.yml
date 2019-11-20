@@ -1,5 +1,5 @@
 global:
-  english: "in English"
+  english: "in english"
   spanish: "en español"
   french: "en français"
   subtitle: "revista de praxis digital en estudios caribeños"
@@ -11,6 +11,8 @@ global:
   projects: Proyectos digitales
   reviews: Reseñas
   past_issues: Numeros pasados
+  editorial: Política editorial
+  issue: Numero
 
 titles:
   about: "acerca de"

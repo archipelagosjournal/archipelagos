@@ -1,8 +1,8 @@
 global:
-  english: "in English"
+  english: "in english"
   spanish: "en español"
   french: "en français"
-  subtitle: "un journal de la praxis numérique caribéenne"
+  subtitle: "un journal de praxis numérique caribéenne"
   blurb:
     "<em>archipelagos</em> est un journal d’origine numérique, évalué par des pairs, dévoué à l’exploration créatrice, au débat et à la pensée critique autour et à travers des pratiques numériques dans la production de chercheurs et d’artistes contemporains qui travaillent dans et sur la Caraïbe. Étant donné les implications significatives du virage au digital pour nos conceptions-mêmes du savoir, notre mission est de déterminer la façon dont le numérique peut améliorer et transformer notre compréhension de la Caraïbe régionale et diasporique. *archipelagos* répond à ce défi par trois dimensions de production critique distinctes: essais scientifiques; projets numériques; et revues de projets numériques."
   read_more: "Lisez la suite…"
@@ -11,6 +11,8 @@ global:
   projects: Projets numériques
   reviews: Revues de projets numériques
   past_issues: Numéros passés
+  editorial: Politique editoriale
+  issue: Número
 
 titles:
   about: "à propos de nous"

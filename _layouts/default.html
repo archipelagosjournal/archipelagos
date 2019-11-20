@@ -11,23 +11,10 @@
          content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
       <div class="masthead">
-        <a id="logo" href="http://archipelagosjournal.org"><img src="{{ site.baseurl }}/public/logo.png" height="64px" width="72px" alt="archipelagos logo"/></a>
-
-        <!-- LANGUAGE SWITCH -->
-        {% if site.lang == "es" %}
-            {% capture link1 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}
-            <a href="{{ link1 }}" >en</a> | 
-            {% capture link3 %}{{ site.baseurl_root }}/fr{{ page.url  }}{% endcapture %}<a href="{{ link3 }}">fr</a>
-        {% elsif site.lang == "en" %}
-            {% capture link2 %}{{ site.baseurl_root }}/es{{ page.url  }}{% endcapture %}    <a href="{{ link2 }}">es</a> | 
-            {% capture link3 %}{{ site.baseurl_root }}/fr{{ page.url  }}{% endcapture %}<a href="{{ link3 }}">fr</a>
-
-        {% elsif site.lang == "fr" %}
-            {% capture link1 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}
-            <a href="{{ link1 }}" >en</a> | 
-            {% capture link2 %}{{ site.baseurl_root }}/es{{ page.url  }}{% endcapture %}    <a href="{{ link2 }}">es</a>
-
-        {% endif %}
+        <a id="logo" href="{{site.baseurl}}"><img src="{{ site.baseurl }}/public/logo.png" height="64px" width="72px" alt="archipelagos logo"/></a>
+        {% unless page.title == "home" %}
+        <span><a href="{{site.baseurl}}">archipelagos</a></span>
+        {% endunless %}
 
 <!--         <a class="header-title" href="{{ site.baseurl }}/index.html">archipelagos</a> -->
 

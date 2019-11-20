@@ -1,0 +1,16 @@
+        <!-- LANGUAGE SWITCH -->
+        <div class="language">
+        {% if site.lang == "es" %}
+            {% capture link1 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}    <a href="{{ link1 }}">en</a> | 
+            {% capture link2 %}{{ site.baseurl_root }}/es{{ page.url  }}{% endcapture %}    <a href="{{ link2 }}" class="active">es</a> | 
+            {% capture link3 %}{{ site.baseurl_root }}/fr{{ page.url  }}{% endcapture %}    <a href="{{ link3 }}">fr</a>
+        {% elsif site.lang == "en" %}
+            {% capture link1 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}    <a href="{{ link1 }}" class="active">en</a> | 
+            {% capture link2 %}{{ site.baseurl_root }}/es{{ page.url  }}{% endcapture %}    <a href="{{ link2 }}">es</a> | 
+            {% capture link3 %}{{ site.baseurl_root }}/fr{{ page.url  }}{% endcapture %}    <a href="{{ link3 }}">fr</a>
+        {% elsif site.lang == "fr" %}
+            {% capture link1 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}    <a href="{{ link1 }}" >en</a> | 
+            {% capture link2 %}{{ site.baseurl_root }}/es{{ page.url  }}{% endcapture %}    <a href="{{ link2 }}">es</a> | 
+            {% capture link3 %}{{ site.baseurl_root }}/fr{{ page.url  }}{% endcapture %}    <a href="{{ link3 }}" class="active">fr</a>
+        {% endif %}
+        </div>

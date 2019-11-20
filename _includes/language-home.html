@@ -1,0 +1,16 @@
+        <!-- LANGUAGE SWITCH LONG -->
+        <p>
+        {% if site.lang == "es" %}
+            {% capture link1 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}    <a href="{{ link1 }}">{% t global.english %}</a> | 
+            {% capture link2 %}{{ site.baseurl_root }}/es{{ page.url  }}{% endcapture %}    <a href="{{ link2 }}" class="active">{% t global.spanish %}</a> | 
+            {% capture link3 %}{{ site.baseurl_root }}/fr{{ page.url  }}{% endcapture %}    <a href="{{ link3 }}">{% t global.french %}</a>
+        {% elsif site.lang == "en" %}
+            {% capture link1 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}    <a href="{{ link1 }}" class="active">{% t global.english %}</a> | 
+            {% capture link2 %}{{ site.baseurl_root }}/es{{ page.url  }}{% endcapture %}    <a href="{{ link2 }}">{% t global.spanish %}</a> | 
+            {% capture link3 %}{{ site.baseurl_root }}/fr{{ page.url  }}{% endcapture %}    <a href="{{ link3 }}">{% t global.french %}</a>
+        {% elsif site.lang == "fr" %}
+            {% capture link1 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}    <a href="{{ link1 }}" >{% t global.english %}</a> | 
+            {% capture link2 %}{{ site.baseurl_root }}/es{{ page.url  }}{% endcapture %}    <a href="{{ link2 }}">{% t global.spanish %}</a> | 
+            {% capture link3 %}{{ site.baseurl_root }}/fr{{ page.url  }}{% endcapture %}    <a href="{{ link3 }}" class="active">{% t global.french %}</a>
+        {% endif %}
+        </p>
