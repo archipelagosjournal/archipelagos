@@ -1,4 +1,4 @@
-Chez *archipelagos*, nous travaillons à l’édification d’une communauté de critiques et de contributeurs afin de soutenir et d’enrichir notre savoir collectif caribéen. Si vous souhaitez rejoindre notre équipe de relecteurs – pour nous aider à évaluer des articles et des projets numériques – veuillez nous contacter à archipelagosjournal@gmail.com.
+At *archipelagos* we are working to build a community of reviewers and contributors so to sustain and enrich our collective Caribbeanist scholarship. If you would like to join our team of reviewers—to help us review articles and digital projects—please contact us at archipelagosjournal@gmail.com.
 
 ---
 
@@ -10,54 +10,123 @@ Chez *archipelagos*, nous travaillons à l’édification d’une communauté de
 
 ---
 
-## Directives de révision pour les projets numériques
+## Review Guidelines for Digital Projects
 
-*archipelagos* accepte les projets de recherche numériques à mi-étape au-delà du format d'article ou de monographie pour une évaluation en simple-insu. Notre processus de révision est conçu conformément au modèle [DHCommons](http://dhcommons.org/journal/submission-guidelines), avec quelques ajouts et révisions. Une fois l'évaluation par les pairs terminée, les projets sont « lancés » via une page dédiée sur la plateforme *archipelagos*. Cette page d'accueil contient une brève description du projet et un lien vers celui-ci, ainsi que des extraits d'éléments audiovisuel et multimédia. Cette page fournit également un lien vers des extraits du dialogue entre les auteurs du site et les relecteurs. Cliquez ici pour un exemple.
+*sx archipelagos* accepts mid-stage digital scholarship projects beyond
+the article or monograph format for single-blind review. Our review
+process is crafted in accordance with the [DHCommons
+model](http://dhcommons.org/journal/submission-guidelines), with some
+additions and revisions. Once peer review is completed, projects are
+"launched" via a dedicated page on the *sx archipelagos* platform. This
+landing page features a brief description of and link to the project,
+along with excerpts of audio, visual, and other multimedia elements.
+This page also provides a link to (a curated version of) the dialogue
+between site authors and peer reviewers. Click for an example.
 
-L'examen du projet se déroule en deux phases:
+Project review occurs in two phases:
 
-1. Les auteurs soumettent un énoncé de projet comprenant un résumé de 350 à 500 mots. Les évaluateurs offriront leurs premiers commentaires dans un délai de quatre à six semaines.
+1.  Authors submit a Project Statement consisting of a 350-to-500-word
+    abstract and a 5000-to-7000-word description. Reviewers will offer
+    initial feedback within four to six weeks.
 
-2. Les auteurs répondent aux commentaires des relecteurs dans un texte de 1 000 à 1 200 mots et fournissent un lien vers un site bêta navigable pour une révision finale.
+2.  Authors respond to reviewer feedback in a 1000-to-1200-word
+    narrative and provide a link to a navigable beta site for
+    final review.
 
-Les Rédacteurs synthétisent les commentaires des relecteurs et la réponse de l'auteur pour publication finale sur une page de projet dédiée.
+The Editors synthesize reviewer comments and the response from the
+author for final publication on a dedicated project page.
 
-Nos directives d’examen sont divisées en quatre catégories: contribution, crédit, conception et préservation.
+Our review guidelines are separated into four categories: Contribution,
+Credit, Design, and Preservation.
 
 ### Contribution
 
-Nous demandons aux relecteurs de bien peser la contribution intellectuelle de fait ou éventuelle du projet. Les examinateurs devraient examiner la nature de cette contribution en fonction de l’état d’avancement actuel du projet et des premiers signes de connaissances issues du processus de la construction du site; la relation du projet avec la littérature / les projets existants; et/ou les premières conversations dans la littérature sur le projet (le cas échéant).
+We ask reviewers to carefully weigh the de facto or possible
+intellectual contribution of the project. Reviewers should consider the
+nature of that contribution appropriate to the current stage of the
+project’s development and consider early signs of process-derived
+knowledge; the project’s relationship to existing literature/projects;
+and/or early conversations in the literature about the project (where
+appropriate).
 
-- Le projet définira-t-il de nouvelles conversations dans les domaines pertinents?
-- Les méthodes utilisées dans le projet sont-elles adaptées aux questions de recherche qu’il pose?
-- Les méthodes du projet contribuent-elles à l’érudition numérique en général, et si oui, comment?
+- Will the project frame new conversations in the relevant subject
+  area?
+- Are the methods used in the project appropriate to the research
+  questions it poses?
+- Do the project’s methods contribute to digital scholarship in
+  general, and if so, how?
 
-### Crédit
+### Credit
 
-Nous demandons aux relecteurs d’être conscients du travail nécessaire à la réalisation d’un projet numérique. Les projets numériques reposent généralement sur une collaboration plus distribuée que les monographies ou les articles. *archipelagos* encourage la comptabilisation des travaux lorsque la créance est due et la reconnaissance du travail scientifique et interprétatif impliqué dans la conservation, la conception et la conception de données numériques. Les examinateurs doivent poser les questions suivantes sur un projet:
+We ask reviewers to be conscious of the labor that went into the making
+of a digital project. Digital projects generally depend on more
+distributed collaboration than monographs or articles. *sx archipelagos*
+encourages the crediting of work where credit is due and the
+acknowledgment of the scholarly and interpretative work involved in data
+curation, design, and the engineering of digital projects. Reviewers
+should ask the following questions of a project:
 
-- Le projet crédite-t-il ses contributeurs ouvertement et équitablement?
-- Les conditions de travail dans lesquelles le projet a été réalisé sont-elles mises en évidence?
-- Le travail cite-t-il ses précédents (projets numériques) et sources de données de manière appropriée?
+- Does the project credit its contributors openly and fairly?
+- Are the labor conditions under which the project was produced made
+  evident?
+- Does the work cite its (digital scholarship) precedents and data
+  sources appropriately?
 
-### Conception
+### Design
 
-Bien que le design constitue une catégorie distincte de évaluation, nous demandons aux évaluateurs de comprendre le design en termes de relation entre celui-ci et la prétendue contribution intellectuelle d'un projet donné. Pour*archipelagos*, la conception inclut l'architecture dorsale, le flux de travail et la conception d'interface frontale. Nous demandons aux examinateurs de prendre en compte la structure temporelle et technique globale d'un projet et son lien avec les objectifs du projet. Un critique peut poser des questions comme
+Although design constitutes a separate category of review, we ask
+reviewers to understand design in terms of its relationship to the
+purported intellectual contribution of a given project. For *sx
+archipelagos*, design includes back-end architecture, workflow, and
+front-end interface design. We ask reviewers to consider the overall
+temporal and technical structure of a project and how this structure
+relates to the goals of the project. A reviewer may ask questions like
 
-- Comment les efforts et les ressources utilisés dans le projet correspondent-ils à l'importation?
-- Comment les éléments graphiques et de conception UX du front-end contribuent-ils aux objectifs de la contribution intellectuelle? (Lors de l'examen de la conception destinée au public, les examinateurs ne doivent pas accorder trop d'importance à la « facilité d'utilisation » ou au « design brillant », mais plutôt à la question de savoir si les caractéristiques du projet correspondent à la mission intellectuelle du projet et aux ressources dont l'équipe du projet disposait.)
-- Comment l'architecture d'arrière-plan entrave-t-elle ou fait-elle progresser la contribution du projet et peut-être la relie-t-elle aux projets de recherche numériques existants?
+-   How do effort and resources used in the project match its import?
 
-### Préservation
+-   How do the graphic and UX design elements of the front end
+    contribute to the goals of the intellectual contribution? (When
+    considering the public-facing design, reviewers should not place
+    undue weight on "ease of use" or "glossy design" but rather consider
+    whether the project’s features fit the intellectual mission of the
+    project and the resources the project’s team had available to them.)
 
-Lorsqu'ils envisagent le cycle de vie d'un projet de recherche numérique, les examinateurs ne doivent pas envisager la préservation en termes de durée indéterminée. Nous encourageons les auteurs à faire preuve de réalisme quant au taux de décroissance plausible de leurs projets et à mettre en place des plans pour gérer l'obsolescence des technologies qu'ils utilisent. Nous accueillons les projets avec un support minimum de deux ans après la version bêta. Nous encourageons donc nos examinateurs à rechercher des signes indiquant que l’équipe de projet a envisagé l’avenir du projet. Les questions possibles sont:
+-   How does the back-end architecture hinder or move forward the
+    contribution of the project and perhaps link it to existing digital
+    scholarship projects?
 
-- Quelles normes ont été utilisées et pourquoi?
-- Quelle est la robustesse de la documentation sur le projet? Le projet pourrait-il être - décomposé et recomposé sur la base de cette documentation?
-- Comment le projet gère-t-il son taux de dégradation?
-- Le niveau de complexité du projet est-il adapté à son contexte sociotechnique ou institutionnel?
-- Dans quelle mesure l'équipe de projet est-elle consciente du cycle de vie du projet?
+### Preservation
 
-## Examen des articles: une note brève
+When considering the life cycle of a digital scholarship project,
+reviewers should not to consider preservation in terms of indefinite
+periods of time. We encourage authors to be realistic about the
+plausible rate of decay of their projects and to have plans in place to
+manage the obsolescence of the technologies they use. We welcome
+projects with a minimum of two years post-beta support. We encourage our
+reviewers, therefore, to look for signs that the project team has
+considered the project’s future. Possible questions are
 
-Nos relecteurs sont censés respecter les normes académiques les plus élevées dans la révision des articles de recherche destinés à être publiés dans *archipelagos*. Étant donné que beaucoup de nos articles sont riches en médias---reliant les arguments de prose de manière rhétorique à des éléments visuels---nous demandons à nos relecteurs de faire également des commentaires sur les chiffres, les images et les interactifs utilisés dans les articles.
+-   What standards have been used and why?
+
+-   How robust is the documentation on the project? Could the project be
+    decomposed and recomposed based on this documentation?
+
+-   How is the project managing its rate of decay?
+
+-   Is the level of complexity of the project appropriate for its
+    sociotechnical or institutional context?
+
+-   How conscious is the project team regarding the life cycle of the
+    project?
+
+---
+
+## Review of Articles: A Brief Note
+
+Our reviewers are expected to maintain the highest academic standards in
+the review of scholarly articles for publication in *sx archipelagos*.
+Since many of our articles are media-rich—linking prose arguments
+rhetorically to visuals—we ask our reviewers also to provide feedback on
+the figures, images, and interactives used in articles.
+
+
