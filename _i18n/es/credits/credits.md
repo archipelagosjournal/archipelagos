@@ -3,6 +3,10 @@
 [Kaiama L. Glover](#kaiama-l-glover--editor)\\
 [Alex Gil](#alex-gil--editor)
 
+### Editora gerente
+
+Soraya Limare
+
 ### Producción | Diseño
 [Juliet Ali](#juliet-ali--designer)\\
 [Brian Ballsun-Stanton](#brian-ballsun-stanton--production-editor)\\
@@ -46,7 +50,7 @@ Barnard Committee on Online and On-Campus Learning
 
 
 ### Alex Gil | editor
-[Alex Gil](http://www.elotroalex.com) is Digital Scholarship Librarian at Columbia University Libraries. He is the founder of the [Butler Studio](https://studio.cul.columbia.edu/) at Columbia University, a library innovation space focused on digital scholarship and pedagogy; faculty moderator of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/), a vibrant trans-disciplinary research cluster focused on experimental humanities; and former founder and chair of [Global Outlook::Digital Humanities](http://www.globaloutlookdh.org/), an interest group connecting scholars around the world. Current projects include [Ed](http://elotroalex.github.io/ed/), a digital platform for minimal editions of literary texts; *[Torn Apart/Separados](http://xpmethod.plaintext.in/torn-apart/volume/1/)*, a rapidly deployed study of ICE's infrastructure in the United States; and, [In The Same Boats](http://sameboats.org/), a visualization of trans-Atlantic intersections of black intellectuals in the 20th century.
+[Alex Gil](http://www.elotroalex.com) is Digital Scholarship Librarian at Columbia University Libraries. He is the founder of the [Butler Studio](https://studio.cul.columbia.edu/) at Columbia University, a library innovation space focused on digital scholarship and pedagogy; faculty moderator of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/), a vibrant trans-disciplinary research cluster focused on experimental humanities; and former founder and chair of [Global Outlook::Digital Humanities](http://www.globaloutlookdh.org/), an interest group connecting scholars around the world. Current projects include [Ed](http://elotroalex.github.io/ed/), a digital platform for minimal editions of literary texts; *[Torn Apart/Separados](http://xpmethod.plaintext.in/torn-apart/volume/1/)*, a rapidly deployed study of ICE's infrastructure in the United States; and, [In the Same Boats: Toward an Afro-Atlantic Intellectual Cartography](http://sameboats.org/), a visualization of trans-Atlantic intersections of black intellectuals in the 20th century.
 
 ---
 
@@ -74,7 +78,7 @@ Vincent Brown, Charles Warren Professor of History and Professor of African and 
 
 ### Elizabeth Maddock Dillon | consejo editorial
 
-Elizabeth Maddock Dillon is Professor and Chair of the Department of English and Co-director of the NULab for Texts, Maps, and Networks at Northeastern University. She is the author of _New World Drama: The Performative Commons in the Atlantic World, 1649-1849_ (Duke University Press, 2014) which won the Barnard Hewitt Award for Outstanding Research in Theatre History from the American Society for Theatre Research and _The Gender of Freedom: Fictions of Liberalism and the Literary Public Sphere_ (Stanford University Press, 2004), which won the Heyman Prize for Outstanding Publication in the Humanities at Yale University. She is co-editor with Michael Drexler of "The Haitian Revolution and the Early U.S.: Histories, Geographies, Textualities," which is forthcoming from the University of Pennsylvania Press. Dillon is the co-director of the Futures of American Studies Institute at Dartmouth College and the former the chair of the American Literature Section of the Modern Language Association. She currently serves on the editorial boards of _Signs_ and the _Women Writers Project_ and has served on the editorial boards of _Early American Literature_ and _American Literature_ and the advisory board of _PMLA_. She is the founder of the award-winning crowd-sourced digital archive [Our Marathon: The Boston Bombing Digital Archive](https://web.northeastern.edu/nulab/our-marathon/), and the co-founder and co-director of the [Early Caribbean Digital Archive](http://ecda.northeastern.edu).
+Elizabeth Maddock Dillon is Professor and Chair of the Department of English and Co-director of the NULab for Texts, Maps, and Networks at Northeastern University. She is the author of _New World Drama: The Performative Commons in the Atlantic World, 1649-1849_ (Duke University Press, 2014) which won the Barnard Hewitt Award for Outstanding Research in Theatre History from the American Society for Theatre Research and _The Gender of Freedom: Fictions of Liberalism and the Literary Public Sphere_ (Stanford University Press, 2004), which won the Heyman Prize for Outstanding Publication in the Humanities at Yale University. She is co-editor with Michael Drexler of *The Haitian Revolution and the Early U.S.: Histories, Geographies, Textualities*, which is forthcoming from the University of Pennsylvania Press. Dillon is the co-director of the Futures of American Studies Institute at Dartmouth College and the former the chair of the American Literature Section of the Modern Language Association. She currently serves on the editorial boards of _Signs_ and the _Women Writers Project_ and has served on the editorial boards of _Early American Literature_ and _American Literature_ and the advisory board of _PMLA_. She is the founder of the award-winning crowd-sourced digital archive [Our Marathon: The Boston Bombing Digital Archive](https://web.northeastern.edu/nulab/our-marathon/), and the co-founder and co-director of the [Early Caribbean Digital Archive](http://ecda.northeastern.edu).
 
 ### Laurent Dubois | consejo editorial
 
@@ -90,7 +94,7 @@ Jessica Marie Johnson is Assistant Professor of History at Michigan State Univer
 
 ### Kelly Baker Josephs | consejo editorial
 
-Kelly Baker Josephs is Associate Professor of English at York College, CUNY. She is the author of *Disturbers of the Peace: Representations of Insanity in Anglophone Caribbean Literature* (2013), editor of sx salon: a small axe literary platform, and manager of The Caribbean Commons website. Her current project, "Caribbean Articulations: Storytelling in a Digital Age," explores the intersections between new technologies and Caribbean cultural production.
+Kelly Baker Josephs is Professor of English at York College, CUNY. She is the author of *Disturbers of the Peace: Representations of Insanity in Anglophone Caribbean Literature* (2013), editor of sx salon: a small axe literary platform, and manager of The Caribbean Commons website. Her current project, *Caribbean Articulations: Storytelling in a Digital Age*, explores the intersections between new technologies and Caribbean cultural production.
 
 ### Frances Negrón-Muntaner | consejo editorial
 
