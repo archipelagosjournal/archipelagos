@@ -33,7 +33,7 @@ Columbia University Libraries
 
 ### Special Acknowledgment
 
-*archipelagos* is grateful for the support we received from the National Endowment for the Humanities. Through its Digital Start-Up Grant program, the NEH provided much-needed resources for the multiple valences of experimentation and innovation undergirding this platform.
+*archipelagos* is grateful for the support we received from the National Endowment for the Humanities. Through its Digital Start-Up Grant program, the NEH provided much-needed resources for the multiple valences of experimentation and innovation undergirding this platform. We are also particularly grateful to the Small Axe Project. This journal is a direct expression of the generous and visionary support of SXP founder and Editor-in-Chief David Scott, who initially carved out this space for the Caribbean Digital and entrusted archipelagos with its stewardship.
 
 ### Sponsors
 NEH Office of Digital Humanities\\
