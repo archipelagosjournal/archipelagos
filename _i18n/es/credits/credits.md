@@ -5,7 +5,7 @@
 
 ### Editora gerente
 
-Soraya Limare
+[Soraya Limare](#soraya-limare--managing-editor)
 
 ### Producción | Diseño
 [Juliet Ali](#juliet-ali--designer)\\
