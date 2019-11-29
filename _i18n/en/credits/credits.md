@@ -33,7 +33,7 @@ Columbia University Libraries
 
 ### Special Acknowledgment
 
-*archipelagos* is particularly grateful for the support we received from the National Endowment for the Humanities. Through its Digital Start-Up Grant program, the NEH provided much-needed resources for the multiple valences of experimentation and innovation undergirding this platform.
+*archipelagos* is grateful for the support we received from the National Endowment for the Humanities. Through its Digital Start-Up Grant program, the NEH provided much-needed resources for the multiple valences of experimentation and innovation undergirding this platform.
 
 ### Sponsors
 NEH Office of Digital Humanities\\
