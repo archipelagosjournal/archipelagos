@@ -1,14 +1,14 @@
 ### Editors
 
-[Kaiama L. Glover](#kaiama-l-glover--editor)\\
+[Kaiama L. Glover](#kaiama-l-glover--editor)  
 [Alex Gil](#alex-gil--editor)
 
 ### Managing Editor
-Soraya Limare
+[Soraya Limare](#soraya-limare)
 
 ### Production | Design
-[Juliet Ali](#juliet-ali--designer)\\
-[Brian Ballsun-Stanton](#brian-ballsun-stanton--production-editor)\\
+[Juliet Ali](#juliet-ali--designer)  
+[Brian Ballsun-Stanton](#brian-ballsun-stanton--production-editor)  
 [Dennis Tenen](#dennis-tenen--project-architect)
 
 ### Editorial Board
