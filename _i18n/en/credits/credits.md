@@ -4,7 +4,7 @@
 [Alex Gil](#alex-gil--editor)
 
 ### Managing Editor
-[Soraya Limare](#soraya-limare)
+[Soraya Limare](#soraya-limare--managing-editor)
 
 ### Production | Design
 [Juliet Ali](#juliet-ali--designer)  
