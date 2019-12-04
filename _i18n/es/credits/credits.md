@@ -11,7 +11,7 @@
 [Juliet Ali](#juliet-ali--designer)\\
 [Brian Ballsun-Stanton](#brian-ballsun-stanton--production-editor)\\
 [Dennis Tenen](#dennis-tenen--project-architect)\\
-Soraya Limare
+
 
 ### Consejo editorial
 [Yarimar Bonilla](#yarimar-bonilla--editorial-board)  
