@@ -13,6 +13,7 @@ global:
   past_issues: Numéros passés
   editorial: Politique editoriale
   issue: Número
+  march: mars
 
 titles:
   about: "à propos de nous"

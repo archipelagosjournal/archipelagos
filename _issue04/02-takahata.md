@@ -12,7 +12,7 @@ author:
   shortname: Takahata
   bio: >
     Kimberly Takahata is a PhD candidate at Columbia University in the Department of English and Comparative Literature, where she specializes in early American literature. She is a team member of *Digital Grainger*.
-date: May 2016
+date: February 2020
 issue: 4
 order: 2
 abstract: >
