@@ -162,26 +162,26 @@ not originally designed. This tension is visible throughout the poem,
 such as in a moment when he describes an aspect of sugar harvesting as
 comparable to the shearing of sheep:
 
-> SOME bending, of their sapless burden ease
-> The yellow jointed canes, (whose height exceeds
-> A mounted trooper, and whose clammy round
-> Measures two inches full;) and near the root
-> Lop the stem off, which quivers in their hand
-> With fond impatience…
-> …What of the Cane
-> Remains, and much the largest part remains,
-> Cut into junks a yard in length, and tied
-> In small light bundles; load the broad-wheel'd wane,
-> The mules crook-harnest, and the sturdier crew,
-> With sweet abundance. As on Lincoln-plains,
-> (Ye plains of Lincoln sound your Dyer's praise!)
-> When the lav'd snow-white flocks are numerous penn'd;
-> The senior swains, with sharpen'd shears, cut off
-> The fleecy vestment; others stir the tar;
-> And some impress, upon their captives sides,
-> Their master's cypher; while the infant throng
-> Strive by the horns to hold the struggling ram,
-> Proud of their prowess. (3.93--94.111--16, 125--38)
+> SOME bending, of their sapless burden ease  
+> The yellow jointed canes, (whose height exceeds  
+> A mounted trooper, and whose clammy round  
+> Measures two inches full;) and near the root  
+> Lop the stem off, which quivers in their hand  
+> With fond impatience…  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;…What of the Cane  
+> Remains, and much the largest part remains,  
+> Cut into junks a yard in length, and tied  
+> In small light bundles; load the broad-wheel'd wane,  
+> The mules crook-harnest, and the sturdier crew,  
+> With sweet abundance. As on Lincoln-plains,  
+> (Ye plains of Lincoln sound your Dyer's praise!)  
+> When the lav'd snow-white flocks are numerous penn'd;  
+> The senior swains, with sharpen'd shears, cut off  
+> The fleecy vestment; others stir the tar;  
+> And some impress, upon their captives sides,  
+> Their master's cypher; while the infant throng  
+> Strive by the horns to hold the struggling ram,  
+> Proud of their prowess. (3.93--94.111--16, 125--38)  
 
 Here, Grainger presents the cane as practically harvesting itself,
 omitting the subject of the verbs "ease" and "lops." Sugarcane "quivers
@@ -208,11 +208,11 @@ brutal realities of living and working on a sugar plantation. For
 example, as Grainger narrates the process of feeding cane stalks into
 the mill to extract their sugary syrup,
 
-> AND now thy mills dance eager in the gale;
-> Feed well their eagerness: but O beware;
-> Nor trust, between the steel-cas'd cylinders,
-> The hand incautious: off the member snapt
-> Thou'lt ever rue; sad spectacle of woe! (3.95.165--69)
+> AND now thy mills dance eager in the gale;  
+> Feed well their eagerness: but O beware;  
+> Nor trust, between the steel-cas'd cylinders,  
+> The hand incautious: off the member snapt  
+> Thou'lt ever rue; sad spectacle of woe! (3.95.165--69).  
 
 The footnote that follows reads, "This accident will sometimes happen,
 especially in the night: and the unfortunate wretch must fall a victim
@@ -524,12 +524,12 @@ not approve of such movement because it occurred beyond their reach and
 control. As Grainger warns his readers, whom he imagines in this moment
 to be planters,
 
-> COMPEL by threats, or win by soothing arts,
-> Thy slaves to wed their fellow slaves at home;
-> So shall they not their vigorous prime destroy,
-> By distant journeys, at untimely hours,
-> When muffled midnight decks her raven-hair
-> With the white plumage of the prickly vine. (4.158.606--11)
+> COMPEL by threats, or win by soothing arts,  
+> Thy slaves to wed their fellow slaves at home;  
+> So shall they not their vigorous prime destroy,  
+> By distant journeys, at untimely hours,  
+> When muffled midnight decks her raven-hair  
+> With the white plumage of the prickly vine. (4.158.606--11)  
 
 That Grainger would disapprove of such traveling is not surprising, of
 course, given the overall investment of his poem in support of the
@@ -752,4 +752,4 @@ Ami Yoon, Steve Fragano, Lina Jiang, and Elizabeth Cornell.
 
 [^f34]: Leah Rosenberg, "Refashioning Caribbean Literary Pedagogy in the Digital Age," *Caribbean Quarterly* 62, nos. 3--4 (2016): 423. 
 
-[^f35]: For an example of a printed analysis of a focused analysis of a specific plant, see J. S. Handler, "The History of Arrowroot and the Origin of Peasantries in the British West Indies," *Journal of Caribbean History*, no. 2 (May 1971): 46--93. As Marlene L. Daut argues, decolonial forms of digital archiving can also examine its means of production, either presenting work "in medias res" or through collaboration. See Daut, "Haiti @ the Digital Crossroads: Archiving Black Sovereignty," *sx archipelagos* 3 (July 2019), [http://smallaxe.net/sxarchipelagos/issue03/daut.html](http://smallaxe.net/sxarchipelagos/issue03/daut.html). Abstract ----- An approximately twenty-five-hundred-line poem, James Grainger's *The Sugar-Cane* (1764) details the process of sugar production on eighteenth-century Caribbean plantations and celebrates the commercial might of the British Empire. This article discusses *Digital Grainger: An Online Edition of "The Sugar-Cane" (1764)* and how it challenges Grainger's poetic imperialism by presenting readers with a counter-edition, versus an edition, of Grainger's poem. Furthermore, it examines the central connection between the digital nature of the counter-edition and its ability to reflect editing practices inspired by Caribbean traditions of postcolonial scholarship. In particular, the *Digital Grainger* team built an openly accessible edition of the poem that can be loaded on lower internet capacities and a variety of devices, attending to the embodied and material conditions of the digital archive. The site provides more than seven hundred footnotes to contextualize and challenge Grainger's authority and proslavery argument, building networks around the text to offer readers alternative understandings of the poem. The primary intervention, however, is "The Counter-Plantation," comprised of excerpts that collect and highlight themes of Afro-Caribbean and indigenous expertise, survival, and resistance. As such, *Digital Grainger* stages this intervention by "breaking apart" the poetic lines and footnotes of *The Sugar-Cane* to highlight how possibilities for life were structural elements of settler colonialism and plantation slavery. These methods emphasize long histories of Caribbean exchange and encounter, ultimately working to read a colonial text in a manner that does not replicate its mission and violence. At the same time, *Digital Grainger* reveals that further work must be done to truly decolonize Caribbean digital archives, confronting the legacy of colonial silencing.
+[^f35]: For an example of a printed analysis of a focused analysis of a specific plant, see J. S. Handler, "The History of Arrowroot and the Origin of Peasantries in the British West Indies," *Journal of Caribbean History*, no. 2 (May 1971): 46--93. As Marlene L. Daut argues, decolonial forms of digital archiving can also examine its means of production, either presenting work "in medias res" or through collaboration. See Daut, "Haiti @ the Digital Crossroads: Archiving Black Sovereignty," *sx archipelagos* 3 (July 2019), [http://smallaxe.net/sxarchipelagos/issue03/daut.html](http://smallaxe.net/sxarchipelagos/issue03/daut.html). 
