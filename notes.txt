@@ -1,0 +1,17 @@
+notes.txt
+
+****************
+* USING QUOTES *
+****************
+
+- To use quotes in the YAML, use the > symbol after the colon, and start the line/paragraph on the next line.
+
+
+
+**************
+* USING HTML *
+**************
+
+
+
+
