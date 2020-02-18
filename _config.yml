@@ -24,7 +24,8 @@ baseurl:             ''
 githuburl:           'https://github.com/archipelagosjournal/archipelagos'
 
 # Colophon
-issn: 2473-2206
+old_issn: 2473-2206
+issn: 2689-842X
 
 
 # Collections
@@ -68,12 +69,24 @@ collections:
     - Alex Gil
     - Brian Ballsun-Stanton
     - Kelly S. Martin
+  issue04:
+    output: true
+    number: 4
+    date: "March 2020"
+    title: "Issue (4)"
+    editors:
+    - Kaiama Glover
+    - Alex Gil
+    production:
+    - Alex Gil
+    - Brian Ballsun-Stanton
+    - Kelly S. Martin
   archives:
     output: true
 
 # Current issue
-current: issue03
-current-number: 3
+current: issue04
+current-number: 4
 
 # Jekyll-Kramdown
 markdown: kramdown

@@ -10,7 +10,7 @@
         <p><em>archipelagos</em>—{% t global.subtitle %}.</p>
         {% else %}
 
-        <h1 class="article-title">{{page.title["long"]}}</h1>
+        <h1 class="article-title">{{page.title["long"] | markdownify}}</h1>
         <p>{% include author-loop.html %}</p>
         <p>Issue ({{page.issue}}) | {{ page.date | date: '%B %Y'}} <br>DOI: {{ page.doi }}</p>
 

@@ -11,7 +11,7 @@ root=$(git rev-parse --show-toplevel)
 # assets/issue01/ is the PDF's
 # images/issue01/ is the images
 if [ -z "$1" ]; then
-	echo "utility/ConTeXt/makeSingleIssue.sh _issue03"
+	echo "utility/ConTeXt/makeSingleIssue.sh $1"
 	exit 1;
 fi
 

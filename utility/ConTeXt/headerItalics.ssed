@@ -1,0 +1,3 @@
+/^\\setupinteraction/{
+s/{\\em ([^}]*)}/*\1*/g
+}

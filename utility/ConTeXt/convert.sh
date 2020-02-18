@@ -30,12 +30,11 @@ pandoc --template $root/utility/ConTeXt/template.unitTest -f markdown -t context
 echo Postprocess $filename
 
 
-
+ssed -r -i -f $root/utility/ConTeXt/titleItalics.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/hyphenated.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/thinrule.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/iframe.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/tables.ssed $filename.tex
-ssed -r -i -f $root/utility/ConTeXt/titleItalics.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/epigraph.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/captionFigure.ssed $filename.tex
 echo ConTeXt $filename, log into $3 
