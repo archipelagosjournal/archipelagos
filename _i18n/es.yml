@@ -10,9 +10,9 @@ global:
   essays: Ensayos
   projects: Proyectos digitales
   reviews: Reseñas
-  past_issues: Numeros pasados
+  past_issues: Números pasados
   editorial: Política editorial
-  issue: Numero
+  issue: Número
 
 titles:
   about: "acerca de"

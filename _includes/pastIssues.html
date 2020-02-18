@@ -1,0 +1,14 @@
+<h2>{% t global.past_issues %}</h2>
+<ul>
+	{% for issue in site.collections %}
+	{% if issue.title contains "Issue" %}
+  	  {% if site.lang == "en" %}
+      <li class="toc-title"><a href="{{ site.baseurl }}/{{issue.slug}}.html">{% t global.issue %} ({{issue.number}})</a></li>
+      {% elsif site.lang == "fr" %}  
+      <li class="toc-title"><a href="{{ site.baseurl }}/{{issue.slug_fr}}.html">{% t global.issue %} ({{issue.number}})</a></li>
+      {% elsif site.lang == "es" %}  
+      <li class="toc-title"><a href="{{ site.baseurl }}/{{issue.slug_es}}.html">{% t global.issue %} ({{issue.number}})</a></li>
+      {% endif %}
+    {% endif %}
+    {% endfor %}
+</ul>
