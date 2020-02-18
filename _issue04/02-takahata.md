@@ -160,26 +160,26 @@ not originally designed. This tension is visible throughout the poem,
 such as in a moment when he describes an aspect of sugar harvesting as
 comparable to the shearing of sheep:
 
-> SOME bending, of their sapless burden ease  
-> The yellow jointed canes, (whose height exceeds  
-> A mounted trooper, and whose clammy round  
-> Measures two inches full;) and near the root  
-> Lop the stem off, which quivers in their hand  
-> With fond impatience…  
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;…What of the Cane  
-> Remains, and much the largest part remains,  
-> Cut into junks a yard in length, and tied  
-> In small light bundles; load the broad-wheel'd wane,  
-> The mules crook-harnest, and the sturdier crew,  
-> With sweet abundance. As on Lincoln-plains,  
-> (Ye plains of Lincoln sound your Dyer's praise!)  
-> When the lav'd snow-white flocks are numerous penn'd;  
-> The senior swains, with sharpen'd shears, cut off  
-> The fleecy vestment; others stir the tar;  
-> And some impress, upon their captives sides,  
-> Their master's cypher; while the infant throng  
-> Strive by the horns to hold the struggling ram,  
-> Proud of their prowess. (3.93--94.111--16, 125--38)  
+> SOME bending, of their sapless burden ease\\
+> The yellow jointed canes, (whose height exceeds\\
+> A mounted trooper, and whose clammy round\\
+> Measures two inches full;) and near the root\\
+> Lop the stem off, which quivers in their hand\\
+> With fond impatience...\\
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...What of the Cane\\
+> Remains, and much the largest part remains,\\
+> Cut into junks a yard in length, and tied\\
+> In small light bundles; load the broad-wheel'd wane,\\
+> The mules crook-harnest, and the sturdier crew,\\
+> With sweet abundance. As on Lincoln-plains,\\
+> (Ye plains of Lincoln sound your Dyer's praise!)\\
+> When the lav'd snow-white flocks are numerous penn'd;\\
+> The senior swains, with sharpen'd shears, cut off\\
+> The fleecy vestment; others stir the tar;\\
+> And some impress, upon their captives sides,\\
+> Their master's cypher; while the infant throng\\
+> Strive by the horns to hold the struggling ram,\\
+> Proud of their prowess. (3.93--94.111--16, 125--38)
 
 Here, Grainger presents the cane as practically harvesting itself,
 omitting the subject of the verbs "ease" and "lops." Sugarcane "quivers
@@ -206,11 +206,11 @@ brutal realities of living and working on a sugar plantation. For
 example, as Grainger narrates the process of feeding cane stalks into
 the mill to extract their sugary syrup,
 
-> AND now thy mills dance eager in the gale;  
-> Feed well their eagerness: but O beware;  
-> Nor trust, between the steel-cas'd cylinders,  
-> The hand incautious: off the member snapt  
-> Thou'lt ever rue; sad spectacle of woe! (3.95.165--69).  
+> AND now thy mills dance eager in the gale;\\
+> Feed well their eagerness: but O beware;\\
+> Nor trust, between the steel-cas'd cylinders,\\
+> The hand incautious: off the member snapt\\
+> Thou'lt ever rue; sad spectacle of woe! (3.95.165--69).
 
 The footnote that follows reads, "This accident will sometimes happen,
 especially in the night: and the unfortunate wretch must fall a victim
@@ -522,12 +522,12 @@ not approve of such movement because it occurred beyond their reach and
 control. As Grainger warns his readers, whom he imagines in this moment
 to be planters,
 
-> COMPEL by threats, or win by soothing arts,  
-> Thy slaves to wed their fellow slaves at home;  
-> So shall they not their vigorous prime destroy,  
-> By distant journeys, at untimely hours,  
-> When muffled midnight decks her raven-hair  
-> With the white plumage of the prickly vine. (4.158.606--11)  
+> COMPEL by threats, or win by soothing arts,\\
+> Thy slaves to wed their fellow slaves at home;\\
+> So shall they not their vigorous prime destroy,\\
+> By distant journeys, at untimely hours,\\
+> When muffled midnight decks her raven-hair\\
+> With the white plumage of the prickly vine. (4.158.606--11)
 
 That Grainger would disapprove of such traveling is not surprising, of
 course, given the overall investment of his poem in support of the
@@ -694,7 +694,7 @@ Ami Yoon, Steve Fragano, Lina Jiang, and Elizabeth Cornell.
 
 [^f7]: For a fuller discussion of these excerpts, see Lina Jiang's introduction to "Sugar Work," *Digital Grainger*, [https://digital-grainger.github.io/grainger/excerpts/sugar-work.html](https://digital-grainger.github.io/grainger/excerpts/sugar-work.html).
 
-[^f8]: For an analysis of how Grainger's use of medical rhetoric structures contradictory readings of the poem as both rationalizing and critiquing slavery, see Steven W. Thomas, "Doctoring Ideology: James Grainger's *The Sugar Cane* and the Bodies of Empire," *Early American Studies* 4, no. 1 (2006): 78--111. For a discussion of Grainger's negotiation of enslaved labor in the georgic, see Markman Ellis, "'Incessant Labour': Georgic Poetry and the Problem of Slavery,"in *Discourses of Slavery and Abolition*, ed. Brycchan Carey, Markman Ellis, and Sara Salih (New York: Palgrave Macmillan, 2004), 45—62; and Cristobal Silva, "Georgic Fantasies: James Grainger and the Poetry of Colonial Dislocation," *ELH* 83, no. 1 (2016): 127--56.
+[^f8]: For an analysis of how Grainger's use of medical rhetoric structures contradictory readings of the poem as both rationalizing and critiquing slavery, see Steven W. Thomas, "Doctoring Ideology: James Grainger's *The Sugar Cane* and the Bodies of Empire," *Early American Studies* 4, no. 1 (2006): 78--111. For a discussion of Grainger's negotiation of enslaved labor in the georgic, see Markman Ellis, "'Incessant Labour': Georgic Poetry and the Problem of Slavery,"in *Discourses of Slavery and Abolition*, ed. Brycchan Carey, Markman Ellis, and Sara Salih (New York: Palgrave Macmillan, 2004), 45--62; and Cristobal Silva, "Georgic Fantasies: James Grainger and the Poetry of Colonial Dislocation," *ELH* 83, no. 1 (2016): 127--56.
 
 [^f9]: See Christopher P. Iannini, *Fatal Revolutions: Natural History, West Indian Slavery, and the Routes of American Literature* (Chapel Hill: University of North Carolina Press, 2012).
 
@@ -734,7 +734,7 @@ Ami Yoon, Steve Fragano, Lina Jiang, and Elizabeth Cornell.
 
 [^f26]: For a full discussion of this theme, see Julie Chun Kim's introduction to "Movement," *Digital Grainger*, [https://digital-grainger.github.io/grainger/excerpts/movement.html](https://digital-grainger.github.io/grainger/excerpts/movement.html). 
 
-[^f27]: See "Decolonizing the Archive: Remix and Reassembly," *Early Caribbean Digital Archive*, [https://ecda.northeastern.edu/home/about/decolonizing-the-archive/](https://ecda.northeastern.edu/home/about/decolonizing-the-archive/). See also Nicole Aljoe, *Creole Testimonies: Slave Narratives from the British West Indies, 1709—1838* (New York: Palgrave Macmillan, 2012). 
+[^f27]: See "Decolonizing the Archive: Remix and Reassembly," *Early Caribbean Digital Archive*, [https://ecda.northeastern.edu/home/about/decolonizing-the-archive/](https://ecda.northeastern.edu/home/about/decolonizing-the-archive/). See also Nicole Aljoe, *Creole Testimonies: Slave Narratives from the British West Indies, 1709--1838* (New York: Palgrave Macmillan, 2012). 
 
 [^f28]: Saidiya Hartman, "Venus in Two Acts, *Small Axe*, no. 26 (June 2008): 4. 
 

@@ -38,6 +38,7 @@ ssed -r -i -f $root/utility/ConTeXt/tables.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/titleItalics.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/epigraph.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/captionFigure.ssed $filename.tex
+ssed -r -i -f $root/utility/ConTeXt/headerItalics.ssed $filename.tex
 echo ConTeXt $filename, log into $3 
 
 
