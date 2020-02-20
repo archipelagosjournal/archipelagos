@@ -29,9 +29,9 @@ created with a specific audience in mind, Miranda explained, "At YOUR
 request, we made a book."[^2]
 
 {% include image.html
-  img="figure-1.png"
+  img="issue04/machado/figure-1.png"
   caption="Figure 1. Miranda's *Little Pep Talks* marketing."
-  url="https://web.archive.org/web/20180717122340/https://twitter.com/lin\_manuel/status/1019190030387073025" %}
+  url="https://web.archive.org/web/20180717122340/https://twitter.com/lin_manuel/status/1019190030387073025" %}
 
 Miranda's use of "you" on Twitter more generally reflects a strategic
 invocation of his audience. The direct address cultivates intimacy with
@@ -356,8 +356,9 @@ limited collection of "for you" tweets that appeared from May 2017 to
 January 2018.[^26]
 
 {% include image.html
-  img="figure-2.png"
+  img="issue04/machado/figure-2.png"
   caption="Figure 2. An online archive of Miranda's \"for you\" tweets."
+  url="https://web.archive.org/web/20180724174411/http://elenamachado.blogs.bucknell.edu/work-in-progress/latinx-twitter-lin-manuel-miranda/"
 %}
 
 With the aim of distinguishing the unique qualities of Miranda's Twitter
@@ -384,15 +385,42 @@ Miranda, I also kept in mind how prolific these writers were, with the
 goal of selecting those who maintained an active presence on Twitter by
 posting original tweets or retweeting.
 
-{% include image.html
-  img="figure-3.ods"
-  caption="Figure 3. Comparison by number of followers." 
-%}
 
-{% include image.html
-  img="figure-4.ods"
-  caption="Figure 4. Comparison by number of tweets." 
-%}
+US Latinx Creative Writer|Username|Number of Followers
+---------------------------- | ---------------------------- | ------------------------ 
+Lin-Manuel Miranda|@Lin_Manuel|1,800,000
+John Leguizamo|@JohnLeguizamo|708,000
+Daniel Alarcón|@DaniekGAlarcon|193,000
+Charlie Vázquez|@charlievazquez|14,600
+Raquel Cepeda|@RaquelCepeda|11,700
+Sofia Quintero|@sofiaquintero|5,835
+Kristoffer Díaz|@kristofferdiaz|4,439
+Daniel Olivas|@olivasdan|3,514
+Rich Villar|@elprofe316|2,270
+Achy Obejas|@achylandia|2,107
+Monica Palacios|@MonicaPFlash|758
+Angel Dominguez|@dandelionglitch|635
+Marissa Chibas|@mchibas|627
+
+Figure 3. Comparison by number of followers.
+
+US Latinx Creative Writer|Username|Numbers of Tweets
+---------------------------- | ---------------------------- | ------------------------
+John Leguizamo|@JohnLeguizamo|4,737
+Lin-Manuel Miranda|@Lin_Manuel|4,466
+Daniel Olivas|@olivasdan|4,214
+Achy Obejas|@achylandia|3,688
+Sofia Quintero|@sofiaquintero|2,261
+Monica Palacios|@MonicaPFlash|1,924
+Kristoffer Díaz|@kristofferdiaz|1,726
+Angel Dominguez|@dandelionglitch|1,694
+Daniel Alarcón|@DaniekGAlarcon|1,655
+Charlie Vázquez|@charlievazquez|1,629
+Raquel Cepeda|@RaquelCepeda|1,014
+Rich Villar|@elprofe316|590
+Marissa Chibas|@mchibas|457
+
+Figure 4. Comparison by number of tweets.
 
 The resulting list of twelve writers is therefore a cross-section of
 those Latinx authors with the most followers and the most active tweet
@@ -404,7 +432,7 @@ stopwords in order to visualize the patterns and distinguishing features
 of each Latinx writers' Twitter use.
 
 {% include image.html
-  img="figure-5.png"
+  img="issue04/machado/figure-5.png"
   caption="Figure 5. Twitter profiles of twelve Latinx writers." 
 %}
 
@@ -446,23 +474,23 @@ references to a collective or kinship with followers, such as "we" and
 writers.
 
 {% include image.html
-  img="figure-6.png"
+  img="issue04/machado/figure-6.png"
   caption="Figure 6. The raw frequency of you in the corpora of thirteen writers." 
 %}
 
 {% include image.html
-  img="figure-7.png"
+  img="issue04/machado/figure-7.png"
   caption="Figure 7. The raw frequency of \"your\" in the corpora of thirteen writers." 
 %}
 
 {% include image.html
-  img="figure-8.png"
-  caption="Figure 8. The raw frequency of "we" in the corpora of thirteen writers." 
+  img="issue04/machado/figure-8.png"
+  caption="Figure 8. The raw frequency of \"we\" in the corpora of thirteen writers." 
 %}
 
 {% include image.html
-  img="figure-9.png"
-  caption="Figure 9. The raw frequency of "us" in the corpora of
+  img="issue04/machado/figure-9.png"
+  caption="Figure 9. The raw frequency of \"us\" in the corpora of
   thirteen writers." 
 %}
 
@@ -493,8 +521,8 @@ Cuban American playwright Marissa Chibas, Puerto Rican poet Rich Villar,
 and Puerto Rican writer Charlie Vázquez.
 
 {% include image.html
-  img="figure-10.ods"
-  caption="Figure 10. A comparison of "for you" usage in original tweets (with retweets removed)." 
+  img="issue04/machado/figure-10.ods"
+  caption="Figure 10. A comparison of \"for you\" usage in original tweets (with retweets removed)." 
 %}
 
 Concentrating on the phrase "for you" as a lens of comparison makes
@@ -507,13 +535,13 @@ that the Twitter usage trends of cultivating intimacy and articulating
 an activist politics are expressed using different strategies.
 
 {% include image.html
-  img="figure-11.ods"
-  caption="Figure 11. A breakdown of sixty-five "for you" tweets by Miranda." 
+  img="issue04/machado/figure-11.ods"
+  caption="Figure 11. A breakdown of sixty-five \"for you\" tweets by Miranda." 
 %}
 
 {% include image.html
-  img="figure-12.ods"
-  caption="Figure 12. A breakdown of forty-five "for you" tweets by twelve Latinx writers." 
+  img="issue04/machado/figure-12.ods"
+  caption="Figure 12. A breakdown of forty-five \"for you\" tweets by twelve Latinx writers." 
 %}
 
 Miranda uses Twitter to articulate concerns similar to those of other
@@ -543,8 +571,8 @@ predominantly as a space for political activism as well as to build
 constructive relationships with specific progressive individuals.
 
 {% include image.html
-  img="figure-13.ods"
-  caption="Figure 13. "For you" tweets by Chibas." 
+  img="issue04/machado/figure-13.ods"
+  caption="Figure 13. \"For you\" tweets by Chibas." 
 %}
 
 Within this select group of tweets, we see Chibas replying in support of
@@ -560,7 +588,7 @@ means of confirming de León's critique of the administration's decision
 to pull out of the Paris climate accord.
 
 {% include image.html
-  img="figure-14.png"
+  img="issue04/machado/figure-14.png"
   caption="Figure 14. Chibas's reply to Kamala Harris."
   url="http://web.archive.org/web/20181228214913/https://twitter.com/i/web/status/914202773775818752"
 %}
@@ -588,8 +616,8 @@ the legitimacy of the president's claim on historical precedent and
 political authority.
 
 {% include image.html
-  img="figure-15.ods"
-  caption="Figure 15. "For you" tweets by Villar." 
+  img="issue04/machado/figure-15.ods"
+  caption="Figure 15. \"For you\" tweets by Villar." 
 %}
 
 By contrast, Villar's tweet to his followers about a "dream job"
@@ -609,13 +637,13 @@ Vázquez's "shout-out" parenthetically translates the "you" to "us" in
 imagining the shared familial context of absent fathers.[^27]
 
 {% include image.html
-  img="figure-16.png"
+  img="issue04/machado/figure-16.png"
   caption="Figure 16. Vázquez on fatherhood."
   url="http://web.archive.org/web/20181230013539/https://twitter.com/charlievazquez/statuses/876499382488707075"
 %}
 
 {% include image.html
-  img="figure-17.png"
+  img="issue04/machado/figure-17.png"
   caption="Figure 17. Vázquez for \"tested.\""
   url="https://web.archive.org/web/20181230013652/https://twitter.com/charlievazquez/statuses/869669182526435332"
 %}
@@ -703,9 +731,9 @@ recovery efforts can be interpreted as relying on similar a marketing
 dynamic and rhetoric to that of his self-promotion tweets.
 
 {% include image.html
-  img="figure-18.png"
+  img="issue04/machado/figure-18.png"
   caption="Figure 18. Miranda's \#AlmostLikePraying."
-  url="http://web.archive.org/web/20181231011310/https://twitter.com/lin\_manuel/status/915951732517154817"
+  url="http://web.archive.org/web/20181231011310/https://twitter.com/lin_manuel/status/915951732517154817"
 %}
 
 Asking followers to make financial commitments or to contribute their
@@ -742,9 +770,9 @@ The #Ham4All challenge of June 2017 is a useful precursor to the
 marketing and activism web of the #AlmostLikePraying benefit song.[^35]
 
 {% include image.html
-  img="figure-19.png"
+  img="issue04/machado/figure-19.png"
   caption="Figure 19. Miranda's #Ham4All challenge."
-  url="http://web.archive.org/web/20170628051129/https://twitter.com/lin\_manuel/status/879323738398916608"
+  url="http://web.archive.org/web/20170628051129/https://twitter.com/lin_manuel/status/879323738398916608"
 %}
 
 Miranda asked fans to post videos of themselves singing to *Hamilton*
@@ -785,27 +813,27 @@ Network] comes at a time when how Albany operates has come under
 increasing criticism and investigations."[^39]
 
 {% include image.html
-  img="figure-20.png"
+  img="issue04/machado/figure-20.png"
   caption="Figure 20. The Hamilton Campaign Network."
-  url="http://web.archive.org/web/20170628051129/https://twitter.com/lin\_manuel/status/879323738398916608"
+  url="http://web.archive.org/web/20170628051129/https://twitter.com/lin_manuel/status/879323738398916608"
 %}
 
 {% include image.html
-  img="figure-21.png"
+  img="issue04/machado/figure-21.png"
   caption="Figure 21. Miranda's \"in the meantime.\""
-  url="http://web.archive.org/web/20170921161517/https://twitter.com/lin\_manuel/status/910769261479677953"
+  url="http://web.archive.org/web/20170921161517/https://twitter.com/lin_manuel/status/910769261479677953"
 %}
 
 {% include image.html
-  img="figure-22.png"
+  img="issue04/machado/figure-22.png"
   caption="Figure 22: Miranda on austerity protests in Puerto Rico."
-  url="http://web.archive.org/web/20180901232440/https://twitter.com/lin\_manuel/status/991782264659939328"
+  url="http://web.archive.org/web/20180901232440/https://twitter.com/lin_manuel/status/991782264659939328"
 %}
 
 {% include image.html
-  img="figure-23.png"
+  img="issue04/machado/figure-23.png"
   caption="Figure 23. Miranda's \"new path\" with Hispanic Federation."
-  url="http://web.archive.org/web/20181231191605/https://twitter.com/lin\_manuel/status/913024298654273536"
+  url="http://web.archive.org/web/20181231191605/https://twitter.com/lin_manuel/status/913024298654273536"
 %}
 
 While the collaboration of consulting and campaign organizations is
@@ -868,14 +896,14 @@ Miranda explains that he has "tons of practice" in producing art in
 order to cultivate specific feelings in the spectator.[^46]
 
 {% include image.html
-  img="figure-24.png"
+  img="issue04/machado/figure-24.png"
   caption="Figure 24. Screenshot of Miranda's bio profile, January 2018."
 %}
 
 {% include image.html
-  img="figure-25.png"
+  img="issue04/machado/figure-25.png"
   caption="Figure 25. Miranda's \"job description.\""
-  url="http://web.archive.org/web/2018\*/https://twitter.com/lin\_manuel/status/897242937788125184"
+  url="http://web.archive.org/web/2018\*/https://twitter.com/lin_manuel/status/897242937788125184"
 %}
 
 His strategies for fostering intimacy with his Twitter followers finds
@@ -919,22 +947,22 @@ find gratitude to be a rhetorical move that bolsters the intimate
 dynamics of Miranda's Twitter account.
 
 {% include image.html
-  img="figure-26.png"
+  img="issue04/machado/figure-26.png"
   caption="Figure 26. Miranda's caregiver persona."
-  url="https://web.archive.org/web/20181231001111/https://twitter.com/lin\_manuel/status/874250737408192514"
+  url="https://web.archive.org/web/20181231001111/https://twitter.com/lin_manuel/status/874250737408192514"
 %}
 
 <!-- WordCloud removed -->
 
 {% include image.html
-  img="figure-28.ods"
+  img="issue04/machado/figure-28.ods"
   caption="Figure 27. List of the top twenty-five words within Miranda's \"for you\" corpus." 
 %}
 
 {% include image.html
-  img="figure-29.png"
+  img="issue04/machado/figure-29.png"
   caption="Figure 28. Miranda's gnight gratitude."
-  url="https://web.archive.org/web/20171114041014/https://twitter.com/lin\_manuel/status/930263949509124101"
+  url="https://web.archive.org/web/20171114041014/https://twitter.com/lin_manuel/status/930263949509124101"
 %}
 
 By adding "you"-derived terminology to the stoplist (for example,
@@ -968,15 +996,15 @@ The advice tweets are thereby bolstered by claims on the universal
 follower's affect, through an implicit reciprocity.
 
 {% include image.html
-  img="figure-30A.png"
+  img="issue04/machado/figure-30A.png"
   caption="Figure 29. Miranda's instruction."
-  url="https://web.archive.org/web/20181231001344/https://twitter.com/lin\_manuel/status/911353178049908736"
+  url="https://web.archive.org/web/20181231001344/https://twitter.com/lin_manuel/status/911353178049908736"
 %}
 
 {% include image.html
-  img="figure-30B.png"
+  img="issue04/machado/figure-30B.png"
   caption="Figure 30. Miranda's pedagogy."
-  url="https://web.archive.org/web/20170612134319/https://twitter.com/lin\_manuel/status/859658638629232640"
+  url="https://web.archive.org/web/20170612134319/https://twitter.com/lin_manuel/status/859658638629232640"
 %}
 
 Miranda's performance on Twitter makes evident his investment in the
@@ -991,15 +1019,15 @@ Miranda builds affective alliances with his audience and can bank on
 their emotional investment when he needs to mobilize his followers.
 
 {% include image.html
-  img="figure-31.png"
+  img="issue04/machado/figure-31.png"
   caption="Figure 31. A 2016 gratitude tweet with *Singing in the Rain*."
-  url="https://web.archive.org/web/20181231003845/https://twitter.com/lin\_manuel/status/814681177776881665"
+  url="https://web.archive.org/web/20181231003845/https://twitter.com/lin_manuel/status/814681177776881665"
 %}
 
 {% include image.html
-  img="figure-32.png"
+  img="issue04/machado/figure-32.png"
   caption="Figure 32. A 2016 gratitude tweet with Marilyn Monroe.]"
-  url="https://web.archive.org/web/20181231004056/https://twitter.com/Lin\_Manuel/status/800456077615702016"
+  url="https://web.archive.org/web/20181231004056/https://twitter.com/Lin_Manuel/status/800456077615702016"
 %}
 
 Miranda reinforces this grateful caretaker persona by generating music
@@ -1027,21 +1055,21 @@ maintaining contact is one way that Miranda attempts to stay relevant on
 a daily basis with his millions of followers.
 
 {% include image.html
-  img="figure-33.png"
+  img="issue04/machado/figure-33.png"
   caption="Figure 33. A Miranda Spotify mixtape announcement."
-  url="http://web.archive.org/web/20181231004829/https://twitter.com/lin\_manuel/status/861543416563412992?lang=en"
+  url="http://web.archive.org/web/20181231004829/https://twitter.com/lin_manuel/status/861543416563412992?lang=en"
 %}
 
 {% include image.html
-  img="figure-34.png"
-  caption="Figure 34. Miranda's "Any other questions?" response to a playlist request."
-  url="https://web.archive.org/web/20181231005014/https://twitter.com/Lin\_Manuel/status/897068921857220608"
+  img="issue04/machado/figure-34.png"
+  caption="Figure 34. Miranda's \"Any other questions?\" response to a playlist request."
+  url="https://web.archive.org/web/20181231005014/https://twitter.com/Lin_Manuel/status/897068921857220608"
 %}
 
 {% include image.html
-  img="figure-35.png"
+  img="issue04/machado/figure-35.png"
   caption="Figure 35. Miranda's \"Nope\" response to a playlist request."
-  url="https://web.archive.org/web/20181231005149/https://twitter.com/Lin\_Manuel/status/902295847630725120"
+  url="https://web.archive.org/web/20181231005149/https://twitter.com/Lin_Manuel/status/902295847630725120"
 %}
 
 The "for you" invocation is also a vehicle for self-promotion, marketing
@@ -1064,15 +1092,15 @@ Miranda's gratitude but ends with the gesture expected in reply—the
 audience's consumption of his cultural production.[^52]
 
 {% include image.html
-  img="figure-36.png"
+  img="issue04/machado/figure-36.png"
   caption="Figure 36. Miranda as Gizmoduck.]"
-  url="https://web.archive.org/web/20181231005502/https://twitter.com/lin\_manuel/status/865598673278906368"
+  url="https://web.archive.org/web/20181231005502/https://twitter.com/lin_manuel/status/865598673278906368"
 %}
 
 {% include image.html
-  img="figure-37.png"
+  img="issue04/machado/figure-37.png"
   caption="Figure 37. Miranda's *Moana* marketing.]"
-  url="https://web.archive.org/web/20181231005718/https://twitter.com/lin\_manuel/status/684742849892642817"
+  url="https://web.archive.org/web/20181231005718/https://twitter.com/lin_manuel/status/684742849892642817"
 %}
 
 Miranda's tweet about the 2016 Disney film *Moana* follows an identical
@@ -1096,15 +1124,15 @@ example, Miranda posted expressions of sympathy regarding the August
 disastrous landfall in Dominica and Puerto Rico in September 2017.[^54]
 
 {% include image.html
-  img="figure-38.png"
+  img="issue04/machado/figure-38.png"
   caption="Figure 38. Miranda on the mass shooting in San Antonio, Texas."
-  url="https://web.archive.org/web/20181231010452/https://twitter.com/Lin\_Manuel/status/901096336862449669"
+  url="https://web.archive.org/web/20181231010452/https://twitter.com/Lin_Manuel/status/901096336862449669"
 %}
 
 {% include image.html
-  img="figure-39.png"
+  img="issue04/machado/figure-39.png"
   caption="Figure 39. Miranda's reaction to Hurricane Maria."
-  url="https://web.archive.org/web/20181231010634/https://twitter.com/Lin\_Manuel/status/909895086061887488"
+  url="https://web.archive.org/web/20181231010634/https://twitter.com/Lin_Manuel/status/909895086061887488"
 %}
 
 Noticeably, these references to a specific population that has suffered
@@ -1124,9 +1152,9 @@ third-person narrative while implying that he acts as a member of a
 community that is "fighting" for immigrant rights.
 
 {% include image.html
-  img="figure-40.png"
+  img="issue04/machado/figure-40.png"
   caption="Figure 40. Miranda on dreamers."
-  url="https://web.archive.org/web/20181231010851/https://twitter.com/Lin\_Manuel/status/906176961998979072"
+  url="https://web.archive.org/web/20181231010851/https://twitter.com/Lin_Manuel/status/906176961998979072"
 %}
 
 The messages to Donald Trump take on an unusual tone in terms of the
@@ -1143,15 +1171,15 @@ that it is Trump who will not have to wait for his cosmic
 comeuppance.[^56]
 
 {% include image.html
-  img="figure-41.png"
+  img="issue04/machado/figure-41.png"
   caption="Figure 41. Miranda on Trump's response to Hurricane María."
-  url="https://web.archive.org/web/20181231011019/https://twitter.com/Lin\_Manuel/status/912323044269490184"
+  url="https://web.archive.org/web/20181231011019/https://twitter.com/Lin_Manuel/status/912323044269490184"
 %}
 
 {% include image.html
-  img="figure-42.png"
+  img="issue04/machado/figure-42.png"
   caption="Figure 42. Miranda on Trump's destination."
-  url="https://web.archive.org/web/20181231011144/https://twitter.com/Lin\_Manuel/status/914102927744217088"
+  url="https://web.archive.org/web/20181231011144/https://twitter.com/Lin_Manuel/status/914102927744217088"
 %}
 
 Miranda's near silence regarding the 1 May 2018 protests in Puerto Rico
@@ -1160,9 +1188,9 @@ basing an articulation of philanthropy or ethics on affective
 affiliation. Thousands of protestors in San Juan took to the streets on
 International Workers' Day, and the demonstration was predominantly
 peaceful until later in the day when the police used physical force and
-tear gas. The protest was covered by major news outlets such as NPR and
-the *New York Times*; however, Miranda dedicated only a single tweet to
-the event. Miranda's response relies on emotive language, emphasizing
+tear gas. The protest was covered by major news outlets, such as NPR and
+the *New York Times*; however, Miranda dedicated [only a single tweet to
+the event](http://web.archive.org/web/20180901232440/https:/twitter.com/lin_manuel/status/991782264659939328). Miranda's response relies on emotive language, emphasizing
 his individual reaction as "heartbroken" and "frustrated."[^57] He does
 not contextualize the protest by referring to what it was about, the
 "cause" for which the protesters were rallying support.[^58] Miranda
@@ -1177,24 +1205,6 @@ population rather than his claiming them as community. There is no "we"
 imagined in Miranda's response to this contentious political struggle
 over economic restructuring after Hurricane Maria.
 
-**{AU: There is no reference to *NYTimes* or link that I can see…**
-**EMS: In the screenshot I took of the tweet, you can see that after
-Miranda's text, there is an image included which is derived from the
-NYtimes and includes the caption I'm citing. Perhaps this archived
-version of the tweet is better?
-http://web.archive.org/web/20180901232440/https:/twitter.com/lin\_manuel/status/991782264659939328}**
-
-**ALEX: I see no *NY Times* image and caption as she describes** **in
-either her archived tweet**
-**(https://web.archive.org/web/20181231191105/https://twitter.com/lin\_manuel/status/991782264659939328)
-or the alternate** **she gives above. But I'm not a Twitter user, so am
-I just missing something? Or is my crappy satellite internet just not
-downloading it? Please take a look at** **her link. If it's not clear
-that the image is from the *NY Times* and the caption she quotes from is
-not visible, then I would suggest we stick with my edit above. However,
-if it's there and** **I'm just somehow not seeing what she describes,
-please delete my edit and restore her text. **
-
 Miranda appears to generally distance himself from Puerto Rican protest
 movements about the governance and economy of Puerto Rico, for example,
 he also made no comment on similar protests in 2017 (although he was
@@ -1206,8 +1216,7 @@ that is so dependent on a feel-good dynamic of gratitude to support the
 exchange of financial capital cannot dwell for too long on activism that
 challenges the logic of a debt economy.
 
-Expanding Our Archival Vision
------------------------------
+## Expanding Our Archival Vision
 
 The limited temporality of Twitter's window into contemporary discourse
 presents specific challenges to researchers who aim to identify trends
@@ -1329,8 +1338,7 @@ be transparent about our methodology but also explicit about our ethical
 failures. I can only hope that here I have begun to map out a form and
 process that gestures toward this intellectual transparency.
 
-Acknowledgments
----------------
+## Acknowledgments
 
 I am indebted to the expertise of Emily Sherwood, who served as the
 assistant director of digital pedagogy and scholarship at Bucknell
@@ -1352,7 +1360,7 @@ Research conferences.
 
 [^1]: Lin-Manuel Miranda, *Gmorning, Gnight! Little Pep Talks for Me and You*, illus. Jonny Sun (New York: Random House, 2018). 
 
-[^2]: Lin-Manuel Miranda (@Lin\_Manuel), "Gmorning! A bit of news—At YOUR request, we made a book of the Gmornings & Gnights! Illustrations by @jonnysun! Available October 23! We love you!," Twitter, 17 July 2018, 5:00 am, [*https://web.archive.org/web/20180717122340/https://twitter.com/lin\_manuel/status/1019190030387073025*](https://web.archive.org/web/20180717122340/https://twitter.com/lin_manuel/status/1019190030387073025). 
+[^2]: Lin-Manuel Miranda (@Lin_Manuel), "Gmorning! A bit of news—At YOUR request, we made a book of the Gmornings & Gnights! Illustrations by @jonnysun! Available October 23! We love you!," Twitter, 17 July 2018, 5:00 am, [*https://web.archive.org/web/20180717122340/https://twitter.com/lin_manuel/status/1019190030387073025*](https://web.archive.org/web/20180717122340/https://twitter.com/lin_manuel/status/1019190030387073025). 
 
 [^3]: I draw on my prior work situating Miranda within a broader history of US Latinx politics as well as the institution of Broadway theater in particular; see Elena Machado Sáez, "Bodega Sold Dreams: Middle-Class Panic and the Crossover Aesthetics of *In the Heights*," in *Dialectical Imaginaries: Materialist Approaches to US Latino/a Literature in the Age of Neoliberalism*, ed. Marcial Gonzalez and Carlos Gallego (Ann Arbor: University of Michigan Press, 2018), and "Blackout on Broadway: Affiliation and Audience in *In the Heights* and *Hamilton*," *Studies in Musical Theater* 12, no. 2 (2018): 181–97. In both essays, I make the case that Miranda's *In the Heights* and *Hamilton* ambivalently balance a counter-narrative to a history of stereotype on the Broadway stage with the goal of convincing the predominantly white, highly educated tourists in attendance that the "other" is one of them. Having written these essays addressing the themes of belonging, race, politics, class, and audience, I am interested in investigating how the copious amounts of text that Miranda produces via Twitter conveys a broader philosophy on the intersection of aesthetics and politics on social media. 
 
@@ -1412,13 +1420,13 @@ Research conferences.
 
 [^31]: For a nuanced and detailed analysis of how hashtags have been deployed, including commercial and social activist uses, see Losh, *Hashtag*. 
 
-[^32]: Lin-Manuel Miranda (@Lin\_Manuel), "Y'all, when I say all hands on deck for Puerto Rico I mean ALL HANDS ON DECK," Twitter, 5 October 2017, 7:48 am, [*https://web.archive.org/web/20181231011310/https:/twitter.com/Lin\_Manuel/status/915951732517154817*](https://web.archive.org/web/20181231011310/https:/twitter.com/Lin_Manuel/status/915951732517154817). 
+[^32]: Lin-Manuel Miranda (@Lin_Manuel), "Y'all, when I say all hands on deck for Puerto Rico I mean ALL HANDS ON DECK," Twitter, 5 October 2017, 7:48 am, [*https://web.archive.org/web/20181231011310/https:/twitter.com/Lin_Manuel/status/915951732517154817*](https://web.archive.org/web/20181231011310/https:/twitter.com/Lin_Manuel/status/915951732517154817). 
 
-[^33]: For example, a 2012 *New York Post* article by Candace M. Glove lists Luis Miranda as a key player in Bronx "political nonprofits"; see Candace M. Glove, "Twi\$ted Web of Political Nonprofits in Bx," *New York Post*, 26 August 2012, https://nypost.com/2012/08/26/twited-web-of-political-nonprofits-in-bx/. Additionally, a 2014 newsletter from the National Institute for Latino Policy (NiLP) summarizes the critical press coverage of Luis Miranda's lobbying efforts; see Angelo Falcón, "The Hispanic Federation–Luis Miranda Connection: Undermining the Agenda of a Latino Community Institution," National Institute for Latino Policy, 10 July 2014, *https://web.archive.org/web/20151010000523/http://www.nilpnetwork.org/NiLP\_Commentary\_-\_Hispanic\_Federation.pdf*. 
+[^33]: For example, a 2012 *New York Post* article by Candace M. Glove lists Luis Miranda as a key player in Bronx "political nonprofits"; see Candace M. Glove, "Twi\$ted Web of Political Nonprofits in Bx," *New York Post*, 26 August 2012, https://nypost.com/2012/08/26/twited-web-of-political-nonprofits-in-bx/. Additionally, a 2014 newsletter from the National Institute for Latino Policy (NiLP) summarizes the critical press coverage of Luis Miranda's lobbying efforts; see Angelo Falcón, "The Hispanic Federation–Luis Miranda Connection: Undermining the Agenda of a Latino Community Institution," National Institute for Latino Policy, 10 July 2014, *https://web.archive.org/web/20151010000523/http://www.nilpnetwork.org/NiLP_Commentary_-_Hispanic_Federation.pdf*. 
 
 [^34]: Juan González, "Family Plays Big Role in Nurturing *Hamilton* on Broadway," *New York Daily News*, 6 August 2015, <https://www.nydailynews.com/new-york/gonzalez-family-helps-bring-hamilton-broadway-article-1.2317665>. 
 
-[^35]: Lin-Manuel Miranda (@Lin\_Manuel), "HelloHelloHello. Introducing our biggest @Prizeo contest yet & the \#Ham4All Challenge! Donate at http://prizeo.com/Hamilton! Sing! Oh, I [heart] you," Twitter, 26 June 2017, 6:01 am, [*http://web.archive.org/web/20170628051129/https://twitter.com/lin\_manuel/status/879323738398916608*](http://web.archive.org/web/20170628051129/https://twitter.com/lin_manuel/status/879323738398916608). 
+[^35]: Lin-Manuel Miranda (@Lin_Manuel), "HelloHelloHello. Introducing our biggest @Prizeo contest yet & the \#Ham4All Challenge! Donate at http://prizeo.com/Hamilton! Sing! Oh, I [heart] you," Twitter, 26 June 2017, 6:01 am, [*http://web.archive.org/web/20170628051129/https://twitter.com/lin_manuel/status/879323738398916608*](http://web.archive.org/web/20170628051129/https://twitter.com/lin_manuel/status/879323738398916608). 
 
 [^36]: Immigrants: We Get the Job Done Coalition, Hispanic Federation, 2017. For a description of the project, see [*https://web.archive.org/web/20170629210853/http://hispanicfederation.org/getthejobdone/*](https://web.archive.org/web/20170629210853/http://hispanicfederation.org/getthejobdone/). 
 
@@ -1428,41 +1436,41 @@ Research conferences.
 
 [^39]: Ken Lovett, "Now Playing: Hamilton the Political Consultant," *New York Daily News*, 5 September 2016, <https://www.nydailynews.com/news/politics/playing-hamilton-political-consultant-article-1.2777740>. 
 
-[^40]: Lin-Manuel Miranda (@Lin\_Manuel), "In the meantime, we've partnered with @HispanicFed. You can donate to relief efforts here in two clicks: hispanicfederation.org/donate/," Twitter, 21 September 2017, 12:34 am, [*https://web.archive.org/web/20170921230833/https://twitter.com/Lin\_Manuel/status/910769261479677953*](https://web.archive.org/web/20170921230833/https://twitter.com/Lin_Manuel/status/910769261479677953). 
+[^40]: Lin-Manuel Miranda (@Lin_Manuel), "In the meantime, we've partnered with @HispanicFed. You can donate to relief efforts here in two clicks: hispanicfederation.org/donate/," Twitter, 21 September 2017, 12:34 am, [*https://web.archive.org/web/20170921230833/https://twitter.com/Lin_Manuel/status/910769261479677953*](https://web.archive.org/web/20170921230833/https://twitter.com/Lin_Manuel/status/910769261479677953). 
 
-[^41]: Lin-Manuel Miranda (@Lin\_Manuel), "Gmorning! The trains run so much better when my wife takes the morning shift. Let's make new paths today. hispanicfederation.org/donate," Twitter, 27 September 2017, 5:55 am, [*https://web.archive.org/web/20181231191605/https://twitter.com/Lin\_Manuel/status/913024298654273536*](https://web.archive.org/web/20181231191605/https://twitter.com/Lin_Manuel/status/913024298654273536). 
+[^41]: Lin-Manuel Miranda (@Lin_Manuel), "Gmorning! The trains run so much better when my wife takes the morning shift. Let's make new paths today. hispanicfederation.org/donate," Twitter, 27 September 2017, 5:55 am, [*https://web.archive.org/web/20181231191605/https://twitter.com/Lin_Manuel/status/913024298654273536*](https://web.archive.org/web/20181231191605/https://twitter.com/Lin_Manuel/status/913024298654273536). 
 
 [^42]: Michael Paulson, "Lin-Manuel Miranda's Passion for Puerto Rico," *New York Times*, 26 December 2018, <https://www.nytimes.com/2018/12/26/theater/hamilton-puerto-rico-lin-manuel-miranda.html>. 
 
 [^43]: For example, Paulson's article notes in passing that Miranda "conducts" his philanthropy in "collaboration with his family" but does not explain how the Hispanic Federation fits into that narrative (ibid.). 
 
-[^44]: Twitter bio for Lin-Manuel Miranda (@Lin\_Manuel), in January 2018, with varying bio photos; see figure 24, <http://web.archive.org/web/20180106034514/https:/twitter.com/lin_manuel>, and [http://web.archive.org/web/20180107153834/https://twitter.com/lin\_manuel](http://web.archive.org/web/20180107153834/https:/twitter.com/lin_manuel). 
+[^44]: Twitter bio for Lin-Manuel Miranda (@Lin_Manuel), in January 2018, with varying bio photos; see figure 24, <http://web.archive.org/web/20180106034514/https:/twitter.com/lin_manuel>, and [http://web.archive.org/web/20180107153834/https://twitter.com/lin_manuel](http://web.archive.org/web/20180107153834/https:/twitter.com/lin_manuel). 
 
 [^45]: See Lin-Manuel Miranda, as told to Frank DiGiacomo, "*Hamilton*'s Lin-Manuel Miranda on Finding Originality, Racial Politics (and Why Trump Should See His Show)," *Hollywood Reporter*, 12 August 2015, <https://www.hollywoodreporter.com/features/hamiltons-lin-manuel-miranda-finding-814657>. 
 
-[^46]: Lin-Manuel Miranda (@Lin\_Manuel), "It is literally my job to put songs in order to make you feel things. I've had a ton of practice," Twitter, 14 August 2017, 4:46 pm, [*https://web.archive.org/web/20181231000057/https://twitter.com/lin\_manuel/status/897242937788125184*](https://web.archive.org/web/20181231000057/https://twitter.com/lin_manuel/status/897242937788125184). 
+[^46]: Lin-Manuel Miranda (@Lin_Manuel), "It is literally my job to put songs in order to make you feel things. I've had a ton of practice," Twitter, 14 August 2017, 4:46 pm, [*https://web.archive.org/web/20181231000057/https://twitter.com/lin_manuel/status/897242937788125184*](https://web.archive.org/web/20181231000057/https://twitter.com/lin_manuel/status/897242937788125184). 
 
 [^47]: Elizabeth Titrington Craft, "‘Is This What It Takes Just to Make It to Broadway?!': Marketing *In the Heights* in the Twenty-First Century," *Studies in Musical Theater* 5, no. 1 (2011): 58, 62, 59. 
 
 [^48]: Ibid., 58. 
 
-[^49]: Lin-Manuel Miranda (@Lin\_Manuel), "Good morning! Woke up grateful for you, and this lady, and that guy, and everything," Twitter, 12 June 2017, 6:03 am, [*https://web.archive.org/web/20181231001111/https://twitter.com/Lin\_Manuel/status/874250737408192514*](https://web.archive.org/web/20181231001111/https://twitter.com/Lin_Manuel/status/874250737408192514). 
+[^49]: Lin-Manuel Miranda (@Lin_Manuel), "Good morning! Woke up grateful for you, and this lady, and that guy, and everything," Twitter, 12 June 2017, 6:03 am, [*https://web.archive.org/web/20181231001111/https://twitter.com/Lin_Manuel/status/874250737408192514*](https://web.archive.org/web/20181231001111/https://twitter.com/Lin_Manuel/status/874250737408192514). 
 
-[^50]: Ryan P. C. Trimble (@Ryntern), "My greatest dream is to one day reach @Lin\_Manuel levels of ‘casting myself in things I write,'" Twitter (unknown date and time); Lin-Manuel Miranda (@Lin\_Manuel), "Oh, it's easy! 1. Realize being an actor of color means no one will write your dream role for you. 2. Get to writing. 3. Repeat. Good luck!," Twitter, 22 September 2017, 3:15 pm, [*https://web.archive.org/web/20181231001344/https://twitter.com/Lin\_Manuel/status/911353178049908736*](https://web.archive.org/web/20181231001344/https://twitter.com/Lin_Manuel/status/911353178049908736). 
+[^50]: Ryan P. C. Trimble (@Ryntern), "My greatest dream is to one day reach @Lin_Manuel levels of ‘casting myself in things I write,'" Twitter (unknown date and time); Lin-Manuel Miranda (@Lin_Manuel), "Oh, it's easy! 1. Realize being an actor of color means no one will write your dream role for you. 2. Get to writing. 3. Repeat. Good luck!," Twitter, 22 September 2017, 3:15 pm, [*https://web.archive.org/web/20181231001344/https://twitter.com/Lin_Manuel/status/911353178049908736*](https://web.archive.org/web/20181231001344/https://twitter.com/Lin_Manuel/status/911353178049908736). 
 
-[^51]: Lin-Manuel Miranda (@Lin\_Manuel), "Gmorning! Take the time to tell someone you're grateful for them. Mean it. It feels good. Try it. Grateful for you, & another day. Let's go!," Twitter, 2 May 2017, 11:39 pm, [*https://web.archive.org/web/20181231001500/https://twitter.com/Lin\_Manuel/status/859658638629232640*](https://web.archive.org/web/20181231001500/https://twitter.com/Lin_Manuel/status/859658638629232640). 
+[^51]: Lin-Manuel Miranda (@Lin_Manuel), "Gmorning! Take the time to tell someone you're grateful for them. Mean it. It feels good. Try it. Grateful for you, & another day. Let's go!," Twitter, 2 May 2017, 11:39 pm, [*https://web.archive.org/web/20181231001500/https://twitter.com/Lin_Manuel/status/859658638629232640*](https://web.archive.org/web/20181231001500/https://twitter.com/Lin_Manuel/status/859658638629232640). 
 
-[^52]: Lin-Manuel Miranda (@Lin\_Manuel), "Grateful for you. Can't wait for you to see it this summer," Twitter, 19 May 2017, 9:03 am, [*https://web.archive.org/web/20181231005502/https://twitter.com/Lin\_Manuel/status/865598673278906368*](https://web.archive.org/web/20181231005502/https://twitter.com/Lin_Manuel/status/865598673278906368). 
+[^52]: Lin-Manuel Miranda (@Lin_Manuel), "Grateful for you. Can't wait for you to see it this summer," Twitter, 19 May 2017, 9:03 am, [*https://web.archive.org/web/20181231005502/https://twitter.com/Lin_Manuel/status/865598673278906368*](https://web.archive.org/web/20181231005502/https://twitter.com/Lin_Manuel/status/865598673278906368). 
 
-[^53]: Lin-Manuel Miranda (@Lin\_Manuel), "I can't wait for you to meet Moana," Twitter, 6 January 2016, 6:26 am, [*https://web.archive.org/web/20181231005718/https://twitter.com/lin\_manuel/status/684742849892642817*](https://web.archive.org/web/20181231005718/https://twitter.com/lin_manuel/status/684742849892642817). 
+[^53]: Lin-Manuel Miranda (@Lin_Manuel), "I can't wait for you to meet Moana," Twitter, 6 January 2016, 6:26 am, [*https://web.archive.org/web/20181231005718/https://twitter.com/lin_manuel/status/684742849892642817*](https://web.archive.org/web/20181231005718/https://twitter.com/lin_manuel/status/684742849892642817). 
 
-[^54]: Lin-Manuel Miranda (@Lin\_Manuel), "Texas, we are thinking about you and we love you and we're here for you. Be safe. [heart] [heart] [heart] [heart] [heart]," Twitter, 25 August 2017, 7:58 am, [*https://web.archive.org/web/20181231010452/https://twitter.com/Lin\_Manuel/status/901096336862449669*](https://web.archive.org/web/20181231010452/https://twitter.com/Lin_Manuel/status/901096336862449669); "[Puerto Rican flag], your children and grandchildren are out here praying for you. Stay safe," Twitter, 18 September 2017, 2:41 pm, [*https://web.archive.org/web/20181231010634/https://twitter.com/Lin\_Manuel/status/909895086061887488*](https://web.archive.org/web/20181231010634/https://twitter.com/Lin_Manuel/status/909895086061887488). 
+[^54]: Lin-Manuel Miranda (@Lin_Manuel), "Texas, we are thinking about you and we love you and we're here for you. Be safe. [heart] [heart] [heart] [heart] [heart]," Twitter, 25 August 2017, 7:58 am, [*https://web.archive.org/web/20181231010452/https://twitter.com/Lin_Manuel/status/901096336862449669*](https://web.archive.org/web/20181231010452/https://twitter.com/Lin_Manuel/status/901096336862449669); "[Puerto Rican flag], your children and grandchildren are out here praying for you. Stay safe," Twitter, 18 September 2017, 2:41 pm, [*https://web.archive.org/web/20181231010634/https://twitter.com/Lin_Manuel/status/909895086061887488*](https://web.archive.org/web/20181231010634/https://twitter.com/Lin_Manuel/status/909895086061887488). 
 
-[^55]: Lin-Manuel Miranda (@Lin\_Manuel), "Dreamers, this is news for you. What is not news but also true: millions of Americans have your back and are fighting for you," Twitter, 8 September 2017, 8:26 am, [*https://web.archive.org/web/20181231010851/https://twitter.com/Lin\_Manuel/status/906176961998979072*](https://web.archive.org/web/20181231010851/https://twitter.com/Lin_Manuel/status/906176961998979072). 
+[^55]: Lin-Manuel Miranda (@Lin_Manuel), "Dreamers, this is news for you. What is not news but also true: millions of Americans have your back and are fighting for you," Twitter, 8 September 2017, 8:26 am, [*https://web.archive.org/web/20181231010851/https://twitter.com/Lin_Manuel/status/906176961998979072*](https://web.archive.org/web/20181231010851/https://twitter.com/Lin_Manuel/status/906176961998979072). 
 
-[^56]: Lin-Manuel Miranda (@Lin\_Manuel), "@realDonaldTrump 3.5 Million Americans are waiting for you," Twitter, 25 September, 7:28 am, [*https://web.archive.org/web/20181231011019/https://twitter.com/Lin\_Manuel/status/912323044269490184*](https://web.archive.org/web/20181231011019/https://twitter.com/Lin_Manuel/status/912323044269490184); "You're going straight to hell, @realDonaldTrump. No long lines for you. Someone will say, ‘Right this way, sir.' They'll clear a path," Twitter, 30 September 2017, 5:21 am, [*https://web.archive.org/web/20181231011144/https://twitter.com/Lin\_Manuel/status/914102927744217088*](https://web.archive.org/web/20181231011144/https://twitter.com/Lin_Manuel/status/914102927744217088). 
+[^56]: Lin-Manuel Miranda (@Lin_Manuel), "@realDonaldTrump 3.5 Million Americans are waiting for you," Twitter, 25 September, 7:28 am, [*https://web.archive.org/web/20181231011019/https://twitter.com/Lin_Manuel/status/912323044269490184*](https://web.archive.org/web/20181231011019/https://twitter.com/Lin_Manuel/status/912323044269490184); "You're going straight to hell, @realDonaldTrump. No long lines for you. Someone will say, ‘Right this way, sir.' They'll clear a path," Twitter, 30 September 2017, 5:21 am, [*https://web.archive.org/web/20181231011144/https://twitter.com/Lin_Manuel/status/914102927744217088*](https://web.archive.org/web/20181231011144/https://twitter.com/Lin_Manuel/status/914102927744217088). 
 
-[^57]: Lin-Manuel Miranda (@Lin\_Manuel), "Heartbroken and frustrated by the images and stories out of Puerto Rico after yesterday's protests. If anyone's got cause to peacefully protest their treatment at the hands of government, it's the people of Puerto Rico," Twitter, 2 May 2018, 1:51 pm, [*https://web.archive.org/web/20181231191105/https://twitter.com/lin\_manuel/status/991782264659939328*](https://web.archive.org/web/20181231191105/https://twitter.com/lin_manuel/status/991782264659939328). 
+[^57]: Lin-Manuel Miranda (@Lin_Manuel), "Heartbroken and frustrated by the images and stories out of Puerto Rico after yesterday's protests. If anyone's got cause to peacefully protest their treatment at the hands of government, it's the people of Puerto Rico," Twitter, 2 May 2018, 1:51 pm, [*https://web.archive.org/web/20181231191105/https://twitter.com/lin_manuel/status/991782264659939328*](https://web.archive.org/web/20181231191105/https://twitter.com/lin_manuel/status/991782264659939328). 
 
 [^58]: For comparison, see a tweet posted on 1 May 2018 by Yarimar Bonilla (@yarimarbonilla), professor of anthropology at Rutgers University, concerning the violent government response to the protests: "Day of protest in PuertoRico ends w/tear gassed children, students, journalists + seemingly unlawful arrests of important activists and overwhelming spectacular police force. Then the governor tells @NPR reporters once again that he sees Puerto Rico as a blank slate"; [*https://web.archive.org/web/20181228014209/https://twitter.com/yarimarbonilla/status/991444555030507520*](https://web.archive.org/web/20181228014209/https://twitter.com/yarimarbonilla/status/991444555030507520). 
 

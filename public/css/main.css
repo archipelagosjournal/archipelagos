@@ -410,6 +410,7 @@ span.caption {
 
 /* Tables */
 table {
+  table-layout: auto;
   margin-bottom: 1rem;
   width: 100%;
   border: 1px solid #e5e5e5;
@@ -417,7 +418,10 @@ table {
   border-spacing: 0;
   display: block;
   overflow-x:auto;
+  margin-top: 2rem;
 }
+
+
 td,
 th {
   padding: .25rem .5rem;
