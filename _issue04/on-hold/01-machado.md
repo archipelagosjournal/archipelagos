@@ -9,12 +9,12 @@ author:
 - name: Elena Machado Sáez
   shortname: Machado Sáez
   bio: >
-    Elena Machado Sáez is a professor of English at Bucknell University. She is the author of *Market Aesthetics: The Purchase of the Past in Caribbean Diasporic Fiction* (University of Virginia Press, 2015) and a coauthor of *The Latino/a Canon and the Emergence of Post-Sixties Literature* (Palgrave Macmillan, 2007). She recently published “Blackout on Broadway: Affiliation and Audience in *In the Heights* and *Hamilton*” in a special issue of *Studies in Musical Theater* (2018). Her essay “Generation MFA: Neoliberalism and the Shifting Cultural Capital of US Latinx Writers” appears in the journal *Latino Studies *(2018), and her chapter “Bodega Sold Dreams: Middle-Class Panic and the Crossover Aesthetics of *In the Heights*” appears in *Dialectical Imaginaries: Materialist Approaches to US Latino/a Literature in the Age of Neoliberalism* (University of Michigan Press, 2018). 
+    Elena Machado Sáez is a professor of English at Bucknell University. She is the author of *Market Aesthetics: The Purchase of the Past in Caribbean Diasporic Fiction* (University of Virginia Press, 2015) and a coauthor of *The Latino/a Canon and the Emergence of Post-Sixties Literature* (Palgrave Macmillan, 2007). She recently published "Blackout on Broadway: Affiliation and Audience in *In the Heights* and *Hamilton*" in a special issue of *Studies in Musical Theater* (2018). Her essay "Generation MFA: Neoliberalism and the Shifting Cultural Capital of US Latinx Writers" appears in the journal *Latino Studies *(2018), and her chapter "Bodega Sold Dreams: Middle-Class Panic and the Crossover Aesthetics of *In the Heights*" appears in *Dialectical Imaginaries: Materialist Approaches to US Latino/a Literature in the Age of Neoliberalism* (University of Michigan Press, 2018). 
 date: May 2016
 issue: 4
 order: 1
 abstract: >
-  This essay, which engages in an analysis of Lin-Manuel Miranda’s invocation of “for you” on Twitter in comparison to those of twelve other US Latinx writers, has two goals: to identify broader key trends in the discursive strategies used on Latinx Twitter and to make the case for the urgent need to ethically document and archive contemporary Latinx Twitter production. The author moves in the direction of generating a public academic archive of Latinx Twitter by publishing online a limited corpus of Miranda’s “for you” tweets as well as comparative visualizations of how Miranda’s use of “for you” in tweets parallels and differs from other Latinx writers’. In addition to modeling the flawed process of archive-building in the hopes of encouraging other scholars to thoughtfully share their own Twitter archive processes, this essay analyzes the strategies used by some US Latinx creative writers to navigate Twitter and how these strategies may speak to the writers’ understanding of the relationship between institutions, audiences, and aesthetics. It specifically highlights the digital work of Cuban American playwright Marissa Chibas, Puerto Rican poet Rich Villar, and Puerto Rican writer Charlie Vázquez on Twitter as a counternarrative to Miranda’s aesthetics. Much work remains to be done in order to understand how Twitter acts as a vehicle for Miranda and the multitude of US Latinx writers who connect with audiences and each other as a means of translating emotion into action or profit or something else altogether.
+  This essay, which engages in an analysis of Lin-Manuel Miranda's invocation of "for you" on Twitter in comparison to those of twelve other US Latinx writers, has two goals: to identify broader key trends in the discursive strategies used on Latinx Twitter and to make the case for the urgent need to ethically document and archive contemporary Latinx Twitter production. The author moves in the direction of generating a public academic archive of Latinx Twitter by publishing online a limited corpus of Miranda's "for you" tweets as well as comparative visualizations of how Miranda's use of "for you" in tweets parallels and differs from other Latinx writers'. In addition to modeling the flawed process of archive-building in the hopes of encouraging other scholars to thoughtfully share their own Twitter archive processes, this essay analyzes the strategies used by some US Latinx creative writers to navigate Twitter and how these strategies may speak to the writers' understanding of the relationship between institutions, audiences, and aesthetics. It specifically highlights the digital work of Cuban American playwright Marissa Chibas, Puerto Rican poet Rich Villar, and Puerto Rican writer Charlie Vázquez on Twitter as a counternarrative to Miranda's aesthetics. Much work remains to be done in order to understand how Twitter acts as a vehicle for Miranda and the multitude of US Latinx writers who connect with audiences and each other as a means of translating emotion into action or profit or something else altogether.
 language: en
 ---
 
@@ -25,53 +25,53 @@ Introduction
 On 17 July 2018, Nuyorican playwright Lin-Manuel Miranda tweeted about
 his forthcoming book from Random House, *Gmorning, Gnight! Little Pep
 Talks for Me and You*.[^1] Framing it as a cultural product that was
-created with a specific audience in mind, Miranda explained, “At YOUR
-request, we made a book.”[^2]
+created with a specific audience in mind, Miranda explained, "At YOUR
+request, we made a book."[^2]
 
 {% include image.html
   img="figure-1.png"
-  caption="Figure 1. Miranda’s *Little Pep Talks* marketing."
+  caption="Figure 1. Miranda's *Little Pep Talks* marketing."
   url="https://web.archive.org/web/20180717122340/https://twitter.com/lin\_manuel/status/1019190030387073025" %}
 
-Miranda’s use of “you” on Twitter more generally reflects a strategic
+Miranda's use of "you" on Twitter more generally reflects a strategic
 invocation of his audience. The direct address cultivates intimacy with
 an assumed universal subject, in the sense that the follower is not
 identified in terms of gender, race, class, or sexuality. Adopting a
 grateful caretaker persona, Miranda provides his followers with a daily
 routine of feeling appreciated and valued, while also offering advice
 about how to adopt a more hopeful and productive outlook on life.
-Miranda’s performance of his public persona on social media is of
+Miranda's performance of his public persona on social media is of
 particular importance because he is one of the US Latinx writers with
 the largest followings on Twitter, having broken the
 two-million-follower mark in December 2017. A constant stream of
 content, whether in the form of a greeting routine or music playlists,
-sustains a dynamic of intimacy on Miranda’s Twitter feed. In turn, his
+sustains a dynamic of intimacy on Miranda's Twitter feed. In turn, his
 Twitter aesthetic relies on the creation of an emotional debt economy:
 providing an excess of expressions of appreciation and gratitude for his
 followers so that they feel indebted to him. Appeals to emotion enable
 Miranda to mobilize his followers and their purchasing power. Miranda
 encourages his followers to invest their time and money in his career as
 an artist and in various humanitarian causes. Often blurring the line
-between the personal, the profitable, and the political, Miranda’s
+between the personal, the profitable, and the political, Miranda's
 Twitter production is productively contextualized by reviewing his prior
 marketing strategies for the 2008 Broadway musical *In the Heights* and
 his family background in political lobbying.[^3]
 
-This essay engages in a comparative analysis of Miranda’s invocation of
-“for you” on Twitter with that of twelve other US Latinx writers with
+This essay engages in a comparative analysis of Miranda's invocation of
+"for you" on Twitter with that of twelve other US Latinx writers with
 two goals: to identify broader key trends in the discursive strategies
 used on Latinx Twitter as well as to make the case for the urgent need
 to ethically document and archive contemporary Latinx Twitter
 production. I specifically highlight the digital work of Cuban American
 playwright Marissa Chibas, Puerto Rican poet Rich Villar, and Puerto
 Rican writer Charlie Vázquez on Twitter as a counternarrative to
-Miranda’s aesthetics. US Latinx cultural producers deploy diversity of
+Miranda's aesthetics. US Latinx cultural producers deploy diversity of
 aesthetic forms when engaging Twitter as a discursive space. In the
-words of theater scholar Patricia Ybarra, there exists a “temptation”
-among academics to read US Latinx cultural production as “reveal\[ing\]
-an unmediated truth about US Latinx life,” which in turn leads them to
-look to such texts “primarily for content, without giving much attention
-to form.”[^4] My comparative approach to the landscape of US Latinx
+words of theater scholar Patricia Ybarra, there exists a "temptation"
+among academics to read US Latinx cultural production as "reveal[ing]
+an unmediated truth about US Latinx life," which in turn leads them to
+look to such texts "primarily for content, without giving much attention
+to form."[^4] My comparative approach to the landscape of US Latinx
 Twitter therefore seeks to avoid this ethnographic lens by addressing
 both the form and content of social media work by US Latinx writers.
 
@@ -80,33 +80,33 @@ Social Media, Surveillance, and Affect
 
 How Miranda uses Twitter, the way in which he strategically blurs the
 boundaries between public and private life, is intimately connected to
-the platform’s surveillance and labor dynamics. Twitter’s homepage
-invites the reader to “see what’s happening in the world right now,”
+the platform's surveillance and labor dynamics. Twitter's homepage
+invites the reader to "see what's happening in the world right now,"
 situating the social networking service as an entryway into a
 contemporary and global public sphere.[^5] The implication is that we
 will enter Twitter primarily as observers who will gain access to a
 big-picture perspective on contemporary events; however, the power
-dynamics behind one’s participation in this public sphere are more
+dynamics behind one's participation in this public sphere are more
 complicated than such advertising indicates. In defining the dynamics of
-our contemporary public sphere, I borrow from Christopher Balme’s *The
-Theatrical Public Sphere*, which conceptualizes it as a “discursive
+our contemporary public sphere, I borrow from Christopher Balme's *The
+Theatrical Public Sphere*, which conceptualizes it as a "discursive
 arena located between private individuals on the one hand and state
-bureaucracy and business on the other” and thereby “occup\[ying\] a
+bureaucracy and business on the other" and thereby "occup[ying] a
 crucial role in the functioning of so-called free or open
-societies.”[^6] Twitter forms part of a broader shift in terms of where
-public discourse now occurs. Indeed, Balme notes that “changing notions
-of spectatorship and publics” have accompanied the “explosion of
-Internet communication \[and\] use of social media,” while leading to
-questions about “production structures” and how they can be “controlled
-or manipulated.”[^7] Private corporations play a more central role in
+societies."[^6] Twitter forms part of a broader shift in terms of where
+public discourse now occurs. Indeed, Balme notes that "changing notions
+of spectatorship and publics" have accompanied the "explosion of
+Internet communication [and] use of social media," while leading to
+questions about "production structures" and how they can be "controlled
+or manipulated."[^7] Private corporations play a more central role in
 generating spaces for public discourse, with such spaces codified
 according to the logic of profit extraction. As Dorothy Kim argues in
-“The Rules of Twitter,” these platforms “have usurped mainstream media
+"The Rules of Twitter," these platforms "have usurped mainstream media
 as the main and primary source of on-the-ground, archived, filtered, and
-live information.”[^8] The parameters that Twitter uses to structure
+live information."[^8] The parameters that Twitter uses to structure
 discursive exchange matter. After all, as Dorothy Kim and Eunsong Kim
-note in “The \#TwitterEthics Manifesto,” “Twitter is a closed, private
-corporation,” and, as such, its discursive world is motivated by
+note in "The \#TwitterEthics Manifesto," "Twitter is a closed, private
+corporation," and, as such, its discursive world is motivated by
 profit.[^9] And yet, the lack of transparency makes it challenging to
 discern how the corporation dictates the terms of social engagement.
 
@@ -114,39 +114,39 @@ The domination of the public sphere by social media has blurred the
 boundary between cultural producer and consumer, in part because of how
 central surveillance is to the exchange of information that takes place
 on Twitter. When we enter Twitter, we are not merely watching the world
-“happen”; we ourselves are being watched. Surveillance is fundamental to
+"happen"; we ourselves are being watched. Surveillance is fundamental to
 the profit logic of social media, with the data extracted from the
 analysis of our behavior translated into the commodity for sale.
 Elizabeth Losh helpfully describes in *Hashtag* the way profit is
-generated, with social media companies “offering supposedly free content
+generated, with social media companies "offering supposedly free content
 via targeted advertising and the sale of user data that depends upon
-intimate knowledge of users’ personal preferences, emotional sentiments,
-and social relations that had previously been unmonetized.”[^10] By
-extension, access to the “free” exchange of ideas on Twitter is given in
+intimate knowledge of users' personal preferences, emotional sentiments,
+and social relations that had previously been unmonetized."[^10] By
+extension, access to the "free" exchange of ideas on Twitter is given in
 exchange for the implicit surrender of our selves to corporate
 surveillance. Our understanding of surveillance, as Sydette Harry points
-out, has been historically defined as “an activity of Big Brother–style”
-governance, which limits our ability to perceive the “fannish adulation
-and social enmeshment” on social media as part and parcel of its profit
+out, has been historically defined as "an activity of Big Brother–style"
+governance, which limits our ability to perceive the "fannish adulation
+and social enmeshment" on social media as part and parcel of its profit
 logic.[^11] Surveillance on social media is essentially obligatory if
 one wants to engage in the public sphere. Harry provides a useful
 definition of surveillance that situates a lack of consent as integral
 to its power:
 
-&gt;Surveillance is based on a presumption of entitlement to access, by
+> Surveillance is based on a presumption of entitlement to access, by
 right and by force. More importantly, it hinges on the belief that those
 surveilled will not be able to reject surveillance—either due to the
 consequences of resisting, or the stealth of the observance. They either
-won’t say no, or they can’t.[^12]
+won't say no, or they can't.[^12]
 
 On the one hand, we are invited by Twitter to feel entitled to access
 the world of others, while at the same time, the lack of transparency
 about what lies behind its interface means that we do not fully know how
 or who is entitled to derive profit from our discursive production
-online. Harry emphasizes that “as opting into surveillance becomes
+online. Harry emphasizes that "as opting into surveillance becomes
 increasingly mandatory to participate in societies and platforms,
 surveillance has been woven into the fabric of our lives in ways we can
-not readily reject.”[^13] The unique network of shared intimacies that
+not readily reject."[^13] The unique network of shared intimacies that
 social media cultivates enables many marginalized peoples to thrive,
 which means that finding community online is essential to social
 survival. As such, the problem of surveillance is not one that can be
@@ -156,39 +156,39 @@ social support in this contemporary world. It is important to
 acknowledge, however, that while consent to surveillance is assumed by
 the platforms like Twitter, that does not mean it is actually given.
 
-I am particularly interested in critiques of social media’s social
+I am particularly interested in critiques of social media's social
 surveillance logics that focus on how the exploitation of discursive
 production online is based on an emotional debt economy. The
 intersection of affect and labor on Twitter is best described by Lisa
-Nakamura in her essay “The Unwanted Labour of Social Media: Women of
-Colour Call Out Culture as Venture Community Management,” in which she
+Nakamura in her essay "The Unwanted Labour of Social Media: Women of
+Colour Call Out Culture as Venture Community Management," in which she
 explains that the profit logic of social media platforms relies on
-“crowd-sourced labour of internet users” and that such “labour is
-uncompensated by wages, \[and\] paid instead by affective currencies
-such as ‘likes,’ followers, and occasionally, acknowledgement or praise
-from the industry.”[^14] The labor is not merely compensated through
-“affective currency.” Venues such as Twitter become discursive spaces
-that are “fun, easy, and safe to use” because of producers whose
-“openness towards forming new relationships with strangers who want or
-need them” allow for “the provision of free advice.” While Nakamura aims
-to render visible the “feminised” and “devalued” labor of women of color
+"crowd-sourced labour of internet users" and that such "labour is
+uncompensated by wages, [and] paid instead by affective currencies
+such as ‘likes,' followers, and occasionally, acknowledgement or praise
+from the industry."[^14] The labor is not merely compensated through
+"affective currency." Venues such as Twitter become discursive spaces
+that are "fun, easy, and safe to use" because of producers whose
+"openness towards forming new relationships with strangers who want or
+need them" allow for "the provision of free advice." While Nakamura aims
+to render visible the "feminised" and "devalued" labor of women of color
 on social media platforms, I also find her description of this unique
-labor market useful for understanding Miranda’s Twitter aesthetics.[^15]
+labor market useful for understanding Miranda's Twitter aesthetics.[^15]
 As a cultural creative who has strengthened his visibility through
 social media platforms such as YouTube and Twitter, Miranda is not part
 of this exploited class. Rather, he strategically makes intimacy and
 affect central to his discursive performance on Twitter, and in so
-doing, gains the social “recognition and responsibility” to lobby for
+doing, gains the social "recognition and responsibility" to lobby for
 his creative and financial investments.[^16] Miranda uses the affective
 dynamics of the debt economy on Twitter to accrue both social and
 economic capital.
 
-In the spirit of Macarena Gómez-Barris’s call to “reorient our study
+In the spirit of Macarena Gómez-Barris's call to "reorient our study
 toward the creative praxis and submerged perspectives that are found
-beneath or at the edge of the dominant political tide,” I have
+beneath or at the edge of the dominant political tide," I have
 endeavored to offer a comparative analysis of Miranda, placing his
 Twitter production alongside that of other US Latinx authors.[^17] I
-will argue that Miranda’s use of Twitter differs from the way most US
+will argue that Miranda's use of Twitter differs from the way most US
 Latinx writers engage the platform, and for this reason, my engagement
 with those Latinx creatives also differs. While Miranda conceives of
 Twitter as a platform for self-promotion, I endeavor to be attentive to
@@ -198,22 +198,22 @@ survival, and community-building, I consider these Twitter feeds to be
 governed by a different set of power dynamics. I believe that my
 citation practices require an acknowledgement of how their cultural
 production is vulnerable to exploitation within the affective
-marketplace of Twitter in a way that Miranda’s is not. For the writers
+marketplace of Twitter in a way that Miranda's is not. For the writers
 whose tweets I wanted to reproduce in full here, I requested their
 permission to cite their work and, in so doing, I attempted to follow
 the directives for ethical academic work laid out by Dorothy Kim in her
-essay “Social Media and Academic Surveillance: The Ethics of Digital
-Bodies.” Kim condemns current practices of academic research that entail
+essay "Social Media and Academic Surveillance: The Ethics of Digital
+Bodies." Kim condemns current practices of academic research that entail
 the harvesting of Twitter production by people of color, challenging the
 claim that such production is in the public dominion and therefore does
-not require “permission, consent, conversation, and discussion.” She
-emphasizes the surveillance logic of Twitter as a “panoptic medium” and
-“digital publics” that is “subject to the same problems of surveillance
-and ethics we find in geographical space.” By sharing a draft of this
+not require "permission, consent, conversation, and discussion." She
+emphasizes the surveillance logic of Twitter as a "panoptic medium" and
+"digital publics" that is "subject to the same problems of surveillance
+and ethics we find in geographical space." By sharing a draft of this
 essay with Marissa Chibas, Rich Villar, and Charlie Vázquez prior to
 publication and requesting permission to cite their tweets, I hope that
-I express respect for the labor that went into producing the “digital
-intellectual property” of US Latinx creative writers.[^18] This means
+I express respect for the labor that went into producing the "digital
+intellectual property" of US Latinx creative writers.[^18] This means
 not merely publishing their tweets with their consent, but sharing with
 them the context within which I am placing their work, providing them
 with the opportunity to speak back to my research and writing process as
@@ -224,7 +224,7 @@ consent, I often get the response that the process for citing tweets
 should be similar to citing a published literary work. We do not ask a
 creative writer for permission to cite their literary production, so why
 should we ask for permission to cite a tweet? I want to reiterate here
-that the “public” text of Twitter production is governed by power
+that the "public" text of Twitter production is governed by power
 dynamics different from those of the traditional object of literary
 study, a published book. Shoshana Zuboff discusses a similar false
 equivalency in *The Age of Surveillance Capitalism*, while detailing the
@@ -233,13 +233,13 @@ Decency Act. She observes that a journalist translated the import of
 this section by noting that an internet company should not be sued for
 the malicious content they publish just as a public library would not be
 sued for holding a copy of a controversial book. Zuboff helpfully
-challenges this comparison by underscoring how an individual’s
+challenges this comparison by underscoring how an individual's
 interaction with a website as public space does not operate in the same
 way as with a public library, the primary difference being that an
 individual interacting with a website becomes a resource to be
 commodified and exploited:
 
-&gt;Under the regime of surveillance capitalism, content is a source of
+> Under the regime of surveillance capitalism, content is a source of
 behavioral surplus, as is the behavior of the people who enter the
 content, as are their patterns of connection, communication, and
 mobility, their thoughts and feelings, and the meta-data expressed in
@@ -247,8 +247,8 @@ their emoticons, exclamation points, lists, contradictions, and
 salutations.[^19]
 
 By contrast, the text we researchers find on a bookshelf in the library
-is not tagged with “the records of anyone who may have touched it and
-when, their behavior, networks, and so on.” My scholarly relationship to
+is not tagged with "the records of anyone who may have touched it and
+when, their behavior, networks, and so on." My scholarly relationship to
 the production of Latinx writers on Twitter therefore cannot be the same
 as my relationship to their literary production of published poetry,
 plays, and fiction. Their tweets are part of a surveillance marketplace,
@@ -258,25 +258,24 @@ complicit with the forces that commodify their creative production
 online. Much of the meaning I can ascribe to their tweets is facilitated
 by the fact that social media giants—or as Zuboff calls them, the
 surveillance capitalists—have created a platform that functions as a
-“diamond mine ready for excavation and plunder, to be rendered into
+"diamond mine ready for excavation and plunder, to be rendered into
 behavioral data and fed to machines on their way to product fabrication
-and sales.”[^20]
+and sales."[^20]
 
 At the same time, I must acknowledge that the pseudo-restorative justice
 process I embark on to acknowledge the labor of US Latinx writers on
 Twitter is aspirational. That process is always a failure because there
 is no real way to decouple the tweets from the surveillance dynamics
-that they are born into. In addition, I came across Dorothy Kim’s work
+that they are born into. In addition, I came across Dorothy Kim's work
 on ethics and Twitter *after* I had already performed the research and
 writing stages for this project. I pulled tweets, generated charts, and
 analyzed these materials before I was able to find the language to
 articulate the profound discomfort I experienced while doing all this.
 To my friends and colleagues, I apologetically described myself as a
-“lurker” on Twitter because I had a Twitter account but no feed; I was
+"lurker" on Twitter because I had a Twitter account but no feed; I was
 only there to observe out of academic interest. At the same time, I felt
 that I was an interloper, that I was trespassing on conversations that
-did not necessarily imagine me as a listener. I encountered Kim’s “The
-\#TwitterEthics Manifesto” as part of a course she cotaught with Angel
+did not necessarily imagine me as a listener. I encountered Kim's "The #TwitterEthics Manifesto" as part of a course she cotaught with Angel
 Nieves at the Digital Humanities Institute held at the University of
 Victoria in June 2019. Reading it, I was so grateful to finally have a
 language by which to explain why and how the research process disturbed
@@ -304,31 +303,31 @@ I contacted Chibas, Villar, and Vázquez via e-mail during September
 2019, requesting permission to cite their tweets in my essay. In the
 message, I explained my project and my goal of publishing it an academic
 journal, while also sharing an essay draft so they could assess how I
-framed and analyzed their tweets. I closed the message by stating, “If
+framed and analyzed their tweets. I closed the message by stating, "If
 you don't reply to my query by October 15th, I'll assume that your
-preference is that I do NOT cite your tweets.”[^21] My choice of an
-“opt-in” process was informed by the collaborative essay “The Ethical
-Challenges of Publishing Twitter Data for Research Dissemination,”
-shared by my colleague Christian Howard. The essay’s coauthors
+preference is that I do NOT cite your tweets."[^21] My choice of an
+"opt-in" process was informed by the collaborative essay "The Ethical
+Challenges of Publishing Twitter Data for Research Dissemination,"
+shared by my colleague Christian Howard. The essay's coauthors
 understand the primary challenge of Twitter research to be grounded in
-how scholars address “fundamental ethical principles such as the
-minimization of harm and the value of informed consent.” The researchers
-explain that with the “collection of Twitter data, informed consent for
+how scholars address "fundamental ethical principles such as the
+minimization of harm and the value of informed consent." The researchers
+explain that with the "collection of Twitter data, informed consent for
 data collection is typically based on user acceptance of its Terms of
-Service.”[^22] Of course, “social media users are unlikely to read or
-remember” these documents for social media platforms, “undermining the
-assumption that informed consent has been given.”[^23] Owing to an
-“absence of consensus” about best practices for consent, I chose to
+Service."[^22] Of course, "social media users are unlikely to read or
+remember" these documents for social media platforms, "undermining the
+assumption that informed consent has been given."[^23] Owing to an
+"absence of consensus" about best practices for consent, I chose to
 follow the opt-in model because I would be able to assume a nonreply as
 an absence of consent.[^24] Chibas and Vázquez both replied to my
 queries and e-mailed their permission, while Villar did not reply to two
 separate e-mail requests. Chibas responded on 29 September with the
-message, “I briefly looked over your doc and it seems just fine to
-me. That is quite a substantial piece you are working on.” Vázquez
-replied on 20 September, saying, “How very cool…go ahead and use what
-you would like. Thanks for including me.”[^25] In addition to
+message, "I briefly looked over your doc and it seems just fine to
+me. That is quite a substantial piece you are working on." Vázquez
+replied on 20 September, saying, "How very cool…go ahead and use what
+you would like. Thanks for including me."[^25] In addition to
 incorporating and analyzing the tweets by Chibas and Vázquez, I embed in
-this essay the gaps produced by Villar’s nonconsent so that my writing
+this essay the gaps produced by Villar's nonconsent so that my writing
 symbolically evokes the gaps in my research argument now that my
 citation of Villar is not ethically possible—and to document my failure
 to request the consent of the rest of the US Latinx writers I include
@@ -337,8 +336,7 @@ and Villar tweets in the hope that it more powerfully conveys the
 cautionary tale I want to tell about the Twitter data collection process
 and its inherent surveillance.
 
-Digital Tools and Methodology
------------------------------
+## Digital Tools and Methodology
 
 Since May 2017, I have been accumulating archives of tweets for more
 than one hundred Latinx creative writers, from poets to playwrights,
@@ -352,19 +350,17 @@ Ricans, and Cuban Americans, to relatively more recent diasporas of the
 Dominican Republic, Central America, and South America. I used Voyant to
 visualize word patterns and social networks on US Latinx Twitter.
 Additionally, I created a searchable archive using the program Oxygen
-and then converted a portion of Lin-Manuel Miranda’s Twitter archive
+and then converted a portion of Lin-Manuel Miranda's Twitter archive
 into HTML (hypertext markup language), posting online a temporally
-limited collection of “for you” tweets that appeared from May 2017 to
+limited collection of "for you" tweets that appeared from May 2017 to
 January 2018.[^26]
 
-% include image.html
+{% include image.html
+  img="figure-2.png"
+  caption="Figure 2. An online archive of Miranda's \"for you\" tweets."
+%}
 
-img="\[figure-2.png\]"
-
-caption="\[Figure 2. An online archive of Miranda’s “for you” tweets.\]"
-%
-
-With the aim of distinguishing the unique qualities of Miranda’s Twitter
+With the aim of distinguishing the unique qualities of Miranda's Twitter
 use, I created text files for over forty other Latinx writers using TAGS
 and Twitter Archiver so as to perform a comparative analysis. These
 writers included Chantel Acevedo, Daniel Alarcon, John Manuel Arias,
@@ -388,17 +384,15 @@ Miranda, I also kept in mind how prolific these writers were, with the
 goal of selecting those who maintained an active presence on Twitter by
 posting original tweets or retweeting.
 
-% include image.html
+{% include image.html
+  img="figure-3.ods"
+  caption="Figure 3. Comparison by number of followers." 
+%}
 
-img="\[figure-3.ods\]"
-
-caption="\[Figure 3. Comparison by number of followers.\]" %
-
-% include image.html
-
-img="\[figure-4.ods\]"
-
-caption="\[Figure 4. Comparison by number of tweets.\]" %
+{% include image.html
+  img="figure-4.ods"
+  caption="Figure 4. Comparison by number of tweets." 
+%}
 
 The resulting list of twelve writers is therefore a cross-section of
 those Latinx authors with the most followers and the most active tweet
@@ -407,114 +401,104 @@ production during approximately a six-month window, from May to November
 with Miranda, I cleaned the text files of the Twitter archives by
 removing duplicates, uploading them to Voyant, and editing the list of
 stopwords in order to visualize the patterns and distinguishing features
-of each Latinx writers’ Twitter use.
+of each Latinx writers' Twitter use.
 
-% include image.html
+{% include image.html
+  img="figure-5.png"
+  caption="Figure 5. Twitter profiles of twelve Latinx writers." 
+%}
 
-img="\[figure-5.png\]"
-
-caption="\[Figure 5. Twitter profiles of twelve Latinx writers.\]" %
-
-Voyant’s term-analysis function and trend-line graph help us compare the
+Voyant's term-analysis function and trend-line graph help us compare the
 Twitter data for Miranda and the twelve other writers. I analyzed the
 top twenty-five most frequently occurring words in the archive using
-Voyant. Normally, the word “you” is listed as a stopword, so it gets
+Voyant. Normally, the word "you" is listed as a stopword, so it gets
 pulled out of analysis when analyzing a large corpus. I decided to
-remove from the stopword list terms of self-representation (“I,” “am,”
-“be”) and affiliation language (“you,” “your,” “we,” “us,” “our”) in
-order to get a better picture of the distinctive uses of “you” in Latinx
+remove from the stopword list terms of self-representation ("I," "am,"
+"be") and affiliation language ("you," "your," "we," "us," "our") in
+order to get a better picture of the distinctive uses of "you" in Latinx
 Twitter. I also added common usernames, tags, and handles to the
 stopwords list in order to center the Voyant analysis on the language
 content of the tweets. The list of the top twenty-five most frequently
 occurring words in the archive therefore highlighted the terminology
 used to reference audience and community. A distinctive feature of the
 data for the twelve Latinx writers is the predominance of terms such as
-“we,” “Trump,” “people,” and “white,” which reflect the centrality of
+"we," "Trump," "people," and "white," which reflect the centrality of
 contemporary political discourse and cultural critique on their Twitter
 feeds. Latinx writers are using Twitter as a space to address President
-Donald Trump’s nationalist platform and respond directly to the
-president’s stoking of racism and anti-immigrant fervor. There is also a
+Donald Trump's nationalist platform and respond directly to the
+president's stoking of racism and anti-immigrant fervor. There is also a
 discursive balance present between the use of individualist terms such
-as “I,” “my,” and “me” and references to the communal with “we,” “us,”
-and “our.” While “Trump” is a popular term found in Miranda’s tweets, it
-is not in his top twenty-five words. Miranda’s vocabulary is distinctive
-because of the prevalence of earnest intimacy terms (“good,” ‘thanks,”
-“love,” “like”) and time (“day,” “morning,” “night”). The relationship
-between Miranda’s self and an individual other dominates the wordcloud,
-with the references to “I,” “I’m,” “my,” and “me” alongside “you” and
-“your.”
+as "I," "my," and "me" and references to the communal with "we," "us,"
+and "our." While "Trump" is a popular term found in Miranda's tweets, it
+is not in his top twenty-five words. Miranda's vocabulary is distinctive
+because of the prevalence of earnest intimacy terms ("good," ‘thanks,"
+"love," "like") and time ("day," "morning," "night"). The relationship
+between Miranda's self and an individual other dominates the wordcloud,
+with the references to "I," "I'm," "my," and "me" alongside "you" and
+"your."
 
-The centrality of “you” to Miranda’s Twitter rhetoric is made clearer in
+The centrality of "you" to Miranda's Twitter rhetoric is made clearer in
 the line graph comparison with other writers. Looking at the raw
-frequency of “you” and “your,” reveals that Miranda’s direct references
+frequency of "you" and "your," reveals that Miranda's direct references
 to his Twitter audience are consistent and distinctive. By contrast, the
-references to a collective or kinship with followers, such as “we” and
-“us,” reflect a more level playing field amongst the group of thirteen
+references to a collective or kinship with followers, such as "we" and
+"us," reflect a more level playing field amongst the group of thirteen
 writers.
 
-% include image.html
+{% include image.html
+  img="figure-6.png"
+  caption="Figure 6. The raw frequency of you in the corpora of thirteen writers." 
+%}
 
-img="\[figure-6.png\]"
+{% include image.html
+  img="figure-7.png"
+  caption="Figure 7. The raw frequency of \"your\" in the corpora of thirteen writers." 
+%}
 
-caption="\[Figure 6. The raw frequency of you in the corpora of thirteen
-writers.\]" %
+{% include image.html
+  img="figure-8.png"
+  caption="Figure 8. The raw frequency of "we" in the corpora of thirteen writers." 
+%}
 
-% include image.html
+{% include image.html
+  img="figure-9.png"
+  caption="Figure 9. The raw frequency of "us" in the corpora of
+  thirteen writers." 
+%}
 
-img="\[figure-7.png\]"
-
-caption="\[Figure 7. The raw frequency of “your” in the corpora of
-thirteen writers.\]" %
-
-% include image.html
-
-img="\[figure-8.png\]"
-
-caption="\[Figure 8. The raw frequency of “we” in the corpora of
-thirteen writers.\]" %
-
-% include image.html
-
-img="\[figure-9.png\]"
-
-caption="\[Figure 9. The raw frequency of “us” in the corpora of
-thirteen writers.\]" %
-
-Miranda’s self-representation and affiliation on Twitter relies upon a
+Miranda's self-representation and affiliation on Twitter relies upon a
 discursive labor, producing original content and emotional affirmation
-for his followers. In order to compare Miranda’s rhetorical strategies
+for his followers. In order to compare Miranda's rhetorical strategies
 with those of the twelve other Latinx writers, I focused on the use of
-the specific phrase “for you,” during the period of 10 May and 15
-November 2017. Analyzing the use of “for you” in a combined archive of
+the specific phrase "for you," during the period of 10 May and 15
+November 2017. Analyzing the use of "for you" in a combined archive of
 over thirty-three thousand tweets facilitated a much more manageable
 review process for me as the lone investigator of the project. With this
-corpus, I removed all the retweets, focusing solely the authors’
+corpus, I removed all the retweets, focusing solely the authors'
 original production of messages and therefore direct references to
-audience. While statistically less significant than the use of “you,”
-the “for you” archive permitted a close reading of individual tweets and
+audience. While statistically less significant than the use of "you,"
+the "for you" archive permitted a close reading of individual tweets and
 a more in-depth comparison of discursive strategies. I correlated the
-number of “to you” references with the total number of tweets produced
+number of "to you" references with the total number of tweets produced
 during the May to November time period. It is worth pointing out the
 contrast that the chart reveals between Miranda and John Leguizamo, who
 produced a similar number of tweets during the same time period but had
-significantly fewer mentions of “for you.” Such a divergence reveals
+significantly fewer mentions of "for you." Such a divergence reveals
 that while Miranda and Leguizamo have similar rates of productivity and
-engagement with their Twitter followers, the “for you” usage indicates a
+engagement with their Twitter followers, the "for you" usage indicates a
 divergent set of writerly strategies for engaging that audience. The
-writers who use “to you” at rates to Miranda are authors who have a
+writers who use "to you" at rates to Miranda are authors who have a
 significantly smaller set of followers and are less active on Twitter:
 Cuban American playwright Marissa Chibas, Puerto Rican poet Rich Villar,
 and Puerto Rican writer Charlie Vázquez.
 
-% include image.html
+{% include image.html
+  img="figure-10.ods"
+  caption="Figure 10. A comparison of "for you" usage in original tweets (with retweets removed)." 
+%}
 
-img="\[figure-10.ods\]"
-
-caption="\[Figure 10. A comparison of “for you” usage in original tweets
-(with retweets removed).\]" %
-
-Concentrating on the phrase “for you” as a lens of comparison makes
-explicit a tweet’s reference to a relational dynamic. “For you” often
+Concentrating on the phrase "for you" as a lens of comparison makes
+explicit a tweet's reference to a relational dynamic. "For you" often
 connotes a presentation or act of gifting, whereby one individual
 creates or assembles something for another. More importantly, the phrase
 functions as an indicator for how the writer imagines and situates the
@@ -522,22 +506,18 @@ audience of followers. By close reading the tweets in the corpus, we see
 that the Twitter usage trends of cultivating intimacy and articulating
 an activist politics are expressed using different strategies.
 
-% include image.html
+{% include image.html
+  img="figure-11.ods"
+  caption="Figure 11. A breakdown of sixty-five "for you" tweets by Miranda." 
+%}
 
-img="\[figure-11.ods\]"
-
-caption="\[Figure 11. A breakdown of sixty-five “for you” tweets by
-Miranda.\]" %
-
-% include image.html
-
-img="\[figure-12.ods\]"
-
-caption="\[Figure 12. A breakdown of forty-five “for you” tweets by
-twelve Latinx writers.\]" %
+{% include image.html
+  img="figure-12.ods"
+  caption="Figure 12. A breakdown of forty-five "for you" tweets by twelve Latinx writers." 
+%}
 
 Miranda uses Twitter to articulate concerns similar to those of other
-Latinx writers, namely, using the “you” to relate to a general audience
+Latinx writers, namely, using the "you" to relate to a general audience
 of Twitter followers or to articulate an activist politics. The
 difference is that the percentage of tweets dedicated to these interests
 is flipped. Miranda dedicates 75 percent of his tweets to cultivating
@@ -547,27 +527,25 @@ activism-related topics. As a group, the twelve Latinx writers dedicate
 gratitude to specific creative producers (other writers, for example),
 and 17 percent to cultivating intimacy with a general Twitter audience.
 A different relationship also emerges between their Twitter aesthetic
-and activism. The phrase “for you” is most often used to refer to a
+and activism. The phrase "for you" is most often used to refer to a
 specific individual, as opposed to the entire audience of followers.
 Additionally, these Latinx authors do not produce original content on
 Twitter. Rather, they network with particular individuals, retweeting in
 order to amplify voices of others.
 
-Activism Online: Marissa Chibas, Rich Villar, and Charlie Vázquez
------------------------------------------------------------------
+## Activism Online: Marissa Chibas, Rich Villar, and Charlie Vázquez
 
 The activism of US Latinx writers finds expression via their messages of
-gratitude for a specific person’s actions or in critical posts about
+gratitude for a specific person's actions or in critical posts about
 President Trump and his followers. Cuban American playwright Marissa
-Chibas’s feed serves as one example of how Latinx writers use Twitter
+Chibas's feed serves as one example of how Latinx writers use Twitter
 predominantly as a space for political activism as well as to build
 constructive relationships with specific progressive individuals.
 
-% include image.html
-
-img="\[figure-13.ods\]"
-
-caption="\[Figure 13. “For you” tweets by Chibas.\]" %
+{% include image.html
+  img="figure-13.ods"
+  caption="Figure 13. "For you" tweets by Chibas." 
+%}
 
 Within this select group of tweets, we see Chibas replying in support of
 US senator for California Kamala Harris; the mayor of San Juan Puerto
@@ -578,104 +556,93 @@ figures rather than people whom Chibas knows personally. Her tweets
 therefore seek to foster a productive dialogue with political actors,
 not simply to network with them but to reaffirm her commitment and
 support. She also includes President Trump on her reply to de León as a
-means of confirming de León’s critique of the administration’s decision
+means of confirming de León's critique of the administration's decision
 to pull out of the Paris climate accord.
 
-% include image.html
+{% include image.html
+  img="figure-14.png"
+  caption="Figure 14. Chibas's reply to Kamala Harris."
+  url="http://web.archive.org/web/20181228214913/https://twitter.com/i/web/status/914202773775818752"
+%}
 
-img="\[figure-14.png\]"
-
-caption="\[Figure 14. Chibas’s reply to Kamala Harris.\]"
-
-url="\[http://web.archive.org/web/20181228214913/https://twitter.com/i/web/status/914202773775818752\]"
-%
-
-Such tweets represent Chibas’s efforts to intercede in political
-discourse concerning the US government’s response to Puerto Rican
+Such tweets represent Chibas's efforts to intercede in political
+discourse concerning the US government's response to Puerto Rican
 disaster relief as well as more general critiques of President Trump.
 
 When tweets work to build intimacy with a general audience, the creative
 writer is posting messages to request emotional support or advice, as we
-can see in the case of Puerto Rican poet Rich Villar. His “for you”
+can see in the case of Puerto Rican poet Rich Villar. His "for you"
 tweets fall into the same top three categories as the tweets of the
 other Latinx writers: critiques of President Trump, requests for
 support, and expressions of gratitude to specific creative producers.
-Villar’s tweets to Trump are comical and sarcastic replies to the
-president’s tweets; for example, in an August 2017 tweet in which Trump
-instructs his followers to “study what General Pershing of the United
-States did to terrorists when caught,” Villar refers Trump to the
+Villar's tweets to Trump are comical and sarcastic replies to the
+president's tweets; for example, in an August 2017 tweet in which Trump
+instructs his followers to "study what General Pershing of the United
+States did to terrorists when caught," Villar refers Trump to the
 powerful and well-funded agencies he has at his disposal. Villar also
-replies to Trump’s announcement about signing the 2017 Veterans
-Educational Assistance Act by informing the president, “\[I have a\]
-resignation letter for you to sign.” The tenor of these tweets is
+replies to Trump's announcement about signing the 2017 Veterans
+Educational Assistance Act by informing the president, "[I have a]
+resignation letter for you to sign." The tenor of these tweets is
 confrontational, performing a kind of rhetorical protest, questioning
-the legitimacy of the president’s claim on historical precedent and
+the legitimacy of the president's claim on historical precedent and
 political authority.
 
-% include image.html
+{% include image.html
+  img="figure-15.ods"
+  caption="Figure 15. "For you" tweets by Villar." 
+%}
 
-img="\[figure-15.ods\]"
-
-caption="\[Figure 15. “For you” tweets by Villar.\]" %
-
-By contrast, Villar’s tweet to his followers about a “dream job”
-application requests “support, prayers, candles, santos, coins in the
-ocean...whatever!” This plea imagines a community of intimates who would
+By contrast, Villar's tweet to his followers about a "dream job"
+application requests "support, prayers, candles, santos, coins in the
+ocean...whatever!" This plea imagines a community of intimates who would
 not only invest in his success but also be familiar with Latinx
 spiritual practices. Additionally, he specifically thanks African
 American queer photographer Gioncarlo Valentine for his creative
-“energy.” Villar’s tweet demonstrates how Latinx writers imagine
-themselves as part of “other” public spheres. The messages of gratitude
+"energy." Villar's tweet demonstrates how Latinx writers imagine
+themselves as part of "other" public spheres. The messages of gratitude
 speak to and actively construct a kinship with creative producers of
 color and queer communities in the United States.
 
-When Latinx writers imagine their followers as a cohort, that “you”
+When Latinx writers imagine their followers as a cohort, that "you"
 carries a communal reference. For instance, Puerto Rican author Charlie
-Vázquez’s “shout-out” parenthetically translates the “you” to “us” in
+Vázquez's "shout-out" parenthetically translates the "you" to "us" in
 imagining the shared familial context of absent fathers.[^27]
 
-% include image.html
+{% include image.html
+  img="figure-16.png"
+  caption="Figure 16. Vázquez on fatherhood."
+  url="http://web.archive.org/web/20181230013539/https://twitter.com/charlievazquez/statuses/876499382488707075"
+%}
 
-img="\[figure-16.png\]"
+{% include image.html
+  img="figure-17.png"
+  caption="Figure 17. Vázquez for \"tested.\""
+  url="https://web.archive.org/web/20181230013652/https://twitter.com/charlievazquez/statuses/869669182526435332"
+%}
 
-caption="\[Figure 16. Vázquez on fatherhood.\]"
-
-url="\[http://web.archive.org/web/20181230013539/https://twitter.com/charlievazquez/statuses/876499382488707075\]"
-%
-
-% include image.html
-
-img="\[figure-17.png\]"
-
-caption="\[Figure 17. Vázquez for “tested.”\]"
-
-url="\[https://web.archive.org/web/20181230013652/https://twitter.com/charlievazquez/statuses/869669182526435332\]"
-%
-
-Similarly, his tweet offering support to people “close” to him who “are
-being tested” aims to publicly display his offer, “I am here for
-you.”[^28] The transition from “people” to “you” shifts a third-person
+Similarly, his tweet offering support to people "close" to him who "are
+being tested" aims to publicly display his offer, "I am here for
+you."[^28] The transition from "people" to "you" shifts a third-person
 subject into the second person, establishing an intimate relationship on
 the platform of social media. At the same time, this declaration seeks
 to articulate a specific ethics to the general audience of followers,
-implying that they too should adopt “selflessness” as the “word for this
-season.” Miranda is not alone in his strategic invocation of intimacy on
-Twitter via the phrase “for you.” Nonetheless, he is perhaps the Latinx
+implying that they too should adopt "selflessness" as the "word for this
+season." Miranda is not alone in his strategic invocation of intimacy on
+Twitter via the phrase "for you." Nonetheless, he is perhaps the Latinx
 writer who most actively cultivates a Twitter persona using a habitual
 practice of performing and modeling intimacy and affect.
 
-Lobbying, the Miranda Family Business
--------------------------------------
+## Lobbying, the Miranda Family Business
 
 Critics of US Latinx literary studies often situate Lin-Manuel Miranda
 as part of a broader history of US Latinx political activism. For
 example, in an essay summarizing the development of US Latinx theater,
 Ricardo L. Ortíz offers Miranda as an example of how US Latinx creatives
-“have not only made their mark thanks to unprecedented critical and
+"have not only made their mark thanks to unprecedented critical and
 commercial success, but have done so while adhering uncompromisingly
 (each in its own way) to a vision of US political, social, and cultural
 life within which Latinos and other people of color figure not just
-prominently but centrally.”[^29] Miranda’s emblematic status as both
+prominently but centrally."[^29] Miranda's emblematic status as both
 artist and activist is credited to how he foregrounds US Latinx life and
 bodies on stage. While I am interested in troubling the progressive
 potential of representational politics, I am limiting myself here to
@@ -683,14 +650,14 @@ complicating the notion of a shared vision of activism, specifically by
 distinguishing between how US Latinx writers and Miranda deploy Twitter
 as a tool for activism. In terms of their rhetoric, US Latinx writers
 draw on a vocabulary of collective action in their tweets, imagining the
-relationship between their individual self and a “we” of followers.
+relationship between their individual self and a "we" of followers.
 Miranda, on the other hand, focuses on imagining his audience on Twitter
-in terms of an individualistic “you.” Miranda thus frames his tweets as
+in terms of an individualistic "you." Miranda thus frames his tweets as
 an interaction or conversation between individuals, which in turn
 facilitates his calls for financial activism, requesting that his
 followers donate money toward causes he values. Before delving into
-concrete examples of how his deployment of “you” differs from that of
-other US Latinx writers, I contextualize Miranda’s discursive strategies
+concrete examples of how his deployment of "you" differs from that of
+other US Latinx writers, I contextualize Miranda's discursive strategies
 within a unique family history of neoliberal activism. By *neoliberal*,
 I mean that the Miranda family views activism in terms of the
 accumulation of capital, with money as the primary means of building
@@ -701,54 +668,50 @@ the hurricane recovery efforts in Puerto Rico, for example, with the
 \#AlmostLikePraying benefit song project, which involved the production
 of original content (the song, video, and documentary). Hurricane Maria
 made landfall in Puerto Rico on 20 September 2017. On 6 October, Miranda
-released the song “Almost Like Praying” and the Spotify playlist *Puerto
+released the song "Almost Like Praying" and the Spotify playlist *Puerto
 Ricans for Puerto Rico* as fundraising tools for recovery relief. All
-proceeds from downloads and streams of “Almost Like Praying” go the
+proceeds from downloads and streams of "Almost Like Praying" go the
 Hispanic Federation's disaster relief fund to aid Puerto Rico.[^30]
-Miranda’s Twitter feed was a key method in marketing the benefit song
+Miranda's Twitter feed was a key method in marketing the benefit song
 project and an overview of his tweets for that year reveals how
 promoting it dominated his feed. During the period of May 2017 to
-February 2018, the top hashtags for Lin-Manuel Miranda’s feed were
-\#Ham4Ham (133), \#AlmostLikePraying (73), \#ForPR (39), \#PuertoRico
-(25), \#PorPR (25), \#Hamildrop (25), \#AmWriting (20), \#HamForHam
-(18), and \#HamiltonLDN (15). The hashtags evoke the enthusiasm over all
-things *Hamilton*, which was enhanced by the musical’s reiteration as
-its own preshow in *Ham4Ham*.[^31] The intertwining of the musical’s
+February 2018, the top hashtags for Lin-Manuel Miranda's feed were #Ham4Ham (133), #AlmostLikePraying (73), #ForPR (39), #PuertoRico
+(25), #PorPR (25), #Hamildrop (25), #AmWriting (20), #HamForHam
+(18), and #HamiltonLDN (15). The hashtags evoke the enthusiasm over all
+things *Hamilton*, which was enhanced by the musical's reiteration as
+its own preshow in *Ham4Ham*.[^31] The intertwining of the musical's
 marketing with the recovery activism hashtags is also evidenced in
-Miranda’s return to the title role in January 2019, ostensibly to
+Miranda's return to the title role in January 2019, ostensibly to
 generate tourism for hurricane-ravaged Puerto Rico.
 
 In addition to the rhetorical strategies that Miranda typically uses to
 build affective alliances with his Twitter followers, a family
-background of neoliberal activism is central to analyzing Miranda’s
+background of neoliberal activism is central to analyzing Miranda's
 response to the hurricane Maria recovery efforts. In an exemplary
-fundraising tweet on 5 October 2017, Miranda uses the first-person “I”
-to engage a “ya’ll” of followers to financially commit themselves to
+fundraising tweet on 5 October 2017, Miranda uses the first-person "I"
+to engage a "ya'll" of followers to financially commit themselves to
 supporting the recovery project by donating to nonprofit organizations
 such as MoveOn.org, a 501(c)(4), and the Hispanic Federation, a
-501(c)(3).[^32] Miranda’s support of the Hispanic Federation in
+501(c)(3).[^32] Miranda's support of the Hispanic Federation in
 particular requires some contextualization, since his father Luis A.
 Miranda was a cofounder of the nonprofit in 1990 and served as its first
 president. Ethical concerns have long been raised about the relationship
-between Luis Miranda’s lobbying group MirRam and the Hispanic
-Federation.[^33] At the least, Lin-Manuel Miranda’s centering of the
+between Luis Miranda's lobbying group MirRam and the Hispanic
+Federation.[^33] At the least, Lin-Manuel Miranda's centering of the
 Hispanic Federation as a key player in the Puerto Rican hurricane
 recovery efforts can be interpreted as relying on similar a marketing
 dynamic and rhetoric to that of his self-promotion tweets.
 
-% include image.html
-
-img="\[figure-18.png\]"
-
-caption="\[Figure 18. Miranda’s \#AlmostLikePraying.\]"
-
-url="\[http://web.archive.org/web/20181231011310/https://twitter.com/lin\_manuel/status/915951732517154817\]"
-%
+{% include image.html
+  img="figure-18.png"
+  caption="Figure 18. Miranda's \#AlmostLikePraying."
+  url="http://web.archive.org/web/20181231011310/https://twitter.com/lin\_manuel/status/915951732517154817"
+%}
 
 Asking followers to make financial commitments or to contribute their
 volunteer labor requires mobilizing a community with whom an artist has
 weak ties, people who are not part of his or her immediate personal or
-professional network. Miranda’s calls for political or humanitarian
+professional network. Miranda's calls for political or humanitarian
 action require the cultivation of intimacy with a community who will
 primarily respond with financial investment: buying music or making
 donations.
@@ -756,137 +719,122 @@ donations.
 Miranda invests in a specific type of political action that is deeply
 rooted in the model of what I am choosing to call the Miranda family
 business: lobbying. In 2015 the veteran Puerto Rican reporter Juan
-González published in the *New York Daily News* an article about “the
-huge role” of the Miranda family in “nurturing” Miranda, whom González
-refers to as “this new genius of our stage.” He notes that Miranda’s
-father, Luis A. Miranda Jr., has been a “well-known leader in the Latino
-community” since he worked in Mayor Ed Koch’s Democratic administration,
+González published in the *New York Daily News* an article about "the
+huge role" of the Miranda family in "nurturing" Miranda, whom González
+refers to as "this new genius of our stage." He notes that Miranda's
+father, Luis A. Miranda Jr., has been a "well-known leader in the Latino
+community" since he worked in Mayor Ed Koch's Democratic administration,
 which governed the city from 1977 until 1989. González also reveals that
-Luis Miranda’s private political consulting firm, the MirRam Group, “has
+Luis Miranda's private political consulting firm, the MirRam Group, "has
 handled much of his son's schedule since Lin-Manuel's breakthrough
-Tony-winning musical *In the Heights* in 2008.” For González,
-*Hamilton*’s representation of the political landscape during the
-American Revolution is drawn from the younger Miranda’s familial
-experience: “As for how those politicians wielded power, Miranda learned
-from his dad.” He quotes Miranda’s own reflection as a fly on the wall
-for political strategy sessions: “I was the little kid drawing in the
-corner when my father was in all those meetings.”[^34] In other words,
+Tony-winning musical *In the Heights* in 2008." For González,
+*Hamilton*'s representation of the political landscape during the
+American Revolution is drawn from the younger Miranda's familial
+experience: "As for how those politicians wielded power, Miranda learned
+from his dad." He quotes Miranda's own reflection as a fly on the wall
+for political strategy sessions: "I was the little kid drawing in the
+corner when my father was in all those meetings."[^34] In other words,
 Miranda was in the room where it happens, one of the many private spaces
 where political actors make decisions about public policy and political
 strategy.
 
-The \#Ham4All challenge of June 2017 is a useful precursor to the
-marketing and activism web of the \#AlmostLikePraying benefit song.[^35]
+The #Ham4All challenge of June 2017 is a useful precursor to the
+marketing and activism web of the #AlmostLikePraying benefit song.[^35]
 
-% include image.html
-
-img="\[figure-19.png\]"
-
-caption="\[Figure 19. Miranda’s \#Ham4All challenge.\]"
-
-url="\[http://web.archive.org/web/20170628051129/https://twitter.com/lin\_manuel/status/879323738398916608\]"
-%
+{% include image.html
+  img="figure-19.png"
+  caption="Figure 19. Miranda's #Ham4All challenge."
+  url="http://web.archive.org/web/20170628051129/https://twitter.com/lin\_manuel/status/879323738398916608"
+%}
 
 Miranda asked fans to post videos of themselves singing to *Hamilton*
 songs after donating to the Immigrants: We Get the Job Done Coalition.
-The Hispanic Federation project’s name was derived from the lyrics of
-the song “Immigrants: We Get the Job Done” on the *Hamilton Mixtape*
+The Hispanic Federation project's name was derived from the lyrics of
+the song "Immigrants: We Get the Job Done" on the *Hamilton Mixtape*
 album that Miranda released in December 2016. In 2017, the federation
 adopted this catchphrase as the name for its alliance of nonprofit
 organizations addressing the needs of US Latinx communities.[^36] As
-previously mentioned, one of the Hispanic Federation’s cofounders is
-Miranda’s father*,* Luis Miranda. According to a 2014 newsletter by the
+previously mentioned, one of the Hispanic Federation's cofounders is
+Miranda's father*,* Luis Miranda. According to a 2014 newsletter by the
 National Institute for Latino Public Policy, the elder Miranda was
 installed as the first president of the nonprofit Hispanic Federation in
-1990 “through the direct intervention of then NYC Mayor Ed Koch”:
-“Miranda had served as Koch's Hispanic Advisor, a position that brought
+1990 "through the direct intervention of then NYC Mayor Ed Koch":
+"Miranda had served as Koch's Hispanic Advisor, a position that brought
 him much criticism from the Puerto Rican community that found Koch's
-neoconservative policies antithetical to its interests.”[^37] Also
-mentioned earlier, all the proceeds of the 2018 \#AlmostLikePraying
+neoconservative policies antithetical to its interests."[^37] Also
+mentioned earlier, all the proceeds of the 2018 #AlmostLikePraying
 campaign go to the Hispanic Federation. In 2000, Luis Miranda left the
 administration of the Hispanic Federation (although as recently as 2014
 he remained listed as a paid lobbyist) to head the consulting and
 lobbying firm MirRam Groupa along with former New York City assemblyman
 and Democratic chairman Roberto Ramirez. Based on the research
-*CityLimits* performed in 2013 via New York City’s campaign finance
-database, MirRam was identified as one of the top six firms that “earned
-more than half a million dollars for campaign work.”[^38]
+*CityLimits* performed in 2013 via New York City's campaign finance
+database, MirRam was identified as one of the top six firms that "earned
+more than half a million dollars for campaign work."[^38]
 
 The musical *Hamilton* plays an important role in facilitating the
 influence of a familial political network that is housed in the
 organizations of the Hispanic Federation and the MirRam Group. For
-example, MirRam “quietly created The Hamilton Campaign Network as a
-sister company to consult on state and city campaigns.” A MirRam
-spokesman explained that the “name is topical with all of the renewed
-political interest on Hamilton as a historical figure.” As noted by the
-*Daily News*, “The idea to separate out the lobbying and communications
-work of MirRam from the campaign work now done by Hamilton \[Campaign
-Network\] comes at a time when how Albany operates has come under
-increasing criticism and investigations.”[^39]
+example, MirRam "quietly created The Hamilton Campaign Network as a
+sister company to consult on state and city campaigns." A MirRam
+spokesman explained that the "name is topical with all of the renewed
+political interest on Hamilton as a historical figure." As noted by the
+*Daily News*, "The idea to separate out the lobbying and communications
+work of MirRam from the campaign work now done by Hamilton [Campaign
+Network] comes at a time when how Albany operates has come under
+increasing criticism and investigations."[^39]
 
-% include image.html
+{% include image.html
+  img="figure-20.png"
+  caption="Figure 20. The Hamilton Campaign Network."
+  url="http://web.archive.org/web/20170628051129/https://twitter.com/lin\_manuel/status/879323738398916608"
+%}
 
-img="\[figure-20.png\]"
+{% include image.html
+  img="figure-21.png"
+  caption="Figure 21. Miranda's \"in the meantime.\""
+  url="http://web.archive.org/web/20170921161517/https://twitter.com/lin\_manuel/status/910769261479677953"
+%}
 
-caption="\[Figure 20. The Hamilton Campaign Network.\]"
+{% include image.html
+  img="figure-22.png"
+  caption="Figure 22: Miranda on austerity protests in Puerto Rico."
+  url="http://web.archive.org/web/20180901232440/https://twitter.com/lin\_manuel/status/991782264659939328"
+%}
 
-url="\[http://web.archive.org/web/20170628051129/https://twitter.com/lin\_manuel/status/879323738398916608\]"
-%
-
-% include image.html
-
-img="\[figure-21.png\]"
-
-caption="\[Figure 21. Miranda’s “in the meantime.”\]"
-
-url="\[http://web.archive.org/web/20170921161517/https://twitter.com/lin\_manuel/status/910769261479677953\]"
-%
-
-% include image.html
-
-img="\[figure-22.png\]"
-
-caption="\[Figure 22: Miranda on austerity protests in Puerto Rico.\]"
-
-url="\[http://web.archive.org/web/20180901232440/https://twitter.com/lin\_manuel/status/991782264659939328\]"
-%
-
-% include image.html
-
-img="\[figure-23.png\]"
-
-caption="\[Figure 23. Miranda’s “new path” with Hispanic Federation.\]"
-
-url="\[http://web.archive.org/web/20181231191605/https://twitter.com/lin\_manuel/status/913024298654273536\]"
-%
+{% include image.html
+  img="figure-23.png"
+  caption="Figure 23. Miranda's \"new path\" with Hispanic Federation."
+  url="http://web.archive.org/web/20181231191605/https://twitter.com/lin\_manuel/status/913024298654273536"
+%}
 
 While the collaboration of consulting and campaign organizations is
 legal, ethical questions have been raised about the undue influence such
 firms have by helping elect officials and then proceeding to lobby those
 same politicians. Access and influence are the top priorities of
-lobbying groups and Miranda’s Twitter aesthetic mobilizes his followers’
+lobbying groups and Miranda's Twitter aesthetic mobilizes his followers'
 emotional capital and financial investment into specific political
-priorities that also further advance the Miranda family’s political
-networks. For example, just a day after Hurricane Maria’s landfall,
+priorities that also further advance the Miranda family's political
+networks. For example, just a day after Hurricane Maria's landfall,
 Miranda casually integrated a recommendation for donations to be
-directed toward the Hispanic Federation “in the meantime.”[^40] No
+directed toward the Hispanic Federation "in the meantime."[^40] No
 explanation is given in the tweet for why the Hispanic Federation is
-chosen as Miranda’s stopgap measure; however, a family history of
+chosen as Miranda's stopgap measure; however, a family history of
 connections to the organization certainly makes clear that this remark
 is strategic. The intersection of art and politics, emotional and
 financial lobbying, is developed further in a tweet that follows that
-same week, accompanied by a photograph of Miranda’s son’s toy train set,
+same week, accompanied by a photograph of Miranda's son's toy train set,
 which provides the metaphor for donations to Puerto Rican recovery
 efforts.[^41] Miranda weaves a rhetoric of intimacy, using his good
 morning greeting to paint a picture of his domestic sphere, the toy
-train as a visual for his wife’s daily commute. The private is made
-public in order to gather his followers into a collective “we” that will
-similarly embark on “new paths” by donating to the Hispanic Federation.
+train as a visual for his wife's daily commute. The private is made
+public in order to gather his followers into a collective "we" that will
+similarly embark on "new paths" by donating to the Hispanic Federation.
 That call for donations was incredibly successful. As the *New York
-Times* noted in December 2018, “After the hurricane, the Mirandas helped
-raised \$43 million for the Hispanic Federation’s hurricane relief
-fund.”[^42] Miranda’s reliance on the Hispanic Federation as his primary
-avenue for donations after Hurricane Maria’s devastation can be credited
+Times* noted in December 2018, "After the hurricane, the Mirandas helped
+raised \$43 million for the Hispanic Federation's hurricane relief
+fund."[^42] Miranda's reliance on the Hispanic Federation as his primary
+avenue for donations after Hurricane Maria's devastation can be credited
 to family lessons learned on the campaign trail—that it is best to use
 an established network of contacts. Despite the intimacy cultivated by
 Miranda on his Twitter feed, the personal historiography of the Hispanic
@@ -897,197 +845,165 @@ Miranda and his family is acknowledged, it is done uncritically and
 without a sense of how it might impact the focus of his philanthropy and
 even benefit his family financially.[^43]
 
-The Guy Who Makes You (Feel) Things: Lin-Manuel Miranda
--------------------------------------------------------
+## The Guy Who Makes You (Feel) Things: Lin-Manuel Miranda
 
-The bonds of virtual intimacy are accomplished via Miranda’s rhetorical
+The bonds of virtual intimacy are accomplished via Miranda's rhetorical
 labor as emotional caretaker and as a DJ, a musical mood producer, for
 his Twitter followers or, as his bio profile in January 2018 declared,
-the guy who is “making you things.”[^44]
+the guy who is "making you things."[^44]
 
-Miranda’s unique use of affiliation language builds an affective or
-emotional intimacy between his individual self “I” and communal “you” of
+Miranda's unique use of affiliation language builds an affective or
+emotional intimacy between his individual self "I" and communal "you" of
 followers. The aesthetic of intimacy provides a foundation for political
-activism on Twitter, mobilizing a “we” or “us” of followers. In a 2015
+activism on Twitter, mobilizing a "we" or "us" of followers. In a 2015
 *Hollywood Reporter* interview, Miranda describes the power of art,
-pitting it against the work of politics: “Art engenders empathy in a way
+pitting it against the work of politics: "Art engenders empathy in a way
 that politics doesn't, and in a way that nothing else really does. Art
-creates change in people's hearts. But it happens slowly.”[^45] Miranda
+creates change in people's hearts. But it happens slowly."[^45] Miranda
 frames the ethical obligation of art in terms of emotion and
 identification as an alternative to political activism. He reiterates
 this goal on Twitter in response to the comment of a follower about a
-playlist, saying, “It is literally my job…to make you feel things.”
-Miranda explains that he has “tons of practice” in producing art in
+playlist, saying, "It is literally my job…to make you feel things."
+Miranda explains that he has "tons of practice" in producing art in
 order to cultivate specific feelings in the spectator.[^46]
 
-% include image.html
+{% include image.html
+  img="figure-24.png"
+  caption="Figure 24. Screenshot of Miranda's bio profile, January 2018."
+%}
 
-img="\[figure-24.png\]"
-
-caption="\[Figure 24. Screenshot of Miranda’s bio profile, January
-2018.\]" %
-
-% include image.html
-
-img="\[figure-25.png\]"
-
-caption="\[Figure 25. Miranda’s “job description.”\]"
-
-url="\[http://web.archive.org/web/2018\*/https://twitter.com/lin\_manuel/status/897242937788125184\]"
-%
+{% include image.html
+  img="figure-25.png"
+  caption="Figure 25. Miranda's \"job description.\""
+  url="http://web.archive.org/web/2018\*/https://twitter.com/lin\_manuel/status/897242937788125184"
+%}
 
 His strategies for fostering intimacy with his Twitter followers finds
 its origins in the online marketing of his first musical. Elizabeth
-Titrington Craft’s research on Miranda’s use of YouTube for the
+Titrington Craft's research on Miranda's use of YouTube for the
 promotion of *In the Heights* suggests that this social medium provided
 the means for Miranda to practice the discursive strategies that he
-currently uses on Twitter. In her essay “‘Is This What It Takes Just to
-Make It to Broadway?!’: Marketing *In the Heights* in the Twenty-First
-Century,” Craft analyzes the “twenty-three quasi-homemade videos posted
-by ‘Lin-Manuel’ on ‘usnavi’s channel’ on YouTube,” arguing that the
-“character-creator link between Miranda and Usnavi blurs the boundaries
+currently uses on Twitter. In her essay "‘Is This What It Takes Just to
+Make It to Broadway?!': Marketing *In the Heights* in the Twenty-First
+Century," Craft analyzes the "twenty-three quasi-homemade videos posted
+by ‘Lin-Manuel' on ‘usnavi's channel' on YouTube," arguing that the
+"character-creator link between Miranda and Usnavi blurs the boundaries
 of ownership, suggesting these are personal contributions as well as
-products of the show.” The performance of this online persona, of
-Miranda producing videos as himself via the musical’s fictional
-character’s channel, is a precursor to how he deploys emotion and affect
-as @Lin\_Manuel on Twitter in order to mobilize his audience. On
-YouTube, Miranda began “to fluidly cross boundaries between promotion
-and serious political commentary,” setting the stage for his full
+products of the show." The performance of this online persona, of
+Miranda producing videos as himself via the musical's fictional
+character's channel, is a precursor to how he deploys emotion and affect
+as @Lin_Manuel on Twitter in order to mobilize his audience. On
+YouTube, Miranda began "to fluidly cross boundaries between promotion
+and serious political commentary," setting the stage for his full
 integration on Twitter. Key to synthesizing politics with the market is
-Miranda’s “enthusiasm for the internet and his ubiquitous presence
-\[that\] humanizes the show and its online promotional efforts.”[^47]
-Maintaining an active presence on YouTube, “regularly feeding new
-content to fans,” Miranda expanded the appeal of *In the Heights* beyond
+Miranda's "enthusiasm for the internet and his ubiquitous presence
+[that] humanizes the show and its online promotional efforts."[^47]
+Maintaining an active presence on YouTube, "regularly feeding new
+content to fans," Miranda expanded the appeal of *In the Heights* beyond
 the traditional boundaries of Broadway. At the same time, producing new
-videos also translated into keeping the fans “continually engaged,
-bringing them into a community.”[^48]
+videos also translated into keeping the fans "continually engaged,
+bringing them into a community."[^48]
 
-Miranda’s Twitter feed similarly cultivates a unique persona, one whose
-labor “for you” emulates that of an earnest, empathetic caregiver who
-cares about his individual followers and “everything” else.[^49] On this
-social medium, Miranda constructs an individualistic “I” as a self in
+Miranda's Twitter feed similarly cultivates a unique persona, one whose
+labor "for you" emulates that of an earnest, empathetic caregiver who
+cares about his individual followers and "everything" else.[^49] On this
+social medium, Miranda constructs an individualistic "I" as a self in
 the service of a community of intimates. Using the relational language
-of “for you,” Miranda produces original content for his followers as
+of "for you," Miranda produces original content for his followers as
 well as instructive messages about self-help enlightenment. The messages
 about advice and instruction comprise one-fourth of the intimacy
 rhetoric. Such advice is often predicated on Miranda functioning as a
 role model or representative agent for his followers. If we look more
-closely, analyzing only the corpus of “for you” tweets using Voyant, we
+closely, analyzing only the corpus of "for you" tweets using Voyant, we
 find gratitude to be a rhetorical move that bolsters the intimate
-dynamics of Miranda’s Twitter account.
+dynamics of Miranda's Twitter account.
 
-% include image.html
+{% include image.html
+  img="figure-26.png"
+  caption="Figure 26. Miranda's caregiver persona."
+  url="https://web.archive.org/web/20181231001111/https://twitter.com/lin\_manuel/status/874250737408192514"
+%}
 
-img="\[figure-26.png\]"
+<!-- WordCloud removed -->
 
-caption="\[Figure 26. Miranda’s caregiver persona.\]"
+{% include image.html
+  img="figure-28.ods"
+  caption="Figure 27. List of the top twenty-five words within Miranda's \"for you\" corpus." 
+%}
 
-url="\[https://web.archive.org/web/20181231001111/https://twitter.com/lin\_manuel/status/874250737408192514\]"
-%
+{% include image.html
+  img="figure-29.png"
+  caption="Figure 28. Miranda's gnight gratitude."
+  url="https://web.archive.org/web/20171114041014/https://twitter.com/lin\_manuel/status/930263949509124101"
+%}
 
-% include image.html
-
-img="\[figure-27.png\]"
-
-caption="\[Figure 27. Wordcloud of the top twenty-five words within
-Miranda’s “for you” corpus.\]" %
-
-% include image.html
-
-img="\[figure-28.ods\]"
-
-caption="\[ Figure 28. List of the top twenty-five words within
-Miranda’s “for you” corpus.\]" %
-
-% include image.html
-
-img="\[figure-29.png\]"
-
-caption="\[Figure 29. Miranda’s gnight gratitude.\]"
-
-url="\[https://web.archive.org/web/20171114041014/https://twitter.com/lin\_manuel/status/930263949509124101\]"
-%
-
-By adding “you”-derived terminology to the stoplist (for example,
-“yours,” “you’re,” “yourself”) as well as references to emojis (flag,
+By adding "you"-derived terminology to the stoplist (for example,
+"yours," "you're," "yourself") as well as references to emojis (flag,
 heart, hand), the Voyant wordcloud for the top twenty-five words reveals
-more clearly the centrality of Miranda’s performance of gratitude for
+more clearly the centrality of Miranda's performance of gratitude for
 his audience. This performance entails expressing gratitude for the
-support of Twitter followers, predominantly for a universal “you” rather
+support of Twitter followers, predominantly for a universal "you" rather
 than specific mentions of individuals.
 
-In data scraping Miranda’s Twitter account, I find that his rhetorical
+In data scraping Miranda's Twitter account, I find that his rhetorical
 strategies on Twitter cultivate a caretaker/coach persona with a
 pedagogical investment in gratitude. When a follower, Ryan P. C.
-Trimble, comments on their desire to “reach @Lin\_Manuel levels” of
-self-fulfilling creativity—“casting myself in things I write”—Miranda
-generates a post for all his Twitter followers that outlines an “easy”
+Trimble, comments on their desire to "reach @Lin_Manuel levels" of
+self-fulfilling creativity—"casting myself in things I write"—Miranda
+generates a post for all his Twitter followers that outlines an "easy"
 course of action: to acknowledge that there is a dearth of roles for
 actors of color, to start writing your dream role yourself, and to
 repeat this process of recognition and creative production.[^50]
 
-Miranda’s tweets often adopt this instructional tone, with a
+Miranda's tweets often adopt this instructional tone, with a
 step-by-step outline, as in, for example, a May 2017 tweet that directs
-his followers, “Tell someone you’re grateful for them.” Miranda
+his followers, "Tell someone you're grateful for them." Miranda
 instructs on the benefits of maintaining such an ethos of gratitude,
-encouraging his audience to “mean it,” and pairs this directive with the
-promise that “it feels good.” Miranda then models that very process,
-saying that he himself is “grateful” for his audience.[^51] The promise
+encouraging his audience to "mean it," and pairs this directive with the
+promise that "it feels good." Miranda then models that very process,
+saying that he himself is "grateful" for his audience.[^51] The promise
 of feeling part of a greater emotional good is fundamental to the
 intimate relationship Miranda seeks to build with his Twitter followers.
 The advice tweets are thereby bolstered by claims on the universal
-follower’s affect, through an implicit reciprocity.
+follower's affect, through an implicit reciprocity.
 
-% include image.html
+{% include image.html
+  img="figure-30A.png"
+  caption="Figure 29. Miranda's instruction."
+  url="https://web.archive.org/web/20181231001344/https://twitter.com/lin\_manuel/status/911353178049908736"
+%}
 
-img="\[figure-30A.png\]"
+{% include image.html
+  img="figure-30B.png"
+  caption="Figure 30. Miranda's pedagogy."
+  url="https://web.archive.org/web/20170612134319/https://twitter.com/lin\_manuel/status/859658638629232640"
+%}
 
-caption="\[Figure 30a. Miranda’s instruction.\]"
-
-url="\[https://web.archive.org/web/20181231001344/https://twitter.com/lin\_manuel/status/911353178049908736\]"
-%
-
-% include image.html
-
-img="\[figure-30B.png\]"
-
-caption="\[Figure 30b. Miranda’s pedagogy.\]"
-
-url="\[https://web.archive.org/web/20170612134319/https://twitter.com/lin\_manuel/status/859658638629232640\]"
-%
-
-Miranda’s performance on Twitter makes evident his investment in the
-audience’s ability to repay in kind, to yield positive emotion in
+Miranda's performance on Twitter makes evident his investment in the
+audience's ability to repay in kind, to yield positive emotion in
 response to his belief in the intrinsic good of his followers. Miranda
 advocates a kind of carpe diem philosophy in his tweets, often through
 the routine of greeting and expressing gratitude for his followers in
 the morning and evening. The success of this routine is manifested in
 the publication of his tweets in book form by Random House, which
-describes them as “pep talks.” This routine is a key facet of how
+describes them as "pep talks." This routine is a key facet of how
 Miranda builds affective alliances with his audience and can bank on
 their emotional investment when he needs to mobilize his followers.
 
-% include image.html
+{% include image.html
+  img="figure-31.png"
+  caption="Figure 31. A 2016 gratitude tweet with *Singing in the Rain*."
+  url="https://web.archive.org/web/20181231003845/https://twitter.com/lin\_manuel/status/814681177776881665"
+%}
 
-img="\[figure-31.png\]"
-
-caption="\[Figure 31. A 2016 gratitude tweet with *Singing in the
-Rain*.\]"
-
-url="\[https://web.archive.org/web/20181231003845/https://twitter.com/lin\_manuel/status/814681177776881665\]"
-%
-
-% include image.html
-
-img="\[figure-32.png\]"
-
-caption="\[Figure 32. A 2016 gratitude tweet with Marilyn Monroe.\]"
-
-url="\[https://web.archive.org/web/20181231004056/https://twitter.com/Lin\_Manuel/status/800456077615702016\]"
-%
+{% include image.html
+  img="figure-32.png"
+  caption="Figure 32. A 2016 gratitude tweet with Marilyn Monroe.]"
+  url="https://web.archive.org/web/20181231004056/https://twitter.com/Lin\_Manuel/status/800456077615702016"
+%}
 
 Miranda reinforces this grateful caretaker persona by generating music
-playlists for his followers, which comprise a third of the “for you”
+playlists for his followers, which comprise a third of the "for you"
 messages. These mixes musically imbibe the particular emotion or theme
 Miranda chooses to emphasize on a given day. Twitter serves as a vehicle
 for Miranda not simply to make things for his followers but to maintain
@@ -1098,7 +1014,7 @@ follower and offering a music mix that can satisfy those needs. The
 labor involved in the production of original content becomes
 particularly evident in the queries from followers about when Miranda
 will share his next compilation of music. These requests reveal that
-Miranda’s audience comes to rely on the routine of sharing music, that
+Miranda's audience comes to rely on the routine of sharing music, that
 this form of cultural production generates important ties between the
 playwright and members of his social media audience. Nonetheless, such
 requests also hint at the impossibility of sustaining such a project—is
@@ -1110,77 +1026,60 @@ followers or at least acknowledging their presence and investment in
 maintaining contact is one way that Miranda attempts to stay relevant on
 a daily basis with his millions of followers.
 
-% include image.html
+{% include image.html
+  img="figure-33.png"
+  caption="Figure 33. A Miranda Spotify mixtape announcement."
+  url="http://web.archive.org/web/20181231004829/https://twitter.com/lin\_manuel/status/861543416563412992?lang=en"
+%}
 
-img="\[figure-33.png\]"
+{% include image.html
+  img="figure-34.png"
+  caption="Figure 34. Miranda's "Any other questions?" response to a playlist request."
+  url="https://web.archive.org/web/20181231005014/https://twitter.com/Lin\_Manuel/status/897068921857220608"
+%}
 
-caption="\[Figure 33. A Miranda Spotify mixtape announcement.\]"
+{% include image.html
+  img="figure-35.png"
+  caption="Figure 35. Miranda's \"Nope\" response to a playlist request."
+  url="https://web.archive.org/web/20181231005149/https://twitter.com/Lin\_Manuel/status/902295847630725120"
+%}
 
-url="\[http://web.archive.org/web/20181231004829/https://twitter.com/lin\_manuel/status/861543416563412992?lang=en\]"
-%
-
-% include image.html
-
-img="\[figure-34.png\]"
-
-caption="\[Figure 34. Miranda’s “Any other questions?” response to a
-playlist request.\]"
-
-url="\[https://web.archive.org/web/20181231005014/https://twitter.com/Lin\_Manuel/status/897068921857220608\]"
-%
-
-% include image.html
-
-img="\[figure-35.png\]"
-
-caption="\[Figure 35. Miranda’s “Nope” response to a playlist
-request.\]"
-
-url="\[https://web.archive.org/web/20181231005149/https://twitter.com/Lin\_Manuel/status/902295847630725120\]"
-%
-
-The “for you” invocation is also a vehicle for self-promotion, marketing
-Miranda’s various artistic projects, from the journey of the musical
-*Hamilton* beyond the Broadway stage to Miranda’s Disney films. While
+The "for you" invocation is also a vehicle for self-promotion, marketing
+Miranda's various artistic projects, from the journey of the musical
+*Hamilton* beyond the Broadway stage to Miranda's Disney films. While
 the fewest tweets are dedicated to these projects, at least in relation
-to the whole corpus of tweets, they do require mobilization of Miranda’s
+to the whole corpus of tweets, they do require mobilization of Miranda's
 followers. In other words, the affective affiliation that is cultivated
 by the production of instructive messages, expressions of gratitude, and
-mixtape curation facilitates the financial success of Miranda’s other
+mixtape curation facilitates the financial success of Miranda's other
 creative projects. The promotional appeals likewise share an emotional
 valence. In a May 2017 tweet, Miranda works in advance promotion of his
-voice-over character Gizmoduck in Disney’s reboot of the show *Duck
+voice-over character Gizmoduck in Disney's reboot of the show *Duck
 Tales*. Rather than introduce the name or date of when the show would
 air (neither of which are mentioned), Miranda instead frames the image
 of his character with an expression of gratitude for his followers and
 the expectation that they will see it when it airs that summer. The
 tweet then builds on a sense of indebtedness, which begins with
-Miranda’s gratitude but ends with the gesture expected in reply—the
-audience’s consumption of his cultural production.[^52]
+Miranda's gratitude but ends with the gesture expected in reply—the
+audience's consumption of his cultural production.[^52]
 
-% include image.html
+{% include image.html
+  img="figure-36.png"
+  caption="Figure 36. Miranda as Gizmoduck.]"
+  url="https://web.archive.org/web/20181231005502/https://twitter.com/lin\_manuel/status/865598673278906368"
+%}
 
-img="\[figure-36.png\]"
+{% include image.html
+  img="figure-37.png"
+  caption="Figure 37. Miranda's *Moana* marketing.]"
+  url="https://web.archive.org/web/20181231005718/https://twitter.com/lin\_manuel/status/684742849892642817"
+%}
 
-caption="\[Figure 36. Miranda as Gizmoduck.\]"
-
-url="\[https://web.archive.org/web/20181231005502/https://twitter.com/lin\_manuel/status/865598673278906368\]"
-%
-
-% include image.html
-
-img="\[figure-37.png\]"
-
-caption="\[Figure 37. Miranda’s *Moana* marketing.\]"
-
-url="\[https://web.archive.org/web/20181231005718/https://twitter.com/lin\_manuel/status/684742849892642817\]"
-%
-
-Miranda’s tweet about the 2016 Disney film *Moana* follows an identical
+Miranda's tweet about the 2016 Disney film *Moana* follows an identical
 invocation as that of *Duck Tales* but elevates the cultural product or
 fictional character to the status of a human subject. The tweet frames
-the sneak peak of the film in terms of Miranda’s desire to introduce his
-followers to Moana: “I can’t wait.”[^53] Such terminology reverberates
+the sneak peak of the film in terms of Miranda's desire to introduce his
+followers to Moana: "I can't wait."[^53] Such terminology reverberates
 with the power dynamic of his followers requesting his mixtapes,
 invoking the same emotions of eagerness, anticipation, and hope.
 Expressions of affect translate into claims on future financial
@@ -1188,64 +1087,54 @@ investment. Whereas the followers were the ones making requests, here it
 is Miranda who now places expectations on his audience to provide the
 emotional and financial support of his creative projects.
 
-In terms of Miranda’s tweets relating to political activism, the “you”
+In terms of Miranda's tweets relating to political activism, the "you"
 changes from referencing universal followers to specific personas, such
 as President Trump or the Dreamers. The dominant emotive valence of the
 messages tends toward that of empathy, with the exception of Trump. For
 example, Miranda posted expressions of sympathy regarding the August
-2017 mass shooting tragedy in San Antonio, Texas, and Hurricane Maria’s
+2017 mass shooting tragedy in San Antonio, Texas, and Hurricane Maria's
 disastrous landfall in Dominica and Puerto Rico in September 2017.[^54]
 
-% include image.html
-
-img="\[figure-38.png\]"
-
-caption="\[Figure 38. Miranda on the mass shooting in San Antonio,
-Texas.\]"
-
-url="\[https://web.archive.org/web/20181231010452/https://twitter.com/Lin\_Manuel/status/901096336862449669\]"
-%
+{% include image.html
+  img="figure-38.png"
+  caption="Figure 38. Miranda on the mass shooting in San Antonio, Texas."
+  url="https://web.archive.org/web/20181231010452/https://twitter.com/Lin\_Manuel/status/901096336862449669"
+%}
 
 {% include image.html
-
-img="\[figure-39.png\]"
-
-caption="\[Figure 39. Miranda’s reaction to Hurricane Maria.\]"
-
-url="\[https://web.archive.org/web/20181231010634/https://twitter.com/Lin\_Manuel/status/909895086061887488\]"
+  img="figure-39.png"
+  caption="Figure 39. Miranda's reaction to Hurricane Maria."
+  url="https://web.archive.org/web/20181231010634/https://twitter.com/Lin\_Manuel/status/909895086061887488"
 %}
 
 Noticeably, these references to a specific population that has suffered
-trauma are paired with a change in Miranda’s self-referential language.
+trauma are paired with a change in Miranda's self-referential language.
 Rather than retain a first-person voice, Miranda uses a plural form, a
-concerned and empathetic “we” in the cases of Texas and a community
+concerned and empathetic "we" in the cases of Texas and a community
 based on an ancestral lineage with Hurricane Maria. The rhetorical
 invocation of a shared community in struggle is also evident in the
-September 2017 tweet about the “dreamers.”[^55] The message passes along
+September 2017 tweet about the "dreamers."[^55] The message passes along
 important information that was first posted by Senator Kamala Harris
 about the status renewal deadline for young immigrants in the United
-States. At the same time, Miranda’s contribution adds and affirms the
+States. At the same time, Miranda's contribution adds and affirms the
 existence of a supportive national community. Such moments of public
 commentary function as a form of activism that primarily focuses on
 rhetorically instantiating community. Miranda here reverts to a
 third-person narrative while implying that he acts as a member of a
-community that is “fighting” for immigrant rights.
+community that is "fighting" for immigrant rights.
 
-% include image.html
-
-img="\[figure-40.png\]"
-
-caption="\[Figure 40. Miranda on dreamers.\]"
-
-url="\[https://web.archive.org/web/20181231010851/https://twitter.com/Lin\_Manuel/status/906176961998979072\]"
-%
+{% include image.html
+  img="figure-40.png"
+  caption="Figure 40. Miranda on dreamers."
+  url="https://web.archive.org/web/20181231010851/https://twitter.com/Lin\_Manuel/status/906176961998979072"
+%}
 
 The messages to Donald Trump take on an unusual tone in terms of the
 dominant emotional valence Miranda usually adopts in his tweets. Here,
-Miranda deploys the phrase “for you” to articulate a critique of the
-president’s failure to adequately support the hurricane recovery efforts
+Miranda deploys the phrase "for you" to articulate a critique of the
+president's failure to adequately support the hurricane recovery efforts
 in Puerto Rico**.** Both messages also rely on a third-person narrative,
-such that the “you” as personal address to Trump is not part of an
+such that the "you" as personal address to Trump is not part of an
 intimate relationship of exchange. Additionally, the theme of waiting
 returns from the promotional tweets, but the expectation is quite
 different. Americans are depicted as awaiting the ethical behavior of
@@ -1253,63 +1142,57 @@ the president, and when that behavior is found lacking, Miranda asserts
 that it is Trump who will not have to wait for his cosmic
 comeuppance.[^56]
 
-% include image.html
+{% include image.html
+  img="figure-41.png"
+  caption="Figure 41. Miranda on Trump's response to Hurricane María."
+  url="https://web.archive.org/web/20181231011019/https://twitter.com/Lin\_Manuel/status/912323044269490184"
+%}
 
-img="\[figure-41.png\]"
+{% include image.html
+  img="figure-42.png"
+  caption="Figure 42. Miranda on Trump's destination."
+  url="https://web.archive.org/web/20181231011144/https://twitter.com/Lin\_Manuel/status/914102927744217088"
+%}
 
-caption="\[Figure 41. Miranda on Trump’s response to Hurricane María.\]"
-
-url="\[https://web.archive.org/web/20181231011019/https://twitter.com/Lin\_Manuel/status/912323044269490184\]"
-%
-
-% include image.html
-
-img="\[figure-42.png\]"
-
-caption="\[Figure 42. Miranda on Trump’s destination.\]"
-
-url="\[https://web.archive.org/web/20181231011144/https://twitter.com/Lin\_Manuel/status/914102927744217088\]"
-%
-
-Miranda’s near silence regarding the 1 May 2018 protests in Puerto Rico
+Miranda's near silence regarding the 1 May 2018 protests in Puerto Rico
 against austerity measures is suggestive of the neoliberal limits to
 basing an articulation of philanthropy or ethics on affective
 affiliation. Thousands of protestors in San Juan took to the streets on
-International Workers’ Day, and the demonstration was predominantly
+International Workers' Day, and the demonstration was predominantly
 peaceful until later in the day when the police used physical force and
 tear gas. The protest was covered by major news outlets such as NPR and
 the *New York Times*; however, Miranda dedicated only a single tweet to
-the event. Miranda’s response relies on emotive language, emphasizing
-his individual reaction as “heartbroken” and “frustrated.”[^57] He does
+the event. Miranda's response relies on emotive language, emphasizing
+his individual reaction as "heartbroken" and "frustrated."[^57] He does
 not contextualize the protest by referring to what it was about, the
-“cause” for which the protesters were rallying support.[^58] Miranda
+"cause" for which the protesters were rallying support.[^58] Miranda
 instead stresses his disappointment with the imagery and narratives that
 emerged. Without illustrating what he found troubling, followers are
-left to choose whether they will research the media coverage. Miranda’s
+left to choose whether they will research the media coverage. Miranda's
 tweet underscores his support of peaceful protests but does not
 articulate a shared ideological vision with protestors. Indeed, the
-third-person language of the tweet, referencing “the people of Puerto
-Rico” and “their treatment,” distances Miranda from the island’s
-population rather than his claiming them as community. There is no “we”
-imagined in Miranda’s response to this contentious political struggle
+third-person language of the tweet, referencing "the people of Puerto
+Rico" and "their treatment," distances Miranda from the island's
+population rather than his claiming them as community. There is no "we"
+imagined in Miranda's response to this contentious political struggle
 over economic restructuring after Hurricane Maria.
 
 **{AU: There is no reference to *NYTimes* or link that I can see…**
 **EMS: In the screenshot I took of the tweet, you can see that after
-Miranda’s text, there is an image included which is derived from the
-NYtimes and includes the caption I’m citing. Perhaps this archived
+Miranda's text, there is an image included which is derived from the
+NYtimes and includes the caption I'm citing. Perhaps this archived
 version of the tweet is better?
 http://web.archive.org/web/20180901232440/https:/twitter.com/lin\_manuel/status/991782264659939328}**
 
 **ALEX: I see no *NY Times* image and caption as she describes** **in
 either her archived tweet**
 **(https://web.archive.org/web/20181231191105/https://twitter.com/lin\_manuel/status/991782264659939328)
-or the alternate** **she gives above. But I’m not a Twitter user, so am
+or the alternate** **she gives above. But I'm not a Twitter user, so am
 I just missing something? Or is my crappy satellite internet just not
-downloading it? Please take a look at** **her link. If it’s not clear
+downloading it? Please take a look at** **her link. If it's not clear
 that the image is from the *NY Times* and the caption she quotes from is
 not visible, then I would suggest we stick with my edit above. However,
-if it’s there and** **I’m just somehow not seeing what she describes,
+if it's there and** **I'm just somehow not seeing what she describes,
 please delete my edit and restore her text. **
 
 Miranda appears to generally distance himself from Puerto Rican protest
@@ -1326,66 +1209,66 @@ challenges the logic of a debt economy.
 Expanding Our Archival Vision
 -----------------------------
 
-The limited temporality of Twitter’s window into contemporary discourse
+The limited temporality of Twitter's window into contemporary discourse
 presents specific challenges to researchers who aim to identify trends
 by taking a long(er) view of the conversations. There are limited
 avenues available to retroactively pull an archive of tweets. The free
 programs available (Twitter Archiver and TAGS) only start collecting
-tweets after you first run them. In “Twitter’s and @douenislands’
-Ambiguous Paths,” Jeannine Murray-Román notes of tweets, “They are
+tweets after you first run them. In "Twitter's and @douenislands'
+Ambiguous Paths," Jeannine Murray-Román notes of tweets, "They are
 inaccessible to the lay user once they have been displaced by new
 tweets. Otherwise, commercial social media monitoring tools…exist
 specifically to allow companies to store and dredge information from
-users’ tweets that are no longer viewable by the general public.”[^59]
+users' tweets that are no longer viewable by the general public."[^59]
 The expense of these commercial tools can be prohibitive for most
 scholars.
 
 In addition, Twitter as a corporation sets legal limits on data
-collection. In “Studying and Preserving the Global Networks of Twitter
-Literature,” Christian Howard explains that “while anyone may
-theoretically collect Twitter data, Twitter’s Developer Agreement and
+collection. In "Studying and Preserving the Global Networks of Twitter
+Literature," Christian Howard explains that "while anyone may
+theoretically collect Twitter data, Twitter's Developer Agreement and
 Policy outlines strict limitations about how this data may be shared and
-stored.”[^60] Indeed, to access Twitter APIs (application programming
+stored."[^60] Indeed, to access Twitter APIs (application programming
 interfaces), scholars need to apply to Twitter for permission to perform
 research.[^61] Applying for a developer account does not guarantee
 approval, and the circumstances under which an application is denied are
 not transparent. I can attest to this because my application was
 rejected, and there is no mechanism available to appeal such a decision.
-Twitter’s seemingly automated rejection e-mail ironically evokes
-Miranda’s aesthetics by attempting to offset the presumed disappointment
-of receiving a rejection with repeated gestures of gratitude: “Your
+Twitter's seemingly automated rejection e-mail ironically evokes
+Miranda's aesthetics by attempting to offset the presumed disappointment
+of receiving a rejection with repeated gestures of gratitude: "Your
 Twitter developer account application was not approved. Thank you for
 your interest in developer access. We are unable to serve your use case
-at this time. Thank you for your interest in building on Twitter.”[^62]
+at this time. Thank you for your interest in building on Twitter."[^62]
 
 The social media and Web archiving project Documenting the Now offers a
 crowdsourced alternative to such corporate gatekeeping.[^63] As Howard
-notes in her essay, researchers “circumvent” the limits set by Twitter
-by sharing tweet IDs, since “up to 1,500,000 of which may be shared per
-user per month.”[^64] Howard provides a helpful overview of the process:
+notes in her essay, researchers "circumvent" the limits set by Twitter
+by sharing tweet IDs, since "up to 1,500,000 of which may be shared per
+user per month."[^64] Howard provides a helpful overview of the process:
 
-&gt;Tweet IDs are unique identifying numbers associated with each tweet
-that encodes the Tweet’s metadata. The metadata can then be obtained by
+> Tweet IDs are unique identifying numbers associated with each tweet
+that encodes the Tweet's metadata. The metadata can then be obtained by
 running the Tweet IDs through a program or script such as the tweet
-‘hydrator’ tool developed by Documenting the Now.[^65]
+‘hydrator' tool developed by Documenting the Now.[^65]
 
-Even this workaround has its limitations: “Tweet IDs from deleted tweets
+Even this workaround has its limitations: "Tweet IDs from deleted tweets
 are unable to be hydrated, so unless someone else has captured and
-stored the data from those accounts, the deleted data is gone.” The
+stored the data from those accounts, the deleted data is gone." The
 other obstacle is that Twitter places a temporal limit on such archives,
-“specif\[ying\] that no entity may store and analyze Tweets ‘for a
-period exceeding 30 days.”[^66] While Twitter makes some exceptions to
+"specif[ying] that no entity may store and analyze Tweets ‘for a
+period exceeding 30 days."[^66] While Twitter makes some exceptions to
 this storage rule, allowing for academic researchers to collect and
-retain tweets for longer periods of time, again, researchers’ status
-must be “verified” by Twitter, and the terms of that authorization are
+retain tweets for longer periods of time, again, researchers' status
+must be "verified" by Twitter, and the terms of that authorization are
 nebulous at best.
 
 The problem posed by these restrictions and the limited alternatives
 available for archiving tweets and their metadata is compounded by the
 fact that the Library of Congress has stopped archiving the entirety of
-Twitter and on 1 January 2018 began “acquir\[ing\] tweets…on a very
-selective basis.” The Library of Congress possesses an archive spanning
-2006 to 2017; however, it remains inaccessible or “embargoed” for an
+Twitter and on 1 January 2018 began "acquir[ing] tweets…on a very
+selective basis." The Library of Congress possesses an archive spanning
+2006 to 2017; however, it remains inaccessible or "embargoed" for an
 indeterminate amount of time.[^67] The disconnect with which I opened
 this essay remains: between the private world of social media and the
 public space of the library, between the tweet and the book as objects
@@ -1395,7 +1278,7 @@ Even if Twitter made their collection of tweets open-access or the
 Library of Congress had the ability and means to document it all, why
 would academics want to engage an archive so compromised by the dynamics
 of surveillance and profit extraction? As a popular culture icon,
-Miranda’s mainstream popularity will surely translate into continued
+Miranda's mainstream popularity will surely translate into continued
 academic attention, with critics researching, historicizing, and
 analyzing his creative production and career on stage, in film, and
 online. The question remains whether the same critical interest will be
@@ -1425,9 +1308,9 @@ Latina/o studies, which could indicate future academic investment in
 collecting and protecting the social media activity of US Latinx
 creative writers. However, the scope of this project currently remains
 limited to recovering a pre-1960s past, with the fellowship funds
-focused on supporting “several digital humanities projects involving
+focused on supporting "several digital humanities projects involving
 work by Latinas and Latinos from the American colonial period through
-1960.”[^68]
+1960."[^68]
 
 Without governmental or academic sites for archiving tweets, there is no
 alternative contextualization possible for their production. While
@@ -1438,9 +1321,9 @@ structure, such an archival process would hopefully create some healthy
 distance between researcher and corporation. At the same time, future
 archivists and researchers of Twitter production must continually
 reflect on how their work differs (or does not) from that of the
-surveillance capitalists, who do not just “host content but
+surveillance capitalists, who do not just "host content but
 aggressively, secretly, unilaterally extract value from that
-content.”[^69] Perhaps *secret* is the key word that can distinguish our
+content."[^69] Perhaps *secret* is the key word that can distinguish our
 academic approach to social media labor and creativity. We must not only
 be transparent about our methodology but also explicit about our ethical
 failures. I can only hope that here I have begun to map out a form and
@@ -1469,11 +1352,11 @@ Research conferences.
 
 [^1]: Lin-Manuel Miranda, *Gmorning, Gnight! Little Pep Talks for Me and You*, illus. Jonny Sun (New York: Random House, 2018). 
 
-[^2]: Lin-Manuel Miranda (@Lin\_Manuel), “Gmorning! A bit of news—At YOUR request, we made a book of the Gmornings & Gnights! Illustrations by @jonnysun! Available October 23! We love you!,” Twitter, 17 July 2018, 5:00 am, [*https://web.archive.org/web/20180717122340/https://twitter.com/lin\_manuel/status/1019190030387073025*](https://web.archive.org/web/20180717122340/https://twitter.com/lin_manuel/status/1019190030387073025). 
+[^2]: Lin-Manuel Miranda (@Lin\_Manuel), "Gmorning! A bit of news—At YOUR request, we made a book of the Gmornings & Gnights! Illustrations by @jonnysun! Available October 23! We love you!," Twitter, 17 July 2018, 5:00 am, [*https://web.archive.org/web/20180717122340/https://twitter.com/lin\_manuel/status/1019190030387073025*](https://web.archive.org/web/20180717122340/https://twitter.com/lin_manuel/status/1019190030387073025). 
 
-[^3]: I draw on my prior work situating Miranda within a broader history of US Latinx politics as well as the institution of Broadway theater in particular; see Elena Machado Sáez, “Bodega Sold Dreams: Middle-Class Panic and the Crossover Aesthetics of *In the Heights*,” in *Dialectical Imaginaries: Materialist Approaches to US Latino/a Literature in the Age of Neoliberalism*, ed. Marcial Gonzalez and Carlos Gallego (Ann Arbor: University of Michigan Press, 2018), and “Blackout on Broadway: Affiliation and Audience in *In the Heights* and *Hamilton*,” *Studies in Musical Theater* 12, no. 2 (2018): 181–97. In both essays, I make the case that Miranda’s *In the Heights* and *Hamilton* ambivalently balance a counter-narrative to a history of stereotype on the Broadway stage with the goal of convincing the predominantly white, highly educated tourists in attendance that the “other” is one of them. Having written these essays addressing the themes of belonging, race, politics, class, and audience, I am interested in investigating how the copious amounts of text that Miranda produces via Twitter conveys a broader philosophy on the intersection of aesthetics and politics on social media. 
+[^3]: I draw on my prior work situating Miranda within a broader history of US Latinx politics as well as the institution of Broadway theater in particular; see Elena Machado Sáez, "Bodega Sold Dreams: Middle-Class Panic and the Crossover Aesthetics of *In the Heights*," in *Dialectical Imaginaries: Materialist Approaches to US Latino/a Literature in the Age of Neoliberalism*, ed. Marcial Gonzalez and Carlos Gallego (Ann Arbor: University of Michigan Press, 2018), and "Blackout on Broadway: Affiliation and Audience in *In the Heights* and *Hamilton*," *Studies in Musical Theater* 12, no. 2 (2018): 181–97. In both essays, I make the case that Miranda's *In the Heights* and *Hamilton* ambivalently balance a counter-narrative to a history of stereotype on the Broadway stage with the goal of convincing the predominantly white, highly educated tourists in attendance that the "other" is one of them. Having written these essays addressing the themes of belonging, race, politics, class, and audience, I am interested in investigating how the copious amounts of text that Miranda produces via Twitter conveys a broader philosophy on the intersection of aesthetics and politics on social media. 
 
-[^4]: Patricia Ybarra, “How to Read a Latinx Play in the Twenty-First Century: Learning from Quiara Hudes,” *Theatre Topics* 27, no. 1 (2017): 49. 
+[^4]: Patricia Ybarra, "How to Read a Latinx Play in the Twenty-First Century: Learning from Quiara Hudes," *Theatre Topics* 27, no. 1 (2017): 49. 
 
 [^5]: Twitter homepage, 2018, [*https://web.archive.org/web/20180717110859/https://twitter.com/*](https://web.archive.org/web/20180717110859/https://twitter.com/). 
 
@@ -1481,19 +1364,19 @@ Research conferences.
 
 [^7]: Ibid., 7. 
 
-[^8]: Dorothy Kim, “The Rules of Twitter,” *Hybrid Pedagogy*, 4 December 2014, [*https://hybridpedagogy.org/rules-twitter/*](https://hybridpedagogy.org/rules-twitter/). 
+[^8]: Dorothy Kim, "The Rules of Twitter," *Hybrid Pedagogy*, 4 December 2014, [*https://hybridpedagogy.org/rules-twitter/*](https://hybridpedagogy.org/rules-twitter/). 
 
-[^9]: Dorothy Kim and Eunsong Kim, “The \#TwitterEthics Manifesto,” *Model View Culture*, 7 April 2014, [*https://modelviewculture.com/pieces/the-twitterethics-manifesto*](https://modelviewculture.com/pieces/the-twitterethics-manifesto). 
+[^9]: Dorothy Kim and Eunsong Kim, "The \#TwitterEthics Manifesto," *Model View Culture*, 7 April 2014, [*https://modelviewculture.com/pieces/the-twitterethics-manifesto*](https://modelviewculture.com/pieces/the-twitterethics-manifesto). 
 
 [^10]: Elizabeth Losh, *Hashtag* (New York: Bloombury Academic, 2019), 110. 
 
-[^11]: Sydette Harry, “Everyone Watches, Nobody Sees: How Black Women Disrupt Surveillance Theory,” *Model View Culture*, 6 October 2014, <http://modelviewculture.com/pieces/everyone-watches-nobody-sees-how-black-women-disrupt-surveillance-theory>. 
+[^11]: Sydette Harry, "Everyone Watches, Nobody Sees: How Black Women Disrupt Surveillance Theory," *Model View Culture*, 6 October 2014, <http://modelviewculture.com/pieces/everyone-watches-nobody-sees-how-black-women-disrupt-surveillance-theory>. 
 
 [^12]: Ibid. 
 
 [^13]: Ibid. 
 
-[^14]: Lisa Nakamura, “The Unwanted Labour of Social Media: Women of Colour Call Out Culture As Venture Community Management,” *New Formations*, no. 86 (2015): 106. 
+[^14]: Lisa Nakamura, "The Unwanted Labour of Social Media: Women of Colour Call Out Culture As Venture Community Management," *New Formations*, no. 86 (2015): 106. 
 
 [^15]: Ibid., 108. 
 
@@ -1501,106 +1384,106 @@ Research conferences.
 
 [^17]: Macarena Gómez-Barris, introduction to *Beyond the Pink Tide: Art and Political Undercurrents in the Americas* (Oakland: University of California Press, 2018), 13. 
 
-[^18]: Dorothy Kim, “Social Media and Academic Surveillance: The Ethics of Digital Bodies,” *Model View Culture*, 7 October 2014, [*http://modelviewculture.com/pieces/social-media-and-academic-surveillance-the-ethics-of-digital-bodies*](http://modelviewculture.com/pieces/social-media-and-academic-surveillance-the-ethics-of-digital-bodies). 
+[^18]: Dorothy Kim, "Social Media and Academic Surveillance: The Ethics of Digital Bodies," *Model View Culture*, 7 October 2014, [*http://modelviewculture.com/pieces/social-media-and-academic-surveillance-the-ethics-of-digital-bodies*](http://modelviewculture.com/pieces/social-media-and-academic-surveillance-the-ethics-of-digital-bodies). 
 
 [^19]: Shoshana Zuboff, *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power* (New York: PublicAffairs, 2019), 111–12. 
 
 [^20]: Ibid., 112. 
 
-[^21]: Elena Machado Sáez, “Permission Request to Cite Tweets in Academic Publication,” e-mail message to Marissa Chibas, 19 September 2019. 
+[^21]: Elena Machado Sáez, "Permission Request to Cite Tweets in Academic Publication," e-mail message to Marissa Chibas, 19 September 2019. 
 
-[^22]: Helena Webb, Marina Jirotka, Bernd Carsten Stahl, William Housley, Adam Edwards, Matthew Williams, Rob Procter, Omer Rana, and Pete Burnap, “The Ethical Challenges of Publishing Twitter Data for Research Dissemination,” in *WebSci’17: Proceedings of the 2017 ACM Web Science Conference* (New York: Association for Computing Machinery, 2018), 340, 342. 341. 
+[^22]: Helena Webb, Marina Jirotka, Bernd Carsten Stahl, William Housley, Adam Edwards, Matthew Williams, Rob Procter, Omer Rana, and Pete Burnap, "The Ethical Challenges of Publishing Twitter Data for Research Dissemination," in *WebSci'17: Proceedings of the 2017 ACM Web Science Conference* (New York: Association for Computing Machinery, 2018), 340, 342. 341. 
 
 [^23]: Ibid., 343. 
 
 [^24]: Ibid., 341. 
 
-[^25]: Marissa Chibas Preston, “Re: Marissa Chibas ‘Permission Request to Cite Tweets in Academic Publication,’” e-mail message to Elena Machado Sáez, 27 September 2019; Charlie Vázquez, “Re: Permission Request to Cite Tweets in Academic Publication,” e-mail message to Elena Machado Sáez, 20 September 2019. 
+[^25]: Marissa Chibas Preston, "Re: Marissa Chibas ‘Permission Request to Cite Tweets in Academic Publication,'" e-mail message to Elena Machado Sáez, 27 September 2019; Charlie Vázquez, "Re: Permission Request to Cite Tweets in Academic Publication," e-mail message to Elena Machado Sáez, 20 September 2019. 
 
-[^26]: Elena Machado Sáez, “Latinx Twitter: Lin-Manuel Miranda; ‘For You’ Tweets from March 2017 until January 2018,” [*https://web.archive.org/web/20180724174411/http://elenamachado.blogs.bucknell.edu/work-in-progress/latinx-twitter-lin-manuel-miranda/*](https://web.archive.org/web/20180724174411/http://elenamachado.blogs.bucknell.edu/work-in-progress/latinx-twitter-lin-manuel-miranda/). 
+[^26]: Elena Machado Sáez, "Latinx Twitter: Lin-Manuel Miranda; ‘For You' Tweets from March 2017 until January 2018," [*https://web.archive.org/web/20180724174411/http://elenamachado.blogs.bucknell.edu/work-in-progress/latinx-twitter-lin-manuel-miranda/*](https://web.archive.org/web/20180724174411/http://elenamachado.blogs.bucknell.edu/work-in-progress/latinx-twitter-lin-manuel-miranda/). 
 
-[^27]: Charlie Vázquez (@charlievasquez), “A special shout-out to those of you (us) who didn't grow up with a father, or with one who wasn't there for you. You are champions!,” Twitter, 18 June 2017, 10:58 am, [*https://web.archive.org/web/20181230013539/https://twitter.com/charlievazquez/statuses/876499382488707075*](https://web.archive.org/web/20181230013539/https://twitter.com/charlievazquez/statuses/876499382488707075). 
+[^27]: Charlie Vázquez (@charlievasquez), "A special shout-out to those of you (us) who didn't grow up with a father, or with one who wasn't there for you. You are champions!," Twitter, 18 June 2017, 10:58 am, [*https://web.archive.org/web/20181230013539/https://twitter.com/charlievazquez/statuses/876499382488707075*](https://web.archive.org/web/20181230013539/https://twitter.com/charlievazquez/statuses/876499382488707075). 
 
-[^28]: Charlie Vázquez (@charlievasquez), “Many people close to me are being tested hard by the universe. My word for this season is ‘selflessness’. I am here for you,” Twitter, 30 May 2017, 2:37 pm, [*https://web.archive.org/web/20181230013652/https://twitter.com/charlievazquez/statuses/869669182526435332*](https://web.archive.org/web/20181230013652/https://twitter.com/charlievazquez/statuses/869669182526435332). 
+[^28]: Charlie Vázquez (@charlievasquez), "Many people close to me are being tested hard by the universe. My word for this season is ‘selflessness'. I am here for you," Twitter, 30 May 2017, 2:37 pm, [*https://web.archive.org/web/20181230013652/https://twitter.com/charlievazquez/statuses/869669182526435332*](https://web.archive.org/web/20181230013652/https://twitter.com/charlievazquez/statuses/869669182526435332). 
 
-[^29]: Ricardo L. Ortíz, “Latina/o Theatre and Performance in the Context of Social Movements,” in *The Cambridge History of Latina/o American Literature*, ed. John Morán González and Laura Lomas (New York: Cambridge University Press, 2018), 465. 
+[^29]: Ricardo L. Ortíz, "Latina/o Theatre and Performance in the Context of Social Movements," in *The Cambridge History of Latina/o American Literature*, ed. John Morán González and Laura Lomas (New York: Cambridge University Press, 2018), 465. 
 
-[^30]: The song takes its lyrics from the musical *West Side Story*, which Frances Negrón-Mutaner dubs “the diaspora’s ‘trauma’” and a “constitutive site for AmeRícan ethno-national identification.” Frances Negrón-Mutaner, “Feeling Pretty: *West Side Story* and US Puerto Rican Identity,” in *Boricua Pop: Puerto Ricans and the Latinization of American Culture* (New York: New York University Press, 2004), 58. 
+[^30]: The song takes its lyrics from the musical *West Side Story*, which Frances Negrón-Mutaner dubs "the diaspora's ‘trauma'" and a "constitutive site for AmeRícan ethno-national identification." Frances Negrón-Mutaner, "Feeling Pretty: *West Side Story* and US Puerto Rican Identity," in *Boricua Pop: Puerto Ricans and the Latinization of American Culture* (New York: New York University Press, 2004), 58. 
 
 [^31]: For a nuanced and detailed analysis of how hashtags have been deployed, including commercial and social activist uses, see Losh, *Hashtag*. 
 
-[^32]: Lin-Manuel Miranda (@Lin\_Manuel), “Y’all, when I say all hands on deck for Puerto Rico I mean ALL HANDS ON DECK,” Twitter, 5 October 2017, 7:48 am, [*https://web.archive.org/web/20181231011310/https:/twitter.com/Lin\_Manuel/status/915951732517154817*](https://web.archive.org/web/20181231011310/https:/twitter.com/Lin_Manuel/status/915951732517154817). 
+[^32]: Lin-Manuel Miranda (@Lin\_Manuel), "Y'all, when I say all hands on deck for Puerto Rico I mean ALL HANDS ON DECK," Twitter, 5 October 2017, 7:48 am, [*https://web.archive.org/web/20181231011310/https:/twitter.com/Lin\_Manuel/status/915951732517154817*](https://web.archive.org/web/20181231011310/https:/twitter.com/Lin_Manuel/status/915951732517154817). 
 
-[^33]: For example, a 2012 *New York Post* article by Candace M. Glove lists Luis Miranda as a key player in Bronx “political nonprofits”; see Candace M. Glove, “Twi\$ted Web of Political Nonprofits in Bx,” *New York Post*, 26 August 2012, https://nypost.com/2012/08/26/twited-web-of-political-nonprofits-in-bx/. Additionally, a 2014 newsletter from the National Institute for Latino Policy (NiLP) summarizes the critical press coverage of Luis Miranda’s lobbying efforts; see Angelo Falcón, “The Hispanic Federation–Luis Miranda Connection: Undermining the Agenda of a Latino Community Institution,” National Institute for Latino Policy, 10 July 2014, *https://web.archive.org/web/20151010000523/http://www.nilpnetwork.org/NiLP\_Commentary\_-\_Hispanic\_Federation.pdf*. 
+[^33]: For example, a 2012 *New York Post* article by Candace M. Glove lists Luis Miranda as a key player in Bronx "political nonprofits"; see Candace M. Glove, "Twi\$ted Web of Political Nonprofits in Bx," *New York Post*, 26 August 2012, https://nypost.com/2012/08/26/twited-web-of-political-nonprofits-in-bx/. Additionally, a 2014 newsletter from the National Institute for Latino Policy (NiLP) summarizes the critical press coverage of Luis Miranda's lobbying efforts; see Angelo Falcón, "The Hispanic Federation–Luis Miranda Connection: Undermining the Agenda of a Latino Community Institution," National Institute for Latino Policy, 10 July 2014, *https://web.archive.org/web/20151010000523/http://www.nilpnetwork.org/NiLP\_Commentary\_-\_Hispanic\_Federation.pdf*. 
 
-[^34]: Juan González, “Family Plays Big Role in Nurturing *Hamilton* on Broadway,” *New York Daily News*, 6 August 2015, <https://www.nydailynews.com/new-york/gonzalez-family-helps-bring-hamilton-broadway-article-1.2317665>. 
+[^34]: Juan González, "Family Plays Big Role in Nurturing *Hamilton* on Broadway," *New York Daily News*, 6 August 2015, <https://www.nydailynews.com/new-york/gonzalez-family-helps-bring-hamilton-broadway-article-1.2317665>. 
 
-[^35]: Lin-Manuel Miranda (@Lin\_Manuel), “HelloHelloHello. Introducing our biggest @Prizeo contest yet & the \#Ham4All Challenge! Donate at http://prizeo.com/Hamilton! Sing! Oh, I \[heart\] you,” Twitter, 26 June 2017, 6:01 am, [*http://web.archive.org/web/20170628051129/https://twitter.com/lin\_manuel/status/879323738398916608*](http://web.archive.org/web/20170628051129/https://twitter.com/lin_manuel/status/879323738398916608). 
+[^35]: Lin-Manuel Miranda (@Lin\_Manuel), "HelloHelloHello. Introducing our biggest @Prizeo contest yet & the \#Ham4All Challenge! Donate at http://prizeo.com/Hamilton! Sing! Oh, I [heart] you," Twitter, 26 June 2017, 6:01 am, [*http://web.archive.org/web/20170628051129/https://twitter.com/lin\_manuel/status/879323738398916608*](http://web.archive.org/web/20170628051129/https://twitter.com/lin_manuel/status/879323738398916608). 
 
 [^36]: Immigrants: We Get the Job Done Coalition, Hispanic Federation, 2017. For a description of the project, see [*https://web.archive.org/web/20170629210853/http://hispanicfederation.org/getthejobdone/*](https://web.archive.org/web/20170629210853/http://hispanicfederation.org/getthejobdone/). 
 
-[^37]: Falcón, “The Hispanic Federation–Luis Miranda Connection.” 
+[^37]: Falcón, "The Hispanic Federation–Luis Miranda Connection." 
 
-[^38]: Jarrett Murphy, “The Numbers: Campaign Consultants Who Double as Lobbyists,” CityLimits.org, 13 May 2013, [*https://web.archive.org/web/20150408034341/http://citylimits.org/2013/05/13/the-numbers-campaign-consultants-who-double-as-lobbyists/*](https://web.archive.org/web/20150408034341/http://citylimits.org/2013/05/13/the-numbers-campaign-consultants-who-double-as-lobbyists/). 
+[^38]: Jarrett Murphy, "The Numbers: Campaign Consultants Who Double as Lobbyists," CityLimits.org, 13 May 2013, [*https://web.archive.org/web/20150408034341/http://citylimits.org/2013/05/13/the-numbers-campaign-consultants-who-double-as-lobbyists/*](https://web.archive.org/web/20150408034341/http://citylimits.org/2013/05/13/the-numbers-campaign-consultants-who-double-as-lobbyists/). 
 
-[^39]: Ken Lovett, “Now Playing: Hamilton the Political Consultant,” *New York Daily News*, 5 September 2016, <https://www.nydailynews.com/news/politics/playing-hamilton-political-consultant-article-1.2777740>. 
+[^39]: Ken Lovett, "Now Playing: Hamilton the Political Consultant," *New York Daily News*, 5 September 2016, <https://www.nydailynews.com/news/politics/playing-hamilton-political-consultant-article-1.2777740>. 
 
-[^40]: Lin-Manuel Miranda (@Lin\_Manuel), “In the meantime, we've partnered with @HispanicFed. You can donate to relief efforts here in two clicks: hispanicfederation.org/donate/,” Twitter, 21 September 2017, 12:34 am, [*https://web.archive.org/web/20170921230833/https://twitter.com/Lin\_Manuel/status/910769261479677953*](https://web.archive.org/web/20170921230833/https://twitter.com/Lin_Manuel/status/910769261479677953). 
+[^40]: Lin-Manuel Miranda (@Lin\_Manuel), "In the meantime, we've partnered with @HispanicFed. You can donate to relief efforts here in two clicks: hispanicfederation.org/donate/," Twitter, 21 September 2017, 12:34 am, [*https://web.archive.org/web/20170921230833/https://twitter.com/Lin\_Manuel/status/910769261479677953*](https://web.archive.org/web/20170921230833/https://twitter.com/Lin_Manuel/status/910769261479677953). 
 
-[^41]: Lin-Manuel Miranda (@Lin\_Manuel), “Gmorning! The trains run so much better when my wife takes the morning shift. Let's make new paths today. hispanicfederation.org/donate,” Twitter, 27 September 2017, 5:55 am, [*https://web.archive.org/web/20181231191605/https://twitter.com/Lin\_Manuel/status/913024298654273536*](https://web.archive.org/web/20181231191605/https://twitter.com/Lin_Manuel/status/913024298654273536). 
+[^41]: Lin-Manuel Miranda (@Lin\_Manuel), "Gmorning! The trains run so much better when my wife takes the morning shift. Let's make new paths today. hispanicfederation.org/donate," Twitter, 27 September 2017, 5:55 am, [*https://web.archive.org/web/20181231191605/https://twitter.com/Lin\_Manuel/status/913024298654273536*](https://web.archive.org/web/20181231191605/https://twitter.com/Lin_Manuel/status/913024298654273536). 
 
-[^42]: Michael Paulson, “Lin-Manuel Miranda’s Passion for Puerto Rico,” *New York Times*, 26 December 2018, <https://www.nytimes.com/2018/12/26/theater/hamilton-puerto-rico-lin-manuel-miranda.html>. 
+[^42]: Michael Paulson, "Lin-Manuel Miranda's Passion for Puerto Rico," *New York Times*, 26 December 2018, <https://www.nytimes.com/2018/12/26/theater/hamilton-puerto-rico-lin-manuel-miranda.html>. 
 
-[^43]: For example, Paulson’s article notes in passing that Miranda “conducts” his philanthropy in “collaboration with his family” but does not explain how the Hispanic Federation fits into that narrative (ibid.). 
+[^43]: For example, Paulson's article notes in passing that Miranda "conducts" his philanthropy in "collaboration with his family" but does not explain how the Hispanic Federation fits into that narrative (ibid.). 
 
 [^44]: Twitter bio for Lin-Manuel Miranda (@Lin\_Manuel), in January 2018, with varying bio photos; see figure 24, <http://web.archive.org/web/20180106034514/https:/twitter.com/lin_manuel>, and [http://web.archive.org/web/20180107153834/https://twitter.com/lin\_manuel](http://web.archive.org/web/20180107153834/https:/twitter.com/lin_manuel). 
 
-[^45]: See Lin-Manuel Miranda, as told to Frank DiGiacomo, “*Hamilton*'s Lin-Manuel Miranda on Finding Originality, Racial Politics (and Why Trump Should See His Show),” *Hollywood Reporter*, 12 August 2015, <https://www.hollywoodreporter.com/features/hamiltons-lin-manuel-miranda-finding-814657>. 
+[^45]: See Lin-Manuel Miranda, as told to Frank DiGiacomo, "*Hamilton*'s Lin-Manuel Miranda on Finding Originality, Racial Politics (and Why Trump Should See His Show)," *Hollywood Reporter*, 12 August 2015, <https://www.hollywoodreporter.com/features/hamiltons-lin-manuel-miranda-finding-814657>. 
 
-[^46]: Lin-Manuel Miranda (@Lin\_Manuel), “It is literally my job to put songs in order to make you feel things. I've had a ton of practice,” Twitter, 14 August 2017, 4:46 pm, [*https://web.archive.org/web/20181231000057/https://twitter.com/lin\_manuel/status/897242937788125184*](https://web.archive.org/web/20181231000057/https://twitter.com/lin_manuel/status/897242937788125184). 
+[^46]: Lin-Manuel Miranda (@Lin\_Manuel), "It is literally my job to put songs in order to make you feel things. I've had a ton of practice," Twitter, 14 August 2017, 4:46 pm, [*https://web.archive.org/web/20181231000057/https://twitter.com/lin\_manuel/status/897242937788125184*](https://web.archive.org/web/20181231000057/https://twitter.com/lin_manuel/status/897242937788125184). 
 
-[^47]: Elizabeth Titrington Craft, “‘Is This What It Takes Just to Make It to Broadway?!’: Marketing *In the Heights* in the Twenty-First Century,” *Studies in Musical Theater* 5, no. 1 (2011): 58, 62, 59. 
+[^47]: Elizabeth Titrington Craft, "‘Is This What It Takes Just to Make It to Broadway?!': Marketing *In the Heights* in the Twenty-First Century," *Studies in Musical Theater* 5, no. 1 (2011): 58, 62, 59. 
 
 [^48]: Ibid., 58. 
 
-[^49]: Lin-Manuel Miranda (@Lin\_Manuel), “Good morning! Woke up grateful for you, and this lady, and that guy, and everything,” Twitter, 12 June 2017, 6:03 am, [*https://web.archive.org/web/20181231001111/https://twitter.com/Lin\_Manuel/status/874250737408192514*](https://web.archive.org/web/20181231001111/https://twitter.com/Lin_Manuel/status/874250737408192514). 
+[^49]: Lin-Manuel Miranda (@Lin\_Manuel), "Good morning! Woke up grateful for you, and this lady, and that guy, and everything," Twitter, 12 June 2017, 6:03 am, [*https://web.archive.org/web/20181231001111/https://twitter.com/Lin\_Manuel/status/874250737408192514*](https://web.archive.org/web/20181231001111/https://twitter.com/Lin_Manuel/status/874250737408192514). 
 
-[^50]: Ryan P. C. Trimble (@Ryntern), “My greatest dream is to one day reach @Lin\_Manuel levels of ‘casting myself in things I write,’” Twitter (unknown date and time); Lin-Manuel Miranda (@Lin\_Manuel), “Oh, it's easy! 1. Realize being an actor of color means no one will write your dream role for you. 2. Get to writing. 3. Repeat. Good luck!,” Twitter, 22 September 2017, 3:15 pm, [*https://web.archive.org/web/20181231001344/https://twitter.com/Lin\_Manuel/status/911353178049908736*](https://web.archive.org/web/20181231001344/https://twitter.com/Lin_Manuel/status/911353178049908736). 
+[^50]: Ryan P. C. Trimble (@Ryntern), "My greatest dream is to one day reach @Lin\_Manuel levels of ‘casting myself in things I write,'" Twitter (unknown date and time); Lin-Manuel Miranda (@Lin\_Manuel), "Oh, it's easy! 1. Realize being an actor of color means no one will write your dream role for you. 2. Get to writing. 3. Repeat. Good luck!," Twitter, 22 September 2017, 3:15 pm, [*https://web.archive.org/web/20181231001344/https://twitter.com/Lin\_Manuel/status/911353178049908736*](https://web.archive.org/web/20181231001344/https://twitter.com/Lin_Manuel/status/911353178049908736). 
 
-[^51]: Lin-Manuel Miranda (@Lin\_Manuel), “Gmorning! Take the time to tell someone you're grateful for them. Mean it. It feels good. Try it. Grateful for you, & another day. Let's go!,” Twitter, 2 May 2017, 11:39 pm, [*https://web.archive.org/web/20181231001500/https://twitter.com/Lin\_Manuel/status/859658638629232640*](https://web.archive.org/web/20181231001500/https://twitter.com/Lin_Manuel/status/859658638629232640). 
+[^51]: Lin-Manuel Miranda (@Lin\_Manuel), "Gmorning! Take the time to tell someone you're grateful for them. Mean it. It feels good. Try it. Grateful for you, & another day. Let's go!," Twitter, 2 May 2017, 11:39 pm, [*https://web.archive.org/web/20181231001500/https://twitter.com/Lin\_Manuel/status/859658638629232640*](https://web.archive.org/web/20181231001500/https://twitter.com/Lin_Manuel/status/859658638629232640). 
 
-[^52]: Lin-Manuel Miranda (@Lin\_Manuel), “Grateful for you. Can't wait for you to see it this summer,” Twitter, 19 May 2017, 9:03 am, [*https://web.archive.org/web/20181231005502/https://twitter.com/Lin\_Manuel/status/865598673278906368*](https://web.archive.org/web/20181231005502/https://twitter.com/Lin_Manuel/status/865598673278906368). 
+[^52]: Lin-Manuel Miranda (@Lin\_Manuel), "Grateful for you. Can't wait for you to see it this summer," Twitter, 19 May 2017, 9:03 am, [*https://web.archive.org/web/20181231005502/https://twitter.com/Lin\_Manuel/status/865598673278906368*](https://web.archive.org/web/20181231005502/https://twitter.com/Lin_Manuel/status/865598673278906368). 
 
-[^53]: Lin-Manuel Miranda (@Lin\_Manuel), “I can't wait for you to meet Moana,” Twitter, 6 January 2016, 6:26 am, [*https://web.archive.org/web/20181231005718/https://twitter.com/lin\_manuel/status/684742849892642817*](https://web.archive.org/web/20181231005718/https://twitter.com/lin_manuel/status/684742849892642817). 
+[^53]: Lin-Manuel Miranda (@Lin\_Manuel), "I can't wait for you to meet Moana," Twitter, 6 January 2016, 6:26 am, [*https://web.archive.org/web/20181231005718/https://twitter.com/lin\_manuel/status/684742849892642817*](https://web.archive.org/web/20181231005718/https://twitter.com/lin_manuel/status/684742849892642817). 
 
-[^54]: Lin-Manuel Miranda (@Lin\_Manuel), “Texas, we are thinking about you and we love you and we're here for you. Be safe. \[heart\] \[heart\] \[heart\] \[heart\] \[heart\],” Twitter, 25 August 2017, 7:58 am, [*https://web.archive.org/web/20181231010452/https://twitter.com/Lin\_Manuel/status/901096336862449669*](https://web.archive.org/web/20181231010452/https://twitter.com/Lin_Manuel/status/901096336862449669); “\[Puerto Rican flag\], your children and grandchildren are out here praying for you. Stay safe,” Twitter, 18 September 2017, 2:41 pm, [*https://web.archive.org/web/20181231010634/https://twitter.com/Lin\_Manuel/status/909895086061887488*](https://web.archive.org/web/20181231010634/https://twitter.com/Lin_Manuel/status/909895086061887488). 
+[^54]: Lin-Manuel Miranda (@Lin\_Manuel), "Texas, we are thinking about you and we love you and we're here for you. Be safe. [heart] [heart] [heart] [heart] [heart]," Twitter, 25 August 2017, 7:58 am, [*https://web.archive.org/web/20181231010452/https://twitter.com/Lin\_Manuel/status/901096336862449669*](https://web.archive.org/web/20181231010452/https://twitter.com/Lin_Manuel/status/901096336862449669); "[Puerto Rican flag], your children and grandchildren are out here praying for you. Stay safe," Twitter, 18 September 2017, 2:41 pm, [*https://web.archive.org/web/20181231010634/https://twitter.com/Lin\_Manuel/status/909895086061887488*](https://web.archive.org/web/20181231010634/https://twitter.com/Lin_Manuel/status/909895086061887488). 
 
-[^55]: Lin-Manuel Miranda (@Lin\_Manuel), “Dreamers, this is news for you. What is not news but also true: millions of Americans have your back and are fighting for you,” Twitter, 8 September 2017, 8:26 am, [*https://web.archive.org/web/20181231010851/https://twitter.com/Lin\_Manuel/status/906176961998979072*](https://web.archive.org/web/20181231010851/https://twitter.com/Lin_Manuel/status/906176961998979072). 
+[^55]: Lin-Manuel Miranda (@Lin\_Manuel), "Dreamers, this is news for you. What is not news but also true: millions of Americans have your back and are fighting for you," Twitter, 8 September 2017, 8:26 am, [*https://web.archive.org/web/20181231010851/https://twitter.com/Lin\_Manuel/status/906176961998979072*](https://web.archive.org/web/20181231010851/https://twitter.com/Lin_Manuel/status/906176961998979072). 
 
-[^56]: Lin-Manuel Miranda (@Lin\_Manuel), “@realDonaldTrump 3.5 Million Americans are waiting for you,” Twitter, 25 September, 7:28 am, [*https://web.archive.org/web/20181231011019/https://twitter.com/Lin\_Manuel/status/912323044269490184*](https://web.archive.org/web/20181231011019/https://twitter.com/Lin_Manuel/status/912323044269490184); “You're going straight to hell, @realDonaldTrump. No long lines for you. Someone will say, ‘Right this way, sir.’ They'll clear a path,” Twitter, 30 September 2017, 5:21 am, [*https://web.archive.org/web/20181231011144/https://twitter.com/Lin\_Manuel/status/914102927744217088*](https://web.archive.org/web/20181231011144/https://twitter.com/Lin_Manuel/status/914102927744217088). 
+[^56]: Lin-Manuel Miranda (@Lin\_Manuel), "@realDonaldTrump 3.5 Million Americans are waiting for you," Twitter, 25 September, 7:28 am, [*https://web.archive.org/web/20181231011019/https://twitter.com/Lin\_Manuel/status/912323044269490184*](https://web.archive.org/web/20181231011019/https://twitter.com/Lin_Manuel/status/912323044269490184); "You're going straight to hell, @realDonaldTrump. No long lines for you. Someone will say, ‘Right this way, sir.' They'll clear a path," Twitter, 30 September 2017, 5:21 am, [*https://web.archive.org/web/20181231011144/https://twitter.com/Lin\_Manuel/status/914102927744217088*](https://web.archive.org/web/20181231011144/https://twitter.com/Lin_Manuel/status/914102927744217088). 
 
-[^57]: Lin-Manuel Miranda (@Lin\_Manuel), “Heartbroken and frustrated by the images and stories out of Puerto Rico after yesterday's protests. If anyone's got cause to peacefully protest their treatment at the hands of government, it's the people of Puerto Rico,” Twitter, 2 May 2018, 1:51 pm, [*https://web.archive.org/web/20181231191105/https://twitter.com/lin\_manuel/status/991782264659939328*](https://web.archive.org/web/20181231191105/https://twitter.com/lin_manuel/status/991782264659939328). 
+[^57]: Lin-Manuel Miranda (@Lin\_Manuel), "Heartbroken and frustrated by the images and stories out of Puerto Rico after yesterday's protests. If anyone's got cause to peacefully protest their treatment at the hands of government, it's the people of Puerto Rico," Twitter, 2 May 2018, 1:51 pm, [*https://web.archive.org/web/20181231191105/https://twitter.com/lin\_manuel/status/991782264659939328*](https://web.archive.org/web/20181231191105/https://twitter.com/lin_manuel/status/991782264659939328). 
 
-[^58]: For comparison, see a tweet posted on 1 May 2018 by Yarimar Bonilla (@yarimarbonilla), professor of anthropology at Rutgers University, concerning the violent government response to the protests: “Day of protest in PuertoRico ends w/tear gassed children, students, journalists + seemingly unlawful arrests of important activists and overwhelming spectacular police force. Then the governor tells @NPR reporters once again that he sees Puerto Rico as a blank slate”; [*https://web.archive.org/web/20181228014209/https://twitter.com/yarimarbonilla/status/991444555030507520*](https://web.archive.org/web/20181228014209/https://twitter.com/yarimarbonilla/status/991444555030507520). 
+[^58]: For comparison, see a tweet posted on 1 May 2018 by Yarimar Bonilla (@yarimarbonilla), professor of anthropology at Rutgers University, concerning the violent government response to the protests: "Day of protest in PuertoRico ends w/tear gassed children, students, journalists + seemingly unlawful arrests of important activists and overwhelming spectacular police force. Then the governor tells @NPR reporters once again that he sees Puerto Rico as a blank slate"; [*https://web.archive.org/web/20181228014209/https://twitter.com/yarimarbonilla/status/991444555030507520*](https://web.archive.org/web/20181228014209/https://twitter.com/yarimarbonilla/status/991444555030507520). 
 
-[^59]: Jeannine Murray-Román, “Twitter's and @douenislands' Ambiguous Paths,” *sx archipelagos* 1, June 2016, <http://smallaxe.net/sxarchipelagos/issue01/murrayroman-douenislands.html>. 
+[^59]: Jeannine Murray-Román, "Twitter's and @douenislands' Ambiguous Paths," *sx archipelagos* 1, June 2016, <http://smallaxe.net/sxarchipelagos/issue01/murrayroman-douenislands.html>. 
 
-[^60]: Christian Howard, “Studying and Preserving the Global Networks of Twitter Literature,” *Post45*, 17 September 2019, [*http://post45.research.yale.edu/2019/09/global-networks-of-twitter-literature/*](http://post45.research.yale.edu/2019/09/global-networks-of-twitter-literature/). 
+[^60]: Christian Howard, "Studying and Preserving the Global Networks of Twitter Literature," *Post45*, 17 September 2019, [*http://post45.research.yale.edu/2019/09/global-networks-of-twitter-literature/*](http://post45.research.yale.edu/2019/09/global-networks-of-twitter-literature/). 
 
-[^61]: Twitter, “Get Started with Twitter APIs and Tools: Apply for Access,” [*https://developer.twitter.com/en/apply-for-access*](https://developer.twitter.com/en/apply-for-access). 
+[^61]: Twitter, "Get Started with Twitter APIs and Tools: Apply for Access," [*https://developer.twitter.com/en/apply-for-access*](https://developer.twitter.com/en/apply-for-access). 
 
-[^62]: Twitter Developer Accounts, “Account Application Not Approved,” e-mail message to Elena Machado Sáez, 13 June 2019. 
+[^62]: Twitter Developer Accounts, "Account Application Not Approved," e-mail message to Elena Machado Sáez, 13 June 2019. 
 
 [^63]: See Documenting the Now, [*https://www.docnow.io/*](https://www.docnow.io/). 
 
-[^64]: Howard, “Studying and Preserving the Global Networks of Twitter Literature.” 
+[^64]: Howard, "Studying and Preserving the Global Networks of Twitter Literature." 
 
 [^65]: Ibid. 
 
-[^66]: Ibid.; Howard quotes Twitter’s “Developer Agreement and Policy,” I.F.2.b.i, https://developer.twitter.com/en/developer-terms/agreement-and-policy.html. 
+[^66]: Ibid.; Howard quotes Twitter's "Developer Agreement and Policy," I.F.2.b.i, https://developer.twitter.com/en/developer-terms/agreement-and-policy.html. 
 
-[^67]: Library of Congress, “Update on the Twitter Archive at the Library of Congress,” December 2017, 1, https://blogs.loc.gov/loc/2017/12/update-on-the-twitter-archive-at-the-library-of-congress-2/. 
+[^67]: Library of Congress, "Update on the Twitter Archive at the Library of Congress," December 2017, 1, https://blogs.loc.gov/loc/2017/12/update-on-the-twitter-archive-at-the-library-of-congress-2/. 
 
-[^68]: See Sarah Tubbs, “UH Receives Funding to Establish First US Digital Humanities Center for Latina/o Studies,” 15 August 2017, https://www.uh.edu/news-events/stories/2017/august/08152017First-digital-humanities-center-for-latino-latina-studies.php. 
+[^68]: See Sarah Tubbs, "UH Receives Funding to Establish First US Digital Humanities Center for Latina/o Studies," 15 August 2017, https://www.uh.edu/news-events/stories/2017/august/08152017First-digital-humanities-center-for-latino-latina-studies.php. 
 
 [^69]: Zuboff, *Age of Surveillance Capitalism*, 112.
