@@ -19,8 +19,7 @@ language: en
 ---
 
 
-Introduction
-------------
+## Introduction
 
 On 17 July 2018, Nuyorican playwright Lin-Manuel Miranda tweeted about
 his forthcoming book from Random House, *Gmorning, Gnight! Little Pep
@@ -65,7 +64,7 @@ to ethically document and archive contemporary Latinx Twitter
 production. I specifically highlight the digital work of Cuban American
 playwright Marissa Chibas, Puerto Rican poet Rich Villar, and Puerto
 Rican writer Charlie Vázquez on Twitter as a counternarrative to
-Miranda's aesthetics. US Latinx cultural producers deploy diversity of
+Miranda's aesthetics. US Latinx cultural producers deploy a diversity of
 aesthetic forms when engaging Twitter as a discursive space. In the
 words of theater scholar Patricia Ybarra, there exists a "temptation"
 among academics to read US Latinx cultural production as "reveal[ing]
@@ -75,8 +74,7 @@ to form."[^4] My comparative approach to the landscape of US Latinx
 Twitter therefore seeks to avoid this ethnographic lens by addressing
 both the form and content of social media work by US Latinx writers.
 
-Social Media, Surveillance, and Affect
---------------------------------------
+## Social Media, Surveillance, and Affect
 
 How Miranda uses Twitter, the way in which he strategically blurs the
 boundaries between public and private life, is intimately connected to
@@ -275,7 +273,7 @@ To my friends and colleagues, I apologetically described myself as a
 "lurker" on Twitter because I had a Twitter account but no feed; I was
 only there to observe out of academic interest. At the same time, I felt
 that I was an interloper, that I was trespassing on conversations that
-did not necessarily imagine me as a listener. I encountered Kim's "The #TwitterEthics Manifesto" as part of a course she cotaught with Angel
+did not necessarily imagine me as a listener. I encountered Kim's "The #TwitterEthics Manifesto" as part of a course she co-taught with Angel
 Nieves at the Digital Humanities Institute held at the University of
 Victoria in June 2019. Reading it, I was so grateful to finally have a
 language by which to explain why and how the research process disturbed
@@ -432,7 +430,7 @@ stopwords in order to visualize the patterns and distinguishing features
 of each Latinx writers' Twitter use.
 
 {% include image.html
-  img="issue04/machado/figure-5.png"
+  img="issue04/machado/figure-5.jpg"
   caption="Figure 5. Twitter profiles of twelve Latinx writers." 
 %}
 
@@ -520,10 +518,23 @@ significantly smaller set of followers and are less active on Twitter:
 Cuban American playwright Marissa Chibas, Puerto Rican poet Rich Villar,
 and Puerto Rican writer Charlie Vázquez.
 
-{% include image.html
-  img="issue04/machado/figure-10.ods"
-  caption="Figure 10. A comparison of \"for you\" usage in original tweets (with retweets removed)." 
-%}
+US Latinx Creative Writer|Username|Number of Tweets|Percentage of Tweets
+---------------------------- | ---------------------------- | ------------------------ | ----------------------------
+Marissa Chibas|@mchibas|7 out of 457|1.53%
+Lin-Manuel Miranda|@Lin_Manuel|61 out of 4466|1.37%
+Rich Villar|@elprofe316|4 out of 590|0.068%
+Charlie Vázquez|@charlievazquez|6 out of 1629|0.037%
+Raquel Cepeda|@RaquelCepeda|3 out of 1014|0.030%
+Angel Dominguez|@dandelionglitch|4 out of 1694|0.024%
+Sofia Quintero|@sofiaquintero|5 out of 2261|0.022%
+John Leguizamo|@JohnLeguizamo|9 out of 4737|0.019%
+Monica Palacios|@MonicaPFlash|2 out of 1924|0.001%
+Kristoffer Díaz|@kristofferdiaz|1 out of 1726|0.0006%
+Daniel Alarcón|@DaniekGAlarcon|1 out of 1655|0.0006%
+Daniel Olivas|@olivasdan|2 out of 4214|0.0005%
+Achy Obejas|@achylandia|1 out of 3688|0.0003%
+
+Figure 10. A comparison of \"for you\" usage in original tweets between May 10, 2017--Nov. 14, 2017 (with retweets removed).
 
 Concentrating on the phrase "for you" as a lens of comparison makes
 explicit a tweet's reference to a relational dynamic. "For you" often
@@ -534,15 +545,30 @@ audience of followers. By close reading the tweets in the corpus, we see
 that the Twitter usage trends of cultivating intimacy and articulating
 an activist politics are expressed using different strategies.
 
-{% include image.html
-  img="issue04/machado/figure-11.ods"
-  caption="Figure 11. A breakdown of sixty-five \"for you\" tweets by Miranda." 
-%}
+**Directed intimacy with general Twitter audience**|**46**
+production of original product/mixtapes|15
+advice/instruction|10
+self-promotion|9
+gratitude|8
+acknowledge/respond to demand for products|1
+**Activism**|**7**
+critique of Trump as “you”|2
+empathy reaction to tragedy|3
+support of DREAMers as “you”|1
 
-{% include image.html
-  img="issue04/machado/figure-12.ods"
-  caption="Figure 12. A breakdown of forty-five \"for you\" tweets by twelve Latinx writers." 
-%}
+Figure 11. A breakdown of sixty-five \"for you\" tweets by Miranda.
+
+**Activism**|**22**
+gratitude for activism of specific others|10
+critique of Trump as “you”|8
+critique of Trump supporters|4
+**Gratitude to specific creative producers**|**14**
+**Directed intimacy with general Twitter audience**|**8**
+offer/request emotional support|4
+advice for work/writing/health|3
+reading recommendation|2
+
+Figure 12. A breakdown of forty-five \"for you\" tweets by twelve Latinx writers.
 
 Miranda uses Twitter to articulate concerns similar to those of other
 Latinx writers, namely, using the "you" to relate to a general audience
@@ -570,10 +596,17 @@ Chibas's feed serves as one example of how Latinx writers use Twitter
 predominantly as a space for political activism as well as to build
 constructive relationships with specific progressive individuals.
 
-{% include image.html
-  img="issue04/machado/figure-13.ods"
-  caption="Figure 13. \"For you\" tweets by Chibas." 
-%}
+Date of Tweet|@mchibas|Reply to
+---------------------------- | ---------------------------- | ------------------------
+Sept. 30, 2017|Thank you for your leadership and please do all you can to ensure our Puerto Rican citizens receive the aid they desperately need. |@KamalaHarris @CarmenYulinCruz
+Sept. 26, 2017|Thank you for your continued leadership.|@BarackObama
+Sept. 23, 2017|My Equinox move for healing and restoration. For you my friends. #weneedtomove We Need To Move Together #wemove [video]
+Sept. 22, 2017|Mildred I am so happy and relieved for you. Un abrazote! Pensando en ustedes y querido Puerto Rico.|@mredruiz
+July 30, 2017|They weren't there for you 45, you were supposed to be there for them.|@DonCheadle
+June 21, 2017|Thank you for your vigilance, foresight, and leadership @RepAdamSchiff. We need the whole truth.|@RepAdamSchiff
+May 31, 2017|Thank you for your leadership.|@kdeleon @realDonaldTrump
+
+Figure 13. \"For you\" tweets by Chibas.
 
 Within this select group of tweets, we see Chibas replying in support of
 US senator for California Kamala Harris; the mayor of San Juan Puerto
@@ -615,10 +648,14 @@ confrontational, performing a kind of rhetorical protest, questioning
 the legitimacy of the president's claim on historical precedent and
 political authority.
 
-{% include image.html
-  img="issue04/machado/figure-15.ods"
-  caption="Figure 15. \"For you\" tweets by Villar." 
-%}
+Date of Tweet|@elprofe316|Reply to
+---------------------------- | ---------------------------- | ------------------------
+08/17/2017|...you realize there are at least two multi-billion dollar intelligence agencies who work for you?|@realDonaldTrump
+08/16/2017|I have a resignation letter for you to sign. https://t.co/00sG0sWsB1 |@realDonaldTrump
+08/05/2017|I've just applied for something like my dream job and I'm asking for your support, prayers, candles, santos, coins in the ocean...whatever!|
+08/05/2017|Thank you! I remember you so clearly and I'm grateful for your energy. |@gionvalentine
+
+Figure 15. \"For you\" tweets by Villar.
 
 By contrast, Villar's tweet to his followers about a "dream job"
 application requests "support, prayers, candles, santos, coins in the
@@ -954,10 +991,35 @@ dynamics of Miranda's Twitter account.
 
 <!-- WordCloud removed -->
 
-{% include image.html
-  img="issue04/machado/figure-28.ods"
-  caption="Figure 27. List of the top twenty-five words within Miranda's \"for you\" corpus." 
-%}
+Term|Count
+---- | ----
+hereís|13
+good|12
+time|11
+grateful|9
+playlist|7
+gmorning|6
+got|6
+iím|6
+thanks|6
+know|5
+night|5
+oh|5
+order|5
+day|4
+gnight|4
+heart|4
+i'll|4
+it's|4
+life|4
+make|4
+mix|4
+morning|4
+need|4
+protect|4
+thank|4
+
+Figure 27. List of the top twenty-five words within Miranda's \"for you\" corpus.
 
 {% include image.html
   img="issue04/machado/figure-29.png"
