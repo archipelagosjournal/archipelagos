@@ -10,9 +10,9 @@ global:
   essays: Ensayos
   projects: Proyectos digitales
   reviews: Reseñas
-  past_issues: Numeros pasados
+  past_issues: Números
   editorial: Política editorial
-  issue: Numero
+  issue: Número
 
 titles:
   about: "acerca de"
@@ -26,3 +26,4 @@ components:
   ccby:
     Este trabajo está licenciado bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Los documentos de origen se pueden encontrar en nuestro 
   repository: repositorio
+  dedication04: "Dedicamos este número a la memoria de Edward Kamau Brathwaite, pionero inimitable del Caribe digital."

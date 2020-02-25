@@ -5,7 +5,7 @@
 <!-- Introductory material -->
 {% assign articles = (include.issue | sort: 'order') %} 
 <ul>
-<h3>Introduction</h3>
+<h3>{% t global.introduction %}</h3>
 {% for page in articles %}
   {% if page.section == "introduction" %}
     <li>
@@ -22,7 +22,7 @@
 </ul>
 
 <ul>
-<h3>Essays</h3>
+<h3>{% t global.essays %}</h3>
 {% for page in articles %}
   {% if page.section == "articles" %}
 
@@ -46,7 +46,7 @@
 </ul>
 
 <ul>
-<h3>Digital Projects</h3>
+<h3>{% t global.projects %}</h3>
 {% for page in articles %}
   {% if page.section == "projects" %}
 
@@ -70,7 +70,7 @@
 </ul>
 
 <ul>
-<h3>Digital Project Reviews</h3>
+<h3>{% t global.reviews %}</h3>
 {% for page in articles %}
   {% if page.section == "reviews" %}
 
