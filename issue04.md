@@ -20,4 +20,4 @@ editor:
 
 <p><em>We dedicate this issue to Kamau Brathwaite.</em></p>
 
-{% include toc.html issue=site.issue03 %}
+{% include toc.html issue=site.issue04 %}

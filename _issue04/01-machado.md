@@ -299,7 +299,7 @@ fact is impossible. Obtain consent *before* you begin.
 
 I contacted Chibas, Villar, and Vázquez via e-mail during September
 2019, requesting permission to cite their tweets in my essay. In the
-message, I explained my project and my goal of publishing it an academic
+message, I explained my project and my goal of publishing it in an academic
 journal, while also sharing an essay draft so they could assess how I
 framed and analyzed their tweets. I closed the message by stating, "If
 you don't reply to my query by October 15th, I'll assume that your
@@ -635,8 +635,7 @@ writer is posting messages to request emotional support or advice, as we
 can see in the case of Puerto Rican poet Rich Villar. His "for you"
 tweets fall into the same top three categories as the tweets of the
 other Latinx writers: critiques of President Trump, requests for
-support, and expressions of gratitude to specific creative producers.
-Villar's tweets to Trump are comical and sarcastic replies to the
+support, and expressions of gratitude to specific creative producers. <span style="background-color: #000000">Villar's tweets to Trump are comical and sarcastic replies to the
 president's tweets; for example, in an August 2017 tweet in which Trump
 instructs his followers to "study what General Pershing of the United
 States did to terrorists when caught," Villar refers Trump to the
@@ -646,7 +645,7 @@ Educational Assistance Act by informing the president, "[I have a]
 resignation letter for you to sign." The tenor of these tweets is
 confrontational, performing a kind of rhetorical protest, questioning
 the legitimacy of the president's claim on historical precedent and
-political authority.
+political authority.</span>
 
 Date of Tweet|@elprofe316|Reply to
 ---------------------------- | ---------------------------- | ------------------------
@@ -657,7 +656,7 @@ Date of Tweet|@elprofe316|Reply to
 
 Figure 15. \"For you\" tweets by Villar.
 
-By contrast, Villar's tweet to his followers about a "dream job"
+<span style="background-color: #000000">By contrast, Villar's tweet to his followers about a "dream job"
 application requests "support, prayers, candles, santos, coins in the
 ocean...whatever!" This plea imagines a community of intimates who would
 not only invest in his success but also be familiar with Latinx
@@ -666,7 +665,7 @@ American queer photographer Gioncarlo Valentine for his creative
 "energy." Villar's tweet demonstrates how Latinx writers imagine
 themselves as part of "other" public spheres. The messages of gratitude
 speak to and actively construct a kinship with creative producers of
-color and queer communities in the United States.
+color and queer communities in the United States.</span>
 
 When Latinx writers imagine their followers as a cohort, that "you"
 carries a communal reference. For instance, Puerto Rican author Charlie
@@ -991,33 +990,22 @@ dynamics of Miranda's Twitter account.
 
 <!-- WordCloud removed -->
 
-Term|Count
----- | ----
-hereís|13
-good|12
-time|11
-grateful|9
-playlist|7
-gmorning|6
-got|6
-iím|6
-thanks|6
-know|5
-night|5
-oh|5
-order|5
-day|4
-gnight|4
-heart|4
-i'll|4
-it's|4
-life|4
-make|4
-mix|4
-morning|4
-need|4
-protect|4
-thank|4
+Term|Count|Term|Count|Term|Count|Term|Count|Term|Count
+---- | ---- |---- | ---- |---- | ---- |---- | ---- 
+hereís|13|gmorning|6|night|5|mix|4|heart|4
+good|12|got|6|oh|5|need|4|i'll|4
+time|11|iím|6|order|5|protect|4|it's|4
+grateful|9|thanks|6|day|4|thank|4|life|4
+playlist|7|know|5|gnight|4|make|4
+
+
+
+
+
+
+
+
+
 
 Figure 27. List of the top twenty-five words within Miranda's \"for you\" corpus.
 
