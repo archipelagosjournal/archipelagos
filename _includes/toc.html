@@ -36,11 +36,13 @@
 
     </span>
     <!-- PDF -->
+    {% if page.pdf == false %}
+    {% else %}
     <p>
       <a class="alt-link" href="{{ site.baseurl }}/assets{{ page.url | replace:'.html','.pdf' }}" target="_blank">PDF</a> 
     </p>
     </li>
-
+    {% endif %}
   {% endif %}
 {% endfor %}
 </ul>
