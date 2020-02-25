@@ -9,7 +9,7 @@ author:
 - name: Jeanne Jégousso
   shortname: Jégousso
   bio: >
-    Jeanne Jégousso is the cofounder and codirector of the *Library of Glissant Studies*. She is an assistant professor of French at Hollins University (VA), where she teaches francophone literatures and culture of the Caribbean and the Indian Ocean. She has published articles in the journal *Nouvelles Études Francophones* and in the books *La Louisiane et les Antilles, une nouvelle région du monde* (Presses Universitaires des Antilles, 2019) and *Édouard Glissant: L'éclat et l'obscur* (Presses Universitaires des Antilles, 2019). She is also a coeditor of the collection *Teaching, Reading, and Theorizing Caribbean Texts* (Lexington, forthcoming). She is a member of the board of the Centre international d'études Édouard Glissant, and she is currently working on her first book titled “La poétique du dépassement dans les littératures contemporaines des Antilles et de l'Océan Indien.”
+    Jeanne Jégousso is the cofounder and codirector of the *Library of Glissant Studies*. She is an assistant professor of French at Hollins University (VA), where she teaches francophone literatures and culture of the Caribbean and the Indian Ocean. She has published articles in the journal *Nouvelles Études Francophones* and in the books *La Louisiane et les Antilles, une nouvelle région du monde* (Presses Universitaires des Antilles, 2019) and *Édouard Glissant: L'éclat et l'obscur* (Presses Universitaires des Antilles, 2019). She is also a coeditor of the collection *Teaching, Reading, and Theorizing Caribbean Texts* (Lexington, forthcoming). She is a member of the board of the Centre international d'études Édouard Glissant, and she is currently working on her first book titled "La poétique du dépassement dans les littératures contemporaines des Antilles et de l'Océan Indien."
 - name: Emily O'Dell
   shortname: O'Dell
   bio: >
@@ -40,8 +40,8 @@ had completed in his *Bibliographie annotée d'Édouard Glissant*
 thirteen hundred references and sixty illustrations pertaining to
 Glissant's work and its criticism. However, because Baudot's
 bibliography had been out of print since 1993, Glissant expressed the
-need for a new project that would “poursuivre le travail d'Alain Baudot”
-(“continue Alain Baudot's work”) and include the books, articles,
+need for a new project that would "poursuivre le travail d'Alain Baudot"
+("continue Alain Baudot's work") and include the books, articles,
 conference talks, interviews, newspaper clippings, and poems that
 Glissant had written in the 1990s and 2000s.[^1] The resulting project
 is the *Library of Glissant Studies*, a digital platform created by
@@ -69,34 +69,34 @@ materials.
 Instead, the team pays special attention to including all texts
 pertaining to Glissant or his work in any language, which demonstrates
 Glissant's theory formulated in his fifth essay of poetics, *La Cohée du
-Lamentin*, that there is a “multirelation où toutes les langues du monde
-. . . trament ensemble des chemins qui sont autant d'échos” (“a
+Lamentin*, that there is a "multirelation où toutes les langues du monde
+. . . trament ensemble des chemins qui sont autant d'échos" ("a
 multirelation where all the languages of the world . . . hatch together
-paths that are as many echoes”).[^3] In other words, the implementation
+paths that are as many echoes").[^3] In other words, the implementation
 of this philosophy in the construction of the digital bibliography
 supposes that the aggregation of languages will facilitate the emergence
 of new research trends that will eventually resonate and influence one
 another. In addition, Glissant writes in his 1981 essay *Le discours
 antillais* that plurilingualism is one of the paths to Relation, which
 consists of ongoing exchanges between various elements as well as
-cultural *metissage*, and that “multilinguisme ‘disperse' le texte écrit
+cultural *metissage*, and that "multilinguisme ‘disperse' le texte écrit
 dans une diversité concrète dont il faut dès maintenant explorer les
-accès inconnus” (“plurilingualism ‘diffuses' the written text in a
+accès inconnus" ("plurilingualism ‘diffuses' the written text in a
 concrete diversity of which we must immediately explore the unknown
-paths”).[^4]
+paths").[^4]
 
 Therefore, in keeping with Glissant's conception of plurilingualism, the
 *Library of Glissant Studies* strives to facilitate exchanges by
 including multiple languages from numerous countries and to encourage
-students, scholars, and readers to explore “unknown paths” in Glissant's
+students, scholars, and readers to explore "unknown paths" in Glissant's
 literary production while developing an aesthetic and structure
-reflecting his notions of Relation and “archipelic-thinking.” In the
-2005 essay *La Cohée du Lamentin*, Glissant distinguished the “pensée
+reflecting his notions of Relation and "archipelic-thinking." In the
+2005 essay *La Cohée du Lamentin*, Glissant distinguished the "pensée
 continentale, qui dévoile en diasporas les splendeurs absolues de
 l'Un\[, et la\] pensée archipélique, où se concentre l'infinie variation
-de la Diversité” (“continental-thinking, which reveals in diasporas the
+de la Diversité" ("continental-thinking, which reveals in diasporas the
 absolute splendors of the One\[, and the\] archipelic-thinking, where
-the infinite variation of Diversity is concentrated”).[^5] By placing
+the infinite variation of Diversity is concentrated").[^5] By placing
 these two types of thinking in opposition, Glissant favors the diverse
 multiplicity (archipelic-thinking) over the repetition of the same
 (continental-thinking). By bringing together languages, materials, and
@@ -181,20 +181,20 @@ sections of the *Caribbean Discourse* published in 1981, therefore
 opening new textual interpretations and permitting a better
 understanding of Glissant's texts and evolutions of thought.
 
-In addition, the digital archives allow us to perceive a “technique de
-l'entassement, de la reprise, de la répétition” (“technique of stacking,
-reiteration, repetition”),[^8] which results in the formulation of new
+In addition, the digital archives allow us to perceive a "technique de
+l'entassement, de la reprise, de la répétition" ("technique of stacking,
+reiteration, repetition"),[^8] which results in the formulation of new
 research questions, including, Why did the author stop writing poetry
 for nineteen years? How did a particular notion evolve between the first
 draft of an article or conference talk and the final publication? It is
 a significant advancement in the field of Glissant studies to be able to
-“see” the *ressassement* at work by placing literary journals from the
+"see" the *ressassement* at work by placing literary journals from the
 1950s and essays from the late 1960s in conversation. *Ressassement*,
 which means repetition with minor changes and is often symbolized by a
 spiral, plays an integral role in Glissant's writing as he explained to
-Alexandre Leupin in *Les entretiens de Baton Rouge*: “La répétition et
-le ressassement m'aident ainsi à fouiller” (“Repetition and
-*ressassement* help me to search”).[^9] For instance, a poem included in
+Alexandre Leupin in *Les entretiens de Baton Rouge*: "La répétition et
+le ressassement m'aident ainsi à fouiller" ("Repetition and
+*ressassement* help me to search").[^9] For instance, a poem included in
 Glissant's 1969 essay *Poetic Intention* was actually published nine
 years previously in *La Voix des Poètes*, a literary journal directed by
 Simone Chevalier.[^10] Therefore, a digital bibliography allows us to
@@ -300,10 +300,10 @@ bibliography and how to examine our digital practices in order to create
 and design a unique tool that is faithful not only to Glissant's work
 and philosophy but also to our wish to further research and
 collaboration while being as inclusive as possible. The *Library of
-Glissant Studies* was created to facilitate “la consultation des sources
+Glissant Studies* was created to facilitate "la consultation des sources
 sans véritablement se prononcer, en apparence, sur les méthodes
-d'analyse qui doivent être employees” (“the consultation of sources
-without determining the methods of analysis that must be used”), to
+d'analyse qui doivent être employees" ("the consultation of sources
+without determining the methods of analysis that must be used"), to
 quote Pierre Mounier in his 2018 essay *Les humanités numériques: Une
 histoire critique*.[^12] Following this principle, the *Library of
 Glissant Studies* was designed as a collection without any
@@ -364,50 +364,26 @@ pedagogical strategies.
 
 ---
 
-[^1]: Édouard Glissant, discussion with Raphaël Lauro, December 2010,
-    Paris. Unless otherwise noted, all translations are ours.
+[^1]: Édouard Glissant, discussion with Raphaël Lauro, December 2010, Paris. Unless otherwise noted, all translations are ours.
 
-[^2]: See the *Library of Glissant Studies*,
-    <https://www.glissantstudies.com>.
+[^2]: See the *Library of Glissant Studies*, <https://www.glissantstudies.com>.
 
-[^3]: Édouard Glissant, *La Cohée du Lamentin* (Paris: Gallimard, 2005),
-    137.
+[^3]: Édouard Glissant, *La Cohée du Lamentin* (Paris: Gallimard, 2005), 137.
 
-[^4]: Édouard Glissant, *Le discours antillais* (Paris: Gallimard,
-    1997), 616.
+[^4]: Édouard Glissant, *Le discours antillais* (Paris: Gallimard, 1997), 616.
 
 [^5]: Glissant, *La Cohée du Lamentin*, 231.
 
-[^6]: Kristin Van Haesendonck and Theo D'Haen, *Caribbeing: Comparing
-    Caribbean Literatures and Cultures* (Amsterdam: Rodopi, 2014); and
-    John E. Drabinski and Marisa Parham, *Theorizing Glissant: Sites and
-    Citations* (London: Rowman and Littlefield, 2015). Other examples
-    include Celia Britton, *Édouard Glissant and Postcolonial Theory:
-    Strategies of Language and Resistance* (Charlottesville: University
-    Press of Virginia, 1999); Christina Kullberg, “Crossroads Poetics:
-    Glissant and Ethnography,” *Callaloo* 36, no. 4 (2013): 968–82;
-    Alexandre Leupin, *Édouard Glissant, philosophe: Héraclite et Hegel
-    dans le Tout-monde* (Paris: Hermann, 2016); and Michael Wiedorn,
-    *Think like an Archipelago: Paradox in the Work of Édouard Glissant*
-    (New York: State University of New York Press, 2018).
+[^6]: Kristin Van Haesendonck and Theo D'Haen, *Caribbeing: Comparing Caribbean Literatures and Cultures* (Amsterdam: Rodopi, 2014); and John E. Drabinski and Marisa Parham, *Theorizing Glissant: Sites and Citations* (London: Rowman and Littlefield, 2015). Other examples include Celia Britton, *Édouard Glissant and Postcolonial Theory: Strategies of Language and Resistance* (Charlottesville: University Press of Virginia, 1999); Christina Kullberg, "Crossroads Poetics: Glissant and Ethnography," *Callaloo* 36, no. 4 (2013): 968–82; Alexandre Leupin, *Édouard Glissant, philosophe: Héraclite et Hegel dans le Tout-monde* (Paris: Hermann, 2016); and Michael Wiedorn, *Think like an Archipelago: Paradox in the Work of Édouard Glissant* (New York: State University of New York Press, 2018).
 
-[^7]: This notion and its consequences were presented in a symposium at
-    the University of Cambridge. See Raphaël Lauro, “Édouard Glissant,
-    archiviste de lui-même: L'exemple du *Discours antillais*” (paper
-    presented at Édouard Glissant: Le cri et la parole, Cambridge, June
-    2019).
+[^7]: This notion and its consequences were presented in a symposium at the University of Cambridge. See Raphaël Lauro, "Édouard Glissant, archiviste de lui-même: L'exemple du *Discours antillais*" (paper presented at Édouard Glissant: Le cri et la parole, Cambridge, June 2019).
 
 [^8]: Ibid.
 
-[^9]: Alexandre Leupin, *Les entretiens de Baton Rouge* (Paris:
-    Gallimard, 2008), 58.
+[^9]: Alexandre Leupin, *Les entretiens de Baton Rouge* (Paris: Gallimard, 2008), 58.
 
-[^10]: Édouard Glissant, *L'intention poétique* (Paris: Gallimard,
-    1997), 26.
+[^10]: Édouard Glissant, *L'intention poétique* (Paris: Gallimard, 1997), 26.
 
-[^11]: See *Acoma: Revue de littérature, de sciences humaines et
-    politiques trimestrielle, 1–5, 1971–1973* (Perpignan: Presses
-    Universitaires de Perpignan, 2005).
+[^11]: See *Acoma: Revue de littérature, de sciences humaines et politiques trimestrielle, 1–5, 1971–1973* (Perpignan: Presses Universitaires de Perpignan, 2005).
 
-[^12]: Pierre Mounier, *Les humanités numériques: Une histoire critique*
-    (Paris: Éditions de la Maison des sciences de l'homme, 2018), 48.
+[^12]: Pierre Mounier, *Les humanités numériques: Une histoire critique* (Paris: Éditions de la Maison des sciences de l'homme, 2018), 48.

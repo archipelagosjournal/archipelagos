@@ -400,7 +400,7 @@ Monica Palacios|@MonicaPFlash|758
 Angel Dominguez|@dandelionglitch|635
 Marissa Chibas|@mchibas|627
 
-Figure 3. Comparison by number of followers.
+<span class="caption">Figure 3. Comparison by number of followers.</span>
 
 US Latinx Creative Writer|Username|Numbers of Tweets
 ---------------------------- | ---------------------------- | ------------------------
@@ -418,7 +418,7 @@ Raquel Cepeda|@RaquelCepeda|1,014
 Rich Villar|@elprofe316|590
 Marissa Chibas|@mchibas|457
 
-Figure 4. Comparison by number of tweets.
+<span class="caption">Figure 4. Comparison by number of tweets.</span>
 
 The resulting list of twelve writers is therefore a cross-section of
 those Latinx authors with the most followers and the most active tweet
@@ -534,7 +534,7 @@ Daniel Alarcón|@DaniekGAlarcon|1 out of 1655|0.0006%
 Daniel Olivas|@olivasdan|2 out of 4214|0.0005%
 Achy Obejas|@achylandia|1 out of 3688|0.0003%
 
-Figure 10. A comparison of \"for you\" usage in original tweets between May 10, 2017--Nov. 14, 2017 (with retweets removed).
+<span class="caption">Figure 10. A comparison of \"for you\" usage in original tweets between May 10, 2017--Nov. 14, 2017 (with retweets removed).</span>
 
 Concentrating on the phrase "for you" as a lens of comparison makes
 explicit a tweet's reference to a relational dynamic. "For you" often
@@ -654,7 +654,7 @@ Date of Tweet|@elprofe316|Reply to
 08/05/2017|I've just applied for something like my dream job and I'm asking for your support, prayers, candles, santos, coins in the ocean...whatever!|
 08/05/2017|Thank you! I remember you so clearly and I'm grateful for your energy. |@gionvalentine
 
-Figure 15. \"For you\" tweets by Villar.
+<span class="caption">Figure 15. \"For you\" tweets by Villar.</span>
 
 <span style="background-color: #000000">By contrast, Villar's tweet to his followers about a "dream job"
 application requests "support, prayers, candles, santos, coins in the
@@ -998,16 +998,7 @@ time|11|iím|6|order|5|protect|4|it's|4
 grateful|9|thanks|6|day|4|thank|4|life|4
 playlist|7|know|5|gnight|4|make|4
 
-
-
-
-
-
-
-
-
-
-Figure 27. List of the top twenty-five words within Miranda's \"for you\" corpus.
+<span class="caption">Figure 27. List of the top twenty-five words within Miranda's \"for you\" corpus.</span>
 
 {% include image.html
   img="issue04/machado/figure-29.png"
