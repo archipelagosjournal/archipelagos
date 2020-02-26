@@ -3,7 +3,7 @@ layout: article
 section: articles
 title: 
   "long": "Decolonizing the Archival Record about the Enslaved: Digitizing the *Barbados Mercury Gazette*"
-  "short": "Decolonizing the Archival Record about the Enslaved"
+  "short": "Decolonizing the Archival Record"
 doi: ""
 author: 
 - name: Amalia Levi
