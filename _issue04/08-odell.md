@@ -18,15 +18,15 @@ date: January, 2020
 issue: 4
 order: 4
 abstract: >
-  The *Library of Glissant Studies*, an open-access website, centralizes information by and on the work of Caribbean writer Édouard Glissant (Martinique, 1928–France, 2011). Endorsed by literary executors Sylvie and Mathieu Glissant, this multilingual, multimedia website provides bibliographic information, reproduces rare sources, connects numerous institutions, and includes the works of both renowned and emerging scholars in order to stimulate further research. The library chronicles all forms of academic work devoted to Glissant's writings, such as doctoral dissertations, MA theses, articles, books, and conference presentations. In this article, Jeanne Jégousso and Emily O'Dell address the origin, the evolution, and the challenges of the digital platform that was launched in March 2018.
+  The *Library of Glissant Studies*, an open-access website, centralizes information by and on the work of Caribbean writer Édouard Glissant (Martinique, 1928--France, 2011). Endorsed by literary executors Sylvie and Mathieu Glissant, this multilingual, multimedia website provides bibliographic information, reproduces rare sources, connects numerous institutions, and includes the works of both renowned and emerging scholars in order to stimulate further research. The library chronicles all forms of academic work devoted to Glissant's writings, such as doctoral dissertations, MA theses, articles, books, and conference presentations. In this article, Jeanne Jégousso and Emily O'Dell address the origin, the evolution, and the challenges of the digital platform that was launched in March 2018.
 abstract_fr: >
-  The *Library of Glissant Studies* (« La bibliothèque des études glissantiennes ») a été conçue comme une base de donnée digitale et multilingue dédiée à l’accessibilité et à la large diffusion des textes de Glissant et des textes à propos de Glissant. L’objectif de notre projet est de préserver et de partager ces informations autour de l’œuvre et de la pensée de Glissant sur un site internet de libre accès, relié à de multiples archives physiques et digitales contenant des matériels imprimés et multimedia. A travers ce projet nous cherchons également à faciliter la collaboration académique grâce à l’inclusion de matériels en plusieurs langues provenant d’aires géographiques disparates tout en développant une esthétique et une structure qui reflètent les notions glissantiennes de « pensée archipélique », d’opacité et de Relation. Dans cet article, nous aborderons les questions herméneutiques que nous nous sommes posées durant les premières étapes de ce projet, et nous développerons la philosophie de recherche qui nous a guidées dans la conception et la fonctionnalité de cette plateforme en ligne. Nous évoquerons également la manière dont cette plateforme numérique a facilité l’échange transnational et translinguistique d’idées dans un contexte caribéen digital.
+  The *Library of Glissant Studies* (« La bibliothèque des études glissantiennes ») a été conçue comme une base de donnée digitale et multilingue dédiée à l'accessibilité et à la large diffusion des textes de Glissant et des textes à propos de Glissant. L'objectif de notre projet est de préserver et de partager ces informations autour de l'œuvre et de la pensée de Glissant sur un site internet de libre accès, relié à de multiples archives physiques et digitales contenant des matériels imprimés et multimedia. A travers ce projet nous cherchons également à faciliter la collaboration académique grâce à l'inclusion de matériels en plusieurs langues provenant d'aires géographiques disparates tout en développant une esthétique et une structure qui reflètent les notions glissantiennes de « pensée archipélique », d'opacité et de Relation. Dans cet article, nous aborderons les questions herméneutiques que nous nous sommes posées durant les premières étapes de ce projet, et nous développerons la philosophie de recherche qui nous a guidées dans la conception et la fonctionnalité de cette plateforme en ligne. Nous évoquerons également la manière dont cette plateforme numérique a facilité l'échange transnational et translinguistique d'idées dans un contexte caribéen digital.
 abstract_es: >
-   La *Biblioteca de Estudios sobre Glissant*, un sitio web de acceso abierto, centraliza la información de y sobre el trabajo del escritor caribeño Édouard Glissant (Martinica, 1928 – Francia, 2011). Avalado por los ejecutores literarios Sylvie y Mathieu Glissant, este sitio web multilingüe proporciona información bibliográfica, reproduce fuentes raras, conecta numerosas instituciones e incluye los trabajos de académicos reconocidos y emergentes con el fin de estimular una investigación más amplia sobre el escritor. La biblioteca incluye todas las formas de trabajo académico dedicado a los escritos de Glissant, como disertaciones doctorales, tesis de maestría, artículos, libros y presentaciones en conferencias. En este artículo, Jeanne Jégousso y Emily O'Dell abordan el origen, la evolución y los desafíos de la plataforma digital que se lanzó en marzo de 2018.
+   La *Biblioteca de Estudios sobre Glissant*, un sitio web de acceso abierto, centraliza la información de y sobre el trabajo del escritor caribeño Édouard Glissant (Martinica, 1928 -- Francia, 2011). Avalado por los ejecutores literarios Sylvie y Mathieu Glissant, este sitio web multilingüe proporciona información bibliográfica, reproduce fuentes raras, conecta numerosas instituciones e incluye los trabajos de académicos reconocidos y emergentes con el fin de estimular una investigación más amplia sobre el escritor. La biblioteca incluye todas las formas de trabajo académico dedicado a los escritos de Glissant, como disertaciones doctorales, tesis de maestría, artículos, libros y presentaciones en conferencias. En este artículo, Jeanne Jégousso y Emily O'Dell abordan el origen, la evolución y los desafíos de la plataforma digital que se lanzó en marzo de 2018.
 language: en
 ---
 
-Martinican author Édouard Glissant (1928–2011) revolutionized
+Martinican author Édouard Glissant (1928--2011) revolutionized
 contemporary literary thought while providing new ways to theorize and
 understand transnational exchanges thanks to his key notions of
 Relation, developed in his 1990 *Poétique de la Relation* (*Poetics of
@@ -83,9 +83,9 @@ of new research trends that will eventually resonate and influence one
 another. In addition, Glissant writes in his 1981 essay *Le discours
 antillais* that plurilingualism is one of the paths to Relation, which
 consists of ongoing exchanges between various elements as well as
-cultural *metissage*, and that "multilinguisme ‘disperse' le texte écrit
+cultural *metissage*, and that "multilinguisme 'disperse' le texte écrit
 dans une diversité concrète dont il faut dès maintenant explorer les
-accès inconnus" ("plurilingualism ‘diffuses' the written text in a
+accès inconnus" ("plurilingualism 'diffuses' the written text in a
 concrete diversity of which we must immediately explore the unknown
 paths").[^4]
 
@@ -171,7 +171,7 @@ various genres and from different perspectives. For example, during the
 1970s Glissant focused his literary production on the creation of a
 written language resulting from an assemblage of both French and Creole.
 This theory appears in 1975 in three forms: a conference presentation at
-the University of Milwaukee–Madison in April (later modified and
+the University of Milwaukee--Madison in April (later modified and
 included in Glissant's 1981 essay *The Caribbean Discourse*), a radio
 interview on 10 July, and a novel titled *Malemort*. Before the *Library
 of Glissant Studies*, these documents were scattered across different
@@ -378,7 +378,7 @@ pedagogical strategies.
 
 [^5]: Glissant, *La Cohée du Lamentin*, 231.
 
-[^6]: Kristin Van Haesendonck and Theo D'Haen, *Caribbeing: Comparing Caribbean Literatures and Cultures* (Amsterdam: Rodopi, 2014); and John E. Drabinski and Marisa Parham, *Theorizing Glissant: Sites and Citations* (London: Rowman and Littlefield, 2015). Other examples include Celia Britton, *Édouard Glissant and Postcolonial Theory: Strategies of Language and Resistance* (Charlottesville: University Press of Virginia, 1999); Christina Kullberg, "Crossroads Poetics: Glissant and Ethnography," *Callaloo* 36, no. 4 (2013): 968–82; Alexandre Leupin, *Édouard Glissant, philosophe: Héraclite et Hegel dans le Tout-monde* (Paris: Hermann, 2016); and Michael Wiedorn, *Think like an Archipelago: Paradox in the Work of Édouard Glissant* (New York: State University of New York Press, 2018).
+[^6]: Kristin Van Haesendonck and Theo D'Haen, *Caribbeing: Comparing Caribbean Literatures and Cultures* (Amsterdam: Rodopi, 2014); and John E. Drabinski and Marisa Parham, *Theorizing Glissant: Sites and Citations* (London: Rowman and Littlefield, 2015). Other examples include Celia Britton, *Édouard Glissant and Postcolonial Theory: Strategies of Language and Resistance* (Charlottesville: University Press of Virginia, 1999); Christina Kullberg, "Crossroads Poetics: Glissant and Ethnography," *Callaloo* 36, no. 4 (2013): 968--82; Alexandre Leupin, *Édouard Glissant, philosophe: Héraclite et Hegel dans le Tout-monde* (Paris: Hermann, 2016); and Michael Wiedorn, *Think like an Archipelago: Paradox in the Work of Édouard Glissant* (New York: State University of New York Press, 2018).
 
 [^7]: This notion and its consequences were presented in a symposium at the University of Cambridge. See Raphaël Lauro, "Édouard Glissant, archiviste de lui-même: L'exemple du *Discours antillais*" (paper presented at Édouard Glissant: Le cri et la parole, Cambridge, June 2019).
 
@@ -388,6 +388,6 @@ pedagogical strategies.
 
 [^10]: Édouard Glissant, *L'intention poétique* (Paris: Gallimard, 1997), 26.
 
-[^11]: See *Acoma: Revue de littérature, de sciences humaines et politiques trimestrielle, 1–5, 1971–1973* (Perpignan: Presses Universitaires de Perpignan, 2005).
+[^11]: See *Acoma: Revue de littérature, de sciences humaines et politiques trimestrielle, 1--5, 1971--1973* (Perpignan: Presses Universitaires de Perpignan, 2005).
 
 [^12]: Pierre Mounier, *Les humanités numériques: Une histoire critique* (Paris: Éditions de la Maison des sciences de l'homme, 2018), 48.

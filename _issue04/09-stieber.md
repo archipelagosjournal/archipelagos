@@ -9,7 +9,7 @@ author:
 - name: Chelsea Stieber
   shortname: Stieber
   bio: >
-    Chelsea Stieber is an assistant professor of French and francophone studies at the Catholic University of America. She is the author of *Haiti's Paper War: Post-independence Writing, Civil War, and the Making of the Republic, 1804–1954* (New York University Press, forthcoming). She is also a coeditor of the critical translation *Haiti for the Haitians* (Liverpool University Press, forthcoming).
+    Chelsea Stieber is an assistant professor of French and francophone studies at the Catholic University of America. She is the author of *Haiti's Paper War: Post-independence Writing, Civil War, and the Making of the Republic, 1804--1954* (New York University Press, forthcoming). She is also a coeditor of the critical translation *Haiti for the Haitians* (Liverpool University Press, forthcoming).
 - name: Laura Wrubel
   shortname: Wrubel
   bio: >
@@ -24,7 +24,7 @@ order: 5
 abstract: >
   This essay analyzes the role that experimental work played in the multi-institutional, cross-boundary collaborative construction of the RSHHGG Lab, an interactive online index of Haiti's preeminent social science journal, the *Revue de la Société haïtienne d'histoire, de géographie et de géologie*. Here, the authors understand experimentation to be a mindset, an attitude of "try it and see what happens" through iterative small risks and an openness to involving others and changing direction. This approach draws on the spirit of collaboration, experimentation, and sharing that informs the LC Labs initiative at the Library of Congress, and the *revue* (magazine-journal) as a print space of exchange, confrontation, and collective creation. Following recent reflections on information maintenance and care ethics, the authors agree that infrastructures of information maintenance are often invisible and institutionally siloed and often reproduce structures of oppression and silencing. They aim here to highlight the institutional and infrastructural experimentation and labor necessary to create what is, essentially, a project of information management: making a key repository of knowledge usable, discoverable and accessible. The authors contend that experimental work was central to successfully working within---and also challenging---extant infrastructures of information maintenance in order to achieve an independent, sustainable project with room to grow and transform. In attending to the various processes of experimentation that underwrote the RSHHGG Lab, the authors hope to demonstrate the fruitfulness of cross-boundary collaborative projects and, ultimately, to advocate for more infrastructures of experimentation in many forms: research leave, labs, residencies, and further creative approaches to blurring the boundaries of labor.
 abstract_fr: >
-  Le RSHHGG Lab, un index intéractif en ligne qui répertorie plus de 90 ans de la plus ancienne revue de sciences sociales en Haiti (*La Revue de la Société Haïtienne d’Histoire, de Géographie et de Géologie*), a été élaboré de manière collaborative et à l’intersection de plusieurs disciplines et institutions. Cet article analyse le rôle joué spécifiquement par la traduction dans la construction collaborative de ce projet en humanités numériques. Ici, nous entendons « traduction » dans son sens le plus large. Nous considérons la traduction des sources matérielles originales en forme de base de données, ainsi que la traduction à l’œuvre dans la création de meta-données, et enfin la traduction d’idées en produits digitaux qui peuvent être travaillés et incluent des textes (‘scripts’) et du code court. Nous considérons également le rôle de la traduction au sein des partenariats collaboratifs : la traduction opérée entre les humanités et les disciplines de bibliothéconomie, les traductions entre les attentes et la réalité, ainsi que la traduction entre plusieurs langues et registres : le créole, le français et l’anglais. Enfin, nous considérons la manière dont le projet traduit le travail en valeur pour les différents intervenants du projet---non seulement pour les contributeurs/trices principaux/ales au projet (la Société, l’humaniste, et le/la bibliothécaire)---mais pour les différentes institutions et les contributeurs/trices individuels/elles impliqué/e/s. En examinant les différents processus de traduction à l’œuvre dans le RSHHGG Lab, les auteur/e/s espèrent démontrer la fertilité des projects collaboratifs trans-frontaliers et contribuer plus largement aux projets en humanités numériques.
+  Le RSHHGG Lab, un index intéractif en ligne qui répertorie plus de 90 ans de la plus ancienne revue de sciences sociales en Haiti (*La Revue de la Société Haïtienne d'Histoire, de Géographie et de Géologie*), a été élaboré de manière collaborative et à l'intersection de plusieurs disciplines et institutions. Cet article analyse le rôle joué spécifiquement par la traduction dans la construction collaborative de ce projet en humanités numériques. Ici, nous entendons « traduction » dans son sens le plus large. Nous considérons la traduction des sources matérielles originales en forme de base de données, ainsi que la traduction à l'œuvre dans la création de meta-données, et enfin la traduction d'idées en produits digitaux qui peuvent être travaillés et incluent des textes ('scripts') et du code court. Nous considérons également le rôle de la traduction au sein des partenariats collaboratifs : la traduction opérée entre les humanités et les disciplines de bibliothéconomie, les traductions entre les attentes et la réalité, ainsi que la traduction entre plusieurs langues et registres : le créole, le français et l'anglais. Enfin, nous considérons la manière dont le projet traduit le travail en valeur pour les différents intervenants du projet---non seulement pour les contributeurs/trices principaux/ales au projet (la Société, l'humaniste, et le/la bibliothécaire)---mais pour les différentes institutions et les contributeurs/trices individuels/elles impliqué/e/s. En examinant les différents processus de traduction à l'œuvre dans le RSHHGG Lab, les auteur/e/s espèrent démontrer la fertilité des projects collaboratifs trans-frontaliers et contribuer plus largement aux projets en humanités numériques.
 abstract_es: >
   Este ensayo analiza el papel que desempeñó el trabajo experimental en la construcción colaborativa multi-institucional y trans-fronteriza del Laboratorio RSHHGG, un índice interactivo en línea de la revista de ciencias sociales preeminente de Haití, *Revue de la Société haïtienne d'histoire, de géographie et de géologie*. Aquí, los autores entienden que la experimentación es una manera de pensar, una actitud de "probar y ver qué sucede" a través de pequeños riesgos iterativos y una apertura a involucrar a otros y cambiar de dirección cuando es necesario. Este enfoque se basa en el espíritu de colaboración, experimentación e intercambio que informa la iniciativa LC Labs en la Biblioteca del Congreso, y la *revue* (revista) como un espacio impreso de intercambio, confrontación y creación colectiva. Tras las recientes reflexiones sobre el mantenimiento de la información y la ética del cuidado, los autores coinciden en que las infraestructuras de mantenimiento de la información a menudo son invisibles e institucionalmente aisladas y, a menudo, reproducen estructuras de opresión y silenciamiento. Su objetivo aquí es resaltar la experimentación institucional y de infraestructura y el trabajo necesarios para crear lo que es, esencialmente, un proyecto de gestión de la información: hacer que un depósito clave de conocimiento sea utilizable, reconocible y accesible. Los autores sostienen que el trabajo experimental fue fundamental para trabajar con éxito dentro de las infraestructuras existentes y también desafiantes para el mantenimiento de la información a fin de lograr un proyecto independiente y sostenible con espacio para crecer y transformarse. Al atender los diversos procesos de experimentación que respaldaron el Laboratorio RSHHGG, los autores esperan demostrar la fecundidad de los proyectos de colaboración transfronterizos y, en última instancia, abogar por más infraestructuras de experimentación en muchas formas: licencia de investigación, laboratorios, residencias y enfoques creativos adicionales para difuminar los límites del trabajo.
 language: en
@@ -274,6 +274,7 @@ quality and level of the publication.
 
 {% include image.html
   img="issue04/stieber/stieber-image_2.jpg"
+  title="Figure 2. Cover art, <em>Revue de la Société haïtienne d'histoire, de géographie et de géologie</em>."
   caption="Figure 2. Cover art, *Revue de la Société haïtienne d'histoire, de géographie et de géologie*." %}
 
 ## Decolonizing Infrastructures of Information Maintenance
@@ -323,7 +324,8 @@ available on microfilm.
 
 {% include image.html
   img="issue04/stieber/stieber-image_3.png"
-  caption="Figure 3. Library of Congress catalog entry for the *Revue de la Société haïtienne d'histoire, de géographie et de géologie*." %}
+  title="Figure 3. Library of Congress catalog entry for the <em>Revue de la Société haïtienne d\'histoire, de géographie et de géologie</em>."
+  caption="Figure 3. Library of Congress catalog entry for the *Revue de la Société haïtienne d\'histoire, de géographie et de géologie*." %}
 
 Stieber's initial exploratory research into these questions identified
 two main reasons for this lack of engagement with Haitian scholarly and
@@ -386,7 +388,7 @@ literature, and culture, they nevertheless made this critique from
 within Western institutions and infrastructures. We cannot say the same
 for Haitian scholarly periodicals, which produced their knowledge
 outside the dominant Western discourse, in their own centers of
-knowledge and episteme. Non-Western or non–North Atlantic scholarly
+knowledge and episteme. Non-Western or non-North Atlantic scholarly
 periodicals are inscrutable in the catalog and, as a result, are
 silent---and silenced---in North Atlantic scholarship, even, perversely,
 scholarship that purports to be on or about these regions. We therefore
@@ -438,7 +440,7 @@ SHHGG. The society expressed their support for the indexing project but
 reiterated their opposition to any digitization because of valid
 concerns that digitization alone would not ensure North Atlantic
 scholars' engagement with Haiti and its institutions (what Daut rightly
-calls "the ‘Columbusing' of Haitian-produced scholarship").[^21] By
+calls "the 'Columbusing' of Haitian-produced scholarship").[^21] By
 engaging the SHHGG as a stakeholder in the project, Stieber connected
 with the organization's general secretary, Watson Denis, who became an
 invaluable liaison to the society and a central collaborator for the
@@ -727,7 +729,7 @@ a "model for a digital project that has the capacity to ensure that
 Haitian scholars are neither silenced nor exploited in this moment of
 resurgent interest in Haitian history."[^35] Still, there remain
 processes to be improved and further outreach to be done. The
-flexibility for experimentation provided by a non–institutionally bound
+flexibility for experimentation provided by a non--institutionally bound
 project also created a spotty, ad-hoc workflow that we need to improve.
 Moreover, while there has been fruitful collaboration with Haitian
 scholars, we can do more to create an egalitarian, collaborative
@@ -812,23 +814,23 @@ experimenting as we continue to the next stage of the RSHHGG Lab.
     importance of the resource and used it in their own research. They
     utilized the journal's scholarly production despite its relative
     scholarly "obscurity"---precisely because they had a specialist's
-    knowledge of its importance. Epigraph: "Original French of ‘The fact
+    knowledge of its importance. Epigraph: "Original French of 'The fact
     that outsiders were not interested in what was happening in Haiti
     does not allow us to conclude that there was not anything happening
     there'"; Michel-Philippe Lerebours, *Haïti et ses peintres: De 1804
-    à 1980; souffrances and espoirs d'un peuple* (Port-au-Prince, Haïti:
+    à 1980; souffrances and espoirs d'un peuple* (Port-au-Prince, Haïti:
     Imprimeur II, 1989), 000.
 
 [^2]: On the problem of centering in comparative studies, see Carol
     Boyce Davies, "Beyond Uni-centricity: Transcultural Black
     Presences," *Research in African Literatures* 30, no. 2 (1999):
-    96–109; Micol Siegel, "Beyond Compare: Comparative Method after the
-    Transnational Turn," *Radical History Review*, no. 91 (2005): 62–90;
+    96--109; Micol Siegel, "Beyond Compare: Comparative Method after the
+    Transnational Turn," *Radical History Review*, no. 91 (2005): 62--90;
     Marlene Daut, "Daring to Be Free / Dying to Be Free: Toward a
-    Dialogic Haitian–US Studies," *American Quarterly* 63, no. 2 (2011):
-    375–89; and Chelsea Stieber, "Beyond Mentions: New Approaches to
+    Dialogic Haitian--US Studies," *American Quarterly* 63, no. 2 (2011):
+    375--89; and Chelsea Stieber, "Beyond Mentions: New Approaches to
     Comparative Studies of Haiti," *Early American Literature* 53, no. 3
-    (2018): 961–75.
+    (2018): 961--75.
 
 [^3]: See RSHHGG Lab, <http://rshhgglab.com/>. The site is also
     available in French (<http://rshhgglab.com/francais/>) and Kreyol
@@ -841,7 +843,7 @@ experimenting as we continue to the next stage of the RSHHGG Lab.
 [^5]: On the LC Labs project, see <https://labs.loc.gov/>. On the
     *revue* as experimentation, see Olivier Corpet, "Que vivent des
     revues," *Bulletin des bibliothèques de France* 33, no. 4 (1988):
-    282–90.
+    282--90.
 
 [^6]: The Information Maintainers: Devon Olson, Jessica Meyerson, Mark
     Parsons, Juliana Castro, Monique Lassere, Dawn Wright, Amelia Acker,
@@ -876,14 +878,14 @@ experimenting as we continue to the next stage of the RSHHGG Lab.
     de Madiou, de Saint-Rémy et de Ardouin"). Gaétan Mentor, "Esquisse
     historique d'une société savante: La SHHGG ou 90 années au service
     de l'intelligentsia haïtienne," *Revue de la Société haïtienne
-    d'histoire, de géographie et de géologie*, nos. 251–52 (2013): 47.
+    d'histoire, de géographie et de géologie*, nos. 251--52 (2013): 47.
     Unless otherwise indicated, all translations are ours.
 
 [^10]: "Aux heures de grandes crises, tous les peuples se sont
     d'instinct reportés en arrière pour chercher dans leur histoire des
     leçons de patriotisme collectif, de nouvelles règles de conduite,
     soit pour pouvoir mieux défendre leur existence menacé, soit pour se
-    relever plus rapidement de leurs chutes.…L'histoire de chaque peuple
+    relever plus rapidement de leurs chutes. [...] L'histoire de chaque peuple
     est la source unique d'où découlent et ou se renouvellent, selon les
     circonstances, ses légitimes et indestructibles aspirations
     nationales"; Horacius Pauléus Sannon, "Discours de Me. H. Pauléus
@@ -909,16 +911,16 @@ experimenting as we continue to the next stage of the RSHHGG Lab.
 
 [^14]: See François Duvalier and Lorimer Denis, "Les civilisations de
     l'Afrique noire et le problème haïtien," *Revue de la Société
-    d'histoire et de géographie d'Haïti* 7, nos. 21–22 (1936): 19–41;
+    d'histoire et de géographie d'Haïti* 7, nos. 21--22 (1936): 19--41;
     François Duvalier and Lorimer Denis, "La civilisation haïtienne:
     Notre mentalité est-elle africaine ou gallo-latin," *Revue de la
-    Société d'histoire et de géographie d'Haïti* 7, no. 23 (1936): 1–31.
+    Société d'histoire et de géographie d'Haïti* 7, no. 23 (1936): 1--31.
 
 [^15]: The society's history prize was inaugurated in 1982. The first
     prize was awarded in 1984 to Marcel and Claude B. Auguste for their
-    work *L'expédition Leclerc, 1801–1802* and the second prize to
+    work *L'expédition Leclerc, 1801--1802* and the second prize to
     Emmanuel Justin Castra for his work entitled, *Aux origines de la
-    presse haïtienne, 1764–1850*. Between 1986 and 1994, Marc Péan, Suzy
+    presse haïtienne, 1764--1850*. Between 1986 and 1994, Marc Péan, Suzy
     Castor, Michel Hector, Gusti-Kara Gaillard, Charles Tardieu-Dehoux,
     Léon Denius Pamphile, Guy Pierre, and Claude B. Augsute (again) won
     the prize. In 2015, after a suspension for a variety of reasons, the
@@ -927,7 +929,7 @@ experimenting as we continue to the next stage of the RSHHGG Lab.
     Jean Alix René won in 2015 and 2017, respectively.
 
 [^16]: See Watson Denis, "Haïti / Hommage au mapou Michel Hector
-    (1932–2019): Professeur, historien et militant politique,"
+    (1932--2019): Professeur, historien et militant politique,"
     *AlterPresse*, 13 July 2019,
     [http://www.alterpresse.org/spip.php?article24537 -
     .XS4LOJNKhTZ](http://www.alterpresse.org/spip.php?article24537#.XS4LOJNKhTZ).
@@ -937,7 +939,7 @@ experimenting as we continue to the next stage of the RSHHGG Lab.
 
 [^18]: See Chelsea Stieber, "The Haitian Literary Magazine in
     Francophone Postcolonial Literary and Cultural Production," in
-    *Beyond Tradition: French Cultural Studies (1800–2014)*, ed. Anne
+    *Beyond Tradition: French Cultural Studies (1800--2014)*, ed. Anne
 
     O'Neil-Henry, Kathryn Kleppinger, and Masha Belenky (Newark:
     University of Delaware Press, 2017).
