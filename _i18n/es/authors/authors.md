@@ -1,5 +1,9 @@
 *archipelagos* es una revista dedicada a la práctica digital, publica artículos académicos, proyectos digitales y reseñas de proyectos digitales relacionados con el Caribe. Publicamos un número por año y aceptamos envíos de forma continua.
 
+*archipelagos* acepta envíos en inglés, español y francés. Publicaremos ensayos aceptados en su idioma original con resúmenes traducidos por nuestro equipo editorial. También damos la bienvenida a los contribuyentes para solicitar servicios de traducción para el texto completo de su contribución, que habremos corregido para su inclusión en la revista.
+
+Todas las contribuciones deben acatar el [Manual de Estilo de Chicago] (https://www.chicagomanualofstyle.org/home.html).
+
 Contact: archipelagosjournal@gmail.com
 
 ---

@@ -1,5 +1,9 @@
 
-*archipelagos*, un journal de pratique numérique, publie des articles scientifiques, des projets numériques et des comptes rendus de projets numériques sur les Caraïbes. Nous publions un numéro par an et acceptons les soumissions tout au long de l’année. Toutes les soumissions doivent être conformes au [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html).
+*archipelagos*, un journal de pratique numérique, publie des articles scientifiques, des projets numériques et des comptes rendus de projets numériques sur les Caraïbes. Nous publions un numéro par an et acceptons les soumissions tout au long de l’année. 
+
+*archipelagos* accepte les soumissions en anglais, espagnol et français. Nous publierons les essais acceptés dans leur langue d'origine avec des résumés traduits par notre équipe éditoriale. Nous invitons également les contributeurs à solliciter des services de traduction pour le texte intégral de leur contribution, que nous ferons corriger pour inclusion dans le journal.
+
+Toutes les soumissions doivent être conformes au [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html).
 
 ## Table des matières
 {:.no_toc}

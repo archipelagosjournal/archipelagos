@@ -1,5 +1,7 @@
 *archipelagos*, a journal of digital practice, publishes scholarly articles, digital projects, and digital project reviews related to the Caribbean. We publish one issue per year and accept submissions on a rolling basis.
 
+*archipelagos* accepts submissions in English, Spanish, and French. We will publish accepted essays in their original language with abstracts translated by our editorial staff. We also welcome contributors to solicit translation services for the full text of their contribution, which we will copyedit for inclusion in the journal.
+
 All submissions should be conform with the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html).
 
 Contact: archipelagosjournal@gmail.com
