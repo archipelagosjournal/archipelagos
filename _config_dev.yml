@@ -19,7 +19,7 @@ description:         'a journal of Caribbean digital praxis'
 
 # PROD
 url:                 "http://archipelagosjournal.org"
-baseurl:             ''
+baseurl:             '/archipelagos'
 future: True
 
 githuburl:           'https://github.com/archipelagosjournal/archipelagos'
@@ -134,5 +134,5 @@ version:             0.0.1
 
 # Excluded
 
-exclude: [utility, Gemfile, Gemfile.lock, extras, vendor, RAKEFILE, update.log, robots.txt]
+exclude: [utility, Gemfile, Gemfile.lock, extras, vendor, RAKEFILE, update.log]
 
