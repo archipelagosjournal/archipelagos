@@ -2,7 +2,7 @@
 layout: project
 section: projects
 title: 
-  "long": "*archipelagos* Presents *Carisealand: Sustainable Caribbean Futures*"
+  "long": "Carisealand: Sustainable Caribbean Futures"
   "short": "Carisealand"
 doi: ""
 author: 
@@ -17,6 +17,8 @@ image: images/issue04/carisealand.png
 thumb: images/issue04/carisealand-thumb.png
 link: "https://ecda.northeastern.edu/"
 ---
+
+## *archipelagos* Presents *Carisealand*
 
 The *Carisealand* (Caribbean Sea and Land) digital research project,
 launched in 2015 by scholar, teacher, and activist Schuyler K Esprit,
@@ -63,7 +65,7 @@ there a peculiar set of vulnerabilities that make this part of the
 region a necessary focus for the authors? Aside from these general
 concerns, I recommend that the authors consider the following revisions.
 
-### ## Contribution
+### Contribution
 
 The target audience should be made clearer in the project overview on
 the home page. For example, who do the authors expect to come to this
@@ -139,7 +141,7 @@ updated? Is there consideration of a mark-up language to support the
 reconstitution of content? Is Wordpress as a content management system a
 feasible long-term option for the administration of the project's needs?
 
-## Response from the Lead of *Carisealand*
+## Response from Schuyler Esprit, project lead of *Carisealand*
 
 In 2015, Caribbean writer and environmental activist Oonya Kempadoo
 approached the [Create Caribbean Research
