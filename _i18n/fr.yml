@@ -25,6 +25,12 @@ titles:
   home: "page d'accueil"
   workflow: "flux de travail"
 
+issues:
+  issue01: "Número (1) | juin 2016"
+  issue02: "Número (2) | septembre 2017"
+  issue03: "Número (3) | L'esclavage dans la machine | juillet 2019"
+  issue04: "Número (4) | mars 2020"
+
 components:
   ccby:
     Ce travail est disponible sous une licence <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> Licence internationale Creative Commons Attribution 4.0 </a>. Les documents source sont disponibles sur notre 

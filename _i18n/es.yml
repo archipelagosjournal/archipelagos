@@ -24,6 +24,12 @@ titles:
   workflow: "flujo de trabajo"
   home: "página inicial"
 
+issues:
+  issue01: "Número (1) | junio 2016"
+  issue02: "Número (2) | septiembre 2017"
+  issue03: "Número (3) | La esclavitud en la maquina | julio 2019"
+  issue04: "Número (4) | marzo 2020"
+
 components:
   ccby:
     Este trabajo está licenciado bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Los documentos de origen se pueden encontrar en nuestro 

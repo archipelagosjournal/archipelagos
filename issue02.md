@@ -16,8 +16,10 @@ editor:
 <h2 class="tagline">{{site.description}}</h2>
 
 
-## Issue (2)
+<h2>{% t issues.issue02 %}</h2>
 
 <blockquote>We dedicate this issue to those who find themselves in the path of Juracán, past and future.</blockquote>
 
 {% include toc.html issue=site.issue02 %}
+
+{% include pastIssues.html %}

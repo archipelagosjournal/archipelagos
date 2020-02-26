@@ -17,7 +17,7 @@ editor:
 <h2 class="tagline">{{site.description}}</h2>
 
 
-<h2>Issue (3) | Slavery in the Machine | July 2019</h2>
+<h2>{% t issues.issue03 %}</h2>
 
 <p><em>We dedicate this issue to Linda Rodriguez, whose spirit now lights the way.</em></p>
 
@@ -215,7 +215,5 @@ editor:
 <hr>
 
 <h2>{% t global.past_issues %}</h2>
-<ul>
-    <li class="toc-title"><a href="{{ site.baseurl }}/issue01.html">{% t global.issue %} (1)</a></li>
-    <li class="toc-title"><a href="{{ site.baseurl }}/issue02.html">{% t global.issue %} (2)</a></li>
-</ul>
+
+{% include pastIssues.html %}

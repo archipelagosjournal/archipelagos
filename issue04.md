@@ -16,8 +16,13 @@ editor:
 <h2 class="tagline">{{site.description}}</h2>
 
 
-## Issue (4) | March 2020
+<h2>{% t issues.issue04 %}</h2>
 
-<p><em>We dedicate this issue to Kamau Brathwaite.</em></p>
+<p><em>{% t components.dedication04 %}</em></p>
 
 {% include toc.html issue=site.issue04 %}
+
+<hr>
+
+
+{% include pastIssues.html %}

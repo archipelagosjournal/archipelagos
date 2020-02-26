@@ -16,6 +16,12 @@ global:
   return-to-top: Return to Top
   toc: Return to Table of Contents
 
+issues:
+  issue01: "Issue (1) | June 2016"
+  issue02: "Issue (2) | September 2017"
+  issue03: "Issue (3) | Slavery in the Machine | July 2019"
+  issue04: "Issue (4) | March 2020"
+
 titles:
   about: "about us"
   authors: "for authors"

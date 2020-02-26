@@ -15,6 +15,8 @@ editor:
 <h1 class="journal-title">{{ site.title }}</h1>
 <h2 class="tagline">{{site.description}}</h2>
 
-## Issue (1)
+<h2>{% t issues.issue01 %}</h2>
 
 {% include toc.html issue=site.issue01 %}
+
+{% include pastIssues.html %}
