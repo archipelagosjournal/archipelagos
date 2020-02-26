@@ -19,6 +19,10 @@ issue: 4
 order: 3
 abstract: >
   This article discusses the digitization of the historic newspaper the *Barbados Mercury Gazette* (1783–1848) and its potential for historical research and teaching. The newspaper sheds light on every aspect of life in a dystopian colonial reality. The digitization of the gazette is a beginning, rather than a \"finished product.\" The aim of the project is not simply to facilitate reading the gazette in a digital format; if so, then digitization would risk reproducing and re-inscribing inequalities, silences, and exclusions. The aim is to engage users, particularly Barbadians, in researching their enslaved ancestors. At the same time, the article reflects on the meaning of digitization in postcolonial settings in the global South and the challenges arising at the intersection of access and conservation. While digitization is promoted as digital preservation, it cannot save what is not accounted for, what is not described properly, and what has not been documented.
+abstract_fr: >
+  This essay ...
+abstract_es: >
+  Este artículo analiza la digitalización del periódico histórico *Barbados Mercury Gazette* (1783-1848) y su potencial para la investigación y la enseñanza histórica. El periódico ilumina aspectos de la vida cotidiana bajo una realidad colonial distópica. Más que un \"producto terminado,\" la digitalización de la gaceta es un comienzo. El objetivo del proyecto no es simplemente facilitar la lectura de la gaceta en formato digital; si fuese así, la digitalización correría el riesgo de reproducir y reinscribir desigualdades, silencios y exclusiones. El objetivo es involucrar a los usuarios, particularmente a los barbadenses, en la investigación de sus ancestros esclavizados. Al mismo tiempo, el artículo reflexiona sobre el significado de la digitalización en entornos poscoloniales en el Sur global y los desafíos que surgen en la intersección del acceso y la conservación. Si bien la digitalización se promueve como preservación digital, no puede salvar lo que no se tiene en cuenta, lo que no se describe correctamente y lo que no se ha documentado.
 language: en
 ---
 

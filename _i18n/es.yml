@@ -13,6 +13,8 @@ global:
   past_issues: Números
   editorial: Política editorial
   issue: Número
+  return-to-top: Volver al inicio de la página
+  toc: Volver al índice
 
 titles:
   about: "acerca de"

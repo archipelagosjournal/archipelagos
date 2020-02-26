@@ -13,6 +13,8 @@ global:
   past_issues: Issues
   editorial: Editorial Policies
   issue: Issue
+  return-to-top: Return to Top
+  toc: Return to Table of Contents
 
 titles:
   about: "about us"

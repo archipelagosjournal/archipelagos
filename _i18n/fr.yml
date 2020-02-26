@@ -14,6 +14,8 @@ global:
   editorial: Politique editoriale
   issue: Número
   march: mars
+  return-to-top: Haut de page
+  toc: Table des matières
 
 titles:
   about: "à propos de nous"

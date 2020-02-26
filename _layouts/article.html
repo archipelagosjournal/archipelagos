@@ -39,10 +39,10 @@ layout: default
 
 		<div class="footer">
 			<ul id="footer-nav">
-				<li><a href="#">Return to top</a></li>
+				<li><a href="#">{% t global.return-to-top %}</a></li>
 				{% if site.current-number == page.issue %}
 				<li> | </li>
-				<a href="{{site.baseurl}}/">Return to Table of Contents</a>
+				<a href="{{site.baseurl}}/">{% t global.toc %}</a>
 				{% else %}
 				{% endif %}
 
