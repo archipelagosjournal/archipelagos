@@ -720,12 +720,12 @@ a.sidebar-nav-item:focus {
 .sidebar-toggle:before {
   display: inline-block;
   width: 1.8rem;
-  height: 1.2rem;
+  height: 1rem;
   content: "";
-  background-image: -webkit-linear-gradient(to bottom, #444, #444 16%, #fff 16%, #fff 44%, #444 44%, #444 56%, #fff 56%, #fff 84%, #444 84%, #444 100%);
-  background-image:    -moz-linear-gradient(to bottom, #444, #444 16%, #fff 16%, #fff 44%, #444 44%, #444 56%, #fff 56%, #fff 84%, #444 84%, #444 100%);
-  background-image:     -ms-linear-gradient(to bottom, #444, #444 16%, #fff 16%, #fff 44%, #444 44%, #444 56%, #fff 56%, #fff 84%, #444 84%, #444 100%);
-  background-image:         linear-gradient(to bottom, #444, #444 16%, #fff 16%, #fff 44%, #444 44%, #444 56%, #fff 56%, #fff 84%, #444 84%, #444 100%);
+  background-image: -webkit-linear-gradient(to bottom, #444, #444 20%, #fff 20%, #fff 40%, #444 40%, #444 60%, #fff 60%, #fff 80%, #444 80%, #444 100%);
+  background-image:    -moz-linear-gradient(to bottom, #444, #444 20%, #fff 20%, #fff 40%, #444 40%, #444 60%, #fff 60%, #fff 80%, #444 80%, #444 100%);
+  background-image:     -ms-linear-gradient(to bottom, #444, #444 20%, #fff 20%, #fff 40%, #444 40%, #444 60%, #fff 60%, #fff 80%, #444 80%, #444 100%);
+  background-image:         linear-gradient(to bottom, #444, #444 20%, #fff 20%, #fff 40%, #444 40%, #444 60%, #fff 60%, #fff 80%, #444 80%, #444 100%);
 }
 
 .sidebar-toggle:active,
