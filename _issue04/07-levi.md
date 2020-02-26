@@ -13,12 +13,12 @@ author:
 - name: Tara A. Inniss
   shortname: Inniss
   bio: >
-    Tara A. Inniss is a lecturer in the Department of History and Philosophy at, the University of the West Indies (UWI), Cave Hill Campus. The areas of focus for her teaching and research include history of medicine, history of social policy, and heritage and social development. In 2002–3, she received a Split-Site Commonwealth PhD Scholarship to study at the UWI/University of Manchester. Her thesis was on children's health during slavery and the apprenticeship periods. In 2007, she completed a master's in international social development at the University of New South Wales in Sydney, Australia. She received her PhD in history from the University of the West Indies, Cave Hill Campus in 2008. Tara currently sits on several committees for the Barbados World Heritage Committee, the Barbados Museum and Historical Society, and the Association of Caribbean Historians. She is the director of the UWI/OAS Caribbean Heritage Network and the coordinator of Heritage studies.
+    Tara A. Inniss is a lecturer in the Department of History and Philosophy at, the University of the West Indies (UWI), Cave Hill Campus. The areas of focus for her teaching and research include history of medicine, history of social policy, and heritage and social development. In 2002--3, she received a Split-Site Commonwealth PhD Scholarship to study at the UWI/University of Manchester. Her thesis was on children's health during slavery and the apprenticeship periods. In 2007, she completed a master's in international social development at the University of New South Wales in Sydney, Australia. She received her PhD in history from the University of the West Indies, Cave Hill Campus in 2008. Tara currently sits on several committees for the Barbados World Heritage Committee, the Barbados Museum and Historical Society, and the Association of Caribbean Historians. She is the director of the UWI/OAS Caribbean Heritage Network and the coordinator of Heritage studies.
 date: January, 2020
 issue: 4
 order: 3
 abstract: >
-  This article discusses the digitization of the historic newspaper the *Barbados Mercury Gazette* (1783–1848) and its potential for historical research and teaching. The newspaper sheds light on every aspect of life in a dystopian colonial reality. The digitization of the gazette is a beginning, rather than a \"finished product.\" The aim of the project is not simply to facilitate reading the gazette in a digital format; if so, then digitization would risk reproducing and re-inscribing inequalities, silences, and exclusions. The aim is to engage users, particularly Barbadians, in researching their enslaved ancestors. At the same time, the article reflects on the meaning of digitization in postcolonial settings in the global South and the challenges arising at the intersection of access and conservation. While digitization is promoted as digital preservation, it cannot save what is not accounted for, what is not described properly, and what has not been documented.
+  This article discusses the digitization of the historic newspaper the *Barbados Mercury Gazette* (1783--1848) and its potential for historical research and teaching. The newspaper sheds light on every aspect of life in a dystopian colonial reality. The digitization of the gazette is a beginning, rather than a \"finished product.\" The aim of the project is not simply to facilitate reading the gazette in a digital format; if so, then digitization would risk reproducing and re-inscribing inequalities, silences, and exclusions. The aim is to engage users, particularly Barbadians, in researching their enslaved ancestors. At the same time, the article reflects on the meaning of digitization in postcolonial settings in the global South and the challenges arising at the intersection of access and conservation. While digitization is promoted as digital preservation, it cannot save what is not accounted for, what is not described properly, and what has not been documented.
 abstract_fr: >
   This essay ...
 abstract_es: >
@@ -57,17 +57,18 @@ rebellion was quickly put down, it was part of a series of rebellions in
 the West Indies during the nineteenth century that led to the abolition
 of slavery in British colonies in 1834.
 
-{% include image.html  
-    img="issue04/levi-inness/LeviFig1.png"  
-    caption="Figure 1. A pristine issue of the *Barbados Mercury Gazette*, 5 August 1815." %}
+{% include image.html
+  img="issue04/levi-inness/LeviFig1.png"
+  title="A pristine issue of the Barbados Mercury Gazette"  
+  caption="Figure 1. A pristine issue of the *Barbados Mercury Gazette* August 1815." %}
 
 Scholars have mined the newspaper for information covering many
 different arenas, including maritime history, economic history, military
 history, social and cultural history, material culture, and geography.
 The newspaper has been especially useful in reconstructing this period
 in the island's slave society and economy, since sources that otherwise
-would provide insight—such as a full catalogue of plantation records or
-parish or local government records—are not readily available.[^5]
+would provide insight---such as a full catalogue of plantation records or
+parish or local government records---are not readily available.[^5]
 
 Among other information contained in the newspaper's pages, of
 particular importance are the \"runaway slave\" ads, which appear
@@ -94,8 +95,8 @@ building; and (c) the execution phase, during which we digitized the
 *Mercury* in accordance with the EAP guidelines and organized an event
 to formally launch the digitized project.[^6]
 
-In total, twenty volumes—covering twenty-eight years between 1783 and
-1848 and including 2,333 issues with four pages per issue—were digitized
+In total, twenty volumes---covering twenty-eight years between 1783 and
+1848 and including 2,333 issues with four pages per issue---were digitized
 at three hundred dots per inch. This work resulted in nine thousand
 digital images at approximately 103 megabytes each, for a total of 1
 terabyte of data. We produced an Excel spreadsheet with nearly three
@@ -134,7 +135,7 @@ Archive](https://www.slavesocieties.org/) (formerly the Archive of the
 Ecclesiastical and Secular Sources for Slave Societies) have been
 damaged considerably, while others have disappeared, having been either
 misplaced or stolen.[^11] Often, because of emergency conditions or
-funding availability, such rapid \"guerilla digitization\" necessarily
+funding availability, such rapid "guerilla digitization" necessarily
 prioritizes access and digital capture over conservation.[^12]
 
 Digitization has been endorsed as an accepted preservation reformatting
@@ -182,7 +183,7 @@ and conservation.[^17]
 Funding for digitization that focuses on digital reformatting of
 originals and online access without funding for the conservation needs
 of the physical copies presents an additional question to regional
-recipients of funding—though the archive is now accessible, is it truly
+recipients of funding---though the archive is now accessible, is it truly
 no longer endangered?
 
 Archives in postcolonial contexts are endangered because there has not
@@ -227,9 +228,10 @@ of these records: their fragile pages, the pieces that flew through the
 air or accumulated on the floor, often disintegrating despite our
 efforts to handle them properly.[^20]
 
-{% include image.html  
-    img="issue04/levi-inness/LeviFig2.png"
-    caption="Figure 2. Dust and pieces of paper—the remains of digitization. Photo credit: Lenora Williams" %}
+{% include image.html
+  img="issue04/levi-inness/LeviFig2.png"
+  title="Dust and pieces of paper"
+  caption="Figure 2. Dust and pieces of paper---the remains of digitization. Photo credit: Lenora Williams" %}
 
 Beyond the technical scope of the project, then, digitization, as a
 process, allowed us to reflect on its many facets.
@@ -239,7 +241,7 @@ process, allowed us to reflect on its many facets.
 As an international project, our work on the *Mercury* gave us the
 opportunity to learn a number of crucial lessons. Collaboration is a
 balancing act that requires all parties to be clear about, define, and
-adhere to expectations and to navigate different perspectives—both
+adhere to expectations and to navigate different perspectives---both
 cultural and professional. The process was guided by a series of small
 workshops with local historians, policymakers and archivists,
 librarians, and museum practitioners. The aim of these workshops was to
@@ -276,9 +278,10 @@ teachers/academics, and the community to other potential digital tools
 and thereby to enhance student learning via exposure to digital skills
 and media literacy.
 
-{% include image.html  
-    img="issue04/levi-inness/LeviFig3.png"
-    caption="Figure 3. Workshop participants engaging with the print copies of the *Mercury*, 12 December 2017. Photo credit: Lenora Williams" %}
+{% include image.html
+  img="issue04/levi-inness/LeviFig3.png"
+  title="Workshop participants engaging with the print copies of the *Mercury*, 12 December 2017"
+  caption="Figure 3. Workshop participants engaging with the print copies of the *Mercury*, 12 December 2017. Photo credit: Lenora Williams" %}
 
 ### Digitization as preservation
 
@@ -295,9 +298,10 @@ therefore, at the end of the digitization process, pages were not
 rebound but were carefully wrapped by Conservation Department staff with
 the aim of storing them properly.
 
-{% include image.html  
-    img="issue04/levi-inness/LeviFig4.png"  
-    caption="Figure 4. Disbinding the *Mercury* in the Conservation Department, Barbados Archives. Photo credit: Lenora Williams" %}
+{% include image.html
+  img="issue04/levi-inness/LeviFig4.png"
+  title="Disbinding the *Mercury* in the Conservation Department, Barbados Archives"
+  caption="Figure 4. Disbinding the *Mercury* in the Conservation Department of the Barbados Archives. Photo credit: Lenora Williams." %}
 
 Given the newspaper's fragile state, since making the images freely
 available online the Barbados Archives has restricted access to the
@@ -317,9 +321,10 @@ frustrated and mesmerized by the specks of dust and paper collecting on
 the floor around us, we were well aware that we were the last people who
 would touch the physical copies of the *Mercury*.[^22]
 
-{% include image.html  
-    img="issue04/levi-inness/LeviFig5.png"  
-    caption="Figure 5. A puzzle of disintegrating pages. Photo credit: Lenora Williams" %}
+{% include image.html
+  img="issue04/levi-inness/LeviFig5.png"
+  title="A puzzle of disintegrating pages."
+  caption="Figure 5. A puzzle of disintegrating pages. Photo credit: Lenora  Williams" %}
 
 ### Digitization as communication
 
@@ -341,10 +346,12 @@ stories of violence, of course, but also of courage and liberation.
 
 {% include image.html
   img="issue04/levi-inness/LeviFig6.jpg"
+  title="Unexpected marginalia: a bug"
   caption="Figure 6. Unexpected marginalia: a bug. Photo credit: Amalia Levi" %}
 
 {% include image.html
   img="issue04/levi-inness/LeviFig7.jpg"
+  title="Trails made by hungry, wandering bookworms"
   caption="Figure 7. Trails made by hungry, wandering bookworms. Photo credit: Amalia Levi" %}
 
 ## Beyond Digitization
@@ -378,9 +385,9 @@ All digitization is necessarily selective, and some items are
 prioritized over others, based on funding or institutional goals.
 Digitization is usually seen by funding agencies as the \"sexy\" aspect of
 archival projects and is much easier to fund, while other vital aspects
-of archival work—like creating descriptions and inventories, providing
+of archival work---like creating descriptions and inventories, providing
 proper storage, and doing the labor-intensive and expensive work of
-conservation—are neglected.
+conservation---are neglected.
 
 Digitization inevitably results in loss of information. The process of
 scanning materials produces digital images that obscure the materiality
@@ -391,7 +398,7 @@ marginalized populations remain obscured and difficult to find.
 
 Considering that all digitization involves selection, collections that
 are \"most used\" or belong to \"important people\" may end up prioritized
-for digitization. Such collections usually represent dominant voices—in
+for digitization. Such collections usually represent dominant voices---in
 the case of colonial societies, the voices of the white class of
 planters, merchants, and colonial authorities. Digitization that does
 not take this into consideration risks elevating and promoting access to
@@ -471,27 +478,33 @@ archives.
 
 {% include image.html
   img="issue04/levi-inness/LeviFig8.png"
-  caption="Figure 8. \"Runaway-slave\" ad, 3 January 1789." %}
+  title="Runaway-slave ad, 3 January 1789"
+  caption="Figure 8. Runaway-slave ad, 3 January 1789." %}
 
 {% include image.html
   img="issue04/levi-inness/LeviFig9.png"
-  caption="Figure 9. \"Runaway-slave\" ad, 27 January 1807." %}
+  title="Runaway-slave ad, 27 January 1807."
+  caption="Figure 9. Runaway-slave ad, 27 January 1807." %}
 
 {% include image.html
   img="issue04/levi-inness/LeviFig10.png"
-  caption="Figure 10. \"Runaway-slave\" ad, 14 April 1807." %}
+  title="Runaway-slave ad, 14 April 1807."
+  caption="Figure 10. Runaway-slave ad, 14 April 1807." %}
 
 {% include image.html
   img="issue04/levi-inness/LeviFig11.png"
-  caption="Figure 11. \"Runaway-slave\" ad, 4 October 1788." %}
+  title="Runaway-slave ad, 14 April 1807."
+  caption="Figure 11. Runaway-slave ad, 4 October 1788." %}
 
 {% include image.html
   img="issue04/levi-inness/LeviFig12.png"
-  caption="Figure 12. \"Runaway-slave\" ad, 30 August 1783." %}
+  title="Runaway-slave ad, 30 August 1783."
+  caption="Figure 12. Runaway-slave ad, 30 August 1783." %}
 
 {% include image.html
   img="issue04/levi-inness/LeviFig13.png"
-  caption="Figure 13. \"Runaway-slave\" ad, 14 April 1807." %}
+  title="Runaway-slave ad, 14 April 1807."
+  caption="Figure 13. Runaway-slave ad, 14 April 1807." %}
 
 Participants in the workshops saw vivid, human stories that provided
 descriptions of and gave a voice to voiceless ancestors. By engaging
@@ -557,7 +570,7 @@ material might be scattered or inaccessible, as is the case with
 colonial records.
 
 The *Mercury* offers great opportunities for creating spatial
-humanities projects. It is full of movement—of people, goods, ideas, and
+humanities projects. It is full of movement---of people, goods, ideas, and
 transportation methods. Considering that the newspaper was a knowledge
 infrastructure and informational tool for the planter and merchant
 class, it contains a wealth of information about ships arriving or
@@ -607,7 +620,7 @@ and literacy.
 
 A recent Caribbean Examinations Council Task Force on History report
 examined the decline in Caribbean Secondary Examination
-Certificate–level and Caribbean Advanced Examination Certificate–level
+Certificate--level and Caribbean Advanced Examination Certificate--level
 history registrants over the last decade or more.[^41] The task force
 investigated a number of factors for the decline and made
 recommendations, but the factors largely revolved around competition
@@ -666,246 +679,97 @@ scholarship and into the classroom for students and communities. This
 kind of development would allow archives to break free of the stratified
 colonial silences and privilege-based voids in access. It would allow
 archives to become spaces for community development, capacity building,
-social consciousness, and social justice—but only if we invest in their
+social consciousness, and social justice---but only if we invest in their
 preservation in the first place. If archival documents are merely
 digitized and uploaded online with no commitment to conservation,
 programming, and engagement, then the colonized legacy of archives
-remains locked in the patterns and hierarchies of the past—invisible in
+remains locked in the patterns and hierarchies of the past---invisible in
 HTML (hypertext markup language) code on websites unexplored by the
 people who need them the most.
 
 ---
 
-[^1]: The title of the newspaper changed throughout the years, beginning
-    in 1783 as the *Barbados Mercury* and changing to the *Barbados
-    Mercury and Bridgetown Gazette* circa 1805. For more contextual
-    information about the history of the newspaper, please see \"The
-    *Barbados Mercury and Bridgetown Gazette* Newspaper Collection,\"
-    British Library Endangered Archives Programme,
-    <http://eap.bl.uk/collection/EAP1086-1>.
+[^1]: The title of the newspaper changed throughout the years, beginning in 1783 as the *Barbados Mercury* and changing to the *Barbados Mercury and Bridgetown Gazette* circa 1805. For more contextual information about the history of the newspaper, please see \"The *Barbados Mercury and Bridgetown Gazette* Newspaper Collection,\"British Library Endangered Archives Programme, <http://eap.bl.uk/collection/EAP1086-1>.
 
-[^2]: See \"Welcome to the Endangered Archives Programme,\"
-    <https://eap.bl.uk>. Established in 2004, the EAP awards grants for
-    identifying and digitizing culturally important \"material that is at
-    risk of loss or decay, and is located in countries where resources
-    and opportunities to preserve such material are lacking or limited\"
-    (\"About the Programme,\" <https://eap.bl.uk/about>). The EAP makes
-    available digitized material through local partners and its website.
+[^2]: See \"Welcome to the Endangered Archives Programme,\"<https://eap.bl.uk>. Established in 2004, the EAP awards grants for identifying and digitizing culturally important \"material that is at risk of loss or decay, and is located in countries where resources and opportunities to preserve such material are lacking or limited\"(\"About the Programme,\" <https://eap.bl.uk/about>). The EAP makes available digitized material through local partners and its website.
 
-[^3]: See Heather Junke, \"Brock Prof Part of International Mission to
-    Save Caribbean History,\" *The Brock News, a News Source for Brock
-    University*, 25 October 2017,
-    <http://brocku.ca/brock-news/2017/10/brock-prof-part-of-international-mission-to-save-caribbean-history>,
-    accessed 15 December 2019.
+[^3]: See Heather Junke, \"Brock Prof Part of International Mission to Save Caribbean History,\" *The Brock News, a News Source for Brock University*, 25 October 2017, <http://brocku.ca/brock-news/2017/10/brock-prof-part-of-international-mission-to-save-caribbean-history>, accessed 15 December 2019.
 
-[^4]: To learn more about the collaboration, see \"Collaboration across
-    Disciplines to Make a Path Where None Existed\" (panel presented at
-    ACURIL 2017: Multidisciplinary Research in the Caribbean, 4–8 June
-    2017, San Juan, Puerto Rico),
-    [dloc.com/AA00054636/00001/citation](https://dloc.com/AA00054636/00001/citation).
-    ACURIL is the Association of Caribbean University, Research, and
-    Institutional Libraries.
+[^4]: To learn more about the collaboration, see \"Collaboration across Disciplines to Make a Path Where None Existed\" (panel presented at ACURIL 2017: Multidisciplinary Research in the Caribbean, 4--8 June 2017, San Juan, Puerto Rico), [dloc.com/AA00054636/00001/citation](https://dloc.com/AA00054636/00001/citation). ACURIL is the Association of Caribbean University, Research, and Institutional Libraries.
 
-[^5]: See Jerome S. Handler, *A Guide to Source Materials for the Study
-    of Barbados History, 1627–1834* (Carbondale: Southern Illinois
-    University Press, 1971).
+[^5]: See Jerome S. Handler, *A Guide to Source Materials for the Study of Barbados History, 1627--1834* (Carbondale: Southern Illinois University Press, 1971).
 
-[^6]: To learn more about each phase, see Amalia S. Levi, \"Digitisation
-    of the *Barbados Mercury Gazette*,\" *Endangered Archives Blog*, 3
-    August 2018,
-    <http://blogs.bl.uk/endangeredarchives/2018/08/digitisation-of-the-barbados-mercury-gazette.html>.
+[^6]: To learn more about each phase, see Amalia S. Levi, \"Digitisation of the *Barbados Mercury Gazette*,\" *Endangered Archives Blog*, 3 August 2018, <http://blogs.bl.uk/endangeredarchives/2018/08/digitisation-of-the-barbados-mercury-gazette.html>.
 
-[^7]: See Maja Kominko, \"Crumb Trails, Threads, and Traces: Endangered
-    Archives and History,\" in *From Dust to Digital: Ten Years of the
-    Endangered Archives Programme*, ed. Maja Kominko (Cambridge: Open
-    Book, 2016), xlix–lxviii, <http://books.openedition.org/obp/2216>.
-    To read more about the post-custodial model, see Christian Kelleher,
-    \"Archives without Archives: (Re)Locating and (Re)Defining the
-    Archive through Post-Custodial Praxis,\" *Journal of Critical Library
-    and Information Studies* 1, no. 2 (2017),
-    [doi:10.24242/jclis.v1i2.29](http://doi.org/10.24242/jclis.v1i2.29).
+[^7]: See Maja Kominko, \"Crumb Trails, Threads, and Traces: Endangered Archives and History,\" in *From Dust to Digital: Ten Years of the Endangered Archives Programme*, ed. Maja Kominko (Cambridge: Open Book, 2016), xlix--lxviii, <http://books.openedition.org/obp/2216>. To read more about the post-custodial model, see Christian Kelleher, \"Archives without Archives: (Re)Locating and (Re)Defining the Archive through Post-Custodial Praxis,\" *Journal of Critical Library and Information Studies* 1, no. 2 (2017), [doi:10.24242/jclis.v1i2.29](http://doi.org/10.24242/jclis.v1i2.29).
 
-[^8]: The *Mercury* online can be accessed either through the EAP portal
-    at <http://eap.bl.uk/project/EAP1086> or through the dLOC portal at
-    <http://www.ufdc.ufl.edu/AA00047511/02334/allvolumes>.
+[^8]: The *Mercury* online can be accessed either through the EAP portal at <http://eap.bl.uk/project/EAP1086> or through the dLOC portal at <http://www.ufdc.ufl.edu/AA00047511/02334/allvolumes>.
 
-[^9]: Hugh Eakin, \"We're All in Danger of Watching Our History Go Up in
-    Flames,\" *Washington Post*, 5 September 2018,
-    <http://www.washingtonpost.com/opinions/our-art-has-burned-for-centuries-it-will-go-up-in-smoke-again/2018/09/05/53702182-b11b-11e8-a20b-5f4f84429666_story.html>.
+[^9]: Hugh Eakin, \"We're All in Danger of Watching Our History Go Up in Flames,\" *Washington Post*, 5 September 2018, <http://www.washingtonpost.com/opinions/our-art-has-burned-for-centuries-it-will-go-up-in-smoke-again/2018/09/05/53702182-b11b-11e8-a20b-5f4f84429666_story.html>.
 
-[^10]: \"Fire Destroys Building Housing St. Lucia's Most Extensive
-    Collection of Cultural and Historical Artefacts,\" *Pride News*
-    (blog), 27 March 2018,
-    <http://pridenews.ca/2018/03/27/fire-destroys-building-housing-st-lucias-extensive-collection-cultural-historical-artefacts/>.
+[^10]: \"Fire Destroys Building Housing St. Lucia's Most Extensive Collection of Cultural and Historical Artefacts,\" *Pride News* (blog), 27 March 2018, <http://pridenews.ca/2018/03/27/fire-destroys-building-housing-st-lucias-extensive-collection-cultural-historical-artefacts/>.
 
-[^11]: See \"About the Archive,\" *Slave Societies Digital Archive*,
-    [www.slavesocieties.org/node/23](file:///D:\Willow\sx%20archipelagos\sxa4%20Jan%202020\returned%20Word%20edits\www.slavesocieties.org\node\23)
-    (accessed 14 December 2019).
+[^11]: See "About the Archive," *Slave Societies Digital Archive*, <www.slavesocieties.org/node/23> (accessed 14 December 2019).
 
-[^12]: Angela Sutton, \"The Digital Overhaul of the Archive of
-    Ecclesiastical and Secular Sources for Slave Societies (ESSSS),\" *sx
-    archipelagos*, no. 2 (July 2017),
-    <http://smallaxe.net/sxarchipelagos/issue02/essss.html>.
+[^12]: Angela Sutton, \"The Digital Overhaul of the Archive of Ecclesiastical and Secular Sources for Slave Societies (ESSSS),\" *sx archipelagos*, no. 2 (July 2017), <http://smallaxe.net/sxarchipelagos/issue02/essss.html>.
 
-[^13]: See Kathleen Arthur et al., \"Recognizing Digitization as a
-    Preservation Reformatting Method,\" *Microform and Imaging Review*
-    33, no. 4 (2004): 171–80.
+[^13]: See Kathleen Arthur et al., \"Recognizing Digitization as a Preservation Reformatting Method,\" *Microform and Imaging Review* 33, no. 4 (2004): 171--80.
 
-[^14]: See Nicholson Baker, \"Discards,\" *New Yorker*, 4 April 1994,
-    <https://www.newyorker.com/magazine/1994/04/04/discards>.
+[^14]: See Nicholson Baker, \"Discards,\" *New Yorker*, 4 April 1994, <https://www.newyorker.com/magazine/1994/04/04/discards>.
 
-[^15]: Richard J. Cox, \"The Great Newspaper Caper: Backlash in the
-    Digital Age,\" *First Monday*, 4 December 2000,
-    [doi:10.5210/fm.v5i12.822](https://doi.org/10.5210/fm.v5i12.822).
+[^15]: Richard J. Cox, \"The Great Newspaper Caper: Backlash in the Digital Age,\" *First Monday*, 4 December 2000, [doi:10.5210/fm.v5i12.822](https://doi.org/10.5210/fm.v5i12.822).
 
-[^16]: See Randy Silverman, \"Retaining Hardcopy Papers Still Important
-    in Digital Age,\" *Newspaper Research Journal* 36, no. 3 (2015):
-    363–72,
-    [doi:10.1177/0739532915600749](https://doi.org/10.1177/0739532915600749).
+[^16]: See Randy Silverman, \"Retaining Hardcopy Papers Still Important in Digital Age,\" *Newspaper Research Journal* 36, no. 3 (2015): 363--72, [doi:10.1177/0739532915600749](https://doi.org/10.1177/0739532915600749).
 
-[^17]: Recent government initiatives in Barbados suggest that there is a
-    move to digitize public records on a large scale with the help of
-    Inter-American Development Bank (IDB) funding. However, it is not
-    clear how this policy will dovetail with a larger conservation
-    policy. See Emmanuel Joseph, \"PM: I'm Sorry,\" *Barbados Today*, 23
-    October 2018, <http://barbadostoday.bb/2018/10/23/pm-im-sorry>.
+[^17]: Recent government initiatives in Barbados suggest that there is a move to digitize public records on a large scale with the help of Inter-American Development Bank (IDB) funding. However, it is not clear how this policy will dovetail with a larger conservation policy. See Emmanuel Joseph, \"PM: I'm Sorry,\" *Barbados Today*, 23 October 2018, <http://barbadostoday.bb/2018/10/23/pm-im-sorry>.
 
-[^18]: Hannah Alpert-Abrams, David A. Bliss, and Itza Carbajal,
-    \"Post-Custodialism for the Collective Good: Examining Neoliberalism
-    in US-Latin American Archival Partnerships,\" in \"Evidences,
-    Implications, and Critical Interrogations of Neoliberalism in
-    Information Studies,\" ed. Marika Cifor and Jamie A. Lee, special
-    issue, *Journal of Critical Library and Information Studies* 2, no.
-    1 (2019),
-    [doi:10.24242/jclis.v2i1.87](https://doi.org/10.24242/jclis.v2i1.87).
+[^18]: Hannah Alpert-Abrams, David A. Bliss, and Itza Carbajal, \"Post-Custodialism for the Collective Good: Examining Neoliberalism in US-Latin American Archival Partnerships,\" in \"Evidences, Implications, and Critical Interrogations of Neoliberalism in Information Studies,\" ed. Marika Cifor and Jamie A. Lee, special issue, *Journal of Critical Library and Information Studies* 2, no. 1 (2019), [doi:10.24242/jclis.v2i1.87](https://doi.org/10.24242/jclis.v2i1.87).
 
-[^19]: Brooke Wooldridge and Laurie Taylor, \"The Role of Digital
-    Libraries in Disaster Preparedness and Mitigation\" (paper presented
-    at ACURIL 2011: The Role of Libraries and Archives in Disaster
-    Preparedness, Response, and Research, 30 May–3 June 2011, University
-    of South Florida, Tampa),
-    <http://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=1015&context=acuril_2011>.
+[^19]: Brooke Wooldridge and Laurie Taylor, \"The Role of Digital Libraries in Disaster Preparedness and Mitigation\" (paper presented at ACURIL 2011: The Role of Libraries and Archives in Disaster Preparedness, Response, and Research, 30 May--3 June 2011, University of South Florida, Tampa), <http://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=1015&context=acuril_2011>.
 
-[^20]: For more on the process through the thoughts of the digitization
-    team, see Brian Inniss and Lenora Williams, \"The *Barbados Mercury*:
-    Thoughts from the Digitisation Team,\" *Endangered Archives Blog*, 19
-    March 2019,
-    <https://blogs.bl.uk/endangeredarchives/2019/03/digitising-the-barbados-mercury-.html>.
+[^20]: For more on the process through the thoughts of the digitization team, see Brian Inniss and Lenora Williams, \"The *Barbados Mercury*: Thoughts from the Digitisation Team,\" *Endangered Archives Blog*, 19 March 2019, <https://blogs.bl.uk/endangeredarchives/2019/03/digitising-the-barbados-mercury-.html>.
 
-[^21]: For more information about the workshops, see \"The *Barbados
-    Mercury Gazette* Digitization Launch Workshop—December 12, 2017,\"
-    <https://dloc.com/AA00061880/00001/citation>; \"The *Barbados Mercury
-    Gazette* Digitization Training Workshop,\"
-    [https://dloc.com/AA00063750/00001/citation](%20https:/dloc.com/AA00063750/00001/citation);
-    and \"The *Barbados Mercury Gazette*: Event to Celebrate the Launch
-    of the Newspaper Online,\"
-    <https://dloc.com/AA00066602/00001/citation>.
+[^21]: For more information about the workshops, see \"The *Barbados Mercury Gazette* Digitization Launch Workshop---December 12, 2017,\"<https://dloc.com/AA00061880/00001/citation>; \"The *Barbados Mercury Gazette* Digitization Training Workshop,\"[https://dloc.com/AA00063750/00001/citation](%20https:/dloc.com/AA00063750/00001/citation); and \"The *Barbados Mercury Gazette*: Event to Celebrate the Launch of the Newspaper Online,\"<https://dloc.com/AA00066602/00001/citation>.
 
-[^22]: Amalia Skarlatou Levi (@amaliasl), \"We digitize and we destroy.
-    We put together a puzzle that will never exist again. The pieces and
-    the dust as embodiment of the necessity and inevitability of it all.
-    // Some more spoils of \#digitization, volume 1812 of the
-    \#BarbadosMercury @bl\_eap,\" Twitter, 15 November 2018, 11:3 am,
-    <https://twitter.com/amaliasl/status/1063152517075353600>.
+[^22]: Amalia Skarlatou Levi (@amaliasl), \"We digitize and we destroy. We put together a puzzle that will never exist again. The pieces and the dust as embodiment of the necessity and inevitability of it all. // Some more spoils of \#digitization, volume 1812 of the \#BarbadosMercury @bl\_eap,\" Twitter, 15 November 2018, 11:3 am, <https://twitter.com/amaliasl/status/1063152517075353600>.
 
-[^23]: Read project posts on Twitter through the hashtag
-    \#BarbadosMercury.
+[^23]: Read project posts on Twitter through the hashtag \#BarbadosMercury.
 
-[^24]: Nathan H. Dize, \"Aphids and Digital Archives: Thinking through
-    Digital Preservation with Dionne Brand's *The Blue Clerk*,\" *Digital
-    Cultural Heritage Cluster*, Vanderbilt University, 13 October 2018,
-    <http://my.vanderbilt.edu/digitalculturalheritage/2018/10/13/aphids-and-digital-archives-thinking-through-digital-preservation-with-dionne-brands-the-blue-clerk>.
+[^24]: Nathan H. Dize, \"Aphids and Digital Archives: Thinking through Digital Preservation with Dionne Brand's *The Blue Clerk*,\" *Digital Cultural Heritage Cluster*, Vanderbilt University, 13 October 2018, <http://my.vanderbilt.edu/digitalculturalheritage/2018/10/13/aphids-and-digital-archives-thinking-through-digital-preservation-with-dionne-brands-the-blue-clerk>.
 
-[^25]: See, for example, *Beyond 2022: Ireland's Virtual Records
-    Treasury*, which aims to recreate the Public Record Office of
-    Ireland that was destroyed by fire in 1922, <http://beyond2022.ie>.
+[^25]: See, for example, *Beyond 2022: Ireland's Virtual Records Treasury*, which aims to recreate the Public Record Office of Ireland that was destroyed by fire in 1922, <http://beyond2022.ie>.
 
-[^26]: See, for example, Marisa J. Fuentes, *Dispossessed Lives:
-    Enslaved Women, Violence, and the Archive* (Philadelphia: University
-    of Pennsylvania Press, 2018).
+[^26]: See, for example, Marisa J. Fuentes, *Dispossessed Lives: Enslaved Women, Violence, and the Archive* (Philadelphia: University of Pennsylvania Press, 2018).
 
-[^27]: Always Already Computational: Collections as Data project team,
-    \"The Santa Barbara Statement on Collections as Data,\" version 2,
-    <http://collectionsasdata.github.io/statement/> (accessed 6 July
+[^27]: Always Already Computational: Collections as Data project team, \"The Santa Barbara Statement on Collections as Data,\" version 2, <http://collectionsasdata.github.io/statement/> (accessed 6 July
     2019).
 
-[^28]: One such collection provided as data is the *Gaceta de la Habana*
-    at the University of Miami Libraries; see
-    <http://github.com/UMiamiLibraries/collections-as-data/tree/master/LaGaceta>.
+[^28]: One such collection provided as data is the *Gaceta de la Habana* at the University of Miami Libraries; see <http://github.com/UMiamiLibraries/collections-as-data/tree/master/LaGaceta>.
 
 [^29]: OCR was conducted with Prime Recognition.
 
-[^30]: See Dario Kampkaspar, \"Digital Edition of the ‘Wienerisches
-    Diarium,'\" November 2017,
-    <http://read.transkribus.eu/wp-content/uploads/2017/07/Kampkaspar_Wienerisches_Diarium.pdf>.
+[^30]: See Dario Kampkaspar, \"Digital Edition of the 'Wienerisches Diarium,'\" November 2017, <http://read.transkribus.eu/wp-content/uploads/2017/07/Kampkaspar_Wienerisches_Diarium.pdf>.
 
-[^31]: The *Early Caribbean Digital Archive* is an open-access digital
-    archive, an online repository of documents, travel narratives,
-    natural histories, novels, poetry, and maps from the sixteenth- to
-    nineteenth-century Caribbean, which offers dynamic interactions with
-    early Caribbean texts, a robust research community, and pedagogical
-    and scholarly resources; see <http://ecda.northeastern.edu>. At the
-    time of the writing of this article, the website of the Barbados
-    Runaway Slaves Digital Collection project has not yet been
-    finalized. Furthermore, the title of the digital collection is still
-    tentative.
+[^31]: The *Early Caribbean Digital Archive* is an open-access digital archive, an online repository of documents, travel narratives, natural histories, novels, poetry, and maps from the sixteenth- to nineteenth-century Caribbean, which offers dynamic interactions with early Caribbean texts, a robust research community, and pedagogical and scholarly resources; see <http://ecda.northeastern.edu>. At the time of the writing of this article, the website of the Barbados Runaway Slaves Digital Collection project has not yet been finalized. Furthermore, the title of the digital collection is still tentative.
 
-[^32]: Paula Harper-Grant, \"Barbados Has Digital Runaway Slaves
-    Collection,\" *GIS* (blog), 13 March 2019,
-    <http://gisbarbados.gov.bb/blog/barbados-has-digital-runaway-slaves-collection/>.
+[^32]: Paula Harper-Grant, \"Barbados Has Digital Runaway Slaves Collection,\" *GIS* (blog), 13 March 2019, <http://gisbarbados.gov.bb/blog/barbados-has-digital-runaway-slaves-collection/>.
 
-[^33]: To learn more about the workshops conducted during fall 2019,
-    please see Amalia S. Levi, \"Beyond Digitisation: Engaging the
-    Community around the *Barbados Mercury*,\" *Endangered Archives
-    Blog*, 2 January 2020,
-    <http://blogs.bl.uk/endangeredarchives/2020/01/beyond-digitisation-the-barbados-mercury.html>.
+[^33]: To learn more about the workshops conducted during fall 2019, please see Amalia S. Levi, \"Beyond Digitisation: Engaging the Community around the *Barbados Mercury*,\" *Endangered Archives Blog*, 2 January 2020, <http://blogs.bl.uk/endangeredarchives/2020/01/beyond-digitisation-the-barbados-mercury.html>.
 
-[^34]: For resistance strategies used among the enslaved in Barbados,
-    the following sources provide more information: Hilary Beckles, \"An
-    Economic Life of Their Own: Slaves as Commodity Producers and
-    Distributors in Barbados,\" *Slavery and Abolition* 12, no. 1 (1991):
-    31–47,
-    [doi:10.1080/01440399108575021](https://doi.org/10.1080/01440399108575021);
-    Hilary Beckles, \"Caribbean Anti-slavery: The Self-Liberation Ethos
-    of Enslaved Blacks,\" in *Caribbean Slave Society and Economy*, ed.
-    Hilary Beckles and Verene Shepherd (Kingston: Ian Randle, 1991); and
-    Hilary Beckles, *Natural Rebels: A Social History of Enslaved Women
-    in Barbados* (New Brunswick, NJ: Rutgers University Press, 1989).
+[^34]: For resistance strategies used among the enslaved in Barbados, the following sources provide more information: Hilary Beckles, \"An Economic Life of Their Own: Slaves as Commodity Producers and Distributors in Barbados,\" *Slavery and Abolition* 12, no. 1 (1991): 31--47, [doi:10.1080/01440399108575021](https://doi.org/10.1080/01440399108575021); Hilary Beckles, \"Caribbean Anti-slavery: The Self-Liberation Ethos of Enslaved Blacks,\" in *Caribbean Slave Society and Economy*, ed. Hilary Beckles and Verene Shepherd (Kingston: Ian Randle, 1991); and Hilary Beckles, *Natural Rebels: A Social History of Enslaved Women in Barbados* (New Brunswick, NJ: Rutgers University Press, 1989).
 
-[^35]: Jessica Marie Johnson, \"Markup Bodies: Black Life Studies and
-    Slavery Death Studies at the Digital Crossroads,\" *Social Text*,
-    no. 137 (December 2018): 57–79,
-    [doi:10.1215/01642472-7145658](http://doi.org/10.1215/01642472-7145658).
+[^35]: Jessica Marie Johnson, \"Markup Bodies: Black Life Studies and Slavery Death Studies at the Digital Crossroads,\" *Social Text*, no. 137 (December 2018): 57--79, [doi:10.1215/01642472-7145658](http://doi.org/10.1215/01642472-7145658).
 
-[^36]: See *Slave Voyages*, <http://www.slavevoyages.org>; Legacies of
-    British Slave-Ownership, <http://www.ucl.ac.uk/lbs>; and *Enslaved:
-    The People of the Historic Slave Trade*, <http://www.enslaved.org>.
+[^36]: See *Slave Voyages*, <http://www.slavevoyages.org>; Legacies of British Slave-Ownership, <http://www.ucl.ac.uk/lbs>; and *Enslaved: The People of the Historic Slave Trade*, <http://www.enslaved.org>.
 
-[^37]: See *Life and Labor under Slavery: The Jesuit Plantation
-    Project*, <http://jesuitplantationproject.org/s/jpp/page/welcome>.
+[^37]: See *Life and Labor under Slavery: The Jesuit Plantation Project*, <http://jesuitplantationproject.org/s/jpp/page/welcome>.
 
-[^38]: See *Slave Revolt in Jamaica, 1760–1761*,
-    <http://revolt.axismaps.com>; and *Mapping Marronage*,
-    <http://mapping-marronage.rll.lsa.umich.edu/welcome>.
+[^38]: See *Slave Revolt in Jamaica, 1760--1761*, <http://revolt.axismaps.com>; and *Mapping Marronage*, <http://mapping-marronage.rll.lsa.umich.edu/welcome>.
 
-[^39]: See *Layers of London: Recording the Layers of London's Rich
-    Heritage*, <http://www.layersoflondon.org>.
+[^39]: See *Layers of London: Recording the Layers of London's Rich Heritage*, <http://www.layersoflondon.org>.
 
-[^40]: Pelagios, \"Final Report on LatAm: A Historical Gazetteer of
-    Colonial Latin America and the Caribbean,\" *Medium* (blog), 14 June
-    2019,
-    <http://medium.com/pelagios/final-report-on-latam-a-historical-gazetteer-of-colonial-latin-america-and-the-caribbean-4772c7eae9e2>.
+[^40]: Pelagios, \"Final Report on LatAm: A Historical Gazetteer of Colonial Latin America and the Caribbean,\" *Medium* (blog), 14 June 2019, <http://medium.com/pelagios/final-report-on-latam-a-historical-gazetteer-of-colonial-latin-america-and-the-caribbean-4772c7eae9e2>.
 
-[^41]: Caribbean Examinations Council, *Caribbean Examinations Council
-    (CXC) Task Force on History Report* (Bridgetown, Barbados: Caribbean
-    Examinations Council, 2018).
+[^41]: Caribbean Examinations Council, *Caribbean Examinations Council (CXC) Task Force on History Report* (Bridgetown, Barbados: Caribbean Examinations Council, 2018).
 
-[^42]: One undergraduate student reflected, \"You can see how this
-    session promotes the idea of critical analysis…and would engage and
-    promote the desire to study history from the secondary school level.
-    I believe that some effort should be made to promote digital
-    humanities beyond the university\"; Tevin Maynard, e-mail to authors,
-    20 May 2019. Another student mentioned how the exercise helped her
-    to understand more about the lived experience of enslaved people in
-    Barbados and the risks they took to challenge the system of slavery
-    by running away and absenting themselves from slaveholders.
+[^42]: One undergraduate student reflected, \"You can see how this session promotes the idea of critical analysis and would engage and promote the desire to study history from the secondary school level. I believe that some effort should be made to promote digital humanities beyond the university\"; Tevin Maynard, e-mail to authors, 20 May 2019. Another student mentioned how the exercise helped her to understand more about the lived experience of enslaved people in Barbados and the risks they took to challenge the system of slavery by running away and absenting themselves from slaveholders.

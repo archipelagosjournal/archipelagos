@@ -25,19 +25,19 @@ Issues arising in issue04
 
 Instructions
 
-# without Docker (PDFs may not generate well)
+## without Docker (PDFs may not generate well)
 rvm gemset use jekyll
 bundle install
 ./utility/ConTeXt/makeIssues.sh
 
-# with Docker
+## with Docker on cloud
 rvm gemset use jekyll
 bundle install
 sudo docker run -it denubis/md-jekyll-context
 
-(on airbook:
+## with Docker on image:
 sudo docker run -it -v ~/www/archipelagos/:/root/archipelagos pdf_maker:latest
-)
+
 
 cd /root/archipelagos
 (make sure to git pull latest version)

@@ -15,6 +15,9 @@ global:
   issue: Issue
   return-to-top: Return to Top
   toc: Return to Table of Contents
+  and: and
+  read-exchange: Read our exchange
+  visit-project: Visit the Project Site
 
 issues:
   issue01: "Issue (1) | June 2016"

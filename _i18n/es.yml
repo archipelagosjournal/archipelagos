@@ -15,6 +15,9 @@ global:
   issue: Número
   return-to-top: Volver al inicio de la página
   toc: Volver al índice
+  and: "y"
+  read-exchange: Lea nuestro intercambio
+  visit-project: Visite el proyecto
 
 titles:
   about: "acerca de"

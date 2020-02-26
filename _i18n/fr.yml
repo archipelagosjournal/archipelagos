@@ -16,6 +16,9 @@ global:
   march: mars
   return-to-top: Haut de page
   toc: Table des matières
+  and: et
+  read-exchange: Lisez notre échange
+  visit-project: Visitez le projet
 
 titles:
   about: "à propos de nous"
