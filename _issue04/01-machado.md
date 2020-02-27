@@ -361,8 +361,8 @@ January 2018.[^26]
 
 {% include image.html
   img="issue04/machado/figure-2.png"
-  title="Figure 2. An online archive of Miranda\'s \"for you\" tweets."
-  caption="Figure 2. An online archive of Miranda's \"for you\" tweets."
+  title="Figure 2. An online archive of Miranda\'s \'for you\' tweets."
+  caption="Figure 2. An online archive of Miranda\'s \'for you\' tweets."
   url="https://web.archive.org/web/20180724174411/http://elenamachado.blogs.bucknell.edu/work-in-progress/latinx-twitter-lin-manuel-miranda/"
 %}
 
@@ -487,21 +487,21 @@ writers.
 
 {% include image.html
   img="issue04/machado/figure-7.png"
-  title="Figure 7. The raw frequency of \"your\" in the corpora of thirteen writers."
-  caption="Figure 7. The raw frequency of \"your\" in the corpora of thirteen writers." 
+  title="Figure 7. The raw frequency of \'your\' in the corpora of thirteen writers."
+  caption="Figure 7. The raw frequency of \'your\' in the corpora of thirteen writers." 
 %}
 
 {% include image.html
   img="issue04/machado/figure-8.png"
-  title="Figure 8. The raw frequency of \"we\" in the corpora of thirteen writers."
-  caption="Figure 8. The raw frequency of \"we\" in the corpora of thirteen writers." 
+  title="Figure 8. The raw frequency of \'we\' in the corpora of thirteen writers."
+  caption="Figure 8. The raw frequency of \'we\' in the corpora of thirteen writers." 
 %}
 
 {% include image.html
   img="issue04/machado/figure-9.png"
-  title="Figure 9. The raw frequency of \"us\" in the corpora of
+  title="Figure 9. The raw frequency of \'us\' in the corpora of
   thirteen writers."
-  caption="Figure 9. The raw frequency of \"us\" in the corpora of
+  caption="Figure 9. The raw frequency of \'us\' in the corpora of
   thirteen writers." 
 %}
 
@@ -547,7 +547,7 @@ Daniel Alarcón|@DaniekGAlarcon|1 out of 1655|0.0006%
 Daniel Olivas|@olivasdan|2 out of 4214|0.0005%
 Achy Obejas|@achylandia|1 out of 3688|0.0003%
 
-<span class="caption">Figure 10. A comparison of \"for you\" usage in original tweets between May 10, 2017--Nov. 14, 2017 (with retweets removed).</span>
+<span class="caption">Figure 10. A comparison of \'for you\' usage in original tweets between May 10, 2017--Nov. 14, 2017 (with retweets removed).</span>
 
 Concentrating on the phrase "for you" as a lens of comparison makes
 explicit a tweet's reference to a relational dynamic. "For you" often
@@ -569,7 +569,7 @@ critique of Trump as "you"|2
 empathy reaction to tragedy|3
 support of DREAMers as "you"|1
 
-Figure 11. A breakdown of sixty-five \"for you\" tweets by Miranda.
+Figure 11. A breakdown of sixty-five \'for you\' tweets by Miranda.
 
 **Activism**|**22**
 gratitude for activism of specific others|10
@@ -581,7 +581,7 @@ offer/request emotional support|4
 advice for work/writing/health|3
 reading recommendation|2
 
-Figure 12. A breakdown of forty-five \"for you\" tweets by twelve Latinx writers.
+Figure 12. A breakdown of forty-five \'for you\' tweets by twelve Latinx writers.
 
 Miranda uses Twitter to articulate concerns similar to those of other
 Latinx writers, namely, using the "you" to relate to a general audience
@@ -619,7 +619,7 @@ July 30, 2017|They weren't there for you 45, you were supposed to be there for t
 June 21, 2017|Thank you for your vigilance, foresight, and leadership @RepAdamSchiff. We need the whole truth.|@RepAdamSchiff
 May 31, 2017|Thank you for your leadership.|@kdeleon @realDonaldTrump
 
-Figure 13. \"For you\" tweets by Chibas.
+Figure 13. \'For you\' tweets by Chibas.
 
 Within this select group of tweets, we see Chibas replying in support of
 US senator for California Kamala Harris; the mayor of San Juan Puerto
@@ -668,7 +668,7 @@ Date of Tweet|@elprofe316|Reply to
 08/05/2017|I've just applied for something like my dream job and I'm asking for your support, prayers, candles, santos, coins in the ocean...whatever!|
 08/05/2017|Thank you! I remember you so clearly and I'm grateful for your energy.|@gionvalentine
 
-<span class="caption">Figure 15. \"For you\" tweets by Villar.</span>
+<span class="caption">Figure 15. \'For you\' tweets by Villar.</span>
 
 <span style="background-color: #000000">By contrast, Villar's tweet to his followers about a "dream job"
 application requests "support, prayers, candles, santos, coins in the
@@ -695,8 +695,8 @@ imagining the shared familial context of absent fathers.[^27]
 
 {% include image.html
   img="issue04/machado/figure-17.png"
-  title="Figure 17. Vázquez for \"tested.\""
-  caption="Figure 17. Vázquez for \"tested.\""
+  title="Figure 17. Vázquez for \'tested.\'"
+  caption="Figure 17. Vázquez for \'tested.\'"
   url="https://web.archive.org/web/20181230013652/https://twitter.com/charlievazquez/statuses/869669182526435332"
 %}
 
@@ -875,8 +875,8 @@ increasing criticism and investigations."[^39]
 
 {% include image.html
   img="issue04/machado/figure-21.png"
-  title="Figure 21. Miranda's \"in the meantime.\""
-  caption="Figure 21. Miranda's \"in the meantime.\""
+  title="Figure 21. Miranda's \'in the meantime.\'"
+  caption="Figure 21. Miranda's \'in the meantime.\'"
   url="http://web.archive.org/web/20170921161517/https://twitter.com/lin_manuel/status/910769261479677953"
 %}
 
@@ -889,8 +889,8 @@ increasing criticism and investigations."[^39]
 
 {% include image.html
   img="issue04/machado/figure-23.png"
-  title="Figure 23. Miranda's \"new path\" with Hispanic Federation."
-  caption="Figure 23. Miranda's \"new path\" with Hispanic Federation."
+  title="Figure 23. Miranda's \'new path\' with Hispanic Federation."
+  caption="Figure 23. Miranda's \'new path\' with Hispanic Federation."
   url="http://web.archive.org/web/20181231191605/https://twitter.com/lin_manuel/status/913024298654273536"
 %}
 
@@ -961,8 +961,8 @@ order to cultivate specific feelings in the spectator.[^46]
 
 {% include image.html
   img="issue04/machado/figure-25.png"
-  title="Figure 25. Miranda\'s \"job description.\""
-  caption="Figure 25. Miranda\'s \"job description.\""
+  title="Figure 25. Miranda\'s \'job description.\'"
+  caption="Figure 25. Miranda\'s \'job description.\'"
   url="http://web.archive.org/web/2018\*/https://twitter.com/lin_manuel/status/897242937788125184"
 %}
 
@@ -1023,7 +1023,7 @@ time|11|iím|6|order|5|protect|4|it's|4
 grateful|9|thanks|6|day|4|thank|4|life|4
 playlist|7|know|5|gnight|4|make|4
 
-<span class="caption">Figure 27. List of the top twenty-five words within Miranda's \"for you\" corpus.</span>
+<span class="caption">Figure 27. List of the top twenty-five words within Miranda's \'for you\' corpus.</span>
 
 {% include image.html
   img="issue04/machado/figure-29.png"
@@ -1134,15 +1134,15 @@ a daily basis with his millions of followers.
 
 {% include image.html
   img="issue04/machado/figure-34.png"
-  title="Figure 34. Miranda\'s \"Any other questions?\" response to a playlist request."
-  caption="Figure 34. Miranda\'s \"Any other questions?\" response to a playlist request."
+  title="Figure 34. Miranda\'s \'Any other questions?\' response to a playlist request."
+  caption="Figure 34. Miranda\'s \'Any other questions?\' response to a playlist request."
   url="https://web.archive.org/web/20181231005014/https://twitter.com/Lin_Manuel/status/897068921857220608"
 %}
 
 {% include image.html
   img="issue04/machado/figure-35.png"
-  title="Figure 35. Miranda\'s \"Nope\" response to a playlist request."
-  caption="Figure 35. Miranda\'s \"Nope\" response to a playlist request."
+  title="Figure 35. Miranda\'s \'Nope\' response to a playlist request."
+  caption="Figure 35. Miranda\'s \'Nope\' response to a playlist request."
   url="https://web.archive.org/web/20181231005149/https://twitter.com/Lin_Manuel/status/902295847630725120"
 %}
 

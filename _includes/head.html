@@ -63,7 +63,10 @@
     <meta name="citation_online_date" content="{{site.time | date: '%Y/%m/%d'}}">
     <meta name="citation_language" content="{{page.language}}"/>
     <meta name="citation_fulltext_html_url" content="{{site.url}}{{ site.baseurl }}{{ page.url }}"/>
+    {% if page.pdf == false %}
+    {% else %}
     <meta name="citation_pdf_url" content="{{site.url}}{{ site.baseurl }}/assets{{ page.url | replace:'.html','.pdf' }}">
+    {% endif %}
     <meta name="citation_publisher" content="{{site.publisher}}"/>
     <meta name="citation_doi" content="{{page.doi}}"/>
     
