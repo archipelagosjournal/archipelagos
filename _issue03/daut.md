@@ -1055,11 +1055,9 @@ decolonization over democratization, requires that institutions and
 researchers alike work together to remove the many barriers that exist
 to accessing historical resources. These include not simply problems of
 language, which translation often appears able to solve, but the much
-more heady and material problem of financing. But historians who digitally archive might
-help us to avoid recreating, through the process of expensive (and thus
-often inaccessible) scholarly publications, the very systems of
-domination, exploitation, and ownership that we rail against when
-writing about the machines of slavery and colonialism.
+more heady and material problem of financing. 
+
+While digital archiving holds much promise to create more equity with respect to the public's ability to access historical documents, the notion that the digital humanities is a super hero capable of redressing the violent pasts of slavery and colonialism remains problematic. Digital projects involving archives are still susceptible to and indeed operating within the same unequal and oppressive processes of colonial extraction and finance capitalism that created the conditions proponents of digital decolonization seek to rectify in the first place. That is to say, it is colonialism that is responsible for so much of Haitian patrimony existing in foreign archives, libraries, and museums, and digital archiving, including digital repatriation, can neither redress this wrong nor provide a form of reparations for it. In fact, putting documents on the internet haphazardly, as if we were all the digital cowboys of the world wide web, could end up mirroring colonial extraction on a wider scale, particularly, if it is done without collaboration. But historians who digitally archive might help us to avoid recreating, through the process of expensive (and thus often inaccessible) scholarly publications, the very systems of domination, exploitation, and ownership that we rail against when writing about the machines of slavery and colonialism.
 
 Conclusion
 ----------
