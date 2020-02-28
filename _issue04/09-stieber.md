@@ -31,7 +31,7 @@ language: en
 ---
 
 {% include epigraph.html
-    quote = "The fact that outsiders were not interested in what was happening in Haiti does not allow us to conclude that there was not anything happening there."
+    quote = "The fact that outsiders were not interested in what was happening in Haiti does not permit us to conclude that nothing had happened there."
     citation = "Michel-Philippe Lerebours, <em>Haïti et ses peintres</em>"
 %}
 
@@ -814,12 +814,9 @@ experimenting as we continue to the next stage of the RSHHGG Lab.
     importance of the resource and used it in their own research. They
     utilized the journal's scholarly production despite its relative
     scholarly "obscurity"---precisely because they had a specialist's
-    knowledge of its importance. Epigraph: "Original French of 'The fact
-    that outsiders were not interested in what was happening in Haiti
-    does not allow us to conclude that there was not anything happening
-    there'"; Michel-Philippe Lerebours, *Haïti et ses peintres: De 1804
-    à 1980; souffrances and espoirs d'un peuple* (Port-au-Prince, Haïti:
-    Imprimeur II, 1989), 000.
+    knowledge of its importance. Epigraph: "De plus, le fait que l'étranger ne se fût pas intéressé à ce qui se passait en Haïti, n'autorise pas à conclure qu'il ne s'y fut rien passé"; Michel-Philippe Lerebours, *Haïti et ses peintres: De 1804
+    à 1980; souffrances and espoirs d'un peuple*, 2 vols. (Port-au-Prince, Haïti:
+    Imprimeur II, 1989), 1:24.
 
 [^2]: On the problem of centering in comparative studies, see Carol
     Boyce Davies, "Beyond Uni-centricity: Transcultural Black
