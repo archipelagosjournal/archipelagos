@@ -37,6 +37,7 @@ ssed -r -i -f $root/utility/ConTeXt/iframe.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/tables.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/epigraph.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/captionFigure.ssed $filename.tex
+ssed -r -i -f $root/utility/ConTeXt/backslash.ssed $filename.tex
 echo ConTeXt $filename, log into $3 
 
 
@@ -64,3 +65,4 @@ fi
 #subl contextRunLog.log
 #subl pandoc.log
 #evince $filename.pdf &
+

@@ -57,10 +57,13 @@ rebellion was quickly put down, it was part of a series of rebellions in
 the West Indies during the nineteenth century that led to the abolition
 of slavery in British colonies in 1834.
 
+
+
 {% include image.html
   img="issue04/levi-inness/LeviFig1.png"
-  title="A pristine issue of the Barbados Mercury Gazette"  
+  title="A pristine issue of the *Barbados Mercury Gazette* August 1815"
   caption="Figure 1. A pristine issue of the *Barbados Mercury Gazette* August 1815." %}
+
 
 Scholars have mined the newspaper for information covering many
 different arenas, including maritime history, economic history, military

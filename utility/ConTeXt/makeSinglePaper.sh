@@ -40,7 +40,7 @@ for issuePath in $(find $root -maxdepth 1 -name "$1" -type d  ); do
 	cd /tmp/$issue
 
 	cp $root/utility/ConTeXt/env_journal.tex .
-	cp $root/utility/ConTeXt/*.ttf .
+	cp $root/.fonts/*.ttf .
 	
 	cp -r $root/images/$issue images
 
