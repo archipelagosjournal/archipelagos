@@ -4,7 +4,7 @@
 [Alex Gil](#alex-gil--editor)
 
 ### Assistante aux rédacteurs-en-chef
-[Soraya Limare](#soraya-limare--managing-editor)
+[Soraya Limare](#soraya-limare--assistante-editoriale)
 
 ### Production | Conception
 [Juliet Ali](#juliet-ali--designer)\\
@@ -49,6 +49,10 @@ Barnard Committee on Online and On-Campus Learning
 
 ### Alex Gil | editor
 [Alex Gil](http://www.elotroalex.com) is Digital Scholarship Librarian at Columbia University Libraries. He is the founder of the [Butler Studio](https://studio.cul.columbia.edu/) at Columbia University, a library innovation space focused on digital scholarship and pedagogy; faculty moderator of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/), a vibrant trans-disciplinary research cluster focused on experimental humanities; and former founder and chair of [Global Outlook::Digital Humanities](http://www.globaloutlookdh.org/), an interest group connecting scholars around the world. Current projects include [Ed](http://elotroalex.github.io/ed/), a digital platform for minimal editions of literary texts; *[Torn Apart/Separados](http://xpmethod.plaintext.in/torn-apart/volume/1/)*, a rapidly deployed study of ICE's infrastructure in the United States; and,[In the Same Boats: Toward an Afro-Atlantic Intellectual Cartography](http://sameboats.org/), a visualization of trans-Atlantic intersections of black intellectuals in the 20th century.
+
+### Soraya Limare | assistante editoriale
+
+Soraya Limare graduated from Ecole Normale Supérieure-Ulm and is now a PhD candidate at Columbia University in the department of French and Romance Philology. Her research focuses on francophone literature from the Caribbean.
 
 ---
 
