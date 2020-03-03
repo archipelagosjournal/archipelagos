@@ -1,6 +1,6 @@
 ### Rédacteurs-en-chef
 
-[Kaiama L. Glover](#kaiama-l-glover--editor)\\
+[Kaiama L. Glover](#kaiama-l-glover--editor)  
 [Alex Gil](#alex-gil--editor)
 
 ### Assistante aux rédacteurs-en-chef
