@@ -670,17 +670,17 @@ possibility that digitizing a colonial text simply replicates
 long-standing forms of silence, bringing the same careful reading and
 analysis to our own work as we do to works of the past.
 
-## Acknowledgements
+## Acknowledgments
 
 I would like to thank the anonymous readers for their generous and
 constructive feedback. Thank you as well to Julie Kim for her thoughtful
 and insightful reading of earlier forms of this essay. Lastly, thanks
-for the *Digital Grainger* team: Julie Kim, Cristobal Silva, Alex Gil,
+to the *Digital Grainger* team: Julie Kim, Cristobal Silva, Alex Gil,
 Ami Yoon, Steve Fragano, Lina Jiang, and Elizabeth Cornell.
 
 ---
 
-[^f1]: See *Transatlantic Slave Trade Database*, [https://www.slavevoyages.org/voyage/database](https://www.slavevoyages.org/voyage/database); *The Early Caribbean Digital Archive*, [https://ecda.northeastern.edu/](https://ecda.northeastern.edu/); *Slave Revolt in Jamaica, 1760--1761*, [http://http://revolt.axismaps.com/project.html](http://http://revolt.axismaps.com/project.html); *Two Plantations*, [http://twoplantations.com/](http://twoplantations.com/); and *Musical Passage: A Voyage to 1688 Jamaica*, [http://www.musicalpassage.org/](http://www.musicalpassage.org/).
+[^f1]: See *Voyages: The Trans-Atlantic Slave Trade Database*, [https://www.slavevoyages.org/voyage/database](https://www.slavevoyages.org/voyage/database); *The Early Caribbean Digital Archive*, [https://ecda.northeastern.edu/](https://ecda.northeastern.edu/); *Slave Revolt in Jamaica, 1760--1761*, [http://revolt.axismaps.com/project.html](http://http://revolt.axismaps.com/project.html); *Two Plantations*, [http://twoplantations.com/](http://twoplantations.com/); and *Musical Passage: A Voyage to 1688 Jamaica*, [http://www.musicalpassage.org/](http://www.musicalpassage.org/).
 
 [^f2]: Jim Egan, "The 'Long'd-for Aera' of an 'Other Race': Climate, Identity, and James Grainger's *The Sugar-Cane*," *Early American Literature* 38, no. 2 (2003): 189--212.
 
@@ -700,7 +700,7 @@ Ami Yoon, Steve Fragano, Lina Jiang, and Elizabeth Cornell.
 
 [^f10]: See Beth Fowkes Tobin, *Colonizing Nature: The Tropics in British Arts and Letters, 1760--1820* (Philadelphia: University of Pennsylvania Press, 2004), 46, 51.
 
-[^f11]: For a history of the relations between indigenous persons, including a general overview of the specific geography of each island and its role in colonial development, see Philip P. Boucher, *Cannibal Encounters: Europeans and Island Caribs, 1492--1763* (Baltimore: Johns Hopkins University Press, 1992). See also Anthony Ravell and Thomas Jefferys, cartographers, *Isle St. Christophe ou St. Kitts*, 1779, 45.5 x 59.5 cm, Bibliothèque nationale de France, [https://catalogue.bnf.fr/ark:/12148/cb43835771j](https://catalogue.bnf.fr/ark:/12148/cb43835771j); Anthony Ravell, cartographer, and Thomas Jefferys, engraver, *St Christophers surveyed*, \\[17..?\\], 47 x 61 cm, Bibliothèque nationale de France, [https://catalogue.bnf.fr/ark:/12148/cb40717619n](https://catalogue.bnf.fr/ark:/12148/cb40717619n); and John Lodge and John Bew, authors, *An accurate map of the island of St. Christophers from an actual survey*, 1782, \\[360 x 280?\\], Bibliothèque nationale de France, [https://catalogue.bnf.fr/ark:/12148/cb40666170n](https://catalogue.bnf.fr/ark:/12148/cb40666170n).
+[^f11]: For a history of the relations between indigenous persons, including a general overview of the specific geography of each island and its role in colonial development, see Philip P. Boucher, *Cannibal Encounters: Europeans and Island Caribs, 1492--1763* (Baltimore: Johns Hopkins University Press, 1992). See also Anthony Ravell and Thomas Jefferys, cartographers, *Isle St. Christophe ou St. Kitts*, 1779, 45.5 x 59.5 cm, Bibliothèque nationale de France, [https://catalogue.bnf.fr/ark:/12148/cb43835771j](https://catalogue.bnf.fr/ark:/12148/cb43835771j); Anthony Ravell, cartographer, and Thomas Jefferys, engraver, *St Christophers surveyed*, \[17..?\], 47 x 61 cm, Bibliothèque nationale de France, [https://catalogue.bnf.fr/ark:/12148/cb40717619n](https://catalogue.bnf.fr/ark:/12148/cb40717619n); and John Lodge and John Bew, authors, *An accurate map of the island of St. Christophers from an actual survey*, 1782, \[360 x 280?\], Bibliothèque nationale de France, [https://catalogue.bnf.fr/ark:/12148/cb40666170n](https://catalogue.bnf.fr/ark:/12148/cb40666170n).
 
 
 
