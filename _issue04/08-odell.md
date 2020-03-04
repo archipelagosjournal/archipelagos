@@ -274,10 +274,9 @@ institution to support the project and to contribute to the efforts of
 securing grants. The teams are located in Japan (Takayuki Nakamura,
 Waseda University), France (Sylvie Glissant and Loïc Céry, Institut du
 Tout-monde), Québec (Raphaël Lauro, Université de Montréal), the United
-States (Jeanne Jégousso, Hollins University, and Charly Verstraet, Emory
-University), Martinique (Axel Arthéron and Dominique Aurélia, Université
+States (Jeanne Jégousso, Hollins University, and Charly Verstraet, University of Albama at Birmingham), Martinique (Axel Arthéron and Dominique Aurélia, Université
 des Antilles), Cuba (Camila Valdés, Casa de las Americas), and Italy
-(Elena Pessini, University of Parma).
+(Elena Pessini, University of Parma, and Guiseppe Sofo, Università Ca' Foscari Venezia).
 
 In addition to the editorial board, the *Library of Glissant Studies*
 relies on the involvement of an advisory board and a team of
