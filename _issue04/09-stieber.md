@@ -22,7 +22,7 @@ date: January, 2020
 issue: 4
 order: 5
 abstract: >
-  This essay analyzes the role that experimental work played in the multi-institutional, cross-boundary collaborative construction of the RSHHGG Lab, an interactive online index of Haiti's preeminent social science journal, the *Revue de la Société haïtienne d'histoire, de géographie et de géologie*. Here, the authors understand experimentation to be a mindset, an attitude of "try it and see what happens" through iterative small risks and an openness to involving others and changing direction. This approach draws on the spirit of collaboration, experimentation, and sharing that informs the LC Labs initiative at the Library of Congress, and the *revue* (magazine-journal) as a print space of exchange, confrontation, and collective creation. Following recent reflections on information maintenance and care ethics, the authors agree that infrastructures of information maintenance are often invisible and institutionally siloed and often reproduce structures of oppression and silencing. They aim here to highlight the institutional and infrastructural experimentation and labor necessary to create what is, essentially, a project of information management: making a key repository of knowledge usable, discoverable and accessible. The authors contend that experimental work was central to successfully working within---and also challenging---extant infrastructures of information maintenance in order to achieve an independent, sustainable project with room to grow and transform. In attending to the various processes of experimentation that underwrote the RSHHGG Lab, the authors hope to demonstrate the fruitfulness of cross-boundary collaborative projects and, ultimately, to advocate for more infrastructures of experimentation in many forms: research leave, labs, residencies, and further creative approaches to blurring the boundaries of labor.
+  This essay analyzes the role that experimental work played in the multi-institutional, cross-boundary collaborative construction of the RSHHGG Lab, an interactive online index of Haiti's preeminent social science journal, the *Revue de la Société haïtienne d'histoire, de géographie et de géologie*. Here, the authors understand experimentation to be a mindset, an attitude of "try it and see what happens" through iterative small risks and an openness to involving others and changing direction. This approach draws on the spirit of collaboration, experimentation, and sharing that informs the LC Labs initiative at the Library of Congress, and the *revue* (magazine-journal) as a print space of exchange, confrontation, and collective creation. Following recent reflections on information maintenance and care ethics, the authors agree that infrastructures of information maintenance are often invisible and institutionally siloed and tend to reproduce structures of oppression and silencing. They aim here to highlight the institutional and infrastructural experimentation and labor necessary to create what is, essentially, a project of information management: making a key repository of knowledge usable, discoverable and accessible. The authors contend that experimental work was central to successfully working within---and also challenging---extant infrastructures of information maintenance in order to achieve an independent, sustainable project with room to grow and transform. In attending to the various processes of experimentation that underwrote the RSHHGG Lab, the authors hope to demonstrate the fruitfulness of cross-boundary collaborative projects and, ultimately, to advocate for more infrastructures of experimentation in many forms: research leave, labs, residencies, and further creative approaches to blurring the boundaries of labor.
 abstract_fr: >
   Le RSHHGG Lab, un index intéractif en ligne qui répertorie plus de 90 ans de la plus ancienne revue de sciences sociales en Haiti (*La Revue de la Société Haïtienne d'Histoire, de Géographie et de Géologie*), a été élaboré de manière collaborative et à l'intersection de plusieurs disciplines et institutions. Cet article analyse le rôle joué spécifiquement par la traduction dans la construction collaborative de ce projet en humanités numériques. Ici, nous entendons « traduction » dans son sens le plus large. Nous considérons la traduction des sources matérielles originales en forme de base de données, ainsi que la traduction à l'œuvre dans la création de meta-données, et enfin la traduction d'idées en produits digitaux qui peuvent être travaillés et incluent des textes ('scripts') et du code court. Nous considérons également le rôle de la traduction au sein des partenariats collaboratifs : la traduction opérée entre les humanités et les disciplines de bibliothéconomie, les traductions entre les attentes et la réalité, ainsi que la traduction entre plusieurs langues et registres : le créole, le français et l'anglais. Enfin, nous considérons la manière dont le projet traduit le travail en valeur pour les différents intervenants du projet---non seulement pour les contributeurs/trices principaux/ales au projet (la Société, l'humaniste, et le/la bibliothécaire)---mais pour les différentes institutions et les contributeurs/trices individuels/elles impliqué/e/s. En examinant les différents processus de traduction à l'œuvre dans le RSHHGG Lab, les auteur/e/s espèrent démontrer la fertilité des projects collaboratifs trans-frontaliers et contribuer plus largement aux projets en humanités numériques.
 abstract_es: >
@@ -32,7 +32,7 @@ language: en
 
 {% include epigraph.html
     quote = "The fact that outsiders were not interested in what was happening in Haiti does not permit us to conclude that nothing had happened there."
-    citation = "Michel-Philippe Lerebours, <em>Haïti et ses peintres</em>"
+    citation = "Michel-Philippe Lerebours, *Haïti et ses peintres*"
 %}
 
 Over the last ninety years, Haitian scholars and intellectuals have
@@ -62,7 +62,7 @@ interactive online index of the nearly century's worth of knowledge
 produced in the *RSHHGG*.[^3] Developed at the intersection of
 disciplinary fields and in cooperation with various institutional
 partners, including the Société haïtienne d'histoire, de géographie et
-de géologie (SHHGG), the Library of Congress's LC Labs and John W. Kluge
+de géologie (SHHGG), the Library of Congress's Labs and John W. Kluge
 Center, the Catholic University of America, and George Washington
 University, this cross-boundary collaborative digital project was
 designed to expand the impact of this crucial repository of Haitian
@@ -115,7 +115,7 @@ infrastructures of experimentation in many forms: research leave, labs,
 residencies, and further creative approaches to blurring the boundaries
 of labor.
 
-## The Haitian State, Politics, and the Evolution of the Société haïtienne d'histoire, de géographie et de géologie and its *Revue *
+## The Haitian State, Politics, and the Evolution of the Société haïtienne d'histoire, de géographie et de géologie and its *Revue*
 
 In 2019, the Société haïtienne d'histoire, de géographie et de géologie
 celebrated its ninety-sixth anniversary.[^7] Its survival is no small
@@ -274,7 +274,7 @@ quality and level of the publication.
 
 {% include image.html
   img="issue04/stieber/stieber-image_2.jpg"
-  title="Figure 2. Cover art, <em>Revue de la Société haïtienne d'histoire, de géographie et de géologie</em>."
+  title="Cover Art"
   caption="Figure 2. Cover art, *Revue de la Société haïtienne d'histoire, de géographie et de géologie*." %}
 
 ## Decolonizing Infrastructures of Information Maintenance
@@ -324,7 +324,7 @@ available on microfilm.
 
 {% include image.html
   img="issue04/stieber/stieber-image_3.png"
-  title="Figure 3. Library of Congress catalog entry for the <em>Revue de la Société haïtienne d\'histoire, de géographie et de géologie</em>."
+  title="Library of Congress Catalog Entry"
   caption="Figure 3. Library of Congress catalog entry for the *Revue de la Société haïtienne d\'histoire, de géographie et de géologie*." %}
 
 Stieber's initial exploratory research into these questions identified
@@ -472,8 +472,7 @@ consultation on how to turn this dataset into an index on a digital
 platform. The "guiding principles" of accessibility and sustainability
 that Stieber brought to this next stage of the project were essential to
 narrow down all the possibilities and stick to the guiding ethos of the
-project. These became an anchor and a touchstone against which she
-measured all options. The accessibility piece was inspired by the Small
+project. The accessibility piece was inspired by the Small
 Axe Archipelagos project, which emphasizes critical thinking in digital
 humanities scholarship in order to "encourage collaboration with,
 increase accessibility for, and otherwise work to narrow the gap between
@@ -829,13 +828,13 @@ experimenting as we continue to the next stage of the RSHHGG Lab.
     Comparative Studies of Haiti," *Early American Literature* 53, no. 3
     (2018): 961--75.
 
-[^3]: See RSHHGG Lab, <http://rshhgglab.com/>. The site is also
-    available in French (<http://rshhgglab.com/francais/>) and Kreyol
-    (<http://rshhgglab.com/kreyol/>).
+[^3]: See RSHHGG Lab, <https://rshhgglab.com/>. The site is also
+    available in French (<https://rshhgglab.com/francais/>) and Kreyol
+    (<https://rshhgglab.com/kreyol/>).
 
 [^4]: Marlene L. Daut, "Haiti @ the Digital Crossroads: Archiving Black
     Sovereignty," *sx archipelagos*, no 3 (2019),
-    [*http://smallaxe.net/sxarchipelagos/issue03/daut.html*](http://smallaxe.net/sxarchipelagos/issue03/daut.html).
+    [https://smallaxe.net/sxarchipelagos/issue03/daut.html](https://smallaxe.net/sxarchipelagos/issue03/daut.html).
 
 [^5]: On the LC Labs project, see <https://labs.loc.gov/>. On the
     *revue* as experimentation, see Olivier Corpet, "Que vivent des
@@ -882,7 +881,7 @@ experimenting as we continue to the next stage of the RSHHGG Lab.
     d'instinct reportés en arrière pour chercher dans leur histoire des
     leçons de patriotisme collectif, de nouvelles règles de conduite,
     soit pour pouvoir mieux défendre leur existence menacé, soit pour se
-    relever plus rapidement de leurs chutes. [...] L'histoire de chaque peuple
+    relever plus rapidement de leurs chutes. . . . L'histoire de chaque peuple
     est la source unique d'où découlent et ou se renouvellent, selon les
     circonstances, ses légitimes et indestructibles aspirations
     nationales"; Horacius Pauléus Sannon, "Discours de Me. H. Pauléus
@@ -928,29 +927,25 @@ experimenting as we continue to the next stage of the RSHHGG Lab.
 [^16]: See Watson Denis, "Haïti / Hommage au mapou Michel Hector
     (1932--2019): Professeur, historien et militant politique,"
     *AlterPresse*, 13 July 2019,
-    [http://www.alterpresse.org/spip.php?article24537 -
-    .XS4LOJNKhTZ](http://www.alterpresse.org/spip.php?article24537#.XS4LOJNKhTZ).
+    [https://www.alterpresse.org/spip.php?article24537](https://www.alterpresse.org/spip.php?article24537).
 
 [^17]: Stieber worked closely with junior fellows Samantha Herron and
     Luke Menzies.
 
 [^18]: See Chelsea Stieber, "The Haitian Literary Magazine in
     Francophone Postcolonial Literary and Cultural Production," in
-    *Beyond Tradition: French Cultural Studies (1800--2014)*, ed. Anne
-
-    O'Neil-Henry, Kathryn Kleppinger, and Masha Belenky (Newark:
-    University of Delaware Press, 2017).
+    *Beyond Tradition: French Cultural Studies (1800--2014)*, ed. Anne O'Neil-Henry, Kathryn Kleppinger, and Masha Belenky (Newark: University of Delaware Press, 2017).
 
 [^19]: On the Modernist Journals Project, see
-    <http://modjourn.org/mjp.slogan.html>. See also Suzanne Churchill's
+    <https://modjourn.org/mjp.slogan.html>. See also Suzanne Churchill's
     Index of Modernist Magazines, <https://modernistmagazines.org/>; and
     the University of Wisconsin-Madison's Little Magazines Collection,
     <https://uwlittlemags.tumblr.com/>. Recently, the Institut national
     d'histoire de l'art embarked on a much-needed revision to the
     West-centric modernist magazine movement with their Seigmography of
     Struggle project, a global history of critical and cultural
-    journals; see
-    <https://gap.inha.fr/fr/projets/art-global-et-periodiques-culturels/exposition.html>.
+    journals and are also constructing a new database of global modernist periodicals; see
+    <https://gap.inha.fr/fr/projets/art-global-et-periodiques-culturels/exposition.html> and https://gap.inha.fr/fr/ressources/bibliographies-et-recensements/bases-de-donnees.html.
 
 [^20]: On decolonizing knowledge and the archive, see Achille Mbembe,
     *Decolonizing Knowledge and the Question of the Archive* (Africa Is
@@ -971,7 +966,7 @@ experimenting as we continue to the next stage of the RSHHGG Lab.
     <http://smallaxe.net/sxarchipelagos/about.html>.
 
 [^24]: See "About," Minimal Computing: A Working Group of GO::DH,
-    <http://go-dh.github.io/mincomp/about/>.
+    <https://go-dh.github.io/mincomp/about/>.
 
 [^25]: Meghan Ferriter, "Welcoming Laura Wrubel and Exploring Digital
     Scholarship at the Library of Congress," *The Signal* (blog), 20
@@ -981,7 +976,7 @@ experimenting as we continue to the next stage of the RSHHGG Lab.
 [^26]: Michelle Gallinger and Daniel Chudnov, for the Library of
     Congress Lab, *Library of Congress Digital Scholars Lab Pilot
     Project Report*, 21 December 2016,
-    [*https://labs.loc.gov/static/portals/labs/meta/images/DChudnov-MGallinger\_LCLabReport.pdf*](https://labs.loc.gov/static/portals/labs/meta/images/DChudnov-MGallinger_LCLabReport.pdf).
+    [https://labs.loc.gov/static/labs/meta/images/DChudnov-MGallinger_LCLabReport.pdf](https://labs.loc.gov/static/labs/meta/images/DChudnov-MGallinger_LCLabReport.pdf).
 
 [^27]: The committee granted us access to all their materials and
     deputized two of their advisory board members to assist us in
@@ -998,22 +993,22 @@ experimenting as we continue to the next stage of the RSHHGG Lab.
     <https://omeka.org/about/staff/>.
 
 [^30]: See Christian James's faculty profile,
-    [*https://lis.catholic.edu/faculty-and-research/faculty-profiles/james-christian/index.html*](https://lis.catholic.edu/faculty-and-research/faculty-profiles/james-christian/index.html).
+    [https://lis.catholic.edu/faculty-and-research/faculty-profiles/james-christian/index.html](https://lis.catholic.edu/faculty-and-research/faculty-profiles/james-christian/index.html).
 
-[^31]: See *An Island Luminous*, <http://islandluminous.fiu.edu/>.
+[^31]: See *An Island Luminous*, <https://islandluminous.fiu.edu/>.
 
 [^32]: See "Call for Collaborators: RSHHGG Lab,"
-    <http://rshhgglab.com/call-for-collaborators-rshhgg-lab/>; also in
+    <https://rshhgglab.com/call-for-collaborators-rshhgg-lab/>; also in
     French ("Appel à collaboration: Le Labo RSHHGG,"
-    <http://rshhgglab.com/appel-aux-collaborateurs-le-labo-rshhgg/>) and
+    <https://rshhgglab.com/appel-aux-collaborateurs-le-labo-rshhgg/>) and
     Kreyol ("Apèl pou Kolaborasyon: RSHHGG Lab,"
-    <http://rshhgglab.com/apel-pou-kolaborasyon/>).
+    <https://rshhgglab.com/apel-pou-kolaborasyon/>).
 
 [^33]: See Duke University Libraries' Radio Haiti Archive,
     <https://repository.duke.edu/dc/radiohaiti>.
 
 [^34]: See "Collaborators," RSHHGG Lab,
-    <http://rshhgglab.com/collaborators/>.
+    <https://rshhgglab.com/collaborators/>.
 
 [^35]: Daut, "Haiti @ the Digital Crossroads."
 
@@ -1023,13 +1018,13 @@ experimenting as we continue to the next stage of the RSHHGG Lab.
 [^37]: We could model the idea on an open-source device called the
     KoomBook, researched and developed by Libraries without Borders /
     Bibliothèques sans frontières,
-    [*https://www.librarieswithoutborders.org/koombook/*](https://www.librarieswithoutborders.org/koombook/).
+    [https://www.librarieswithoutborders.org/koombook/](https://www.librarieswithoutborders.org/koombook/).
     WiFi is wireless networking technology commonly used for local area
     networking of devices and internet access.
 
 [^38]: See "Locally produced Caribbean Periodicals: A Crowd-Sourced
     List," at "Experiments," RSHHGG Lab,
-    <http://rshhgglab.com/experiments/>.
+    <https://rshhgglab.com/experiments/>.
 
 [^39]: Katie Rawson and Trevor Muñoz, "Toward Collective Models of
     Digital Scholarship," *OSF*, 17 October 2018,
