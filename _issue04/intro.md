@@ -104,7 +104,7 @@ of linguo-cultural contexts that both speak to and diverge from one
 another.
 
 *Et voilà*. Welcome to the fledgling issue of *archipelagos | a journal
-of Caribbean digital praxis*. We embark on this next phase of this
+of Caribbean digital praxis*. We embark on this next phase of the
 adventure humbly, and with gratitude to David Scott and the whole of the
 Small Axe Project team for so well preparing us to soar.
 
