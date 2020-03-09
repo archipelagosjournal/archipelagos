@@ -1,8 +1,7 @@
 <h2>{% t global.past_issues %}</h2>
-<ul>
+
 	{% for issue in site.collections %}
 	{% if issue.title contains "Issue" %}
-      <li class="toc-title"><a href="{{ site.baseurl }}/{{issue.slug}}.html">{% t global.issue %} ({{issue.number}})</a></li>
-      {% endif %}
+      <span class="toc-title"><a href="{{ site.baseurl }}/{{issue.slug}}.html">{% t global.issue %} ({{issue.number}})</a></span>{% if issue.number != site.current-number %} | {% endif %}
+    {% endif %}
     {% endfor %}
-</ul>

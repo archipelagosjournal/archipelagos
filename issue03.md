@@ -214,6 +214,4 @@ editor:
 
 <hr>
 
-<h2>{% t global.past_issues %}</h2>
-
 {% include pastIssues.html %}
