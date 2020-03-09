@@ -6,7 +6,7 @@ title:
   "short": "A Caribbean Counter-Edition"
 title_fr: "Une contre-édition caribéenne: *The Sugar-Cane* de James Grainger sous forme digitale"
 title_es: "Una contra-edición caribeña: *The Sugar-Cane* de James Grainger en formato digital"
-doi: ""
+doi: "https://doi.org/10.7916/archipelagos-2c5j-mc45"
 author: 
 - name: Kimberly Takahata
   shortname: Takahata
@@ -14,7 +14,7 @@ author:
     Kimberly Takahata is a PhD candidate at Columbia University in the Department of English and Comparative Literature, where she specializes in early American literature. She is a team member of *Digital Grainger*.
 date: February 2020
 issue: 4
-order: 2
+order: 3
 abstract: >
   An approximately twenty-five-hundred-line poem, James Grainger's *The Sugar-Cane* (1764) details the process of sugar production on eighteenth-century Caribbean plantations and celebrates the commercial might of the British Empire. This article discusses *Digital Grainger: An Online Edition of "The Sugar-Cane" (1764)* and how it challenges Grainger's poetic imperialism by presenting readers with a counter-edition, versus an edition, of Grainger's poem. Furthermore, it examines the central connection between the digital nature of the counter-edition and its ability to reflect editing practices inspired by Caribbean traditions of postcolonial scholarship. In particular, the *Digital Grainger* team built an openly accessible edition of the poem that can be loaded on lower internet capacities and a variety of devices, attending to the embodied and material conditions of the digital archive. The site provides more than seven hundred footnotes to contextualize and challenge Grainger's authority and proslavery argument, building networks around the text to offer readers alternative understandings of the poem. The primary intervention, however, is "The Counter-Plantation," comprised of excerpts that collect and highlight themes of Afro-Caribbean and indigenous expertise, survival, and resistance. As such, *Digital Grainger* stages this intervention by "breaking apart" the poetic lines and footnotes of *The Sugar-Cane* to highlight how possibilities for life were structural elements of settler colonialism and plantation slavery. These methods emphasize long histories of Caribbean exchange and encounter, ultimately working to read a colonial text in a manner that does not replicate its mission and violence. At the same time, *Digital Grainger* reveals that further work must be done to truly decolonize Caribbean digital archives, confronting the legacy of colonial silencing.
 abstract_fr: >

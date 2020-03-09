@@ -5,7 +5,7 @@ issue: 4
 order: 1
 date: February 2020
 title: "A Momentous Transition"
-doi: ""
+doi: "https://doi.org/10.7916/archipelagos-39cd-mn05"
 author: 
 - name: Kaiama L. Glover
   shortname: Glover

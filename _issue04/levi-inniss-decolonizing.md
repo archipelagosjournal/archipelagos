@@ -4,7 +4,7 @@ section: articles
 title: 
   "long": "Decolonizing the Archival Record about the Enslaved: Digitizing the *Barbados Mercury Gazette*"
   "short": "Decolonizing the Archival Record"
-doi: ""
+doi: "https://doi.org/10.7916/archipelagos-5k90-bd50"
 author: 
 - name: Amalia S. Levi
   shortname: Levi
@@ -16,7 +16,7 @@ author:
     Tara A. Inniss is a lecturer in the Department of History and Philosophy at, the University of the West Indies (UWI), Cave Hill Campus. The areas of focus for her teaching and research include history of medicine, history of social policy, and heritage and social development. In 2002--3, she received a Split-Site Commonwealth PhD Scholarship to study at the UWI/University of Manchester. Her thesis was on children's health during slavery and the apprenticeship periods. In 2007, she completed a master's in international social development at the University of New South Wales in Sydney, Australia. She received her PhD in history from the University of the West Indies, Cave Hill Campus in 2008. Tara currently sits on several committees for the Barbados World Heritage Committee, the Barbados Museum and Historical Society, and the Association of Caribbean Historians. She is the director of the UWI/OAS Caribbean Heritage Network and the coordinator of Heritage studies.
 date: January, 2020
 issue: 4
-order: 3
+order: 4
 abstract: >
   This article discusses the digitization of the historic newspaper the *Barbados Mercury Gazette* (1783--1848) and its potential for historical research and teaching. The newspaper sheds light on every aspect of life in a dystopian colonial reality. The digitization of the gazette is a beginning, rather than a \"finished product.\" The aim of the project is not simply to facilitate reading the gazette in a digital format; if so, then digitization would risk reproducing and re-inscribing inequalities, silences, and exclusions. The aim is to engage users, particularly Barbadians, in researching their enslaved ancestors. At the same time, the article reflects on the meaning of digitization in postcolonial settings in the global South and the challenges arising at the intersection of access and conservation. While digitization is promoted as digital preservation, it cannot save what is not accounted for, what is not described properly, and what has not been documented.
 abstract_fr: >

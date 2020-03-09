@@ -4,7 +4,7 @@ section: articles
 title: 
   "long": "Cross-Boundary Digital Collaboration as Scholarly and Institutional Experimentation: Amplifying the Impact of Caribbean Periodicals"
   "short": "Cross-Boundary Digital Collaboration"
-doi: ""
+doi: "https://doi.org/10.7916/archipelagos-vdts-xg77"
 author: 
 - name: Chelsea Stieber
   shortname: Stieber
@@ -20,7 +20,7 @@ author:
     Watson Denis is a professor of history, international relations, and Haitian social thought at the State University of Haiti and the general secretary of the Société haïtienne d'histoire, de géographie et de géologie. He is the author of *Haïti au-delà du 12 janvier 2015: Droit, constitution et politique* (C3 Éditions, 2015), *Haïti: Changer le cours de l'histoire* (C3 Éditions, 2016), and *Haïti, la CARICOM et la Caraïbe: Questions d'économie politique, d'intégration économique et de relations internationales* (C3 Éditions, 2018). His latest book, *La négation du droit à la nationalité: La situation d'apatridie des Dominicains et Dominicaines d'ascendance haïtienne en République dominicaine* is forthcoming in 2020.
 date: January, 2020
 issue: 4
-order: 5
+order: 6
 abstract: >
   This essay analyzes the role that experimental work played in the multi-institutional, cross-boundary collaborative construction of the RSHHGG Lab, an interactive online index of Haiti's preeminent social science journal, the *Revue de la Société haïtienne d'histoire, de géographie et de géologie*. Here, the authors understand experimentation to be a mindset, an attitude of "try it and see what happens" through iterative small risks and an openness to involving others and changing direction. This approach draws on the spirit of collaboration, experimentation, and sharing that informs the LC Labs initiative at the Library of Congress, and the *revue* (magazine-journal) as a print space of exchange, confrontation, and collective creation. Following recent reflections on information maintenance and care ethics, the authors agree that infrastructures of information maintenance are often invisible and institutionally siloed and tend to reproduce structures of oppression and silencing. They aim here to highlight the institutional and infrastructural experimentation and labor necessary to create what is, essentially, a project of information management: making a key repository of knowledge usable, discoverable and accessible. The authors contend that experimental work was central to successfully working within---and also challenging---extant infrastructures of information maintenance in order to achieve an independent, sustainable project with room to grow and transform. In attending to the various processes of experimentation that underwrote the RSHHGG Lab, the authors hope to demonstrate the fruitfulness of cross-boundary collaborative projects and, ultimately, to advocate for more infrastructures of experimentation in many forms: research leave, labs, residencies, and further creative approaches to blurring the boundaries of labor.
 abstract_fr: >

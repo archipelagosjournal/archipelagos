@@ -4,7 +4,7 @@ section: reviews
 title: 
   "long": "From Street Protest to Twitter Protest: A Review of Leonardo Flores's Twitter Bots"
   "short": "Review of Leonardo Flores's Twitter Bots"
-doi: ""
+doi: "https://doi.org/10.7916/archipelagos-fvgc-xs31"
 author: 
 - name: Élika Ortega 
   shortname: Ortega
@@ -12,7 +12,7 @@ author:
     Élika Ortega is an assistant professor in the Department of Spanish and Portuguese at the University of Colorado Boulder. Her research focuses on digital literature and media, cultural hybridity, reading practices and interfaces, books, and digital humanities. She is currently writing her first monograph, tentatively titled "Binding Media: Print-Digital Literature, 1980s--2010s," in which she investigates print-digital works of literature from Argentina to Canada. 
 date: February 2020
 issue: 4
-order: 11 
+order: 8 
 language: en
 ---
 

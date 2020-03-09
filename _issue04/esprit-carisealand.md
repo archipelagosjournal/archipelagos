@@ -4,7 +4,7 @@ section: projects
 title: 
   "long": "Carisealand: Sustainable Caribbean Futures"
   "short": "Carisealand"
-doi: ""
+doi: "https://doi.org/10.7916/archipelagos-03j8-8h65"
 author: 
 - name: Schuyler Esprit
   shortname: Esprit
@@ -12,7 +12,7 @@ author:
     Schuyler Esprit is a scholar of Caribbean literary and cultural studies and digital humanities. Her current research explores the intersections of environmental humanities, futurism, and radical Caribbean literary and political discourse. She is the founding director of the Create Caribbean Research Institute, the first digital humanities center in the Caribbean, based in Dominica. She is currently a program officer at the University of the West Indies, Open Campus.
 date: February, 2020
 issue: 4
-order: 10
+order: 7
 image: images/issue04/carisealand.png
 thumb: images/issue04/carisealand-thumb.png
 link: "https://ecda.northeastern.edu/"

@@ -4,7 +4,7 @@ section: articles
 title: 
   "long": "Thinking Digital: Archives and Glissant Studies in the Twenty-First Century"
   "short": "Thinking Digital"
-doi: ""
+doi: "https://doi.org/10.7916/archipelagos-6fz4-kb03"
 author: 
 - name: Jeanne Jégousso
   shortname: Jégousso
@@ -16,7 +16,7 @@ author:
     Emily O'Dell received her PhD from Louisiana State University and is currently an English lecturer at Georgia College. Her articles have been featured in *Postcolonial Interventions*, the *Louisiana Folklife Journal*, the *Louisiana Folklore Miscellany*, and *Atlantic Studies*, as well as in the collected volumes *La Louisiane et les Antilles, une nouvelle région du monde* (Presses Universitaires des Antilles, 2019) and *Utopia and Dystopia in the Age of Trump: Images from Literature and Visual Arts* (Rowman and Littlefield, 2019)*.* She is also a coeditor of the collection *Teaching, Reading, and Theorizing Caribbean Texts* (Lexington, forthcoming).
 date: January, 2020
 issue: 4
-order: 4
+order: 5
 abstract: >
   The *Library of Glissant Studies*, an open-access website, centralizes information by and on the work of Caribbean writer Édouard Glissant (Martinique, 1928--France, 2011). Endorsed by literary executors Sylvie and Mathieu Glissant, this multilingual, multimedia website provides bibliographic information, reproduces rare sources, connects numerous institutions, and includes the works of both renowned and emerging scholars in order to stimulate further research. The library chronicles all forms of academic work devoted to Glissant's writings, such as doctoral dissertations, MA theses, articles, books, and conference presentations. In this article, Jeanne Jégousso and Emily O'Dell address the origin, the evolution, and the challenges of the digital platform that was launched in March 2018.
 abstract_fr: >

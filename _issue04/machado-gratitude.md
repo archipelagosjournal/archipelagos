@@ -4,7 +4,7 @@ section: articles
 title: 
   "long": "Debt of Gratitude: Lin-Manuel Miranda and the Politics of US Latinx Twitter"
   "short": "Debt of Gratitude"
-doi: ""
+doi: "https://doi.org/10.7916/archipelagos-n0ta-ag67"
 author: 
 - name: Elena Machado Sáez
   shortname: Machado Sáez
@@ -12,7 +12,7 @@ author:
     Elena Machado Sáez is a professor of English at Bucknell University. She is the author of *Market Aesthetics: The Purchase of the Past in Caribbean Diasporic Fiction* (University of Virginia Press, 2015) and a coauthor of *The Latino/a Canon and the Emergence of Post-Sixties Literature* (Palgrave Macmillan, 2007). She recently published "Blackout on Broadway: Affiliation and Audience in *In the Heights* and *Hamilton*" in a special issue of *Studies in Musical Theater* (2018). Her essay "Generation MFA: Neoliberalism and the Shifting Cultural Capital of US Latinx Writers" appears in the journal *Latino Studies *(2018), and her chapter "Bodega Sold Dreams: Middle-Class Panic and the Crossover Aesthetics of *In the Heights*" appears in *Dialectical Imaginaries: Materialist Approaches to US Latino/a Literature in the Age of Neoliberalism* (University of Michigan Press, 2018). 
 date: May 2016
 issue: 4
-order: 1
+order: 2
 abstract: >
   This essay, which engages in an analysis of Lin-Manuel Miranda's invocation of "for you" on Twitter in comparison to those of twelve other US Latinx writers, has two goals: to identify broader key trends in the discursive strategies used on Latinx Twitter and to make the case for the urgent need to ethically document and archive contemporary Latinx Twitter production. The author moves in the direction of generating a public academic archive of Latinx Twitter by publishing online a limited corpus of Miranda's "for you" tweets as well as comparative visualizations of how Miranda's use of "for you" in tweets parallels and differs from other Latinx writers'. In addition to modeling the flawed process of archive-building in the hopes of encouraging other scholars to thoughtfully share their own Twitter archive processes, this essay analyzes the strategies used by some US Latinx creative writers to navigate Twitter and how these strategies may speak to the writers' understanding of the relationship between institutions, audiences, and aesthetics. It specifically highlights the digital work of Cuban American playwright Marissa Chibas, Puerto Rican poet Rich Villar, and Puerto Rican writer Charlie Vázquez on Twitter as a counternarrative to Miranda's aesthetics. Much work remains to be done in order to understand how Twitter acts as a vehicle for Miranda and the multitude of US Latinx writers who connect with audiences and each other as a means of translating emotion into action or profit or something else altogether.
 abstract_fr: >
