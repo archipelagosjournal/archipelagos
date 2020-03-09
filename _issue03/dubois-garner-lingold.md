@@ -4,7 +4,7 @@ section: projects
 title: 
   "long": "The Caribbean Digital & Peer Review: A Musical Passage Hypothesis"
   "short": "The Caribbean Digital & Peer Review"
-doi: 
+doi: https://doi.org/10.7916/archipelagos-j09v-vg80
 author:
 - name: Laurent Dubois
   shortname: Dubois
