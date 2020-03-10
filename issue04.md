@@ -24,5 +24,4 @@ editor:
 
 <hr>
 
-
 {% include pastIssues.html %}

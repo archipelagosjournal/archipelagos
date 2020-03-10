@@ -22,4 +22,6 @@ editor:
 
 {% include toc.html issue=site.issue02 %}
 
+<hr>
+
 {% include pastIssues.html %}
