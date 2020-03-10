@@ -3,20 +3,15 @@
 <div id="toc">
 
 <!-- Introductory material -->
-{% assign articles = (include.issue | sort: 'order') %} 
+{% assign articles = (include.issue | sort: 'order') %}
 <ul>
 <h3>{% t global.introduction %}</h3>
 {% for page in articles %}
-  {% if page.section == "introduction" %}
-    <li>
+  {% if page.section == "introduction" %}<li>
       <a href="{{ page.url | prepend:site.baseurl }}">
         <span class="toc-title">{{ page.title  | markdownify | remove: '<p>' | remove: '</p>' }}</span>
       </a><br>
-    <span class="byline"> 
-    {% include author-loop.html %}
-    </span>
-    </li>
-
+    <span class="byline">{% include author-loop.html %}</span></li>
   {% endif %}
 {% endfor %} 
 </ul>
@@ -25,24 +20,21 @@
 <h3>{% t global.essays %}</h3>
 {% for page in articles %}
   {% if page.section == "articles" %}
+  <li>
+    <a href="{{ page.url | prepend:site.baseurl }}"><span class="toc-title">{{ page.title["long"] | markdownify | remove: '<p>' | remove: '</p>' }}</span></a>
 
+    <br>
+    
+    <span class="byline">{% include author-loop.html %}</span>
 
-    <li>
-      <a href="{{ page.url | prepend:site.baseurl }}">
-        <span class="toc-title">{{ page.title["long"] | markdownify | remove: '<p>' | remove: '</p>' }}</span>
-      </a><br>
-    <span class="byline">
-    {% include author-loop.html %}
-
-    </span>
     <!-- PDF -->
     {% if page.pdf == false %}
     {% else %}
     <p>
-      <a class="alt-link" href="{{ site.baseurl }}/assets{{ page.url | replace:'.html','.pdf' }}" target="_blank">PDF</a> 
+      <a class="alt-link" href="{{ site.baseurl }}/assets{{ page.url | replace:'.html','.pdf' }}" target="_blank">PDF</a>
     </p>
-    </li>
     {% endif %}
+  </li>
   {% endif %}
 {% endfor %}
 </ul>
