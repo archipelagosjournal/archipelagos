@@ -421,7 +421,7 @@ production?[^20]
   img="issue04/stieber/stieber-image_4.png"
   title="Collections as Data"
   caption="Figure 4. Chelsea Stieber, *Collections as Data*, Library of Congress, 25 July 2017."
-  url="\[https://www.youtube.com/watch?v=OJWMHzgCu3c&amp;feature=youtu.be&amp;t=6h35m14s" %}
+  url="https://www.youtube.com/watch?v=OJWMHzgCu3c&amp;feature=youtu.be&amp;t=6h35m14s" %}
 
 ## Cross-Boundary Collaboration as Experimentation
 
