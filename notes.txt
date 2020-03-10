@@ -36,19 +36,18 @@ bundle install
 sudo docker run -it denubis/md-jekyll-context
 
 ## with Docker on image:
-sudo docker run -it -v ~/www/archipelagos/:/root/archipelagos pdf_maker:latest
+$ sudo docker run -it -v ~/www/archipelagos/:/root/archipelagos pdf_maker:latest
+$ cd /root/archipelagos
 
-
-cd /root/archipelagos
 (make sure to git pull latest version)
 
 (change value of issue in makeIssues.sh)
 
-utility/ConTeXt/makeSingleIssue.sh _issue0x
+$ utility/ConTeXt/makeSingleIssue.sh _issue0x
 
 Or 
 
-utility/ConTeXt/makeSinglePaper.sh issue paper
+$ utility/ConTeXt/makeSinglePaper.sh issue paper
 
 Or 
 
@@ -61,9 +60,13 @@ http://www.google.com/ping?sitemap=http://smallaxe.net/sxarchipelagos/sitemap.xm
 
 # Run HTML Proofer
 
-- To run internal tests remove baseurl
+- To run external:
 
 $ bundle exec htmlproofer ./_site --only-4xx --check-html --allow-hash-href --external-only
+
+- To run internal:
+
+$ htmlproofer ./_site --only-4xx --check-html --assume-extension --disable-external --allow-hash-href
 
 ## Run on dev.elotroalex.com
 

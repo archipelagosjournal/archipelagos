@@ -8,9 +8,9 @@
 [Soraya Limare](#soraya-limare--asistente-editorial)
 
 ### Producción | Diseño
-[Juliet Ali](#juliet-ali--diseñadora)\\
+[Juliet Ali](#juliet-ali--diseadora)\\
 [Brian Ballsun-Stanton](#brian-ballsun-stanton--editor-de-produccin)\\
-[Dennis Tenen](#dennis-tenen--arquitecto-del-proyecto)\\
+[Dennis Tenen](#dennis-tenen--arquitecto-del-proyecto)  
 
 
 ### Consejo editorial
