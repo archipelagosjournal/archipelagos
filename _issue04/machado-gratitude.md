@@ -569,7 +569,7 @@ critique of Trump as "you"|2
 empathy reaction to tragedy|3
 support of DREAMers as "you"|1
 
-Figure 11. A breakdown of sixty-five \'for you\' tweets by Miranda.
+<span class="caption">Figure 11. A breakdown of sixty-five \'for you\' tweets by Miranda.</span>
 
 **Activism**|**22**
 gratitude for activism of specific others|10
@@ -581,7 +581,7 @@ offer/request emotional support|4
 advice for work/writing/health|3
 reading recommendation|2
 
-Figure 12. A breakdown of forty-five \'for you\' tweets by twelve Latinx writers.
+<span class="caption">Figure 12. A breakdown of forty-five \'for you\' tweets by twelve Latinx writers.</span>
 
 Miranda uses Twitter to articulate concerns similar to those of other
 Latinx writers, namely, using the "you" to relate to a general audience
@@ -619,7 +619,7 @@ July 30, 2017|They weren't there for you 45, you were supposed to be there for t
 June 21, 2017|Thank you for your vigilance, foresight, and leadership @RepAdamSchiff. We need the whole truth.|@RepAdamSchiff
 May 31, 2017|Thank you for your leadership.|@kdeleon @realDonaldTrump
 
-Figure 13. \'For you\' tweets by Chibas.
+<span class="caption">Figure 13. \'For you\' tweets by Chibas.</span>
 
 Within this select group of tweets, we see Chibas replying in support of
 US senator for California Kamala Harris; the mayor of San Juan Puerto
@@ -649,17 +649,7 @@ writer is posting messages to request emotional support or advice, as we
 can see in the case of Puerto Rican poet Rich Villar. His "for you"
 tweets fall into the same top three categories as the tweets of the
 other Latinx writers: critiques of President Trump, requests for
-support, and expressions of gratitude to specific creative producers. <span style="background-color: #000000">Villar's tweets to Trump are comical and sarcastic replies to the
-president's tweets; for example, in an August 2017 tweet in which Trump
-instructs his followers to "study what General Pershing of the United
-States did to terrorists when caught," Villar refers Trump to the
-powerful and well-funded agencies he has at his disposal. Villar also
-replies to Trump's announcement about signing the 2017 Veterans
-Educational Assistance Act by informing the president, "[I have a]
-resignation letter for you to sign." The tenor of these tweets is
-confrontational, performing a kind of rhetorical protest, questioning
-the legitimacy of the president's claim on historical precedent and
-political authority.</span>
+support, and expressions of gratitude to specific creative producers. <span style="background-color: #444; color:#444;">xxxxxx'x xxxxxx xx xxxxx xxx xxxxxxx xxx xxxxxxxxx xxxxxxx xx xxx xxxxxxxxx'x xxxxxx; xxx xxxxxxx, xx xx xxxxxx 2017 xxxxx xx xxxxx xxxxx xxxxxxxxx xxx xxxxxxxxx xx "xxxxx xxxx xxxxxxx xxxxxxxx xx xxx xxxxxx xxxxxx xxx xx xxxxxxxxxx xxxx xxxxxx," xxxxxx xxxxxx xxxxx xx xxx xxxxxxxx xxx xxxx-xxxxxx xxxxxxxx xx xxx xx xxx xxxxxxxx. xxxxxx xxxx xxxxxxx xx xxxxx'x xxxxxxxxxxxx xxxxx xxxxxxx xxx 2017 xxxxxxxx xxxxxxxxxxx xxxxxxxxxx xxx xx xxxxxxxxx xxx xxxxxxxxx, "[x xxxx x] xxxxxxxxxxx xxxxxx xxx xxx xx xxxx." xxx xxxxx xx xxxxx xxxxxx xx xxxxxxxxxxxxxxx, xxxxxxxxxx x xxxx xx xxxxxxxxxx xxxxxxx, xxxxxxxxxxx xxx xxxxxxxxxx xx xxx xxxxxxxxx'x xxxxx xx xxxxxxxxxx xxxxxxxxx xxx xxxxxxxxx xxxxxxxxx.</span>
 
 Date of Tweet|@elprofe316|Reply to
 ---------------------------- | ---------------------------- | ------------------------
@@ -670,16 +660,7 @@ Date of Tweet|@elprofe316|Reply to
 
 <span class="caption">Figure 15. \'For you\' tweets by Villar.</span>
 
-<span style="background-color: #000000">By contrast, Villar's tweet to his followers about a "dream job"
-application requests "support, prayers, candles, santos, coins in the
-ocean...whatever!" This plea imagines a community of intimates who would
-not only invest in his success but also be familiar with Latinx
-spiritual practices. Additionally, he specifically thanks African
-American queer photographer Gioncarlo Valentine for his creative
-"energy." Villar's tweet demonstrates how Latinx writers imagine
-themselves as part of "other" public spheres. The messages of gratitude
-speak to and actively construct a kinship with creative producers of
-color and queer communities in the United States.</span>
+<span style="background-color: #444; color: #444">xx xxxxxxxx, xxxxxx’x xxxxx xx xxx xxxxxxxxx xxxxx x “xxxxx xxx” xxxxxxxxxxx xxxxxxxx “xxxxxxx, xxxxxxx, xxxxxxx, xxxxxx, xxxxx xx xxx xxxxx…xxxxxxxx!” xxxx xxxx xxxxxxxx x xxxxxxxxx xx xxxxxxxxx xxx xxxxx xxx xxxx xxxxxx xx xxx xxxxxxx xxx xxxx xx xxxxxxxx xxxx xxxxxx xxxxxxxxx xxxxxxxxx. xxxxxxxxxxxx, xx xxxxxxxxxxxx xxxxxx xxxxxxx xxxxxxxx xxxxx xxxxxxxxxxxx xxxxxxxxx xxxxxxxxx xxx xxx xxxxxxxx “xxxxxx.” xxxxxx’x xxxxx xxxxxxxxxxxx xxx xxxxxx xxxxxxx xxxxxxx xxxxxxxxxx xx xxxx xx “xxxxx” xxxxxx xxxxxxx. xxx xxxxxxxx xx xxxxxxxxx xxxxx xx xxx xxxxxxxx xxxxxxxxx x xxxxxxx xxxx xxxxxxxx xxxxxxxxx xx xxxxx xxx xxxxx xxxxxxxxxxx xx xxx xxxxxx xxxxxx..</span>
 
 When Latinx writers imagine their followers as a cohort, that "you"
 carries a communal reference. For instance, Puerto Rican author Charlie
