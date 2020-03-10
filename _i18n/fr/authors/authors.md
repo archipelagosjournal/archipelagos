@@ -102,7 +102,7 @@ Tout au long du processus de révision et de publication, notre équipe éditori
 
 En plus de la révision directe des projets, nous prenons en charge des «descriptifs de projet» d'une durée de rédaction décrivant le processus, l'infrastructure ou les nouvelles fonctionnalités principales d'un projet numérique. Ces essais suivent la même méthode à simple insu que les projets et seront publiés avec les projets présentés. Si vous avez des questions sur ce qui vous convient, n'hésitez pas à nous contacter.
 
-Nous sommes particulièrement désireux de soutenir des projets qui apportent une importante contribution scientifique à l’étude des Caraïbes; conscients du processus de conception et des infrastructures sous-jacentes de la technologie numérique; qui reconnaissent la contribution de tous les membres de l'équipe de manière appropriée; et qui ont pris en compte les questions de longévité et d’éphémère. Pour une idée plus détaillée de nos critères et de notre processus, veuillez consulter [les directives que nous avons préparées pour nos réviseurs](http://archipelagosjournal.org/review-guidelines.html).
+Nous sommes particulièrement désireux de soutenir des projets qui apportent une importante contribution scientifique à l’étude des Caraïbes; conscients du processus de conception et des infrastructures sous-jacentes de la technologie numérique; qui reconnaissent la contribution de tous les membres de l'équipe de manière appropriée; et qui ont pris en compte les questions de longévité et d’éphémère. Pour une idée plus détaillée de nos critères et de notre processus, veuillez consulter [les directives que nous avons préparées pour nos réviseurs](http://archipelagosjournal.org/reviewers.html).
 
 L'évaluation directe du projet se déroule en deux phases:
 

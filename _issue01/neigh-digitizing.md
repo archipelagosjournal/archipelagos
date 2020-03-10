@@ -616,11 +616,8 @@ is not a huge percentage, it is considerably more than most sites, and
 every Caribbean poet page has sound recordings that can be streamed for
 free or downloaded for a fee of £0.89. The Poetry Archive, like many
 Internet audio archives, specializes in classroom resources. It has a
-special page for [teaching Caribbean
-poetry](http://www.poetryarchive.org/collection/caribbean-poetry-0),
-with a selection of sound recordings and a [guide to the language of
-Caribbean
-poetry](http://www.poetryarchive.org/articles/guide-language-caribbean-poetry).[^46]
+special page for teaching Caribbean poetry[^ed1], with a selection of sound recordings and a [guide to the language of Caribbean
+poetry](https://web.archive.org/web/20190113025519/https://www.poetryarchive.org/articles/guide-language-caribbean-poetry).
 The Caribbean Poetry Project's work with the Poetry Archive demonstrates
 how cross-disciplinary and cross-institutional collaborations help to
 break down Anglo-centrism.
@@ -880,7 +877,6 @@ this vital record of Caribbean poetry history a priority.
 
 [^45]: See [http://caribbeanpoetry.educ.cam.ac.uk](http://caribbeanpoetry.educ.cam.ac.uk).
 
-[^46]: See [http://www.poetryarchive.org/collection/caribbean-poetry-0](http://www.poetryarchive.org/collection/caribbean-poetry-0); and [http://www.poetryarchive.org/articles/guide-language-caribbean-poetry](http://www.poetryarchive.org/articles/guide-language-caribbean-poetry).
 
 [^47]: Earhart, "Can Information Be Unfettered?," [dhdebates.gc.cuny.edu](http://dhdebates.gc.cuny.edu)/debates/text/16, para. 15.
 
@@ -917,3 +913,5 @@ this vital record of Caribbean poetry history a priority.
 [^63]: Sterne, *The Audible Past*, 24.
 
 [^64]: Brathwaite, *History of the Voice*, 18--19.
+
+[^ed1]: [Editors' note] This page is no longer active, and cannot be found on the Internet Archive.

@@ -22,7 +22,7 @@ Contact: archipelagosjournal@gmail.com
 
 ### Notas generales
 
-*archipelagos* utiliza una combinación de correo electrónico, Dropbox y GitHub para administrar [el flujo de trabajo editorial](http://smallaxe.net/sxarchipelagos/es/workflow.html). Le pedimos que envíe sus resúmenes y artículos a <archipelagosjournal@gmail.com>. La mayoría de los intercambios con los autores se realizarán por correo electrónico utilizando esta cuenta.
+*archipelagos* utiliza una combinación de correo electrónico, Dropbox y GitHub para administrar [el flujo de trabajo editorial](http://archipelagosjournal.org/es/workflow.html). Le pedimos que envíe sus resúmenes y artículos a <archipelagosjournal@gmail.com>. La mayoría de los intercambios con los autores se realizarán por correo electrónico utilizando esta cuenta.
 
 1. Las entregas de artículos individuales se aceptan de forma continua. También aceptamos propuestas para secciones temáticas.
 
@@ -109,7 +109,7 @@ A lo largo del proceso de revisión y publicación, nuestro equipo editorial tra
 
 Además de revisar proyectos directamente, apoyamos "narrativas de proyectos" de modo ensayo que describen el proceso, la infraestructura o ofertas principales y originales de un proyecto digital dado. Estos ensayos pasan por el mismo método de revision anónima de una vía que los proyectos, y se publicarán en la misma sección que los proyectos. Si tiene alguna pregunta sobre cuál es la opción más adecuada para usted, no dude en contactarnos.
 
-Estamos particularmente interesados ​​en apoyar proyectos que hagan una importante contribución académica al estudio del Caribe; que son conscientes del proceso de diseño y las infraestructuras subyacentes de la tecnología digital; que reconocen la contribución de todos los miembros del equipo adecuadamente; y que han tenido en cuenta cuestiones de longevidad y efimeridad. Para obtener una idea más detallada de nuestros criterios y procesos, consulte [las pautas que hemos preparado para nuestros revisores]({{site.baseurl}}/review-guidelines.html).
+Estamos particularmente interesados ​​en apoyar proyectos que hagan una importante contribución académica al estudio del Caribe; que son conscientes del proceso de diseño y las infraestructuras subyacentes de la tecnología digital; que reconocen la contribución de todos los miembros del equipo adecuadamente; y que han tenido en cuenta cuestiones de longevidad y efimeridad. Para obtener una idea más detallada de nuestros criterios y procesos, consulte [las pautas que hemos preparado para nuestros revisores]({{site.baseurl}}/reviewers.html).
 
 La revisión directa del proyecto ocurre en dos fases:
 

@@ -61,7 +61,16 @@ http://www.google.com/ping?sitemap=http://smallaxe.net/sxarchipelagos/sitemap.xm
 
 # Run HTML Proofer
 
-#Server info
+- To run internal tests remove baseurl
+
+$ bundle exec htmlproofer ./_site --only-4xx --check-html --allow-hash-href --external-only
+
+## Run on dev.elotroalex.com
+
+$ source /home/agil/rubyvenv/archipelagos-dev.elotroalex.com/2.6/bin/activate
+$ htmlproofer . --only-4xx --check-html --allow-hash-href
+
+#SX server info
 host: smallaxe.net
 user: sxarchipelagos
 pass: 4QVje52UfdAYkbDp
@@ -74,8 +83,7 @@ PS1="\w$: "
 - Use `options parse_block_html="false"` when needed.
 - Make sure quotation marks are different inside YAML.
 
-# Notes for tests
-- To run internal tests remove baseurl
+
 
 
 

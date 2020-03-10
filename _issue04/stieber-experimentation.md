@@ -373,7 +373,7 @@ notions of art. But they have long since been attended to, and we would
 venture, never really silenced: they have been chronicled in scholarly
 monographs and articles, in anthologies, and, in the last twenty years,
 in massive, sustained digital archiving projects, such as the [Modernist
-Journals Project](http://modjourn.org/mjp.slogan.html).[^19] Yet for the
+Journals Project](http://modjourn.org/).[^19] Yet for the
 *RSHHGG*, and for most other foreign-language, non-US-based scholarly
 periodicals from earlier in the twentieth century, there is no such
 searchable index, no such online platform for their archives.
@@ -937,7 +937,7 @@ experimenting as we continue to the next stage of the RSHHGG Lab.
     *Beyond Tradition: French Cultural Studies (1800--2014)*, ed. Anne O'Neil-Henry, Kathryn Kleppinger, and Masha Belenky (Newark: University of Delaware Press, 2017).
 
 [^19]: On the Modernist Journals Project, see
-    <https://modjourn.org/mjp.slogan.html>. See also Suzanne Churchill's
+    <https://modjourn.org>. See also Suzanne Churchill's
     Index of Modernist Magazines, <https://modernistmagazines.org/>; and
     the University of Wisconsin-Madison's Little Magazines Collection,
     <https://uwlittlemags.tumblr.com/>. Recently, the Institut national
@@ -995,7 +995,7 @@ experimenting as we continue to the next stage of the RSHHGG Lab.
 [^30]: See Christian James's faculty profile,
     [https://lis.catholic.edu/faculty-and-research/faculty-profiles/james-christian/index.html](https://lis.catholic.edu/faculty-and-research/faculty-profiles/james-christian/index.html).
 
-[^31]: See *An Island Luminous*, <https://islandluminous.fiu.edu/>.
+[^31]: See *An Island Luminous*, <http://islandluminous.fiu.edu/>.
 
 [^32]: See "Call for Collaborators: RSHHGG Lab,"
     <https://rshhgglab.com/call-for-collaborators-rshhgg-lab/>; also in

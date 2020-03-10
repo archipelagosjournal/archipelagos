@@ -1,28 +1,28 @@
 ### Editores
 
-[Kaiama L. Glover](#kaiama-l-glover--editor)\\
+[Kaiama L. Glover](#kaiama-l-glover--editora)\\
 [Alex Gil](#alex-gil--editor)
 
 ### Editora gerente
 
-[Soraya Limare](#soraya-limare--managing-editor)
+[Soraya Limare](#soraya-limare--asistente-editorial)
 
 ### Producción | Diseño
-[Juliet Ali](#juliet-ali--designer)\\
-[Brian Ballsun-Stanton](#brian-ballsun-stanton--production-editor)\\
-[Dennis Tenen](#dennis-tenen--project-architect)\\
+[Juliet Ali](#juliet-ali--diseñadora)\\
+[Brian Ballsun-Stanton](#brian-ballsun-stanton--editor-de-produccin)\\
+[Dennis Tenen](#dennis-tenen--arquitecto-del-proyecto)\\
 
 
 ### Consejo editorial
-[Yarimar Bonilla](#yarimar-bonilla--editorial-board)  
-[Elizabeth Maddock Dillon](#elizabeth-maddock-dillon--editorial-board)  
-[Laurent Dubois](#laurent-dubois--editorial-board)  
-[Schuyler Esprit](#schuyler-esprit--editorial-board)  
-[Jessica Marie Johnson](#jessica-marie-johnson--editorial-board)  
-[Kelly Baker Josephs](#kelly-baker-josephs--editorial-board)  
-[Frances Negrón-Muntaner](#frances-negrn-muntaner--editorial-board)  
-[Vincent Brown](#vincent-brown--editorial-board)  
-[Laurie Taylor](#laurie-taylor--editorial-board)
+[Yarimar Bonilla](#yarimar-bonilla--consejo-editorial)  
+[Elizabeth Maddock Dillon](#elizabeth-maddock-dillon--consejo-editorial)  
+[Laurent Dubois](#laurent-dubois--consejo-editorial)  
+[Schuyler Esprit](#schuyler-esprit--consejo-editorial)  
+[Jessica Marie Johnson](#jessica-marie-johnson--consejo-editorial)  
+[Kelly Baker Josephs](#kelly-baker-josephs--consejo-editorial)  
+[Frances Negrón-Muntaner](#frances-negrn-muntaner--consejo-editorial)  
+[Vincent Brown](#vincent-brown--consejo-editorial)  
+[Laurie Taylor](#laurie-taylor--consejo-editorial)
 
 ### Publicado por
 
@@ -51,6 +51,10 @@ Barnard Committee on Online and On-Campus Learning
 
 ### Alex Gil | editor
 [Alex Gil](http://www.elotroalex.com) is Digital Scholarship Librarian at Columbia University Libraries. He is the founder of the [Butler Studio](https://studio.cul.columbia.edu/) at Columbia University, a library innovation space focused on digital scholarship and pedagogy; faculty moderator of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/), a vibrant trans-disciplinary research cluster focused on experimental humanities; and former founder and chair of [Global Outlook::Digital Humanities](http://www.globaloutlookdh.org/), an interest group connecting scholars around the world. Current projects include [Ed](http://elotroalex.github.io/ed/), a digital platform for minimal editions of literary texts; *[Torn Apart/Separados](http://xpmethod.plaintext.in/torn-apart/volume/1/)*, a rapidly deployed study of ICE's infrastructure in the United States; and, [In the Same Boats: Toward an Afro-Atlantic Intellectual Cartography](http://sameboats.org/), a visualization of trans-Atlantic intersections of black intellectuals in the 20th century.
+
+### Soraya Limare | asistente editorial
+
+Soraya Limare graduated from Ecole Normale Supérieure-Ulm and is now a PhD candidate at Columbia University in the department of French and Romance Philology. Her research focuses on francophone literature from the Caribbean. 
 
 ---
 

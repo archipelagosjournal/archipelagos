@@ -22,7 +22,7 @@ url:                 "http://archipelagosjournal.org"
 baseurl:             ''
 future: True
 
-githuburl:           'https://github.com/archipelagosjournal/archipelagos'
+githuburl:           'https://github.com/archipelagosjournal'
 
 # Colophon
 old_issn: 2473-2206
