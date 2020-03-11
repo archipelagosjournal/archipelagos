@@ -18,6 +18,11 @@ filename=$(basename "$fullfile")
 extension="${filename##*.}"
 filename="${filename%.*}"
 
+if [ $(grep --count "pdf: false" $fullfile) -gt 0 ]; then
+	echo "pdf: false detected. skipping render $fullfile. No errors tested."
+	exit 0
+fi
+
 if [ $(grep --count "[“”]" $fullfile) -gt 0 ]; then
 	echo -e "${Red}Don't use smartquotes! If you want nested quotes, use single and double quotes. Aborting${Color_Off}."
 	grep --color --line-number --with-filename "[“”]" $fullfile
