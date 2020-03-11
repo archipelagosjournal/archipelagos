@@ -32,6 +32,7 @@ echo Postprocess $filename
 
 ssed -r -i -f $root/utility/ConTeXt/titleItalics.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/hyphenated.ssed $filename.tex
+#ssed -r -i -f $root/utility/ConTeXt/ampersand.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/thinrule.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/iframe.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/tables.ssed $filename.tex
@@ -43,7 +44,7 @@ echo ConTeXt $filename, log into $3
 
 if [ $(grep --count "letterpercent{} include" $filename.tex) -gt 0 ]; then
 	grep --color --line-number --with-filename "letterpercent{} include" $filename.tex -r 
-	echo -e "*** ERROR: \t Untrapped include found! Fix!"
+	echo -e "*** ERROR: \t Untrapped include found! Fix! Working directory: $(pwd)"
 	exit 1;
 fi
 
