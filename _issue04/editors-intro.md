@@ -23,7 +23,7 @@ with this fourth issue of our journal, and this for two reasons---both
 of them, in the end, exhilarating. First, there is what feels like a
 momentous transition: hatched four years ago and graciously incubated in
 the luxurious intellectual nest that is the Small Axe Project, we now
-embark on our very first solo flight. From *sx archipelagos* we have
+set off on our very first solo flight. From *sx archipelagos* we have
 evolved into the newly-named *archipelagos journal*---a critical space
 that is at once very much of its origins and original unto itself, both
 devoted to SXP's foundational critical intentions and committed to forms

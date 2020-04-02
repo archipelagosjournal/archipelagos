@@ -47,7 +47,7 @@ $ utility/ConTeXt/makeSingleIssue.sh _issue0x
 
 Or 
 
-$ utility/ConTeXt/makeSinglePaper.sh issue paper
+$ utility/ConTeXt/makeSinglePaper.sh _issue0x paper.md
 
 Or 
 
