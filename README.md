@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/sx-archipelagos/sxa.svg?branch=master)](https://travis-ci.org/sx-archipelagos/sxa)
-
-# Small Axe Archipelagos
+# Archipelagos Journal
 
 The transformation of the academy by the digital dispensation presents
 challenges to customary ways of learning, teaching, conducting research,
@@ -67,7 +65,7 @@ committed to serving?
 
 To answer these and other urgent questions, we need in this moment to
 engage two critical functions: to understand and to build. For us, these
-functions do not follow one from the other, but rather operate in tandem. As such, we have thought through our platform with the same critical eye we cast on the archive, and our resulting infrastructure embodies our principles. We are fully open access and charge no author fees. Our authors retain their copyright. We pursue best indexing, accessibility, and archival practices. We emphasize the primacy of "[sustainable authorship in plain text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)." Our website and PDFs are generated from the same markdown files using Jekyll and ConTeXt, respectively. The resulting website is light-weight and mobile-friendly, acknowledging the importance of mobile phones, bandwidth differentials, and data costs in the Caribbean. We version and share our software and data freely on [GitHub](https://github.com/sx-archipelagos/sxa). We have reduced the workflow for producing a journal to a small team and a small budget, and we offer our production knowledge to those who would ask for it. 
+functions do not follow one from the other, but rather operate in tandem. As such, we have thought through our platform with the same critical eye we cast on the archive, and our resulting infrastructure embodies our principles. We are fully open access and charge no author fees. Our authors retain their copyright. We pursue best indexing, accessibility, and archival practices. We emphasize the primacy of "[sustainable authorship in plain text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)." Our website and PDFs are generated from the same markdown files using Jekyll and ConTeXt, respectively. The resulting website is light-weight and mobile-friendly, acknowledging the importance of mobile phones, bandwidth differentials, and data costs in the Caribbean. We version and share our software and data freely on GitHub. We have reduced the workflow for producing a journal to a small team and a small budget, and we offer our production knowledge to those who would ask for it. 
 
 
 As we build and understand, we do so illuminated by first light of the
@@ -100,4 +98,4 @@ We provide DOIs for all articles. Citation information and DOIs can be found on 
 - Open Graph (For social media distribution)
 - Highwire Press (For Google Scholar)
 
-The technological stack used for *sx archipelagos* is offered with an MIT license, except for the aggregate design connecting our platform to the Small Axe Project. All of our data is open on our <a href="{{site.githuburl}}">Github repository</a>.
+The technological stack used for *archipelagos* is offered with an MIT license, except for the aggregate design connecting our platform to our former partner, the Small Axe Project. All of our data is open on our <a href="{{site.githuburl}}">Github repository</a>.
