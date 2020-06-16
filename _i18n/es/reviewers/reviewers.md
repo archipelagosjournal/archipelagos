@@ -16,7 +16,7 @@ En *archipelagos* estamos trabajando para construir una comunidad de revisores y
 
 La revisión del proyecto ocurre en dos fases:
 
-1. Los autores envían una Declaración de proyecto que consta de un resumen de 350 a 500 palabras y una descripción de 5000 a 7000 palabras. Los revisores ofrecerán comentarios iniciales dentro de cuatro a seis semanas.
+1. Los autores envían una Declaración de proyecto que consta de un resumen de 350 a 500 palabras. Los revisores ofrecerán comentarios iniciales dentro de cuatro a seis semanas.
 2. Los autores responden a los comentarios de los revisores en una narrativa de 1000 a 1200 palabras y proporcionan un enlace a un sitio beta navegable para la revisión final.
 
 Los editores sintetizan los comentarios de los revisores y la respuesta del autor para su publicación final en una página dedicada al proyecto. 

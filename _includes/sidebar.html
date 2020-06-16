@@ -27,7 +27,12 @@
 
 
       <div class="sidebar-footer">
-        <p>&copy; {{ site.time | date: '%Y' }}. Archipelagos. {% t components.ccby %} <a href="{{ site.githuburl }}">{% t components.repository %}</a>.</p>
+        {% if page.layout != "article" %}
+        <p>&copy; {{ site.time | date: '%Y' }}. Archipelagos. 
+        {% else %}
+        <p>&copy; {{ site.time | date: '%Y' }}. {% include author-loop.html %}.
+        {% endif %} {% t components.ccby %} 
+        <a href="{{ site.githuburl }}">{% t components.repository %}</a>.</p>
         <p>ISSN: {{ site.issn }}</p>
       </div>
     </div>

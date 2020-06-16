@@ -25,8 +25,7 @@ between site authors and peer reviewers. Click for an example.
 
 Project review occurs in two phases:
 
-1.  Authors submit a Project Statement consisting of a 350-to-500-word
-    abstract and a 5000-to-7000-word description. Reviewers will offer
+1.  Authors submit a Project statement of 300 to 500 words. Reviewers will offer
     initial feedback within four to six weeks.
 
 2.  Authors respond to reviewer feedback in a 1000-to-1200-word
