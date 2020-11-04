@@ -84,7 +84,7 @@ master's house.
 
 ## Indexing and Open Access Policy
 
-ISSN: 2689-842X
+ISSN: 2473-2206
 
 <em>sx archipelagos</em> is an open access journal, which means that all content is freely available without charge to users or institutions. Users are allowed to read, download, copy, distribute, print, search, or link to the full texts of the articles in this journal without asking prior permission from the publishers. Authors retain their copyright and agree to license their articles with a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
@@ -98,6 +98,4 @@ We provide DOIs for all articles. Citation information and DOIs can be found on 
 - Open Graph (For social media distribution)
 - Highwire Press (For Google Scholar)
 
-
-The technological stack used for *sx archipelagos* is offered with an MIT license, except for the aggregate design connecting our platform to its origins in the Small Axe Project. 
-
+The technological stack used for *archipelagos* is offered with an MIT license, except for the aggregate design connecting our platform to our former partner, the Small Axe Project. All of our data is open on our <a href="{{site.githuburl}}">Github repository</a>.
