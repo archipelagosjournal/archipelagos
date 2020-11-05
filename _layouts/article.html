@@ -6,29 +6,30 @@ layout: default
 		  <h1 class="page-title">{{ page.title["long"]   | markdownify | remove: '<p>' | remove: '</p>' }}</h1>
 		  <p class="byline">{% assign document = page %}{% include author-loop.html %}</p>
 		  <br>
-		  {% if page.abstract %}
+		{% if page.abstract %}
 		    {% if site.lang == "en" %}
         		<h4>Abstract</h4>
-        		<p class="abstract">{{page.abstract | markdownify | remove: '<p>' | remove: '</p>' }}</p>
-        		<br><hr><br>
+        		<p class="abstract">{{ page.abstract | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+        		<br><hr>
         	{% elsif site.lang == "fr" and page.abstract_fr %}
         		<h4>Résumé</h4>
-        		<p class="abstract">{{page.abstract_fr | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+        		<p class="abstract">{{ page.abstract_fr | markdownify | remove: '<p>' | remove: '</p>' }}</p>
         		<br><hr><br>
-        	{% elsif site.lang == "fr" and !page.abstract_fr %}
+        	{% elsif site.lang == "fr" %}
         		<h4>Abstract</h4>
-        		<p class="abstract">{{page.abstract | markdownify | remove: '<p>' | remove: '</p>' }}</p>
-        		<br><hr><br>       	
+        		<p class="abstract">{{ page.abstract | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+        		<br><hr><br>
         	{% elsif site.lang == "es" and page.abstract_es %}
         		<h4>Resumen</h4>
-        		<p class="abstract">{{page.abstract_es | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+        		<p class="abstract">{{ page.abstract_es | markdownify | remove: '<p>' | remove: '</p>' }}</p>
         		<br><hr><br>
-        	{% elsif site.lang == "es" and !page.abstract_es %}
+        	{% elsif site.lang == "es"  %}
         		<h4>Abstract</h4>
-        		<p class="abstract">{{page.abstract | markdownify | remove: '<p>' | remove: '</p>' }}</p>
-        		<br><hr><br>
-		    {% endif %}
-		  {% endif %}
+        		<p class="abstract">{{ page.abstract | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+        		<br><hr><br>   
+
+        	{% endif %}
+         {% endif %}
 		  {{ content }}
 		</div>
 
