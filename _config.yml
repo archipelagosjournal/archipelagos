@@ -115,7 +115,7 @@ kramdown:
   enable_coderay: false
 
 # Gems
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-multiple-languages-plugin
 
