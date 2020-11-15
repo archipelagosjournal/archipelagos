@@ -1,36 +1,33 @@
-Unmapping the Caribbean: Toward a Digital Praxis of Archipelagic Sounding
-=========================================================================
+---
+layout: article
+section: articles
+title: 
+  "long": "Unmapping the Caribbean: Toward a Digital Praxis of Archipelagic Sounding"
+  "short": "Unmapping the Caribbean"
+doi: "https://doi.org/#"
+author: 
+- name: Tao Leigh Goffe
+  shortname: Goffe
+  bio: >
+    Tao Leigh Goffe is an assistant professor of literary theory and cultural history at Cornell University. She is also a sound artist, specializing in the narratives that emerge from histories of imperialism, migration, and globalization. Her interdisciplinary research and practice examine the unfolding relationship between ecology, infrastructure, and the sensorium. Deejaying, film production, digital cartography, and oral history are also integral to her praxis and pedagogy. She is the cofounder of the [Dark Laboratory](https://www.darklaboratory.com/) (see https://www.darklaboratory.com/), a humanities collective of theorist and creative technologists that examines black and indigenous crossroads in ecology and technology.
+date: December 2020
+issue: 5
+order: 3
+abstract: >
+  Tackling the conceptual grounds of how maps have been deployed as tools of imperial capitalist extraction, this essay critiques how the two-dimensional visualization of land has traditionally flattened the racial entanglement of the Caribbean archipelago. It explores the potential for born-digital cartography to open up a new sensory possibility for understanding space amplified by sonic and video technologies. The author embarked on the digital project *Unmapping the Caribbean* with her students and a team of technologists, employing Esri’s ArcGIS Story Maps platform to examine the contours of *marronage* and indigeneity in five geographies: New York City, Suriname, Hispaniola, Cuba, and Jamaica. The project anchors the relationality of sedimented racial histories in the archipelago through the concept of “unmapping”—that is, by creating digital audiovisual story maps of the five Caribbean spaces. Centering the way sound orients the human body in space, the project examines the politics of the opacity of spaces of black and indigenous refuge in Caribbean and Caribbean diasporic communities. The essay considers the pedagogical stakes of collaborative digital assignments that include mapmaking and producing visual soundtracks. The five geographic narratives that *Unmapping the Caribbean* has woven together are part of an ongoing project that aims to articulate archipelagic being. 
+abstract_fr: >
+  Tackling the conceptual grounds of how maps have been deployed as tools of imperial capitalist extraction, this essay critiques how the two-dimensional visualization of land has traditionally flattened the racial entanglement of the Caribbean archipelago. It explores the potential for born-digital cartography to open up a new sensory possibility for understanding space amplified by sonic and video technologies. The author embarked on the digital project *Unmapping the Caribbean* with her students and a team of technologists, employing Esri’s ArcGIS Story Maps platform to examine the contours of *marronage* and indigeneity in five geographies: New York City, Suriname, Hispaniola, Cuba, and Jamaica. The project anchors the relationality of sedimented racial histories in the archipelago through the concept of “unmapping”—that is, by creating digital audiovisual story maps of the five Caribbean spaces. Centering the way sound orients the human body in space, the project examines the politics of the opacity of spaces of black and indigenous refuge in Caribbean and Caribbean diasporic communities. The essay considers the pedagogical stakes of collaborative digital assignments that include mapmaking and producing visual soundtracks. The five geographic narratives that *Unmapping the Caribbean* has woven together are part of an ongoing project that aims to articulate archipelagic being.  
+abstract_es: >
+  New media technologies—from the tape recorder to the computer—enabled Kamau Brathwaite’s revolutionary poetic approach; digital technologies likewise enable us to study and teach his groundbreaking work in new ways. This essay argues that teaching and studying Brathwaite should begin with the audible word not the written text and that digital audio archives and platforms can play a key role in enabling this approach. Digital audio archives such as PennSound and the Poetry Archive allow students and scholars to approach Brathwaite’s work by listening closely to a wide range of sound recordings. This essay demonstrates the utility of this close listening approach by taking advantage of the digital platform of *archipelagos journal* to interweave its text with Brathwaite’s recorded voice. It not only demonstrates the value of approaching Brathwaite’s work through digital sound recordings but also argues for a larger overturning of critical, pedagogical, and essayistic conventions in literary studies through a methodological turn away from the page.
+language: en
+pdf: true
+---
 
-Tao Leigh Goffe
 
-Abstract
---------
-
-Tackling the conceptual grounds of how maps have been deployed as tools
-of imperial capitalist extraction, this essay critiques how the
-two-dimensional visualization of land has traditionally flattened the
-racial entanglement of the Caribbean archipelago. It explores the
-potential for born-digital cartography to open up a new sensory
-possibility for understanding space amplified by sonic and video
-technologies. The author embarked on the digital project *Unmapping the
-Caribbean* with her students and a team of technologists, employing
-Esri’s ArcGIS Story Maps platform to examine the contours of *marronage*
-and indigeneity in five geographies: New York City, Suriname,
-Hispaniola, Cuba, and Jamaica. The project anchors the relationality of
-sedimented racial histories in the archipelago through the concept of
-“unmapping”—that is, by creating digital audiovisual story maps of the
-five Caribbean spaces. Centering the way sound orients the human body in
-space, the project examines the politics of the opacity of spaces of
-black and indigenous refuge in Caribbean and Caribbean diasporic
-communities. The essay considers the pedagogical stakes of collaborative
-digital assignments that include mapmaking and producing visual
-soundtracks. The five geographic narratives that *Unmapping the
-Caribbean* has woven together are part of an ongoing project that aims
-to articulate archipelagic being.
 
 > You will find a way.
 >
-> —Jamaican police officer on motorbike giving directions in Mandeville,
+> — Jamaican police officer on motorbike giving directions in Mandeville,
 > 2014
 
 The literary and sonic traditions of the archipelago are equally
@@ -243,17 +240,11 @@ Giovani. Columbus’s squiggles had become solidified in a cartographic
 imaginary practice that sought to “know” as much as it sought to claim
 the island for European powers.
 
-% include image.html
-
-img="\[West Indies, Christopher Columbus Map.jpg\]"
-
-title="\[West Indies, Christopher Columbus, 1492–93\]"
-
-caption="\[Figure 1. A map of Insula hispana by Christopher Columbus,
-1492–93.\]"
-
-url="\[https://gsp.yale.edu/sites/default/files/images/hispaniola-1492map-lg.jpg\]"
-%
+{% include image.html
+  img="West Indies, Christopher Columbus Map.jpg"
+  title="West Indies, Christopher Columbus, 1492–93"
+  caption="Figure 1. A map of Insula hispana by Christopher Columbus, 1492–93."
+  url="https://gsp.yale.edu/sites/default/files/images/hispaniola-1492map-lg.jpg" %}
 
 For the *Unmapping* project, I challenged my students to unmap five
 Caribbean locations—Hispaniola, New York City, Suriname, Cuba, and
@@ -266,14 +257,10 @@ despite the latter’s more relative geographic proximity to the United
 States. Students who were of Caribbean origin expressed shame at having
 only “a sense” of the geography of their homelands.
 
-% include image.html
-
-img="\[Goffe\_Student Map1.png\]"
-
-title="\[Maps from Memory\]"
-
-caption="\[Figure 2. To start the project, students drew maps of five
-Caribbean locations from memory.\]" %
+{% include image.html
+  img="Goffe\_Student Map1.png"
+  title="Maps from Memory"
+  caption="Figure 2. To start the project, students drew maps of five Caribbean locations from memory." %}
 
 Students began to question whether Guyana, Venezuela, and Bermuda are
 part of the Caribbean (I did not answer these questions until the
@@ -295,15 +282,10 @@ the map inscribes on flesh. My palm anchored the inquiry into the
 archipelagic and served as a starting point for unmapping, a palmistry
 of wayfinding (fig. 3).
 
-% include image.html
-
-img="\[Goffe\_YouWillFindAWay.JPG\]"
-
-title="\[You Will Find a Way\]"
-
-caption="\[Figure 3. Tao Leigh Goffe, *You Will Find a Way*, 2018. A
-mid-sixteenth century map projected onto my hand became the anchoring
-image for the *Unmapping the Caribbean* project.\]" %
+{% include image.html
+  img="Goffe\_YouWillFindAWay.JPG"
+  title="You Will Find a Way"
+  caption="Figure 3. Tao Leigh Goffe, *You Will Find a Way*, 2018. A mid-sixteenth century map projected onto my hand became the anchoring image for the *Unmapping the Caribbean* project." %}
 
 I split the nineteen students into five groups and assigned each a
 location—I then challenged them to consider how each Caribbean space
@@ -345,21 +327,15 @@ garde*, a term they had coined to describe the women, people of color,
 and others marginalized in or excluded from histories and theories of
 the avant-garde. They arranged seventy postcards on the website, curated
 together as a [digital flash
-mob](https://mina-loy.com/chapters/avant-garde-theory-2/digital-flash-mob/).[^21]
-I later adapted my postcard as the landing page for [*Unmapping the
+mob](https://mina-loy.com/chapters/avant-garde-theory-2/digital-flash-mob/).[^21] I later adapted my postcard as the landing page for [*Unmapping the
 Caribbean*](file:///D:\Willow\archipelagos\arch(5)\Post(card)s%20from%20the%20‘en%20dehors%20garde,’).
 Thus we began our joint unmapping quest—one professor, nineteen
 students, and three technologists.[^22]
 
-% include image.html
-
-img="\[Goffe\_Postcard.png\]"
-
-title="\[Dear X\]"
-
-caption="\[ Figure 4. My “from the diaspora” postcard for the
-Post(card)s from the “en dehors garde” project, which became the landing
-page image for *Unmapping the Caribbean*.\]" %
+{% include image.html
+  img="Goffe\_Postcard.png"
+  title="Dear X"
+  caption=" Figure 4. My “from the diaspora” postcard for the Post(card)s from the “en dehors garde” project, which became the landing page image for *Unmapping the Caribbean*." %}
 
 Once the base maps were created, students then meditated on global
 positioning system (GPS) technologies to consider how a Caribbean GPS
@@ -507,14 +483,10 @@ including wearing “proper” clothes.[^33] To unmap through the accent of
 patwa offered the students a way to theorize sonic modes of declaring
 independence through the theatricality of Jamaicanisms.
 
-% include image.html
-
-img="\[Goffe\_Unmapping1.png\]"
-
-title="\[Xaymaca: Wi Likkle but Wi Tallawah\]"
-
-caption="\[Figure 5. The story map of Jamaica for *Unmapping the
-Caribbean*.\]" %
+{% include image.html
+  img="Goffe\_Unmapping1.png"
+  title="Xaymaca: Wi Likkle but Wi Tallawah"
+  caption="Figure 5. The story map of Jamaica for *Unmapping the Caribbean*." %}
 
 Engaging further with Jamaican sound, the students contrasted sonic
 recordings (found on YouTube) of tourism in popular locations such as
@@ -559,15 +531,10 @@ uninvited/unwanted audiences. The key to the *Unmapping the Caribbean*
 website is a decolonial practice of coalition building; these students
 did not want the Manahatta map to fall into the “wrong” hands.
 
-[]{#_Hlk53751630 .anchor}% include image.html
-
-img="\[Goffe\_Unmapping2.png\]"
-
-title="\[New York as Caribbean City: Gentrification as Colonization\]"
-
-caption="\[Figure 6. A side map featuring layers of gentrification is
-part of the story map of New York City for *Unmapping the Caribbean*.\]"
-%
+{% include image.html
+  img="Goffe\_Unmapping2.png"
+  title="New York as Caribbean City: Gentrification as Colonization"
+  caption="Figure 6. A side map featuring layers of gentrification is part of the story map of New York City for *Unmapping the Caribbean*."%}
 
 Listening is the key to opening the map. To welcome the viewers who
 proceed, the students produced a forty-second soundtrack, layering the
@@ -604,15 +571,10 @@ country. They also wrote original poems in conversation with the concept
 of the rainforest that is commonly described as “the interior” in
 Suriname.
 
-% include image.html
-
-img="\[Goffe\_Unmapping3.png\]"
-
-title="\[Surinen: Mapping the Interior\]"
-
-caption="\[Figure 7. Part of the story map of Suriname for *Unmapping
-the Caribbean* pairs time-lapse video of blooming flowers with text by
-Gloria Wekker.\]" %
+{% include image.html
+  img="Goffe\_Unmapping3.png"
+  title="Surinen: Mapping the Interior"
+  caption="Figure 7. Part of the story map of Suriname for *Unmapping the Caribbean* pairs time-lapse video of blooming flowers with text by Gloria Wekker." %}
 
 The Surinen story map also showcases rituals of the African-derived
 religion Winti and how Amerindian and Maroon communities retain their
@@ -651,15 +613,10 @@ Krak!*[^39] They historicized their map with information about the
 border, especially the 1937 “parsley massacre” and the more recent
 deportations of Afro-Dominicans.[^40]
 
-% include image.html
-
-img="\[Goffe\_Unmapping4.png\]"
-
-title="\[Kiskeya/Quisqueya: A Journey along/through the Border\]"
-
-caption="\[Figure 8. The Hispaniola story map for *Unmapping the
-Caribbean* follows a journey along, and through, the border between
-Haiti and the Dominican Republic.\]" %
+{% include image.html
+  img="Goffe\_Unmapping4.png"
+  title="Kiskeya/Quisqueya: A Journey along/through the Border"
+  caption="Figure 8. The Hispaniola story map for *Unmapping the Caribbean* follows a journey along, and through, the border between Haiti and the Dominican Republic." %}
 
 The students discovered that there are certain instruments that connect
 Haitian music (*kadans*) to Dominican music (*bachata*). They featured
@@ -679,14 +636,10 @@ beautiful example of sonic copresence and decolonial rhythm, and the
 classroom presentation of this story map was vibrant—students began to
 dance and gave the group a standing ovation.
 
-% include image.html
-
-img="\[Goffe\_Unmapping5.png\]"
-
-title="\[Cubao: Santería from Obscurity to Hypervisiblity\]"
-
-caption="\[Figure 9. The story map of Cuba for *Unmapping the Caribbean*
-explores Santería as a cultural phenomenon.\]" %
+{% include image.html
+  img="Goffe\_Unmapping5.png"
+  title="Cubao: Santería from Obscurity to Hypervisiblity"
+  caption="Figure 9. The story map of Cuba for *Unmapping the Caribbean* explores Santería as a cultural phenomenon." %}
 
 Continuing on the theme of negotiating and defining Afrolatiniad and
 Latinx identity in the Caribbean, students in the Cuba group, named
@@ -903,21 +856,7 @@ without my students trusting the process of my teaching through
 digital-born coauthored collaboration. A special thanks to Ryn for their
 generosity, intellectual curiosity, and work as project manager.
 
-Tao Leigh Goffe
----------------
-
-Tao Leigh Goffe is an assistant professor of literary theory and
-cultural history at Cornell University. She is also a sound artist,
-specializing in the narratives that emerge from histories of
-imperialism, migration, and globalization. Her interdisciplinary
-research and practice examine the unfolding relationship between
-ecology, infrastructure, and the sensorium. Deejaying, film production,
-digital cartography, and oral history are also integral to her praxis
-and pedagogy. She is the cofounder of the [Dark
-Laboratory](https://www.darklaboratory.com/) (see
-https://www.darklaboratory.com/), a humanities collective of theorist
-and creative technologists that examines black and indigenous crossroads
-in ecology and technology.
+---
 
 [^1]: Students use Genius (formerly RapGenius) and SoundCloud. See
     “About Genius,” Genius,
@@ -1073,9 +1012,7 @@ in ecology and technology.
     eds., *National Identities and Socio-political Change in Latin
     America* (London: Routledge, 2001), 32.
 
-[^32]: []{#_Hlk53750566 .anchor}The students who assisted with the
-    Jamaica story map include Moriah Dowd, Efosi Litombe, Tatyana
-    Tandanpolie, and Mahalet Tegenu.
+[^32]: The students who assisted with the Jamaica story map include Moriah Dowd, Efosi Litombe, Tatyana Tandanpolie, and Mahalet Tegenu.
 
 [^33]: See Carolyn Cooper, “Professing Slackness: Language, Authority,
     and Power Within the Academy and Without,” *E-misférica: Caribbean

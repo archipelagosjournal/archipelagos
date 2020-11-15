@@ -181,7 +181,7 @@ days of online forums, it became a challenge for some users to
 differentiate between humorous communication and other types of
 exchanges.[^18]
 
-{{% include image.html
+{% include image.html
   img="Felix Fig1.png"
   title="Natural Disasters"
   caption="Figure 1. This meme presents an unfavorable view of Trinidad and Tobago politician Colm Imbert. Source: *Meanwhile in T&T* (via Facebook)" 
@@ -429,7 +429,7 @@ comments and shares, and went on to draw the attention of the
 international media collective *Global Voices* (see fig. 2).[^41] In the
 context of this example, at least five key elements are of importance.
 
-{{% include image.html
+{% include image.html
   img="2.png"
   title="Warren Le Platte Facebook"
   caption="Figure 2. A screenshot of Le Platte’s personal Facebook page with a snippet of his popular internet meme series. Source: Warren Le Platte (via Facebook)" %}
@@ -506,7 +506,7 @@ institutional critique presented in Le Platte’s culture jamming that
 evokes a sense of national identity and cultural memory through the
 mediated presentation of his lived experience.[^46]
 
-{{% include image.html
+{% include image.html
   img="Felix Fig 3.png"
   title="So I spend 4 hours in de cinema…"
   caption="Figure 3. A meme used in Le Platte’s series referencing Peter Jackson’s Lord of the Rings film trilogy, as Le Platte compares his moviegoing experience to that of watching an installment from the famously lengthy franchise. Source: Warren Le Platte (via Facebook)" %}
@@ -713,11 +713,9 @@ earlier, since he produces and consumes knowledge in his contribution to
 online public discourse through his culture jamming practice.
 
 {% include image.html
-  img="7.png"
+  img="felix7.png"
   title="Comments"
-  caption="Figure 7. A screenshot of the comments section of Le Platte’s
-meme constellation, featuring interactions by users. Source: Warren Le
-Platte (via Facebook)" %}
+  caption="Figure 7. A screenshot of the comments section of Le Platte’s meme constellation, featuring interactions by users. Source: Warren Le Platte (via Facebook)" %}
 
 With this practice, Le Platte identifies with individuals across the
 “professional versus amateur” continuum in authorship of his meme
