@@ -1,25 +1,29 @@
-Culture Jamming in the Caribbean: A Case of Alternative Media through Double Alternativity in Trinidad and Tobago
-=================================================================================================================
+---
+layout: article
+section: articles
+title: 
+  "long": "Culture Jamming in the Caribbean: A Case of Alternative Media through Double Alternativity in Trinidad and Tobago"
+  "short": "Culture Jamming in the Caribbean"
+doi: "https://doi.org/#"
+author: 
+- name: Jonathan J. Felix
+  shortname: Felix
+  bio: >
+    Jonathan J. Felix is a transdisciplinary academic at the intersection of sociology, design, media, and cultural studies. His research interests include higher education, digital cultures, and alternative media. Jonathan is a Visiting Fellow with the International and Comparative Education Research Group with the Universiti Brunei Darussalam (ICE-UBD) and an Associate Fellow with the Higher Education Academy (AFHEA). He is also a member of Design Objective (DO), the International Communication Association (ICA), and the Media, Communications, and Cultural Studies Association (MeCCSA). With more than seventeen years of collective experience in the creative industries and higher education, he has worked independently and collaboratively in a range of roles related to teaching, leadership, and research. He currently develops and coordinates the delivery of communication literacies and research skills for courses in cultural studies, communication, and design theory, in addition to practical digital media skills. Favoring textual research methods and publishing in traditional and alternative modes of scholarship, his work is influenced by poststructuralist and continental philosophical schools of thought.
+date: December 2020
+issue: 5
+order: 2
+abstract: >
+  This essay serves as a written counterpart to a previously published visual case study that explored the cultural production of Caribbean creative Warren Le Platte and his creation of an internet meme series in 2016. In a continuation of that analysis here, Le Platte’s work is again positioned as an articulation of *alternative media*, a concept defined by subversive, disruptive, or interrogative strategies in response to inequitable relations and power dynamics. Employed as a reflexive critique of his home island of Trinidad, Le Platte’s work raises questions regarding the cultural logic of dysfunctionality underscored by his personal experience as a citizen. By employing a visual discourse analysis, this essay continues to explore alternative media in the Caribbean and how activities of “prosumption” (production + consumption) might relate to ideas regarding language, identity, and cultural memory. 
+abstract_fr: >
+  New media technologies—from the tape recorder to the computer—enabled Kamau Brathwaite’s revolutionary poetic approach; digital technologies likewise enable us to study and teach his groundbreaking work in new ways. This essay argues that teaching and studying Brathwaite should begin with the audible word not the written text and that digital audio archives and platforms can play a key role in enabling this approach. Digital audio archives such as PennSound and the Poetry Archive allow students and scholars to approach Brathwaite’s work by listening closely to a wide range of sound recordings. This essay demonstrates the utility of this close listening approach by taking advantage of the digital platform of *archipelagos journal* to interweave its text with Brathwaite’s recorded voice. It not only demonstrates the value of approaching Brathwaite’s work through digital sound recordings but also argues for a larger overturning of critical, pedagogical, and essayistic conventions in literary studies through a methodological turn away from the page.  
+abstract_es: >
+  New media technologies—from the tape recorder to the computer—enabled Kamau Brathwaite’s revolutionary poetic approach; digital technologies likewise enable us to study and teach his groundbreaking work in new ways. This essay argues that teaching and studying Brathwaite should begin with the audible word not the written text and that digital audio archives and platforms can play a key role in enabling this approach. Digital audio archives such as PennSound and the Poetry Archive allow students and scholars to approach Brathwaite’s work by listening closely to a wide range of sound recordings. This essay demonstrates the utility of this close listening approach by taking advantage of the digital platform of *archipelagos journal* to interweave its text with Brathwaite’s recorded voice. It not only demonstrates the value of approaching Brathwaite’s work through digital sound recordings but also argues for a larger overturning of critical, pedagogical, and essayistic conventions in literary studies through a methodological turn away from the page.
+language: en
+pdf: true
+---
 
-Jonathan J. Felix
 
-Abstract
---------
-
-This essay serves as a written counterpart to a previously published
-visual case study (https://youtu.be/hsI4HvLmKMo) that explored the
-cultural production of Caribbean creative Warren Le Platte and his
-creation of an internet meme series in 2016. In a continuation of that
-analysis here, Le Platte’s work is again positioned as an articulation
-of *alternative media*, a concept defined by subversive, disruptive, or
-interrogative strategies in response to inequitable relations and power
-dynamics. Employed as a reflexive critique of his home island of
-Trinidad, Le Platte’s work raises questions regarding the cultural logic
-of dysfunctionality underscored by his personal experience as a citizen.
-By employing a visual discourse analysis, this essay continues to
-explore alternative media in the Caribbean and how activities of
-“prosumption” (production + consumption) might relate to ideas regarding
-language, identity, and cultural memory.
 
 Introduction
 ------------
@@ -89,7 +93,7 @@ marginal entities.[^5] Chris Atton summarizes his typology of
 alternative media by providing a broad definition that unites various
 articulations of this concept:
 
-> \[Alternative and community media are\] media that bypass the usual
+> Alternative and community media are media that bypass the usual
 > channels of commercial production and distribution, and that are most
 > often organised and produced by “ordinary” people, local communities
 > and communities of interest. It is primarily interested in social and
@@ -177,15 +181,11 @@ days of online forums, it became a challenge for some users to
 differentiate between humorous communication and other types of
 exchanges.[^18]
 
-% include image.html
-
-img="\[Felix Fig1.png\]"
-
-title="\[Natural Disasters\]"
-
-caption="\[Figure 1. This meme presents an unfavorable view of Trinidad
-and Tobago politician Colm Imbert. Source: *Meanwhile in T&T* (via
-Facebook)\]" %
+{{% include image.html
+  img="Felix Fig1.png"
+  title="Natural Disasters"
+  caption="Figure 1. This meme presents an unfavorable view of Trinidad and Tobago politician Colm Imbert. Source: *Meanwhile in T&T* (via Facebook)" 
+%}
 
 Ryan Milner comments that internet memes are part of the lingua franca
 of the modern internet—a visual language representative of the cultural
@@ -429,15 +429,10 @@ comments and shares, and went on to draw the attention of the
 international media collective *Global Voices* (see fig. 2).[^41] In the
 context of this example, at least five key elements are of importance.
 
-% include image.html
-
-img="\[Felix Fig 2.png\]"
-
-title="\[Warren Le Platte Facebook\]"
-
-caption="\[Figure 2. A screenshot of Le Platte’s personal Facebook page
-with a snippet of his popular internet meme series. Source: Warren Le
-Platte (via Facebook)\]" %
+{{% include image.html
+  img="2.png"
+  title="Warren Le Platte Facebook"
+  caption="Figure 2. A screenshot of Le Platte’s personal Facebook page with a snippet of his popular internet meme series. Source: Warren Le Platte (via Facebook)" %}
 
 Firstly, the film Le Platte attempted to view at the local cinema was of
 considerable popular interest both locally and worldwide, and both the
@@ -511,16 +506,10 @@ institutional critique presented in Le Platte’s culture jamming that
 evokes a sense of national identity and cultural memory through the
 mediated presentation of his lived experience.[^46]
 
-% include image.html
-
-img="\[Felix Fig 3.png\]"
-
-title="\[So I spend 4 hours in de cinema…\]"
-
-caption="\[Figure 3. A meme used in Le Platte’s series referencing Peter
-Jackson’s Lord of the Rings film trilogy, as Le Platte compares his
-moviegoing experience to that of watching an installment from the
-famously lengthy franchise. Source: Warren Le Platte (via Facebook)\]" %
+{{% include image.html
+  img="Felix Fig 3.png"
+  title="So I spend 4 hours in de cinema…"
+  caption="Figure 3. A meme used in Le Platte’s series referencing Peter Jackson’s Lord of the Rings film trilogy, as Le Platte compares his moviegoing experience to that of watching an installment from the famously lengthy franchise. Source: Warren Le Platte (via Facebook)" %}
 
 Thirdly, Le Platte employed the internet meme—one of the common
 communication tools of the so-called digital age—as provocation to
@@ -539,16 +528,10 @@ vernacular, idioms, and ideas, as exemplified in figure 4. Nationals
 confirm this with their favorable comments in response to his series of
 online posts.
 
-% include image.html
-
-img="\[Felix Fig 4.png\]"
-
-title="\[What is my life?\]"
-
-caption="\[Figure 4. This meme features an image of sitcom character
-Carlton Banks (Alfonso Ribeiro) crying. Derived from the popular
-“Carlton Crying” meme series, this image is commonly used to express
-humor at disappointment. Source: Warren Le Platte (via Facebook)\]" %
+{% include image.html
+  img="Felix Fig 4.png"
+  title="What is my life?"
+  caption="Figure 4. This meme features an image of sitcom character Carlton Banks (Alfonso Ribeiro) crying. Derived from the popular “Carlton Crying” meme series, this image is commonly used to express humor at disappointment. Source: Warren Le Platte (via Facebook)" %}
 
 While disjointed in terms of the continuity of visual references, when
 taken as a whole, the images in Le Platte’s meme constellation
@@ -661,16 +644,10 @@ resigned. The text, written in local dialect, roughly translates to,
 attention to the screen,” conveying the sense of excitement and
 enthusiasm Le Platte initially felt.
 
-% include image.html
-
-img="\[Felix Fig 5.png\]"
-
-title="\[So I dey like…\]"
-
-caption="\[Figure 5. A meme featuring famed pop music icon Michael
-Jackson. The caption expresses Le Platte’s eagerness to watch a film at
-the cinema after initial technical difficulties. Source: Warren Le
-Platte (via Facebook)\]" %
+{% include image.html
+  img="Felix Fig 5.png"
+  title="So I dey like…"
+  caption="Figure 5. A meme featuring famed pop music icon Michael Jackson. The caption expresses Le Platte’s eagerness to watch a film at the cinema after initial technical difficulties. Source: Warren Le Platte (via Facebook)" %}
 
 In another example, featuring an image of Michelle Obama, Le Platte
 evokes a sense of cultural memory with a nostalgic reference to the now
@@ -687,16 +664,10 @@ events, while the multiplex cinema chains—heralded by locals in Trinidad
 and Tobago as “cultural” and technological advancement—have been the
 dominant means of accessing Hollywood films.[^55]
 
-% include image.html
-
-img="\[Felix Fig 6.png\]"
-
-title="\[\#BringBackOurGlobeCinema\]"
-
-caption="\[Figure 6. Le Platte edited an image of Michelle Obama holding
-a sheet of paper to read a hashtag calling for the return of a
-well-known but now defunct local cinema (left). The original image is on
-the right. Warren Le Platte (via Facebook)\]" %
+{% include image.html
+  img="Felix Fig 6.png"
+  title="\#BringBackOurGlobeCinema"
+  caption="Figure 6. Le Platte edited an image of Michelle Obama holding a sheet of paper to read a hashtag calling for the return of a well-known but now defunct local cinema (left). The original image is on the right. Warren Le Platte (via Facebook)" %}
 
 Le Platte repurposed the popular image of the former US first lady and
 her appeal \#BringBackOurGirls, referencing the highly publicized
@@ -741,15 +712,12 @@ activity that invalidates the professional-amateur binary, outlined
 earlier, since he produces and consumes knowledge in his contribution to
 online public discourse through his culture jamming practice.
 
-% include image.html
-
-img="\[Felix Fig 7.png\]"
-
-title="\[Comments\]"
-
-caption="\[Figure 7. A screenshot of the comments section of Le Platte’s
+{% include image.html
+  img="7.png"
+  title="Comments"
+  caption="Figure 7. A screenshot of the comments section of Le Platte’s
 meme constellation, featuring interactions by users. Source: Warren Le
-Platte (via Facebook)\]" %
+Platte (via Facebook)" %}
 
 With this practice, Le Platte identifies with individuals across the
 “professional versus amateur” continuum in authorship of his meme
@@ -896,27 +864,8 @@ see themselves, to participate in public discourse, and to exercise
 their agency in contributing to local online discourse across the
 digital public sphere.
 
-Jonathan J. Felix
------------------
 
-Jonathan J. Felix is a transdisciplinary academic at the intersection of
-sociology, design, media, and cultural studies. His research interests
-include higher education, digital cultures, and alternative media.
-Jonathan is a Visiting Fellow with the International and Comparative
-Education Research Group with the Universiti Brunei Darussalam (ICE-UBD)
-and an Associate Fellow with the Higher Education Academy (AFHEA). He is
-also a member of Design Objective (DO), the International Communication
-Association (ICA), and the Media, Communications, and Cultural Studies
-Association (MeCCSA). With more than seventeen years of collective
-experience in the creative industries and higher education, he has
-worked independently and collaboratively in a range of roles related to
-teaching, leadership, and research. He currently develops and
-coordinates the delivery of communication literacies and research skills
-for courses in cultural studies, communication, and design theory, in
-addition to practical digital media skills. Favoring textual research
-methods and publishing in traditional and alternative modes of
-scholarship, his work is influenced by poststructuralist and continental
-philosophical schools of thought.
+---
 
 Bibliography
 ------------
@@ -1233,6 +1182,10 @@ Mechanisms of the Construction of Subjectivity.” *Journal of Consumer
 Culture* 15, no. 1 (2015): 28–47.
 <https://doi.org/10.1177/1469540513493201>.
 
+---
+
+Notes
+
 [^1]: See Olga Guedes Bailey, Bart Cammaerts, and Nico Carpentier,
     *Understanding Alternative Media* (Maidenhead, UK: Open University
     Press, 2008); Ken Gelder, *Subcultures: Cultural Histories and
@@ -1382,7 +1335,7 @@ Culture* 15, no. 1 (2015): 28–47.
     Yochai Benkler, “Sharing Nicely: On Shareable Goods and the
     Emergence of Sharing as a Modality of Economic Production,” in
     Mandiberg, *Social Media Reader*, 17–23 (originally published in
-    *Yale Law Journal* 114, no. 2 \[2004\]: 273–358,
+    *Yale Law Journal* 114, no. 2 2004: 273–358,
     <https://doi.org/10.2307/4135731>).
 
 [^24]: Zajc, “Social Media, Prosumption, and Dispositives,” 44.
