@@ -9,20 +9,18 @@ publisher:           "Columbia University Libraries"
 description:         'a journal of Caribbean digital praxis'
 
 
-# DEV
-# url:                 ''
-# baseurl:             ''
+# MOCK
+url:                 'http://dev.elotroalex.com'
+baseurl:             '/archipelagos'
+future:              True
 
-# TEST SERVER
-# url:                 'http://archipelagos-dev.elotroalex.com'
-# baseurl:             '/sxarchipelagos'
 
 # PROD
-url:                 "http://archipelagosjournal.org"
-baseurl:             ''
-future: True
+# url:                 "http://archipelagosjournal.org"
+# baseurl:             ''
+# future: True
 
-githuburl:           'https://github.com/archipelagosjournal'
+githuburl:           'https://github.com/archipelagosjournal/archipelagos'
 
 # Colophon
 old_issn: 2473-2206
