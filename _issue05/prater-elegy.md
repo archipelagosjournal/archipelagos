@@ -6,8 +6,8 @@ title:
   "short": "Me, Myself, and Unno"
 doi: "https://doi.org/#"
 author: 
-- name: Kelly Baker Josephs
-  shortname: Josephs
+- name: Tzarina Prater
+  shortname: Prater
   bio: >
     Kelly Baker Josephs is a professor of English at York College, City University of New York, and a professor of English and digital humanities at the CUNY Graduate Center. She is the author of *Disturbers of the Peace: Representations of Insanity in Anglophone Caribbean Lit­erature* (2013), the founder and former editor of *sx salon: a small axe literary platform*, and the manager of [*The Caribbean Commons*](http://caribbean.commons.gc.cuny.edu/) website.
 date: December 2020
@@ -27,7 +27,7 @@ pdf: true
 “Always Together”: A Digital Diasporic Elegy
 ============================================
 
-Tzarina Prater
+
 
 The night of 19 June 2020 marked the conclusion of 40 Nights of the
 Voice, a digital wake initiated by Ronald Cummings, Nalini Mohabir, and
