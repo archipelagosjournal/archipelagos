@@ -2,8 +2,8 @@
 layout: article
 section: articles
 title: 
-  "long": "Me, Myself, and Unno: Writing the Queer Caribbean Self into Digital Community"
-  "short": "Me, Myself, and Unno"
+  "long": "Always Together: A Digital Diasporic Elegy"
+  "short": "Always Together"
 doi: "https://doi.org/#"
 author: 
 - name: Tzarina Prater
@@ -22,11 +22,6 @@ abstract_es: >
 language: en
 pdf: true
 ---
-
-
-“Always Together”: A Digital Diasporic Elegy
-============================================
-
 
 
 The night of 19 June 2020 marked the conclusion of 40 Nights of the
