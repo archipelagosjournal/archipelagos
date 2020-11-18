@@ -261,7 +261,7 @@ Caribbean archipelago.
 
 ---
 
-Since 2017, Jégousso and Lauro have managed the *Library of Glissant Studies* project (wwww.glissantstudies.com), a collaborative digital bibliography collecting the scattered works of Édouard Glissant and the critical texts related to his oeuvre.
+Since 2017, Jégousso and Lauro have managed the [*Library of Glissant Studies*](http://wwww.glissantstudies.com) project, a collaborative digital bibliography collecting the scattered works of Édouard Glissant and the critical texts related to his oeuvre.
 
 
 ---
