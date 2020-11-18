@@ -773,7 +773,7 @@ Globalization*. Jackson: University Press of Mississippi, 2017.
 [^10]: See Josephs, “Digital Yard” 219; see also her “Me, Myself, and
     Unno: Writing the Queer Caribbean Self into Digital Community” in
     this issue of *archipelagos journal*,
-    http://archipelagosjournal.org/\*\*URL to be added\*\*.
+    http://archipelagosjournal.org/issue05/josephs-blogging.html.
 
 [^11]: Josh Ellenbogen, “On Photographic Elegy,” in Weisman, *Oxford
     Handbook of the Elegy*, 676. Also helpful when thinking about the
