@@ -23,34 +23,6 @@ language: en
 pdf: true
 ---
 
-&lt;ALEX: Because I couldn’t put in hyperlinks to the MP3 files (I don’t
-know where those will end up), I put each MP3 file name in brackets
-immediately following the text it will link to, which is highlighted in
-green.
-
-The author is hoping for embedded audio files rather than a link that
-will take readers away from the page. He had originally put in “\[AUDIO
-1\]” and so on at each place for a clip, for readers to click on rather
-than linked text. But you said earlier that you didn’t want those…. Here
-is a note from him: “The whole quotation should be hyperlinked if we go
-down the hyperlink route. However, as I’ve discussed with the editors,
-it would be preferable to have the extracts embedded within the webpage
-so that one isn’t taken away from the text every time one clicks a
-link.”
-
-The extracts are numbered, so if you do decide to go back to \[Audio1\]
-or some such, the numbers are right there.
-
-I put in footnotes throughout to cite the online locations of all the
-digital files, and then Edmonds provided the time codes for the MP3
-extracts, so if the piece is printed or dealt with offline, all the
-clips are still findable.
-
-No hyperlinks are included, to keep this strictly text and audio
-clips.&gt;
-
----
-
 
 Dedicated to the memory of Kamau Brathwaite, 1930–2020
 
