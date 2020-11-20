@@ -245,7 +245,18 @@ listening to Brathwaite’s texts in recorded performances. These
 performances often verge on song, underscoring the connections Rohlehr
 identifies and adding a layer that is not present in the written text.
 Examples of the shift to song are plentiful in Brathwaite performance
-and include “Negus,”\[1 Negus Segue 2004 conclusion sung.mp3\] “The
+and include 
+
+“Negus” 
+
+ <audio controls>
+  <source src="https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/1%20Negus%20Segue%202004%20conclusion%20sung.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> 
+
+
+
+“The
 Twist,”\[2 The Twist Segue 2004.mp3\] “Atumpan,”\[3 Atumpan.mp3\]
 “Caliban,”\[4 Caliban Segue 2004 limbo sung clip.mp3\] and “Soweto”\[5
 from Soweto.mp3\]; also present are instances of drum-like repetition,
