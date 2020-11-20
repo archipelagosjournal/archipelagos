@@ -17,8 +17,8 @@ author:
 date: December 2020
 issue: 5
 order: 7
-image: images/issue05/x.png
-thumb: images/issue05/x-thumb.png
+image: images/issue05/haitian-revolution.png
+thumb: images/issue05/haitian-revolution-thumb.png
 link: "https://haiti.axismaps.io/"
 ---
 

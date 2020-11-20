@@ -13,8 +13,8 @@ author:
 date: December 2020
 issue: 5
 order: 6
-image: images/issue05/x.png
-thumb: images/issue05/x-thumb.png
+image: images/issue05/mapping-marronage.png
+thumb: images/issue05/mapping-marronage-thumb.png
 link: "http://mapping-marronage.rll.lsa.umich.edu"
 ---
 
