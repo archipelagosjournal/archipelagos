@@ -20,7 +20,7 @@ abstract_fr: >
 abstract_es: >
   New media technologies—from the tape recorder to the computer—enabled Kamau Brathwaite’s revolutionary poetic approach; digital technologies likewise enable us to study and teach his groundbreaking work in new ways. This essay argues that teaching and studying Brathwaite should begin with the audible word not the written text and that digital audio archives and platforms can play a key role in enabling this approach. Digital audio archives such as PennSound and the Poetry Archive allow students and scholars to approach Brathwaite’s work by listening closely to a wide range of sound recordings. This essay demonstrates the utility of this close listening approach by taking advantage of the digital platform of *archipelagos journal* to interweave its text with Brathwaite’s recorded voice. It not only demonstrates the value of approaching Brathwaite’s work through digital sound recordings but also argues for a larger overturning of critical, pedagogical, and essayistic conventions in literary studies through a methodological turn away from the page.
 language: en
-pdf: true
+pdf: false
 ---
 
 
@@ -245,25 +245,57 @@ listening to Brathwaite’s texts in recorded performances. These
 performances often verge on song, underscoring the connections Rohlehr
 identifies and adding a layer that is not present in the written text.
 Examples of the shift to song are plentiful in Brathwaite performance
-and include 
+and include: 
 
-“Negus” 
+{% include audio.html 
+  url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/1%20Negus%20Segue%202004%20conclusion%20sung.mp3"
+  title = "\"Negus\""
+%}
 
- <audio controls>
-  <source src="https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/1%20Negus%20Segue%202004%20conclusion%20sung.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio> 
+{% include audio.html 
+  url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/2%20The%20Twist%20Segue%202004.mp3"
+  title = "\"The Twist\""
+%}
 
+{% include audio.html 
+  url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/3%20Atumpan.mp3"
+  title = "\"Atumpan\""
+%}
 
+{% include audio.html 
+  url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/4%20Caliban%20Segue%202004%20limbo%20sung%20clip.mp3"
+  title = "\"Caliban\" (extract)"
+%}
 
-“The
-Twist,”\[2 The Twist Segue 2004.mp3\] “Atumpan,”\[3 Atumpan.mp3\]
-“Caliban,”\[4 Caliban Segue 2004 limbo sung clip.mp3\] and “Soweto”\[5
-from Soweto.mp3\]; also present are instances of drum-like repetition,
-as in “Nights,”\[5b KB Nights from cross cult poetics Namsetoura.mp3\]
-“Shepherd,”\[6 shepherd extract.mp3\] “Wings of a Dove,”\[7 Wings of a
-Dove down down extract.mp3\] and “Angel/Engine.”\[8 angel engine
-extract.mp3\][^19] Through close listening to such recordings, students
+{% include audio.html 
+  url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/5%20from%20Soweto.mp3"
+  title = "\"Soweto\""
+%}
+
+Also present are instances of drum-like repetition,
+as in:
+
+{% include audio.html 
+  url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/5b%20KB%20Nights%20from%20cross%20cult%20poetics%20Namsetoura.mp3"
+  title = "\"Nights\""
+%}
+
+{% include audio.html 
+  url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/6%20shepherd%20extract.mp3"
+  title = "\"Shepherd\" (extract)"
+%}
+
+{% include audio.html 
+  url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/7%20Wings%20of%20a%20Dove%20down%20down%20extract.mp3"
+  title = "\"Wings of a Dove\" (extract)"
+%}
+
+{% include audio.html 
+  url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/8%20angel%20engine%20extract.mp3"
+  title = "\"Angel/Engine\" (extract)"
+%}
+
+Through close listening to such recordings, students
 interrogate the intertwining of Brathwaite’s work with oral and musical
 traditions that themselves produce many versions, as in multiple
 performances or recordings of the same song.
@@ -707,7 +739,7 @@ Notes
     (2019): 269; and Jacob Edmond, *Make It the Same: Poetry in the Age
     of Global Media* (New York: Columbia University Press, 2019), 35–36.
 
-[^5]: []{#_Hlk43292886 .anchor}Brathwaite recollects that, prior to the
+[^5]: Brathwaite recollects that, prior to the
     performance, the editor’s advisors had “suggested to him that it
     \[“Rites”\] should be taken out . . . on the grounds that it would
     not communicate to their public.” Kamau Brathwaite, International
@@ -782,22 +814,6 @@ Notes
 [^18]: Gordon Rohlehr, *Pathfinder: Black Awakening in “The Arrivants”
     of Edward Kamau Brathwaite* (Tunapuna, Trinidad: Gordon Rohlehr,
     1981), 333–40.
-
-[^19]: MP3s of these poems are at
-    http://writing.upenn.edu/pennsound/x/Brathwaite.php (if extracted
-    audio clips are linked in the text, time codes are indicated in
-    parentheses): “Negus” (extract: 4:17–35), “The Twist” (first
-    version), “Atumpan,” “Caliban” (extract: 8:20–32), “Shepherd”
-    (extract: 00:00–27), and “Wings of a Dove” (extract: 1:40–1:53),
-    recorded at the Bowery Poetry Club, 1 May 2004, New York City, are
-    found under “Segue Reading.” “Soweto” is in the 1988 International
-    Poetry Forum recording, at 47:00 (extract 56:33–57:12). “Nights” is
-    in the recording of *Cross-Cultural Poetics*, radio show hosted by
-    Leonard Schwartz, show no. 94 (2005), at 12:59 (extract: 15:42–58).
-    “Angel/Engine,” recorded 19 October 1997 at “XCP: Cross-Cultural
-    Poetics Conference,” is under its own heading (extract: 0:00–27);
-    also available in the eCompanion to Sherwood, “Elaborate
-    Versionings” (see note 9).
 
 [^20]: See Nathaniel Mackey, “Other: From Noun to Verb,”
     *Representations* 39 (1992): 52. Kelly Josephs’s essay “Versions of
