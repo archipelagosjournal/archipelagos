@@ -5,6 +5,7 @@ _site
 Gemfile.lock
 instructions.txt
 RAKEFILE
+.jekyll-cache
 
 
 # Numerous always-ignore extensions
