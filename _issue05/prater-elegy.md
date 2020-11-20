@@ -9,16 +9,16 @@ author:
 - name: Tzarina Prater
   shortname: Prater
   bio: >
-    Kelly Baker Josephs is a professor of English at York College, City University of New York, and a professor of English and digital humanities at the CUNY Graduate Center. She is the author of *Disturbers of the Peace: Representations of Insanity in Anglophone Caribbean Lit­erature* (2013), the founder and former editor of *sx salon: a small axe literary platform*, and the manager of [*The Caribbean Commons*](http://caribbean.commons.gc.cuny.edu/) website.
+    Tzarina T. Prater is an associate professor in the Department of English and Media Studies at Bentley University. She has published articles on Sino-Caribbean literature and culture as well as US spectatorship of Hong Kong action cinema, digital platforms, and science fiction. Her current book project on Chinese Jamaican literary and cultural production, “Labrish and Mooncakes: National Belonging in Chinese Jamaican Cultural Production,” is in process.
 date: December 2020
 issue: 5
 order: 4
 abstract: >
-  Caribbean autobiography in the mid-twentieth century grew as a method of combatting aporias in literary production and epistemological models, with novelists in particular writing themselves into visibility. But this tradition was predominantly male and decidedly heterosexual. Even as the Caribbean literary canon slowly diversified toward the end of the twentieth century with the inclusion of various life stories, the voices of queer writers remained at low volume, almost muted. This essay reads how those voices were enabled at the turn of the millennium by digital technologies. Reading digital versions of the personal narrative within the historical context of Caribbean autobiography, it examines the self-fashioning twenty-first-century Caribbean writers performed and published via the blogosphere. With particular focus on blogs by two Jamaican writers—Staceyann Chin and Marlon James—it argues that the form and technical features of blogging offered a safe space for queer Caribbean writers to “speak out” in ways that continued the tradition of Caribbean autobiography.
+  This essay takes up the question of how diasporic Caribbean subjects deal with death, dying, and grieving in online spaces. With a focus on the genre of *digital diasporic elegy*, the author argues that by analyzing the digital life of a Sino-Caribbean diasporic cultural text, a digital diasporic elegiac practice emerges. This practice allows for consideration of the very code that enables our traversal between digital nodes, thereby allowing for a more nuanced understanding of rituals of mourning in our contemporary moment.
 abstract_fr: >
-  Caribbean autobiography in the mid-twentieth century grew as a method of combatting aporias in literary production and epistemological models, with novelists in particular writing themselves into visibility. But this tradition was predominantly male and decidedly heterosexual. Even as the Caribbean literary canon slowly diversified toward the end of the twentieth century with the inclusion of various life stories, the voices of queer writers remained at low volume, almost muted. This essay reads how those voices were enabled at the turn of the millennium by digital technologies. Reading digital versions of the personal narrative within the historical context of Caribbean autobiography, it examines the self-fashioning twenty-first-century Caribbean writers performed and published via the blogosphere. With particular focus on blogs by two Jamaican writers—Staceyann Chin and Marlon James—it argues that the form and technical features of blogging offered a safe space for queer Caribbean writers to “speak out” in ways that continued the tradition of Caribbean autobiography.
+  This essay takes up the question of how diasporic Caribbean subjects deal with death, dying, and grieving in online spaces. With a focus on the genre of *digital diasporic elegy*, the author argues that by analyzing the digital life of a Sino-Caribbean diasporic cultural text, a digital diasporic elegiac practice emerges. This practice allows for consideration of the very code that enables our traversal between digital nodes, thereby allowing for a more nuanced understanding of rituals of mourning in our contemporary moment.
 abstract_es: >
-  Caribbean autobiography in the mid-twentieth century grew as a method of combatting aporias in literary production and epistemological models, with novelists in particular writing themselves into visibility. But this tradition was predominantly male and decidedly heterosexual. Even as the Caribbean literary canon slowly diversified toward the end of the twentieth century with the inclusion of various life stories, the voices of queer writers remained at low volume, almost muted. This essay reads how those voices were enabled at the turn of the millennium by digital technologies. Reading digital versions of the personal narrative within the historical context of Caribbean autobiography, it examines the self-fashioning twenty-first-century Caribbean writers performed and published via the blogosphere. With particular focus on blogs by two Jamaican writers—Staceyann Chin and Marlon James—it argues that the form and technical features of blogging offered a safe space for queer Caribbean writers to “speak out” in ways that continued the tradition of Caribbean autobiography.
+  This essay takes up the question of how diasporic Caribbean subjects deal with death, dying, and grieving in online spaces. With a focus on the genre of *digital diasporic elegy*, the author argues that by analyzing the digital life of a Sino-Caribbean diasporic cultural text, a digital diasporic elegiac practice emerges. This practice allows for consideration of the very code that enables our traversal between digital nodes, thereby allowing for a more nuanced understanding of rituals of mourning in our contemporary moment.
 language: en
 pdf: true
 ---
@@ -87,7 +87,7 @@ many of us to live much of our lives online, a time also of upheaval and
 social unrest, in which the daily news, filled with obscene images of
 black death, comes to us via our digital news feeds and timelines. How
 do we deal with death, dying, mourning, loss, and grief, both personal
-and collective, as we are relentlessly subject to a palpable fatigue
+and collective, as we are subject to a palpable fatigue
 resulting from the “always now-ness” of our “swiftly moving present”?
 
 Literary theorist Jahan Ramazani claims that the modern elegy is
@@ -122,9 +122,9 @@ to go online. Social media engulf users in ever-present grievances.
 Databases like YouTube and Instagram use an algorithmic code to bring
 “recommended” and “of interest” posts into individual feeds. Producing a
 constant stream of imagery, these platforms create a perpetual, painful
-present. The mediated present of the news feed is undeniably relentless
-and, shaped by the user’s likes, follows, searches, and susceptibility
-to “click bait,” creates the contours of individual digital personae and
+present. The mediated present of the news feed is undeniably relentless.
+It is shaped by user’s likes, follows, searches, and susceptibility
+to “click bait,” all of which comes together to create the contours of individual digital personae and
 the communities to which they belong. Kelly Baker Josephs offers
 insightful critical reflections on a host of online creative activities
 in which Caribbean writers engage: tweeting and retweeting, posting and
@@ -147,7 +147,7 @@ Social media timelines invoke “linearity” but are not always faithful to
 it. A destabilization of temporality is possible on these platforms
 insofar as current and past events can readily merge. While much is made
 of the brevity of the “news cycle,” timelines offer challenges to
-cultural and social memory by asynchronously inserting images and videos
+cultural and social memory by asynchronously interpolation images and videos
 of the immediate or recent past alongside images and events from long
 ago. As members of particular social circles discover and share cultural
 texts anew, the “grievable” can seem to extend out of the digital ether
@@ -155,8 +155,7 @@ to take hold of and traumatize “in real time,” so to speak. Most
 recently, the names of black victims of police violence have been
 regularly “popping into” timelines from multiple news media sources and
 personal connections. Circulating along with those names are visual
-components, elegiac images that can, according to Josh Ellenbogen, in
-fact refuse to do the work of conventional elegy. They risk “\[taking\]
+components, elegiac images that can, according to Josh Ellenbogen, refuse to do the work of conventional elegy. They risk “\[taking\]
 us out of a narrative process of grief,” bringing pain into the present
 and inhibiting the “‘normal’ work of mourning,” which is to move
 emotionally toward consolation.[^11] Deep ontological wounds are renewed
@@ -318,12 +317,7 @@ dramatic instance of a digital elegiac practice. His public search for
 traces of his father can be followed across dozens of YouTube uploads,
 in their comments sections and through the hyperlinks users shared to
 sites for music aficionados and crate diggers, as well as to Stephen
-Cheng’s 2012 *New York Times* obituary. Anyone who chooses to can follow
-Cheng and acquire these various narratives, one of which is an
-understanding of the historical, cultural, and political contexts in
-which Stephen Cheng and Byron Lee created the remarkable recording of
-“Always Together” that brings together multiple national threads and
-histories. For example, on 27 June 2019, YouTube user Mike Aylward
+Cheng’s 2012 *New York Times* obituary. Anyone who chooses to can follow Pascal Cheng’s digital footprints and fall into these various narratives, one of which provides an understanding of the historical, cultural, and political contexts in which Stephen Cheng and Byron Lee created a remarkable recording that brings together multiple national threads and histories. For example, on 27 June 2019, YouTube user Mike Aylward
 entered the conversation thread begun by Pascal Cheng and 1970RudeBoy to
 inform Cheng of the existence of Krish Raghav’s longform comic
 “Redemption Songs,” a graphic historical essay published online in
@@ -540,8 +534,7 @@ user by the name of JujuBean claimed to be the grandchild of Stephen
 Cheng and asked for information about the upload; in fact, Pascal Cheng
 is JujuBean’s father. The search for knowledge, history, connection,
 and, potentially, community and consolation has now been taken up by the
-next generation. I read Pascal Cheng’s efforts as a practice of
-unraveling diasporic threads.
+next generation. I read Pascal Cheng’s efforts to unravel diasporic threads as an instance of digital diasporic elegiac practice.
 
 There is an element of pleasure in the dive down the rabbit hole and in
 discovering and exploring the affective ligaments/code connecting me to
@@ -575,7 +568,7 @@ commune together during this time of quarantine.”[^38] It began with
 thirteen poets and scholars reading Brathwaite’s poem “Wake.”[^39]
 
 That a born-digital elegy would be created in honor of Brathwaite seems
-almost inevitable, given Brathwaite’s techne in creating his “Sycorax
+inevitable, given Brathwaite’s techne in creating his “Sycorax
 Video Style.” Brathwaite’s personal digital elegiac practice coheres in
 his “time of salt,” a culmination of three traumatic events: the death
 of Doris, his first wife and bibliographer; the destruction of his home,
@@ -780,7 +773,7 @@ Globalization*. Jackson: University Press of Mississippi, 2017.
 [^10]: See Josephs, “Digital Yard” 219; see also her “Me, Myself, and
     Unno: Writing the Queer Caribbean Self into Digital Community” in
     this issue of *archipelagos journal*,
-    http://archipelagosjournal.org/\*\*URL to be added\*\*.
+    http://archipelagosjournal.org/issue05/josephs-blogging.html.
 
 [^11]: Josh Ellenbogen, “On Photographic Elegy,” in Weisman, *Oxford
     Handbook of the Elegy*, 676. Also helpful when thinking about the

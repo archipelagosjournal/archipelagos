@@ -55,7 +55,7 @@ and share archives, *Manioc* established a series of partnerships with
 private collections, research departments, regional libraries, and
 documentation services to conserve documents, augment the site's
 content, increase its exposure, and answer a growing demand from
-scholars around the world.
+international scholars.
 
 Co-led and co-managed by the library services of the University of the
 Antilles and the University of French Guiana,[^3] the collaborative
@@ -66,9 +66,9 @@ Caribbean and France, including the Guyanese association Grappe ORkidé;
 the *Digital Library of the Caribbean*; the National Library of France
 and its digital platform, *Gallica*; the Culture, Education, and
 Environment Council of Martinique; and the French Department of
-Education.[^4] Today *Manioc* has secured strong ties with more than
+Education.[^4] Today, *Manioc* has secured strong ties with more than
 fifteen institutions on both sides of the Atlantic, and, by also
-bringing together several databases, *Manioc* has accomplished the
+bringing together several databases, has accomplished the
 centralization of thousands of collections, cementing its position as a
 leader in Caribbean digital initiatives.
 
@@ -132,7 +132,7 @@ unpublished and rare documents related to Caribbean authors. The first
 collection (as of March 2020) is dedicated to Guadeloupean writer Maryse
 Condé, who donated her archives to the University of the Antilles. This
 section notably includes her 1976 doctoral thesis; an unpublished novel,
-*Les parisiens*; several interviews and photographs; recent scholarship
+*Les Pharisiens*; several interviews and photographs; recent scholarship
 on her work; and a forum through which users are invited to help
 complete the digital bibliography of work by and on Condé. The second
 subsection, “Mémoires et creations” (“Memory and Creation”), focuses on
@@ -174,7 +174,7 @@ collectif des périodiques Caraïbes-Amazonie” was launched to preserve,
 archive, and index mostly contemporary local periodicals (see the
 “Patrimoine” section). As of today, these abundant and diverse
 bibliographical references are linked to physical collections across
-sixteen libraries. We hope to initiate soon a digitization project to
+sixteen libraries. We hope a digitization project will soon be initiated by *Manioc*'s team to
 make those precious and often confidential documents accessible online.
 Sciencewise, *Manioc* supports the [Program of Applied Research to
 Popular Medicine in the Caribbean](http://www.tramil.net) (TRAMIL),
@@ -261,7 +261,7 @@ Caribbean archipelago.
 
 ---
 
-Since 2017, Jégousso and Lauro have managed the *Library of Glissant Studies* project (wwww.glissantstudies.com), a collaborative digital bibliography collecting the scattered works of Édouard Glissant and the critical texts related to his oeuvre.
+Since 2017, Jégousso and Lauro have managed the [*Library of Glissant Studies*](http://wwww.glissantstudies.com) project, a collaborative digital bibliography collecting the scattered works of Édouard Glissant and the critical texts related to his oeuvre.
 
 
 ---
