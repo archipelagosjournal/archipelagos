@@ -693,8 +693,6 @@ comment on his appearance on stage "on a night like this," the poem's final line
   title = "Twist reprise Segue"
 %}
 
-\[22 KB .mp3\]
-
 In his 1988
 International Poetry Forum performance, however, Brathwaite locates the
 poem in the context of the aborted US Bay of Pigs invasion of Cuba and
@@ -818,8 +816,6 @@ and performers, aware of all the twists and turns that our shared acts
 of speaking and listening might bring.
 
 ---
-
-Notes
 
 [^1]: Early examples of the increased attention to the audio text can be
     found in Douglas Kahn and Gregory Whitehead, eds., *Wireless
