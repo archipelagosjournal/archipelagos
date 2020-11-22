@@ -40,7 +40,7 @@ tens of thousands of texts and images now accessible to users around the
 world.
 
 {% include image.html
-  img="Homepage banner.png"
+  img="issue05/jegousso-lauro/fig1.png"
   title="*Manioc* Homepage Banner"
   caption="The banner from the homepage of *Manioc: Bibliothèque numérique Caraïbe, Amazonie, Plateau des Guyanes*." %}
 
@@ -92,7 +92,7 @@ throughout Martinique, Guadeloupe, and French Guiana, tasked with
 cataloging, documentation services, and other technical duties.[^7]
 
 {% include image.html
-  img="A preview of Manioc's homepage.png"
+  img="issue05/jegousso-lauro/fig2.png"
   title="*Manioc* Homepage Content"
   caption="A preview of the Manioc homepage. The site's content is organized into five categories, each with two to five subsections, some of which indicate the number of materials available." %}
 
@@ -143,7 +143,7 @@ distilling in photographic form the memories of slaves, resistance, and
 abolitionist struggles from all across the Atlantic.
 
 {% include image.html
-  img="The first collection of \_Ecriture contemporaine Caraïbe - Amazonie\_ dedicated to Guadeloupean author Maryse Condé.png"
+  img="issue05/jegousso-lauro/fig3.png"
   title="Écriture contemporaine Caraïbe—Amazonie"
   caption="In “Écriture contemporaine Caraïbe—Amazonie” (under “Création”), the first collection is dedicated to Guadeloupean author Maryse Condé." %}
 

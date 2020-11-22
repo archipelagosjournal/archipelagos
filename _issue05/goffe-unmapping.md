@@ -23,12 +23,11 @@ language: en
 pdf: true
 ---
 
+{% include epigraph.html
+    quote = "You will find a way."
+    citation = "Jamaican police officer on motorbike giving directions in Mandeville, 2014"
+%}
 
-
-> You will find a way.
->
-> — Jamaican police officer on motorbike giving directions in Mandeville,
-> 2014
 
 The literary and sonic traditions of the archipelago are equally
 critical to Caribbean study. The musical soundtrack of island life is
