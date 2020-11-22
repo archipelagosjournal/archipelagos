@@ -12,7 +12,7 @@ author:
     Kelly Baker Josephs is a professor of English at York College, City University of New York, and a professor of English and digital humanities at the CUNY Graduate Center. She is the author of *Disturbers of the Peace: Representations of Insanity in Anglophone Caribbean Lit­erature* (2013), the founder and former editor of *sx salon: a small axe literary platform*, and the manager of [*The Caribbean Commons*](http://caribbean.commons.gc.cuny.edu/) website.
 date: December 2020
 issue: 5
-order: 4
+order: 3
 abstract: >
   Caribbean autobiography in the mid-twentieth century grew as a method of combatting aporias in literary production and epistemological models, with novelists in particular writing themselves into visibility. But this tradition was predominantly male and decidedly heterosexual. Even as the Caribbean literary canon slowly diversified toward the end of the twentieth century with the inclusion of various life stories, the voices of queer writers remained at low volume, almost muted. This essay reads how those voices were enabled at the turn of the millennium by digital technologies. Reading digital versions of the personal narrative within the historical context of Caribbean autobiography, it examines the self-fashioning twenty-first-century Caribbean writers performed and published via the blogosphere. With particular focus on blogs by two Jamaican writers—Staceyann Chin and Marlon James—it argues that the form and technical features of blogging offered a safe space for queer Caribbean writers to “speak out” in ways that continued the tradition of Caribbean autobiography.
 abstract_fr: >

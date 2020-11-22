@@ -6,13 +6,13 @@ title:
   "short": "Always Together"
 doi: "https://doi.org/#"
 author: 
-- name: Tzarina Prater
+- name: Tzarina T. Prater
   shortname: Prater
   bio: >
     Tzarina T. Prater is an associate professor in the Department of English and Media Studies at Bentley University. She has published articles on Sino-Caribbean literature and culture as well as US spectatorship of Hong Kong action cinema, digital platforms, and science fiction. Her current book project on Chinese Jamaican literary and cultural production, “Labrish and Mooncakes: National Belonging in Chinese Jamaican Cultural Production,” is in process.
 date: December 2020
 issue: 5
-order: 4
+order: 1
 abstract: >
   This essay takes up the question of how diasporic Caribbean subjects deal with death, dying, and grieving in online spaces. With a focus on the genre of *digital diasporic elegy*, the author argues that by analyzing the digital life of a Sino-Caribbean diasporic cultural text, a digital diasporic elegiac practice emerges. This practice allows for consideration of the very code that enables our traversal between digital nodes, thereby allowing for a more nuanced understanding of rituals of mourning in our contemporary moment.
 abstract_fr: >
