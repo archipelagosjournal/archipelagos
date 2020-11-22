@@ -30,14 +30,14 @@ experiences as queer Jamaican writers now living in the United States.
 New York City, the star of both pieces, offered to both "sexiles" the
 refuge and freedom intrinsic to the anonymity and individuality that was
 potentially available far away from their homophobic and claustrophobic
-homeland.[^1] Chin’s 2004 piece declares, "No one cared if I kissed
+homeland.[^1] Chin's 2004 piece declares, "No one cared if I kissed
 girls," and James ends his 2015 piece with this observation: "Nobody
 cared that my jeans had a nine-inch rise. I no longer looked over my
 shoulder in the dark."[^2] The freedom these declarations imply is based
 less on the isolation of the individual on a quest for independence than
-on Chin’s and James’s (re)making of the self via the (re)making of
+on Chin's and James's (re)making of the self via the (re)making of
 community. It is not that no one cared but that a curated constellation
-of people cared differently. Chin’s writing offered her a global stage
+of people cared differently. Chin's writing offered her a global stage
 on which she could gain emotional and financial support by "teaching the
 poetics of writing the self," and James similarly supported his sexile
 by writing his "way out" of Jamaica. Though the narrative of these
@@ -56,7 +56,7 @@ the Caribbean literary canon that attempt such interventions via print
 publications, beginning with early-nineteenth-century narratives such as
 those by the Hart sisters of Antigua (Elizabeth Hart Twaites and Anne
 Hart Gilbert) and *The History of Mary Prince, a West Indian Slave,
-Related by Herself*. Paquet’s argument elsewhere for the "centrality of
+Related by Herself*. Paquet's argument elsewhere for the "centrality of
 the personal narrative to the unfolding creative project that was
 Caribbean literature" positions life-writing as foundational to the
 building of the modern Caribbean canon.[^3] With this essay I hope to
@@ -75,7 +75,7 @@ nonetheless can be read as recent contributions to what Paquet names a
 conceptions of individual and group identity" for Caribbean peoples.[^4]
 In the mid-twentieth century, Caribbean autobiography grew as a method
 of claiming ground in this "contested literary space." From George
-Lamming’s *In the Castle of My Skin* to Derek Walcott’s *Another Life*,
+Lamming's *In the Castle of My Skin* to Derek Walcott's *Another Life*,
 Caribbean writers struggled to combat aporias in literary production and
 epistemological models and write themselves into visibility from the
 margins of colonial empires. But this tradition was predominantly male
@@ -95,16 +95,11 @@ affordances (and limitations) of blogging platforms.
 "Positions of Enunciation"
 --------------------------
 
-> some magic boy named David\\
-> fixed the page\\
-> so now\\
-> I might write you love notes\\
-> more frequent than the drip drip drip\\
-> of mute hellos\\
-> hi world\\
-> here we go again
+{% include epigraph.html
+    quote = "some magic boy named David<br>fixed the page<br>so now<br>I might write you love notes<br>more frequent than the drip drip drip<br>of mute hellos<br>hi world<br>here we go again"
+    citation = "Staceyann Chin. \"Long Time…,\" <em>Cyberjournal</em>, 15 February 2006"
+%}
 
---- Staceyann Chin[^5]
 
 The form of blogging—with its imagined audience(s), networked sites, and
 nested comments—makes evident the tensions and interdependence inherent
@@ -145,19 +140,19 @@ began to turn to blogging to speak themselves into the digital universe
 and to connect to established and potential audiences for their
 nondigital writings. The work that blogs could (and still can) do for
 such Caribbean "litbloggers" is varied.[^7] Blogs might serve the
-function of "reaching out" to readers of one’s published work to simply
+function of "reaching out" to readers of one's published work to simply
 make a connection; they might function to publicize work and
 appearances; they might serve to grow create/grow an audience; they
-might offer insight into an author’s process. In the Caribbean
+might offer insight into an author's process. In the Caribbean
 blogosphere, writers such as Tobias Buckell, Nalo Hopkinson, Nicholas
 Laughlin, and Geoffrey Philp were relatively early adopters of the form,
 embracing the advantages the internet offered for communication with
 various audiences (including among themselves). Although their blogs
-were arguably just as autobiographical as Chin’s and James’s, I narrowed
+were arguably just as autobiographical as Chin's and James's, I narrowed
 my corpus for this essay because I am particularly interested in how
 queer Caribbean writers navigated the shifting terrain of digital
 representation, of self-enunciation and audience. Additionally, the
-timing of Chin’s and James’s blogs offers diverse perspectives of
+timing of Chin's and James's blogs offers diverse perspectives of
 digital autobiographical writing across the peak decade of Caribbean
 blogging. Chin began her cyberjournal in 2001, which was earlier than
 most of her Caribbean contemporaries, and ended in 2006; James began
@@ -167,7 +162,7 @@ media platforms designed specifically for self-representation).
 
 While by the end of the 2000s writers might have questioned if anyone
 was reading *their* blog, they did not question if anyone read blogs at
-all or the legitimacy of blogging as a genre.[^8] Chin’s early posts
+all or the legitimacy of blogging as a genre.[^8] Chin's early posts
 indicate the pervasive uncertainty surrounding her entrance into what
 was then a fairly new field of digital public self-disclosure. Her
 choice of a cyberjournal instead of a titled blog is owed in large part
@@ -182,7 +177,7 @@ appeared around 1994," they were not yet called *blogs*:
 > Posts in these early weblogs were brief, and although the comments
 > usually had a clear individual voice and offered personal opinions,
 > the content was usually comments on news stories and online finds
-> rather than stories from the writer’s life. Weblogs tended to be seen
+> rather than stories from the writer's life. Weblogs tended to be seen
 > in opposition to online diaries, which were more confessional….
 > \[But\] within a few years, the once quite separate genres of online
 > diaries and blogs merged. Blog posts became longer and more
@@ -190,7 +185,7 @@ appeared around 1994," they were not yet called *blogs*:
 > to include more essayistic material and commentary in addition to the
 > autobiographical content.[^9]
 
-Chin’s cyberjournal appeared amid the merging of online diaries and
+Chin's cyberjournal appeared amid the merging of online diaries and
 political and cultural commentaries. Even as her posts slowed in
 frequency after the first two years, she maintained her unique mix of
 uncompromisingly mundane chronicle, large-scale polemic, and snippets of
@@ -203,25 +198,25 @@ ability to post the entries herself and had to send drafts to someone
 with more technical knowledge for posting), we must consider her
 intensely personal style purposeful.[^10]
 
-Chin’s entries chronicle her performance work, her travel and days off,
+Chin's entries chronicle her performance work, her travel and days off,
 her time with lovers/family/friends, and her random interactions with
-people she meets at colleges and the doctor’s office. Threaded through
+people she meets at colleges and the doctor's office. Threaded through
 these seemingly inconsequential revelations are the quotidian
 experiences of micro and macro aggressions against Caribbean queerness
-and Chin’s insistent claiming of her right to Jamaicanness, to Brooklyn,
+and Chin's insistent claiming of her right to Jamaicanness, to Brooklyn,
 and to something approaching "home." As with more polished, published
-autobiographical narratives, Chin’s cyberjournal imagines that the
+autobiographical narratives, Chin's cyberjournal imagines that the
 details of her life represent a larger import for her readers.
 Sometimes, however, the technicalities of web-writing, which were new to
-her and had to be filtered through her webmaster’s mysterious magic,
+her and had to be filtered through her webmaster's mysterious magic,
 distanced her from her imagined audience. When shifting her posts to a
 new site in early 2002, she temporarily lost the comments section of the
 cyberjournal, and in several of her posts she questions whether anyone
 is listening. On 3 March 2002, in her first post to the cyberjournal in
-its new home, she writes, "I’m rambling because it feels like I’m
+its new home, she writes, "I'm rambling because it feels like I'm
 talking to a blank screen. I was more connected when people were
 responding to stuff I was writing. Hopefully people will respond again
-and then it won’t be such a one-sided unorgasmic experience."[^11] The
+and then it won't be such a one-sided unorgasmic experience."[^11] The
 comments section for her posts soon began to fill again, however, and
 the pleasures of self-enunciation resumed.
 
@@ -229,14 +224,16 @@ Strategic Enunciations: What to Tell, and How
 ---------------------------------------------
 
 
-> But so many of us have things that need to be said, and the Internet is the only place where those voices can be heard."
+{% include epigraph.html
+    quote = "But so many of us have things that need to be said, and the Internet is the only place where those voices can be heard."
+    citation = "Marlon James quoted in Laughlin, \"Talking to Jamaican Writer and
+    Blogger Marlon James.\""
+%}
 
---- Marlon James[^12]
-
-
-> Such is the temperament of the technological crapshoot that frames our small lives."
-
---- Staceyann Chin[^13]
+{% include epigraph.html
+    quote = "Such is the temperament of the technological crapshoot that frames our small lives."
+    citation = "Staceyann Chin. \"May 21, 2002,\" <em>Cyberjournal</em>; printout in author's possession."
+%}
 
 
 In general, I have organized this essay around three questions of
@@ -258,13 +255,13 @@ in the early twenty-first century.
 What could be written of queer Caribbean selfhood on blogs of this time?
 The answer is elusive, since it lies as much in what was not written as
 in what was and could be written, both via the available technologies
-and in a public space. For the "not written" we can look to a post’s
+and in a public space. For the "not written" we can look to a post's
 comments, which might reveal silences and silencings by the blogger, or
 to unmentioned events signaled as contemporary by the time/date stamps
 built into most blog technologies. But even nondigital autobiographies
 by queer Caribbean writers have had to contend with necessary silences
 and the constraints of form in order to tell truths larger than an
-individual life. Michelle Cliff’s first book, *Claiming an Identity They
+individual life. Michelle Cliff's first book, *Claiming an Identity They
 Taught Me to Despise*, is a collection of autobiographical writings
 published in 1980 that weaves together myth, literature, and personal
 history with a blend of prose and poetry. Cliff begins by declaring, "I
@@ -299,22 +296,22 @@ autobiographical nature of the blog is most visible in his discussions
 of his work, his process of writing, and his work to become a writer.
 Readers learn more about James the capital-W Writer than James the
 person. That is, until about five months into the blog, in November
-2006, when he suddenly gifts readers with the post "Where I’m Coming
+2006, when he suddenly gifts readers with the post "Where I'm Coming
 From," which details two life-shaping moments for the young Marlon, in
 primary and secondary school in Jamaica, and ends with the revelation of
 a drastic decision:
 
 > There was just no way I could continue like this, hated because I like
-> art and lit and history, didn’t like football (soccer) and walked and
+> art and lit and history, didn't like football (soccer) and walked and
 > talked funny. I realized that more than everything, it must have been
 > my screwed up way of speaking that made people hate me.
 >
 > So in the summer of 1987 I stopped speaking.[^19]
 
-James’s next blog post, published a week later, discusses writing sex
+James's next blog post, published a week later, discusses writing sex
 scenes in literary fiction: "When it comes to good explicit action the
 gays guys seem to have it locked even if the straight audiences may not
-want to read it."[^20] There’s no mention of the revelation in the prior
+want to read it."[^20] There's no mention of the revelation in the prior
 post, making its last sentence about his refusal to speak a cliffhanger
 of monstruous proportions. Perhaps the full stop after "stopped
 speaking" is meant to reinforce the decision of the young Marlon. Yet
@@ -325,7 +322,7 @@ unnecessary, and positions of enunciation are unfixed. One can tell and
 tell, and then not tell. One can simply "stop speaking," then begin
 anew, elsewhere, in the next post.
 
-In 2013–14, James returned to some of the material in "Where I’m Coming
+In 2013–14, James returned to some of the material in "Where I'm Coming
 From" for a vaguely fictional, second-person-perspective, thirteen-part
 series of vignettes for the online literary publication *Revolver*,[^21]
 and then again for his more-well-known 2015 essay "From Jamaica to
@@ -345,7 +342,7 @@ impulse to suture posts if they seek the stories told by the gaps,
 paradoxes, and silences. The writers themselves often aim to present a
 unitary subject in their blogs, repeating anecdotes and referring to
 previous posts to weave together a composite but coherent identity.
-James’s reworking of material from his blog, first to the *Revolver*
+James's reworking of material from his blog, first to the *Revolver*
 series and then to the *New York Times* *Magazine* essay, forces us to
 pay closer attention to how he leveraged the blog format to tell (and to
 not-tell) as he worked out how he wanted to form this autobiographical
@@ -357,8 +354,8 @@ Side of Paradise*, which crafts into a linear narrative several of the
 stories she had previously told via her blog, her poetry, and her
 one-woman shows.[^24] Her navigation of various positions of enunciation
 becomes obvious as the same stories are retold and refashioned. More
-supple than James’s reworking of his stories of silence and subterfuge
-for *Revolver* and later the *New York Times*, Chin’s autobiographical
+supple than James's reworking of his stories of silence and subterfuge
+for *Revolver* and later the *New York Times*, Chin's autobiographical
 narratives are revised across genres and reordered several times. In the
 (cyber)space of her cyberjournal, which allowed for polemic, poetry,
 dramatic monologue, and asynchronous dialogue with readers, Chin could
@@ -393,7 +390,7 @@ the time experimenting with the affordances of digital platforms.
 Navigating Digital Networks
 ---------------------------
 
-Nicholas Laughlin’s 2006 *Global Voices* post titled "11 Key Moments in
+Nicholas Laughlin's 2006 *Global Voices* post titled "11 Key Moments in
 \[Anglo-\] Caribbean Blog History" provides an overview of how Caribbean
 bloggers in the 2000s took themselves seriously as a network and took
 blogging seriously as a genre.[^26] Being a part of this networked crew
@@ -407,8 +404,8 @@ selves. The rise of social media platforms such as Facebook, Twitter,
 and Instagram has contributed to the decline of Caribbean blogging. In
 different ways, each of these platforms has become a site for
 "microblogging," where one can present open-ended (and endlessly open to
-comment) snippets of one’s life. And where the more one writes, the
-faster one’s past posts disappear down the timeline, a timeport of
+comment) snippets of one's life. And where the more one writes, the
+faster one's past posts disappear down the timeline, a timeport of
 "supermodernity."[^28] The ease of posting to such social media spaces,
 versus crafting and publishing a blog post, and the near-instant rewards
 of social media likes and comments (themselves also often easier to
@@ -419,7 +416,7 @@ their posting activity considerably.
 
 The blog posts and corresponding comments that remain available to us
 today are evidence of the active network of Caribbean bloggers that
-existed before the decline in the 2010s. Some of James’s posts reference
+existed before the decline in the 2010s. Some of James's posts reference
 Laughlin, Geoffrey Philp, or Annie Paul as inspirations (or instigators)
 for the content, particularly for lists or challenges such as in "Five
 Note Mojo" and "Five Songs I Must Have on My i-Pod."[^29] Although Chin,
@@ -432,16 +429,16 @@ stemmed from a playful taunt by Laughlin in his 2006 *Global Voices*
 post "West Indian Literature Online." When listing current bloggers in
 the "small, vibrant, and growing literary sector in the Caribbean
 blogosphere," Laughlin prodded: "And maybe Marlon James—whose first
-novel, *John Crow’s Devil*, was nominated for both a Commonwealth
-Writers’ Prize and a Los Angeles Times Book Prize—will start a ‘real’
-blog one of these days—meanwhile, he’s been keeping a so­called ‘plog’
-over at Amazon.com, where he’s been writing about, among other things,
+novel, *John Crow's Devil*, was nominated for both a Commonwealth
+Writers' Prize and a Los Angeles Times Book Prize—will start a ‘real'
+blog one of these days—meanwhile, he's been keeping a so­called ‘plog'
+over at Amazon.com, where he's been writing about, among other things,
 Jean Rhys and literacy in Jamaica."[^31] On 29 May, James commented on
-Laughlin’s post: "Alright! Alright! Damn it! I will set up my blog and
-stop with this ‘plogging’ business right away." And the first post on
+Laughlin's post: "Alright! Alright! Damn it! I will set up my blog and
+stop with this ‘plogging' business right away." And the first post on
 his personal blog is dated 30 May. From posts and comments like these—on
 sites such as *Global Voices* as well as on popular personal blogs such
-as Annie Paul’s *Active Voice* and Geoffrey Philp’s blog—we can trace
+as Annie Paul's *Active Voice* and Geoffrey Philp's blog—we can trace
 the ways this Caribbean digital network shaped many of the blog posts
 published.[^32] Reading across blog posts and comments, we become privy
 to some of the workings of these networked influences: the conversations
@@ -470,20 +467,20 @@ And the material we do have some access to can be overwhelming in scope
 Still, less than fifteen years after Chin closed her cyberjournal, and
 ten years after James stopped posting on his blog, there is significant
 and traceable evidence of what might be considered archival loss.
-Although I have a sizeable portion of Chin’s early cyberjournal entries
+Although I have a sizeable portion of Chin's early cyberjournal entries
 saved in hard copy, and the Internet Archive provides additional access
 through 2006, the blog is no longer available on her website. When I
-began this project, I felt an urgency to capture James’s 2006–9 blog
+began this project, I felt an urgency to capture James's 2006–9 blog
 before he decided it was not in keeping with his post–Booker Prize self,
 but I later learned that sometime between 2007 and 2010 he had already
 significantly revamped the blog to reflect his post–*Night Women* self.
 Such archival gaps are often strategic, and in many ways they are built
-into each author’s initial technological choices: James used BlogSpot,
-which allows for (his) deletion of all comments; and Chin’s site was
+into each author's initial technological choices: James used BlogSpot,
+which allows for (his) deletion of all comments; and Chin's site was
 built on Adobe Flash technology that is no longer supported online. In a
 2003 interview I conducted with Chin, she revealed, "The kind of
 half-poems that exist in my journal never go anywhere else. There are no
-copies of them anywhere else. If my website crashes…that’s it."[^33] Of
+copies of them anywhere else. If my website crashes…that's it."[^33] Of
 course, that never really is "it" when one participates in digital
 community, but the threat and allure of deletion remain integral parts
 of writing the self online. Revision and deletion, the opportunity to
@@ -498,7 +495,7 @@ users are more familiar with this paradox of the permanent-but-ephemeral
 archive of digital writing.[^34] But what did digital permanence mean
 for bloggers when the genre was relatively new and search engines were
 limited? For this reason, I have been selective in my use of materials
-from Chin’s and James’s digital writings. I recognize that my own
+from Chin's and James's digital writings. I recognize that my own
 archiving of posts that were perhaps created with ephemerality in mind
 may be counter to the safety net that I argue blogging provided in those
 early years. At the same time, I want to convey the spirit of this
@@ -510,9 +507,9 @@ responded,
 > A lot of white straight history is allowed into the canon. Even the
 > idea of the canon is very white and straight and I feel like the web
 > gives us the place where we can write our own histories. Whether
-> they’re relevant or irrelevant. I don’t send out emails to people with
+> they're relevant or irrelevant. I don't send out emails to people with
 > my cyberjournal entries in them; I chose not to do that for a reason.
-> So it is only the ones who want to come. And that’s what I like about
+> So it is only the ones who want to come. And that's what I like about
 > it.
 >
 > The net gives you a way to grow maybe longer and wider fingers.[^35]
@@ -523,7 +520,7 @@ domain. Frequently expressing doubt about the venture, they nevertheless
 continued to write themselves, pushing against canonical expectations
 while creating digital space for others in a collective of Caribbean
 voices. As Sandra Pouchet Paquet writes, "Self-focus enhances rather
-than diminishes authority; it serves to establish the author’s
+than diminishes authority; it serves to establish the author's
 credibility in a cultural space of his own creation."[^36] With their
 self-focused writings, Chin and James propelled themselves into a
 literary tradition while also wrestling with the myopia of that
@@ -547,10 +544,10 @@ anonymous peer reviewers for *archipelagos*.
 
 [^1]: Manuel Guzmán is credited with coining *sexile* to describe
     exclusion, or exile, from a home community because of an
-    individual’s sexual orientation. The term has been further explored
+    individual's sexual orientation. The term has been further explored
     and expanded by Yolanda Martínez-San Miguel, and Jeannine
     Murray-Román has applied it directly to Staceyann Chin. See Manuel
-    Guzmán, "*Pa’ la escuelita con mucho cuida’o y por la orillita*: A
+    Guzmán, "*Pa' la escuelita con mucho cuida'o y por la orillita*: A
     Journey through the Contested Terrains of the Nation and Sexual
     Orientation," *Puerto Rican Jam: Rethinking Colonialism and
     Nationalism*, ed. Frances Negrón-Muntaner and Ramón Grosfoguel
@@ -578,10 +575,6 @@ anonymous peer reviewers for *archipelagos*.
     Identity and Self-Representation* (Madison; University of Wisconsin
     Press, 2002), 261.
 
-[^5]: Staceyann Chin, "Long Time…," *Cyberjournal*, 15 February 2006;
-    archived at
-    <https://web.archive.org/web/20070704082425/http:/www.staceyannchin.com/archives/000085.html>.
-
 [^6]: Stuart Hall, "Cultural Identity and Diaspora," in *Identity:
     Community, Culture, Difference*, ed. Jonathan Rutherford (London:
     Lawrence and Wishart, 1990), 222. Hall published an earlier version
@@ -590,7 +583,7 @@ anonymous peer reviewers for *archipelagos*.
     title indicates, in the version I quote here, Hall has shifted his
     focus a bit more toward diasporic identity formation.
 
-[^7]: I take the term *litbloggers* from Nicholas Laughlin’s interview
+[^7]: I take the term *litbloggers* from Nicholas Laughlin's interview
     series with Caribbean bloggers on *Global Voices*. The series begins
     with "Talking to Jamaican Litblogger Geoffrey Philp" on 14 May 2007,
     <https://globalvoices.org/2007/05/14/talking-to-jamaican-litblogger-geoffrey-philp/>.
@@ -600,7 +593,7 @@ anonymous peer reviewers for *archipelagos*.
 
 [^8]: When asked in an interview with Nicholas Laughlin if he felt his
     blog had "widened the audience for \[his\] fiction," James
-    responded, "I’m not even sure that people read what I write." But
+    responded, "I'm not even sure that people read what I write." But
     shortly before that he also reveals, "My friend Don Lee is convinced
     that my blog persona is a completely different person. A creative
     writing teacher told me once that my literary persona is a far
@@ -616,27 +609,22 @@ anonymous peer reviewers for *archipelagos*.
 [^10]: In her 31 March 2002 entry, Chin refers to a spoof of her site
     that parodies her intimate, diaristic style of blog writing and her
     centering of her sexuality in those writings. Textual clues on
-    Chin’s and others’ blogs indicate this parody was done by Peter Dean
+    Chin's and others' blogs indicate this parody was done by Peter Dean
     Rickards, a Jamaican photographer who ran the popular website
     *Afflicted Yard* (I have not, however, been able to find the parody
     itself online).
 
 [^11]: Staceyann Chin, "March 03, 2002," *Cyberjournal*; printout in
-    author’s possession.
+    author's possession.
 
-[^12]: Marlon James, quoted in Laughlin, "Talking to Jamaican Writer and
-    Blogger Marlon James."
-
-[^13]: Staceyann Chin, "May 21, 2002," *Cyberjournal*; printout in
-    author’s possession.
 
 [^14]: Michelle Cliff, *Claiming an Identity They Taught Me to Despise*
     (Watertown, MA: Persephone, 1980), 3.
 
 [^15]: Audre Lorde, acknowledgments to *Zami: A New Spelling of My Name*
-    (Berkeley, CA: Crossing, 1982), n.p. Lorde’s "biomythography" had
+    (Berkeley, CA: Crossing, 1982), n.p. Lorde's "biomythography" had
     originally been published in 1982 by Persephone Press, which had
-    also published Cliff’s *Claiming an Identity*. I note this as
+    also published Cliff's *Claiming an Identity*. I note this as
     potential evidence of the difficulties queer writers of color may
     have had in gaining, and maintaining, access to publishing their
     stories. Persephone was a small independent press specializing in
@@ -650,7 +638,7 @@ anonymous peer reviewers for *archipelagos*.
     Mississippi, 2004), 111; originally published in *Gay News*
     (Philadelphia), 15 March 1984.
 
-[^16]: I am thinking here of Lisa Lowe’s categorization of autobiography
+[^16]: I am thinking here of Lisa Lowe's categorization of autobiography
     as a "genre of liberty." In her reading of *The Interesting
     Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the
     African*, Lowe argues, "The intense social value accorded the
@@ -669,7 +657,7 @@ anonymous peer reviewers for *archipelagos*.
     (blog), 10 June 2006,
     <http://marlon-james.blogspot.com/2006/06/on-x-men-3.html>.
 
-[^19]: Marlon James, "Where I’m Coming From," *Marlon James: Among Other
+[^19]: Marlon James, "Where I'm Coming From," *Marlon James: Among Other
     Things…*, 27 November 2006,
     <http://marlon-james.blogspot.com/2006/11/where-im-coming-from.html>.
 
@@ -678,7 +666,7 @@ anonymous peer reviewers for *archipelagos*.
     <http://marlon-james.blogspot.com/2006/12/spacebreak-sex.html>.
 
 [^21]: The project begins with "Part 1: Cop a Feel for All Your Sins,"
-    on 13 May 2013, and continues through to "Part 13: You’re Now about
+    on 13 May 2013, and continues through to "Part 13: You're Now about
     to Witness the Strength of Street Knowledge," on 7 August 2014.
     *Revolver* was a digital publication produced by a literary arts
     organization based in Lowertown, St. Paul. See
@@ -693,7 +681,7 @@ anonymous peer reviewers for *archipelagos*.
     very much searches, me writing towards finding what I really want to
     say. For some reason that feels more natural in a blog format, the
     act of getting my s\*\*t together. In print, my post about ‘The
-    Bigots On My Bookshelf’ would seem unformed and slightly
+    Bigots On My Bookshelf' would seem unformed and slightly
     inconclusive, but online it seems like what it is, my going through
     a process." Laughlin, "Talking to Jamaican Writer and Blogger Marlon
     James."
@@ -734,13 +722,13 @@ anonymous peer reviewers for *archipelagos*.
     "Five Songs I Must Have on My i-Pod," *Marlon James: Among Other
     Things…*, 13 March 2008,
     <http://marlon-james.blogspot.com/2008/03/five-songs-i-must-have-on-my-i-pod.html>.
-    There are currently no comments visible on James’s blog, but the
+    There are currently no comments visible on James's blog, but the
     content of some posts indicates that they were open to comments at
     the time, and some of these comments are available on Internet
     Archive captures of the site.
 
 [^30]: See Murray-Román, "Staceyann Chin and Zoe Valdés," for more on
-    Chin’s usage of hyperlinks in her blog.
+    Chin's usage of hyperlinks in her blog.
 
 [^31]: See Nicholas Laughlin, "West Indian Literature Online," *Global
     Voices*, 28 April 2006,
@@ -752,7 +740,7 @@ anonymous peer reviewers for *archipelagos*.
 [^33]: Kelly Baker Josephs, "Ventriloquising the Caribbean: Interview
     with Staceyann Chin," *Jamaica Journal* 30, no. 3 (2007): 31.
 
-[^34]: I am thinking here of Sonya Donaldson’s forthcoming essay "The
+[^34]: I am thinking here of Sonya Donaldson's forthcoming essay "The
     Ephemeral Archive." But with autobiographical blogs, particularly
     queer Caribbean blogs, as I note later in the paragraph I am uneasy
     with the "degree of vigilance and labor" that Donaldson recommends
