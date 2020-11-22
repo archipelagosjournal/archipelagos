@@ -26,10 +26,12 @@ pdf: false
 
 Dedicated to the memory of Kamau Brathwaite, 1930–2020
 
-"All that I have of her is voices"
+---
 
-—Kamau Brathwaite, "Ancestors"
-
+{% include epigraph.html
+    quote = "All that I have of her is voices."
+    citation = "Kamau Brathwaite, \"Ancestors\""
+%}
 
 
 New media technologies enabled Edward Kamau Brathwaite's revolutionary
