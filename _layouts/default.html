@@ -11,9 +11,9 @@
          content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
       <div class="masthead">
-        <a id="logo" href="{{site.baseurl}}/"><img src="{{ site.baseurl }}/public/logo.png" height="64px" width="72px" alt="archipelagos logo"/></a>
+        <a id="logo" href="{{ site.baseurl }}/index.html"><img src="{{ site.baseurl }}/public/logo.png" height="64px" width="72px" alt="archipelagos logo"/></a>
         {% unless page.title == "home" or page.title contains "Issue" %}
-        <span class="running-title"><a href="/">archipelagos</a></span>
+        <span class="running-title"><a href="{{ site.baseurl }}/index.html">archipelagos</a></span>
         {% endunless %}
 
 <!--         <a class="header-title" href="{{ site.baseurl }}/index.html">archipelagos</a> -->
