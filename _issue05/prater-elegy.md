@@ -318,7 +318,7 @@ inform Cheng of the existence of Krish Raghav's longform comic
 *Topic Magazine*.[^18]
 
 {% include image.html
-  img="issue05/prater/fig8.jpg"
+  img="issue05/prater/fig8.png"
   title="Redemption Songs"
   caption="Figure 8. Cover art to Krish Raghav's \"Redemption Songs\" in *Topic Magazine*."
   url="https://www.topic.com/redemption-songs" %}
@@ -480,7 +480,7 @@ of home during a time of civil war, the subsequent remove to America,
 and feelings of dislocation compounded by his attending two of the
 arguably top institutions in America for music and education but still
 being relegated to \"ethnic performances\" because of North American
-racism and stereotypes. Lee and Cheng are \"together,\" in terms of both
+racism and stereotypes.[^fd1] Lee and Cheng are \"together,\" in terms of both
 being Chinese diasporic subjects, and the \"always\" in the song's title
 can be read as suggesting a perpetuity to their diasporic condition.
 
@@ -1003,7 +1003,9 @@ Globalization*. Jackson: University Press of Mississippi, 2017.
     solutions, the kind of mathematics that give us classical mechanics
     and other triumphs of modern science has little traction in the case
     of complex systems, which leaves us with simulations and discursive
-    explanations.\" []{#_Hlk52824057 .anchor}N. Katherine Hayles,
+    explanations.\" N. Katherine Hayles,
     \"Computing Kin,\" prologue to *My Mother Was a Computer: Digital
     Subjects and Literary Texts* (Chicago: University of Chicago Press,
     2005), 5–6.
+
+[^fd1]: In \"Stephen Cheng Released One Single That Sounded Like Nothing Else. But Who Was He?,\" Hua Hsu notes that the Juiliard trained Cheng was cast in roles in what are now deemed problematic Broadway shows \"The World of Suzie Wong\" and \"Flower Drum Song.\" (The New Yorker, August 23, 2019) <https://www.newyorker.com/culture/culture-desk/stephen-cheng-released-one-single-that-sounded-like-nothing-else-but-who-was-he>.
