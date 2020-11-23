@@ -240,7 +240,7 @@ imaginary practice that sought to “know” as much as it sought to claim
 the island for European powers.
 
 {% include image.html
-  img="West Indies, Christopher Columbus Map.jpg"
+  img="issue05/goffe/fig1.jpg"
   title="West Indies, Christopher Columbus, 1492–93"
   caption="Figure 1. A map of Insula hispana by Christopher Columbus, 1492–93."
   url="https://gsp.yale.edu/sites/default/files/images/hispaniola-1492map-lg.jpg" %}
@@ -257,7 +257,7 @@ States. Students who were of Caribbean origin expressed shame at having
 only “a sense” of the geography of their homelands.
 
 {% include image.html
-  img="Goffe\_Student Map1.png"
+  img="issue05/goffe/fig2.png"
   title="Maps from Memory"
   caption="Figure 2. To start the project, students drew maps of five Caribbean locations from memory." %}
 
@@ -282,7 +282,7 @@ archipelagic and served as a starting point for unmapping, a palmistry
 of wayfinding (fig. 3).
 
 {% include image.html
-  img="Goffe\_YouWillFindAWay.JPG"
+  img="issue05/goffe/fig3.JPG"
   title="You Will Find a Way"
   caption="Figure 3. Tao Leigh Goffe, *You Will Find a Way*, 2018. A mid-sixteenth century map projected onto my hand became the anchoring image for the *Unmapping the Caribbean* project." %}
 
@@ -332,7 +332,7 @@ Thus we began our joint unmapping quest—one professor, nineteen
 students, and three technologists.[^22]
 
 {% include image.html
-  img="Goffe\_Postcard.png"
+  img="issue05/goffe/fig4.png"
   title="Dear X"
   caption=" Figure 4. My “from the diaspora” postcard for the Post(card)s from the “en dehors garde” project, which became the landing page image for *Unmapping the Caribbean*." %}
 
@@ -483,7 +483,7 @@ patwa offered the students a way to theorize sonic modes of declaring
 independence through the theatricality of Jamaicanisms.
 
 {% include image.html
-  img="Goffe\_Unmapping1.png"
+  img="issue05/goffe/fig5.png"
   title="Xaymaca: Wi Likkle but Wi Tallawah"
   caption="Figure 5. The story map of Jamaica for *Unmapping the Caribbean*." %}
 
@@ -531,7 +531,7 @@ website is a decolonial practice of coalition building; these students
 did not want the Manahatta map to fall into the “wrong” hands.
 
 {% include image.html
-  img="Goffe\_Unmapping2.png"
+  img="issue05/goffe/fig6.png"
   title="New York as Caribbean City: Gentrification as Colonization"
   caption="Figure 6. A side map featuring layers of gentrification is part of the story map of New York City for *Unmapping the Caribbean*."%}
 
@@ -571,7 +571,7 @@ of the rainforest that is commonly described as “the interior” in
 Suriname.
 
 {% include image.html
-  img="Goffe\_Unmapping3.png"
+  img="issue05/goffe/fig7.png"
   title="Surinen: Mapping the Interior"
   caption="Figure 7. Part of the story map of Suriname for *Unmapping the Caribbean* pairs time-lapse video of blooming flowers with text by Gloria Wekker." %}
 
@@ -613,7 +613,7 @@ border, especially the 1937 “parsley massacre” and the more recent
 deportations of Afro-Dominicans.[^40]
 
 {% include image.html
-  img="Goffe\_Unmapping4.png"
+  img="issue05/goffe/fig8.png"
   title="Kiskeya/Quisqueya: A Journey along/through the Border"
   caption="Figure 8. The Hispaniola story map for *Unmapping the Caribbean* follows a journey along, and through, the border between Haiti and the Dominican Republic." %}
 
@@ -636,7 +636,7 @@ classroom presentation of this story map was vibrant—students began to
 dance and gave the group a standing ovation.
 
 {% include image.html
-  img="Goffe\_Unmapping5.png"
+  img="issue05/goffe/fig9.png"
   title="Cubao: Santería from Obscurity to Hypervisiblity"
   caption="Figure 9. The story map of Cuba for *Unmapping the Caribbean* explores Santería as a cultural phenomenon." %}
 
