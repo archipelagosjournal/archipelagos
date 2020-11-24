@@ -23,6 +23,9 @@ language: en
 pdf: true
 ---
 
+*For Cheryl Wall (1948-2020)*
+
+---
 
 The night of 19 June 2020 marked the conclusion of 40 Nights of the
 Voice, a digital wake initiated by Ronald Cummings, Nalini Mohabir, and
