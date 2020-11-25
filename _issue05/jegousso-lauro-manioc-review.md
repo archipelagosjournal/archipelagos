@@ -31,8 +31,8 @@ its ten-year anniversary in 2019, continues to nurture knowledge,
 reflection, and research on history, cultures, rituals, and people of
 the Caribbean and South and Central America.[^1] Indeed, this extensive
 digital library of the Caribbean, Amazonia, and the Guiana Shield has
-allowed for a better “understanding of the complex relationship that
-these regions have maintained with the rest of the world” by making
+allowed for a better "understanding of the complex relationship that
+these regions have maintained with the rest of the world" by making
 visible a long-ignored regional heritage and by enhancing productions
 from and on the Caribbean and the surrounding territories.[^2] It also
 provides researchers with authentic and original documents, amounting to
@@ -75,15 +75,15 @@ leader in Caribbean digital initiatives.
 According to Anne Pajard, a trained engineer who leads and manages
 *Manioc* from the Schœlcher campus in Martinique, it makes sense that
 such a challenging project found its rhizomatic roots within the
-Caribbean and South American regions: “In the 1970s, university
+Caribbean and South American regions: "In the 1970s, university
 libraries of the Caribbean took on a specific role given the
 deficiencies of public libraries, the vulnerability of patrimonial
 holdings in a tropical climate, and the influence of intellectual
-movements engaged in the postcolonial reconstruction of society.”[^5] In
+movements engaged in the postcolonial reconstruction of society."[^5] In
 fact, *Manioc*'s team illustrates this idea by creating and maintaining
 a network of librarians, scholars, and institutions across the Caribbean
-Sea and its surrounding coasts, keeping alive the “manioc
-civilization.”[^6] Alongside a scientific committee led by Gerry L'Etang
+Sea and its surrounding coasts, keeping alive the "manioc
+civilization."[^6] Alongside a scientific committee led by Gerry L'Etang
 (professor of anthropology at the University of the Antilles) and
 Sylvain Houdebert (director of the Documentation Services in
 Martinique), *Manioc* is run by [a
@@ -97,37 +97,37 @@ cataloging, documentation services, and other technical duties.[^7]
   caption="A preview of the Manioc homepage. The site's content is organized into five categories, each with two to five subsections, some of which indicate the number of materials available." %}
 
 The *Manioc* digital library is mainly organized into five categories,
-displayed on the [homepage](http://www.manioc.org/): “Patrimoine”
-(“Heritage”); “Thématiques” (“Themes”); “Recherche” (“Research”);
-“Création” (“Creation”), a collection of new initiatives; and “Revues
-universitaires” (“Scholarly Journals”). Each section is then divided
+displayed on the [homepage](http://www.manioc.org/): "Patrimoine"
+("Heritage"); "Thématiques" ("Themes"); "Recherche" ("Research");
+"Création" ("Creation"), a collection of new initiatives; and "Revues
+universitaires" ("Scholarly Journals"). Each section is then divided
 into anywhere from two to five subsections, with some headings
-indicating how many documents are viewable. The section “Patrimoine,”
-for example, offers “Livres anciens” (“Rare Books”), with 2,698
-documents; “Images,” a collection of more than 15,000 items; and
-“Catalogue collectif des périodiques,” a valuable collection of hundreds
+indicating how many documents are viewable. The section "Patrimoine,"
+for example, offers "Livres anciens" ("Rare Books"), with 2,698
+documents; "Images," a collection of more than 15,000 items; and
+"Catalogue collectif des périodiques," a valuable collection of hundreds
 of periodical titles, essentially from the Caribbean cultural
 production. The section also offers two slavery databases: the
-still-expanding “Esclaves de Guyane” (“Slaves of French Guiana”) and the
-“Esclavage en Martinique,” (“Slavery in Martinique”) which concerns more
+still-expanding "Esclaves de Guyane" ("Slaves of French Guiana") and the
+"Esclavage en Martinique," ("Slavery in Martinique") which concerns more
 than 14,700 enslaved people and indexes more than 3,200 notarial
-reports. The “Thématiques” section is subdivided into the topics “Or”
-(“Gold”) and “Esclavage et résistances” (“Slavery and Resistance”),
+reports. The "Thématiques" section is subdivided into the topics "Or"
+("Gold") and "Esclavage et résistances" ("Slavery and Resistance"),
 which might have presented a more substantial thematical category about
 slavery in the Americas had it been combined with the two preceding
 subsections. From this organization of the site structure emerges the
 project's main goal—to go beyond the role of a digital library and to
-render “visible the invisible,” creating a space where indigenous people
+render "visible the invisible," creating a space where indigenous people
 of the Caribbean, anticolonial struggles, and Creole and minor languages
 studies can take the forefront. As a digital initiative, *Manioc*
 gathers materials from several fields, making it an interdisciplinary
 platform aimed at uniting all useful information pertaining to this
 cultural area.
 
-The “Création” section demonstrates more explicitly the diversity of
-materials available on *Manioc*. The first subsection, “Écritures
-contemporaines Caraïbe—Amazonie” (“Contemporary Caribbean and Amazonian
-Writings”)—a project begun in January 2019—aims to gather archives and
+The "Création" section demonstrates more explicitly the diversity of
+materials available on *Manioc*. The first subsection, "Écritures
+contemporaines Caraïbe—Amazonie" ("Contemporary Caribbean and Amazonian
+Writings")—a project begun in January 2019—aims to gather archives and
 unpublished and rare documents related to Caribbean authors. The first
 collection (as of March 2020) is dedicated to Guadeloupean writer Maryse
 Condé, who donated her archives to the University of the Antilles. This
@@ -135,21 +135,21 @@ section notably includes her 1976 doctoral thesis; an unpublished novel,
 *Les Pharisiens*; several interviews and photographs; recent scholarship
 on her work; and a forum through which users are invited to help
 complete the digital bibliography of work by and on Condé. The second
-subsection, “Mémoires et creations” (“Memory and Creation”), focuses on
+subsection, "Mémoires et creations" ("Memory and Creation"), focuses on
 the work of photographers whose themes relate to the intangibility of
 cultural heritage, including the Italian photographer Nicola Lo Calzo,
-who has been developing the “Cham Project” for the past ten years,
+who has been developing the "Cham Project" for the past ten years,
 distilling in photographic form the memories of slaves, resistance, and
 abolitionist struggles from all across the Atlantic.
 
 {% include image.html
   img="issue05/jegousso-lauro/fig3.png"
   title="Écriture contemporaine Caraïbe—Amazonie"
-  caption="In “Écriture contemporaine Caraïbe—Amazonie” (under “Création”), the first collection is dedicated to Guadeloupean author Maryse Condé." %}
+  caption="In \"Écriture contemporaine Caraïbe—Amazonie\" (under \"Création\"), the first collection is dedicated to Guadeloupean author Maryse Condé." %}
 
 In practical terms, the library hosts more than twenty-one thousand
 documents and provides access to more than thirty thousand additional
-items from other web portals*.* The historical documents (numbering
+items from other web portals. The historical documents (numbering
 around two thousand, including essays, novels, travel notebooks,
 pamphlets, poetry, and administrative notes, as well as nine thousand
 images dating from the seventeenth to the twentieth century) come
@@ -161,18 +161,18 @@ two thousand videos have been collected during these events. Having this
 temporal duality between historical and contemporary materials on a
 single platform allows for an ongoing dialog between the past and the
 present. This makes for a dynamic space and highlights *Manioc*'s
-intention to be emblematic of a “Caribbean library,” which does not meet
+intention to be emblematic of a "Caribbean library," which does not meet
 the criteria of a linear history, as explained by Martinican author
-Édouard Glissant in *Caribbean Discourse*: “Our quest for the dimension
-of time will therefore be neither harmonious nor linear.”[^8]
+Édouard Glissant in *Caribbean Discourse*: "Our quest for the dimension
+of time will therefore be neither harmonious nor linear."[^8]
 
 Based on the ascertainment that a gap has existed between old and
 contemporary collections, revealing a problem of circulation between
 productions, *Manioc*'s team also developed projects in four categories:
-archival, scientific, editorial, and creative. The initiative “Catalogue
-collectif des périodiques Caraïbes-Amazonie” was launched to preserve,
+archival, scientific, editorial, and creative. The initiative "Catalogue
+collectif des périodiques Caraïbes-Amazonie" was launched to preserve,
 archive, and index mostly contemporary local periodicals (see the
-“Patrimoine” section). As of today, these abundant and diverse
+"Patrimoine" section). As of today, these abundant and diverse
 bibliographical references are linked to physical collections across
 sixteen libraries. We hope a digitization project will soon be initiated by *Manioc*'s team to
 make those precious and often confidential documents accessible online.
@@ -180,16 +180,16 @@ Sciencewise, *Manioc* supports the [Program of Applied Research to
 Popular Medicine in the Caribbean](http://www.tramil.net) (TRAMIL),
 which includes the work of more than two hundred experts in the fields
 of ethnobotany, chemistry, pharmacology, medicine, and social work (see
-the “Recherche” section).[^9] As for the editorial category, the digital
+the "Recherche" section).[^9] As for the editorial category, the digital
 library promotes three publications led by faculty members at the
 University of the Antilles: [*Études
 Caribéennes*](http://etudescaribeennes.revues.org),
 [*Archipélies*](https://www.archipelies.org), and [*Contextes et
-Didactiques*](https://journals.openedition.org/ced/) (see the “Revues
-universitaires” section).[^10] Lastly, creatively speaking, the
-subsection “Mémoires et creations” includes work by contemporary artists
+Didactiques*](https://journals.openedition.org/ced/) (see the "Revues
+universitaires" section).[^10] Lastly, creatively speaking, the
+subsection "Mémoires et creations" includes work by contemporary artists
 focusing on traditional activities and rituals shared widely across
-Caribbean region (see the “Création” section).
+Caribbean region (see the "Création" section).
 
 Technically, *Manioc* is an open-access library, meaning all documents
 can be accessed, consulted, and downloaded for free from any location*.*
@@ -269,29 +269,29 @@ Since 2017, Jégousso and Lauro have managed the [*Library of Glissant Studies*]
 [^1]: See http://www.manioc.org. The site is in French, with links for
     Google translation to English and Spanish.
 
-[^2]: “Compréhension des relations complexes que ces régions ont
-    entretenu avec le reste du monde”; Anne Pajard, “Manioc.org: Une
-    bibliothèque numérique aux racines de la Caraïbe-Amazonie,”
+[^2]: "Compréhension des relations complexes que ces régions ont
+    entretenu avec le reste du monde"; Anne Pajard, "Manioc.org: Une
+    bibliothèque numérique aux racines de la Caraïbe-Amazonie,"
     *Ar(abes)ques*, no. 86 (July–September 2017): 20.
 
 [^3]: At the time of *Manioc*'s creation, these universities were a
     single entity, the University of the French West Indies and Guiana.
 
-[^4]: For a complete list of partners, see “Partenaires,” *Manioc*,
+[^4]: For a complete list of partners, see "Partenaires," *Manioc*,
     http://www.manioc.org/partenaires.html.
 
-[^5]: “Les bibliothèques universitaires de la Caraïbe ont pris dans les
+[^5]: "Les bibliothèques universitaires de la Caraïbe ont pris dans les
     années 1970 une place spécifique liée aux carences de la lecture
     publique, à la vulnérabilité particulière du patrimoine en climat
     tropical et à l'influence des mouvements intellectuels engagés dans
-    la reconstruction postcoloniale de la société,” Pajard,
-    “Manioc.org,” 21.
+    la reconstruction postcoloniale de la société," Pajard,
+    "Manioc.org," 21.
 
-[^6]: See Patrice Bidou, “Une civilisation du manioc amer,” in *Le mythe
+[^6]: See Patrice Bidou, "Une civilisation du manioc amer," in *Le mythe
     de Tapir Chamane: Essai d'anthropologie psychanalytique* (Paris:
     Jacob, 2001), 56–57.
 
-[^7]: See “Présentation,” *Manioc*,
+[^7]: See "Présentation," *Manioc*,
     http://www.manioc.org/presentation.html.
 
 [^8]: See Édouard Glissant, *Caribbean Discourse: Selected Essays*,

@@ -24,7 +24,7 @@ pdf: false
 ---
 
 
-Dedicated to the memory of Kamau Brathwaite, 1930–2020
+*Dedicated to the memory of Kamau Brathwaite, 1930–2020*
 
 ---
 
@@ -129,7 +129,7 @@ versioning: his continuous rearrangement and re-presentation of existing
 poems in new forms. The term *versioning* as I use it here is itself
 intimately connected to the history of sound recording in the Caribbean.
 In the early 1960s, Jamaican producers began to use dub plates
-(impermanent acetate discs) in the "process of ‘versioning,' a method of
+(impermanent acetate discs) in the "process of 'versioning,' a method of
 serially recycling recorded material developed by producers desiring to
 ensure the longest commercial life for a given piece of recorded music
 despite economic constraints and a limited pool of musicians."[^10] By
@@ -180,7 +180,7 @@ all the drafts after the first one were influenced by the sound on the
 tape." Tape was, in fact, the poem's first medium of "publication."
 According to the liner note to a CD version of the *The Arrivants*, the
 first publicly aired recording was made in Jamaica in 1965 "on his reel
-to reel ‘with all the natural sounds inside it'—wind, waves, cocks
+to reel 'with all the natural sounds inside it'—wind, waves, cocks
 crowing, dogs barking, cars passing, people walking, talking."[^16]
 Brathwaite's account reveals the value he places on each recording—be it
 mixed with music or ambient noise—as a unique version of his poetic
@@ -852,7 +852,7 @@ of speaking and listening might bring.
     work (<http://writing.upenn.edu/pennsound/x/Brathwaite.php>), and
     according to Janet Neigh, the Poetry Archive, thanks to the
     Caribbean Poetry Project, "features more Caribbean poets than most."
-    See Janet Neigh, "Digitizing the ‘Sound Explosions' of Anglophone
+    See Janet Neigh, "Digitizing the 'Sound Explosions' of Anglophone
     Caribbean Performance Poetry," *archipelagos journal*, no. 1 (June
     2016),
     <https://archipelagosjournal.org/issue01/neigh-digitizing.html>.
@@ -1025,7 +1025,7 @@ of speaking and listening might bring.
 
 [^38]: The rhythm of Brathwaite's performance conforms closely to
     Shannon Dudley's representation of the basic perceived calypso beat.
-    Shannon Dudley, "Judging ‘By the Beat': Calypso versus Soca,"
+    Shannon Dudley, "Judging 'By the Beat': Calypso versus Soca,"
     *Ethnomusicology* 40, no. 2 (1996): 277, fig. 4c.
 
 [^39]: Ibid., 272.
@@ -1095,9 +1095,9 @@ of speaking and listening might bring.
     Modern Black Literature* (Baltimore, MD: Johns Hopkins University
     Press, 2017), 193.
 
-[^51]: Loretta Collins, "From the ‘Crossroads of Space' to the
+[^51]: Loretta Collins, "From the 'Crossroads of Space' to the
     (Dis)Koumforts of Home: Radio and the Poet as Transmuter of the Word
-    in Kamau Brathwaite's ‘Meridian' and *Ancestors*," *Anthurium* 1,
+    in Kamau Brathwaite's 'Meridian' and *Ancestors*," *Anthurium* 1,
     no. 1 (2003): n.p., <doi:10.33596/anth.2>.
 
 [^52]: Pollard, *New World Modernisms*, 126.
