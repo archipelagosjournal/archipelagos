@@ -34,7 +34,7 @@ Dedicated to the memory of Kamau Brathwaite, 1930–2020
 %}
 
 
-New media technologies enabled Edward Kamau Brathwaite's revolutionary
+New media technologies enabled Kamau Brathwaite's revolutionary
 poetic approach; digital technologies likewise enable us to study and
 teach his groundbreaking work in new ways. I teach Brathwaite's work at
 both undergraduate and graduate levels in a state research university in
@@ -44,7 +44,7 @@ second-year course on poetry and music, in which I seek to challenge the
 primacy of the written text and the clear-cut distinction between poetry
 and music. I find that approaching poetry in this way requires my
 students and me to unlearn the traditional focus on the written text in
-literary study, but that the pedagogical rewards more than compensate
+literary studies, but that the pedagogical rewards more than compensate
 for this challenge. Students begin my courses with no particular
 background in orature. Yet once these digital natives have overcome
 their initial prejudices favoring written text, they find that a close
@@ -73,7 +73,7 @@ increasing emphasis on the spoken word in the study of poetry is
 reflected in and enabled by online platforms such as YouTube, Facebook,
 and Twitter, through which many poets in and beyond the Caribbean now
 distribute their work. The turn to the recorded word is also marked by
-poetry audio–archive projects such as the Poetry Archive and
+audio-archive projects such as the Poetry Archive and
 PennSound.[^3] Yet despite this increasing attention to and availability
 of recordings via the internet, close listening remains a largely
 unexplored field and one that is particularly important and valuable in
@@ -103,7 +103,7 @@ integrate audio clips and analysis and so model the kind of close
 listening approach required for both studying and teaching Brathwaite.
 
 A close listening approach enables students to explore Brathwaite's
-intertwining of performance, *versioning*, sound, music, and vernacular
+intertwining of performance, versioning, sound, music, and vernacular
 with his political, historical, and social concerns. First, it upsets
 students' assumptions about the primacy of the written text and
 encourages them to treat each recording, live rendition, and equally
@@ -116,8 +116,7 @@ twenty-first-century sound recording and of the turn to vernacular and
 dialect in modernist poetry. Third, teaching Brathwaite through audio
 rather than written text allows students to grasp in a concrete way
 Brathwaite's emphasis on sound and voice as an embodiment of the history
-and politics of the Caribbean through the politics of speaking and
-listening. It thus also draws attention to the politics of the classroom
+and politics of the Caribbean. It thus also draws attention to the politics of the classroom
 situation, which, like Brathwaite's poetry, requires listening and
 response through aural and oral acts of communication.
 
@@ -200,7 +199,7 @@ mid-1960s; the recordings made on a large Akai reel-to-reel machine for
 the Caribbean Artists Movement in London in the late 1960s; the LP
 versions of his *Arrivants* trilogy released in the late 1960s and early
 1970s; the cassette tape recordings of his readings and lectures from
-the 1970s through the 1990s; and the digital recordings across various
+the 1970s to the 1990s; and the digital recordings across various
 formats made over the last two to three decades.
 
 Today it is much easier to teach Brathwaite through close listening
@@ -208,8 +207,7 @@ thanks to the distribution of multiple recordings of his work online
 through sites such as PennSound. Digital archives enhance the ability of
 teachers to present Brathwaite's recordings in class and of students to
 access those files outside class. At the same time, these digital audio
-files threaten to diminish our attention to the different media on which
-these performances were recorded. It matters, for instance, that
+files threaten to diminish our attention to the different media used to record these performances. It matters, for instance, that
 Brathwaite first made extensive use of homemade audio recordings through
 the medium of reel-to-reel tape. It also matters that listeners
 approaching the LP versions of *The Arrivants* would encounter the
@@ -223,23 +221,25 @@ downloadable MP3 files. However, it is precisely for this reason that
 teaching Brathwaite through close listening is also an opportunity to
 have students reflect on the specificity of these media and how we
 encounter them differently when we approach them through online digital
-archives or through this online multimedia essay. Close listening to
-Brathwaite should prompt us to consider the incompleteness and
+archives or through this online multimedia essay. 
+
+Close listening to
+Brathwaite should also prompt us to consider the incompleteness and
 contingencies of the archival record of sound recording. What is
 currently available online, for instance, is only a fraction of the
 extant audio record associated with Brathwaite. Moreover, many
 predigital recordings, such as the 1965 tape-recording of *Rights of
 Passage* that Brathwaite's cites as the poem's first form of
 publication, have likely been lost forever.[^17] Brathwaite's archive in
-Jamaica destroyed by Hurricane Gilbert in 1988 reportedly contained many
+Jamaica, destroyed by Hurricane Gilbert in 1988, reportedly contained many
 unique audio recordings. Close listening to Brathwaite enables a larger
 reflection on the nature of digital audio archives: what they can tell
 us and what they leave unsaid.
 
 Grasping versioning through close listening also provides a way into
 Brathwaite's use of oral and musical traditions. Brathwaite's use of
-music has been extensively documented and analyzed by Gordon Rohlehr,
-Loretta Collins, Lilieth Nelson, Donette Francis, and others. One way to
+music has been extensively documented and analyzed by Rohlehr,
+Collins, Lilieth Nelson, Donette Francis, and others. One way to
 develop a sense of close listening attuned to musicality is for students
 to listen to the sources Rohlehr identifies alongside the poems.[^18]
 The effectiveness of this approach is, however, greatly enhanced by
@@ -323,13 +323,13 @@ for instance, exists, in a published version under that name, only as an
 audio recording of a 1994 performance, although the closely related
 cycle "Rwanda" appears in print as part 3 of "New Gods of the Middle
 Passages" in Brathwaite's 2001 *Kamau Monograph*.[^22] In the "New Gods"
-version, however, not all "The Rwanda Poems" falls into the "Rwanda"
+version, however, not all of "The Rwanda Poems" falls into the "Rwanda"
 section, and the poems are reordered and arranged alongside additional
 poems and other print material. The performed cycle "The Rwanda Poems"
 is itself an amalgam of poems from *The Arrivants*, including "Negus"
 and part of "Caliban," and newer work, again reflecting Brathwaite's
 practice of refashioning his existing material. In the recording of
-"Rwanda Poems," Brathwaite explains how his versioning practice includes
+"The Rwanda Poems," Brathwaite explains how his versioning practice includes
 both his Sycorax video-style and his performances. He describes how the
 poems "are layered or interfaced with some earlier material . . . to
 create another effect from that earlier material."[^23]
@@ -397,7 +397,7 @@ interrupts his poems to comment on them.[^29] Close listening to all
 these variations provides the basis for a discussion of the text
 informed by an awareness of its constitutive multiplicity.
 
-Brathwaite's poetics of versioning can be related to what he calls "montage" and "calibanisms." To illustrate the role of montage, I have students listen to Brathwaite performing "The Emigrants"[^30] in his 1987 International Poetry Forum performance.
+Brathwaite's poetics of versioning can be related to what he calls "montage" and "calibanisms," **the name he gives to his punning word combinations and new coinages**.[^30] To illustrate the role of montage, I have students listen to Brathwaite performing "The Emigrants"[^30] in his 1987 International Poetry Forum performance.
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/12%20KB%20Emigrants%20montage%20IPF%201987.mp3"
@@ -405,7 +405,7 @@ Brathwaite's poetics of versioning can be related to what he calls "montage" and
 %}
 
 
- In this performance, Brathwaite interrupts the poem to
+In this performance, Brathwaite interrupts the poem to
 say that this is the first time he used the technique of montage in his
 poetry, referring to how the poem superimposes the experience of
 Caribbean migrants traveling to Britain after the Second World War on
@@ -418,7 +418,7 @@ way.
 
 In addition to drawing a parallel between Brathwaite's montage
 techniques and his versioning of his poems, I also note how these
-versions are larger-scale instances of his frequent reiterations of
+versions are larger-scale instances of his reiterations and rearrangements of
 words. These word repetitions—or "insistences," in Gertrude Stein's
 sense—appear frequently in Brathwaite's punning, paronomastic
 poetry.[^31] For example, Brathwaite links "semicolons" and
@@ -498,7 +498,7 @@ drumming and in the musical or timed rhythm of a calypso.[^38] The
 difference between spoken and musically timed speech evident in the
 recording unsettles the stress patterns of standard English in a way
 that recalls the distinctive stress given to the final syllables of some
-words in Caribbean English. I point out to students that the deviations
+words in some varieties of Caribbean English. I point out to students that the deviations
 from expected stress patterns and traditional English meters parallel
 the way Western music fails to "differentiate between the many patterns
 of accent that are possible in a musical period," a failure that led
@@ -579,8 +579,7 @@ lecture.[^50]
 Through a close listening approach, Brathwaite's turn to the technology
 of the computer can be seen in the light of his earlier use of audio
 technologies. Close listening to Brathwaite helps reveal the multiple
-ways his use of oral, folk, and musical traditions (and these traditions
-themselves) engage twentieth- and twenty-first-century technologies,
+ways his use of oral, folk, and musical traditions engages twentieth- and twenty-first-century technologies,
 from radio to the computer.[^51] Recognizing Brathwaite's indebtedness
 to audio technologies unsettles the contention that his use of the new
 technology of the computer contradicts his earlier emphasis on folk,
@@ -764,8 +763,8 @@ calypso-singing masquerader."[^65] Listening to the Segue recording,
 students hear Brathwaite pose the question "How can we succeed?" They
 also hear him identify an answer to that question in the "belly-drum
 centred" tradition developed throughout the reading, from the "it / it /
-it" of "Negus" through the "Kon kon
-kon kon / kun kun kun kun" of "Atumpan" and the "dumb /
+it" of "Negus" through the "*Kon kon
+kon kon* / *kun kun kun kun*" of "Atumpan" and the "dumb /
 dumb / dumb" of "Shepherd" to the
 revolutionary "beat dem drums / dem" drumbeat of "Wings of a Dove."[^66] 
 
@@ -798,7 +797,7 @@ performance of "Negus."[^67]
   title = "Negus Segue kingdom of word"
 %}
 
-Close listening to "The Twist" thus
+Close listening to "The Twist" in the context of the Segue reading thus
 underscores the interplay between exploitation and emancipation in
 Brathwaite's poetics through the poem's affirmation of rhythm and music
 emerging from injustice and suffering and through the way this tension
@@ -821,16 +820,15 @@ of speaking and listening might bring.
 
 [^1]: Early examples of the increased attention to the audio text can be
     found in Douglas Kahn and Gregory Whitehead, eds., *Wireless
-    Imagination* (Cambridge, MA: MIT Press, 1992); Adalaide Morris, ed.,
-    *Sound States Innovative Poetics and Acoustical Technologies*
+    Imagination: Sound, Radio, and the Avant-Garde* (Cambridge, MA: MIT Press, 1992); Adalaide Morris, ed.,
+    *Sound States: Innovative Poetics and Acoustical Technologies*
     (Chapel Hill: University of North Carolina Press, 1997); and Charles
-    Bernstein, ed., *Close Listening* (New York: Oxford University
+    Bernstein, ed., *Close Listening: Poetry and the Performed Word* (New York: Oxford University
     Press, 1998)*.*
 
 [^2]: For example, Lesley Wheeler, *Voicing American Poetry: Sound and
     Performance from the 1920s to the Present* (Ithaca, NY: Cornell
-    University Press, 2008); Susan B. A. Somers-Willett, *Identity and
-    the Performance of Popular Verse in America* (Ann Arbor: University
+    University Press, 2008); Susan B. A. Somers-Willett, *The Cultural Politics of Slam Poetry: Race, Identity, and the Performance of Popular Verse in America* (Ann Arbor: University
     of Michigan Press, 2009); Tyler Hoffman, *American Poetry in
     Performance: From Walt Whitman to Hip Hop* (Ann Arbor: University of
     Michigan Press, 2011); Jill S. Kuhnheim, *Beyond the Page: Poetry
@@ -845,19 +843,19 @@ of speaking and listening might bring.
     Writing, Performance, and Community in Youth Spoken Word Poetry*
     (Amherst: University of Massachusetts Press, 2018).
 
-[^3]: See the Poetry Archive, https://poetryarchive.org, and PennSound,
+[^3]: See the Poetry Archive, <https://poetryarchive.org>, and PennSound,
     a project of the Center for Programs in Contemporary Writing,
     University of Pennsylvania,
-    https://www.writing.upenn.edu/pennsound/. Although Caribbean poets
+    <https://www.writing.upenn.edu/pennsound>. Although Caribbean poets
     are generally underrepresented in these archives, PennSound does
     contain numerous digital and digitized recordings of Brathwaite's
-    work (http://writing.upenn.edu/pennsound/x/Brathwaite.php), and
+    work (<http://writing.upenn.edu/pennsound/x/Brathwaite.php>), and
     according to Janet Neigh, the Poetry Archive, thanks to the
     Caribbean Poetry Project, "features more Caribbean poets than most."
     See Janet Neigh, "Digitizing the ‘Sound Explosions' of Anglophone
     Caribbean Performance Poetry," *archipelagos journal*, no. 1 (June
     2016),
-    https://archipelagosjournal.org/issue01/neigh-digitizing.html.
+    <https://archipelagosjournal.org/issue01/neigh-digitizing.html>.
 
 [^4]: Anne Walmsley, *The Caribbean Artists Movement, 1966*–*1972: A
     Literary and Cultural History* (London: New Beacon, 1992), 83. See
@@ -872,7 +870,7 @@ of speaking and listening might bring.
     not communicate to their public." Kamau Brathwaite, International
     Poetry Forum performance, recorded 7 February 1988, Pittsburgh,
     PennSound,
-    https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Brathwaite-Kamau\_Intl-Poetry-Forum\_Pitts\_Feb-7-1988.mp3,
+    <https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Brathwaite-Kamau\_Intl-Poetry-Forum\_Pitts\_Feb-7-1988.mp3>,
     at 32:52–33:10.
 
 [^6]: Gordon Rohlehr, "West Indian Poetry: Some Problems of Assessment,"
@@ -896,7 +894,7 @@ of speaking and listening might bring.
 [^9]: The eCompanion of four audio files that accompanies Sherwood's
     "Elaborate Versionings" (as well as a downloadable PDF of the essay)
     are at
-    https://journal.oraltradition.org/elaborate-versionings-characteristics-of-emergent-performance-in-three-print-oral-aural-poets.
+    <https://journal.oraltradition.org/elaborate-versionings-characteristics-of-emergent-performance-in-three-print-oral-aural-poets>.
     At the end of the essay Sherwood includes a transcription of
     Brathwaite's recorded performance of "Angel/Engine" side by side
     with the print version.
@@ -906,9 +904,9 @@ of speaking and listening might bring.
     55.
 
 [^11]: Dick Hebdige, *Cut 'n' Mix: Culture, Identity, and Caribbean
-    Music* (York, UK: Methuen, 1987), 12.
+    Music* (New York: Methuen, 1987), 12.
 
-[^12]: See Evelyn O'Callaghan, *Woman Version: Theoretical Approaches to
+[^12]: Evelyn O'Callaghan, *Woman Version: Theoretical Approaches to
     West Indian Fiction by Women* (New York: St Martin's, 1993). 
 
 [^13]: Kamau Brathwaite, *The Poet and His Place in Barbadian Culture*
@@ -928,11 +926,11 @@ of speaking and listening might bring.
 
 [^17]: For more on this 1965 recording of *Rights of Passage*, see the
     liner notes to *The Arrivants*; Walmsley, *Caribbean Artists
-    Movement*, 41; and Kamau Brathwaite,* *"Comments on CAM Text," part
+    Movement*, 41; and Kamau Brathwaite,"Comments on CAM Text," part
     2, 1 January 1991, 19, Caribbean Artists Movement: Papers of Anne
     Walmsley, GB 2904 CAM/14/1/2, George Padmore Institute Archive,
-    London. I know of no extant copies of this 1965 recording nor of his
-    *History of the Voice*, which Brathwaite notes was one of the items
+    London. I know of no extant copies of this 1965 recording nor of the recording of his
+    *History of the Voice* lecture, which Brathwaite notes was one of the items
     in his archive damaged or destroyed by Hurricane Gilbert. See Sonya
     Posmentier, *Cultivation and Catastrophe: The Lyric Ecology of
     Modern Black Literature* (Baltimore, MD: Johns Hopkins University
@@ -950,7 +948,7 @@ of speaking and listening might bring.
     no. 1 (2003): n. p. I use *versioning* rather than *revision*, the
     term Savory favors in her account of mainly page-based versions of
     Brathwaite's poems, in order to the underscore how Brathwaite's
-    recording practice it analogous to dub version with its rejection of
+    recording practice is analogous to dub versioning with its rejection of
     the notion of an original version, a rejection that Savory herself
     notes is critical to Brathwaite's iterative poetics. See Elaine
     Savory, "Journey from Catastrophe to Radiance: A Review Essay
@@ -959,7 +957,7 @@ of speaking and listening might bring.
     126–47, doi: 10.1353/tra.0.0077.
 
 [^21]: Kamau Brathwaite, *Barabajan Poems: 1492–1992* (New York: Savacou
-    North, 1994); Graeme Rigby, "Publishing Brathwaite: Adventures in
+    North, 1994). On the links between Brathwaite’s video-style and his recorded performances, see also Graeme Rigby, "Publishing Brathwaite: Adventures in
     the Video Style," *World Literature Today* 68 (1994): 710.
 
 [^22]: Kamau Brathwaite, "Rwanda," part 3 of "New Gods of the Middle
@@ -984,13 +982,15 @@ of speaking and listening might bring.
 [^27]: Kamau Brathwaite, "Kumina," in *Born to Slow Horses* (Lebanon,
     NH: University Press of New England, 2005), 2006 Griffin Poetry
     Prize performance,
-    http://www.griffinpoetryprize.com/see-and-hear-poetry/a-g/kamau-brathwaite/.
+    <http://www.griffinpoetryprize.com/see-and-hear-poetry/a-g/kamau-brathwaite>.
 
 [^28]: Brathwaite, Segue reading (complete reading), PennSound (extract:
     40:24–41:05).
 
 [^29]: Sherwood, "Elaborate Versionings," 134.
 
+[^30]: Edward Kamau Brathwaite, *Sun Poem* (Oxford: Oxford University Press, 1982), 100.
+    
 [^30]: Kamau Brathwaite, 1987 International Poetry Forum performance,
     PennSound (extract: 34:31–37:51).
 
@@ -1011,7 +1011,7 @@ of speaking and listening might bring.
     show hosted by Leonard Schwartz, show number 16, recorded 2 February
     2004, PennSound, at 3:10; International Poetry Forum performance,
     recorded 3 November 1999, *International Poetry Forum Archive*,
-    http://ipf.carlow.edu/Files/149a13c1-aca4-e741-9c02-bcd916c5f3d4.mp3,
+    <http://ipf.carlow.edu/Files/149a13c1-aca4-e741-9c02-bcd916c5f3d4.mp3>,
     at 19:29; *Poetry in Performance*, vol. 2, CD, 57 Productions, 2003;
     "The Rwanda Poems," *Kamau Brathwaite and Allen Ginsberg*; and Segue
     reading, PennSound.
@@ -1042,7 +1042,7 @@ of speaking and listening might bring.
 [^41]: Brathwaite, "Ancestors," 1987 International Poetry Forum
     performance, PennSound, at 16:39 (extract 19:35–20:13); and
     "Soweto," 1988 International Poetry Forum performance, PennSound, at
-    47:02 (extract 56:50–57:07). In the text I reflect the typographic
+    47:02 (extract 56:50–57:07). In the text I follow the typographic
     treatment Brathwaite gives "Soweto" in *Middle Passages* (New York:
     New Directions, 1992), 83.
 
@@ -1078,7 +1078,7 @@ of speaking and listening might bring.
     and Ishion Hutchinson. See "The Playlist,"
     *Braithwaite&Hutchinson—Anthologies of Sound: Listening to the
     Caribbean*,
-    https://braithwaitehutchinson.wordpress.com/the-playlist/.
+    <https://braithwaitehutchinson.wordpress.com/the-playlist>.
 
 [^49]: Brathwaite, *History of the Voice*, 17.
 
@@ -1098,7 +1098,7 @@ of speaking and listening might bring.
 [^51]: Loretta Collins, "From the ‘Crossroads of Space' to the
     (Dis)Koumforts of Home: Radio and the Poet as Transmuter of the Word
     in Kamau Brathwaite's ‘Meridian' and *Ancestors*," *Anthurium* 1,
-    no. 1 (2003): n.p., doi:10.33596/anth.2.
+    no. 1 (2003): n.p., <doi:10.33596/anth.2>.
 
 [^52]: Pollard, *New World Modernisms*, 126.
 

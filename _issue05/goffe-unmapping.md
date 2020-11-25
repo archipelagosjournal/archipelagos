@@ -14,11 +14,11 @@ date: December 2020
 issue: 5
 order: 5
 abstract: >
-  Tackling the conceptual grounds of how maps have been deployed as tools of imperial capitalist extraction, this essay critiques how the two-dimensional visualization of land has traditionally flattened the racial entanglement of the Caribbean archipelago. It explores the potential for born-digital cartography to open up a new sensory possibility for understanding space amplified by sonic and video technologies. The author embarked on the digital project *Unmapping the Caribbean* with her students and a team of technologists, employing Esri’s ArcGIS Story Maps platform to examine the contours of *marronage* and indigeneity in five geographies: New York City, Suriname, Hispaniola, Cuba, and Jamaica. The project anchors the relationality of sedimented racial histories in the archipelago through the concept of “unmapping”—that is, by creating digital audiovisual story maps of the five Caribbean spaces. Centering the way sound orients the human body in space, the project examines the politics of the opacity of spaces of black and indigenous refuge in Caribbean and Caribbean diasporic communities. The essay considers the pedagogical stakes of collaborative digital assignments that include mapmaking and producing visual soundtracks. The five geographic narratives that *Unmapping the Caribbean* has woven together are part of an ongoing project that aims to articulate archipelagic being. 
+  Tackling the conceptual grounds of how maps have been deployed as tools of imperial capitalist extraction, this essay critiques how the two-dimensional visualization of land has traditionally flattened the racial entanglement of the Caribbean archipelago. It explores how born-digital cartography can be used to open up a new sensory possibility for understanding space amplified by sonic and video technologies. The author embarked on the digital project *Unmapping the Caribbean* with her students and a team of technologists, employing Esri’s ArcGIS Story Maps platform to examine the contours of *marronage* and indigeneity in five geographies: New York City, Suriname, Hispaniola, Cuba, and Jamaica. The project anchors the relationality of sedimented racial histories in the archipelago through the concept of “unmapping”—that is, by creating digital audiovisual story maps of the five Caribbean spaces. Centering the way sound orients the human body in space, the project examines the politics of the opacity of spaces of black and indigenous refuge in Caribbean and Caribbean diasporic communities. The essay considers the pedagogical stakes of collaborative digital assignments that include mapmaking and producing visual soundtracks. The five geographic narratives that *Unmapping the Caribbean* has woven together are part of an ongoing project that aims to articulate archipelagic being. 
 abstract_fr: >
-  Tackling the conceptual grounds of how maps have been deployed as tools of imperial capitalist extraction, this essay critiques how the two-dimensional visualization of land has traditionally flattened the racial entanglement of the Caribbean archipelago. It explores the potential for born-digital cartography to open up a new sensory possibility for understanding space amplified by sonic and video technologies. The author embarked on the digital project *Unmapping the Caribbean* with her students and a team of technologists, employing Esri’s ArcGIS Story Maps platform to examine the contours of *marronage* and indigeneity in five geographies: New York City, Suriname, Hispaniola, Cuba, and Jamaica. The project anchors the relationality of sedimented racial histories in the archipelago through the concept of “unmapping”—that is, by creating digital audiovisual story maps of the five Caribbean spaces. Centering the way sound orients the human body in space, the project examines the politics of the opacity of spaces of black and indigenous refuge in Caribbean and Caribbean diasporic communities. The essay considers the pedagogical stakes of collaborative digital assignments that include mapmaking and producing visual soundtracks. The five geographic narratives that *Unmapping the Caribbean* has woven together are part of an ongoing project that aims to articulate archipelagic being.  
+  Tackling the conceptual grounds of how maps have been deployed as tools of imperial capitalist extraction, this essay critiques how the two-dimensional visualization of land has traditionally flattened the racial entanglement of the Caribbean archipelago. It explores how born-digital cartography can be used to open up a new sensory possibility for understanding space amplified by sonic and video technologies. The author embarked on the digital project *Unmapping the Caribbean* with her students and a team of technologists, employing Esri’s ArcGIS Story Maps platform to examine the contours of *marronage* and indigeneity in five geographies: New York City, Suriname, Hispaniola, Cuba, and Jamaica. The project anchors the relationality of sedimented racial histories in the archipelago through the concept of “unmapping”—that is, by creating digital audiovisual story maps of the five Caribbean spaces. Centering the way sound orients the human body in space, the project examines the politics of the opacity of spaces of black and indigenous refuge in Caribbean and Caribbean diasporic communities. The essay considers the pedagogical stakes of collaborative digital assignments that include mapmaking and producing visual soundtracks. The five geographic narratives that *Unmapping the Caribbean* has woven together are part of an ongoing project that aims to articulate archipelagic being.  
 abstract_es: >
-  New media technologies—from the tape recorder to the computer—enabled Kamau Brathwaite’s revolutionary poetic approach; digital technologies likewise enable us to study and teach his groundbreaking work in new ways. This essay argues that teaching and studying Brathwaite should begin with the audible word not the written text and that digital audio archives and platforms can play a key role in enabling this approach. Digital audio archives such as PennSound and the Poetry Archive allow students and scholars to approach Brathwaite’s work by listening closely to a wide range of sound recordings. This essay demonstrates the utility of this close listening approach by taking advantage of the digital platform of *archipelagos journal* to interweave its text with Brathwaite’s recorded voice. It not only demonstrates the value of approaching Brathwaite’s work through digital sound recordings but also argues for a larger overturning of critical, pedagogical, and essayistic conventions in literary studies through a methodological turn away from the page.
+  Tackling the conceptual grounds of how maps have been deployed as tools of imperial capitalist extraction, this essay critiques how the two-dimensional visualization of land has traditionally flattened the racial entanglement of the Caribbean archipelago. It explores how born-digital cartography can be used to open up a new sensory possibility for understanding space amplified by sonic and video technologies. The author embarked on the digital project *Unmapping the Caribbean* with her students and a team of technologists, employing Esri’s ArcGIS Story Maps platform to examine the contours of *marronage* and indigeneity in five geographies: New York City, Suriname, Hispaniola, Cuba, and Jamaica. The project anchors the relationality of sedimented racial histories in the archipelago through the concept of “unmapping”—that is, by creating digital audiovisual story maps of the five Caribbean spaces. Centering the way sound orients the human body in space, the project examines the politics of the opacity of spaces of black and indigenous refuge in Caribbean and Caribbean diasporic communities. The essay considers the pedagogical stakes of collaborative digital assignments that include mapmaking and producing visual soundtracks. The five geographic narratives that *Unmapping the Caribbean* has woven together are part of an ongoing project that aims to articulate archipelagic being.
 language: en
 pdf: true
 ---
@@ -43,7 +43,7 @@ course, which is both born-digital and born-musical, students annotated
 literature and songs using online platforms in the first iteration in
 2015.[^1] The course has become more digitally and musically engaged as
 I have encouraged students to produce their own soundtracks, embedding
-them in maps in a practice I call “sonic mapping.” This multisensorial
+them in maps in a practice I call “sonic un/mapping.” This multisensorial
 method of reading the Caribbean archipelago attunes a spatial awareness.
 Sonic analysis requires attention to the spatial because sound is quite
 literally how our ears perceive the vibrations that bounce off our
@@ -79,7 +79,7 @@ Sylvia Wynter has conceptualized as *indigenization*, Little Roy
 “unmaps” the Caribbean, challenging the fixity of Columbus’s colonial
 map through a sonic and lyrical reordering of time and space.[^6]
 
-In our sonic unmapping in my course, I ask students to think about how
+In our sonic un/mapping in my course, I ask students to think about how
 they would map Babylon as a geographic, historic, and imagined place in
 the context of reggae lyrics. Similarly, I ask them to think about the
 intertextuality of reggae and Rastafari to the Hebrew Bible and the
@@ -119,7 +119,7 @@ grounds that Wynter describes at the periphery of the colonial
 plantation.[^8] The echoes that reverberate through the karstic
 mountainous terrain of Jamaica’s Cockpit Country and Blue Mountains are
 an intimate part of Caribbean geography that narrates the meaning of
-refuge for black and Native peoples on the island.
+refuge for black and native peoples on the island.
 
 To geolocate Caribbean space through literature and music is to chart
 archipelagic being. It decenters ocularcentric forms of knowledge
@@ -134,9 +134,9 @@ unmapping is about unknowing and uncharting the territory. To welcome
 not knowing allows one to be receptive to other forms of knowledge. The
 West Indies are, after all, a misnaming, so why continue to depend on a
 Columbian geographic misrecognition for reading the archipelago? The
-colonial map obscures this relationality of Wynter’s indigenization and
-Kamau Brathwaite’s creolization by enforcing the geography of the
-European metropole on the archipelago.[^9] Toward unmapping, I challenge
+colonial map obscures this dialectic between Wynter’s indigenization and
+Kamau Brathwaite’s creolization by enforcing 
+European geography on the archipelago.[^9] Toward unmapping, I challenge
 my students to consider a spatial politics centering spaces of Caribbean
 refuge carved out by indigenous peoples and Maroons across the
 archipelago. Some clues are embedded in place names, but again, music
@@ -220,8 +220,8 @@ technologies will never comprehend. With its arteries, veins, and
 capillaries; its curves; its wrinkles—the body is a terrain, unmapped
 and unmappable. Thus as someone of Caribbean descent, I began with my
 body, literally using my hand to anchor the project. I sought to locate
-the where the affective mutual coordinates of the “intimacies” of
-Africa, Asia, and Europe meet in the Caribbean.[^19]
+the affective mutual coordinates of the “intimacies” of
+Africa, Asia, and Europe in the Caribbean.[^19]
 
 The first European map of the Caribbean, a 1492–93 drawing by
 Christopher Columbus, amounts to a few squiggles and splotches of ink
@@ -231,7 +231,7 @@ island is the epicenter, the first place of disembarking, the cradle. I
 find Columbus’s map inscribed with playful desire and possibility—as
 much a fantasy as a tool of navigation for further colonial conquest.
 The ways Haiti and the Dominican Republic are peripheral to the map of
-America, even though Columbus never stepped foot on the mainland, then
+"America," even though Columbus never stepped foot on the mainland, then
 become a conundrum of hemispheric mapmaking origins. In my process of
 unmapping, I was led to a later map of Hispaniola, dating to the
 mid-sixteenth century, that had been drafted by Italian geographer
@@ -504,7 +504,7 @@ students remixed reggae songs using echoing and reverb DJ effects to
 consider how Bob Marley forms a global sonic imaginary, putting Jamaica
 and the broader Caribbean on the world map, so to speak.
 
-The New York group was named Manahatta, the Lenape word meaning “place
+The New York group was named Mannahatta, the Lenape word meaning “place
 where the wood is gathered.” New York City, where roughly a quarter of
 the recorded population is Caribbean (as of 2013), allowed an
 opportunity to meditate on how many more Caribbean people call New York
@@ -642,7 +642,7 @@ dance and gave the group a standing ovation.
 
 Continuing on the theme of negotiating and defining Afrolatiniad and
 Latinx identity in the Caribbean, students in the Cuba group, named
-Cubao, the original Taíno name, titled their story map “Cuban Santería:
+Cubao (meaning “abundant,” derived from the country’s original indigenous name, Cubanascnan) titled their story map “Cuban Santería:
 Religious Transformation from Obscurity to Hypervisiblity” (fig.
 9).[^41] The students, one of whom had filmed a documentary in Cuba the
 year before, mapped the cosmology of Cuba through Santería’s global
@@ -1032,7 +1032,7 @@ generosity, intellectual curiosity, and work as project manager.
 [^37]: After the 2016 US presidential election, through my desire to
     organize against new fascism I found community with the Sanctuary
     Coalition of New York University. I would like to thank Paula
-    Chakravarrty for her generosity and her leadership of the Sanctuary
+    Chakravartty for her generosity and her leadership of the Sanctuary
     Coalition. I contributed to the Sanctuary syllabus designed by
     graduate students and published by *Public Books*. See “Sanctuary
     Syllabus,” *Public Books*, 5 December 2017,

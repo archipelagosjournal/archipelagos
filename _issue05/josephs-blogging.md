@@ -568,8 +568,7 @@ anonymous peer reviewers for *archipelagos*.
     <https://www.nytimes.com/2015/03/15/magazine/from-jamaica-to-minnesota-to-myself.html>.
 
 [^3]: Sandra Pouchet Paquet, "On Caribbean Autobiographies," *Anthurium*
-    10, no. 2 (2013): 2,
-    <http://scholarlyrepository.miami.edu/anthurium/vol10/iss2/3>.
+    10, no. 2 (2013): 2, <http://doi.org/10.33596/anth.231>.
 
 [^4]: Sandra Pouchet Paquet, *Caribbean Autobiography:* *Cultural
     Identity and Self-Representation* (Madison; University of Wisconsin
@@ -586,7 +585,7 @@ anonymous peer reviewers for *archipelagos*.
 [^7]: I take the term *litbloggers* from Nicholas Laughlin's interview
     series with Caribbean bloggers on *Global Voices*. The series begins
     with "Talking to Jamaican Litblogger Geoffrey Philp" on 14 May 2007,
-    <https://globalvoices.org/2007/05/14/talking-to-jamaican-litblogger-geoffrey-philp/>.
+    <https://globalvoices.org/2007/05/14/talking-to-jamaican-litblogger-geoffrey-philp>.
     Several of the interviewed writers discuss why they turn to blogging
     and what it offers separate from, and in connection to, their
     nondigital writings.
@@ -600,7 +599,7 @@ anonymous peer reviewers for *archipelagos*.
     better writer. At one point there were people who knew me as a
     blogger, and nothing else." Nicholas Laughlin, "Talking to Jamaican
     Writer and Blogger Marlon James," *Global Voices*, 8 May 2009,
-    [https://globalvoices.org/2009/05/08/talking­to­jamaican­writer­and­blogger­marlon­james/](https://globalvoices.org/2009/05/08/talking­to­jamaican­writer­and­blogger­marlon­james/).
+    2009, <https://globalvoices.org/2009/05/08/talking-to-jamaican-writer-and-blogger-marlon-james>.
 
 [^9]: Jill Walker Rettberg, "Online Diaries and Blogs," in *The Diary:
     The Epic of Everyday Life*, ed. Batsheva Ben-Amos and Dan Ben-Amos
@@ -693,7 +692,7 @@ anonymous peer reviewers for *archipelagos*.
 
 [^26]: Nicholas Laughlin, "11 Key Moments in \[Anglo-\]Caribbean Blog
     History," *Global Voices*, 13 January 2006,
-    <https://globalvoices.org/2006/01/13/11-key-moments-in-anglo-caribbean-blog-history/>.
+    <https://globalvoices.org/2006/01/13/11-key-moments-in-anglo-caribbean-blog-history>.
 
 [^27]: I present some of these ideas about a network of bloggers in a
     more detailed discussion of the Caribbean blogosphere in my
@@ -732,10 +731,10 @@ anonymous peer reviewers for *archipelagos*.
 
 [^31]: See Nicholas Laughlin, "West Indian Literature Online," *Global
     Voices*, 28 April 2006,
-    [https://globalvoices.org/2006/04/28/west­indian­literature­online/](https://globalvoices.org/2006/04/28/west­indian­literature­online/).
+    2006, <https://globalvoices.org/2006/04/28/west-indian-literature-online>.
 
-[^32]: See Annie Paul, *Active Voice* (blog), <https://anniepaul.net/>;
-    and Geoffrey Philp, <https://geoffreyphilp.blogspot.com/>.
+[^32]: See Annie Paul, *Active Voice* (blog), <https://anniepaul.net>;
+    and Geoffrey Philp, <https://geoffreyphilp.blogspot.com>.
 
 [^33]: Kelly Baker Josephs, "Ventriloquising the Caribbean: Interview
     with Staceyann Chin," *Jamaica Journal* 30, no. 3 (2007): 31.
