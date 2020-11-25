@@ -779,13 +779,13 @@ drumbeat recalls Brathwaite's account of the dancer of the limbo as a
 symbolic reenactment of the Middle Passage. The drumbeat allows the
 voice to emerge from its very dumbness—out of the nadar, nothingness,
 and silence of the literal and metaphorical Middle Passage—into the
-"kingdom of the word," a word
+"Kingdom of the word," a word
 that Brathwaite extends into a long wavering note in his Segue
 performance of "Negus."[^67] 
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/26%20KB%20Negus%20Segue%20kingdom%20of%20word.mp3"
-  title = "\"kingdom of the word,\" extract from \"Negus\""
+  title = "\"Kingdom of the word,\" extract from \"Negus\""
 %}
 
 Close listening to "The Twist" in the context of the Segue reading thus
@@ -1077,18 +1077,7 @@ of speaking and listening might bring.
 
 [^49]: Brathwaite, *History of the Voice*, 17.
 
-[^50]: The published version of *History of the Voice* is an edited
-    transcription of the lecture as delivered in Cambridge,
-    Massachusetts, as part of the 1979 English Institute at Harvard
-    University. However, despite contacting the transcriber, Houston
-    Baker Jr., I have been unable to locate a copy of the recording. The
-    lecture was first presented at Carifesta in Kingston, Jamaica, in
-    1976. However, only the question-and-answer session—not the lecture
-    itself—is preserved on tape in the archives of the Library of the
-    Spoken Word at the University of West Indies, Mona. See Sonya
-    Posmentier, *Cultivation and Catastrophe: The Lyric Ecology of
-    Modern Black Literature* (Baltimore, MD: Johns Hopkins University
-    Press, 2017), 193.
+[^50]: The published version of *History of the Voice* is an edited transcription of the lecture as delivered in Cambridge, Massachusetts, as part of the 1979 English Institute at Harvard University. However, despite contacting the transcriber, Houston Baker Jr., I have been unable to locate a copy of the recording. The lecture was first presented at Carifesta in Kingston, Jamaica, in 1976. However, only the question-and-answer session—not the lecture itself—is preserved on tape in the archives of the Library of the Spoken Word at the University of West Indies, Mona. See Sonya Posmentier, *Cultivation and Catastrophe: The Lyric Ecology of Modern Black Literature* (Baltimore, MD: Johns Hopkins University Press, 2017), 193.
 
 [^51]: Loretta Collins, "From the 'Crossroads of Space' to the
     (Dis)Koumforts of Home: Radio and the Poet as Transmuter of the Word
