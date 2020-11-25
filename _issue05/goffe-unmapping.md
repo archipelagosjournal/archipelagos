@@ -14,11 +14,11 @@ date: December 2020
 issue: 5
 order: 5
 abstract: >
-  Tackling the conceptual grounds of how maps have been deployed as tools of imperial capitalist extraction, this essay critiques how the two-dimensional visualization of land has traditionally flattened the racial entanglement of the Caribbean archipelago. It explores how born-digital cartography can be used to open up a new sensory possibility for understanding space amplified by sonic and video technologies. The author embarked on the digital project *Unmapping the Caribbean* with her students and a team of technologists, employing Esri’s ArcGIS Story Maps platform to examine the contours of *marronage* and indigeneity in five geographies: New York City, Suriname, Hispaniola, Cuba, and Jamaica. The project anchors the relationality of sedimented racial histories in the archipelago through the concept of “unmapping”—that is, by creating digital audiovisual story maps of the five Caribbean spaces. Centering the way sound orients the human body in space, the project examines the politics of the opacity of spaces of black and indigenous refuge in Caribbean and Caribbean diasporic communities. The essay considers the pedagogical stakes of collaborative digital assignments that include mapmaking and producing visual soundtracks. The five geographic narratives that *Unmapping the Caribbean* has woven together are part of an ongoing project that aims to articulate archipelagic being. 
+  Tackling the conceptual grounds of how maps have been deployed as tools of imperial capitalist extraction, this essay critiques how the two-dimensional visualization of land has traditionally flattened the racial entanglement of the Caribbean archipelago. It explores how born-digital cartography can be used to open up a new sensory possibility for understanding space amplified by sonic and video technologies. The author embarked on the digital project *Unmapping the Caribbean* with her students and a team of technologists, employing Esri's ArcGIS Story Maps platform to examine the contours of *marronage* and indigeneity in five geographies: New York City, Suriname, Hispaniola, Cuba, and Jamaica. The project anchors the relationality of sedimented racial histories in the archipelago through the concept of "unmapping"—that is, by creating digital audiovisual story maps of the five Caribbean spaces. Centering the way sound orients the human body in space, the project examines the politics of the opacity of spaces of black and indigenous refuge in Caribbean and Caribbean diasporic communities. The essay considers the pedagogical stakes of collaborative digital assignments that include mapmaking and producing visual soundtracks. The five geographic narratives that *Unmapping the Caribbean* has woven together are part of an ongoing project that aims to articulate archipelagic being. 
 abstract_fr: >
-  Tackling the conceptual grounds of how maps have been deployed as tools of imperial capitalist extraction, this essay critiques how the two-dimensional visualization of land has traditionally flattened the racial entanglement of the Caribbean archipelago. It explores how born-digital cartography can be used to open up a new sensory possibility for understanding space amplified by sonic and video technologies. The author embarked on the digital project *Unmapping the Caribbean* with her students and a team of technologists, employing Esri’s ArcGIS Story Maps platform to examine the contours of *marronage* and indigeneity in five geographies: New York City, Suriname, Hispaniola, Cuba, and Jamaica. The project anchors the relationality of sedimented racial histories in the archipelago through the concept of “unmapping”—that is, by creating digital audiovisual story maps of the five Caribbean spaces. Centering the way sound orients the human body in space, the project examines the politics of the opacity of spaces of black and indigenous refuge in Caribbean and Caribbean diasporic communities. The essay considers the pedagogical stakes of collaborative digital assignments that include mapmaking and producing visual soundtracks. The five geographic narratives that *Unmapping the Caribbean* has woven together are part of an ongoing project that aims to articulate archipelagic being.  
+  Tackling the conceptual grounds of how maps have been deployed as tools of imperial capitalist extraction, this essay critiques how the two-dimensional visualization of land has traditionally flattened the racial entanglement of the Caribbean archipelago. It explores how born-digital cartography can be used to open up a new sensory possibility for understanding space amplified by sonic and video technologies. The author embarked on the digital project *Unmapping the Caribbean* with her students and a team of technologists, employing Esri's ArcGIS Story Maps platform to examine the contours of *marronage* and indigeneity in five geographies: New York City, Suriname, Hispaniola, Cuba, and Jamaica. The project anchors the relationality of sedimented racial histories in the archipelago through the concept of "unmapping"—that is, by creating digital audiovisual story maps of the five Caribbean spaces. Centering the way sound orients the human body in space, the project examines the politics of the opacity of spaces of black and indigenous refuge in Caribbean and Caribbean diasporic communities. The essay considers the pedagogical stakes of collaborative digital assignments that include mapmaking and producing visual soundtracks. The five geographic narratives that *Unmapping the Caribbean* has woven together are part of an ongoing project that aims to articulate archipelagic being.  
 abstract_es: >
-  Tackling the conceptual grounds of how maps have been deployed as tools of imperial capitalist extraction, this essay critiques how the two-dimensional visualization of land has traditionally flattened the racial entanglement of the Caribbean archipelago. It explores how born-digital cartography can be used to open up a new sensory possibility for understanding space amplified by sonic and video technologies. The author embarked on the digital project *Unmapping the Caribbean* with her students and a team of technologists, employing Esri’s ArcGIS Story Maps platform to examine the contours of *marronage* and indigeneity in five geographies: New York City, Suriname, Hispaniola, Cuba, and Jamaica. The project anchors the relationality of sedimented racial histories in the archipelago through the concept of “unmapping”—that is, by creating digital audiovisual story maps of the five Caribbean spaces. Centering the way sound orients the human body in space, the project examines the politics of the opacity of spaces of black and indigenous refuge in Caribbean and Caribbean diasporic communities. The essay considers the pedagogical stakes of collaborative digital assignments that include mapmaking and producing visual soundtracks. The five geographic narratives that *Unmapping the Caribbean* has woven together are part of an ongoing project that aims to articulate archipelagic being.
+  Tackling the conceptual grounds of how maps have been deployed as tools of imperial capitalist extraction, this essay critiques how the two-dimensional visualization of land has traditionally flattened the racial entanglement of the Caribbean archipelago. It explores how born-digital cartography can be used to open up a new sensory possibility for understanding space amplified by sonic and video technologies. The author embarked on the digital project *Unmapping the Caribbean* with her students and a team of technologists, employing Esri's ArcGIS Story Maps platform to examine the contours of *marronage* and indigeneity in five geographies: New York City, Suriname, Hispaniola, Cuba, and Jamaica. The project anchors the relationality of sedimented racial histories in the archipelago through the concept of "unmapping"—that is, by creating digital audiovisual story maps of the five Caribbean spaces. Centering the way sound orients the human body in space, the project examines the politics of the opacity of spaces of black and indigenous refuge in Caribbean and Caribbean diasporic communities. The essay considers the pedagogical stakes of collaborative digital assignments that include mapmaking and producing visual soundtracks. The five geographic narratives that *Unmapping the Caribbean* has woven together are part of an ongoing project that aims to articulate archipelagic being.
 language: en
 pdf: true
 ---
@@ -43,14 +43,14 @@ course, which is both born-digital and born-musical, students annotated
 literature and songs using online platforms in the first iteration in
 2015.[^1] The course has become more digitally and musically engaged as
 I have encouraged students to produce their own soundtracks, embedding
-them in maps in a practice I call “sonic un/mapping.” This multisensorial
+them in maps in a practice I call "sonic un/mapping." This multisensorial
 method of reading the Caribbean archipelago attunes a spatial awareness.
 Sonic analysis requires attention to the spatial because sound is quite
 literally how our ears perceive the vibrations that bounce off our
 environment. As such, my sonic praxis has become amplified by digital
 geographic technologies.
 
-As a professor and a DJ, a “PhDJ,” I see the role of an educator as one
+As a professor and a DJ, a "PhDJ," I see the role of an educator as one
 intimately tied to that of a DJ. The
 [syllabus](https://caribbeanliterature.princeton.edu/) is a mixtape—I
 narrate the progression of texts on a syllabus, almost toasting, to
@@ -64,19 +64,19 @@ for their choice, be it thematic or affective.
 Recognizing the limitations of close reading, in how it assumes a text
 has an inherent transparency, we instead perform a practice of deep
 listening. This involves a multisensorial receptivity through the
-practice of what Audre Lorde calls “deep participation.”[^3] It also
+practice of what Audre Lorde calls "deep participation."[^3] It also
 involves the receptivity that Julian Henriques describes as a spatial
 way of knowing, foundational, for instance, to dancehall culture in
 Jamaica.[^4] Attention to sound and where it places the body in space is
-an intimate part of what I am calling “unmapping.” For example, Little
-Roy’s sonic exegesis in the song “Christopher Columbus” poses a
+an intimate part of what I am calling "unmapping." For example, Little
+Roy's sonic exegesis in the song "Christopher Columbus" poses a
 challenge to coloniality and Western historiography. Little Roy
-describes the multiple voyages of Columbus to the Caribbean—“Him come
-again and go away”—and says that Natty Rasta, the black man, was
+describes the multiple voyages of Columbus to the Caribbean—"Him come
+again and go away"—and says that Natty Rasta, the black man, was
 metaphysically in the Caribbean long before Columbus.[^5] Politicizing
 Afro-Jamaican identity in ways that engage with what Jamaican theorist
 Sylvia Wynter has conceptualized as *indigenization*, Little Roy
-“unmaps” the Caribbean, challenging the fixity of Columbus’s colonial
+"unmaps" the Caribbean, challenging the fixity of Columbus's colonial
 map through a sonic and lyrical reordering of time and space.[^6]
 
 In our sonic un/mapping in my course, I ask students to think about how
@@ -84,11 +84,11 @@ they would map Babylon as a geographic, historic, and imagined place in
 the context of reggae lyrics. Similarly, I ask them to think about the
 intertextuality of reggae and Rastafari to the Hebrew Bible and the
 Christian Testament. Where is the Zion that Kiddus I sings of in
-“Graduation in Zion”? We also explore urban spatial politics through the
+"Graduation in Zion"? We also explore urban spatial politics through the
 more literal and lyrical mapping of Kingston that Bob Marley performs in
-“Natty Dread” by walking through First Street and Second Street, and so
-on. Then we look to his son Damian Marley’s survey of the island in
-“Welcome to Jamrock,” and how he sings a refrain that hails each county
+"Natty Dread" by walking through First Street and Second Street, and so
+on. Then we look to his son Damian Marley's survey of the island in
+"Welcome to Jamrock," and how he sings a refrain that hails each county
 of Jamaica—Cornwall, Middlesex, and Surrey—delineating a geography that
 the island postcolony reclaims from the English counties it mirrors.[^7]
 
@@ -97,7 +97,7 @@ cosmic awareness and cosmological mapping. Music is the argument of
 unmapping. Sound, like light, is energy comprised of waves, a series of
 perceived reflections and refractions that orient us in time and space.
 Sound reflects our relation to other bodies and objects. This sonic data
-is central to a poetic strategy that I call “decolonial echolocation”—a
+is central to a poetic strategy that I call "decolonial echolocation"—a
 method of bodily knowing, a somatosensory epistemology of embodied
 navigation of coloniality for those who were not mean to survive. It is
 the diasporic physiological process of sensing distant or invisible
@@ -105,19 +105,19 @@ objects by sound waves emitted back to the emitter, to draw on the
 dictionary definition of *echolocation*.
 
 The map is engraved with the echo of runaway desire, of refusal, in
-place names like the District of Look Behind, Don’t Come Back, and Quick
+place names like the District of Look Behind, Don't Come Back, and Quick
 Step. A decolonial register would imply a strategy of detecting the
 colonizer and finding spaces of refuge. This refuge is encoded in both
 reggae music and Rastafarian ontology. Rastafari, which Stuart Hall
-describes as an “imagined community” formed with an Africa that has
+describes as an "imagined community" formed with an Africa that has
 moved on but is nevertheless symbolically reconstructed in music, is a
 form of worlding and navigation beyond coloniality, never quite intended
 as a literal return to Africa. Echolocation resonates with music as
 integral to the archipelagic being of Jamaican reggae artist Chronixx
-when he sings of “capture land.” It is the replantation of the provision
+when he sings of "capture land." It is the replantation of the provision
 grounds that Wynter describes at the periphery of the colonial
 plantation.[^8] The echoes that reverberate through the karstic
-mountainous terrain of Jamaica’s Cockpit Country and Blue Mountains are
+mountainous terrain of Jamaica's Cockpit Country and Blue Mountains are
 an intimate part of Caribbean geography that narrates the meaning of
 refuge for black and native peoples on the island.
 
@@ -134,8 +134,8 @@ unmapping is about unknowing and uncharting the territory. To welcome
 not knowing allows one to be receptive to other forms of knowledge. The
 West Indies are, after all, a misnaming, so why continue to depend on a
 Columbian geographic misrecognition for reading the archipelago? The
-colonial map obscures this dialectic between Wynter’s indigenization and
-Kamau Brathwaite’s creolization by enforcing 
+colonial map obscures this dialectic between Wynter's indigenization and
+Kamau Brathwaite's creolization by enforcing 
 European geography on the archipelago.[^9] Toward unmapping, I challenge
 my students to consider a spatial politics centering spaces of Caribbean
 refuge carved out by indigenous peoples and Maroons across the
@@ -146,14 +146,14 @@ extinction in favor of intentional Caribbean opacity, in the Glissantian
 register.[^10]
 
 The Caribbean archipelago was formed through a process of layering that
-I have elsewhere described as “racial sedimentation.”[^11] I argue that
+I have elsewhere described as "racial sedimentation."[^11] I argue that
 the sedimented presences settle and become transformed in metamorphic
 rock in accordance with the geological metaphor of the rock cycle.[^12]
 The materiality of bodies, bones, and decomposing biomatter have become
 part of the geology of the archipelago over the centuries since
-Columbus’s invasion. Mutilation has made the Caribbean the site of,
-according to Hortense Spillers, a “human sequence written in
-blood.”[^13] Maroon strategies of warfare, especially guerilla warfare,
+Columbus's invasion. Mutilation has made the Caribbean the site of,
+according to Hortense Spillers, a "human sequence written in
+blood."[^13] Maroon strategies of warfare, especially guerilla warfare,
 against the British in Jamaica depended on the cover the rainforest
 provided, and locations in Cockpit Country are accordingly named to
 reflect these battles. I task my students with examining how the
@@ -165,7 +165,7 @@ Brown writes, we ought to consider *marronage* as a species of West
 African warfare, then what are the political stakes of a map that speaks
 or sings in Maroon vernaculars?[^14]
 
-Committing Treason with the Master’s Tools 
+Committing Treason with the Master's Tools 
 -------------------------------------------
 
 In 2018, I embarked on the digital project [*Unmapping the Caribbean:
@@ -182,8 +182,8 @@ concerns with which to contend. Founded in 1969 as a land-use consulting
 firm, US-based Esri evolved into a GIS software vendor embedded in the
 history of US military defense digital technology, holding contracts
 with the US Department of Defense. As a global tech company, Esri
-perhaps typifies, to reference Audre Lorde’s famous provocation, the
-“master’s tools”—that is, the structure of the ongoing colonial
+perhaps typifies, to reference Audre Lorde's famous provocation, the
+"master's tools"—that is, the structure of the ongoing colonial
 present.[^17] But I knew that the technologists helping with the project
 had the most proficiency with this platform because of the contracts
 Esri had with the university where I worked.
@@ -220,7 +220,7 @@ technologies will never comprehend. With its arteries, veins, and
 capillaries; its curves; its wrinkles—the body is a terrain, unmapped
 and unmappable. Thus as someone of Caribbean descent, I began with my
 body, literally using my hand to anchor the project. I sought to locate
-the affective mutual coordinates of the “intimacies” of
+the affective mutual coordinates of the "intimacies" of
 Africa, Asia, and Europe in the Caribbean.[^19]
 
 The first European map of the Caribbean, a 1492–93 drawing by
@@ -228,15 +228,15 @@ Christopher Columbus, amounts to a few squiggles and splotches of ink
 (fig. 1). It approximates the curve of the coast of what he would name
 the Insula hispana, which Bartolomé de las Casas renamed Española. The
 island is the epicenter, the first place of disembarking, the cradle. I
-find Columbus’s map inscribed with playful desire and possibility—as
+find Columbus's map inscribed with playful desire and possibility—as
 much a fantasy as a tool of navigation for further colonial conquest.
 The ways Haiti and the Dominican Republic are peripheral to the map of
 "America," even though Columbus never stepped foot on the mainland, then
 become a conundrum of hemispheric mapmaking origins. In my process of
 unmapping, I was led to a later map of Hispaniola, dating to the
 mid-sixteenth century, that had been drafted by Italian geographer
-Giovani. Columbus’s squiggles had become solidified in a cartographic
-imaginary practice that sought to “know” as much as it sought to claim
+Giovani. Columbus's squiggles had become solidified in a cartographic
+imaginary practice that sought to "know" as much as it sought to claim
 the island for European powers.
 
 {% include image.html
@@ -252,9 +252,9 @@ juxtaposing analog and digital processes of mapping, asking each student
 to draw a freehand map of the Caribbean from memory. Most were
 exasperated by the challenge, realizing that they were far more familiar
 with the geography of Western Europe than with that of the Caribbean,
-despite the latter’s more relative geographic proximity to the United
+despite the latter's more relative geographic proximity to the United
 States. Students who were of Caribbean origin expressed shame at having
-only “a sense” of the geography of their homelands.
+only "a sense" of the geography of their homelands.
 
 {% include image.html
   img="issue05/goffe/fig2.jpg"
@@ -274,8 +274,8 @@ maps featured Suriname, the former Dutch colony that is part of the
 South American landmass; none of my students had even heard of the
 country, much less the language, Sranan Tongo, or the music, *kaseko*.
 For this reason, I chose to use my hand to visually represent our five
-disparate but joined geographies—five separate “fingers,” part of one
-“hand.” I projected Battista Ramusio’s mid-sixteenth-century map onto my
+disparate but joined geographies—five separate "fingers," part of one
+"hand." I projected Battista Ramusio's mid-sixteenth-century map onto my
 hand to juxtapose the materiality of the body and the epistemic violence
 the map inscribes on flesh. My palm anchored the inquiry into the
 archipelagic and served as a starting point for unmapping, a palmistry
@@ -301,11 +301,11 @@ islands. On Hispaniola, the linguistic, cultural, and racial fracturings
 between Haiti and the Dominican Republic are as much a barrier as they
 are spaces of fluid musical exchange. Cuba has existed under a state of
 economic embargo and technological isolation that forms an opacity of
-exclusion by the United States, the communist nation’s punishment for
+exclusion by the United States, the communist nation's punishment for
 its refusal to acquiesce to the US geopolitical domination in the
 hemisphere. The students exploring Jamaica centered the global flows of
 reggae and how these are entangled with tourism and ecological
-degradation. Based on the students’ research, I used Esri’s “Map Series”
+degradation. Based on the students' research, I used Esri's "Map Series"
 template to stitch together five story maps to form one cohesive project
 with five tabs. Attention to the sensorium is amplified by the digital,
 insofar as multiple registers can be experienced at once on a story
@@ -318,7 +318,7 @@ to consider the significance of the body in colonizing and mapping. I
 turned the image of the map superimposed on my hand into a postcard and
 wrote a message from the diaspora to an imagined addressee named X—a
 love letter of longing—which I then submitted to [Post(card)s from the
-“en dehors garde](https://mina-loy.com/endehorsgarde/),” a digital
+"en dehors garde](https://mina-loy.com/endehorsgarde/)," a digital
 project on the feminist website *Mina Loy: Navigating the Avant-Garde*
 (fig. 4). The project collaborators had invited artists, writers, and
 scholars to write postcards expressing ideas about the *en dehors
@@ -326,15 +326,15 @@ garde*, a term they had coined to describe the women, people of color,
 and others marginalized in or excluded from histories and theories of
 the avant-garde. They arranged seventy postcards on the website, curated
 together as a [digital flash
-mob](https://mina-loy.com/chapters/avant-garde-theory-2/digital-flash-mob/).[^21] I later adapted my postcard as the landing page for [*Unmapping the
-Caribbean*](file:///D:\Willow\archipelagos\arch(5)\Post(card)s%20from%20the%20‘en%20dehors%20garde,’).
+mob](https://mina-loy.com/chapters/avant-garde-theory-2/digital-flash-mob/).[^21] I later adapted my postcard as the landing page for *Unmapping the
+Caribbean*.
 Thus we began our joint unmapping quest—one professor, nineteen
 students, and three technologists.[^22]
 
 {% include image.html
   img="issue05/goffe/fig4.png"
   title="Dear X"
-  caption=" Figure 4. My “from the diaspora” postcard for the Post(card)s from the “en dehors garde” project, which became the landing page image for *Unmapping the Caribbean*." %}
+  caption=" Figure 4. My \"from the diaspora\" postcard for the Post(card)s from the \"en dehors garde\" project, which became the landing page image for *Unmapping the Caribbean*." %}
 
 Once the base maps were created, students then meditated on global
 positioning system (GPS) technologies to consider how a Caribbean GPS
@@ -343,7 +343,7 @@ technologies such as Google Maps center individuals: for the first time
 in human history the center of the map is always the self. I asked
 students to grapple with what that could mean for a region like the
 Caribbean, which has been rendered peripheral for so long, despite its
-being the epicenter of Columbus’s destruction. I also asked students to
+being the epicenter of Columbus's destruction. I also asked students to
 reckon with the power of opacity, of being off the bureaucratic map, of
 being undetectable, unmappable.
 
@@ -377,7 +377,7 @@ emancipation in the mid-1830s. Me-no-Sen-You-no-Come came under siege by
 the British in 1824 and then by the Maroons of Accompong Town, yet the
 settlement survived with up to as many as sixty resident runaway peoples
 into the 1820s. It might at first seem that Maroons would have been
-natural allies for other runaways, but because of Maroon leader Cudjoe’s
+natural allies for other runaways, but because of Maroon leader Cudjoe's
 1736 land treaty with the British, Jamaican Maroons were supposed to
 return non-Maroon runaways to British plantations. To find
 Me-no-Sen-You-no-Come would require an archipelagic wayfaring and
@@ -388,12 +388,12 @@ authority, it refuses to be mapped. It is an aqueous and geological
 geography of mangroves, caves, and coral reefs that cannot be surveyed
 and conquered entirely. I asked my students to embrace this
 impossibility.[^25] I assigned excerpts of feminist scholar Macarena
-Gomez-Barris’s *The Extractive Zone*, encouraging students to consider
+Gomez-Barris's *The Extractive Zone*, encouraging students to consider
 what should *not* be mapped. Gomez-Barris describes her work as
-proceeding from a decolonial femme methodology, “a mode of porous and
+proceeding from a decolonial femme methodology, "a mode of porous and
 undisciplined analysis shaped by the perspective and critical
 genealogies that emerge within these spaces as a mode of doing
-research*.*”[^26] Gomez-Barris’s meditation on opacity as a shield, a
+research*.*"[^26] Gomez-Barris's meditation on opacity as a shield, a
 form of resistance to extractivist geospatial technologies, illuminated
 for students how mapping was a thorny endeavor, especially for
 indigenous communities of the Amazon. These technologies can never be
@@ -408,12 +408,12 @@ involve at-times-subtle tactics of performing illegibility and inaction
 as a form of defiance.[^27] The place name Me-no-Sen-You-no-Come
 signifies a fleeting moment of freedom before freedom was formalized in
 1834. The runaways who settled there mattered enough to be inscribed on
-the colonial map. In the patwa inflection of dashes in the village’s
-name, I hear the shorthand rhythm of the lilt of “nation language,” of
+the colonial map. In the patwa inflection of dashes in the village's
+name, I hear the shorthand rhythm of the lilt of "nation language," of
 creole Caribbean tongues.[^28] The land refuses in defiance. The
 toponymy commands. The symmetry and pace of the patwa phrase says
 something altogether mystical, distinct from what would be the literal
-English (mis)translation, “If I do not send for you, you do not come.”
+English (mis)translation, "If I do not send for you, you do not come."
 The Jamaican phrase is clear and concise. It declares how *you* can act
 toward *me*. It declares the right to not be touched, the right to be
 left alone.[^29]
@@ -428,7 +428,7 @@ screeching, swiftly flying out of a cold cave, their space of refuge, a
 cathedral of shelter from the rays of sunlight during the day. Bats have
 an intimate way of knowing, of hearing, of navigating by ultrasound
 beyond the range of the human ear. Sylvia Wynter considers this fact in
-“Towards the Sociogenic Principle,” describing Thomas Nagel’s
+"Towards the Sociogenic Principle," describing Thomas Nagel's
 description of the consciousness and being of bat sonar, the way the
 mammals form three-dimensional forward perception beyond human
 vocabulary. Bats are fundamentally alien to us, she says, and there is
@@ -456,11 +456,11 @@ soldiers and planters would never be able to hear?
 
 These questions of freedom, sovereignty, and futurity were what the
 students in the Jamaica group considered for their story map (fig.
-5).[^32] They titled it “Xaymaca: Wi Likkle but Wi Tallawah,”
-highlighting the island’s original Arawak name Xaymaca, which means “the
-land of wood and water.” This choice of title honors the location’s
+5).[^32] They titled it "Xaymaca: Wi Likkle but Wi Tallawah,"
+highlighting the island's original Arawak name Xaymaca, which means "the
+land of wood and water." This choice of title honors the location's
 indigenous origin and juxtaposes it with the patwa of a Jamaican folk
-saying. Jamaican poet laureate Miss Lou riffed on the saying’s
+saying. Jamaican poet laureate Miss Lou riffed on the saying's
 significance and how it means that we might be a small place, but we are
 mighty in impact. This small-island sensibility is integral to
 archipelagic being. No map can accurately represent the size and impact
@@ -469,16 +469,16 @@ a series of tiny dots.
 
 The Jamaica group centered vernacular and folk knowledge with indigenous
 knowledge, taking a cue from University of the West Indies professor
-Carolyn Cooper’s essay “Professing Slackness: Language, Authority, and
-Power Within the Academy and Without.” When they first read this essay,
+Carolyn Cooper's essay "Professing Slackness: Language, Authority, and
+Power Within the Academy and Without." When they first read this essay,
 my students, even those who understood patwa, were disoriented, but they
 soon realized the metatheatrical stakes of writing a formal academic
 article in patwa. Cooper defied traditional academic norms to profess in
-what she describes as “barefoot language.” Again, the body and sexuality
+what she describes as "barefoot language." Again, the body and sexuality
 are invoked here in Caribbean orality against colonial power as Cooper
-explains there is a slackness that “isn’t only about sexual morality”
-but rather about a “naked savagery” and a defiance of colonial norms,
-including wearing “proper” clothes.[^33] To unmap through the accent of
+explains there is a slackness that "isn't only about sexual morality"
+but rather about a "naked savagery" and a defiance of colonial norms,
+including wearing "proper" clothes.[^33] To unmap through the accent of
 patwa offered the students a way to theorize sonic modes of declaring
 independence through the theatricality of Jamaicanisms.
 
@@ -489,46 +489,46 @@ independence through the theatricality of Jamaicanisms.
 
 Engaging further with Jamaican sound, the students contrasted sonic
 recordings (found on YouTube) of tourism in popular locations such as
-Dunn’s River Falls with the sounds of nature—bird, bats, and frogs—in
+Dunn's River Falls with the sounds of nature—bird, bats, and frogs—in
 Cockpit Country. The accents of Americans and Western Europeans form a
 sonic colonialism that disrupts the local soundscape. The students found
 recordings of the Jamaican Maroon language Coromantee, derived from
 archaic Ghanaian languages, and embedded these into maps depicting sites
 of marronage in Accompong. Drawing on what they had learned about
 all-inclusive resorts and capitalist extraction from the pairing on the
-syllabus of Jamaica Kincaid’s *A Small Place* and Stephanie Black’s
-documentary *Life and Debt* (with voice-over of Kincaid’s text adapted
+syllabus of Jamaica Kincaid's *A Small Place* and Stephanie Black's
+documentary *Life and Debt* (with voice-over of Kincaid's text adapted
 from *A Small Place*), the students contended with how the development
 of tourism irrevocably altered the natural soundscape of the island. The
 students remixed reggae songs using echoing and reverb DJ effects to
 consider how Bob Marley forms a global sonic imaginary, putting Jamaica
 and the broader Caribbean on the world map, so to speak.
 
-The New York group was named Mannahatta, the Lenape word meaning “place
-where the wood is gathered.” New York City, where roughly a quarter of
+The New York group was named Mannahatta, the Lenape word meaning "place
+where the wood is gathered." New York City, where roughly a quarter of
 the recorded population is Caribbean (as of 2013), allowed an
 opportunity to meditate on how many more Caribbean people call New York
 home than were counted, considering those who are not documented,
 especially from Guyana and the Dominican Republic. The students in this
 group had the advantage of being able to include interviews and other
-recorded material from a local context. They chose the title “New York
-as Caribbean City: Gentrification as Colonization” to highlight the
+recorded material from a local context. They chose the title "New York
+as Caribbean City: Gentrification as Colonization" to highlight the
 layers of occupation of Lenape land.[^34] The only group to directly
 tackle the issue of opacity directly, the students created a landing
 page that queries the intentions of those accessing the map: after the
-title “Manahatta,” a warning reads, “The following is only for
+title "Manahatta," a warning reads, "The following is only for
 individuals who have roots in the Caribbean and their allies. Do not
-proceed if you do not meet the criteria stated above.” They used a flick
+proceed if you do not meet the criteria stated above." They used a flick
 FBI warning against copyright infringement as the backdrop, which was a
 curious choice, considering the fraught questions of jurisdiction
 situating Manhattan as Lenape land. If the user does not fit the
-criteria of allyship, she has the option to click “Leave” in the upper
+criteria of allyship, she has the option to click "Leave" in the upper
 right corner, which leads to a broken
 [hyperlink](http://leave.leave.leave./)—a creative strategy for
 addressing the challenges of retaining opacity and deflecting
 uninvited/unwanted audiences. The key to the *Unmapping the Caribbean*
 website is a decolonial practice of coalition building; these students
-did not want the Manahatta map to fall into the “wrong” hands.
+did not want the Manahatta map to fall into the "wrong" hands.
 
 {% include image.html
   img="issue05/goffe/fig6.png"
@@ -539,8 +539,8 @@ Listening is the key to opening the map. To welcome the viewers who
 proceed, the students produced a forty-second soundtrack, layering the
 rumbling sound of a train on subway tracks with the crashing of waves
 and Caribbean salsa music and drums. This is followed by four
-recordings: “Ven, este mapa es para ti”; “Cum, this map a fi yuh”; “Vini
-non, map sa a se pou ou”; and “Come, this map is for you.” In each
+recordings: "Ven, este mapa es para ti"; "Cum, this map a fi yuh"; "Vini
+non, map sa a se pou ou"; and "Come, this map is for you." In each
 phrase, the word *map* or *mapa* is hyperlinked and leads to an
 expandable side accordion story map featuring ten layers of gentrified
 spaces in New York City (fig. 6). This was the perfect type of story map
@@ -554,20 +554,20 @@ street with markers of sonic colonialism—notably, the idle chatter of
 gentrifying hipsters.
 
 The students in the Suriname group, named Surinen, for the indigenous
-people of that area, titled their project “Mapping the Interior:
-Navigating Black and Brown Queer Intimacy.”[^35] Rather than focusing on
+people of that area, titled their project "Mapping the Interior:
+Navigating Black and Brown Queer Intimacy."[^35] Rather than focusing on
 tensions among black and Asian communities, which we had studied in the
 Eastern Caribbean, they chose to center queer intimacy between black and
 Asian people in Suriname; one part of the story map is titled
-“Navigating the Interior: Black and Brown Queerness.” “Mati work,” what
-Dutch-Surinamese feminist theorist Gloria Wekker defines as “an old
+"Navigating the Interior: Black and Brown Queerness." "Mati work," what
+Dutch-Surinamese feminist theorist Gloria Wekker defines as "an old
 practice among Afro-Surinamese working-class women in which marriage is
-rejected in favor of male and female sexual partners,” and music were
+rejected in favor of male and female sexual partners," and music were
 central to their story map.[^36] The students stitched and edited
 together footage from Surinamese dancehall and *kaseko* performances
 with footage from pride parades and celebrations of LGBTQ life in the
 country. They also wrote original poems in conversation with the concept
-of the rainforest that is commonly described as “the interior” in
+of the rainforest that is commonly described as "the interior" in
 Suriname.
 
 {% include image.html
@@ -585,16 +585,16 @@ Having conducted research in Paramaribo, I personally found the sonic
 rendering of the Suriname story map so powerful that it felt as though
 the students had gone there to carry out this research.[^37]
 
-The Hispaniola group, named Kiskeya/Quisqueya after the island’s
+The Hispaniola group, named Kiskeya/Quisqueya after the island's
 original Taíno name, focused on the contours of Afrolatinidad in the
 Caribbean. These students considered how music has been a space of
 Afro-Caribbean refuge and expression, and they subtitled their story map
-both “A Journey through the Border” and “A Journey along the Border”
+both "A Journey through the Border" and "A Journey along the Border"
 (fig. 8).[^38] Keeping in mind that several students had rendered Haiti
 and the Dominican Republic as separate islands in their freehand analog
 maps at the beginning of the semester (see fig. 3), they wanted to
 center the connections between the two countries along their linguistic
-and national border using the “Cascade” Esri Story Map, which creates an
+and national border using the "Cascade" Esri Story Map, which creates an
 immersive scrolling experience. The students presented how Haiti and the
 Dominican Republic are joined by music and how the narratives of Taino
 history inflect both nations, filling the screen with maps, 3D scenes,
@@ -602,14 +602,14 @@ images, and video.
 
 As one of the most prominent and poetic voices on immigration and the
 status of black refuge and refugees, Haitian American novelist Edwidge
-Danticat served as the students’ literary guide. In her essay “Black
-Bodies in Motion and in Pain,” Danticat evocatively draws connections
+Danticat served as the students' literary guide. In her essay "Black
+Bodies in Motion and in Pain," Danticat evocatively draws connections
 between black death and flight in the Mediterranean, the Great Migration
 in the United States, and the deportations at the Haitian-Dominican
 border. I encouraged the students to also consider the twin-island
 imaginary of historic Saint-Domingue that Danticat presents in *Krik?
 Krak!*[^39] They historicized their map with information about the
-border, especially the 1937 “parsley massacre” and the more recent
+border, especially the 1937 "parsley massacre" and the more recent
 deportations of Afro-Dominicans.[^40]
 
 {% include image.html
@@ -642,10 +642,10 @@ dance and gave the group a standing ovation.
 
 Continuing on the theme of negotiating and defining Afrolatiniad and
 Latinx identity in the Caribbean, students in the Cuba group, named
-Cubao (meaning “abundant,” derived from the country’s original indigenous name, Cubanascnan) titled their story map “Cuban Santería:
-Religious Transformation from Obscurity to Hypervisiblity” (fig.
+Cubao (meaning "abundant," derived from the country's original indigenous name, Cubanascnan) titled their story map "Cuban Santería:
+Religious Transformation from Obscurity to Hypervisiblity" (fig.
 9).[^41] The students, one of whom had filmed a documentary in Cuba the
-year before, mapped the cosmology of Cuba through Santería’s global
+year before, mapped the cosmology of Cuba through Santería's global
 circulation. They were interested in the retention of West African
 language, rituals, and Yoruba beliefs. Dash Harris, the then Cuba-based
 founder of the company Afro-Latinx Travel and a guest lecturer to my
@@ -655,7 +655,7 @@ as a simple expression of syncretism. Though the various religions in
 the Caribbean certainly retain elements from African, European, and
 Asian cosmologies, it is significant to consider the mapping of saints
 and orishas as a strategy as opposed to a multiculturalist celebration.
-The students were fascinated by religion’s role in representing a hidden
+The students were fascinated by religion's role in representing a hidden
 world of performing West African rituals. I encouraged them to explore
 Amerindian imagery and Chinese influences present in Cuba as well. They
 organized their narrative thread around the circulation and
@@ -672,7 +672,7 @@ Future Grounds of Sonic Unmapping
 
 Questions regarding labor, credit, and archiving are critical for this
 decolonial cartography. In the interest of interrogating my and my
-students’ US-based perspective, I arranged video conference sessions
+students' US-based perspective, I arranged video conference sessions
 with experts based in the Caribbean. In addition to our class with Dash
 Harris in Cuba, we had a session with Trinidad-based Felicia Chang and
 Zaake De Coninck, cofounders of the media publishing company
@@ -688,23 +688,23 @@ process and technological troubleshooting with Esri Story Maps,
 technologists Michelle Thompson and Himanshu Mistry, of New York
 University Libraries Data Services, were invaluable.[^44]
 
-In the vein of Stefano Harney and Fred Moten’s *The Undercommons:
+In the vein of Stefano Harney and Fred Moten's *The Undercommons:
 Fugitive Planning and Black Study*, I encouraged my students to consider
 treason, in a metaphorical sense. If, as Moten suggests, the university
 is an engine of settler colonialism—in that weapons are designed there
 as well as technologies that devastate the natural environment and
 financial instruments that exploit the most vulnerable with subprime
 mortgages, for instance (these links were especially clear in the
-Manahatta group’s story map as it paralleled gentrification and
+Manahatta group's story map as it paralleled gentrification and
 imperialism in New York City)—then it is our duty to deploy a
-university’s resources for purposes other than continuing a settler
+university's resources for purposes other than continuing a settler
 colonial regime.[^45] Universities vary in access to resources, and I
 foregrounded awareness of all the technological resources available to
 students in the university, emphasizing that they are paying tuition, or
 tuition is being paid on their behalf, for access to these technologies.
 I made sure to investigate open-source resources as well as any software
 and hardware available through university subscriptions. And if it is
-“treason” to use technology for something other than its intended
+"treason" to use technology for something other than its intended
 purpose, then, indeed, we also committed just such an act in our
 decolonial Caribbean unmapping by using technology from Esri, a company
 invested in US defense contracts.
@@ -736,7 +736,7 @@ in copyright between various jurisdictions and territories in the
 Caribbean and asymmetrical imperial legal legacies. The assignment also
 gave them a chance to consider the currency of cultural production and
 how it does and does not travel across an archipelago of many tongues
-and varying digital accessibility. []{#_heading=h.gjdgxs .anchor}
+and varying digital accessibility. 
 
 *Unmapping the Caribbean* is necessarily unfinished, much in the way
 that musicologist Michael Veal describes dub music as having an
@@ -746,7 +746,7 @@ and does not belong to any institution. There will at some point be a
 physical, material installation to complement and extend the digital
 life of the map as an immersive process using projection mapping.
 Already, moving between institutional infrastructures has required me to
-be intentional about disentangling and methodically archiving students’
+be intentional about disentangling and methodically archiving students'
 work: I am the guardian of the collected work. Like the image of my hand
 anchors the map on the landing page, the maps accumulate as part of my
 pedagogy in ways that continue to inform the layers of my research on
@@ -773,7 +773,7 @@ violence and division to the land. Unmapping is a decolonial digital
 praxis that embraces sensorial knowledges of black and indigenous
 cosmologies. In this way it is in conversation with the hashtag
 \#JamaicaIsNotARealPlace, which has been popular on Jamaican social
-media. Just as Jamaica “is not a real place,” the editors of the new
+media. Just as Jamaica "is not a real place," the editors of the new
 Caribbean arts magazine *PREE* consider that maybe the Caribbean is not
 a real place, choosing this as a theme for one of their issues.[^49]
 They broaden the concept and claim about dysfunction, frustration, and
@@ -810,15 +810,15 @@ surveilled, and learned by algorithms.
 A moment that typifies \#JamaicaIsNotARealPlace is the story of my first
 meeting of a distant cousin in 2014. The epigraph to this essay is drawn
 from the utterance of a police officer whom my family and I had asked
-for directions to my cousin’s house in Mandeville as we were driving.
+for directions to my cousin's house in Mandeville as we were driving.
 Just after our query, the traffic light turned green and the policeman
-zoomed away, leaving us with, “You will find a way.” His response, which
+zoomed away, leaving us with, "You will find a way." His response, which
 has stayed with me, was flippant, prophetic, mystical, matter of fact,
 and spoken with a Jamaican affect that cannot quite be described in
 English—not quite cynical but dismissive, with an air of nonchalance. So
 we continued on our way, navigating by asking people on the street if
 they knew where Mr. Goffe lived. We eventually encountered a few
-schoolboys who replied that we could find our cousin’s house all the way
+schoolboys who replied that we could find our cousin's house all the way
 down the road and around the corner.
 
 As frustrating as it was, in the end the policeman was correct. We found
@@ -828,7 +828,7 @@ is a collector, a hoarder of things, knickknacks mostly but also the
 materials of the Afro-indigenous and colonial history of Jamaica. His
 treasures were strewn across his house—Arawak arrowheads, for example,
 were scattered next to wedding albums full of colonial-era images of
-Jamaica’s “mulatto aristocracy.”
+Jamaica's "mulatto aristocracy."
 
 The disorientation of being in and journeying through Jamaica made me
 realize the need to trust our inner maps, to listen to our bodies, to
@@ -858,52 +858,52 @@ generosity, intellectual curiosity, and work as project manager.
 ---
 
 [^1]: Students use Genius (formerly RapGenius) and SoundCloud. See
-    “About Genius,” Genius,
-    <https://genius.com/Genius-about-genius-annotated>; and “About
-    SoundCloud,” SoundCloud, <https://soundcloud.com/pages/contact>.
+    "About Genius," Genius,
+    <https://genius.com/Genius-about-genius-annotated>; and "About
+    SoundCloud," SoundCloud, <https://soundcloud.com/pages/contact>.
 
 [^2]: For the course syllabus, see
     <https://caribbeanliterature.princeton.edu/>.
 
-[^3]: Audre Lorde, “Uses of the Erotic: The Erotic as Power,” in *Sister
+[^3]: Audre Lorde, "Uses of the Erotic: The Erotic as Power," in *Sister
     Outsider: Essays and Speeches* (Berkeley, CA: Crossing, 1984), 59.
 
-[^4]: See Julian Henriques, “Preamble: Thinking Through Sound,”
+[^4]: See Julian Henriques, "Preamble: Thinking Through Sound,"
     introduction to *Sonic Bodies: Reggae Sound Systems, Performance
     Techniques, and Ways of Knowing* (New York: Continuum, 2011),
     xv–xxxvi,
     <http://research.gold.ac.uk/id/eprint/4257/1/HenriquesSonicBodiesIntro.pdf>.
 
-[^5]: Little Roy and Ian Rock, “Christopher Columbus,” 45rpm single,
+[^5]: Little Roy and Ian Rock, "Christopher Columbus," 45rpm single,
     Tafari, 1975.
 
-[^6]: On *indigenization*, see Sylvia Wynter, “Jonkonnu in Jamaica:
-    Towards the Interpretation of Folk Dance as a Cultural Process,”
+[^6]: On *indigenization*, see Sylvia Wynter, "Jonkonnu in Jamaica:
+    Towards the Interpretation of Folk Dance as a Cultural Process,"
     *Jamaica Journal* 4, no. 2 (1970): 34–48.
 
-[^7]: Kiddus I, “Graduation in Zion,” Shepherd, 1977; Bob Marley and the
-    Wailers, “Natty Dread,” on *Natty Dread*, Island Records, 1974;
-    Damian “Jr. Gong” Marley, “Welcome to Jamrock,” on *Welcome to
+[^7]: Kiddus I, "Graduation in Zion," Shepherd, 1977; Bob Marley and the
+    Wailers, "Natty Dread," on *Natty Dread*, Island Records, 1974;
+    Damian "Jr. Gong" Marley, "Welcome to Jamrock," on *Welcome to
     Jamrock*, Universal Records, 2005.
 
-[^8]: See Stuart Hall, “Negotiating Caribbean Identities,” *New Left
-    Review*, no. 209 (January–February 1995): 11; Chronixx, “Capture
-    Land,” on *Dread and Terrible*, Soul and Circle Music, 2014; and
-    Sylvia Wynter, “Novel and History, Plot and Plantation,” *Savacou*,
+[^8]: See Stuart Hall, "Negotiating Caribbean Identities," *New Left
+    Review*, no. 209 (January–February 1995): 11; Chronixx, "Capture
+    Land," on *Dread and Terrible*, Soul and Circle Music, 2014; and
+    Sylvia Wynter, "Novel and History, Plot and Plantation," *Savacou*,
     no. 5 (June 1971): 95–102.
 
 [^9]: See Edward Kamau Brathwaite, *Contradictory Omens: Cultural
     Diversity and Integration in the Caribbean* (Mona: Savacou, 1974).
 
-[^10]: Édouard Glissant argues for “the right to opacity”; see his
+[^10]: Édouard Glissant argues for "the right to opacity"; see his
     *Poetics of Relation*, trans. Betsy Wing (Ann Arbor: University of
     Michigan Press, 1997).
 
-[^11]: See Tao Leigh Goffe, “‘Guano in Their Destiny’: Race, Geology,
-    and a Philosophy of Indenture,” *Amerasia Journal* 45, no. 1 (2019):
+[^11]: See Tao Leigh Goffe, "'Guano in Their Destiny': Race, Geology,
+    and a Philosophy of Indenture," *Amerasia Journal* 45, no. 1 (2019):
     27–49*.* See also Tiffany Lethabo King, *The Black Shoals: Offshore
     Formations of Black and Native Studies* (Durham, NC: Duke University
-    Press, 2019); Manu Karuka, *Empire’s Tracks: Indigenous Nations,
+    Press, 2019); Manu Karuka, *Empire's Tracks: Indigenous Nations,
     Chinese Workers, and the Transcontinental Railroad* (Berkeley:
     University of California Press, 2019); and Iyko Day, *Alien Capital:
     Asian Racialization and the Logic of Settler Colonial Capitalism*
@@ -914,41 +914,41 @@ generosity, intellectual curiosity, and work as project manager.
 [^12]: Trinidad and Tobagoan-born Canadian author Dionne Brand, for
     instance, takes up these questions in *A Map to the Door of No
     Return*, and Canadian scholar of black geographies Katherine
-    McKittrick writes of *demonic* grounds, invoking Wynter’s provision
+    McKittrick writes of *demonic* grounds, invoking Wynter's provision
     grounds. See Dionne Brand, *A Map to the Door of No Return: Notes to
     Belonging* (Toronto: Vintage Canada, 2001); and Katherine
     McKittrick, *Demonic Grounds: Black Women and the Cartographies of
     Struggle* (Minneapolis: University of Minnesota Press, 2006).
 
-[^13]: Hortense J. Spillers, “Mama’s Baby, Papa’s Maybe: An American
-    Grammar Book,” *Diacritics* 17, no. 2 (1987): 67.
+[^13]: Hortense J. Spillers, "Mama's Baby, Papa's Maybe: An American
+    Grammar Book," *Diacritics* 17, no. 2 (1987): 67.
 
-[^14]: See Vincent Brown, *Tacky’s Revolt: The Story of an Atlantic
+[^14]: See Vincent Brown, *Tacky's Revolt: The Story of an Atlantic
     Slave War* (Cambridge, MA: Bellknap, 2020).
 
 [^15]: See *Unmapping the Caribbean: Sanctuary and Sound*,
     <https://nyuds.maps.arcgis.com/apps/MapSeries/index.html?appid=489f1aee6b324a75b709d5d37f0cea2a>.
 
-[^16]: See “ArcGIS Story Maps,” Esri, <https://storymaps.arcgis.com/>.
+[^16]: See "ArcGIS Story Maps," Esri, <https://storymaps.arcgis.com/>.
 
-[^17]: See Audre Lorde, “The Master’s Tools Will Never Dismantle the
-    Master’s House,” in *Sister Outsider*, 110–13.
+[^17]: See Audre Lorde, "The Master's Tools Will Never Dismantle the
+    Master's House," in *Sister Outsider*, 110–13.
 
-[^18]: See “Classic Story Maps,” Esri,
+[^18]: See "Classic Story Maps," Esri,
     <https://storymaps-classic.arcgis.com/en/>.
 
-[^19]: See Lisa Lowe, “The Intimacies of Four Continents,” in Ann Laura
+[^19]: See Lisa Lowe, "The Intimacies of Four Continents," in Ann Laura
     Stoler, ed., *Haunted by Empire: Geographies of Intimacy in North
     American History* (Durham, NC: Duke University Press, 2006).
 
-[^20]: Arun Peter Lobo and Joseph J. Salvo, “Growth and Composition of
-    the Immigrant Population,” in *The Newest New Yorkers:
-    Characteristics of the City’s Foreign-Born Population* (New York:
+[^20]: Arun Peter Lobo and Joseph J. Salvo, "Growth and Composition of
+    the Immigrant Population," in *The Newest New Yorkers:
+    Characteristics of the City's Foreign-Born Population* (New York:
     City of New York, Department of City Planning, and Office of
     Immigrant Affairs, 2013), 13,
     <https://www1.nyc.gov/assets/planning/download/pdf/data-maps/nyc-population/nny2013/nny_2013.pdf>.
 
-[^21]: See “Post(card)s from the ‘en dehors garde,’” MinnaLoy.com,
+[^21]: See "Post(card)s from the 'en dehors garde,'" MinnaLoy.com,
     https://mina-loy.com/endehorsgarde/. The digital flash mob is here:
     <https://mina-loy.com/chapters/avant-garde-theory-2/digital-flash-mob/>.
 
@@ -958,22 +958,22 @@ generosity, intellectual curiosity, and work as project manager.
     Malcolm, Matthew Martinez, Michelle Mawere, Kevwe Okumakube, Massiel
     Perez, Amodhya Samarakoon, Jesse Sgambati, Tatyana Tandanpolie,
     Mahalet Tegenu, Eva Toscanos, Hawau Touray, and Xiaolong Woods.
-    []{#_Hlk53737815 .anchor}Throughout the narrative I link them to
+    Throughout the narrative I link them to
     specific parts of the project.
 
 [^23]: See Kei Miller, *The Cartographer Tries to Map a Way to Zion*
-    (Manchester, UK: Carcanet, 2014). Miller’s series of poems relay a
+    (Manchester, UK: Carcanet, 2014). Miller's series of poems relay a
     conversation between a colonial mapmaker and a Rastafarian that
     includes musings on toponymy and on the narratives inscribed in the
     maps of the Caribbean. The attempt signaled by the word *tries* in
-    the title is key: Miller’s cartographer will never be able to map or
+    the title is key: Miller's cartographer will never be able to map or
     reach Zion, a place of refuge and salvation as much for the
     Israelites as for Rastafarians.
 
 [^24]: See B. W. Higman and B. J. Hudson, *Jamaican Place Names*
     (Kingston: University of the West Indies Press, 2009).
 
-[^25]: During this time, I discovered my colleague Mimi Onuoha’s course
+[^25]: During this time, I discovered my colleague Mimi Onuoha's course
     Impossible Maps at New York University, New York, New York, in which
     she is asking similar questions. See
     <https://github.com/MimiOnuoha/Impossible-Maps>.
@@ -982,39 +982,39 @@ generosity, intellectual curiosity, and work as project manager.
     Decolonial Perspectives* (Durham, NC: Duke University Press, 2017),
     xvi.
 
-[^27]: See Tina Campt, “Black Visuality and the Practice of Refusal,”
+[^27]: See Tina Campt, "Black Visuality and the Practice of Refusal,"
     *Women and Performance* 29, no. 1 (2019): 79–87,
-    [*https://www.womenandperformance.org/ampersand/29-1/campt*](https://www.womenandperformance.org/ampersand/29-1/campt).
+    [https://www.womenandperformance.org/ampersand/29-1/campt](https://www.womenandperformance.org/ampersand/29-1/campt).
 
-[^28]: On “nation language,” see Kamau Brathwaite, “History of the
-    Voice,” in *Roots* (Ann Arbor: University of Michigan Press, 1993),
+[^28]: On "nation language," see Kamau Brathwaite, "History of the
+    Voice," in *Roots* (Ann Arbor: University of Michigan Press, 1993),
     259–304.
 
-[^29]: See Hortense Spillers, “To the Bone: Some Speculations on Touch”
-    (presented at the Gerrit Rietveld Academie conference “Hold Me
-    Now—Feel and Touch in an Unreal World,” Stedelijk Museum Amsterdam,
+[^29]: See Hortense Spillers, "To the Bone: Some Speculations on Touch"
+    (presented at the Gerrit Rietveld Academie conference "Hold Me
+    Now—Feel and Touch in an Unreal World," Stedelijk Museum Amsterdam,
     23 March 2018),
-    [*https://www.youtube.com/watch?v=AvL4wUKIfpo*](https://www.youtube.com/watch?v=AvL4wUKIfpo).
+    [https://www.youtube.com/watch?v=AvL4wUKIfpo](https://www.youtube.com/watch?v=AvL4wUKIfpo).
 
 [^30]: In 2017, I was hosted by Susan Koenig and Sugar Belly of the
     Windsor Research Centre, where I was able to lodge and from where I
     was led on a tour of bat caves in search of guano. Several years
-    prior, I had researched guano in relation to Ian Fleming’s 1958
+    prior, I had researched guano in relation to Ian Fleming's 1958
     James Bond novel *Dr. No*, which centers on a guano island called
-    Crab Key. See Tao Leigh Goffe, “007 versus the Darker Races: The
-    Black and Yellow Peril in *Dr. No*,” *Anthurium* 12, no. 1 (2015),
+    Crab Key. See Tao Leigh Goffe, "007 versus the Darker Races: The
+    Black and Yellow Peril in *Dr. No*," *Anthurium* 12, no. 1 (2015),
     article 5, <http://doi.org/10.33596/anth.280>.
 
-[^31]: See Sylvia Wynter, “Towards the Sociogenic Principle: Fanon,
+[^31]: See Sylvia Wynter, "Towards the Sociogenic Principle: Fanon,
     Identity, the Puzzle of Conscious Experience, and What It Is Like to
-    be ‘Black,’” in Mercedes F. Durán-Cogan and Antonio Gómez-Moriana,
+    be 'Black,'" in Mercedes F. Durán-Cogan and Antonio Gómez-Moriana,
     eds., *National Identities and Socio-political Change in Latin
     America* (London: Routledge, 2001), 32.
 
 [^32]: The students who assisted with the Jamaica story map include Moriah Dowd, Efosi Litombe, Tatyana Tandanpolie, and Mahalet Tegenu.
 
-[^33]: See Carolyn Cooper, “Professing Slackness: Language, Authority,
-    and Power Within the Academy and Without,” *E-misférica: Caribbean
+[^33]: See Carolyn Cooper, "Professing Slackness: Language, Authority,
+    and Power Within the Academy and Without," *E-misférica: Caribbean
     Rasanblaj* 12, no. 1 (2015),
     <http://archive.hemisphericinstitute.org/hemi/en/emisferica-121-caribbean-rasanblaj/cooper>.
 
@@ -1034,17 +1034,17 @@ generosity, intellectual curiosity, and work as project manager.
     Coalition of New York University. I would like to thank Paula
     Chakravartty for her generosity and her leadership of the Sanctuary
     Coalition. I contributed to the Sanctuary syllabus designed by
-    graduate students and published by *Public Books*. See “Sanctuary
-    Syllabus,” *Public Books*, 5 December 2017,
-    [*http://www.publicbooks.org/sanctuary-syllabus/*](http://www.publicbooks.org/sanctuary-syllabus/).
+    graduate students and published by *Public Books*. See "Sanctuary
+    Syllabus," *Public Books*, 5 December 2017,
+    [http://www.publicbooks.org/sanctuary-syllabus/](http://www.publicbooks.org/sanctuary-syllabus/).
 
 [^38]: The students who assisted with the Hispaniola story map include
     Sophia Gumbs, Harmony Hemmings-Pallay, Naomi Malcolm, and Jesse
     Sgambati.
 
-[^39]: See Edwidge Danticat, “Black Bodies in Motion and in Pain,” *New
+[^39]: See Edwidge Danticat, "Black Bodies in Motion and in Pain," *New
     Yorker*, 22 June 2015 (online),
-    [*https://www.newyorker.com/culture/cultural-comment/black-bodies-in-motion-and-in-pain*](https://www.newyorker.com/culture/cultural-comment/black-bodies-in-motion-and-in-pain);
+    [https://www.newyorker.com/culture/cultural-comment/black-bodies-in-motion-and-in-pain](https://www.newyorker.com/culture/cultural-comment/black-bodies-in-motion-and-in-pain);
     and *Krik? Krak!* (New York: Soho, 2015).
 
 [^40]: In 1937, the Dominican dictator Rafael Trujillo ordered the mass
@@ -1058,7 +1058,7 @@ generosity, intellectual curiosity, and work as project manager.
     (<https://www.queeribbean.com/>), who consulted with the Jamaica
     group; and performance artist Alicia Grullon, of Dominican and
     Haitian heritage and raised in New York, who helped the New York
-    City group. Omar Daujahre, the deputy director of NYU’s Center for
+    City group. Omar Daujahre, the deputy director of NYU's Center for
     Latin American and Caribbean Studies, and Melissa Fuster Rivera, an
     assistant professor of food studies at Brooklyn College, both from
     Puerto Rico, also helped the New York group.
@@ -1066,14 +1066,14 @@ generosity, intellectual curiosity, and work as project manager.
 [^43]: Armanda Lewis brainstormed with me about an approach to grading
     and provided templates for peer grading.
 
-[^44]: See “Data Services: Home,” New York University Libraries,
+[^44]: See "Data Services: Home," New York University Libraries,
     <https://guides.nyu.edu/dataservices>.
 
 [^45]: See Stefano Harney and Fred Moten, *The Undercommons:* *Fugitive
     Planning and Black Study* (Wivenhoe, UK: Minor Compositions, 2013).
 
 [^46]: See New York Scapes, <https://newyorkscapes.org/>. *Unmapping the
-    Caribbean* is included under “Projects.”
+    Caribbean* is included under "Projects."
 
 [^47]: Familiar with the rhythms of the semester, Ryn encouraged
     students to seek help at the right moments. Another former student,
@@ -1085,10 +1085,10 @@ generosity, intellectual curiosity, and work as project manager.
     Separados*, a two-volume digital project designed by Manan Ahmed and
     Alex Gil that visualizes the territory and infrastructure of US
     Immigration and Customs Enforcement, was a major inspiration. See
-    *Torn Apart /Separados*, vol. 1, “a rapidly deployed critical data &
-    visualization intervention,” at
-    <http://xpmethod.columbia.edu/torn-apart/volume/1/>; and vol. 2, “a
-    deep and radically new look,” at
+    *Torn Apart /Separados*, vol. 1, "a rapidly deployed critical data &
+    visualization intervention," at
+    <http://xpmethod.columbia.edu/torn-apart/volume/1/>; and vol. 2, "a
+    deep and radically new look," at
     <http://xpmethod.columbia.edu/torn-apart/volume/2/>.
 
 [^48]: See Michael E. Veal, *Dub: Songscape, Studio Craft, Science
