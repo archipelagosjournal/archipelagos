@@ -247,11 +247,11 @@ listening to Brathwaite's texts in recorded performances. These
 performances often verge on song, underscoring the connections Rohlehr
 identifies and adding a layer that is not present in the written text.
 Examples of the shift to song are plentiful in Brathwaite performance
-and include: 
+and include:[^19a] 
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/1%20Negus%20Segue%202004%20conclusion%20sung.mp3"
-  title = "\"Negus\""
+  title = "\"Negus\" (extract)"
 %}
 
 {% include audio.html 
@@ -271,15 +271,15 @@ and include:
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/5%20from%20Soweto.mp3"
-  title = "\"Soweto\""
+  title = "\"Soweto\" (extract)"
 %}
 
 Also present are instances of drum-like repetition,
-as in:
+as in:[^19b]
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/5b%20KB%20Nights%20from%20cross%20cult%20poetics%20Namsetoura.mp3"
-  title = "\"Nights\""
+  title = "\"Nights\" (extract)"
 %}
 
 {% include audio.html 
@@ -336,7 +336,7 @@ create another effect from that earlier material."[^23]
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/9%20KB%20Rwanda%20Poems%20intro.mp3"
-  title = "Rwanda Poems intro"
+  title = "Extract from the introduction to \"The Rwanda Poems\""
 %}
 
 
@@ -352,7 +352,7 @@ succeed?"[^25]
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/10%20KB%20Atumpan%20to%20Naming%20segue%20in%20Segue%20reading.mp3"
-  title = "Atumpan to Naming segue in Segue reading"
+  title = "Transition from \"Atumpan\" to \"Naming\""
 %}
 
 
@@ -388,7 +388,7 @@ Solstice" and "The Twist" in his Segue reading.[^28]
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/11%20KB%20Xango%20to%20the%20Twist%20Segue%20reading.mp3"
-  title = "Xango to the Twist Segue reading"
+  title = "Transition from \"Xângo at the Summer Solstice\" to \"The Twist\" "
 %}
 
 
@@ -401,7 +401,7 @@ Brathwaite's poetics of versioning can be related to what he calls "montage" and
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/12%20KB%20Emigrants%20montage%20IPF%201987.mp3"
-  title = "Emigrants montage IPF 1987"
+  title = "\"The Emigrants\" (extract) and discussion of montage"
 %}
 
 
@@ -428,7 +428,7 @@ talk and poetry reading.[^32]
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/13%20KB%20canon%20as%20cannon%20IPF%201987.mp3"
-  title = "canon as cannon IPF 1987"
+  title = "On canon as cannon"
 %}
 
 
@@ -440,7 +440,7 @@ Brathwaite builds "Negus" around the repeated word "it" and the phrases
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/14%20KB%20it%20it%20from%20Negus%20Segue.mp3"
-  title = "It it from Negus Segue"
+  title = "\"Negus\" (opening lines)"
 %}
 
 
@@ -484,7 +484,7 @@ of the calypso beat.[^37]
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/15%20KB%20IPF%201987%20Calypso.mp3"
-  title = "IPF 1987 Calypso"
+  title = "Discussion and performance of the opening lines of \"Calypso\""
 %}
 
 
@@ -517,13 +517,12 @@ Other performances in which Brathwaite moves into song also highlight his adapta
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/16%20KB%20IPF%201987%20Ancestors%20extract.mp3"
-  title = "IPF 1987 Ancestors (extract)"
+  title = "\"Ancestors\" (extract)"
 %}
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/17%20KB%20Bongo%20man%20song%20from%20Soweto%20reading.mp3"
-  title = "Bongo man song from Soweto
-reading"
+  title = "\"Soweto\" (extract)"
 %}
  
 Such instances of song provide a context
@@ -611,7 +610,7 @@ got to get under in order to get over."[^53]
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/18%20KB%20on%20the%20limbo%20Middle%20Passages%20lecture.mp3"
-  title = "On the limbo Middle Passages lecture"
+  title = "On the limbo"
 %}
 
 
@@ -624,7 +623,7 @@ addressing the audience draws the listener in.[^54]
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/19%20KB%20Limbo%20Segue.mp3"
-  title = "Limbo Segue"
+  title = "\"Caliban\" (extract) and discussion of the limbo"
 %}
 
 Similarly, in the
@@ -637,12 +636,12 @@ heard, not being "mum," silent, or "dumb." [^56]
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/20%20KB%20on%20mum%20Middle%20Passages%20lecture%20reading.mp3"
-  title = "On mum Middle Passages lecture reading"
+  title = "On \"the society of mum\""
 %}
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/6%20shepherd%20extract.mp3"
-  title = "Shepherd (extract)"
+  title = "\"Shepherd\" (extract)"
 %}
 
 
@@ -668,7 +667,7 @@ authentic, "total Caribbean experience."[^59]
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/21%20KB%20total%20experience%20IPF%201987.mp3"
-  title = "Total experience IPF 1987"
+  title = "On the opening lines of \"Calypso\" as coming \"out of a total Caribbean experience\""
 %}
 
 
@@ -691,7 +690,7 @@ comment on his appearance on stage "on a night like this," the poem's final line
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/22%20KB%20Twist%20reprise%20Segue.mp3"
-  title = "Twist reprise Segue"
+  title = "Reprise of \"The Twist,\" Segue reading"
 %}
 
 In his 1988
@@ -704,7 +703,7 @@ of a kind of neoslavery."[^62]
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/23%20KB%20Twist%20comment%20IPF%201988.mp3"
-  title = "Twist comment IPF 1988"
+  title = "On \"neoslavery\" and \"The Twist\""
 %}
 
 
@@ -770,17 +769,17 @@ revolutionary "beat dem drums / dem" drumbeat of "Wings of a Dove."[^66]
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/14%20KB%20it%20it%20from%20Negus%20Segue.mp3"
-  title = "It it from Negus Segue"
+  title = "\"Negus\" (opening lines)"
 %}
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/3%20Atumpan.mp3"
-  title = "Atumpan"
+  title = "\"Atumpan\""
 %}
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/6%20shepherd%20extract.mp3"
-  title = "Shepherd (extract)"
+  title = "\"Shepherd\" (extract)"
 %}
 
 The passage of this
@@ -794,7 +793,7 @@ performance of "Negus."[^67]
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/26%20KB%20Negus%20Segue%20kingdom%20of%20word.mp3"
-  title = "Negus Segue kingdom of word"
+  title = "\"kingdom of the word,\" extract from \"Negus\""
 %}
 
 Close listening to "The Twist" in the context of the Segue reading thus
@@ -939,6 +938,10 @@ of speaking and listening might bring.
 [^18]: Gordon Rohlehr, *Pathfinder: Black Awakening in "The Arrivants"
     of Edward Kamau Brathwaite* (Tunapuna, Trinidad: Gordon Rohlehr,
     1981), 333–40.
+
+[^19a]: MP3s of these poems are at http://writing.upenn.edu/pennsound/x/Brathwaite.php: "Negus" (extract: 4:17–35), "The Twist" (first version), "Atumpan," "Caliban" (extract: 8:20–32), "Shepherd" (extract: 00:00–27), and "Wings of a Dove" (extract: 1:40–1:53), recorded at the Bowery Poetry Club, 1 May 2004, New York City, are found under "Segue Reading." "Soweto" is in the 1988 International Poetry Forum recording, at 47:00 (extract 56:33–57:12). 
+
+[^19b]: "Nights" is in the recording of Cross-Cultural Poetics, radio show hosted by Leonard Schwartz, show no. 94 (2005), at 12:59 (extract: 15:42–58). "Angel/Engine," recorded 19 October 1997 at "XCP: Cross-Cultural Poetics Conference," is under its own heading (extract: 0:00–27); also available in the eCompanion to Sherwood, "Elaborate Versionings" (see note 9).
 
 [^20]: See Nathaniel Mackey, "Other: From Noun to Verb,"
     *Representations* 39 (1992): 52. Kelly Josephs's essay "Versions of
