@@ -397,7 +397,7 @@ interrupts his poems to comment on them.[^29] Close listening to all
 these variations provides the basis for a discussion of the text
 informed by an awareness of its constitutive multiplicity.
 
-Brathwaite's poetics of versioning can be related to what he calls "montage" and "calibanisms," **the name he gives to his punning word combinations and new coinages**.[^30] To illustrate the role of montage, I have students listen to Brathwaite performing "The Emigrants"[^30] in his 1987 International Poetry Forum performance.
+Brathwaite's poetics of versioning can be related to what he calls "montage" and "calibanisms," *the name he gives to his punning word combinations and new coinages*.[^30a] To illustrate the role of montage, I have students listen to Brathwaite performing "The Emigrants"[^30b] in his 1987 International Poetry Forum performance.
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/12%20KB%20Emigrants%20montage%20IPF%201987.mp3"
@@ -416,15 +416,7 @@ interplay between the many versions of his poems in his books and in his
 recordings functions in this montage-like, juxtaposing, multilayered
 way.
 
-In addition to drawing a parallel between Brathwaite's montage
-techniques and his versioning of his poems, I also note how these
-versions are larger-scale instances of his reiterations and rearrangements of
-words. These word repetitions—or "insistences," in Gertrude Stein's
-sense—appear frequently in Brathwaite's punning, paronomastic
-poetry.[^31] For example, Brathwaite links "semicolons" and
-"semicolonies" in "Negus," and "canon" and "cannon" in speaking about the difficulties of escaping the
-tyranny of English literature in his 1987 International Poetry Forum
-talk and poetry reading.[^32] 
+In addition to drawing a parallel between Brathwaite's montage techniques and his versioning of his poems, I also note how these versions are larger-scale instances of his reiterations and rearrangements of words. These word repetitions—or "insistences," in Gertrude Stein's sense—appear frequently in Brathwaite's punning, paronomastic poetry.[^31] For example, Brathwaite links "semicolons" and "semicolonies" in "Negus," and "canon" and "cannon" in speaking about the difficulties of escaping the tyranny of English literature in his 1987 International Poetry Forum talk and poetry reading.[^32]
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/13%20KB%20canon%20as%20cannon%20IPF%201987.mp3"
@@ -718,7 +710,7 @@ prison."[^63]
 
 {% include audio.html 
   url = "https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Edmond-clips/24%20KB%20IPF%201987%20model%20and%20prison.mp3"
-  title = "IPF 1987 model and prison"
+  title = "On English as \"a model and a prison\""
 %}
 
 That is, on the one
@@ -992,9 +984,9 @@ of speaking and listening might bring.
 
 [^29]: Sherwood, "Elaborate Versionings," 134.
 
-[^30]: Edward Kamau Brathwaite, *Sun Poem* (Oxford: Oxford University Press, 1982), 100.
+[^30a]: Edward Kamau Brathwaite, *Sun Poem* (Oxford: Oxford University Press, 1982), 100.
     
-[^30]: Kamau Brathwaite, 1987 International Poetry Forum performance,
+[^30b]: Kamau Brathwaite, 1987 International Poetry Forum performance,
     PennSound (extract: 34:31–37:51).
 
 [^31]: Gertrude Stein, *Gertrude Stein: Writings, 1932–1946*, ed.
