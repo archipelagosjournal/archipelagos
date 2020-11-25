@@ -257,7 +257,7 @@ States. Students who were of Caribbean origin expressed shame at having
 only “a sense” of the geography of their homelands.
 
 {% include image.html
-  img="issue05/goffe/fig2.png"
+  img="issue05/goffe/fig2.jpg"
   title="Maps from Memory"
   caption="Figure 2. To start the project, students drew maps of five Caribbean locations from memory." %}
 
