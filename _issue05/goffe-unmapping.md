@@ -635,6 +635,11 @@ beautiful example of sonic copresence and decolonial rhythm, and the
 classroom presentation of this story map was vibrant—students began to
 dance and gave the group a standing ovation.
 
+{% include audio.html 
+  url="http://archipelagosjournal.org/assets/extras/issue05-goffe-recording.mp3"
+  title="Original composition by Jesediah"
+  %}
+
 {% include image.html
   img="issue05/goffe/fig9.png"
   title="Cubao: Santería from Obscurity to Hypervisiblity"
