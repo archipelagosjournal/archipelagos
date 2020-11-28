@@ -97,14 +97,14 @@ roles of contributors to the project or the labor conditions under which
 the project was produced, though one can glean that this is a
 single-authored project developed by a professional design firm. A bit
 more information concerning conceptual provenance and funding would be
-welcome on the “About” page, for example. Although all documents in the
+welcome on the "About" page, for example. Although all documents in the
 projects are at external links, these hyperlinks should not replace
-citations for those sources. A “Works Cited” page, organized by who is
+citations for those sources. A "Works Cited" page, organized by who is
 featured on the site, with all sources for each person listed beneath
 her or his name, might be an elegant solution. Finally, the site author
 might consider including more information on the main page about each
 linked document; it is currently rather difficult to use because
-everything looks the same (multiple items are named “correspondence,”
+everything looks the same (multiple items are named "correspondence,"
 for example).
 
 Preservation 
@@ -153,7 +153,7 @@ lived realities, and as relationships to space and power in slaveholding
 societies. Because this vision of mobility is so expansive, it requires
 different kinds of maps. The site therefore offers two kinds of
 visualizations—flights and networks. The
-“[Flight](http://mapping-marronage.rll.lsa.umich.edu/flight)” section is
+"[Flight](http://mapping-marronage.rll.lsa.umich.edu/flight)" section is
 a visual rendering of movement through space, movement that was
 deliberate and haphazard, that doubled back on itself and created
 networks and communities that were defined by enslavement but also
@@ -161,16 +161,16 @@ imagined life otherwise. A focus on travel, however, precludes the
 experiences of those who lived and died on a single plantation but whose
 influences, stories, ideas, and myths extended beyond the tightly
 circumscribed sphere of their captivity. Indeed, as the project’s
-reviewer asks, “What, for instance, might this project present for a
+reviewer asks, "What, for instance, might this project present for a
 person who never leaves a very tight geographic radius but who fits one
-of this site’s multiple definitions of *marronage*?”
-“[Networks](http://mapping-marronage.rll.lsa.umich.edu/networks)”
+of this site’s multiple definitions of *marronage*?"
+"[Networks](http://mapping-marronage.rll.lsa.umich.edu/networks)"
 attempts to account for these varied forms of mobility. Pierre
 Toussaint, for example, moved only once, from Haiti to New York. Yet his
 philanthropic works, economic transactions, correspondence, and family
 networks extended far beyond New York City. His story, like that of
 Charles Pierre Lambert, whose network shows what my students have termed
-“intergenerational mobility,” is a story about Atlantic bonds that often
+"intergenerational mobility," is a story about Atlantic bonds that often
 included fraught intimacies between enslaved people and their enslavers.
 
 The *Mapping Marronage* digital map was built by the Agile Humanities
@@ -220,7 +220,7 @@ the reviewer for this opportunity to think otherwise, to begin not from
 the end of the project and feeling my way toward a goal but from the
 beginning. To implement this suggestion, I plan to rewrite the site’s
 framing narrative and to divide the
-“[About](http://mapping-marronage.rll.lsa.umich.edu/about)” section into
+"[About](http://mapping-marronage.rll.lsa.umich.edu/about)" section into
 two parts. The first part will give an overview of the project’s
 overarching aims. The second will walk the user through which of these
 aims are attainable in the moment, therefore functioning as part
