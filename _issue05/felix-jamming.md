@@ -4,7 +4,7 @@ section: articles
 title: 
   "long": "Culture Jamming in the Caribbean: A Case of Alternative Media through Double Alternativity in Trinidad and Tobago"
   "short": "Culture Jamming in the Caribbean"
-doi: "https://doi.org/#"
+doi: "https://doi.org/10.7916/archipelagos-fx7k-bj27"
 author: 
 - name: Jonathan J. Felix
   shortname: Felix
