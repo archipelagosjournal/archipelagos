@@ -4,7 +4,7 @@ section: articles
 title: 
   "long": "Teaching without a Text: Close Listening to Kamau Brathwaite's Digital Audio Archive"
   "short": "Teaching without a Text"
-doi: "https://doi.org/#"
+doi: "https://doi.org/10.7916/archipelagos-neey-zd31"
 author: 
 - name: Jacob Edmond
   shortname: Edmond
