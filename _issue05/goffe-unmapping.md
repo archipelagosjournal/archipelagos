@@ -625,7 +625,7 @@ how genres transcend national and geographic borders. The students also
 highlighted the Haitian guitar-based Latin genre *twoubadou*, which
 developed through migration across the border with the Dominican
 Republic. One student, Jesse Sgambati (Jesediah), who was pursuing a
-degree in recorded music, produced an original composition, an
+degree in recorded music, produced [an original composition](http://archipelagosjournal.org/assets/extras/issue05-goffe-recording.mp3), an
 instrumental track that blends Haitian polyrhythms and features shakers,
 skin drums, and wood blocks alongside electronic elements, snares, 808
 kicks, and synth sounds. The string elements of the song gesture to
@@ -634,11 +634,6 @@ which was paired with the *banza*, the banjo of Haiti. The song is a
 beautiful example of sonic copresence and decolonial rhythm, and the
 classroom presentation of this story map was vibrant—students began to
 dance and gave the group a standing ovation.
-
-{% include audio.html 
-  url="http://archipelagosjournal.org/assets/extras/issue05-goffe-recording.mp3"
-  title="Original composition by Jesediah"
-  %}
 
 {% include image.html
   img="issue05/goffe/fig9.png"
