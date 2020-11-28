@@ -4,7 +4,7 @@ section: projects
 title: 
   "long": "Mapping Marronage"
   "short": "Mapping Marronage"
-doi: "https://doi.org/"
+doi: "https://doi.org/10.7916/archipelagos-ar70-sf84"
 author: 
 - name: Annette Joseph-Gabriel
   shortname: Joseph-Gabriel
