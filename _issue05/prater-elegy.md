@@ -4,7 +4,7 @@ section: articles
 title: 
   "long": "Always Together: A Digital Diasporic Elegy"
   "short": "Always Together"
-doi: "https://doi.org/#"
+doi: "https://doi.org/10.7916/archipelagos-m2fg-gv81"
 author: 
 - name: Tzarina T. Prater
   shortname: Prater
