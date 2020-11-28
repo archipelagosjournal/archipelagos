@@ -4,16 +4,16 @@ section: projects
 title: 
   "long": "Mapping the Haitian Revolution"
   "short": "Mapping the Haitian Revolution"
-doi: "https://doi.org/"
+doi: "https://doi.org/10.7916/archipelagos-mx57-xz29"
 author: 
 - name: Stephanie Curci
   shortname: Curci
   bio: >
-    Stephanie Curci is a scholar of...
+    Stephanie Curci is an instructor and chair of the English Department at Phillips Academy in Andover, Massachusetts.  In addition to her work on this project, she has maintained Mapping Haitian History (a visual records project) since 2007, a project she described in the Journal of Haitian Studies in 2008.
 - name: Christopher Jones
   shortname: Jones
   bio: >
-    Christopher Jones is a ...
+    Christopher Jones is a scholar of the American Civil War, 19th Century America, and African American history. His research explores race, memory, and masculinity in post-Civil War America. He is an instructor of history at Phillips Academy, Andover.
 date: December 2020
 issue: 5
 order: 7
