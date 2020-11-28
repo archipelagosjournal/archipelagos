@@ -1,6 +1,4 @@
 #!/usr/bin/env python
-from __future__ import print_function
-
 from pandocfilters import toJSONFilter, RawInline, Cite, Para, Header, Str, RawBlock, elt, BlockQuote, Div
 import os, sys, pprint, re
 
@@ -93,7 +91,8 @@ def mycite(key, value, fmt, meta):
         
         if type(value) is list:
             for key,val in enumerate(value):
-                if 'c' in val and type(val['c']) is unicode and val['t'] == 'Str' and re.match(r'http:',val['c']):      
+                # python3
+                if 'c' in val and type(val['c']) is str and val['t'] == 'Str' and re.match(r'http:',val['c']):      
                     #val=[context("\hyphenatedurl{")]+[val]+[context("}")]
                     #val['c']="\hyphenatedurl{%s}" % (val['c'])
                     urlKeys.append((key, key+2))

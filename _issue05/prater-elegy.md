@@ -9,7 +9,7 @@ author:
 - name: Tzarina T. Prater
   shortname: Prater
   bio: >
-    Tzarina T. Prater is an associate professor in the Department of English and Media Studies at Bentley University. She has published articles on Sino-Caribbean literature and culture as well as US spectatorship of Hong Kong action cinema, digital platforms, and science fiction. Her current book project on Chinese Jamaican literary and cultural production, \"Labrish and Mooncakes: National Belonging in Chinese Jamaican Cultural Production,\" is in process.
+    Tzarina T. Prater is an associate professor in the Department of English and Media Studies at Bentley University. She has published articles on Sino-Caribbean literature and culture as well as US spectatorship of Hong Kong action cinema, digital platforms, and science fiction. Her current book project on Chinese Jamaican literary and cultural production, "Labrish and Mooncakes: National Belonging in Chinese Jamaican Cultural Production," is in process.
 date: December 2020
 issue: 5
 order: 1
@@ -42,10 +42,10 @@ hashtags \#KamauBrathwaite and \#40NightsofTheVoice were used to
 aggregate and connect posts. The project brought together contributors
 from the Caribbean, Canada, the United Kingdom, Africa, and the United
 States in what Kelly Baker Josephs, building on Brathwaite's work, has
-theorized as the \"digital yard.\"[^1] All the participants were united by
-the fact that they had been \"shaped and guided by Kamau's thinking, his
-writing and his presence,\"[^2] and they produced what I am calling an
-explicitly Caribbean practice of \"digital diasporic elegy.\"
+theorized as the "digital yard."[^1] All the participants were united by
+the fact that they had been "shaped and guided by Kamau's thinking, his
+writing and his presence,"[^2] and they produced what I am calling an
+explicitly Caribbean practice of "digital diasporic elegy."
 
 This essay is divided into three sections. The first defines and unpacks
 my key term, *digital diasporic elegy*, and establishes my focus on
@@ -67,9 +67,9 @@ Defining the Term: Digital Diasporic Elegy
   title="The Zea Mexican Diary"
   caption="Figure 1. From Kamau Brathwaite's *The Zea Mexican Diary, 7 Sept 1926–7 Sept 1986*, page 175." %}
 
-With roots in classical literature, the term *elegy* denotes \"a short
+With roots in classical literature, the term *elegy* denotes "a short
 poem, usually formal or ceremonious in tone and diction, occasioned by
-the death of \[a\] person.\"[^3] Elegiac texts can be textual or
+the death of \[a\] person."[^3] Elegiac texts can be textual or
 photographic; can take the form of plastic arts, monuments, or
 memorials; and can be literal and symbolic. They are at once public and
 intensely private, collective and personal, and they are often tied to
@@ -80,8 +80,8 @@ pushes at the limits of language, and strains and exposes its
 competencies and inefficiencies.[^4] In the strictest sense, elegies are
 texts that memorialize the dead, frame loss for the living, and,
 according to Karen Weisman in her introduction to *The Oxford Handbook
-of the Elegy*, exist \"between the extremes of life and death, joy and
-sorrow, the receding past and the swiftly moving present.\"[^5] Most
+of the Elegy*, exist "between the extremes of life and death, joy and
+sorrow, the receding past and the swiftly moving present."[^5] Most
 important for my analysis, the elegiac genre is defined by the
 exigencies and technologies of the historical moment in which the elegy
 is produced. I am interested in what constitutes the elegy in our
@@ -91,27 +91,27 @@ social unrest, in which the daily news, filled with obscene images of
 black death, comes to us via our digital news feeds and timelines. How
 do we deal with death, dying, mourning, loss, and grief, both personal
 and collective, as we are subject to a palpable fatigue
-resulting from the \"always now-ness\" of our \"swiftly moving present\"?
+resulting from the "always now-ness" of our "swiftly moving present"?
 
 Literary theorist Jahan Ramazani claims that the modern elegy is
 interested in not so much healing, transcendence, or redemption but
 rather immersion. It is the immersive quality of social media that is
 relevant for my analysis.[^6] According to Ramazani, there are two
-\"distinct elements that fuse in the imagery of national elegies,\"
-notably, \"the collective mourning that is often fundamental in the
-formation of group identity\" and the \"recursive or echoic quality of
-poetic language.\"[^7] It is this pattern, repetition, consonance, and
+"distinct elements that fuse in the imagery of national elegies,"
+notably, "the collective mourning that is often fundamental in the
+formation of group identity" and the "recursive or echoic quality of
+poetic language."[^7] It is this pattern, repetition, consonance, and
 assonance—the beats and rhythms of the poetic—that creates
 interpenetrative effects among participants, community members,
 creators, and readers/audiences. Nadia Ellis, however, contests
-Ramazani's claim that modern elegies do not \"heal the living.\"[^8] In
-her \"Elegies of Diaspora,\" Ellis links loss and pain, two threads
+Ramazani's claim that modern elegies do not "heal the living."[^8] In
+her "Elegies of Diaspora," Ellis links loss and pain, two threads
 inextricably interwoven into processes of diaspora and migration, to
 elegiac texts produced in diaspora, arguing that diasporic elegies
-explore the failures and \"duplicities of the neoliberal state\" and the
+explore the failures and "duplicities of the neoliberal state" and the
 pain and grief necessarily attendant to citizenship.[^9]
 
-I use the formulation \"digital diasporic elegy\" to describe a set of
+I use the formulation "digital diasporic elegy" to describe a set of
 contemporary texts, practices, and forms of participation that take up
 death, dying, loss, mourning, and lamentation as their subject matter
 and circulate among diasporic subjects on social media platforms and
@@ -120,14 +120,14 @@ diasporic subjects struggle with grief and feelings of dislocation as
 they navigate violently nationalistic terrains. Social media platforms
 are nodal points where subjects in diasporic formations connect and
 commune. During this time of global pandemic, people's lives have been
-constrained to domestic spaces; to venture \"outside\" has, for many, been
+constrained to domestic spaces; to venture "outside" has, for many, been
 to go online. Social media engulf users in ever-present grievances.
 Databases like YouTube and Instagram use an algorithmic code to bring
-\"recommended\" and \"of interest\" posts into individual feeds. Producing a
+"recommended" and "of interest" posts into individual feeds. Producing a
 constant stream of imagery, these platforms create a perpetual, painful
 present. The mediated present of the news feed is undeniably relentless.
 It is shaped by user's likes, follows, searches, and susceptibility
-to \"click bait,\" all of which comes together to create the contours of individual digital personae and
+to "click bait," all of which comes together to create the contours of individual digital personae and
 the communities to which they belong. Kelly Baker Josephs offers
 insightful critical reflections on a host of online creative activities
 in which Caribbean writers engage: tweeting and retweeting, posting and
@@ -139,33 +139,33 @@ and create digital diasporic elegiac practices and texts.
 Unlike brick-and-mortar sites that have historically had an elegiac
 function as material anchors for nationalistic fantasies, social media
 sites like Twitter, Instagram, YouTube, and Facebook can memorialize and
-destabilize the privileged relationship between \"history\" and
+destabilize the privileged relationship between "history" and
 temporality. Whereas museums and archives create and preserve a version
 of the past, social media sites create living and evolving archives of
 the now. Further, they allow users to function and envision themselves
 as walking archives, impulsively curating often carefully edited and
 pixelated, uploadable versions of themselves and their lives.
 
-Social media timelines invoke \"linearity\" but are not always faithful to
+Social media timelines invoke "linearity" but are not always faithful to
 it. A destabilization of temporality is possible on these platforms
 insofar as current and past events can readily merge. While much is made
-of the brevity of the \"news cycle,\" timelines offer challenges to
+of the brevity of the "news cycle," timelines offer challenges to
 cultural and social memory by asynchronously interpolation images and videos
 of the immediate or recent past alongside images and events from long
 ago. As members of particular social circles discover and share cultural
-texts anew, the \"grievable\" can seem to extend out of the digital ether
-to take hold of and traumatize \"in real time,\" so to speak. Most
+texts anew, the "grievable" can seem to extend out of the digital ether
+to take hold of and traumatize "in real time," so to speak. Most
 recently, the names of black victims of police violence have been
-regularly \"popping into\" timelines from multiple news media sources and
+regularly "popping into" timelines from multiple news media sources and
 personal connections. Circulating along with those names are visual
-components, elegiac images that can, according to Josh Ellenbogen, refuse to do the work of conventional elegy. They risk \"\[taking\]
-us out of a narrative process of grief,\" bringing pain into the present
-and inhibiting the \"‘normal' work of mourning,\" which is to move
+components, elegiac images that can, according to Josh Ellenbogen, refuse to do the work of conventional elegy. They risk "\[taking\]
+us out of a narrative process of grief," bringing pain into the present
+and inhibiting the "‘normal' work of mourning," which is to move
 emotionally toward consolation.[^11] Deep ontological wounds are renewed
 and reopened as the historical past bleeds into the present through
 racialized articulations of power in images of torture, pain, and death.
 With no clear beginning, middle, or end, the constant accessibility of
-these images and narratives—that is, their \"reach\"—can, according to
+these images and narratives—that is, their "reach"—can, according to
 Elizabeth Helsinger, prolong reflection and extend the duration of
 grieving in ways that literary texts, because of specific work done by
 visual texts, do not.[^12] The proliferation and dominance of American
@@ -196,7 +196,7 @@ acknowledges the fluidity of technologies that make these utterances
 possible in ways that are linked to the technologies that made diaspora
 possible.
 
-### \"Always Together\": Following the Digital Crumbs down the Rabbit Hole
+### "Always Together": Following the Digital Crumbs down the Rabbit Hole
 
 My fall down this particular rabbit hole began around the anniversary of
 my mother's death, which occurred exactly one year before two planes hit
@@ -205,12 +205,12 @@ national, and political landscape of the United States. With each
 anniversary of this national day of mourning, I am brought back to my
 own personal loss. In the process of conducting research for a project
 on diasporic Sino-Caribbean subjects and their participation on social
-media platforms, I \"happened upon\" an upload of \"Always Together,\" a
+media platforms, I "happened upon" an upload of "Always Together," a
 rocksteady reggae song performed by Byron Lee and the Dragonaires and
 featuring vocals by late Taiwanese singer Stephen Cheng. I use the
-phrase \"happened upon\" somewhat facetiously, knowing that what drops
-into my \"recommended for you\" feed has been shaped by hundreds of prior
-decisions I have made: by my \"likes,\" visits, and \"cookies,\" all the
+phrase "happened upon" somewhat facetiously, knowing that what drops
+into my "recommended for you" feed has been shaped by hundreds of prior
+decisions I have made: by my "likes," visits, and "cookies," all the
 subterranean code that contours the digital worlds I visit and inhabit.
 Encountering this song in my own time of remembrance became an occasion
 to think through what constitutes the digital diasporic elegy and how a
@@ -227,7 +227,7 @@ track's classic status.[^15]
 {% include image.html
   img="issue05/prater/fig2.png"
   title="Pascal Cheng's Search"
-  caption="Figure 2. In the comments section under an upload of \"Always Together,\" Pascal Cheng, Stephen Cheng's son, seeks information about the song."
+  caption="Figure 2. In the comments section under an upload of "Always Together," Pascal Cheng, Stephen Cheng's son, seeks information about the song."
   url="https://www.youtube.com/watch?v=R30SYupoQo8" %}
 
 I had dropped, *en media res*, onto one of many nodal points Pascal
@@ -242,7 +242,7 @@ Records.[^16] Users also directed Pascal Cheng to other media and
 cultural texts, including *The Man with the Iron Fist*, a 2012 film
 starring and produced by RZA, legendary member and producer of the
 hip-hop music group Wu Tang Clan; RZA had included Frances Yip's popular
-1974 version, \"Green Is the Mountain,\" on the film's soundtrack. Pascal
+1974 version, "Green Is the Mountain," on the film's soundtrack. Pascal
 Cheng was also directed to Jeannette Kong's *Finding Samuel Lowe: From
 Harlem to China*, a 2014 documentary film about Paula Williams Madison,
 a woman of black and Chinese Jamaican descent engaged in an analogous
@@ -253,14 +253,14 @@ origins in mento, rhythm and blues, jazz, and ska, had been taken up in
 the mid-1960s by the first wave of British skinheads, a youth subculture
 that emerged from working-class enclaves of London and whose members
 rejected both political conservatism and the bourgeois cathexis to
-American-identified \"hippie\"/pop culture. Several YouTube uploads of
-\"Always Together\" use cover art from Skinheads on the Dancefloor albums
+American-identified "hippie"/pop culture. Several YouTube uploads of
+"Always Together" use cover art from Skinheads on the Dancefloor albums
 (fig. 3) or use photographic stills of skinheads in England.[^17]
 
 {% include image.html
   img="issue05/prater/fig3.jpg"
   title="Skinheads on the Dancefloor"
-  caption="Figure 3. Album cover art sometimes used over the track of Stephen Cheng's \"Always Together\" in YouTube uploads." %}
+  caption="Figure 3. Album cover art sometimes used over the track of Stephen Cheng's "Always Together" in YouTube uploads." %}
 
 In terms of composition, several users have uploaded the track with
 static pictures of either a 1967 Sunshine Records or 2018 Federal
@@ -270,26 +270,26 @@ Rocksteady: Always Together, 1964–1968*, a collection released in May
 2019 by Dub Store Records, a Japanese record company out of Tokyo (fig.
 6).
 
-{% include image.html
-img="issue05/prater/fig4.jpg"
-title="Sunshine Records 45rmp" %}
+{% include image.html 
+   img="issue05/prater/fig4.jpg" 
+   title="Sunshine Records 45rmp"
+   caption="Sunshine Records 45rmp" %}
 
-{% include image.html
+{% include image.html 
 img="issue05/prater/fig5.jpg"
-caption="Figures 4 and 5. Images of 45rpm records sometimes used over
-the track of Stephen Cheng's \"Always Together\" in YouTube uploads." %}
+title="Images of 45rpm records sometimes used over the track of Stephen Cheng's \"Always Together\" in YouTube uploads."
+caption="Figures 4 and 5. Images of 45rpm records sometimes used over the track of Stephen Cheng's \"Always Together\" in YouTube uploads." %}
 
 {% include image.html
 img="issue05/prater/fig6.jpg"
 title="BMN Collection"
-caption="Figure 6. Another album cover sometimes used over the track
-of Stephen Cheng's \"Always Together\" in YouTube uploads." %}
+caption="Figure 6. Another album cover sometimes used over the track of Stephen Cheng's \"Always Together\" in YouTube uploads." %}
 
 The BMN collection cover art is a cluster of signifiers. It depicts a
 young black man in what looks like a Panama hat and wearing dark
 sunglasses, with the shadow of the photographer discernable in the
-lenses. He is the embodiment of \"cool.\" Added to this visual signifier
-of \"authenticity\" is the inclusion of Ronnie Nasralla, named on the
+lenses. He is the embodiment of "cool." Added to this visual signifier
+of "authenticity" is the inclusion of Ronnie Nasralla, named on the
 cover as producer. Nasralla, a Jamaican-born record producer of Lebanese
 and Jamaican descent, had gone to school with Byron Lee and was part of
 an early incarnation of the Dragonaires. The collection had been
@@ -306,6 +306,7 @@ Jamaica.
 
 {% include image.html
   img="issue05/prater/fig7.png"
+  title="Exceprt from an exchange between Pascal Cheng and 1970Rudeboy (among others) in the comments below an upload of Stephen Cheng's \"Always Together\" on YouTube."
   caption="Figure 7. Exceprt from an exchange between Pascal Cheng and 1970Rudeboy (among others) in the comments below an upload of Stephen Cheng's \"Always Together\" on YouTube."
   url="https://www.youtube.com/watch?v=R30SYupoQo8" %}
 
@@ -317,20 +318,20 @@ sites for music aficionados and crate diggers, as well as to Stephen
 Cheng's 2012 *New York Times* obituary. Anyone who chooses to can follow Pascal Cheng's digital footprints and fall into these various narratives, one of which provides an understanding of the historical, cultural, and political contexts in which Stephen Cheng and Byron Lee created a remarkable recording that brings together multiple national threads and histories. For example, on 27 June 2019, YouTube user Mike Aylward
 entered the conversation thread begun by Pascal Cheng and 1970RudeBoy to
 inform Cheng of the existence of Krish Raghav's longform comic
-\"Redemption Songs,\" a graphic historical essay published online in
+"Redemption Songs," a graphic historical essay published online in
 *Topic Magazine*.[^18]
 
 {% include image.html
   img="issue05/prater/fig8.png"
   title="Redemption Songs"
-  caption="Figure 8. Cover art to Krish Raghav's \"Redemption Songs\" in *Topic Magazine*."
+  caption="Figure 8. Cover art to Krish Raghav's "Redemption Songs" in *Topic Magazine*."
   url="https://www.topic.com/redemption-songs" %}
 
-\"Redemption Songs\" begins with the image of an animated record bearing
-the title \"Beijing Babylon,\" and on the record player arm appears
-\"Reggae's 60-year Journey to China\" (fig. 8). The essay-comic then
+"Redemption Songs" begins with the image of an animated record bearing
+the title "Beijing Babylon," and on the record player arm appears
+"Reggae's 60-year Journey to China" (fig. 8). The essay-comic then
 informs the reader of Stephen Cheng and Byron Lee's meeting and
-recording of \"Always Together\" and provides a Soundcloud audio file
+recording of "Always Together" and provides a Soundcloud audio file
 link. The rest of the essay-comic provides a brief history of the
 Chinese in Jamaica and explores the little-known role of Chinese
 Jamaicans in Jamaican music production. It goes on to inform the reader
@@ -340,8 +341,8 @@ stock. Reggae found an audience in Mainland China through its appeal to
 ethnic minorities chafing under oppression and those invested in
 political resistance.[^19] Raghav's three-part digital essay-comic ends
 with an animated image of Lee and Cheng and these words of lamentation:
-\"Starting from Cheng and Byron Lee in 1967… / A yearning. / A moment of
-freedom. / Of Zion glimpsed.\" Within twenty-four hours of Aylward's
+"Starting from Cheng and Byron Lee in 1967… / A yearning. / A moment of
+freedom. / Of Zion glimpsed." Within twenty-four hours of Aylward's
 YouTube post, Pascal Cheng confirmed having read the essay-comic.
 
 One way to read this graphic historical essay is as a reclamation, a
@@ -350,15 +351,15 @@ forced from their homeland over 1650 years ago. They were made to endure
 four intercontinental migrations before being pushed, in a fifth major
 migration, into the Pacific, the Americas, and the Atlantic in search of
 economic prosperity, political and religious asylum, and freedom.[^20]
-\"Redemption Songs\" points to a long labor history linking African,
+"Redemption Songs" points to a long labor history linking African,
 Caribbean, and Chinese diasporas to networks of (neo)colonial capital,
 and it suggests, visually and aurally, collaboration between descendants
 of diasporized peoples. Narratively speaking, the essay-comic is more
 than a simple digression. I include it to mirror the meandering process
-of \"falling down the rabbit hole.\" \"Redemption Songs\" is a nodal point,
+of "falling down the rabbit hole." "Redemption Songs" is a nodal point,
 a digital crumb that, in this agglutinative process, provides a more
 nuanced understanding of the complex historical forces colluding to
-produce the song \"Always Together\" and its makers.
+produce the song "Always Together" and its makers.
 
 In 1967 Stephen Cheng, a singer known for mixing Western and Eastern
 styles (Cheng was born and raised in China and educated in the United
@@ -380,10 +381,10 @@ emergency in West Kingston because of political unrest in the form of
 proxy battles between the Jamaican Labour Party and the People's
 National Party. It is against this backdrop of larger debates about
 citizenship and national belonging occurring in Jamaica in the 1960s
-that the composition and recording of \"Always Together\" should be
+that the composition and recording of "Always Together" should be
 understood.
 
-The recording, \"curiously s\[u\]ng in Chinese,\" brought together two
+The recording, "curiously s\[u\]ng in Chinese," brought together two
 representatives of Chinese identity with historically vexed
 relationships to dominant constructions of Chinese national
 identity.[^24] Stephen Cheng, born to a wealthy family in Shanghai in
@@ -391,7 +392,7 @@ identity.[^24] Stephen Cheng, born to a wealthy family in Shanghai in
 States in 1948, shortly before the Nationalist KMT government led by
 Chiang Kai-Shek officially came to power. Byron Lee, born in 1935 in
 Jamaica, was of black and Hakka Chinese Jamaican descent. The name
-*Hakka*, which literally means \"guest people,\" had been assigned to a
+*Hakka*, which literally means "guest people," had been assigned to a
 subset of the Han people when genealogical data was being codified for
 imperial purposes fifteen hundred years prior to their migration to the
 Caribbean basin in the mid-1800s as indentured workers brought in to
@@ -411,26 +412,26 @@ the Peoples Republic of China.
 
 When Lee and his band were chosen by Seaga to perform at the World's
 Fair, there was public outcry. Lee and the Dragonaires were considered
-too \"uptown\" and not Jamaican enough (i.e., not black enough) to
+too "uptown" and not Jamaican enough (i.e., not black enough) to
 represent the people.[^26] At the same time, the choice of Lee and his
-racially mixed band signified both Jamaica's national motto, \"Out of
-Many, One People,\" and the long history of Sino-Caribbean participation
+racially mixed band signified both Jamaica's national motto, "Out of
+Many, One People," and the long history of Sino-Caribbean participation
 in cultural production. Sino-Caribbeans, because of their particular
 diasporic history, have participated in Jamaican cultural production as
 musicians, producers, sound engineers, and record shop and studio
 owners. The history of the Chinese in Jamaica and their relationship to
 music production illustrates the historical, political, and economic
-forces that made \"Always Together\" possible.
+forces that made "Always Together" possible.
 
-\"Always Together\" is supposedly adapted from a Taiwanese folk song that
+"Always Together" is supposedly adapted from a Taiwanese folk song that
 emerged from an indigenous ethnic minority in Taiwan, and it was
 speculated to have originally been sung, at least partially, in the Alit
-dialect. But this \"truth\" of the song's composition is tied to fantasies
+dialect. But this "truth" of the song's composition is tied to fantasies
 of indigeneity and appropriation. The song was actually composed by film
 director Chang Cheh (Zhang Che) for his 1949 *Storm Cloud over Alishan /
 Alishan Fengyun*, the first Mandarin-language film produced in
-Taiwan.[^27] Originally titled \"Green Is the High Mountain\" or \"Girl
-from Alishan,\" it later became a folk standard, appropriated by the very
+Taiwan.[^27] Originally titled "Green Is the High Mountain" or "Girl
+from Alishan," it later became a folk standard, appropriated by the very
 same ethnic group to whom the song was originally attributed. The lyrics
 of the song incorporate familiar conventional signifiers:
 
@@ -445,11 +446,11 @@ of the song incorporate familiar conventional signifiers:
 The lyrics deploy traditional romantic metaphors of virile young men and
 fecund young women so familiar they do not bear comment, but in the
 version produced by Lee and Cheng, these lyrics are sung over a
-rocksteady beat. In terms of soundscape, Cheng's \"plaintive warbling\"
-laid over this rocksteady beat creates \"something entirely different:
-one of the most unlikely fusions ever committed to wax.\" According to
-James Baron, \"There is no way it should work, but somehow it does, and
-quite brilliantly.\"[^29] Cheng does not sing in the Hakka dialect, which
+rocksteady beat. In terms of soundscape, Cheng's "plaintive warbling"
+laid over this rocksteady beat creates "something entirely different:
+one of the most unlikely fusions ever committed to wax." According to
+James Baron, "There is no way it should work, but somehow it does, and
+quite brilliantly."[^29] Cheng does not sing in the Hakka dialect, which
 would have been the dialect of the Chinese ethnic group that made up
 more than 80 percent of the Chinese immigrants to Jamaica, nor in the
 Alit dialect of the Tsou people, the indigenous Taiwanese group of the
@@ -462,32 +463,32 @@ war (1927–49) about what it meant to be Chinese.[^30]
 
 The colonial, imperial, and national forces that created Byron Lee and
 the Dragonaires and Stephen Cheng are not the same. Lee was part of an
-\"always already\" diasporic people able to move into microbusinesses as
+"always already" diasporic people able to move into microbusinesses as
 the result of generations-old established conduits of skilled trades and
-industry. Cheng, whose family \"lost everything\" in the Chinese civil
+industry. Cheng, whose family "lost everything" in the Chinese civil
 war, immigrated to the United States, was educated at Julliard and
 Columbia University, and eventually moved to Canada with his French
 Canadian wife. Both Lee and Cheng were known for blending musical
 genres, and both performers represent diasporic groups who struggled
 with national belonging and historical (in)visibility. The song's title
 ironically evokes a coherent Chinese identity that is destabilized by
-the fact of diaspora. In doing so, \"Always Together,\" enacts griefs
+the fact of diaspora. In doing so, "Always Together," enacts griefs
 attendant to the diasporic subject's struggle with inherently violent
 nationalisms and that subject's vexed relationships to citizenship. It
 also speaks to the difficulties of belonging consistent with Nadia
 Ellis's formulation of the diasporic elegy's ability to articulate the
-\"simultaneous apprehension of long-past and all-too-fresh
-violence.\"[^31] In the case of Lee, it is his not being Jamaican enough
+"simultaneous apprehension of long-past and all-too-fresh
+violence."[^31] In the case of Lee, it is his not being Jamaican enough
 to fully belong to and represent the nation. For Cheng, it is the loss
 of home during a time of civil war, the subsequent remove to America,
 and feelings of dislocation compounded by his attending two of the
 arguably top institutions in America for music and education but still
-being relegated to \"ethnic performances\" because of North American
-racism and stereotypes.[^fd1] Lee and Cheng are \"together,\" in terms of both
-being Chinese diasporic subjects, and the \"always\" in the song's title
+being relegated to "ethnic performances" because of North American
+racism and stereotypes.[^fd1] Lee and Cheng are "together," in terms of both
+being Chinese diasporic subjects, and the "always" in the song's title
 can be read as suggesting a perpetuity to their diasporic condition.
 
-The various uploads of \"Always Together\" are not, for the most part,
+The various uploads of "Always Together" are not, for the most part,
 cultural texts created explicitly for the platform.[^32] In and of
 themselves, these texts are not elegiac. However, Pascal Cheng's process
 of searching, learning, and interacting with other users to gain
@@ -497,14 +498,14 @@ underlying code of the platform that enables creative interaction and
 data/file storage.
 
 When cultural studies folks talk about the digital, they do not
-necessarily talk about code, that mysterious \"stuff\" that
-operationalizes language—that \"stuff\" that ultimately is akin to the
+necessarily talk about code, that mysterious "stuff" that
+operationalizes language—that "stuff" that ultimately is akin to the
 deep structure, grammar and syntax, and symbolism and signifiers that
 make all forms of linguistic communication possible.[^33] The
 relationship of poetry to code is not necessarily obvious. Sandy
-Baldwin, reading inversely from code to poetry, claims that \"poetry
+Baldwin, reading inversely from code to poetry, claims that "poetry
 works like the doubleness of code (as something to be read and something
-to be performed).\"[^34] It is the deep structure, and the messiness
+to be performed)."[^34] It is the deep structure, and the messiness
 within that structure, that creates connection and produces meaning, and
 messy code is not necessarily code that does not work.[^35] Similar to
 poetic form, what looks like an anomaly or deviation in form may in fact
@@ -513,16 +514,16 @@ when language is operationalized. The underlying code makes traversing
 digital space possible, allows users to move from one nodal point to
 another, and brings together material and immaterial, digital and analog
 technologies. It is this deep structural code that links together
-uploads associated with \"Always Together,\" as well as linking them to
-clips such as \"Chinese Rocksteady,\" a video captured on a cell phone in
-which musician and producer Clive Chin—eldest son of Vincent \"Randy\" and
+uploads associated with "Always Together," as well as linking them to
+clips such as "Chinese Rocksteady," a video captured on a cell phone in
+which musician and producer Clive Chin—eldest son of Vincent "Randy" and
 Pat Chin, founders of VP Records and Randy's Studio 17—is seen and heard
-playing \"Always Together\" in his capacity as \"selector\" (MC \[master of
+playing "Always Together" in his capacity as "selector" (MC \[master of
 ceremonies\] and arbiter of musical selections) at the Shelter, an
 underground club in Shanghai.[^36]
 
 In the clip, uploaded 30 November 2010, the dub music pioneer Chin tells
-the enthusiastic crowd that in playing this \"beautiful chune\" he is
+the enthusiastic crowd that in playing this "beautiful chune" he is
 fulfilling a promise made a year prior, and that the crowd may be able
 to understand the song because of the dialect in which it is sung. The
 Shelter, located in the French Concession, is in the part of Shanghai
@@ -543,12 +544,12 @@ means to be bereft in this historical moment, what it means to explore
 in this manner, courtesy of the algorithmic code that links us on and to
 digital platforms, and I read the digital yard as providing a space for
 creation, invention, and expression—a space in which grief, as Judith
-Butler argues, is not privatized but \"exposes the constitutive sociality
+Butler argues, is not privatized but "exposes the constitutive sociality
 of the self, a basis for thinking a political community of a complex
-order.\"[^37] I have defined digital diasporic elegiac process as an
+order."[^37] I have defined digital diasporic elegiac process as an
 agglutinative and interactive one, linking texts, practices, and
 participation of diasporic subjects across social media platforms in the
-\"digital yard\" to address themes of death, dying, loss, mourning, and
+"digital yard" to address themes of death, dying, loss, mourning, and
 lamentation. I would like to now turn to a cultural text that is
 explicitly a digital diasporic elegy.
 
@@ -559,15 +560,15 @@ I conclude with a return to a cultural text created for the digital yard
 that is immediately identifiable as a digital diasporic elegy, 40 Nights
 of the Voice. I make this turn to distinguish between elegiac process
 and elegiac objects. The organizers' elegiac mission was made explicit
-when they announced, \"We hope that this collective celebration will
+when they announced, "We hope that this collective celebration will
 serve both as commemoration of \[Brathwaite's\] legacy and a way to
-commune together during this time of quarantine.\"[^38] It began with
-thirteen poets and scholars reading Brathwaite's poem \"Wake.\"[^39]
+commune together during this time of quarantine."[^38] It began with
+thirteen poets and scholars reading Brathwaite's poem "Wake."[^39]
 
 That a born-digital elegy would be created in honor of Brathwaite seems
-inevitable, given Brathwaite's techne in creating his \"Sycorax
-Video Style.\" Brathwaite's personal digital elegiac practice coheres in
-his \"time of salt,\" a culmination of three traumatic events: the death
+inevitable, given Brathwaite's techne in creating his "Sycorax
+Video Style." Brathwaite's personal digital elegiac practice coheres in
+his "time of salt," a culmination of three traumatic events: the death
 of Doris, his first wife and bibliographer; the destruction of his home,
 including his Library of Alexander, by Hurricane Gilbert in 1988; and a
 home invasion in which a gun was held to his head, the trigger pulled,
@@ -593,10 +594,10 @@ meant in some cases the doubling up of posts; missing a day because of a
 social-media blackout protest; and unexpected participant choices,
 decisions, and technologies that effected the length, composition,
 style, and so on of the contributions. The mise-en-scène of many uploads
-strike familiar notes in terms of the \"talking head.\" There is the
+strike familiar notes in terms of the "talking head." There is the
 positioning of the reader: most centered, some off center. Many are
 framed by stacks of books. Some are more theatrical; some are more
-musical. Others still are more \"academic,\" offering prefatory remarks,
+musical. Others still are more "academic," offering prefatory remarks,
 situating the reading in the context of Brathwaite's oeuvre, situating
 themselves in relation to the reading, situating themselves in relation
 to the man. Several chose to read from Brathwaite's considerable body of
@@ -612,7 +613,7 @@ been denied in our contemporary moment can take shape anew in the
 context of a complex system—one that does not have simple discursive
 explanations, that cannot be explained by simple or explicit
 equations.[^40] What links the 40 Nights of the Voice project and the
-uploads of \"Always Together\" is the platform, the yard, and the
+uploads of "Always Together" is the platform, the yard, and the
 computational infrastructure that makes expression, movement, and
 connection possible between digital objects and participants. I propose
 here that there is a Caribbean digital diasporic elegiac practice that
@@ -626,11 +627,11 @@ Bibliography
 
 Anderson, Benedict. *Imagined Communities*. London: Verso, 2016.
 
-Baldwin, Sandy. \"A Poem Is a Machine to Think With: Digital Poetry and
-the Paradox of Innovation.\" *Postmodern Culture* 13, no. 2 (2003).
+Baldwin, Sandy. "A Poem Is a Machine to Think With: Digital Poetry and
+the Paradox of Innovation." *Postmodern Culture* 13, no. 2 (2003).
 <http://pmc.iath.virginia.edu/issue.103/13.2baldwin.html>.
 
-Baron, James. \"The Tao of Stephen Cheng.\" *Taipei Times*, 28 November
+Baron, James. "The Tao of Stephen Cheng." *Taipei Times*, 28 November
 2019.
 <https://www.taipeitimes.com/News/feat/archives/2019/11/28/2003726596>.
 
@@ -647,7 +648,7 @@ New York: Grove, 2000.
 Brathwaite, Kamau. *The Zea Mexican Diary:* *7 Sept 1926–7 Sept 1986.*
 Madison: University of Wisconsin Press, 1993.
 
-Butler, Judith. \"Beside Oneself: On the Limits of Sexual Autonomy.\" In
+Butler, Judith. "Beside Oneself: On the Limits of Sexual Autonomy." In
 *Undoing Gender*, 17–39. New York: Routledge, 2004.
 
 Chang, Alexandra. *Circles and Circuits: Chinese Caribbean Art*. Durham,
@@ -659,14 +660,14 @@ Generation*. New York: Picador, 2005.
 Chang, Kevin O'Brien, and Wayne Chen. *Reggae Routes: The Story of
 Jamaican Music*. Philadelphia: Temple University Press, 1998.
 
-Chin, Timothy. \"Notes on Reggae Music, Diaspora Aesthetics, and Chinese
-Jamaican Transmigrancy: The Case of VP Records.\" *Social and Economic
+Chin, Timothy. "Notes on Reggae Music, Diaspora Aesthetics, and Chinese
+Jamaican Transmigrancy: The Case of VP Records." *Social and Economic
 Studies* 55, nos. 1–2 (2006): 93–114.
 
-Ellenbogen, Josh. \"On Photographic Elegy.\" In Weisman, *Oxford Handbook
+Ellenbogen, Josh. "On Photographic Elegy." In Weisman, *Oxford Handbook
 of the Elegy*, 681–99.
 
-Ellis, Nadia. \"Elegies of Diaspora.\" *Small Axe*, no. 43 (March 2014):
+Ellis, Nadia. "Elegies of Diaspora." *Small Axe*, no. 43 (March 2014):
 164–72.
 
 Fuss, Diana. *Dying Modern: A Meditation on Elegy*. Durham, NC: Duke
@@ -674,10 +675,10 @@ University Press, 2013.
 
 Glazier, Loss Pequeño. *Digital Poetics: The Making of E-Poetries*.
 Tuscaloosa: University of Alabama Press, 2002. Hayles, N. Katherine.
-\"Computing Kin.\" Prologue to *My Mother Was a Computer: Digital Subjects
+"Computing Kin." Prologue to *My Mother Was a Computer: Digital Subjects
 and Literary Texts*, 1–11. Chicago: University of Chicago Press, 2005.
 
-Helsinger, Elizabeth. \"Grieving Images: Elegy and the Visual Arts.\" In
+Helsinger, Elizabeth. "Grieving Images: Elegy and the Visual Arts." In
 Weisman, *Oxford Handbook of the Elegy*, 658–80.
 
 Hume, Yanique, and Aaron Kamugisha, eds. *Caribbean Popular Culture:
@@ -686,34 +687,34 @@ Power, Politics, and Performance*. Kingston: Ian Randle, 2016.
 Huot, Claire. *China's New Cultural Scene: A Handbook of Changes*.
 Durham, NC: Duke University Press, 2000.
 
-Josephs, Kelly Baker. \"Digital Yards: Caribbean Narrative on Social
-Media and Other Digital Platforms.\" In *Caribbean Literature in
+Josephs, Kelly Baker. "Digital Yards: Caribbean Narrative on Social
+Media and Other Digital Platforms." In *Caribbean Literature in
 Transition*, vol. 3, *1970–2020*, edited by Ronald Cummings and Alison
 Donnell. Cambridge: Cambridge University Press, forthcoming.
 
-Josephs, Kelly Baker. \"Me, Myself, and Unno: Writing the Queer Caribbean
-Self into Digital Community.\" *archipelagos journal* 5, November 2020.
+Josephs, Kelly Baker. "Me, Myself, and Unno: Writing the Queer Caribbean
+Self into Digital Community." *archipelagos journal* 5, November 2020.
 http://archipelagosjournal.org/issue05/josephs-blogging.html.
 
-Min, Susette. \"Remains to Be Seen: Reading the Works of Dean Sameshima
-and Khanh Vo.\" In *Loss: The Politics of Mourning*, edited by David L.
+Min, Susette. "Remains to Be Seen: Reading the Works of Dean Sameshima
+and Khanh Vo." In *Loss: The Politics of Mourning*, edited by David L.
 Eng and David Kazanjian, 229–50. Berkeley: University of California
 Press, 2003.
 
-Notar, Beth E. \"Off and On the Road to Reform,\" chap. 6 in *Displacing
+Notar, Beth E. "Off and On the Road to Reform," chap. 6 in *Displacing
 Desire: Travel and Popular Culture in China*. Honolulu: University of
 Hawai'i Press, 2006.
 
-Raghav, Krish. \"Redemption Songs.\" *Topic Magazine*, no. 24, June 2019.
+Raghav, Krish. "Redemption Songs." *Topic Magazine*, no. 24, June 2019.
 <https://www.topic.com/redemption-songs>.
 
-Ramazani, Jahan. \"Nationalism, Transnationalism, and the Poetry of
-Mourning.\" In Weisman, *Oxford Handbook of the Elegy*, 601–19.
+Ramazani, Jahan. "Nationalism, Transnationalism, and the Poetry of
+Mourning." In Weisman, *Oxford Handbook of the Elegy*, 601–19.
 
 Ramazani, Jahan. *Poetry of Mourning: The Modern Elegy from Hardy to
 Heaney*. Chicago: University of Chicago Press, 1994.
 
-Shelley, Percy Bysshe. \"Ozymandias.\" *Examiner*, 11 January 1818.
+Shelley, Percy Bysshe. "Ozymandias." *Examiner*, 11 January 1818.
 
 Sterling, Marvin. *Babylon East: Performing Dancehall, Roots Reggae, and
 Rastafari in Japan*. Durham, NC: Duke University Press, 2010.
@@ -724,36 +725,36 @@ Elegy*, 1–9.
 Weisman, Karen, ed. *The Oxford Handbook of the Elegy*. Oxford: Oxford
 University Press, 2010.
 
-Williams, Gareth. \"Cutting Edge Music Finds a Home in Shanghai at the
-Shelter.\" *Electronic Beats*, 24 June 2016.
+Williams, Gareth. "Cutting Edge Music Finds a Home in Shanghai at the
+Shelter." *Electronic Beats*, 24 June 2016.
 <https://www.electronicbeats.net/club-feature-shelter-shanghai/>.
 
-Xiao, Ying. \"‘Hip Hop Is My Knife, Rap Is My Sword': Hip Hop Network and
-the Changing Landscape of Image and Sound Making.\" Chapter 6 in *China
+Xiao, Ying. "‘Hip Hop Is My Knife, Rap Is My Sword': Hip Hop Network and
+the Changing Landscape of Image and Sound Making." Chapter 6 in *China
 in the Mix: Cinema, Sound, and Popular Culture in the Age of
 Globalization*. Jackson: University Press of Mississippi, 2017.
 
 ---
 
-[^1]: See Kelly Baker Josephs, \"Digital Yards:
-    Caribbean Narrative on Social Media and Other Digital Platforms,\" in
+[^1]: See Kelly Baker Josephs, "Digital Yards:
+    Caribbean Narrative on Social Media and Other Digital Platforms," in
     *Caribbean Literature in Transition*, vol. 3, *1970–2020*, ed.
     Ronald Cummings and Alison Donnell (Cambridge: Cambridge University
     Press, forthcoming), 219.
 
-[^2]: Kaie Kellough (video), @KamauRemix, \"Launching 40 Nights of the
-    Voice. A celebration of Kamau's works,\" Twitter, 11 May 2020,
+[^2]: Kaie Kellough (video), @KamauRemix, "Launching 40 Nights of the
+    Voice. A celebration of Kamau's works," Twitter, 11 May 2020,
     <https://twitter.com/kamauremix/status/1259864754778226690>.
 
 [^3]: *The New Princeton Encyclopedia of Poetry and Poetics*, 3rd ed.
-    (Princeton, NJ: Princeton University Press, 1993), s.v. \"elegy.\"
+    (Princeton, NJ: Princeton University Press, 1993), s.v. "elegy."
 
 [^4]: See Diana Fuss, *Dying Modern: A Meditation on Elegy* (Durham, NC:
     Duke University Press, 2013), in which Fuss explicitly poses the
-    rhetorical questions, \"Why are poets repeatedly drawn to the precise
+    rhetorical questions, "Why are poets repeatedly drawn to the precise
     moment beyond which language is no longer possible? Pushing voice to
     its furthest limit, what exactly do poets hope to learn by
-    imagining, and reimagining, the dying hour?\" (9).
+    imagining, and reimagining, the dying hour?" (9).
 
 [^5]: Karen Weisman, introduction to *The Oxford Handbook of the Elegy*,
     ed. Karen Weisman (Oxford: Oxford University Press, 2010), 1.
@@ -761,41 +762,41 @@ Globalization*. Jackson: University Press of Mississippi, 2017.
 [^6]: See Jahan Ramazani, *Poetry of Mourning: The Modern Elegy from
     Hardy to Heaney* (Chicago: University of Chicago Press, 1994), 4.
 
-[^7]: Jahan Ramazani, \"Nationalism, Transnationalism, and the Poetry of
-    Mourning,\" in Weisman, *Oxford Handbook of the Elegy*, 605.
+[^7]: Jahan Ramazani, "Nationalism, Transnationalism, and the Poetry of
+    Mourning," in Weisman, *Oxford Handbook of the Elegy*, 605.
 
 [^8]: Ramazani, *Poetry of Mourning*, 4.
 
-[^9]: Nadia Ellis, \"Elegies of Diaspora,\" *Small Axe*, no. 43 (March
+[^9]: Nadia Ellis, "Elegies of Diaspora," *Small Axe*, no. 43 (March
     2014): 169.
 
-[^10]: See Josephs, \"Digital Yard\" 219; see also her \"Me, Myself, and
-    Unno: Writing the Queer Caribbean Self into Digital Community\" in
+[^10]: See Josephs, "Digital Yard" 219; see also her "Me, Myself, and
+    Unno: Writing the Queer Caribbean Self into Digital Community" in
     this issue of *archipelagos journal*,
     http://archipelagosjournal.org/issue05/josephs-blogging.html.
 
-[^11]: Josh Ellenbogen, \"On Photographic Elegy,\" in Weisman, *Oxford
+[^11]: Josh Ellenbogen, "On Photographic Elegy," in Weisman, *Oxford
     Handbook of the Elegy*, 676. Also helpful when thinking about the
     temporality of the photographic image and its relationship to
-    mourning and loss is Susette Min, \"Remains to Be Seen: Reading the
-    Works of Dean Sameshima and Khanh Vo,\" in *Loss: The Politics of
+    mourning and loss is Susette Min, "Remains to Be Seen: Reading the
+    Works of Dean Sameshima and Khanh Vo," in *Loss: The Politics of
     Mourning*, ed. David L. Eng and David Kazanjian (Berkeley:
-    University of California Press, 2003), 229–50. \"Photography's
-    privileged relation to melancholia,\" Min claims, \"is in part one of
+    University of California Press, 2003), 229–50. "Photography's
+    privileged relation to melancholia," Min claims, "is in part one of
     temporality…. The freezing of time creates a dimension in which the
     future perfect of the photographic image—this will-have-been—may be
-    suspended, manipulated, and reworked to become the past perfected\"
+    suspended, manipulated, and reworked to become the past perfected"
     (241). And, I would add, the present.
 
-[^12]: Elizabeth Helsinger, \"Grieving Images: Elegy and the Visual
-    Arts,\" in Weisman, *Oxford Handbook of the Elegy*, 662.
+[^12]: Elizabeth Helsinger, "Grieving Images: Elegy and the Visual
+    Arts," in Weisman, *Oxford Handbook of the Elegy*, 662.
 
-[^13]: Cemetery.org, the \"World Wide Cemetery,\" was created by Canadian
+[^13]: Cemetery.org, the "World Wide Cemetery," was created by Canadian
     engineer and internet pioneer Mike Kibbee two years before his own
     death from Hodgkin's Lymphoma in 1995. For a one-time fee of \$90, a
-    \"personally customized, permanent memorial\" can be linked to
+    "personally customized, permanent memorial" can be linked to
     relatives, merged with partners, and linked via a QR-Code to a
-    physical site of interment (\"How It Works,\"
+    physical site of interment ("How It Works,"
     <https://cemetery.org/create-a-memorial/>). One can leave (vetted)
     messages and photos and even virtual flowers (from a limited
     selection). While I do not preclude Cemetery.org as a possible
@@ -803,58 +804,58 @@ Globalization*. Jackson: University Press of Mississippi, 2017.
     clear the differences between my foci and the elegiac work in which
     the site engages. Cemetery.org formalizes grieving in ways that are
     analogous to IRL (in real life) practices, from its business model
-    to its execution. To put it bluntly, it is not \"alive\" but functions
+    to its execution. To put it bluntly, it is not "alive" but functions
     more like a digital ossuary. At the time of this writing, it is not
     a social media site with millions of active daily users and high
     degrees of interactivity, nor has it been accessed by or included
     memorials created for Caribbean subjects. It is not part of the
-    \"digital yard.\"
+    "digital yard."
 
-[^14]: \"Ozymandias,\" a sonnet written in 1817 by Percy Bysshe Shelley
+[^14]: "Ozymandias," a sonnet written in 1817 by Percy Bysshe Shelley
     (1792–1822), condemns the hubris of those who build monuments in a
     bid for immortality only to see them ravaged by time. It is believed
     Shelley took his inspiration from a statue of Rameses II, and the
     poem's power lies in the image of a statue in ruins bearing the
-    words, \"Look on my Works, ye Mighty, and despair!\" Percy Bysshe
-    Shelley, \"Ozymandias,\" *Examiner*, 11 January 1818
+    words, "Look on my Works, ye Mighty, and despair!" Percy Bysshe
+    Shelley, "Ozymandias," *Examiner*, 11 January 1818
     (<https://www.poetryfoundation.org/poems/46565/Ozymandias>).
 
-[^15]: See the comments under \"Stephen Cheng—Always Together,\" posted by
+[^15]: See the comments under "Stephen Cheng—Always Together," posted by
     italrel, 17 December 2010,
     <https://www.youtube.com/watch?v=R30SYupoQo8>.
 
 [^16]: According to Crate Digging Cooperative Records, the term *crate
     digger* originates in hip-hop culture, specifically with the DJ
     practice of utilizing literal milk crates to transport and store
-    vinyl records. \"Crate digging\" is the active, physical, often
-    voracious scouring of record stores in search for vinyl records \"to
-    sample.\" More recently, the term has loosened to include internet
+    vinyl records. "Crate digging" is the active, physical, often
+    voracious scouring of record stores in search for vinyl records "to
+    sample." More recently, the term has loosened to include internet
     searches, digital downloads, video watching, and any activity that
-    allows you to engage in a \"self discovery of music.\" rchecka, \"Crate
-    Digging (Re)Defined,\" Crate Digging Cooperative,
+    allows you to engage in a "self discovery of music." rchecka, "Crate
+    Digging (Re)Defined," Crate Digging Cooperative,
     <http://cratedigging.co/cratedigging.htm>.
 
-[^17]: See, for example, uploads of Stephen Cheng's \"Always Together\" at
+[^17]: See, for example, uploads of Stephen Cheng's "Always Together" at
     <https://www.youtube.com/watch?v=PF6vPx8SSmA> and
     <https://www.youtube.com/watch?v=KXr04RVuNl4>.
 
-[^18]: See Krish Raghav, \"Redemption Songs,\" *Topic Magazine*, no. 24,
+[^18]: See Krish Raghav, "Redemption Songs," *Topic Magazine*, no. 24,
     June 2019, <https://www.topic.com/redemption-songs>.
 
 [^19]: For more, see Marvin Sterling, *Babylon East: Performing
     Dancehall, Roots Reggae, and Rastafari in Japan* (Durham, NC: Duke
     University Press, 2010); Claire Huot, *China's New Cultural Scene: A
     Handbook of Changes* (Durham, NC: Duke University Press, 2000); Beth
-    E. Notar, \"Off and On the Road to Reform,\" chap. 6 in *Displacing
+    E. Notar, "Off and On the Road to Reform," chap. 6 in *Displacing
     Desire: Travel and Popular Culture in China* (Honolulu: University
-    of Hawai'i Press, 2006); and Ying Xiao, \"‘Hip Hop Is My Knife, Rap
+    of Hawai'i Press, 2006); and Ying Xiao, "‘Hip Hop Is My Knife, Rap
     Is My Sword': Hip Hop Network and the Changing Landscape of Image
-    and Sound Making,\" chap. 6 in *China in the Mix: Cinema, Sound, and
+    and Sound Making," chap. 6 in *China in the Mix: Cinema, Sound, and
     Popular Culture in the Age of Globalization* (Jackson: University
     Press of Mississippi, 2017).
 
 [^20]: Historically, the terms *Hakka* and *Hakga*, which bring together
-    *hak*, meaning \"guest,\" and *ga* or *ka*, meaning \"family,\" have
+    *hak*, meaning "guest," and *ga* or *ka*, meaning "family," have
     been used interchangeably. For my purposes here, I use *Hakka*
     throughout.
 
@@ -867,9 +868,9 @@ Globalization*. Jackson: University Press of Mississippi, 2017.
     O'Brien Chang and Wayne Chen, *Reggae Routes: The Story of Jamaican
     Music* (Philadelphia: Temple University Press, 1998); Lloyd Bradley,
     *This Is Reggae Music: The Story of Jamaica's Music* (New York:
-    Grove, 2000); the invaluable Timothy Chin, \"Notes on Reggae Music,
+    Grove, 2000); the invaluable Timothy Chin, "Notes on Reggae Music,
     Diaspora Aesthetics, and Chinese Jamaican Transmigrancy: The Case of
-    VP Records,\" *Social and Economic Studies* 55, nos. 1–2 (2006):
+    VP Records," *Social and Economic Studies* 55, nos. 1–2 (2006):
     93–114; Jeff Chang, *Can't Stop Won't Stop: A History of the Hip-Hop
     Generation* (New York: Picador, 2005); and Alexandra Chang, *Circles
     and Circuits: Chinese Caribbean Art* (Durham, NC: Duke University
@@ -888,7 +889,7 @@ Globalization*. Jackson: University Press of Mississippi, 2017.
     which he sold to Byron Lee in 1962, after being elected to
     Parliament.
 
-[^24]: Item description for Stephen Cheng's \"Always Together,\"
+[^24]: Item description for Stephen Cheng's "Always Together,"
     ReggaeRecord.com,
     <https://www.reggaerecord.com/en/catalog/description.php?code=101779>.
 
@@ -907,39 +908,39 @@ Globalization*. Jackson: University Press of Mississippi, 2017.
     signifying upper or bourgeoisie socioeconomic class status and the
     inverse for *downtown*.
 
-[^27]: See \"Chang, Che (Zhang Che) (1923–2002),\" in Rachel Braaten and
+[^27]: See "Chang, Che (Zhang Che) (1923–2002)," in Rachel Braaten and
     Lisa Odham Stokes, *Historical Dictionary of Hong Kong Cinema*, 2nd
     ed. (Lanham, MD: Rowman and Littlefield, 2020), 61.
 
 [^28]: The reference to Ali Mountain in the song is derived from *alit*,
-    meaning \"ancestor.\" This translation of \"Green Is the Mountain\" is
+    meaning "ancestor." This translation of "Green Is the Mountain" is
     from
     <https://www.musixmatch.com/lyrics/Frances-Yip-3/Green-Is-the-Mountain>.
     Cheng's Mandarin lyrics can be found at
     <https://www.letras.com/stephen-cheng/always-together-ali-shan-de-gui-niang/>.
 
-[^29]: James Baron, \"The Tao of Stephen Cheng,\" *Taipei Times*, 28
+[^29]: James Baron, "The Tao of Stephen Cheng," *Taipei Times*, 28
     November 2019,
     <https://www.taipeitimes.com/News/feat/archives/2019/11/28/2003726596>.
 
 [^30]: Benedict Anderson discusses the unifying
-    qualities of anthems, claiming that however \"banal the words and
-    mediocre the tunes,\" the collective experience of singing with
+    qualities of anthems, claiming that however "banal the words and
+    mediocre the tunes," the collective experience of singing with
     others unifies disparate members of a community, enabling them to
     imagine themselves as a people. Benedict Anderson, *Imagined
     Communities* (London: Verso, 2016), 145.
 
-[^31]: Ellis, \"Elegies of Diaspora,\" 170.
+[^31]: Ellis, "Elegies of Diaspora," 170.
 
-[^32]: See, for example, the video of Mike Long dancing to \"Always
-    Together,\" <https://www.youtube.com/watch?v=00794lK01Ws>.
+[^32]: See, for example, the video of Mike Long dancing to "Always
+    Together," <https://www.youtube.com/watch?v=00794lK01Ws>.
 
 [^33]: I use the term *operationalize* to convey and retain for the
     reader the relationship between a given word and its function in the
     deep structure of both poetics and code. Code is a language
-    understood by computers. It is not a \"natural language\" per se,
+    understood by computers. It is not a "natural language" per se,
     despite human language being the symbolic system used to create it.
-    Human language has to be converted into a set of \"words\" that the
+    Human language has to be converted into a set of "words" that the
     computer will understand. The keywords are akin to verbs. Verbs
     describe or indicate action, and keywords initiate action. An
     arrangement of keywords for successful execution of a desired
@@ -947,8 +948,8 @@ Globalization*. Jackson: University Press of Mississippi, 2017.
     when a set of keywords is put together with syntax, the result is a
     programming language.
 
-[^34]: Sandy Baldwin, \"A Poem Is a Machine to Think With: Digital Poetry
-    and the Paradox of Innovation,\" *Postmodern Culture* 13, no. 2
+[^34]: Sandy Baldwin, "A Poem Is a Machine to Think With: Digital Poetry
+    and the Paradox of Innovation," *Postmodern Culture* 13, no. 2
     (2003), <http://pmc.iath.virginia.edu/issue.103/13.2baldwin.html>,
     para. 13. Loss Pequeño Glazier's *Digital
     Poetics: The Making of E-Poetries* (Tuscaloosa: University of
@@ -958,7 +959,7 @@ Globalization*. Jackson: University Press of Mississippi, 2017.
 
 [^35]: In fielding a question about the difference between clean and
     messy code, Daniel Super claims that the key difference is
-    \"comprehensibility\": \"You can understand clean code when you read
+    "comprehensibility": "You can understand clean code when you read
     it. It has meaningful variable and function names&nbsp; The
     responsibilities are separated out into discrete pieces. The methods
     are organized in a manner that makes sense, with related
@@ -968,14 +969,14 @@ Globalization*. Jackson: University Press of Mississippi, 2017.
     the person who wrote it was trying to do. Clean code is code that
     someone else, other than the person who wrote it\[,\] could maintain
     without wanting to strangle you and feed your corpse into a wood
-    chipper.\" Daniel Super, \"What Is the Biggest Difference between
-    ‘Clean Code' and ‘Messy Code'?,\" *Quora*, 12 August 2015,
+    chipper." Daniel Super, "What Is the Biggest Difference between
+    ‘Clean Code' and ‘Messy Code'?," *Quora*, 12 August 2015,
     <https://www.quora.com/What-is-the-biggest-difference-between-clean-code-and-messy-code>.
 
-[^36]: See \"Chinese Rocksteady,\" YouTube,
+[^36]: See "Chinese Rocksteady," YouTube,
     [https://www.youtube.com/watch?v=3xum1CIiSxI](%20https:/www.youtube.com/watch?v=3xum1CIiSxI).
-    Clive Chin, one of the founders of \"dub,\" has worked as a musician
-    and producer with the Wailers, Dennis Brown, Lee \"Scratch\" Perry,
+    Clive Chin, one of the founders of "dub," has worked as a musician
+    and producer with the Wailers, Dennis Brown, Lee "Scratch" Perry,
     Black Uhuru, and Gregory Isaacs, among others. The Shelter, one of
     Shanghai's most popular clubs, was established by local DJ Gary Wang
     and expat Gareth Williams and operated in Shanghai's French
@@ -984,14 +985,14 @@ Globalization*. Jackson: University Press of Mississippi, 2017.
     during the 1950s by the Chinese government in response to the threat
     of Soviet encroachment, and was known for playing roots reggae,
     dancehall, and dubstep and for promoting local music. See Gareth
-    Williams, \"Cutting Edge Music Finds a Home in Shanghai at the
-    Shelter,\" *Electronic Beats*, 24 June 2016,
+    Williams, "Cutting Edge Music Finds a Home in Shanghai at the
+    Shelter," *Electronic Beats*, 24 June 2016,
     <https://www.electronicbeats.net/club-feature-shelter-shanghai/>.
 
-[^37]: Judith Butler, \"Beside Oneself: On the Limits of Sexual
-    Autonomy,\" in *Undoing Gender* (New York: Routledge, 2004), 17.
+[^37]: Judith Butler, "Beside Oneself: On the Limits of Sexual
+    Autonomy," in *Undoing Gender* (New York: Routledge, 2004), 17.
 
-[^38]: \"\#40NightsoftheVoice—Tribute to Kamau Brathwaite,\" Griffin
+[^38]: "\#40NightsoftheVoice—Tribute to Kamau Brathwaite," Griffin
     Poetry Prize Events,
     <https://www.griffinpoetryprize.com/event/40nightsofthevoice-tribute-to-kamau-brathwaite/>.
 
@@ -1001,14 +1002,14 @@ Globalization*. Jackson: University Press of Mississippi, 2017.
     provided to the Kamau Brathwaite Remix Engine account on YouTube.
 
 [^40]: In her prologue to *My Mother Was a Computer*, N. Katherine
-    Hayles claims, \"Because complex systems exhibit nonlinear behaviors
+    Hayles claims, "Because complex systems exhibit nonlinear behaviors
     that typically cannot be described by equations having explicit
     solutions, the kind of mathematics that give us classical mechanics
     and other triumphs of modern science has little traction in the case
     of complex systems, which leaves us with simulations and discursive
-    explanations.\" N. Katherine Hayles,
-    \"Computing Kin,\" prologue to *My Mother Was a Computer: Digital
+    explanations." N. Katherine Hayles,
+    "Computing Kin," prologue to *My Mother Was a Computer: Digital
     Subjects and Literary Texts* (Chicago: University of Chicago Press,
     2005), 5–6.
 
-[^fd1]: In \"Stephen Cheng Released One Single That Sounded Like Nothing Else. But Who Was He?,\" Hua Hsu notes that the Juiliard trained Cheng was cast in roles in what are now deemed problematic Broadway shows \"The World of Suzie Wong\" and \"Flower Drum Song.\" (The New Yorker, August 23, 2019) <https://www.newyorker.com/culture/culture-desk/stephen-cheng-released-one-single-that-sounded-like-nothing-else-but-who-was-he>.
+[^fd1]: In "Stephen Cheng Released One Single That Sounded Like Nothing Else. But Who Was He?," Hua Hsu notes that the Juiliard trained Cheng was cast in roles in what are now deemed problematic Broadway shows "The World of Suzie Wong" and "Flower Drum Song." (The New Yorker, August 23, 2019) <https://www.newyorker.com/culture/culture-desk/stephen-cheng-released-one-single-that-sounded-like-nothing-else-but-who-was-he>.
