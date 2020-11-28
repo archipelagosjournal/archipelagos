@@ -4,7 +4,7 @@ section: articles
 title: 
   "long": "Unmapping the Caribbean: Toward a Digital Praxis of Archipelagic Sounding"
   "short": "Unmapping the Caribbean"
-doi: "https://doi.org/#"
+doi: "https://doi.org/10.7916/archipelagos-72th-0z19"
 author: 
 - name: Tao Leigh Goffe
   shortname: Goffe
