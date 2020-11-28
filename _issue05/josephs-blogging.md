@@ -4,12 +4,12 @@ section: articles
 title: 
   "long": "Me, Myself, and Unno: Writing the Queer Caribbean Self into Digital Community"
   "short": "Me, Myself, and Unno"
-doi: "https://doi.org/#"
+doi: "https://doi.org/10.7916/archipelagos-mg7h-nf52"
 author: 
 - name: Kelly Baker Josephs
   shortname: Josephs
   bio: >
-    Kelly Baker Josephs is a professor of English at York College, City University of New York, and a professor of English and digital humanities at the CUNY Graduate Center. She is the author of *Disturbers of the Peace: Representations of Insanity in Anglophone Caribbean Lit­erature* (2013), the founder and former editor of *sx salon: a small axe literary platform*, and the manager of [*The Caribbean Commons*](http://caribbean.commons.gc.cuny.edu/) website.
+    Kelly Baker Josephs is a professor of English at York College, City University of New York, and a professor of English and digital humanities at the CUNY Graduate Center. She is the author of *Disturbers of the Peace: Representations of Insanity in Anglophone Caribbean Literature* (2013), the founder and former editor of *sx salon: a small axe literary platform*, and the manager of [*The Caribbean Commons*](http://caribbean.commons.gc.cuny.edu/) website.
 date: December 2020
 issue: 5
 order: 3
