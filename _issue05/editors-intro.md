@@ -40,7 +40,7 @@ concern is the matter of crafting alternative authority within the
 structures of domination that condition our contemporary online and
 offline experiences.
 
-Tzarina Prater and Jonathan Felix, respectively, direct our attention to
+Tzarina Prater and Jonathan J. Felix, respectively, direct our attention to
 the literal and metaphorical comments section with their powerful
 reminders of the critical pathways that emerge when we attend to the
 possibilities of online call-and-response. Both contributors explore the
