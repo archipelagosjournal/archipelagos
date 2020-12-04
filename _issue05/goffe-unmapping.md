@@ -282,7 +282,7 @@ archipelagic and served as a starting point for unmapping, a palmistry
 of wayfinding (fig. 3).
 
 {% include image.html
-  img="issue05/goffe/fig3.JPG"
+  img="issue05/goffe/fig3.jpg"
   title="You Will Find a Way"
   caption="Figure 3. Tao Leigh Goffe, *You Will Find a Way*, 2018. A mid-sixteenth century map projected onto my hand became the anchoring image for the *Unmapping the Caribbean* project." %}
 
