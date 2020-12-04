@@ -110,6 +110,9 @@ collections:
   archives:
     title: archives
     output: true
+  cfps:
+    title: cfps
+    output: true
 
 # Current issue
 current: issue05
@@ -141,7 +144,7 @@ author:
 
 #i18n
 languages: ["en", "es", "fr"]
-exclude_from_localizations: ["assets", "images", "extras"]
+exclude_from_localizations: []
 
 # Custom vars
 version:             0.0.1
