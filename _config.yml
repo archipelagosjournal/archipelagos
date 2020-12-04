@@ -11,7 +11,7 @@ description:         'a journal of Caribbean digital praxis'
 
 # MOCK
 url:                 'http://dev.elotroalex.com'
-baseurl:             '/archipelagos'
+baseurl:             ''
 future:              True
 
 
