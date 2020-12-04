@@ -16,9 +16,9 @@ order: 1
 abstract: >
   This essay takes up the question of how diasporic Caribbean subjects deal with death, dying, and grieving in online spaces. With a focus on the genre of *digital diasporic elegy*, the author argues that by analyzing the digital life of a Sino-Caribbean diasporic cultural text, a digital diasporic elegiac practice emerges. This practice allows for consideration of the very code that enables our traversal between digital nodes, thereby allowing for a more nuanced understanding of rituals of mourning in our contemporary moment.
 abstract_fr: >
-  This essay takes up the question of how diasporic Caribbean subjects deal with death, dying, and grieving in online spaces. With a focus on the genre of *digital diasporic elegy*, the author argues that by analyzing the digital life of a Sino-Caribbean diasporic cultural text, a digital diasporic elegiac practice emerges. This practice allows for consideration of the very code that enables our traversal between digital nodes, thereby allowing for a more nuanced understanding of rituals of mourning in our contemporary moment.
+  Cet article aborde la question de savoir comment les personnes de la diaspora caribbéenne font face à la mort, au fait de mourir, et au deuil dans les espaces en ligne. Se concentrant sur le genre de l’élégie numérique diasporique, l’auteure soutient que l’analyse de la vie numérique d’un texte d’une culture diasporique sino-caribbéenne révele une pratique de l’élégie numérique diasporique. Cette pratique permet de prendre en compte le code même qui permet notre traversée entre plusieurs foyers numériques, permettant ainsi une compréhension plus nuancée des rituels de deuil de notre moment contemporain. 
 abstract_es: >
-  This essay takes up the question of how diasporic Caribbean subjects deal with death, dying, and grieving in online spaces. With a focus on the genre of *digital diasporic elegy*, the author argues that by analyzing the digital life of a Sino-Caribbean diasporic cultural text, a digital diasporic elegiac practice emerges. This practice allows for consideration of the very code that enables our traversal between digital nodes, thereby allowing for a more nuanced understanding of rituals of mourning in our contemporary moment.
+  Este ensayo aborda la cuestión del cómo los sujetos de la diáspora caribeña abordan la muerte, el morir y el duelo en los espacios en línea. Con un enfoque en el género de *elegía diaspórica digital*, la autora argumenta que al analizar la vida digital de un texto cultural diaspórico chino-caribeño, surge una práctica elegíaca diaspórica digital. Esta práctica permite considerar el mismo código que permite nuestro recorrido entre nodos digitales, lo que permite una comprensión más matizada de los rituales de duelo en nuestro momento contemporáneo.
 language: en
 pdf: true
 ---
@@ -227,7 +227,7 @@ track's classic status.[^15]
 {% include image.html
   img="issue05/prater/fig2.png"
   title="Pascal Cheng's Search"
-  caption="Figure 2. In the comments section under an upload of "Always Together," Pascal Cheng, Stephen Cheng's son, seeks information about the song."
+  caption="Figure 2. In the comments section under an upload of \"Always Together,\" Pascal Cheng, Stephen Cheng's son, seeks information about the song."
   url="https://www.youtube.com/watch?v=R30SYupoQo8" %}
 
 I had dropped, *en media res*, onto one of many nodal points Pascal
@@ -260,7 +260,7 @@ American-identified "hippie"/pop culture. Several YouTube uploads of
 {% include image.html
   img="issue05/prater/fig3.jpg"
   title="Skinheads on the Dancefloor"
-  caption="Figure 3. Album cover art sometimes used over the track of Stephen Cheng's "Always Together" in YouTube uploads." %}
+  caption="Figure 3. Album cover art sometimes used over the track of Stephen Cheng's \"Always Together\" in YouTube uploads." %}
 
 In terms of composition, several users have uploaded the track with
 static pictures of either a 1967 Sunshine Records or 2018 Federal
@@ -324,7 +324,7 @@ inform Cheng of the existence of Krish Raghav's longform comic
 {% include image.html
   img="issue05/prater/fig8.png"
   title="Redemption Songs"
-  caption="Figure 8. Cover art to Krish Raghav's "Redemption Songs" in *Topic Magazine*."
+  caption="Figure 8. Cover art to Krish Raghav's \"Redemption Songs\" in *Topic Magazine*."
   url="https://www.topic.com/redemption-songs" %}
 
 "Redemption Songs" begins with the image of an animated record bearing
