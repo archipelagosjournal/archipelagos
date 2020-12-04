@@ -531,7 +531,7 @@ queer and Caribbean and queer Caribbean lives. In this place where they
 could write their own histories, they created and deleted, reproduced
 and revised, refusing to let their self-narratives be fixed.
 
-Acknowledgements
+Acknowledgments
 ----------------
 
 Endless gratitude to Nicholas Laughlin, without whose generosity, then
