@@ -9,7 +9,7 @@ author:
 - name: Annette Joseph-Gabriel
   shortname: Joseph-Gabriel
   bio: >
-    Annette Joseph-Gabriel is a scholar of...
+    Annette Joseph-Gabriel is Assistant Professor of French and Francophone Studies at the University of Michigan, Ann Arbor. Her research focuses on race, gender, and citizenship in the French-speaking Caribbean, Africa, and France. Her book, *Reimagining Liberation: How Black Women Transformed Citizenship in the French Empire* (University of Illinois Press, 2020) mines published writings and untapped archives to reveal the anticolonialist endeavors of Black women in the French empire. She has published articles in peer-reviewed journals including *Small Axe, Slavery & Abolition, Eighteenth-Century Studies* and *The French Review*, and her public writings have been featured in Al Jazeera and HuffPost. She is a recipient of the Carrie Chapman Catt Prize for Research on Women and Politics. She is also the managing editor of *Palimpsest: A Journal on Women, Gender, and the Black International* and production editor of *Women in French Studies.*
 date: December 2020
 issue: 5
 order: 6
