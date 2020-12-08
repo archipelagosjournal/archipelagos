@@ -27,7 +27,7 @@ This special issue of *archipelagos journal* will focus on the ways in which sch
 
     b.  have led to the development of collections, datasets, or other resources currently accessible through dLOC.
 
-The deadline for abstract submission is **January 12, 2021.** Abstracts should be no more than 300 words.
+The deadline for abstract submission is **January 12, 2021.** Abstracts should be no more than 300 words. Accepted essays will be due on **April 30, 2021**.
 
 *archipelagos* welcomes submissions in English, Spanish, and French; accepted essays will be published in their original language with abstracts translated by editorial staff. Additional [*guidelines for authors*](https://archipelagosjournal.org/authors.html) may be found on the journal website.
 

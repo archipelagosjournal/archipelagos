@@ -306,8 +306,8 @@ Jamaica.
 
 {% include image.html
   img="issue05/prater/fig7.png"
-  title="Exceprt from an exchange between Pascal Cheng and 1970Rudeboy (among others) in the comments below an upload of Stephen Cheng's \"Always Together\" on YouTube."
-  caption="Figure 7. Exceprt from an exchange between Pascal Cheng and 1970Rudeboy (among others) in the comments below an upload of Stephen Cheng's \"Always Together\" on YouTube."
+  title="Exceprt from an exchange between Pascal Cheng and 1970Rudeboy (among others) in the comments below an upload of Stephen Cheng's &quot;Always Together&quot; on YouTube."
+  caption="Figure 7. Exceprt from an exchange between Pascal Cheng and 1970Rudeboy (among others) in the comments below an upload of Stephen Cheng's &quot;Always Together&quot; on YouTube."
   url="https://www.youtube.com/watch?v=R30SYupoQo8" %}
 
 Pascal Cheng's process of following the digital breadcrumbs is a
