@@ -22,7 +22,7 @@ thumb: images/issue05/haitian-revolution-thumb.png
 link: "https://www.mappinghaitianrevolution.com/"
 ---
 
-## *archipelagos* Presents *Mapping the Haitian Revolution*
+## *archipelagos* presents *Mapping the Haitian Revolution*
 
 How many of us, as university professors, have found ourselves teaching
 college students in the fields of, for example, Africana studies,

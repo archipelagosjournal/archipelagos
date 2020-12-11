@@ -18,12 +18,15 @@ thumb: images/issue05/mapping-marronage-thumb.png
 link: "http://mapping-marronage.rll.lsa.umich.edu"
 ---
 
-## *archipelagos* Presents *Mapping Marronage*
+## *archipelagos* presents *Mapping Marronage*
 
 At this stage in the evolution of the academy, the idea of decolonizing the historical record has become altogether commonplace --- at least in the context of postcolonial, Caribbean, Afro-diasporic, and Global South studies. The tools and methodologies via which to accomplish that lofty goal are, however, far from readily available. To be truly decolonial in our intellectual practice requires rewriting and rewiring the very terms of our engagements with archives; it requires investing labor and capital resources into actually refashioning the spaces we want to inhabit in our work. *Mapping Marronage* proposes just this sort of intervention. It is a project that presents archival materials in ways that privilege the diverse forms of fugitivity that enabled enslaved persons to refuse a colonial order based on containment, surveillance, and restraint. The below exchange highlights the site's provocative intentions and proposes additional suggestions for realizing its fantastic potential.
 
-Contribution
-------------
+
+*archipelagos* review
+---------------------
+
+### Contribution
 
 Insofar as the site ultimately grounds its archival claims in materials
 from outside the site, the project’s specific contribution is
@@ -48,8 +51,7 @@ itself. What, for instance, might this project present for a person who
 never leaves a very tight geographic radius but who fits one of this
 site’s multiple definitions of *marronage*?
 
-Design
-------
+### Design
 
 Is the site’s ultimate intent to map people’s movements, or to map the
 life/transaction of things they produce? Is it to map individuals or
@@ -84,8 +86,7 @@ data visualization might better represent some of networks involved.
 There are ways the idea of the world map risks discursively limiting the
 kinds of connection and overlap the site means to illustrate.
 
-Credit
-------
+### Credit
 
 It remains unclear—unstated in any explicit way—how to understand the
 roles of contributors to the project or the labor conditions under which
@@ -102,14 +103,13 @@ linked document; it is currently rather difficult to use because
 everything looks the same (multiple items are named "correspondence,"
 for example).
 
-Preservation 
--------------
+### Preservation
 
 Currently, no information is provided regarding the life cycle and or
 preservation of the project.
 
-Conclusion
-----------
+
+### Conclusion
 
 On the whole, *Mapping Marronage* is an exciting project that has the
 potential to offer both substantive and methodological innovations to
