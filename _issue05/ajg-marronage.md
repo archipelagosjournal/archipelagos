@@ -18,14 +18,7 @@ thumb: images/issue05/mapping-marronage-thumb.png
 link: "http://mapping-marronage.rll.lsa.umich.edu"
 ---
 
-*Mapping Marronage* is a fundamentally engaging idea for arranging
-archival materials that will certainly frame new conversations in
-Caribbean studies.[^1] With some additional attention to interface,
-primarily in service of enhancing the methodological innovations the
-project hints at, certain of the platform’s stated intentions might be
-more robustly in evidence. The comments that follow offer suggestions
-for ways the site might better fulfill its promise as an archival
-resource that, in its use, produces new kinds of knowledge.
+At this stage in the evolution of the academy, the idea of decolonizing the historical record has become altogether commonplace – at least in the context of postcolonial, Caribbean, Afro-diasporic, and Global South studies. The tools and methodologies via which to accomplish that lofty goal are, however, far from readily available. To be truly decolonial in our intellectual practice requires rewriting and rewiring the very terms of our engagements with archives; it requires investing labor and capital resources into actually refashioning the spaces we want to inhabit in our work. *Mapping Marronage* proposes just this sort of intervention. It is a project that presents archival materials in ways that privilege the diverse forms of fugitivity that enabled enslaved persons to refuse a colonial order based on containment, surveillance, and restraint. The below exchange highlights the site's provocative intentions and proposes additional suggestions for realizing its fantastic potential.
 
 Contribution
 ------------
