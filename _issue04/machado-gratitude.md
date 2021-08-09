@@ -653,10 +653,10 @@ support, and expressions of gratitude to specific creative producers. <span styl
 
 Date of Tweet|@elprofe316|Reply to
 ---------------------------- | ---------------------------- | ------------------------
-08/17/2017|...you realize there are at least two multi-billion dollar intelligence agencies who work for you?|@realDonaldTrump
-08/16/2017|I have a resignation letter for you to sign. https://t.co/00sG0sWsB1 |@realDonaldTrump
-08/05/2017|I've just applied for something like my dream job and I'm asking for your support, prayers, candles, santos, coins in the ocean...whatever!|
-08/05/2017|Thank you! I remember you so clearly and I'm grateful for your energy.|@gionvalentine
+08/17/2017|<span style="background-color: #444; color: #444">...xxx xxxxxxx xxxxx xxx xx xxxxx xxx xxxxx-xxxxxxx xxxxxx xxxxxxxxxxxx xxxxxxxx xxx xxxx xxx xxx?</span>|@realDonaldTrump
+08/16/2017|<span style="background-color: #444; color: #444">x xxxx x xxxxxxxxxxx xxxxxx xxx xxx xx xxxx. xxxxx://x.xx/00xx0xxxx1</span>|@realDonaldTrump
+08/05/2017|<span style="background-color: #444; color: #444">x'xx xxxx xxxxxxx xxx xxxxxxxxx xxxx xx xxxxx xxx xxx x'x xxxxxx xxx xxxx xxxxxxx, xxxxxxx, xxxxxxx, xxxxxx, xxxxx xx xxx xxxxx...xxxxxxxx!</span>|
+08/05/2017|<span style="background-color: #444; color: #444">xxxxx xxx! x xxxxxxxx xxx xx xxxxxxx xxx x'x xxxxxxxx xxx xxxx xxxxxx.</span>|@gionvalentine
 
 <span class="caption">Figure 15. \'For you\' tweets by Villar.</span>
 
@@ -676,8 +676,8 @@ imagining the shared familial context of absent fathers.[^27]
 
 {% include image.html
   img="issue04/machado/figure-17.png"
-  title="Figure 17. Vázquez for \'tested.\'"
-  caption="Figure 17. Vázquez for \'tested.\'"
+  title="Figure 17. Vázquez for 'tested.'"
+  caption="Figure 17. Vázquez for 'tested.'"
   url="https://web.archive.org/web/20181230013652/https://twitter.com/charlievazquez/statuses/869669182526435332"
 %}
 

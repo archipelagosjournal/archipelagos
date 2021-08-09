@@ -18,7 +18,7 @@ thumb: images/issue04/carisealand-thumb.png
 link: "https://carisealand.org/"
 ---
 
-## *archipelagos* Presents *Carisealand*
+## *archipelagos* presents *Carisealand*
 
 The *Carisealand* (Caribbean Sea and Land) digital research project,
 launched in 2015 by scholar, teacher, and activist Schuyler K Esprit,

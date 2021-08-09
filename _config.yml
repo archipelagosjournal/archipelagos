@@ -9,20 +9,18 @@ publisher:           "Columbia University Libraries"
 description:         'a journal of Caribbean digital praxis'
 
 
-# DEV
-# url:                 ''
-# baseurl:             ''
+# MOCK
+url:                 'http://dev.elotroalex.com'
+baseurl:             ''
+future:              True
 
-# TEST SERVER
-# url:                 'http://archipelagos-dev.elotroalex.com'
-# baseurl:             '/sxarchipelagos'
 
 # PROD
-url:                 "http://archipelagosjournal.org"
-baseurl:             ''
-future: True
+# url:                 "http://archipelagosjournal.org"
+# baseurl:             ''
+# future: True
 
-githuburl:           'https://github.com/archipelagosjournal'
+githuburl:           'https://github.com/archipelagosjournal/archipelagos'
 
 # Colophon
 old_issn: 2473-2206
@@ -94,13 +92,31 @@ collections:
     - Alex Gil
     - Brian Ballsun-Stanton
     - Kelly S. Martin
+  issue05:
+    slug: issue05
+    slug_fr: fr/issue05
+    slug_es: es/issue05
+    output: true
+    number: 5
+    date: "December 2020"
+    title: "Issue (5)"
+    editors:
+    - Kaiama Glover
+    - Alex Gil
+    production:
+    - Alex Gil
+    - Brian Ballsun-Stanton
+    - Kelly S. Martin
   archives:
     title: archives
     output: true
+  cfps:
+    title: cfps
+    output: true
 
 # Current issue
-current: issue04
-current-number: 4
+current: issue05
+current-number: 5
 
 # Jekyll-Kramdown
 markdown: kramdown
@@ -128,7 +144,7 @@ author:
 
 #i18n
 languages: ["en", "es", "fr"]
-exclude_from_localizations: ["assets", "images", "extras"]
+exclude_from_localizations: []
 
 # Custom vars
 version:             0.0.1

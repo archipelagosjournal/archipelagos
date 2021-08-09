@@ -53,7 +53,7 @@
     </span><br>
       {% if page.layout == "project" %}
         <a class="alt-link" href="{{ page.url | prepend:site.baseurl }}">{% t global.read-exchange %}</a><span class="alt-link"> | </span><a class="alt-link" href="{{ page.link }}" target="_blank">{% t global.visit-project %}</a>      
-        <a class="alt-link" href="{{ page.link }}" target="_blank"><img class="project-image-toc" alt="thumbnail for {{page.title["long"]}}" src="{{site.baseurl}}/{{ page.thumb }}" width="33%" /></a>
+        <a class="alt-link" href="{{ page.link }}" target="_blank"><img class="project-image-toc" alt="thumbnail for {{page.title["long"]}}" src="{{ page.thumb }}" width="33%" /></a>
       {% endif %}
       {% if page.layout == "article" %}
         <a class="alt-link" href="{{ site.baseurl }}/assets{{ page.url | replace:'.html','.pdf' }}" target="_blank">PDF</a> 

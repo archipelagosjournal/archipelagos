@@ -53,6 +53,9 @@ for issuePath in $(find $root -maxdepth 1 -name "_issue*" -type d  ); do
 	cp -r $root/images/$issue images
 
 	cp $root/$_issue/*.md .
+
+	echo "remaking $root/utility/log/$_issue/"
+	rm -rf "$root/utility/log/$_issue/"
 	mkdir -p $root/utility/log/$_issue/
 	for file in $(find . -name "*.md"); do
 

@@ -1,0 +1,18 @@
+<!-- MP3 -->
+
+<div class="sound-wrapper" > 
+
+
+
+<audio controls>
+  <source src="{{ include.url }}" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+    {% if include.title %}
+<p class="audio-title">{{include.title}}</p>
+    {% endif %}
+
+</div>
+
+

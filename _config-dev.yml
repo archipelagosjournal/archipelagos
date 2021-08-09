@@ -1,0 +1,154 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           none
+
+# Setup
+title:               "archipelagos"
+publisher:           "Columbia University Libraries"
+description:         'a journal of Caribbean digital praxis'
+
+
+# MOCK
+url:                 'http://dev.elotroalex.com'
+baseurl:             '/archipelagos'
+future:              True
+
+
+# PROD
+# url:                 "http://archipelagosjournal.org"
+# baseurl:             ''
+# future: True
+
+githuburl:           'https://github.com/archipelagosjournal/archipelagos'
+
+# Colophon
+old_issn: 2473-2206
+issn: 2689-842X
+
+
+# Collections
+collections:
+  issue01:
+    slug: issue01
+    slug_fr: fr/issue01
+    slug_es: es/issue01
+    output: true
+    number: 1
+    date: "June 2016"
+    title: "Issue (1)"
+    editors:
+    - Kaiama Glover
+    - Alex Gil
+    - Kelly Baker Josephs
+    production:
+    - Alex Gil
+    - Dennis Tenen
+    - Brian Ballsun-Stanton
+    - Kelly S. Martin    
+  issue02:
+    slug: issue02
+    slug_fr: fr/issue02
+    slug_es: es/issue02
+    output: true
+    number: 2
+    date: "September 2017"
+    title: "Issue (2)"
+    editors:
+    - Kaiama Glover
+    - Alex Gil
+    production:
+    - Alex Gil
+    - Brian Ballsun-Stanton
+    - Kelly S. Martin
+  issue03:
+    slug: issue03
+    slug_fr: fr/issue03
+    slug_es: es/issue03
+    output: true
+    number: 3
+    date: "April 2019"
+    title: "Issue (3)"
+    editors:
+    - Kaiama Glover
+    - Alex Gil
+    - Jessica Marie Johnson
+    production:
+    - Alex Gil
+    - Brian Ballsun-Stanton
+    - Kelly S. Martin
+  issue04:
+    slug: issue04
+    slug_fr: fr/issue04
+    slug_es: es/issue04
+    output: true
+    number: 4
+    date: "March 2020"
+    title: "Issue (4)"
+    editors:
+    - Kaiama Glover
+    - Alex Gil
+    production:
+    - Alex Gil
+    - Brian Ballsun-Stanton
+    - Kelly S. Martin
+  issue05:
+    slug: issue05
+    slug_fr: fr/issue05
+    slug_es: es/issue05
+    output: true
+    number: 5
+    date: "December 2020"
+    title: "Issue (5)"
+    editors:
+    - Kaiama Glover
+    - Alex Gil
+    production:
+    - Alex Gil
+    - Brian Ballsun-Stanton
+    - Kelly S. Martin
+  archives:
+    title: archives
+    output: true
+  cfps:
+    title: cfps
+    output: true
+
+# Current issue
+current: issue05
+current-number: 5
+
+# Jekyll-Kramdown
+markdown: kramdown
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Gems
+plugins:
+  - jekyll-sitemap
+  - jekyll-multiple-languages-plugin
+
+
+# About/contact
+author:
+  name: "Archipelagos"
+  email: archipelagosjournal@gmail.com
+
+
+#i18n
+languages: ["en", "es", "fr"]
+exclude_from_localizations: []
+
+# Custom vars
+version:             0.0.1
+
+# Excluded
+
+exclude: [utility, Gemfile, Gemfile.lock, extras, vendor, RAKEFILE, update.log, robots.txt]

@@ -51,6 +51,10 @@ for issuePath in $(find $root -maxdepth 1 -name "$1" -type d  ); do
 
 	cp $root/$_issue/*.md .
 	
+	echo "remaking $root/utility/log/$_issue/"
+	rm -rf "$root/utility/log/$_issue/"
+	mkdir -p $root/utility/log/$_issue/
+	
 	for file in $(find . -name "*.md"); do		
 		
 		$root/utility/ConTeXt/convert.sh $file $root $root/utility/log/$_issue/

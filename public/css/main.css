@@ -1135,7 +1135,16 @@ ol.bibliography {
 }
 
 
+/* Audio */
 
+audio {
+  margin-bottom: 0;
+}
+
+p.audio-title {
+  margin-top: 0;
+  font-size: .66rem;
+}
 
 
 
