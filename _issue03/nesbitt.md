@@ -3,8 +3,8 @@ layout: article
 section: articles
 title: 
   long: >
-    A Caribbean Counter-Edition: *Digital Grainger* and the Breaking of James Grainger's *The Sugar-Cane*
-  short: "A Caribbean Counter-Edition"
+    "The Slave-Machine: Slavery, Capitalism, and the “Proletariat” in The Black Jacobins and Capital"
+  short: "The Slave-Machine"
 doi: "10.7916/archipelagos-mq09-v798"
 author: 
 - name: Nick Nesbitt  
