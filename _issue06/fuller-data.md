@@ -2,8 +2,8 @@
 layout: article
 section: articles
 title: 
-  "long": ""
-  "short": ""
+  "long": "Data is patrimony: on developing a decolonial model for access and repatriation"
+  "short": "Data is patrimony"
 doi: ""
 author: 
 - name: Nicté Fuller Medina

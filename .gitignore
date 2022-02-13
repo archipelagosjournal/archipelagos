@@ -8,6 +8,7 @@ Gemfile.lock
 RAKEFILE
 .jekyll-cache
 .jekyll-metadata
+notes.txt
 
 # Numerous always-ignore extensions
 *.diff
