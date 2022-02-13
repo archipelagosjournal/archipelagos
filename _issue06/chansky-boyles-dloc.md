@@ -10,9 +10,9 @@ author:
   shortname: 
   bio: >
     Lorem ipsum
-date: 
+date: March 2022
 issue: 6
-order: 
+order: 5
 abstract: >
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim facilisis gravida neque convallis a cras. Neque gravida in fermentum et. Nullam non nisi est sit. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tellus id interdum velit laoreet id donec ultrices tincidunt. Dolor sit amet consectetur adipiscing. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Scelerisque fermentum dui faucibus in ornare. Cras fermentum odio eu feugiat pretium nibh. Ipsum a arcu cursus vitae congue mauris rhoncus aenean. Sed id semper risus in hendrerit gravida. 
 abstract_fr: >
