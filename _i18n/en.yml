@@ -18,6 +18,7 @@ global:
   and: and
   read-exchange: Read our exchange
   visit-project: Visit the Project Site
+  cfp: Call for Proposals
 
 issues:
   issue01: "Issue (1) | June 2016"

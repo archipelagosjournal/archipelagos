@@ -13,12 +13,8 @@ description:         'a journal of Caribbean digital praxis'
 url:                 'http://dev.elotroalex.com'
 baseurl:             '/archipelagos'
 future:              True
+incremental:         True
 
-
-# PROD
-# url:                 "http://archipelagosjournal.org"
-# baseurl:             ''
-# future: True
 
 githuburl:           'https://github.com/archipelagosjournal/archipelagos'
 
