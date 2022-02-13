@@ -9,16 +9,16 @@ author:
 - name: Natália Marques da Silva
   shortname: Marques da Silva
   bio: >
-    Lorem ipsum
+    Natália Marques da Silva is a PhD candidate in global and sociocultural studies at Florida International University. Da Silva's research focuses on museums, memorializations, and travel across Latin America, the Caribbean, and West Africa.
 - name: Jean Mozart Féron
   shortname: Féron
   bio: >
-    Lorem ipsum
+    Jean Mozart Féron is a PhD student in anthropology at the Université Laval (Quebec City, Canada) and junior faculty at the State University of Haiti and the Université Quisqueya. He is also a member of the executive board of the Haitian Committee of the International Council of Museums. His research focuses on museum evaluation and narration of sites of slavery, such as Croix-des-Bossales, known as Haiti's largest slave market during the colonial period.
 - name: Mireille Fombrun Mallebranche
   shortname: 
   bio: >
-    Lorem ipsum
-date: 
+    Mireille Fombrun Mallebranche is a Haitian-born artist and sculptor. As a member of the Fombrun family, she has been in charge of the conservation and daily activities at the Musée Ogier-Fombrun for the past decade. She is also a counselor to the executive board of the Haitian Committee of the International Council of Museums (ICOM-Haïti).
+date: March 2022
 issue: 6
 order: 
 abstract: >
@@ -31,958 +31,193 @@ language: en
 pdf: true
 ---
 
+Since the beginning of the twenty-first century, museum pathways into cyberspace have signaled continued investment in the development of virtual exhibits, online catalogs, and multimedia experiences. As pedagogical tools and vehicles for reaching new audiences, the digital imprint of analog artifacts facilitate museum expansion beyond the confines of physical spaces, visiting hours, entrance fees, and other obstacles that may hinder an in-person visit. Furthermore, in replicating or capturing the likeness or details of collection items, digital imprints also operate as a form of preservation. This case study focuses on this latter aspect of digitization and ways technology can function as a type of "insurance policy" for museums facing potential closure or whose collections are in physical danger. However, given certain limitations to digitizing museum spaces and collection items (costs, training, time), this case study limits its analysis to collaborative digitization. As such, we explore the role of communal databases and interinstitutional partnerships as means of safeguarding heritage and as pathways toward concomitant benefits of digitization, such as igniting support among community members, gathering data for physical preservation, raising awareness on the state of collections items, and communicating a museum's value to its society. At the same time, if the museum in this scenario does close, its collection remains available to current and future generations through the work of its digitization partners and the public at large.
 
-Since the beginning of the twenty-first century, museum pathways into
-cyberspace have signaled continued investment in the development of
-virtual exhibits, online catalogs, and multimedia experiences. As
-pedagogical tools and vehicles for reaching new audiences, the digital
-imprint of analog artifacts facilitate museum expansion beyond the
-confines of physical spaces, visiting hours, entrance fees, and other
-obstacles that may hinder an in-person visit. Furthermore, in
-replicating or capturing the likeness or details of collection items,
-digital imprints also operate as a form of preservation. This case study
-focuses on this latter aspect of digitization and ways technology can
-function as a type of "insurance policy" for museums facing potential
-closure or whose collections are in physical danger. However, given
-certain limitations to digitizing museum spaces and collection items
-(costs, training, time), this case study limits its analysis to
-collaborative digitization. As such, we explore the role of communal
-databases and interinstitutional partnerships as means of safeguarding
-heritage and as pathways toward concomitant benefits of digitization,
-such as igniting support among community members, gathering data for
-physical preservation, raising awareness on the state of collections
-items, and communicating a museum's value to its society. At the same
-time, if the museum in this scenario does close, its collection remains
-available to current and future generations through the work of its
-digitization partners and the public at large.
+In order to understand the plight of museums facing similar situations and the nuances of collaborative digitization, we examine a recently formed partnership between the Musée Ogier-Fombrun (MOF) and the Digital Library of the Caribbean (dLOC), an online consortium of resources. Since 2004, dLOC, which is administered by Florida International University, the University of Florida, and the University of the Virgin Islands, has attracted "over sixty partners in the United States, the Caribbean, Canada, Central and South America, and Europe," who work together to populate the database, safeguard its content, and disseminate information to scholars and the general public alike.[^2] While the MOF administration has long included digitization in its planning, the recent push to digitize and join a cooperative database responds to unfolding political and economic challenges exacerbated by the COVID-19 pandemic. As we will discuss in greater detail, it has become increasingly difficult to raise funds for both unexpected and intermittent restoration, and to sustain museum operations. Therefore, unlike previous incentives for digitization, which were pedagogical in nature, the current drive entails urgently documenting exhibits and collection for posterity. Though the complimentary efforts toward digitization (undertaken by the authors of this essay) and fundraising (undertaken by a separate volunteer group) seek to prevent closure, losing the MOF and its collection is an impending possibility.
 
-In order to understand the plight of museums facing similar situations
-and the nuances of collaborative digitization, we examine a recently
-formed partnership between the Musée Ogier-Fombrun (MOF) and the Digital
-Library of the Caribbean (dLOC), an online consortium of resources.
-Since 2004, dLOC, which is administered by Florida International
-University, the University of Florida, and the University of the Virgin
-Islands, has attracted "over sixty partners in the United States, the
-Caribbean, Canada, Central and South America, and Europe," who work
-together to populate the database, safeguard its content, and
-disseminate information to scholars and the general public alike.[^2]
-While the MOF administration has long included digitization in its
-planning, the recent push to digitize and join a cooperative database
-responds to unfolding political and economic challenges exacerbated by
-the COVID-19 pandemic. As we will discuss in greater detail, it has
-become increasingly difficult to raise funds for both unexpected and
-intermittent restoration, and to sustain museum operations. Therefore,
-unlike previous incentives for digitization, which were pedagogical in
-nature, the current drive entails urgently documenting exhibits and
-collection for posterity. Though the complimentary efforts toward
-digitization (undertaken by the authors of this essay) and fundraising
-(undertaken by a separate volunteer group) seek to prevent closure,
-losing the MOF and its collection is an impending possibility.
+Located in Montrouis, Haiti, the Musée Ogier-Fombrun contributes exhibits related to several aspects of Haitian history, including the Taíno-Arawak period, European colonization, and the Haitian Revolution. Its architecture and surroundings are also a contribution, as the museum is located on the grounds of an eighteenth-century sugarcane plantation partially restored by Haitian architect Gérard Fombrun, who purchased the site in the 1970s and dedicated the remainder of his life to developing it into a museum.[^3] Similarly to sister museums across Haiti and the diaspora, like the Parc Historique de la Canne à Sucre and the Musée du Panthéon National Haïtien (MUPANAH), the MOF engages its continuants through educational programming, conserving and protecting priceless artifacts, and facilitating discussion as well as reflection on history, society, and culture.[^4]
 
-Located in Montrouis, Haiti, the Musée Ogier-Fombrun contributes
-exhibits related to several aspects of Haitian history, including the
-Taíno-Arawak period, European colonization, and the Haitian Revolution.
-Its architecture and surroundings are also a contribution, as the museum
-is located on the grounds of an eighteenth-century sugarcane plantation
-partially restored by Haitian architect Gérard Fombrun, who purchased
-the site in the 1970s and dedicated the remainder of his life to
-developing it into a museum.[^3] Similarly to sister museums across
-Haiti and the diaspora, like the Parc Historique de la Canne à Sucre and
-the Musée du Panthéon National Haïtien (MUPANAH), the MOF engages its
-continuants through educational programming, conserving and protecting
-priceless artifacts, and facilitating discussion as well as reflection
-on history, society, and culture.[^4]
+This case study focuses on the MOF's path toward dLOC and its ability to safeguard digitized artifacts. In analyzing the day-to-day process of digitization, we consider issues related to equitable digitization, managing changing and costly technology, and the prospects of interweaving analog data into an increasingly virtual world. We also theorize how the twin concepts of digitization as revival and revival as survival contribute to the development of interinstitutional partnerships and collaborative databases like dLOC. Since the authors of this essay volunteer on the MOF's digitization team to different capacities, we complement interview data with our perspectives as participant-observers. Key questions we aim to examine throughout this case study and as we work to add the MOF's collection and archives to dLOC include, How does digitization facilitate the survival of vulnerable museums? and How do collaborative digitization and a cooperative database foster the revival of dormant collections and archives?
 
-This case study focuses on the MOF's path toward dLOC and its ability to
-safeguard digitized artifacts. In analyzing the day-to-day process of
-digitization, we consider issues related to equitable digitization,
-managing changing and costly technology, and the prospects of
-interweaving analog data into an increasingly virtual world. We also
-theorize how the twin concepts of digitization as revival and revival as
-survival contribute to the development of interinstitutional
-partnerships and collaborative databases like dLOC. Since the authors of
-this essay volunteer on the MOF's digitization team to different
-capacities, we complement interview data with our perspectives as
-participant-observers. Key questions we aim to examine throughout this
-case study and as we work to add the MOF's collection and archives to
-dLOC include, How does digitization facilitate the survival of
-vulnerable museums? and How do collaborative digitization and a
-cooperative database foster the revival of dormant collections and
-archives?
-
-In order to address these questions, we begin with a literature review
-on the challenges and opportunities of digitization, followed by a brief
-overview of Haitian museology intended to contextualize the Musée
-Ogier-Fombrun within the broader ecosystem of Haitian museums. We then
-chronicle the planning of the MOF's digitization program, its evolving
-partnership with dLOC, and obstacles related to undertaking digitization
-during the COVID-19 pandemic. Finally, we synthesize our findings with
-practical considerations on digitization as a means of
-self-preservation.
+In order to address these questions, we begin with a literature review on the challenges and opportunities of digitization, followed by a brief overview of Haitian museology intended to contextualize the Musée Ogier-Fombrun within the broader ecosystem of Haitian museums. We then chronicle the planning of the MOF's digitization program, its evolving partnership with dLOC, and obstacles related to undertaking digitization during the COVID-19 pandemic. Finally, we synthesize our findings with practical considerations on digitization as a means of self-preservation.
 
 Digitizing Museum Collections
-=============================
+-----------------------------
 
-In the digital age, museum access has increasingly extended beyond
-in-person visits and paper souvenirs to include websites, documentaries,
-podcasts, virtual reality projects, and other kinds of audiovisual
-experiences, including museums that are entirely digital. While
-institutions decide their digital presence and how much personnel and
-funding to allocate to virtual environments in different ways, they
-share some general concerns. Digitizing collections and archives, for
-example, entails commonplace considerations across the cultural sector
-as museums navigate complex challenges and opportunities associated with
-sustainability, ethics, policy, and, to some degree, aesthetics. In the
-following literature overview, we briefly examine some of these
-challenges and opportunities, starting with financial concerns.
+In the digital age, museum access has increasingly extended beyond in-person visits and paper souvenirs to include websites, documentaries, podcasts, virtual reality projects, and other kinds of audiovisual experiences, including museums that are entirely digital. While institutions decide their digital presence and how much personnel and funding to allocate to virtual environments in different ways, they share some general concerns. Digitizing collections and archives, for example, entails commonplace considerations across the cultural sector as museums navigate complex challenges and opportunities associated with sustainability, ethics, policy, and, to some degree, aesthetics. In the following literature overview, we briefly examine some of these challenges and opportunities, starting with financial concerns.
 
-A general obstacle to joining the "flat world," as Yaşar Tonta and
-others perceive it, is the difficulty of sustaining digitization
-efforts.[^5] Materially acquiring, maintaining, and replacing outdated
-software and hardware can pose significant barriers to digitization,
-particularly at underfunded institutions.[^6] If the museum is
-responsible for its own data, the costs of storing and security
-high-resolution files can further strain budgets, as can labor costs
-associated with identifying, organizing, scanning and photographing,
-indexing, uploading, and disseminating digitized content. For some
-museums, digitization budgets are augmented by costly or infrequent
-electricity and/or internet access.
+A general obstacle to joining the "flat world," as Yaşar Tonta and others perceive it, is the difficulty of sustaining digitization efforts.[^5] Materially acquiring, maintaining, and replacing outdated software and hardware can pose significant barriers to digitization, particularly at underfunded institutions.[^6] If the museum is responsible for its own data, the costs of storing and security high-resolution files can further strain budgets, as can labor costs associated with identifying, organizing, scanning and photographing, indexing, uploading, and disseminating digitized content. For some museums, digitization budgets are augmented by costly or infrequent electricity and/or internet access.
 
-Given the potentially daunting task of procuring the means to digitize,
-maintain, and disseminate virtual content, interinstitutional
-partnerships have risen as viable paths to digitization. In a study of
-digitization trends at the international level, Alexandra Yarrow,
-Barbara Clubb, and Jennifer-Lynn Draper demonstrate that museums,
-libraries, and archives increasingly turn to one another (as well as to
-NGOs, universities, and government agencies) as a means to develop
-"common digitization projects and common web portals" that "expand
-resources, pool collective knowledge, and share common history."[^7]
-This is the pathway the Digital Library of the Caribbean (dLOC) affords
-its member institutions and, as we will discuss later, one of the chief
-reasons the MOF has sought its support. It is not, however, the only
-pathway available to museums. Instead of partnering with a public
-institution, some may seek support from private companies like Google
-and Microsoft. In offsetting digitization costs, Google Art Project, for
-instance, has helped many museums navigate rapid changes in technology
-and digitization standards.[^8] Other pathways include paywall business
-models (such as subscription services or charging users to access
-digitized content) or rallying individual donors. Overall, all of the
-partnerships mentioned above require carefully consideration of
-ownership, authority, transparency, and in the case of the last example,
-potential donor bias among partners.[^9]
+Given the potentially daunting task of procuring the means to digitize, maintain, and disseminate virtual content, interinstitutional partnerships have risen as viable paths to digitization. In a study of digitization trends at the international level, Alexandra Yarrow, Barbara Clubb, and Jennifer-Lynn Draper demonstrate that museums, libraries, and archives increasingly turn to one another (as well as to NGOs, universities, and government agencies) as a means to develop "common digitization projects and common web portals" that "expand resources, pool collective knowledge, and share common history."[^7] This is the pathway the Digital Library of the Caribbean (dLOC) affords its member institutions and, as we will discuss later, one of the chief reasons the MOF has sought its support. It is not, however, the only pathway available to museums. Instead of partnering with a public institution, some may seek support from private companies like Google and Microsoft. In offsetting digitization costs, Google Art Project, for instance, has helped many museums navigate rapid changes in technology and digitization standards.[^8] Other pathways include paywall business models (such as subscription services or charging users to access digitized content) or rallying individual donors. Overall, all of the partnerships mentioned above require carefully consideration of ownership, authority, transparency, and in the case of the last example, potential donor bias among partners.[^9]
 
-Digitization also presupposes awareness of ethics, policy, and legal
-matters---particularly when determining whether digitized content is
-shared with the public. In a study of European digitization projects,
-Karol J. Borowiecki and Trilce Navarrete illustrate that for a number of
-museums, libraries, and archives, digitization does not necessarily
-equal dissemination due to "issues of copyright, costs related to
-license clearance or a lack of understanding of the online legal
-framework."[^10] Other issues to consider include respecting the rights
-of living artists, knowledge producers, and cultural groups and
-reflecting on the potential consequences for individuals or communities
-whose likeness, actions, practices, or sensitive data are reflected in
-digitized materials.[^11] The public's ability to access digitized
-content also merits examination. Some of the questions concerning the
-MOF, for example, include, Who among the museum's constituents can
-equitably access digitized collections? Are there wide discrepancies
-regarding access to devices, internet, and electricity or barriers
-related to language or digital literacy? How is information on accessing
-digital content distributed? Does shifting toward digitization
-negatively impact physical programming?
+Digitization also presupposes awareness of ethics, policy, and legal matters---particularly when determining whether digitized content is shared with the public. In a study of European digitization projects, Karol J. Borowiecki and Trilce Navarrete illustrate that for a number of museums, libraries, and archives, digitization does not necessarily equal dissemination due to "issues of copyright, costs related to license clearance or a lack of understanding of the online legal framework."[^10] Other issues to consider include respecting the rights of living artists, knowledge producers, and cultural groups and reflecting on the potential consequences for individuals or communities whose likeness, actions, practices, or sensitive data are reflected in digitized materials.[^11] The public's ability to access digitized content also merits examination. Some of the questions concerning the MOF, for example, include, Who among the museum's constituents can equitably access digitized collections? Are there wide discrepancies regarding access to devices, internet, and electricity or barriers related to language or digital literacy? How is information on accessing digital content distributed? Does shifting toward digitization negatively impact physical programming?
 
-These questions must be addressed before developing a digitization
-project of ethical and equitable value that heightens the general
-benefits of digitization. Digitized collections blur geographic borders
-and physical constraints, aid scholarly pursuits, contribute to public
-knowledge, enhance educational programming, and expand notions of
-museums' role in their communities.[^12] In analyzing these benefits,
-Ole Marius Hylland notes that "digitization has for almost two decades
-been seen as a tool for cultural democracy---making cultural heritage
-widely accessible, making it possible to have crowdsourced documentation
-and making artefacts and objects matter more to more people."[^13]
+These questions must be addressed before developing a digitization project of ethical and equitable value that heightens the general benefits of digitization. Digitized collections blur geographic borders and physical constraints, aid scholarly pursuits, contribute to public knowledge, enhance educational programming, and expand notions of museums' role in their communities.[^12] In analyzing these benefits, Ole Marius Hylland notes that "digitization has for almost two decades been seen as a tool for cultural democracy---making cultural heritage widely accessible, making it possible to have crowdsourced documentation and making artefacts and objects matter more to more people."[^13]
 
-Digitization is also a way to safeguard collections. In creating what
-Chelsea Graham calls "digital carbon copies" of collection items,[^14]
-digitization may be viewed as an additional layer of protection to other
-forms of collections management. Though digital simulacra can rarely (if
-ever) truly replace tangible or intangible heritage, virtual collections
-can prevent complete loss due to both existing threats (like hurricanes,
-earthquakes, war, theft, and vandalism) and emerging ones (like
-collateral damage from COVID-19). The fires that devastated the National
-Museum of Brazil in Rio de Janeiro in 2018 and the University of Cape
-Town's Jagger Reading Room in 2021 are testaments to this danger. The
-institutions and the public at large suffered incalculable losses. Some
-of the items that perished now exist only as scans, photographs, and
-descriptions, while others are lost forever. Avoiding such a similar
-tragedy at the MOF is one of the chief reasons we have sought to
-digitize and disseminate its collection, a process that in its planning
-and early stages has entailed carefully considering the challenges and
-opportunities we explore in this section. Before outlining our
-decision-making process and the latest outcomes of our effort, we
-briefly turn to the national landscape of museums in which the MOF
-operates.
+Digitization is also a way to safeguard collections. In creating what Chelsea Graham calls "digital carbon copies" of collection items,[^14] digitization may be viewed as an additional layer of protection to other forms of collections management. Though digital simulacra can rarely (if ever) truly replace tangible or intangible heritage, virtual collections can prevent complete loss due to both existing threats (like hurricanes, earthquakes, war, theft, and vandalism) and emerging ones (like collateral damage from COVID-19). The fires that devastated the National Museum of Brazil in Rio de Janeiro in 2018 and the University of Cape Town's Jagger Reading Room in 2021 are testaments to this danger. The institutions and the public at large suffered incalculable losses. Some of the items that perished now exist only as scans, photographs, and descriptions, while others are lost forever. Avoiding such a similar tragedy at the MOF is one of the chief reasons we have sought to digitize and disseminate its collection, a process that in its planning and early stages has entailed carefully considering the challenges and opportunities we explore in this section. Before outlining our decision-making process and the latest outcomes of our effort, we briefly turn to the national landscape of museums in which the MOF operates.
 
 Haiti's Museological Landscape
-==============================
+------------------------------
 
-The history of museums in Haiti narrowly predates the Haitian
-Revolution, when, in the tradition of European cabinets of curiosities,
-a group of wealthy colonialists in Cap Haitien established a space in
-which to store, study, and discuss objects of scientific value.[^15] In
-mirroring contemporaneous ideas of museums (not all labeled as such in
-their time) as highly restricted spaces, their late eighteenth-century
-initiative clashed with the needs and spirit of the Revolution. Museums
-in Haiti did not resurface until the late nineteenth century, when
-museum-making generally veered away from small, scholarly circles and
-toward forms of public engagement that expanded throughout the twentieth
-century and into the twenty-first.[^16] Chronologically, this included
-the establishment of a privately funded museum known as the Petit
-Séminaire Collège Saint-Martial in 1883 as well as a partisan effort by
-President Pierre Nord Alexis to establish, in 1904, the Palais du
-Centenaire in Gonaïves.[^17]
+The history of museums in Haiti narrowly predates the Haitian Revolution, when, in the tradition of European cabinets of curiosities, a group of wealthy colonialists in Cap Haitien established a space in which to store, study, and discuss objects of scientific value.[^15] In mirroring contemporaneous ideas of museums (not all labeled as such in their time) as highly restricted spaces, their late eighteenth-century initiative clashed with the needs and spirit of the Revolution. Museums in Haiti did not resurface until the late nineteenth century, when museum-making generally veered away from small, scholarly circles and toward forms of public engagement that expanded throughout the twentieth century and into the twenty-first.[^16] Chronologically, this included the establishment of a privately funded museum known as the Petit Séminaire Collège Saint-Martial in 1883 as well as a partisan effort by President Pierre Nord Alexis to establish, in 1904, the Palais du Centenaire in Gonaïves.[^17]
 
-These initiatives laid the foundation for subsequent institutions that
-have made tremendous cultural and social contributions. They include
-national projects like the Musée du Panthéon National Haïtien (MUPANAH),
-established in 1983 but rooted in the 1930s, and the Bureau National
-d'Ethnologie, founded in 1941 and revived in 1984, as well as a host of
-private-public museums, including among others the Musée d'Art Haïtien
-du Collège Saint-Pierre in Port-au-Prince (founded in 1972); the Musée
-de Guahaba in Limbé (1983); the Musée du Peuple de Fermathe in Fermathe
-(1983); and the Musée du Parc Historique de la Canne à Sucre (PHCS) in
-Carradeux (2005).[^18] The Musée Ogier-Fombrun, as we will later
-discuss, opened to the public in 1983 and was reinaugurated in 1993, a
-process that included not only the development of a museum space but
-also the restoration of an eighteenth-century sugar plantation that had
-operated on the site.[^19]
+These initiatives laid the foundation for subsequent institutions that have made tremendous cultural and social contributions. They include national projects like the Musée du Panthéon National Haïtien (MUPANAH), established in 1983 but rooted in the 1930s, and the Bureau National d'Ethnologie, founded in 1941 and revived in 1984, as well as a host of private-public museums, including among others the Musée d'Art Haïtien du Collège Saint-Pierre in Port-au-Prince (founded in 1972); the Musée de Guahaba in Limbé (1983); the Musée du Peuple de Fermathe in Fermathe (1983); and the Musée du Parc Historique de la Canne à Sucre (PHCS) in Carradeux (2005).[^18] The Musée Ogier-Fombrun, as we will later discuss, opened to the public in 1983 and was reinaugurated in 1993, a process that included not only the development of a museum space but also the restoration of an eighteenth-century sugar plantation that had operated on the site.[^19]
 
-Most museums currently operating in Haiti specialize in art, culture,
-and history, with special attention to formation of the country and the
-abolishment of slavery, as well as to the archeology of the peoples who
-originally populated the island, the Taíno-Arawak. The MUPANAH, the MOF,
-the PHCS, and the museum projects developed within the Citadelle
-Laferrière, a UNESCO World Heritage Site since 1982, exemplify these
-focus areas.[^20] Though they range widely in size and scope, a majority
-are privately operated or under public-private management, while a
-select few are operated by the government or as stand-alone
-nonprofits.[^21] In terms of visitor groups, museums across Haiti are
-important extensions of traditional classroom learning, and thus receive
-many K--12 and university-level students, though visitors also include
-adults, tourists, and members of the Haitian diaspora.[^22] Whether
-through solo exploration or guided tours, permanent or traveling
-exhibits, installations, and reflection spaces facilitate learning.
-Meanwhile, artifacts and objects of historical and cultural significance
-are collected, displayed, and safeguarded. In addition to these
-paramount functions---educational programming and collection
-management---the museums discussed in this paper also serve the public
-through their available facilities. The MOF's conference room, the
-PHCS's courtyard, and MUPANAH's outdoor auditorium, for instance, have
-hosted numerous community workshops, trainings, and activities for
-groups who needed a space for their programming.
+Most museums currently operating in Haiti specialize in art, culture, and history, with special attention to formation of the country and the abolishment of slavery, as well as to the archeology of the peoples who originally populated the island, the Taíno-Arawak. The MUPANAH, the MOF, the PHCS, and the museum projects developed within the Citadelle Laferrière, a UNESCO World Heritage Site since 1982, exemplify these focus areas.[^20] Though they range widely in size and scope, a majority are privately operated or under public-private management, while a select few are operated by the government or as stand-alone nonprofits.[^21] In terms of visitor groups, museums across Haiti are important extensions of traditional classroom learning, and thus receive many K--12 and university-level students, though visitors also include adults, tourists, and members of the Haitian diaspora.[^22] Whether through solo exploration or guided tours, permanent or traveling exhibits, installations, and reflection spaces facilitate learning. Meanwhile, artifacts and objects of historical and cultural significance are collected, displayed, and safeguarded. In addition to these paramount functions---educational programming and collection management---the museums discussed in this paper also serve the public through their available facilities. The MOF's conference room, the PHCS's courtyard, and MUPANAH's outdoor auditorium, for instance, have hosted numerous community workshops, trainings, and activities for groups who needed a space for their programming.
 
-At the same time, a number of museums in Haiti have closed, are in
-danger of closing, or, as Carlo Avierl Célius points out, have yet to
-see the light of day.[^23] Existing museums as well as museums currently
-under development vary in their capacity to obtain funds; to hire,
-train, and support staff members; to acquire necessary conservation and
-preservation materials; to maintain or expand museum facilities; and to
-obtain other tools needed to meet their missions. Daily operation and
-planning may be further strained by political or economic instability,
-global crises like COVID-19, or environmental factors. The technical
-devices used to fulfill museum functions also require attention.[^24]
-Currently, a shortage of technical staff, museologists, conservation
-specialists, and other technicians has limited museum growth across the
-country.[^25]
+At the same time, a number of museums in Haiti have closed, are in danger of closing, or, as Carlo Avierl Célius points out, have yet to see the light of day.[^23] Existing museums as well as museums currently under development vary in their capacity to obtain funds; to hire, train, and support staff members; to acquire necessary conservation and preservation materials; to maintain or expand museum facilities; and to obtain other tools needed to meet their missions. Daily operation and planning may be further strained by political or economic instability, global crises like COVID-19, or environmental factors. The technical devices used to fulfill museum functions also require attention.[^24] Currently, a shortage of technical staff, museologists, conservation specialists, and other technicians has limited museum growth across the country.[^25]
 
-When we examine museums' responses to these obstacles, four
-interconnected pathways stand out: interinstitutional bonds,
-collaboration with sister institutions like libraries and universities,
-international partnerships, and, increasingly, a turn toward
-collaborative technology. A major example of interinstitutional
-partnership is the 2016 establishment of a curation laboratory by the
-archeologist Camille Louis, MUPANAH's curation director. Although it is
-hosted at MUPANAH, the laboratory serves the museum and patrimony
-community as a whole. Another example of museum-to-museum collaboration
-is the Haitian Committee of the International Council of Museums
-(ICOM-Haïti). By connecting museologists, cultural heritage
-professionals, and leadership and staff from various museums, ICOM-Haïti
-facilitates egalitarian forums of discussion on the role of Haitian
-museums in their respective communities and Haitian society as a whole.
-Members also use it as a platform to share resources, organize trainings
-and workshops, disseminate news on upcoming funding opportunities, and
-organize public lectures and debates on culture, patrimony, and
-heritage.
+When we examine museums' responses to these obstacles, four interconnected pathways stand out: interinstitutional bonds, collaboration with sister institutions like libraries and universities, international partnerships, and, increasingly, a turn toward collaborative technology. A major example of interinstitutional partnership is the 2016 establishment of a curation laboratory by the archeologist Camille Louis, MUPANAH's curation director. Although it is hosted at MUPANAH, the laboratory serves the museum and patrimony community as a whole. Another example of museum-to-museum collaboration is the Haitian Committee of the International Council of Museums (ICOM-Haïti). By connecting museologists, cultural heritage professionals, and leadership and staff from various museums, ICOM-Haïti facilitates egalitarian forums of discussion on the role of Haitian museums in their respective communities and Haitian society as a whole. Members also use it as a platform to share resources, organize trainings and workshops, disseminate news on upcoming funding opportunities, and organize public lectures and debates on culture, patrimony, and heritage.
 
-Collaboration with sister institutions, the second response we observe,
-includes increased development of museology and patrimony curricula in
-the academic programs of Haitian universities, particularly the
-Université d'État d'Haïti, as well as the establishment, in 2014, of
-Université Quisqueya's Centre de Conservation des Biens Culturels
-(Center for the Conservation of Cultural Goods), which received
-significant technical and financial support from the Smithsonian
-Institution in the United States. This is not the only example of the
-Smithsonian's involvement in Haiti's cultural sector. Specialists at the
-Smithsonian, as well as other well-known institutions like the Collège
-Montmorency in Canada and the Louvre in France, have been major assets
-in capacity building, funding, and training.
+Collaboration with sister institutions, the second response we observe, includes increased development of museology and patrimony curricula in the academic programs of Haitian universities, particularly the Université d'État d'Haïti, as well as the establishment, in 2014, of Université Quisqueya's Centre de Conservation des Biens Culturels (Center for the Conservation of Cultural Goods), which received significant technical and financial support from the Smithsonian Institution in the United States. This is not the only example of the Smithsonian's involvement in Haiti's cultural sector. Specialists at the Smithsonian, as well as other well-known institutions like the Collège Montmorency in Canada and the Louvre in France, have been major assets in capacity building, funding, and training.
 
-The final example on our nonexhaustive list of responses to the
-challenges facing Haitian museums is a turn toward collaborative
-technology that often combines the aforementioned responses
-(interinstitutional bonds, collaboration with sister institutions, and
-international partnerships). In many ways, the COVID-19 pandemic has
-accelerated this turn as museums pair increased reliance on technology
-with increased partnership with one another. For instance, ICOM-Haïti
-carried out its fourth "Museum Fortnight" program on Zoom, facilitating
-participation by the diaspora and by professionals located outside the
-metropolitan area, where such events normally take place. The "Museum
-Fortnight" series has served as a springboard to show the organizational
-capacity of some structures in Haitian society. These meetings offered a
-space for very prolific and fruitful discussions between intellectuals
-from universities and cultural actors in Haiti. They also brought
-together people from Canada, the United States, Benin, France, and even
-Egypt who are interested in the situation of Haitian museums and
-heritage. In this series of meetings, to quote the president of
-ICOM-Haïti, Dr. Rachelle C. Doucet, "Haiti wanted to provide a forum for
-local and community museums that we do not hear too much about, but also
-museums whose economic and social potential is not yet evaluated. . . .
-with community museums, the Haitian museum landscape has become richer.
-That is to say that museums participate in local development and become
-a real tool for social cohesion and economic development."[^26] The
-success of the program has embedded virtual activities within the
-tradition of ICOM-Haïti, with fully virtual and hybrid virtual/in-person
-activities now common in its programming.
+The final example on our nonexhaustive list of responses to the challenges facing Haitian museums is a turn toward collaborative technology that often combines the aforementioned responses (interinstitutional bonds, collaboration with sister institutions, and international partnerships). In many ways, the COVID-19 pandemic has accelerated this turn as museums pair increased reliance on technology with increased partnership with one another. For instance, ICOM-Haïti carried out its fourth "Museum Fortnight" program on Zoom, facilitating participation by the diaspora and by professionals located outside the metropolitan area, where such events normally take place. The "Museum Fortnight" series has served as a springboard to show the organizational capacity of some structures in Haitian society. These meetings offered a space for very prolific and fruitful discussions between intellectuals from universities and cultural actors in Haiti. They also brought together people from Canada, the United States, Benin, France, and even Egypt who are interested in the situation of Haitian museums and heritage. In this series of meetings, to quote the president of ICOM-Haïti, Dr. Rachelle C. Doucet, "Haiti wanted to provide a forum for local and community museums that we do not hear too much about, but also museums whose economic and social potential is not yet evaluated. . . . with community museums, the Haitian museum landscape has become richer. That is to say that museums participate in local development and become a real tool for social cohesion and economic development."[^26] The success of the program has embedded virtual activities within the tradition of ICOM-Haïti, with fully virtual and hybrid virtual/in-person activities now common in its programming.
 
-We offer a final example of collaborative museology prior to turning
-toward our own case study. In 2021, ICOM-Haïti, its member museums, and
-the École Supérieure d'Infrotronique d'Haïti (ESIH) inaugurated a
-"virtual exhibition of museums in Haiti," composed of miniexhibits of
-different museums (figure 1). In addition to a collective area, each
-museum was given a digital pavilion where it could add a selection of
-images, videos, and audio related to its collections. The project
-benefited from earlier collaborations between ICOM-Haïti and ESIH. In
-May 2018, for example, the two institutions copresented an augmented
-reality project for ICOM's World Museum Day, a global event whose 2018
-theme was "Hyperconnected Museums." This initial activity brought
-together dozens of students, from grade school to the university level,
-and demonstrated that local resources and technological expertise, such
-as those provided by ESIH, could be an important source of capacity
-building for young academics and institutions interested in the
-development in Haiti. The 2021 virtual reality exhibition illustrates
-how this knowledge has been put to use in years since. By bringing
-together computer science experts and museologists, the project
-facilitated virtual visits to the MOF and other participating museums at
-a time when the COVID-19 pandemic had made physical visitation
-impossible.
+We offer a final example of collaborative museology prior to turning toward our own case study. In 2021, ICOM-Haïti, its member museums, and the École Supérieure d'Infrotronique d'Haïti (ESIH) inaugurated a "virtual exhibition of museums in Haiti," composed of miniexhibits of different museums (figure 1). In addition to a collective area, each museum was given a digital pavilion where it could add a selection of images, videos, and audio related to its collections. The project benefited from earlier collaborations between ICOM-Haïti and ESIH. In May 2018, for example, the two institutions copresented an augmented reality project for ICOM's World Museum Day, a global event whose 2018 theme was "Hyperconnected Museums." This initial activity brought together dozens of students, from grade school to the university level, and demonstrated that local resources and technological expertise, such as those provided by ESIH, could be an important source of capacity building for young academics and institutions interested in the development in Haiti. The 2021 virtual reality exhibition illustrates how this knowledge has been put to use in years since. By bringing together computer science experts and museologists, the project facilitated virtual visits to the MOF and other participating museums at a time when the COVID-19 pandemic had made physical visitation impossible.
 
-  ![Picture 6](media/image1.png){width="5.986111111111111in" height="2.8472222222222223in"}
-  -----------------------------------------------------------------------------------------------------------------------------------
-  **Figure 1**. Image from the École Supérieure d'Infrotronique d'Haïti presenting a virtual exhibition of Haitian museums in 2021.
+![Picture 6](media/image1.png)
 
-The MOF's digitization project parallels several aspects of the 2021
-virtual exhibit and other types of activities detailed in this
-abbreviated account of Haiti's museological trajectory. As we will
-demonstrate, the MOF's work with dLOC interweaves collaborative
-technology, international partnership, bonds with sister institutions,
-and, through its unfolding archives, future opportunities for
-museum-to-museum collaboration. Though focused on "carbon copying" the
-MOF, the partnership with dLOC reflects a broader effort to increase
-public engagement, reassert the relevance of Haitian museums, overcome
-material and physical limitations, and highlight artifacts and works of
-art of social, historical, and cultural importance. In this context, the
-MOF's digitization project may be viewed as an extension of the
-challenges and opportunities present in both concurrent engagements
-across Haiti and in the aforementioned literature.
+**Figure 1**. Image from the École Supérieure d'Infrotronique d'Haïti presenting a virtual exhibition of Haitian museums in 2021.
+
+The MOF's digitization project parallels several aspects of the 2021 virtual exhibit and other types of activities detailed in this abbreviated account of Haiti's museological trajectory. As we will demonstrate, the MOF's work with dLOC interweaves collaborative technology, international partnership, bonds with sister institutions, and, through its unfolding archives, future opportunities for museum-to-museum collaboration. Though focused on "carbon copying" the MOF, the partnership with dLOC reflects a broader effort to increase public engagement, reassert the relevance of Haitian museums, overcome material and physical limitations, and highlight artifacts and works of art of social, historical, and cultural importance. In this context, the MOF's digitization project may be viewed as an extension of the challenges and opportunities present in both concurrent engagements across Haiti and in the aforementioned literature.
 
 The MOF's Digitization Project
-==============================
+------------------------------
 
-For most of its history, Gérard Fombrun sustained the Musée
-Ogier-Fombrun with revenue derived from business initiatives in
-construction and hospitality, including Moulin-sur-Mer (MSM), a
-beachside resort a few miles south of the MOF. While steps were taken to
-better separate business interests from community-centered projects,
-such as the establishment of an nongovernmental organization, his tenure
-solidified the MOF as a family-operated yet publicly oriented museum.
-This dynamic is not uncommon in Haiti, where many museums are organized
-as private-public partnerships.[^27] For Gérard, it facilitated personal
-involvement in the development of exhibits, procuring artifacts,
-planning special events like plays on historical events, and devising a
-narrative read to visiting groups.
+For most of its history, Gérard Fombrun sustained the Musée Ogier-Fombrun with revenue derived from business initiatives in construction and hospitality, including Moulin-sur-Mer (MSM), a beachside resort a few miles south of the MOF. While steps were taken to better separate business interests from community-centered projects, such as the establishment of an nongovernmental organization, his tenure solidified the MOF as a family-operated yet publicly oriented museum. This dynamic is not uncommon in Haiti, where many museums are organized as private-public partnerships.[^27] For Gérard, it facilitated personal involvement in the development of exhibits, procuring artifacts, planning special events like plays on historical events, and devising a narrative read to visiting groups.
 
-In the 2010s, two important events changed the museum's course. First,
-museum leadership was transferred from Gérard to Mireille Fombrun
-Mallebranche, a coauthor of this essay. Second, the nonprofit Fondation
-Moulin-sur-Mer was created to support the socially oriented part of the
-hotel business and became the museum's chief supporter. In practice,
-however, the resort remained the primary means through which funds and
-support were routed to the museum. Initially, this was not perceived as
-an issue. The informal influx of funds, resources, and personnel from
-the resort aided the beginning of Mireille's tenure. It enabled the MOF
-to update its pedagogical mission, support a knowledgeable team of
-museum guides, train a staff member in collections management and record
-keeping, and rehabilitate parts of the museum that had deteriorated over
-time. Once these initiatives were underway, the MOF experienced renewed
-public interest, which fueled further improvements to its programming,
-collection, and outreach. At this juncture, the complexities of family
-ownership and the consequences of bypassing MSM through informal gifts
-hindered museum growth. On the one hand, confusion over the boundaries
-between the museum, the family business, and the nonprofit became a
-major impediment to the types of funding acquisition through which the
-MOF could become an independent institution. On the other hand, the
-family support that otherwise allowed the museum to continue was subject
-to the ebbs and flows of familial economics and the volatile nature of
-the hospitality market. Furthermore, changes to the museum, its grounds,
-and its mission often necessitated rallying the support of
-business-minded partners whose views did not always align with the MOF's
-mission (and who at times needed to protect their own assets and
-interests).
+In the 2010s, two important events changed the museum's course. First, museum leadership was transferred from Gérard to Mireille Fombrun Mallebranche, a coauthor of this essay. Second, the nonprofit Fondation Moulin-sur-Mer was created to support the socially oriented part of the hotel business and became the museum's chief supporter. In practice, however, the resort remained the primary means through which funds and support were routed to the museum. Initially, this was not perceived as an issue. The informal influx of funds, resources, and personnel from the resort aided the beginning of Mireille's tenure. It enabled the MOF to update its pedagogical mission, support a knowledgeable team of museum guides, train a staff member in collections management and record keeping, and rehabilitate parts of the museum that had deteriorated over time. Once these initiatives were underway, the MOF experienced renewed public interest, which fueled further improvements to its programming, collection, and outreach. At this juncture, the complexities of family ownership and the consequences of bypassing MSM through informal gifts hindered museum growth. On the one hand, confusion over the boundaries between the museum, the family business, and the nonprofit became a major impediment to the types of funding acquisition through which the MOF could become an independent institution. On the other hand, the family support that otherwise allowed the museum to continue was subject to the ebbs and flows of familial economics and the volatile nature of the hospitality market. Furthermore, changes to the museum, its grounds, and its mission often necessitated rallying the support of business-minded partners whose views did not always align with the MOF's mission (and who at times needed to protect their own assets and interests).
 
-These points culminated in an effort to make the MOF independent of
-family funding, enabling more transparent acquisition of funds and
-greater autonomy in daily operation, pedagogical missions, and resource
-distribution. This process has not been easy. Mounting political and
-economic tension and ongoing hardships related to the COVID-19 pandemic
-have stalled fundraising efforts, ticket sales to visiting groups, and
-giftshop revenue. The MOF has remained afloat by cutting its hours,
-decreasing its staff from seven full-time to two part-time employees and
-a director who currently works pro bono. For the time being, such
-cutbacks have enabled the MOF to *kembe la.* But unless a path forward
-emerges, it is likely to close its doors. Maintaining the collection,
-for example, is race against time since the museum is located in a
-tropical environment. Even in years when hurricanes and tropical storms
-bypass the region, high humidity and proximity to the coast accelerate
-the deterioration of materials like wood, paper, and canvas,[^28] all of
-which can be found throughout the MOF's installations, exhibits, and
-surrounding sculptural garden. At the time of this writing, the toll can
-already be witnessed in outdoor installations that have fallen into
-disarray, oil on canvas paintings that have sustained water damage, and
-sensitive items from the museum's archive (like negatives and
-undeveloped film) that have deteriorated.
+These points culminated in an effort to make the MOF independent of family funding, enabling more transparent acquisition of funds and greater autonomy in daily operation, pedagogical missions, and resource distribution. This process has not been easy. Mounting political and economic tension and ongoing hardships related to the COVID-19 pandemic have stalled fundraising efforts, ticket sales to visiting groups, and giftshop revenue. The MOF has remained afloat by cutting its hours, decreasing its staff from seven full-time to two part-time employees and a director who currently works pro bono. For the time being, such cutbacks have enabled the MOF to *kembe la.* But unless a path forward emerges, it is likely to close its doors. Maintaining the collection, for example, is race against time since the museum is located in a tropical environment. Even in years when hurricanes and tropical storms bypass the region, high humidity and proximity to the coast accelerate the deterioration of materials like wood, paper, and canvas,[^28] all of which can be found throughout the MOF's installations, exhibits, and surrounding sculptural garden. At the time of this writing, the toll can already be witnessed in outdoor installations that have fallen into disarray, oil on canvas paintings that have sustained water damage, and sensitive items from the museum's archive (like negatives and undeveloped film) that have deteriorated.
 
-Alarm over these challenges, uncertainty over the MOF's ability to
-withstand emergent costs, and the threat of further coronavirus
-disruptions inspired the digitization project we examine in this case
-study. The effort unites dLOC, the MOF's remaining staff, and members of
-Les Amis du MOF, a loosely organized society of volunteers who help the
-museum in different capacities. The initiative aims to document the
-MOF's collection and archive in the event closure can no longer be
-avoided and has largely been pursued and presented by the authors with
-this worst-case scenario in mind. We note, however, that for the
-remaining staff and other friends of the museum, the project has
-operated as a form of resistance that has (re)fueled attempts to sustain
-the museum through grants and in-kind donations. As such, we amend the
-discussion below to suppose that collaborative digitization, though
-initially approached as a means of survival for the collection, may
-ultimately function as a form of revival for the MOF and its
-constituents.
+Alarm over these challenges, uncertainty over the MOF's ability to withstand emergent costs, and the threat of further coronavirus disruptions inspired the digitization project we examine in this case study. The effort unites dLOC, the MOF's remaining staff, and members of Les Amis du MOF, a loosely organized society of volunteers who help the museum in different capacities. The initiative aims to document the MOF's collection and archive in the event closure can no longer be avoided and has largely been pursued and presented by the authors with this worst-case scenario in mind. We note, however, that for the remaining staff and other friends of the museum, the project has operated as a form of resistance that has (re)fueled attempts to sustain the museum through grants and in-kind donations. As such, we amend the discussion below to suppose that collaborative digitization, though initially approached as a means of survival for the collection, may ultimately function as a form of revival for the MOF and its constituents.
 
 Collaborative digitization
 --------------------------
 
-In examining options for digitization in late 2020, the Digital Library
-of the Caribbean emerged as a *patnè* *natirèl* for the museum.
-Digitizing without institutional partners did not appear feasible given
-the costs of hosting high-resolution files, lack of knowledge about the
-latest digitization standards, and the possibility of losing data (in
-the past, digital materials kept at the museum were lost due to a number
-factors, including corrupted hard drives). Partnering with private
-entities, among them third-party associates of the Google Art Project,
-was more viable, but this option raised the types of concerns noted
-earlier in the essay.
+In examining options for digitization in late 2020, the Digital Library of the Caribbean emerged as a *patnè* *natirèl* for the museum. Digitizing without institutional partners did not appear feasible given the costs of hosting high-resolution files, lack of knowledge about the latest digitization standards, and the possibility of losing data (in the past, digital materials kept at the museum were lost due to a number factors, including corrupted hard drives). Partnering with private entities, among them third-party associates of the Google Art Project, was more viable, but this option raised the types of concerns noted earlier in the essay.
 
-In contrast, dLOC is administered by public universities that have a
-long-standing presence in Haiti, and its membership includes a number of
-well-known Haitian institutions, among them the Archives Nationales
-d'Haïti and the Biblothèque Nationale d'Haïti. In thinking of the
-broader Caribbean, the prospect of MOF content appearing alongside
-search results from other partners was also appealing, as it would put
-the MOF's collection "in conversation" with neighboring museums,
-libraries, and archives and not just with its existing constituents.
-These factors, along with the complementary training, hosting costs, and
-the assurance that partners retain control over uploaded data led the
-MOF to perceive dLOC as a viable, trustworthy avenue toward
-digitization.
+In contrast, dLOC is administered by public universities that have a long-standing presence in Haiti, and its membership includes a number of well-known Haitian institutions, among them the Archives Nationales d'Haïti and the Biblothèque Nationale d'Haïti. In thinking of the broader Caribbean, the prospect of MOF content appearing alongside search results from other partners was also appealing, as it would put the MOF's collection "in conversation" with neighboring museums, libraries, and archives and not just with its existing constituents. These factors, along with the complementary training, hosting costs, and the assurance that partners retain control over uploaded data led the MOF to perceive dLOC as a viable, trustworthy avenue toward digitization.
 
-At the beginning of 2021, the MOF and dLOC initiated the MOF's
-enrollment as an institutional partner while MOF staff and Les Amis
-prepared the digitization project. Travel restrictions at the onset of
-the project prohibited physical training by dLOC staff, who instead
-supplied online materials on digitization standards, templates for
-organizing catalog entries, and continued guidance over email as issues
-arose. For Les Amis and dLOC staff, COVID-19 restrictions on travel and
-gatherings also led to postponement of work together, particularly after
-variants of the coronavirus were detected among the Haitian population.
-Adaptations included limiting the duration of the first digitization
-session, delaying future phases of digitization, and organizing online
-spaces for synchronizing collections management.
+At the beginning of 2021, the MOF and dLOC initiated the MOF's enrollment as an institutional partner while MOF staff and Les Amis prepared the digitization project. Travel restrictions at the onset of the project prohibited physical training by dLOC staff, who instead supplied online materials on digitization standards, templates for organizing catalog entries, and continued guidance over email as issues arose. For Les Amis and dLOC staff, COVID-19 restrictions on travel and gatherings also led to postponement of work together, particularly after variants of the coronavirus were detected among the Haitian population. Adaptations included limiting the duration of the first digitization session, delaying future phases of digitization, and organizing online spaces for synchronizing collections management.
 
 Synchronizing the MOF's catalog
 -------------------------------
 
-The start of the digitization project was dedicated to repairing the
-MOF's catalog. The MOF's original catalog dates to 2013, when over seven
-hundred items were numbered, indexed, and photographed. The work
-resulted in a paper catalog and accompanying digital files. A
-collections management software could not be procured at the time, and
-subsequent lapses in funding prevented further research on the
-collection. By the time cataloging efforts resumed, the computer
-containing the files no longer worked and parts of the paper catalog had
-been lost to water damage. In subsequent years, the work resumed off and
-on, but funding cycles never permitted a full restoration and as a
-result some items could not be reconciled with original records or were
-missing altogether. Meanwhile, the museum's archive had been partially
-classified by theme but not indexed or numbered. Reconciling the catalog
-and developing an organizational system for the archives became
-prerequisites to carrying out the digitization project in earnest.
+The start of the digitization project was dedicated to repairing the MOF's catalog. The MOF's original catalog dates to 2013, when over seven hundred items were numbered, indexed, and photographed. The work resulted in a paper catalog and accompanying digital files. A collections management software could not be procured at the time, and subsequent lapses in funding prevented further research on the collection. By the time cataloging efforts resumed, the computer containing the files no longer worked and parts of the paper catalog had been lost to water damage. In subsequent years, the work resumed off and on, but funding cycles never permitted a full restoration and as a result some items could not be reconciled with original records or were missing altogether. Meanwhile, the museum's archive had been partially classified by theme but not indexed or numbered. Reconciling the catalog and developing an organizational system for the archives became prerequisites to carrying out the digitization project in earnest.
 
-Beginning in January 2021, the MOF's staff recovered all available
-fragments of the paper catalog, while members of Les Amis developed a
-password-protected content-management system as a backup to paper
-records as well as a way to enhance collaborative work from multiple
-locations. By May 2021, most collection items and their records had been
-synchronized and a system was devised for accessioning and organizing
-archival records. The tools for continuing the work of cataloging and
-reaching collection items were set up, and digitization was able to
-commence.
+Beginning in January 2021, the MOF's staff recovered all available fragments of the paper catalog, while members of Les Amis developed a password-protected content-management system as a backup to paper records as well as a way to enhance collaborative work from multiple locations. By May 2021, most collection items and their records had been synchronized and a system was devised for accessioning and organizing archival records. The tools for continuing the work of cataloging and reaching collection items were set up, and digitization was able to commence.
 
-The sessions conducted thus far faced some limitations, especially
-infrequent electricity and internet access at the museum but also safety
-concerns regarding the road between Port-au-Prince and Montrouis and
-days when COVID-19 curfews or stay-at-home orders were in effect.
-Nonetheless, several aspects of the project were advanced: over ninety
-archival records have been digitized and photographic documentation of
-the museum, exhibition spaces, and the surrounding grounds is nearly
-complete.[^29] In the sections below, we document some of our findings
-and reflect on how collaborative digitization at the MOF is contributing
-to knowledge about the museum's collection, historical data on its
-location, and insights into a host of foregone heritage-management
-initiatives.
+The sessions conducted thus far faced some limitations, especially infrequent electricity and internet access at the museum but also safety concerns regarding the road between Port-au-Prince and Montrouis and days when COVID-19 curfews or stay-at-home orders were in effect. Nonetheless, several aspects of the project were advanced: over ninety archival records have been digitized and photographic documentation of the museum, exhibition spaces, and the surrounding grounds is nearly complete.[^29] In the sections below, we document some of our findings and reflect on how collaborative digitization at the MOF is contributing to knowledge about the museum's collection, historical data on its location, and insights into a host of foregone heritage-management initiatives.
 
 Tracing collection roots
 ------------------------
 
-The process of documenting the MOF and organizing its archives has
-facilitated work on uncovering, or perhaps recovering, collection roots.
-Examples that inspired the staff and Les Amis include reconciling
-materials on Ulrick Jean-Pierre's *Portrait de Jean-Jacques Dessalines*
-(1991) and Maxo Blaise's *Le Serment du Bois Caïman* (2013), as well as
-works produced by the museum's founder. Documenting the installation *Le
-cortège macabre*, for example, led to the discovery of connections to
-various notes, images, and records that deepen understanding of the
-piece and its meanings (figure 2). Located in the southern quadrant of
-the museum's garden, the *Cortège* is used during guided visits to
-communicate the brutalities of enslavement. It includes a procession of
-chained figures led by a cart in the front and an overseer in the rear.
-They are heading toward a huge wooden cross, which represents
-*Croix-des-Bossales*, a marketplace from the colonial period where
-slaves were exposed and put on sale.
+The process of documenting the MOF and organizing its archives has facilitated work on uncovering, or perhaps recovering, collection roots. Examples that inspired the staff and Les Amis include reconciling materials on Ulrick Jean-Pierre's *Portrait de Jean-Jacques Dessalines* (1991) and Maxo Blaise's *Le Serment du Bois Caïman* (2013), as well as works produced by the museum's founder. Documenting the installation *Le cortège macabre*, for example, led to the discovery of connections to various notes, images, and records that deepen understanding of the piece and its meanings (figure 2). Located in the southern quadrant of the museum's garden, the *Cortège* is used during guided visits to communicate the brutalities of enslavement. It includes a procession of chained figures led by a cart in the front and an overseer in the rear. They are heading toward a huge wooden cross, which represents *Croix-des-Bossales*, a marketplace from the colonial period where slaves were exposed and put on sale.
 
-  ![Picture 7](media/image2.jpeg){width="6.358333333333333in" height="3.6666666666666665in"}
-  --------------------------------------------------------------------------------------------
+  ![Picture 7](media/image2.jpeg)]
+
   **Figure 2**. Views of *Le cortège macabre*, an installation about slavery.
 
-Efforts to produce renderings of the *Cortège* revealed the state of its
-current condition. At the time of this writing, some of the figures'
-limbs had detached from their bodies and the wooden ox normally standing
-in front of the cart had fallen. The cart's condition also caused alarm:
-its roof and front area are caving in and iron chains attached to its
-interior have been obscured by debris. Inserting this information into
-the *Cortège*'s ledger led to discussions about the installation's
-origins, including how and why it was developed. In summary, available
-oral history demonstrates a public connection between the cart, which
-was procured from a *hounfort*, or Vodou temple, and slavery. This
-association developed, among other reasons, because at the time of its
-1994 purchase, a set of long iron chains were found in its interior.
-Though more research is needed to confirm the cart's pre-*hounfort*
-origins, when it was constructed, its intended use, and whether the
-chains have the same provenance, the association with slavery
-contributed to its inclusion in *Le* *cortège macabre*. The origin of
-the figures emerged from notes and photographs that have since been
-reconnected with the *Cortège* through the cataloging of the archives.
-The chief inspiration for the figures and what they represent can be
-traced to an etching of captured slaves that Gérard came across in a
-1865 manuscript by the Scottish missionary David Livingstone (figure 3).
+Efforts to produce renderings of the *Cortège* revealed the state of its current condition. At the time of this writing, some of the figures' limbs had detached from their bodies and the wooden ox normally standing in front of the cart had fallen. The cart's condition also caused alarm: its roof and front area are caving in and iron chains attached to its interior have been obscured by debris. Inserting this information into the *Cortège*'s ledger led to discussions about the installation's origins, including how and why it was developed. In summary, available oral history demonstrates a public connection between the cart, which was procured from a *hounfort*, or Vodou temple, and slavery. This association developed, among other reasons, because at the time of its 1994 purchase, a set of long iron chains were found in its interior. Though more research is needed to confirm the cart's pre-*hounfort* origins, when it was constructed, its intended use, and whether the chains have the same provenance, the association with slavery contributed to its inclusion in *Le* *cortège macabre*. The origin of the figures emerged from notes and photographs that have since been reconnected with the *Cortège* through the cataloging of the archives. The chief inspiration for the figures and what they represent can be traced to an etching of captured slaves that Gérard came across in a 1865 manuscript by the Scottish missionary David Livingstone (figure 3).
 
-  ![Picture 8](media/image3.jpeg){width="6.3326399825021875in" height="3.175in"}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ![Picture 8](media/image3.jpeg)
+  
   **Figure 3**. Etching published in David Livingstone, *Narrative of an Expedition to the Zambesi and Its Tributaries, and the Discovery of Lakes Shriwa and Nyassa, 1858--1864*. Available in the public domain. Retrieved May 2021 at https://commons.wikimedia.org/wiki/File:Gang\_of\_Captives\_at\_Mbame%E2%80%99s.jpg.
 
-Engaging "dormant" information on the museum's collection inspired
-further analysis (and excitement) by the MOF's staff and Les Amis,
-particularly since collecting information on the acquisition and
-development of older collection items requires steadfast ethnography
-when interviewing those with direct knowledge. Speedy digitation is also
-important: some of the film negatives, photographs, letters, documents,
-and books marked for digitization are in poor condition and, if lost,
-will diminish our ability to piece together the past of collection.
-Restoring the *Cortège* is also time-sensitive, given its state. Though
-not a replacement for physical restoration, documenting the *Cortège*
-and its associated materials through dLOC will provide at least some
-layer of protection. Until more can be done or in case the installation
-is further damaged, its likeness is preserved for current and future
-generations. Conservators, once reached, may turn to dLOC for time
-stamps of the *Cortège*'s condition and review whether deterioration has
-accelerated. As a form of protecting and promoting cultural patrimony,
-indexing the *Cortège* and other collection items into a collaborative
-database will also transpose them into a broader landscape of Atlantic
-memory where reflection on enslavement and emancipation through tangible
-and intangible heritage is promoted and facilitated.
+Engaging "dormant" information on the museum's collection inspired further analysis (and excitement) by the MOF's staff and Les Amis, particularly since collecting information on the acquisition and development of older collection items requires steadfast ethnography when interviewing those with direct knowledge. Speedy digitation is also important: some of the film negatives, photographs, letters, documents, and books marked for digitization are in poor condition and, if lost, will diminish our ability to piece together the past of collection. Restoring the *Cortège* is also time-sensitive, given its state. Though not a replacement for physical restoration, documenting the *Cortège* and its associated materials through dLOC will provide at least some layer of protection. Until more can be done or in case the installation is further damaged, its likeness is preserved for current and future generations. Conservators, once reached, may turn to dLOC for time stamps of the *Cortège*'s condition and review whether deterioration has accelerated. As a form of protecting and promoting cultural patrimony, indexing the *Cortège* and other collection items into a collaborative database will also transpose them into a broader landscape of Atlantic memory where reflection on enslavement and emancipation through tangible and intangible heritage is promoted and facilitated.
 
 Understanding the past
 ----------------------
 
-he MOF's digitization project also brings to light materials related to
-the Habitation Guillaume-Ogier, the eighteenth-century sugarcane
-plantation on which the museum stands. Museum archives include items
-used in the cultivation of sugarcane and in the production of sugar,
-documents related to the life of Ogier and his contemporaries, and
-photographs that document the condition plantation structures were in at
-the time the site was purchased. A photograph dated to the 1970s, for
-example, shows a prerestoration view of the aqueduct and the east facade
-(figure 4). As a whole, these photographs of surviving structures and
-their foundations depict the ruins of a robust plantation whose
-operation coincided with Saint-Domingue's most profitable decades.[^30]
-Their digitization contributes to knowledge of Saint-Domingue's
-plantation system, the years leading up to the Haitian Revolution, life
-and society in the Montrouis region, and events specifically tied to
-Ogier's plantation.
+he MOF's digitization project also brings to light materials related to the Habitation Guillaume-Ogier, the eighteenth-century sugarcane plantation on which the museum stands. Museum archives include items used in the cultivation of sugarcane and in the production of sugar, documents related to the life of Ogier and his contemporaries, and photographs that document the condition plantation structures were in at the time the site was purchased. A photograph dated to the 1970s, for example, shows a prerestoration view of the aqueduct and the east facade (figure 4). As a whole, these photographs of surviving structures and their foundations depict the ruins of a robust plantation whose operation coincided with Saint-Domingue's most profitable decades.[^30] Their digitization contributes to knowledge of Saint-Domingue's plantation system, the years leading up to the Haitian Revolution, life and society in the Montrouis region, and events specifically tied to Ogier's plantation.
 
-  ![Picture 3](media/image4.jpeg){width="6.350001093613298in" height="3.0965277777777778in"}
-  --------------------------------------------------------------------------------------------
+  ![Picture 3](media/image4.jpeg)
+
   **Figure 4**. Remnants of the Habitation Guillaume-Ogier as it appeared in the 1970s.
 
-Also pertinent to the site's history are photographs and documents
-related to the development of the museum itself. These materials ease
-research into which aspects of the MOF pertain to the distant past and
-which were added during the museum's construction. They also indicate
-transformations to the museum and its exhibitions, painting a picture of
-how the MOF reached its current state (figure 5). Additionally, they may
-aid development of a reference guide for collection items that may have
-been altered over time and showcase changes related to each director's
-curatorial style, the adoption of best practices over the course of the
-museum's history, and new pedagogical tools.
+Also pertinent to the site's history are photographs and documents related to the development of the museum itself. These materials ease research into which aspects of the MOF pertain to the distant past and which were added during the museum's construction. They also indicate transformations to the museum and its exhibitions, painting a picture of how the MOF reached its current state (figure 5). Additionally, they may aid development of a reference guide for collection items that may have been altered over time and showcase changes related to each director's curatorial style, the adoption of best practices over the course of the museum's history, and new pedagogical tools.
 
-  ![Picture 4](media/image5.jpeg){width="6.358333333333333in" height="2.0368055555555555in"}
-  --------------------------------------------------------------------------------------------
+  ![Picture 4](media/image5.jpeg)
+  
   **Figure 5**. The Habitation exhibit in the 1980s, 1990s, and in 2015.
 
-Photographs that include museum guests during daily visits or that
-document special events also contribute to understanding of museum
-visitorship. The subjects of these portraits range from iconic
-researchers like Laënnec Hurbon, Marcel Dorigny, and Françoise Vergès
-and political figures like former president Michel Martelly to unnamed
-schoolchildren, tourists, diaspora returnees, and the broader Haitian
-populace. The MOF's social past is also characterized in correspondence
-with institutional partners in various parts of the world, documents
-related to cultural-heritage initiatives in different parts of Haiti,
-and contributions by colleagues who over the years have supplied the
-museum with their research on both the current collection and the
-original plantation. As we discuss below, this aspect of the MOF's
-archive has far-reaching implications beyond the museum itself.
+Photographs that include museum guests during daily visits or that document special events also contribute to understanding of museum visitorship. The subjects of these portraits range from iconic researchers like Laënnec Hurbon, Marcel Dorigny, and Françoise Vergès and political figures like former president Michel Martelly to unnamed schoolchildren, tourists, diaspora returnees, and the broader Haitian populace. The MOF's social past is also characterized in correspondence with institutional partners in various parts of the world, documents related to cultural-heritage initiatives in different parts of Haiti, and contributions by colleagues who over the years have supplied the museum with their research on both the current collection and the original plantation. As we discuss below, this aspect of the MOF's archive has far-reaching implications beyond the museum itself.
 
 Reclaiming the archive
 ----------------------
 
-In sifting through the MOF's archive, a compelling panorama of Haitian
-museology and heritage management emerges. Surviving correspondence
-between the Musée Ogier-Fombrun, Laura Plantation in Louisiana, and the
-Maison des Esclaves in Dakar illustrates a budding transatlantic triad
-intent on connecting different corners of memorialization. Archived
-communication with UNESCO supports historians' work on the Slave Route
-Project, including expanding on Haiti's instrumentality to the project's
-development and deeper scrutiny into Haiti's placement on the route
-today.[^31] Other materials detail collaborative projects to develop
-museums, heritage sites, and cultural centers in different parts of the
-country (figure 6).
+In sifting through the MOF's archive, a compelling panorama of Haitian museology and heritage management emerges. Surviving correspondence between the Musée Ogier-Fombrun, Laura Plantation in Louisiana, and the Maison des Esclaves in Dakar illustrates a budding transatlantic triad intent on connecting different corners of memorialization. Archived communication with UNESCO supports historians' work on the Slave Route Project, including expanding on Haiti's instrumentality to the project's development and deeper scrutiny into Haiti's placement on the route today.[^31] Other materials detail collaborative projects to develop museums, heritage sites, and cultural centers in different parts of the country (figure 6).
 
-  ![Picture 5](media/image6.jpeg){width="6.360972222222222in" height="1.7852865266841644in"}
-  ------------------------------------------------------------------------------------------------------------
+  ![Picture 5](media/image6.jpeg)
+  
   **Figure 6**. Image from a Fondation 92 booklet on the development of a cultural center in northern Haiti.
 
-As complements to the ether of museums that never happened or, more
-optimistically, are yet to become, these materials showcase ambitious
-visions of preserving and sharing Haiti's rich cultural legacies and its
-contributions to world history. Others can be viewed as stepping stones
-toward projects that did take place or are in the process of being
-developed. The Taíno archeological site in Bois Neuf, an initiative
-developed as a partnership between the Parc Historique de la Canne à
-Sucre and the Fondation Odette Roy Fombrun, is a revealing example.
-Odette Roy Fombrun, a well-known writer and advocate, features
-prominently in the MOF's emergent archives, particularly in documents
-related to Fondation 92, an organization she and Gérard Fombrun
-cofounded, and which during the late 1980s and early 1990s sought to
-"put Haiti back on the world tourist map" by fostering reflection on
-"the influence of Haitian culture" and its critical role in Atlantic
-history.[^32] The MOF is unlikely to be the only repository with
-materials to the aforementioned projects and others known informally
-through conversations and meetings but rarely through scholarship.
-Promoting the inclusion of such resources in dLOC and their insertion
-into the historical record promotes new engagements with the past and
-shapes our collective readings of the present. The power of
-democratizing such data through cataloging and digitization rests in
-reclaiming the archive and narratives about Haiti in ways that undo the
-silencing fostered by their absence.[^33]
+As complements to the ether of museums that never happened or, more optimistically, are yet to become, these materials showcase ambitious visions of preserving and sharing Haiti's rich cultural legacies and its contributions to world history. Others can be viewed as stepping stones toward projects that did take place or are in the process of being developed. The Taíno archeological site in Bois Neuf, an initiative developed as a partnership between the Parc Historique de la Canne à Sucre and the Fondation Odette Roy Fombrun, is a revealing example. Odette Roy Fombrun, a well-known writer and advocate, features prominently in the MOF's emergent archives, particularly in documents related to Fondation 92, an organization she and Gérard Fombrun cofounded, and which during the late 1980s and early 1990s sought to "put Haiti back on the world tourist map" by fostering reflection on "the influence of Haitian culture" and its critical role in Atlantic history.[^32] The MOF is unlikely to be the only repository with materials to the aforementioned projects and others known informally through conversations and meetings but rarely through scholarship. Promoting the inclusion of such resources in dLOC and their insertion into the historical record promotes new engagements with the past and shapes our collective readings of the present. The power of democratizing such data through cataloging and digitization rests in reclaiming the archive and narratives about Haiti in ways that undo the silencing fostered by their absence.[^33]
 
 Digitization as *survival* and survival as *revival*
 ----------------------------------------------------
 
-At the time of writing, the MOF's digitization project is in progress
-and not near completion. A number of objects need to be individually
-photographed (though they have been documented in situ), the contents of
-countless boxes and cabinets must be organized and accessioned into the
-archive, and materials that have been digitized need further analysis.
-As of yet, it is too early to analyze the full scope of the project and
-its impact on dLOC or the public at large. Nevertheless, we note the
-outcomes thus far of digitization as *survival* and the emerging
-transition from survival to *revival* at the MOF that are applicable to
-museums, libraries, and archives experiencing similar vulnerabilities.
+At the time of writing, the MOF's digitization project is in progress and not near completion. A number of objects need to be individually photographed (though they have been documented in situ), the contents of countless boxes and cabinets must be organized and accessioned into the archive, and materials that have been digitized need further analysis. As of yet, it is too early to analyze the full scope of the project and its impact on dLOC or the public at large. Nevertheless, we note the outcomes thus far of digitization as *survival* and the emerging transition from survival to *revival* at the MOF that are applicable to museums, libraries, and archives experiencing similar vulnerabilities.
 
-Graham Black reasons that the challenges impacting museums in the
-twenty-first century "belong to two inter-related fields: those that are
-the result of wider societal change, and those that directly challenge
-the traditional roles of museums."[^34] The predicament of the MOF's
-private-to-public transition and how it is to navigate the financial
-aspects of its operations relate to these fields. To be successful, this
-effort will require the public to recognize the MOF's contribution to
-society, while the MOF must reevaluate society's needs. The MOF is not
-alone on its survival journey: relevance and economic sustainability are
-at the core of many museums' dilemmas. Discussions of museums' relevance
-and calls for change are ever-recurring and cashflow is a nearly
-universal problem, since most museums are not endowed institutions, and
-even well-funded museums face hurdles.[^35]
+Graham Black reasons that the challenges impacting museums in the twenty-first century "belong to two inter-related fields: those that are the result of wider societal change, and those that directly challenge the traditional roles of museums."[^34] The predicament of the MOF's private-to-public transition and how it is to navigate the financial aspects of its operations relate to these fields. To be successful, this effort will require the public to recognize the MOF's contribution to society, while the MOF must reevaluate society's needs. The MOF is not alone on its survival journey: relevance and economic sustainability are at the core of many museums' dilemmas. Discussions of museums' relevance and calls for change are ever-recurring and cashflow is a nearly universal problem, since most museums are not endowed institutions, and even well-funded museums face hurdles.[^35]
 
-The case study in this essay is limited to one survival pathway:
-uploading the museum and its contents to a collaborative database, where
-they would join materials and resources from a number of other Caribbean
-institutions. We believe that including the museum's collection and
-unfolding archive in the dLOC database is an opportunity to ensure that
-the current state of the MOF is recorded for posterity and that the
-public retains access to the cultural and historic patrimony the museum
-protects. We also note that although the archive and some aspects of the
-collection have been largely inaccessible due to issues discussed
-earlier (lack of staff, funding, and infrastructure for cataloging
-materials or receiving scholars), digitization is *extending* public
-access as more and more records become available through the project.
+The case study in this essay is limited to one survival pathway: uploading the museum and its contents to a collaborative database, where they would join materials and resources from a number of other Caribbean institutions. We believe that including the museum's collection and unfolding archive in the dLOC database is an opportunity to ensure that the current state of the MOF is recorded for posterity and that the public retains access to the cultural and historic patrimony the museum protects. We also note that although the archive and some aspects of the collection have been largely inaccessible due to issues discussed earlier (lack of staff, funding, and infrastructure for cataloging materials or receiving scholars), digitization is *extending* public access as more and more records become available through the project.
 
-This approach to survival, however, should not be the MOF's only path
-forward. Where would a digitized-only MOF leave the surrounding
-Montrouis community? The electricity and internet problems encountered
-during the digitization process are frequent here and in and other areas
-in the country. For the vast majority of its constituents, for example,
-physically visiting the museum remains the only way to experience it.
-Until electricity, internet, and technological devices are equitably
-accessible, we cannot say therefore cannot say that *everybody* has
-access through digitization. Addressing this accessibility gap is beyond
-the scope of digitization as *survival*. But in its ability to highlight
-the collection and archives, we observe that survival through
-digitization is leading to a *revival*.
+This approach to survival, however, should not be the MOF's only path forward. Where would a digitized-only MOF leave the surrounding Montrouis community? The electricity and internet problems encountered during the digitization process are frequent here and in and other areas in the country. For the vast majority of its constituents, for example, physically visiting the museum remains the only way to experience it. Until electricity, internet, and technological devices are equitably accessible, we cannot say therefore cannot say that *everybody* has access through digitization. Addressing this accessibility gap is beyond the scope of digitization as *survival*. But in its ability to highlight the collection and archives, we observe that survival through digitization is leading to a *revival*.
 
-A key indication of revival are the raised spirits of the remaining
-staff. During digitization sessions and through ongoing collaboration
-with Les Amis the void left by a significantly decreased visitorship and
-potential for closure is replaced by our research and care for the
-collection. Notwithstanding the wording used throughout this article
-("survival," "threat," "urgency," "closure"), staff and administration
-have not given up. They dedicate time not spent on the project to
-fundraising efforts, some of which rely on data collected during the
-digitization process.
+A key indication of revival are the raised spirits of the remaining staff. During digitization sessions and through ongoing collaboration with Les Amis the void left by a significantly decreased visitorship and potential for closure is replaced by our research and care for the collection. Notwithstanding the wording used throughout this article ("survival," "threat," "urgency," "closure"), staff and administration have not given up. They dedicate time not spent on the project to fundraising efforts, some of which rely on data collected during the digitization process.
 
-By sharing materials and inviting more volunteers to participate, the
-digitization project has also drawn interest from the broader network of
-Haitian museums. The approach undertaken through the development of a
-content-management system, synchronized paper records, and dLOC
-partnerships touches on the needs of sister museums who are also (or who
-have also been) cataloging, researching, and/or digitization their
-collections. Rather than apply these undertakings only to their
-individual institutions, a project is being organized to pool available
-resources, pursue funding as a unit, and support one another. It is too
-early to give more specifics, but the very prospect of collaborative
-grant writing and interinstitutional collaboration indicates a route to
-revival, an assertion of one's appreciation and the knowledge of not
-being alone.
+By sharing materials and inviting more volunteers to participate, the digitization project has also drawn interest from the broader network of Haitian museums. The approach undertaken through the development of a content-management system, synchronized paper records, and dLOC partnerships touches on the needs of sister museums who are also (or who have also been) cataloging, researching, and/or digitization their collections. Rather than apply these undertakings only to their individual institutions, a project is being organized to pool available resources, pursue funding as a unit, and support one another. It is too early to give more specifics, but the very prospect of collaborative grant writing and interinstitutional collaboration indicates a route to revival, an assertion of one's appreciation and the knowledge of not being alone.
 
 Conclusion
-==========
+----------
 
-In this case study, we have examined the planning and ongoing execution
-of a digitization project at a Haitian museum. After providing an
-overview of Haitian museology and the challenges and discussing
-opportunities in bodies of work dedicated to digitization, we documented
-the nuances of digitization as a pathway to ensure that brick-and-mortar
-museums continue to exist beyond the threats to their physical
-existence. We further explain that the very process of preparing for
-such an outcome can inspire avenues for ensuring that museums do not
-close. We stress not only the importance of museums generally, but the
-particular importance of museums in Haiti. At the same time, some of the
-obstacles faced by museums such as the MOF relate to the fact that
-museums are rarely perceived for what they really are, namely, true
-places for sharing the culture and history of the people, places where
-one can meet a reality manifested in the most concrete and penetrating
-way. Museum culture is considered a modality of the notion of *habitus*,
-a socially inculcated disposition.[^36] To respond to indifference and
-lack of support, museums and other actors must become more involved in
-communicative strategies aimed at reaching a larger audience that is
-more aware of the museum's role as a vehicle for social cohesion and
-development. This would be an important contribution to awareness of the
-richness of Haitian heritage---to better understand the history and
-memory of slavery, for example, because of its enigmatic character in
-the daily life of the Haitian population---yet such communication
-strategies are also helpful to the world at large. The advantage is that
-a typology has already been established for identification of the
-subjects addressed by the Haitian museums still in operation. The Musée
-Ogier-Fombrun, for example, is built on a former slave plantation whose
-existence is tied to a brutal collective past but whose subsequent
-abandonment foreshadowed the onset of the Haitian Revolution. In
-devoting itself to this history, the MOF and corresponding museums
-around the world provide a critical service to their constituents and
-society at large. Their collections and archives, therefore, belong to
-us all, making the work to preserve them (through collective
-digitization or other means) a shared responsibility.
+In this case study, we have examined the planning and ongoing execution of a digitization project at a Haitian museum. After providing an overview of Haitian museology and the challenges and discussing opportunities in bodies of work dedicated to digitization, we documented the nuances of digitization as a pathway to ensure that brick-and-mortar museums continue to exist beyond the threats to their physical existence. We further explain that the very process of preparing for such an outcome can inspire avenues for ensuring that museums do not close. We stress not only the importance of museums generally, but the particular importance of museums in Haiti. At the same time, some of the obstacles faced by museums such as the MOF relate to the fact that museums are rarely perceived for what they really are, namely, true places for sharing the culture and history of the people, places where one can meet a reality manifested in the most concrete and penetrating way. Museum culture is considered a modality of the notion of *habitus*, a socially inculcated disposition.[^36] To respond to indifference and lack of support, museums and other actors must become more involved in communicative strategies aimed at reaching a larger audience that is more aware of the museum's role as a vehicle for social cohesion and development. This would be an important contribution to awareness of the richness of Haitian heritage---to better understand the history and memory of slavery, for example, because of its enigmatic character in the daily life of the Haitian population---yet such communication strategies are also helpful to the world at large. The advantage is that a typology has already been established for identification of the subjects addressed by the Haitian museums still in operation. The Musée Ogier-Fombrun, for example, is built on a former slave plantation whose existence is tied to a brutal collective past but whose subsequent abandonment foreshadowed the onset of the Haitian Revolution. In devoting itself to this history, the MOF and corresponding museums around the world provide a critical service to their constituents and society at large. Their collections and archives, therefore, belong to us all, making the work to preserve them (through collective digitization or other means) a shared responsibility.
 
-Natália Marques da Silva 
-=========================
+---
 
-Natália Marques da Silva is a PhD candidate in global and sociocultural
-studies at Florida International University. Da Silva's research focuses
-on museums, memorializations, and travel across Latin America, the
-Caribbean, and West Africa.
+[^1]: Mireille Fombrun Mallebranche is the director of the Musée Ogier-Fombrun (MOF). Natália Marques da Silva is a doctoral candidate and an alum of two universities that founded the Digital Library of the Caribbean. All authors participated in the planning and execution of the digitization project as volunteers and remain active in the MOF's digitization program.
 
-Jean Mozart Féron 
-==================
+    We would like to thank Stephanie Chancy, Grégory Docteur, Kevin Fombrun, Judith Michèle, and Nelson Vernelus for their insights and contributions on digitization and collections management.
 
-Jean Mozart Féron is a PhD student in anthropology at the Université
-Laval (Quebec City, Canada) and junior faculty at the State University
-of Haiti and the Université Quisqueya. He is also a member of the
-executive board of the Haitian Committee of the International Council of
-Museums. His research focuses on museum evaluation and narration of
-sites of slavery, such as Croix-des-Bossales, known as Haiti's largest
-slave market during the colonial period.
+[^2]: dLOC, "dLOC: A Multi-institutional, International Digital Library," accessed 1 April 2021, https://www.dloc.com/dloc1/about.
 
-Mireille Fombrun Mallebranche 
-==============================
+[^3]:  Marie-Lucie Vendryes, "Des fragments et des traces," *La Lettre de l'OCIM* 88 (2003): 18--23; UN Educational, Scientific, and Cultural Organization (UNESCO), *Legacies of Slavery: A Resource Book for Managers of Sites and Itineraries of Memory* (Paris: UNESCO, 2018).
 
-Mireille Fombrun Mallebranche is a Haitian-born artist and sculptor. As
-a member of the Fombrun family, she has been in charge of the
-conservation and daily activities at the Musée Ogier-Fombrun for the
-past decade. She is also a counselor to the executive board of the
-Haitian Committee of the International Council of Museums (ICOM-Haïti).
+[^4]:  Natália da Silva, "Museums in Haiti: Current Assessments and Interpretations" (MA thesis, University of Florida, 2012); Jean Mozart Féron, "Évaluation d'un jeune public (scolaire) face à l'offre d'un contenu historique mis en exposition par un musée: Le cas du Musée du Panthéon National Haïtien (MUPANAH)" (MA thesis, Université d'État d'Haïti and Université Laval, 2013).
 
-[^1]: Mireille Fombrun Mallebranche is the director of the Musée
-    Ogier-Fombrun (MOF). Natália Marques da Silva is a doctoral
-    candidate and an alum of two universities that founded the Digital
-    Library of the Caribbean. All authors participated in the planning
-    and execution of the digitization project as volunteers and remain
-    active in the MOF's digitization program.
+[^5]: Yaşar Tonta, "Libraries and Museums in the Flat World: Are They Becoming Virtual Destinations?," *Library Collections, Acquisitions, and Technical Services* 32, no. 1 (2008): 1--9, <https://doi.org/10.1016/j.lcats.2008.05.002>.
 
-    We would like to thank Stephanie Chancy, Grégory Docteur, Kevin
-    Fombrun, Judith Michèle, and Nelson Vernelus for their insights and
-    contributions on digitization and collections management.
+[^6]: Lorna M. Hughes and David Green, *Digitizing Collections: Strategic Issues for the Information Manager* (London: Facet, 2004).
 
-[^2]: dLOC, "dLOC: A Multi-institutional, International Digital
-    Library," accessed 1 April 2021, https://www.dloc.com/dloc1/about.
+[^7]: Alexandra Yarrow, Barbara Clubb, and Jennifer-Lynn Draper, *Public Libraries, Archives and Museums: Trends in Collaboration and Cooperation*, IFLA Professional Reports 108 (The Hague: International Federation of Library Associations and Institutions, 2008), 16.
 
-[^3]:  Marie-Lucie Vendryes, "Des fragments et des traces," *La Lettre
-    de l'OCIM* 88 (2003): 18--23; UN Educational, Scientific, and
-    Cultural Organization (UNESCO), *Legacies of Slavery: A Resource
-    Book for Managers of Sites and Itineraries of Memory* (Paris:
-    UNESCO, 2018).
+[^8]: Ole Marius Hylland, "Even Better than the Real Thing? Digital Copies and Digital Museums in a Digital Cultural Policy," *Culture Unbound* 9, no. 1 (2017): 62--84.
 
-[^4]:  Natália da Silva, "Museums in Haiti: Current Assessments and
-    Interpretations" (MA thesis, University of Florida, 2012); Jean
-    Mozart Féron, "Évaluation d'un jeune public (scolaire) face à
-    l'offre d'un contenu historique mis en exposition par un musée: Le
-    cas du Musée du Panthéon National Haïtien (MUPANAH)" (MA thesis,
-    Université d'État d'Haïti and Université Laval, 2013).
+[^9]: Enrico Bertacchini and Federico Morando, "The Future of Museums in the Digital Age: New Models of Access and Use of Digital Collections," *International Journal of Arts Management* 15, no. 2 (2013): 60--72; Hylland, "Even Better than the Real Thing?"; Zinaida Manžuch, "Ethical Issues in Digitization of Cultural Heritage," *Journal of Contemporary Archival Studies, Governance of Digital Memories in the Era of Big Data* 4, no. 2 (2017): 1--17.
 
-[^5]: Yaşar Tonta, "Libraries and Museums in the Flat World: Are They
-    Becoming Virtual Destinations?," *Library Collections, Acquisitions,
-    and Technical Services* 32, no. 1 (2008): 1--9,
-    <https://doi.org/10.1016/j.lcats.2008.05.002>.
+[^10]: Karol J. Borowiecki and Trilce Navarrete, "Digitization of Heritage Collections as Indicator of Innovation," *Economics of Innovation and New Technology* 26, no. 3 (2017): 242. https://doi.org/10.1080/10438599.2016.1164488.
 
-[^6]: Lorna M. Hughes and David Green, *Digitizing Collections:
-    Strategic Issues for the Information Manager* (London: Facet, 2004).
+[^11]: Robert Leopold, "Articulating Culturally Sensitive Knowledge Online: A Cherokee Case Study," *Museum Anthropology Review* 7, no. 1--2 (2013): 85--104; Manžuch, "Ethical Issues in Digitization of Cultural Heritage."
 
-[^7]: Alexandra Yarrow, Barbara Clubb, and Jennifer-Lynn Draper, *Public
-    Libraries, Archives and Museums: Trends in Collaboration and
-    Cooperation*, IFLA Professional Reports 108 (The Hague:
-    International Federation of Library Associations and Institutions,
-    2008), 16.
-
-[^8]: Ole Marius Hylland, "Even Better than the Real Thing? Digital
-    Copies and Digital Museums in a Digital Cultural Policy," *Culture
-    Unbound* 9, no. 1 (2017): 62--84.
-
-[^9]: Enrico Bertacchini and Federico Morando, "The Future of Museums in
-    the Digital Age: New Models of Access and Use of Digital
-    Collections," *International Journal of Arts Management* 15, no. 2
-    (2013): 60--72; Hylland, "Even Better than the Real Thing?"; Zinaida
-    Manžuch, "Ethical Issues in Digitization of Cultural Heritage,"
-    *Journal of Contemporary Archival Studies, Governance of Digital
-    Memories in the Era of Big Data* 4, no. 2 (2017): 1--17.
-
-[^10]: Karol J. Borowiecki and Trilce Navarrete, "Digitization of
-    Heritage Collections as Indicator of Innovation," *Economics of
-    Innovation and New Technology* 26, no. 3 (2017): 242.
-    https://doi.org/10.1080/10438599.2016.1164488.
-
-[^11]: Robert Leopold, "Articulating Culturally Sensitive Knowledge
-    Online: A Cherokee Case Study," *Museum Anthropology Review* 7, no.
-    1--2 (2013): 85--104; Manžuch, "Ethical Issues in Digitization of
-    Cultural Heritage."
-
-[^12]: W. Boyd Rayward and Michael B. Twidale, "From Docent to
-    Cyberdocent: Education and Guidance in the Virtual Museum,"
-    *Archives and Museum Informatics* 13 (1999): 23--53; Müller (2002);
-    Jenny Newell, "Old Objects, New Media: Historical Collections,
-    Digitization and Affect," *Journal of Material Culture* 17, no. 3
-    (2012): 287--306, <https://doi.org/10.1177/1359183512453534>; Joshua
-    A. Drew, Corrie S. Moreau, and Melanie L. J. Stiassny, "Digitization
-    of Museum Collections Holds the Potential to Enhance Researcher
-    Diversity," *Natural Ecology & Evolution* 1 (2017): 1789--90,
-    <https://doi.org/10.1038/s41559-017-0401-6>.
+[^12]: W. Boyd Rayward and Michael B. Twidale, "From Docent to Cyberdocent: Education and Guidance in the Virtual Museum," *Archives and Museum Informatics* 13 (1999): 23--53; Müller (2002); Jenny Newell, "Old Objects, New Media: Historical Collections, Digitization and Affect," *Journal of Material Culture* 17, no. 3 (2012): 287--306, <https://doi.org/10.1177/1359183512453534>; Joshua A. Drew, Corrie S. Moreau, and Melanie L. J. Stiassny, "Digitization of Museum Collections Holds the Potential to Enhance Researcher Diversity," *Natural Ecology & Evolution* 1 (2017): 1789--90, <https://doi.org/10.1038/s41559-017-0401-6>.
 
 [^13]: Hylland, "Even Better than the Real Thing?," 68.
 
-[^14]: Chelsea Graham, "Applications of Digitization to Museum
-    Collections Management, Research and Accessibility" (MA thesis, Lund
-    University, 2012).
+[^14]: Chelsea Graham, "Applications of Digitization to Museum Collections Management, Research and Accessibility" (MA thesis, Lund University, 2012).
 
-[^15]:  James E. McClellan III, "L'historiographie d'une académie
-    coloniale: Le Cercle des Philadelphes (1784--1793)," *Annales
-    Historiques de la Révolution Française* 320 (2000): 77--88;
-    Vendryes, "Des fragments et des traces."
+[^15]:  James E. McClellan III, "L'historiographie d'une académie coloniale: Le Cercle des Philadelphes (1784--1793)," *Annales Historiques de la Révolution Française* 320 (2000): 77--88; Vendryes, "Des fragments et des traces."
 
-[^16]: Kevin Walsh, *The Representation of the Past: Museums and
-    Heritage in the Post-modern World* (London: Routledge, 2002).
+[^16]: Kevin Walsh, *The Representation of the Past: Museums and Heritage in the Post-modern World* (London: Routledge, 2002).
 
-[^17]: Rachelle C. Doucet, "Les musées en Haïti," *CONJONCTION (La Revue
-    Franco-Haïtienne de l'Institut Français d'Haïti)*, no. 206 (2001):
-    57--73; Carlo Avierl Célius, "Le musée, le passé et l'histoire," in
-    Hildegard K. Vieregg, Mónica Risnicoff de Gorgas, and Regina
-    Schiller, *Museology: A Field of Knowledge---Museology and History*
-    (Munich and Alta Gracia, Argentina: International Council of
-    Museums, 2006), 164--73.
+[^17]: Rachelle C. Doucet, "Les musées en Haïti," *CONJONCTION (La Revue Franco-Haïtienne de l'Institut Français d'Haïti)*, no. 206 (2001): 57--73; Carlo Avierl Célius, "Le musée, le passé et l'histoire," in Hildegard K. Vieregg, Mónica Risnicoff de Gorgas, and Regina Schiller, *Museology: A Field of Knowledge---Museology and History* (Munich and Alta Gracia, Argentina: International Council of Museums, 2006), 164--73.
 
-[^18]: See Ute Stebich, *Haitian Art* (New York: Brooklyn Museum, 1979);
-    J. M. Hamilton, "Musée de Guahaba: Research and Development of a
-    Private Museum in the Third World" (PhD diss., University of
-    Florida, 1984); Doucet, "Les musées en Haïti"; Célius, "Le musée, le
-    passé et l'histoire"; Daniel Elie, "The Role of ISPAN in the
-    Restoration of Memory," *Museum International* 62, no. 4 (2010):
-    22--25; and M. Boyer, "Parc Historique de la Canne à Sucre: Cultural
-    Pillar with a Proud Past," *Magic Haïti*, May 2012.
+[^18]: See Ute Stebich, *Haitian Art* (New York: Brooklyn Museum, 1979); J. M. Hamilton, "Musée de Guahaba: Research and Development of a Private Museum in the Third World" (PhD diss., University of Florida, 1984); Doucet, "Les musées en Haïti"; Célius, "Le musée, le passé et l'histoire"; Daniel Elie, "The Role of ISPAN in the Restoration of Memory," *Museum International* 62, no. 4 (2010): 22--25; and M. Boyer, "Parc Historique de la Canne à Sucre: Cultural Pillar with a Proud Past," *Magic Haïti*, May 2012.
 
-[^19]:  Gérard Fombrun, *Et Haïti vint au monde: Une promenade dans le
-    passé à travers le Musée Colonial Ogier-Fombrun (1492--1804)*
-    (Port-au-Prince: Henri Deschamps, 1996); Vendryes, "Des fragments et
-    des traces."
+[^19]:  Gérard Fombrun, *Et Haïti vint au monde: Une promenade dans le passé à travers le Musée Colonial Ogier-Fombrun (1492--1804)* (Port-au-Prince: Henri Deschamps, 1996); Vendryes, "Des fragments et des traces."
 
-[^20]: UN Educational, Scientific, and Cultural Organization (UNESCO),
-    "Museums, Heritage and Cultural Policies in Latin America and the
-    Caribbean," *Museum* 24, no. 2 (1982); Doucet, "Les musées en
-    Haïti"; Elie, "The Role of ISPAN in the Restoration of Memory."
+[^20]: UN Educational, Scientific, and Cultural Organization (UNESCO), "Museums, Heritage and Cultural Policies in Latin America and the Caribbean," *Museum* 24, no. 2 (1982); Doucet, "Les musées en Haïti"; Elie, "The Role of ISPAN in the Restoration of Memory."
 
 [^21]: Da Silva, "Museums in Haiti."
 
@@ -992,67 +227,26 @@ Haitian Committee of the International Council of Museums (ICOM-Haïti).
 
 [^24]: See Desvallées 1998.
 
-[^25]:  François Mairesse, ed., *Définir le musée du XXIe siècle:
-    Matériaux pour une discussion* (Paris: ICOFOM, 2017); Doucet, "Les
-    musées en Haïti"; Féron, "Évaluation d'un jeune public."
+[^25]:  François Mairesse, ed., *Définir le musée du XXIe siècle: Matériaux pour une discussion* (Paris: ICOFOM, 2017); Doucet, "Les musées en Haïti"; Féron, "Évaluation d'un jeune public."
 
-[^26]: Rachelle C. Doucet, "Speech of the President of ICOM-Haïti on the
-    Celebration of the International Museum Day" (Port-au-Prince:
-    ICOM-Haïti, May 2020).
+[^26]: Rachelle C. Doucet, "Speech of the President of ICOM-Haïti on the Celebration of the International Museum Day" (Port-au-Prince: ICOM-Haïti, May 2020).
 
 [^27]: Da Silva, "Museums in Haiti."
 
-[^28]: William Boustead, "The Conservation of Works of Art in Tropical
-    and Sub-tropical Zones," *Studies in Conservation* 6, no. 1 (1961):
-    73--78, [<https://doi.org/10.1179/sic.1961.s019>;]{.underline} Vinod
-    Daniel, Colin Pearson, Ivan Cole, Wayne Ganther, and Steve King,
-    "Behaviour of Museum Buildings in Tropical Climates," *Studies in
-    Conservation* 45, no. 1 (2000): 45--50,
-    [<https://doi.org/10.1179/sic.2000.45.Supplement-1.45>.]{.underline}
+[^28]: William Boustead, "The Conservation of Works of Art in Tropical and Sub-tropical Zones," *Studies in Conservation* 6, no. 1 (1961): 73--78, [<https://doi.org/10.1179/sic.1961.s019>;]{.underline} Vinod Daniel, Colin Pearson, Ivan Cole, Wayne Ganther, and Steve King, "Behaviour of Museum Buildings in Tropical Climates," *Studies in Conservation* 45, no. 1 (2000): 45--50, [<https://doi.org/10.1179/sic.2000.45.Supplement-1.45>.]{.underline}
 
-[^29]: Documentation of items in fragile condition or that necessitate
-    relocation in order to be photographed will be conducted once more
-    training and support become available.
+[^29]: Documentation of items in fragile condition or that necessitate relocation in order to be photographed will be conducted once more training and support become available.
 
-[^30]: In the historical data accumulated by Gérard Fombrun, the
-    Habitation Guillaume-Ogier is seen to have commenced its operation,
-    or at least its operation under Ogier's tenure, as early as 1760;
-    Fombrun, *Et Haïti vint au monde*. As is well documented in the
-    literature, Saint-Domingue's profitability greatly expanded in the
-    coming decades. By the 1780s, it produced for revenue than any of
-    its counterparts in the Atlantic; see Jacques de Cauna, *Au temps
-    des isles à sucre: Histoire d'une plantation de Saint-Domingue au
-    XVIIIe siècle* (Paris: Karthala, 2003). The Habitation
-    Guillaume-Ogier partook in this environment until Ogier's death in a
-    1799 uprising in nearby Saint-Marc led to its abandonment; UNESCO,
-    *Legacies of Slavery*.
+[^30]: In the historical data accumulated by Gérard Fombrun, the Habitation Guillaume-Ogier is seen to have commenced its operation, or at least its operation under Ogier's tenure, as early as 1760; Fombrun, *Et Haïti vint au monde*. As is well documented in the literature, Saint-Domingue's profitability greatly expanded in the coming decades. By the 1780s, it produced for revenue than any of its counterparts in the Atlantic; see Jacques de Cauna, *Au temps des isles à sucre: Histoire d'une plantation de Saint-Domingue au XVIIIe siècle* (Paris: Karthala, 2003). The Habitation Guillaume-Ogier partook in this environment until Ogier's death in a 1799 uprising in nearby Saint-Marc led to its abandonment; UNESCO, *Legacies of Slavery*.
 
-[^31]: See Ana Lucia Araujo, *Public Memory of Slavery: Victims and
-    Perpetrators in the South Atlantic* (New York: Cambria, 2010).
+[^31]: See Ana Lucia Araujo, *Public Memory of Slavery: Victims and Perpetrators in the South Atlantic* (New York: Cambria, 2010).
 
-[^32]: Quotes derived from a typescript of a FONDATION 92 packet sent to
-    members and potential partners, MOF.DOC.01.25, Musée Ogier-Fombrun,
-    Montrouis, Haiti, n.d.
+[^32]: Quotes derived from a typescript of a FONDATION 92 packet sent to members and potential partners, MOF.DOC.01.25, Musée Ogier-Fombrun, Montrouis, Haiti, n.d.
 
-[^33]: See Millery Polyné, *The Idea of Haiti: Rethinking Crisis and
-    Development* (Minneapolis: University of Minnesota Press, 2013); and
-    Gina Athena Ulysse, *Why Haiti Needs New Narratives: A Post-quake
-    Chronicle* (Middletown, CT: Wesleyan University Press, 2015).
+[^33]: See Millery Polyné, *The Idea of Haiti: Rethinking Crisis and Development* (Minneapolis: University of Minnesota Press, 2013); and Gina Athena Ulysse, *Why Haiti Needs New Narratives: A Post-quake Chronicle* (Middletown, CT: Wesleyan University Press, 2015).
 
-[^34]: Graham Black, *Transforming Museums in the Twenty-First Century*
-    (London: Taylor & Francis, 2012), 1.
+[^34]: Graham Black, *Transforming Museums in the Twenty-First Century* (London: Taylor & Francis, 2012), 1.
 
-[^35]: Stephen E. Weil, "From Being about Something to Being for
-    Somebody: The Ongoing Transformation," *Daedalus* 128, no. 3 (1999):
-    229--58, doi:10.2307/20027573; John Latschar, "Civic Reflection:
-    Places of Discovery," *Common Ground* 12, no. 4 (2007): 36--40;
-    Alexandra Olivares and Jaclyn Piatak, "Exhibiting Inclusion: An
-    Examination of Race, Ethnicity, and Museum Participation,"
-    *VOLUNTAS: International Journal of Voluntary and Nonprofit
-    Organizations*, 2021,
-    [<https://doi.org/10.1007/s11266-021-00322-0>;]{.underline} Steven
-    Miller, *The Anatomy of a Museum: An Insider's Text* (Hoboken, NJ:
-    John Wiley & Sons, 2017).
+[^35]: Stephen E. Weil, "From Being about Something to Being for Somebody: The Ongoing Transformation," *Daedalus* 128, no. 3 (1999): 229--58, doi:10.2307/20027573; John Latschar, "Civic Reflection: Places of Discovery," *Common Ground* 12, no. 4 (2007): 36--40; Alexandra Olivares and Jaclyn Piatak, "Exhibiting Inclusion: An Examination of Race, Ethnicity, and Museum Participation," *VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations*, 2021, [<https://doi.org/10.1007/s11266-021-00322-0>;]{.underline} Steven Miller, *The Anatomy of a Museum: An Insider's Text* (Hoboken, NJ: John Wiley & Sons, 2017).
 
-[^36]: Pierre Bourdieu, *La distinction: Critique sociale du jugement*
-    (Paris: Minuit, 1979).
+[^36]: Pierre Bourdieu, *La distinction: Critique sociale du jugement* (Paris: Minuit, 1979).
