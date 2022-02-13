@@ -9,11 +9,11 @@ author:
 - name: Ivelisse Rivera Bonilla
   shortname: Rivera Bonilla
   bio: >
-    Lorem ipsum
+    Ivelisse Rivera Bonilla es catedrática del Departamento de Ciencias Sociales de la Universidad de Puerto Rico en Humacao. Obtuvo su grado doctoral en el Departamento de Antropología de la Universidad de California, Santa Cruz. Coordina el Programa de Investigación de Acción Social. Sus investigaciones están basadas en los principios de la investigación-acción participativa. Sus áreas de interés incluyen el trabajo comunitario en Vieques y en el barrio Mariana de Humacao y la educación popular.
 - name: Nadjah Ríos Villarini
   shortname: Ríos Villarini
   bio: >
-    Lorem ipsum
+    Nadjah Ríos Villarini es catedrática del Departamento de Inglés de la Facultad de Estudios Generales en la Universidad de Puerto Rico, recinto de Río Piedras. Obtuvo su grado doctoral en el Departamento de Antropología en la Universidad de Texas en Austin. Co-dirige el Proyecto Diáspora y el Centro de la Humanidades Digitales de la Universidad de Puerto Rico junto a la Dra. Mirerza González. Actualmente desarrolla varios archivos comunitarios, entre ellos el Archivo Histórico de Vieques, el Archivo de la Fundación Culebra y más recientemente el Archivo Histórico de Casa Pueblo.
 date: March 2022
 issue: 6
 order: 
@@ -344,15 +344,7 @@ Colección de fotos Catanzaro 1942 Vieques
 
 -   Enviar audio por el chat de la clase.
 
-Ivelisse Rivera Bonilla
------------------------
-
-Ivelisse Rivera Bonilla es catedrática del Departamento de Ciencias Sociales de la Universidad de Puerto Rico en Humacao. Obtuvo su grado doctoral en el Departamento de Antropología de la Universidad de California, Santa Cruz. Coordina el Programa de Investigación de Acción Social. Sus investigaciones están basadas en los principios de la investigación-acción participativa. Sus áreas de interés incluyen el trabajo comunitario en Vieques y en el barrio Mariana de Humacao y la educación popular.
-
-Nadjah Ríos Villarini 
-----------------------
-
-Nadjah Ríos Villarini es catedrática del Departamento de Inglés de la Facultad de Estudios Generales en la Universidad de Puerto Rico, recinto de Río Piedras. Obtuvo su grado doctoral en el Departamento de Antropología en la Universidad de Texas en Austin. Co-dirige el Proyecto Diáspora y el Centro de la Humanidades Digitales de la Universidad de Puerto Rico junto a la Dra. Mirerza González. Actualmente desarrolla varios archivos comunitarios, entre ellos el Archivo Histórico de Vieques, el Archivo de la Fundación Culebra y más recientemente el Archivo Histórico de Casa Pueblo.
+---
 
 [^1]: Digital Library of the Caribbean, "Archivo Histórico de Vieques", fecha de acceso: 14 de enero de 2022, <https://dloc.com/vieques>.
 
