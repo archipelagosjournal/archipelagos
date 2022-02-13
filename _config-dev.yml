@@ -103,6 +103,23 @@ collections:
     - Alex Gil
     - Brian Ballsun-Stanton
     - Kelly S. Martin
+  issue06:
+    slug: issue06
+    slug_fr: fr/issue06
+    slug_es: es/issue06
+    output: true
+    number: 6
+    date: "March 2022"
+    title: "Issue (6)"
+    editors:
+    - Kaiama Glover
+    - Alex Gil
+    - Perry Collins
+    - Hadassah St. Hubert
+    production:
+    - Alex Gil
+    - Brian Ballsun-Stanton
+    - Alex Martin
   archives:
     title: archives
     output: true

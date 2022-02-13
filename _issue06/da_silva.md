@@ -1,29 +1,36 @@
-*Natália Marques da Silva, Jean Mozart Féron, and Mireille Fombrun
-Mallebranche [ ]{.underline}*
+---
+layout: article
+section: articles
+title: 
+  "long": ""
+  "short": ""
+doi: ""
+author: 
+- name: Natália Marques da Silva
+  shortname: Marques da Silva
+  bio: >
+    Lorem ipsum
+- name: Jean Mozart Féron
+  shortname: Féron
+  bio: >
+    Lorem ipsum
+- name: Mireille Fombrun Mallebranche
+  shortname: 
+  bio: >
+    Lorem ipsum
+date: 
+issue: 6
+order: 
+abstract: >
+  Located in Montrouis, Haiti, the Musée Ogier-Fombrun (MOF) chronicles the Haitian Revolution through artifacts, installations, and local heritage sites. Recent threats, such as COVID-related travel restrictions and related economic and political vulnerabilities, however, have drastically reduced the museum's operations and its capacity to serve visitors. Alarmed by these challenges and worsening conditions, MOF staff and volunteers have turned to digitization as a means of amplifying and safeguarding. In partnership with the Digital Library of the Caribbean (dLOC), they have begun to organize, analyze, and digitize the MOF's collection and archives. This essay examines this ongoing process through the twin concepts of digitization as revival, and revival as survival. Beyond newfound benefits afforded to visitors---who may now study museum items virtually---digitization can motivate staff, inspire communal support, and create "carbon copies" of items whose tangibility may be in danger. At the same time, it poses problems related to changing technology, considerable staff training, and limitations on who can access digital content. As a case study, this essay aims to highlight an institutional perspective on digitization, how dLOC and similar entities aid museum revival, and the undertaking of digitization projects during a global pandemic. 
+abstract_fr: >
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim facilisis gravida neque convallis a cras. Neque gravida in fermentum et. Nullam non nisi est sit. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tellus id interdum velit laoreet id donec ultrices tincidunt. Dolor sit amet consectetur adipiscing. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Scelerisque fermentum dui faucibus in ornare. Cras fermentum odio eu feugiat pretium nibh. Ipsum a arcu cursus vitae congue mauris rhoncus aenean. Sed id semper risus in hendrerit gravida.  
+abstract_es: >
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim facilisis gravida neque convallis a cras. Neque gravida in fermentum et. Nullam non nisi est sit. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tellus id interdum velit laoreet id donec ultrices tincidunt. Dolor sit amet consectetur adipiscing. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Scelerisque fermentum dui faucibus in ornare. Cras fermentum odio eu feugiat pretium nibh. Ipsum a arcu cursus vitae congue mauris rhoncus aenean. Sed id semper risus in hendrerit gravida.
+language: en
+pdf: true
+---
 
-Abstract
-========
-
-Located in Montrouis, Haiti, the Musée Ogier-Fombrun (MOF) chronicles
-the Haitian Revolution through artifacts, installations, and local
-heritage sites. Recent threats, such as COVID-related travel
-restrictions and related economic and political vulnerabilities,
-however, have drastically reduced the museum's operations and its
-capacity to serve visitors. Alarmed by these challenges and worsening
-conditions, MOF staff and volunteers have turned to digitization as a
-means of amplifying and safeguarding. In partnership with the Digital
-Library of the Caribbean (dLOC), they have begun to organize, analyze,
-and digitize the MOF's collection and archives. This essay examines this
-ongoing process through the twin concepts of digitization as revival,
-and revival as survival. Beyond newfound benefits afforded to
-visitors---who may now study museum items virtually---digitization can
-motivate staff, inspire communal support, and create "carbon copies" of
-items whose tangibility may be in danger. At the same time, it poses
-problems related to changing technology, considerable staff training,
-and limitations on who can access digital content. As a case study, this
-essay aims to highlight an institutional perspective on digitization,
-how dLOC and similar entities aid museum revival, and the undertaking of
-digitization projects during a global pandemic.
 
 Since the beginning of the twenty-first century, museum pathways into
 cyberspace have signaled continued investment in the development of

@@ -52,8 +52,7 @@ Puerto Rico.
 
 *El Tacón de la Chancleta* forma parte de la Colección Documentos del
 Feminismo Rivera Lassén--Crespo Kebler, que contiene sobre cuatro mil
-documentos de más de 60 organizaciones feministas del periodo de 1970 a
-2010. Trabajamos para incorporarla en su totalidad a dLOC para el uso de
+documentos de más de 60 organizaciones feministas del periodo de 1970 a 2010. Trabajamos para incorporarla en su totalidad a dLOC para el uso de
 estudiantes, personas estudiosas de los feminismos, interesadas en
 elaborar políticas públicas así como para el público general. No existe
 otra colección como ésta. Son documentos que las autoras de la colección
