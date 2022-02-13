@@ -26,7 +26,7 @@ We ask you to submit your abstracts and articles to <archipelagosjournal@gmail.c
 
 1. Submissions of individual articles are accepted on a rolling basis. We also welcome proposals for themed sections.
 
-2. Article submissions must include a bio (or bios for multi-author) and an abstract. Please place these at the bottom of your document. All multimedia content should accompany the initial article submission in a zip file or equivalent.
+2. Article submissions must include a bio (or bios for multi-author) and an abstract. *Please place these at the bottom of your document*. All multimedia content should accompany the initial article submission in a zip file or equivalent.
 
 6. We are an open access journal. If you are accepted for publication you will receive a copy of our [Author Agreement]({{site.baseurl}}/public/author-agreement.pdf).
 
@@ -40,11 +40,9 @@ We ask you to submit your abstracts and articles to <archipelagosjournal@gmail.c
 
 #### Documents
 
-*Markdown (.md)*: Publishing is in many ways a game of file conversions. Both our website and PDFs are built from the same Markdown files. While we gladly accept articles in Office format, we encourage our authors to submit plain text files (UTF-8 encoding), written using [Kramdown syntax](http://kramdown.gettalong.org/syntax.html), a version of Markdown, and saved with the .md extension. This will help us keep our workflow light and our file types closer to the production line, contributing in turn to our continued ownership of all aspects of journal production. For some background on our infrastructural choices, and to get started with Markdown, please take some time to read "[Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)," by Dennis Tenen and Grant Whytoff. We sincerely appreciate those who accept the challenge of changing their work habits and are happy to provide assistance during the process. You will find many markdown editing tools available, and most plain text editors are great at handling Markdown.
+*Office formats (.odt, .doc, .docx)*: In order to minimize the work needed to convert your files into publishable format, **please be sure to follow our guidelines and style guide closely**. Here are some specific formatting issues that will make our file conversion work tractable:
 
-*Office formats (.odt, .doc, .docx)*: If you find the Markdown workflow overwhelming, we will convert your Microsoft Word, LibreOffice, or OpenOffice files to Markdown ourselves at the end of the process. In order to minimize the work needed to convert your files into publishable format, **please be sure to follow our guidelines and style guide closely**. Here are some specific formatting issues that will make our file conversion work tractable:
-
-1. Please use the Heading styles (i.e. Heading 2, Heading 3, etc.) to separate your sections, beginning with Heading 2. Indicating headings by using bold does not translate well in our transformations. Do not use bold for headings.
+1. Please use the Heading styles (i.e. Heading 2, Heading 3, etc.) to separate your sections, beginning with Heading 2. Indicating headings by using bold does not translate well in our transformations. *Do not use bold for headings.*
 2. Attach links to the main body text (as opposed to spelling them out). In footnotes, spell out the link, but also link to it as you would with text: [http://example.com](http://example.com/)
 3. Remember to use `http://` and `https://` on your links or they won't work.
 4. Please make sure to use normal quotation marks. Avoid the use of "smart quotes."
@@ -53,25 +51,26 @@ We ask you to submit your abstracts and articles to <archipelagosjournal@gmail.c
 7. Do not insert images manually in the document. Refer to our guidelines for images below.
 8. Do not use data fields or tables in Word. Please see below for our accepted table formats.
 
+*Markdown (.md)*: Publishing is in many ways a game of file conversions. Both our website and PDFs are built from the same Markdown files. We accept plain text files (UTF-8 encoding), written using [Kramdown syntax](http://kramdown.gettalong.org/syntax.html), a version of Markdown, and saved with the .md extension. This helps us keep our workflow light and our file types closer to the production line, contributing in turn to our continued ownership of all aspects of journal production. For some background on our infrastructural choices, and to get started with Markdown, please take some time to read "[Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)," by Dennis Tenen and Grant Whytoff. We sincerely appreciate those who submitt well formatted Markdown to us directly.
+
 #### Images
 
 At *archipelagos* we value the richness of our visual culture. If you are submitting your own photography, we ask you to be mindful of frame, color harmonies, and other design elements. Remember also that these files may contain embedded metadata that you might not want to publish. Images accompanying your documents will be open to the review process.
 
 Please provide crisp images with a minimum of 144ppi resolution and at least 800 pixels wide. Please submit your images in JPG format. We accept PNG's if the image has transparencies or is made of simple colors (i.e. a logo).
 
-Please use the following rubric in your documents, typing each character in the exact order, and filling out the appropriate content in brackets (without the brackets in the final version), and place the whole where you would like your images to be inserted:
+Please use the following rubric in your documents, typing each character in the exact order, and filling out the appropriate content inside the quotation marks, and place the block of text where you would like your images to be inserted in your document:
 
 ~~~ text
-{% raw %}{% include image.html
-   img="[my-image.jpg]"
-   title="[insert title here]"
-   caption="[insert caption here.]"
-   url="[http://optional-url.com]" %}{% endraw %}
+img="my-image.jpg"
+title="insert title here"
+caption="insert caption here."
+url="http://optional-url.com"
 ~~~
 
 N.B. Urls are optional, and should only be used when you want the image to point to a specific resource.
 
-We ask that you name your image files using one or two keywords separated by a hyphen as in the example above. **Do not use spaces or capital letters in your file name**. Please remember to provide credit line text as needed, particularly for photographs. The URL field is optional and you should only use it if you want the reader to link from your image to another page on the internet.
+We ask that you name your image files using one or two keywords separated by a hyphen as in the example above. **Do not use spaces or capital letters in your file name**. Please remember to provide credit line text as needed, particularly for photographs inside the caption. 
 
 #### Video, Sound, and Interactive Media
 

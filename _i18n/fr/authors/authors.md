@@ -35,9 +35,7 @@ Toutes les soumissions doivent être conformes au [Chicago Manual of Style](http
 
 #### Les documents
 
-Markdown (.md): La publication est à bien des égards un jeu de conversion de fichiers. Notre site Web et nos fichiers PDF sont construits à partir des mêmes fichiers Markdown. Bien que nous acceptions volontiers les articles de format Office, nous encourageons nos auteurs à soumettre des fichiers texte (encodage UTF-8), écrits en utilisant la syntaxe Kramdown, une version de Markdown et enregistrés avec l'extension .md. Cela nous aidera à garder notre flux de travail léger et nos types de fichiers plus proches de la chaîne de production, ce qui contribuera à ce que nous continuons à contrôler tous les aspects de la production du journal. Pour en savoir plus sur nos choix d’infrastructure et pour commencer à utiliser Markdown, prenez le temps de lire [« L’auteur durable en texte clair avec Pandoc et Markdown »](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown), de Dennis Tenen et Grant Whytoff. Nous apprécions sincèrement ceux qui acceptent le défi de changer leurs habitudes de travail et nous sommes offrons volontiers notre assistance pendant le processus. Vous trouverez de nombreux outils d'édition de Markdown disponibles, et la plupart des éditeurs de texte brut sont excellents pour la gestion de Markdown.
-
-Formats Office (.odt, .doc, .docx): Si vous trouvez le flux de travail Markdown accablant, nous convertirons vos fichiers Microsoft Word, LibreOffice ou OpenOffice en Markdown à la fin du processus. Afin de minimiser le travail nécessaire à la conversion de vos fichiers en format publiable, **veillez à suivre scrupuleusement nos instructions**. Voici quelques éléments de formatage spécifiques qui rendront notre travail de conversion de fichier facile à gérer:
+Formats Office (.odt, .doc, .docx): Afin de minimiser le travail nécessaire à la conversion de vos fichiers en format publiable, **veillez à suivre scrupuleusement nos instructions**. Voici quelques éléments de formatage spécifiques qui rendront notre travail de conversion de fichier facile à gérer:
 
 - Utilisez les styles de titre (par exemple, titre 2, titre 3, etc.) pour séparer vos sections, en commençant par le titre 2. Indiquer les titres en caractères gras ne se traduit pas bien dans nos transformations. Ne pas utiliser de gras pour les titres.
 - Attachez les liens au corps du texte (au lieu de les épeler). Dans les notes de bas de page, épelez le lien, mais faites-le également comme vous le feriez avec du texte: [http://example.com](http://example.com)
@@ -48,20 +46,21 @@ Formats Office (.odt, .doc, .docx): Si vous trouvez le flux de travail Markdown 
 - N'insérez pas d'images manuellement dans le document. Consultez nos directives pour les images ci-dessous.
 - N'utilisez pas de champs de données ni de tableaux dans Word. Veuillez voir ci-dessous nos formats de tableaux acceptés.
 
+Markdown (.md): La publication est à bien des égards un jeu de conversion de fichiers. Notre site Web et nos fichiers PDF sont construits à partir des mêmes fichiers Markdown. Bien que nous acceptions volontiers les articles de format Office, nous encourageons nos auteurs à soumettre des fichiers texte (encodage UTF-8), écrits en utilisant la syntaxe Kramdown, une version de Markdown et enregistrés avec l'extension .md. Cela nous aidera à garder notre flux de travail léger et nos types de fichiers plus proches de la chaîne de production, ce qui contribuera à ce que nous continuons à contrôler tous les aspects de la production du journal. Pour en savoir plus sur nos choix d’infrastructure et pour commencer à utiliser Markdown, prenez le temps de lire [« L’auteur durable en texte clair avec Pandoc et Markdown »](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown), de Dennis Tenen et Grant Whytoff. Nous apprécions sincèrement ceux qui acceptent le défi de changer leurs habitudes de travail et nous sommes offrons volontiers notre assistance pendant le processus. Vous trouverez de nombreux outils d'édition de Markdown disponibles, et la plupart des éditeurs de texte brut sont excellents pour la gestion de Markdown.
+
 #### Images
 
 Chez *archipelagos*, nous valorisons la richesse de notre culture visuelle. Si vous soumettez vos propres photographies, nous vous demandons de garder à l’esprit le cadre, les harmonies de couleurs et d’autres éléments graphiques. N'oubliez pas non plus que ces fichiers peuvent contenir des métadonnées incorporées que vous ne souhaitez peut-être pas publier. Les images accompagnant vos documents seront ouvertes au processus de révision.
 
 Veuillez fournir des images nettes avec une résolution minimale de 144ppi et une largeur minimale de 800 pixels. S'il vous plaît, soumettez vos images au format JPG. Nous acceptons les images PNG si l’image a des transparences ou est faite de couleurs simples (c’est-à-dire un logo).
 
-Veuillez utiliser la rubrique suivante dans vos documents, en tapant chaque caractère dans l'ordre exact et en remplissant le contenu approprié entre crochets (sans les crochets dans la version finale) et placez le tout à l'endroit où vous souhaitez insérer vos images:
+Veuillez utiliser la rubrique suivante dans vos documents, en tapant chaque caractère dans l'ordre exact et en remplissant le contenu approprié entre guillemets (style anglais) et placez le tout à l'endroit où vous souhaitez insérer vos images:
 
 ~~~ text
-{% raw %}{% include image.html
-   img="[my-image.jpg]"
-   title="[insert title here]"
-   caption="[insert caption here.]"
-   url="[http://optional-url.com]" %}{% endraw %}
+img="my-image.jpg"
+title="insert title here"
+caption="insert caption here."
+url="http://optional-url.com"
 ~~~
 
 N.B. Les URL sont facultatives et ne doivent être utilisées que si vous souhaitez que l'image pointe vers une ressource spécifique.

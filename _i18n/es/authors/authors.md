@@ -40,9 +40,9 @@ Contact: archipelagosjournal@gmail.com
 
 #### Documentos
 
-*Markdown (.md)*: la publicación es, en muchos sentidos, un juego de conversiones de archivos de un formato a otro. Tanto nuestro sitio web como nuestros PDF se crean a partir de los mismos archivos de Markdown. Si bien aceptamos con gusto los artículos en formato de Office, alentamos a nuestros autores a enviar archivos de texto sin formato (codificación UTF-8), escritos utilizando Markdown con [sintaxis Kramdown](http://kramdown.gettalong.org/syntax.html), y guardado con la extensión .md. Esto nos ayudará a mantener nuestro flujo de trabajo ligero y nuestros tipos de archivos más cerca de la línea de producción, contribuyendo a su vez al control continuo de todos los aspectos de la producción de nuestra revista. Para obtener algunos antecedentes sobre nuestras opciones de infraestructura, y para comenzar con Markdown, tómese un tiempo para leer "[Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)", por Dennis Tenen y Grant Whytoff. Agradecemos sinceramente a quienes aceptan el desafío de cambiar sus hábitos de trabajo y les brindamos nuestra asistencia durante el proceso. Encontrará muchas herramientas de edición de Markdown disponibles, y la mayoría de los editores de texto plano son igualmente excelentes para manejar el mismo.
 
-*Formatos de Office (.odt, .doc, .docx)*: Si encuentra que el flujo de trabajo de Markdown es abrumador, convertiremos sus archivos de Microsoft Word, LibreOffice u OpenOffice a Markdown nosotros mismos al final del proceso. Para minimizar el trabajo necesario para convertir sus archivos a formato publicable, **asegúrese de seguir atentamente nuestras pautas**. Aquí una lista de soluciones específicas para el formato Office que harán que nuestra conversión de archivos funcione:
+
+*Formatos de Office (.odt, .doc, .docx)*: Para minimizar el trabajo necesario para convertir sus archivos a formato publicable, **asegúrese de seguir atentamente nuestras pautas**. Aquí una lista de soluciones específicas para el formato Office que harán que nuestra conversión de archivos funcione:
 
 1. Utilice los estilos de Encabezado (es decir, Heading 2, Heading 3, etc.) para separar sus secciones, comenzando con el Encabezado 2. La indicación de encabezados usando negrita no funciona bien en nuestras transformaciones. No use negrita para encabezados.
 2. Adjunte enlaces al texto del cuerpo principal (en lugar de deletrearlos). En las notas al pie, deletree el enlace, pero también enlácelo como lo haría con el texto: `[ejemplo](http://example.com/)`
@@ -53,6 +53,8 @@ Contact: archipelagosjournal@gmail.com
 7. No inserte imágenes manualmente en el documento. Consulte nuestras pautas para las imágenes a continuación.
 8. No use campos de datos o tablas en Word. Consulte a continuación nuestros formatos de tabla aceptados.
 
+*Markdown (.md)*: la publicación es, en muchos sentidos, un juego de conversiones de archivos de un formato a otro. Tanto nuestro sitio web como nuestros PDF se crean a partir de los mismos archivos de Markdown. Aceptamos con gusto los artículos esritos en texto sin formato (codificación UTF-8), utilizando el Markdown con [sintaxis Kramdown](http://kramdown.gettalong.org/syntax.html), y con la extensión .md. Esto nos ayudará a mantener nuestro flujo de trabajo ligero y nuestros tipos de archivos más cerca de la línea de producción, contribuyendo a su vez al control continuo de todos los aspectos de la producción de nuestra revista. Para obtener algunos antecedentes sobre nuestras opciones de infraestructura, y para comenzar con Markdown, tómese un tiempo para leer "[Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)", por Dennis Tenen y Grant Whytoff. Agradecemos sinceramente a quienes aceptan el desafío de cambiar sus hábitos de trabajo y les brindamos nuestra asistencia durante el proceso. Encontrará muchas herramientas de edición de Markdown disponibles, y la mayoría de los editores de texto plano son igualmente excelentes para manejar el mismo.
+
 #### Imagenes
 
 En *archipelagos* valoramos la riqueza de nuestra cultura visual. Si envía su propia fotografía, le pedimos que tenga en cuenta el marco, las armonías de color y otros elementos de diseño. Recuerde también que estos archivos pueden contener metadatos incrustados que es posible que no desee compartir con el público. Las imágenes que acompañan a sus documentos estarán expuestas al proceso de revisión por pares junto a su texto.
@@ -62,11 +64,10 @@ Proporcione imágenes nítidas con una resolución mínima de 144ppi y al menos 
 Utilice la siguiente rúbrica en sus documentos, escriba cada carácter en el orden exacto y complete el contenido apropiado entre paréntesis (sin los paréntesis en la versión final), y coloque el conjunto donde desea que se inserten sus imágenes:
 
 ~~~ text
-{% raw %}{% include image.html
-   img="[mi-imagen.jpg]"
-   title="[titulo va aquí]"
-   caption="[captura de imagen va aquí.]"
-   url="[http://url-optional.com]" %}{% endraw %}
+img="my-image.jpg"
+title="insert title here"
+caption="insert caption here."
+url="http://optional-url.com"
 ~~~
 
 Nótese bien: Las URLs son opcionales y solo deben usarse cuando desee que la imagen apunte a un recurso específico.
