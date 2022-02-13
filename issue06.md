@@ -1,5 +1,6 @@
 ---
 layout: default
+regenerate: true
 title: "Issue (6)"
 subtitle: ""
 blurb: ""
