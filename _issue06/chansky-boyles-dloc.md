@@ -6,8 +6,12 @@ title:
   "short": "dLOC as Practice"
 doi: ""
 author: 
-- name: 
-  shortname: 
+- name: Ricia Anne Chansky
+  shortname: Chansky
+  bio: >
+    Lorem ipsum
+- name: Christina Boyles
+  shortname: Boyles
   bio: >
     Lorem ipsum
 date: March 2022
@@ -22,8 +26,6 @@ abstract_es: >
 language: en
 pdf: true
 ---
-
-*Ricia Anne Chansky and Christina Boyles*
 
 Archives reveal silences or gaps in the cultural record. As Haitian anthropologist Michel-Rolph Trouillot observes, "Silences enter the process of historical production at four crucial moments: the moment of fact creation (the making of *sources*); the moment of fact assembly (the making of *archives*); the moment of fact retrieval (the making of *narrative*); and the moment of retrospective significance (the making of *history*)."[^1] King Ferdinand's letter to the Taíno and Arawak peoples is an example of one text that is present in all four sites of meaning-making: sources, archives, narrative, and history.
 
@@ -48,7 +50,7 @@ In this essay we will self-reflexively discuss our individual project designs as
 While our conversation in this essay centers on the twice-colonized Puerto Rican archipelago and the work of decolonial practice to undermine systems of extraction that position marginalized communities as existing for the betterment of the colonizer, it is important to recognize that these observations and arguments are not limited to a singular location within the places and spaces of Western colonization and the contemporary economic colonization that the United States enacts upon innumerable peoples both within and outside of the geography of the nation. Rather, modes of extractive scholarship exist in multiple contested spaces and it is our intent that the concepts discussed in this essay will be pertinent to other communities struggling under the weight of colonial practice, systemic racism, and the ongoing assault on frontline communities that unequally and unjustly bear the burden of the contemporary climate emergency.
 
 Hurricanes of History (Christina)
-=================================
+---------------------------------
 
 My own experience with archival silences began in 2015 when I was researching the San Felipe II or Lake Okeechobee hurricane of 1928. This hurricane was devastating for both the Caribbean and the mainland United States, with its most severe effects occurring in Puerto Rico and central Florida. According to *El Nuevo Día*, the most widely circulated newspaper in Puerto Rico, "El huracán María no superó a San Felipe II según un informe preliminar" ("Hurricane María did not surpass \[the strength of\] the San Felipe II Hurricane").[^8] Although San Felipe is the one of the deadliest events to occur on US soil, the legacy of the storm has largely been lost to history. One reason is that the individuals most affected---Puerto Ricans in the Caribbean and Bahamian migrant workers in Florida---are colonial subjects whose needs and interests are continually subjugated for the benefit of those in power.
 
@@ -62,34 +64,12 @@ lived through San Felipe. Their stories illustrated the many ways disaster recov
 
 Puerto Rican citizens---by prioritizing businesses over people and by prioritizing recent arrivals from the mainland United States over Puerto Rican citizens.[^13] As I transcribed these interviews during the summer and early fall of 2017, I watched with horror as Hurricanes Irma and María made landfall in Puerto Rico. As in 1928, disparities in the federal government's response to the hurricane in Puerto Rico and Florida made evident the ways colonialism was and is embedded into the disaster recovery process. Aid resources and financial support were distributed efficiently in Florida, while policies like the Jones Act of 1920 prevented Puerto Rico from receiving aid at its moment of greatest need. Other federal government actions, including the delay of \$20 billion in aid[^14] and the Tax Cuts and Jobs Act of 2017,[^15] increased the vulnerability of Puerto Ricans and made it easier for outside entities to capitalize on Puerto Rico's trauma.
 
-When I saw how similar the responses to San Felipe and María were, I knew I needed to
-
-shift my attention to the failed disaster response occurring in front of me. I reached out to
-
-colleagues and spoke at conferences about my research, hoping to connect with others interested
-
-in examining issues pertaining to disaster and disaster response. During this time, I met Laurie
-
-Taylor, dLOC's digital scholarship director. Laurie not only introduced me to many of my
-
-current collaborators but also provided insight and expertise on building relationships with
-
-researchers and community groups across the Caribbean. These conversations mark the early
-
-days of the Archivo de Respuestas Emergencias de Puerto Rico, though I didn't know
-
-that yet. Before the project could begin in earnest, I needed to build a community with scholars
-
-and activists doing the crucial work of documenting, acting, and organizing in response to
-
-María and the crises that followed. One of these conversations---focused on decolonial
-
-approaches to oral history---was with Ricia. Her work with the "Mi María" project was and is crucial to developing a vision for AREPR.
+When I saw how similar the responses to San Felipe and María were, I knew I needed to shift my attention to the failed disaster response occurring in front of me. I reached out to colleagues and spoke at conferences about my research, hoping to connect with others interested in examining issues pertaining to disaster and disaster response. During this time, I met Laurie Taylor, dLOC's digital scholarship director. Laurie not only introduced me to many of my current collaborators but also provided insight and expertise on building relationships with researchers and community groups across the Caribbean. These conversations mark the early days of the Archivo de Respuestas Emergencias de Puerto Rico, though I didn't know that yet. Before the project could begin in earnest, I needed to build a community with scholars and activists doing the crucial work of documenting, acting, and organizing in response to María and the crises that followed. One of these conversations---focused on decolonial approaches to oral history---was with Ricia. Her work with the "Mi María" project was and is crucial to developing a vision for AREPR.
 
 Audio hosted here: [https://cboyles.msu.domains/puertorico/christina/]{.underline}
 
 After the Hurricane (Ricia)
-===========================
+---------------------------
 
 Hurricane María made landfall in the Puerto Rican archipelago on 20 September 2017. It destroyed hundreds of thousands of homes, businesses, and farms; was responsible for massive deforestation; led to shortages of food and potable water; knocked out electricity, running water, telecommunications, and internet; caused the largest blackout in US history; led to mass migration; and ultimately caused thousands of deaths, as well as other humanitarian crises. Courses at the University of Puerto Rico--Mayagüez (UPRM), where I teach, resumed a scant six weeks after the climatological disaster. The campus reopened in large part because it was one of the only locations on the west coast that had somewhat stable electricity and running water, and even intermittent internet service. All of these resources served the material needs of students who had experienced massive losses, physical and mental. Many of the students were thrown into precarity due to sustained lack of access to food, potable water, shelter, and medical and mental health care. In short, the university provided sanctuary and sustenance to its on-campus community as well as aid to surrounding neighborhoods. Many faculty members, including me, worked to address students' material needs following the hurricane. My initial response was to organize informal meals for students with whatever resources I could locate at our often-barren grocery stores and cook on my one-burner camp stove. For the first meal, I made such treats as a calabaza pie with a crust made from stale saltines and a black bean salad featuring Spam and canned mandarin oranges. One student, Joan, wept when she saw the food laid out in front of her and later explained that she had lost her home in the hurricane and was sleeping on a friend's couch so that she could continue studying.[^16] Feeling lucky to have shelter, Joan neglected to tell anyone that she did not have enough money for food. She had been buying one box of Ritz crackers per week and making it last for seven days. My messy buffet was the most food she had seen in over a month. Numerous similar stories of disaster were left unheard in the aftermath. News media and government offices often could not conceptualize who was in need, or they deemed experiences like Joan's inconsequential.
 
@@ -118,7 +98,7 @@ Decolonial listening, then, asks us to step outside of our ingrained auditory pa
 Audio hosted here: [[https://cboyles.msu.domains/puertorico/ricia/]{.underline}](about:blank)
 
 The Archivo de Respuestas Emergencias de Puerto Rico (Ricia and Christina)
-==========================================================================
+--------------------------------------------------------------------------
 
 Many of the questions that Ricia asks---How can we engage in oral history practices ethically? How can we develop nonextractive scholarly practices? How can we collaborate with our team and community members in ways that are mutually beneficial?---are the same questions with which AREPR grapples. Working with dLOC both explicitly (direct conversations with Laurie Taylor and Perry Collins, attendance at the NEH seminar by project collaborators, partnership with dLOC to house a copycat collection of AREPR's materials) and implicitly (hearing from colleagues and peers about their experience working with dLOC and learning about the organization's mission and values via its website, presentations, and collections) has helped inform our answers to these questions.
 
@@ -129,7 +109,7 @@ Postcustodial archiving also reenvisions the relationships between institutions,
 dLOC's operations inspired AREPR's structure. While dLOC's founding partners include the Archives Nationales d'Haïti; the Caribbean Community Secretariat; the National Library of Jamaica; the Fundación Global Democracia y Desarrollo, Universidad de Oriente, Venezuela; and the University of the Virgin Islands, the project's technical infrastructure is housed at and administered by the University of Florida. Through this model, dLOC similarly leverages its technical resources for communities across the Caribbean. One of the key components of this collaboration is shared governance---a system by which the varied interests of project partners are addressed through shared decision-making. Although AREPR's model is less formal, team leads reach project decisions as a group. This model adheres to the values of postcustodialism by encouraging collaboration that is mutually beneficial and nonhierarchical, ensuring that one institution or individual cannot exert undue influence or authority over the others. By building on the decolonial practices of dLOC, AREPR highlights the value of innovative disaster-response strategies, particularly those that can provide inspiration, insight, and information to other organizations seeking to implement effective disaster-response protocols. Not only do these materials have the potential to save lives, but they also are imperative for developing future emergency protocols based on local knowledge and community action. In essence, AREPR compiles a set of best practices for disaster-stricken communities, especially those experiencing low bandwidth, limited digital infrastructure, and climate vulnerability. Although we are still in the early stages of this project, we look forward to continued partnership with Puerto Rican individuals and community organizations whose cutting-edge work in disaster response serves as an example to all of us facing the impending climate crisis.
 
 Conclusion
-==========
+----------
 
 While the Digital Library of the Caribbean is rightly recognized as a trusted holder of shared cultural memory and knowledges from across the Caribbean, we posit in this multimodal essay that dLOC is also a necessary model for decolonial practice and process in academic systems that have too long followed a colonial model that separates both scholars and scholarship from the communities in which they are rooted.
 
@@ -140,15 +120,11 @@ While Ricia had been working with feminist collaborative models and transdiscipl
 Moreover, dLOC was and is integral to our shared collaboration through the Archivo de Respuestas Emergencias de Puerto Rico by providing community, conversation, and models of decolonial praxis in the Caribbean. According to Linda Tuhiwai Smith, decolonizing projects require "revolutionary thinking about the roles that knowledge, knowledge production, knowledge hierarchies and knowledge institutions play in decolonization and social transformation."[^23] dLOC models these values by freely sharing multilingual materials without claiming ownership of Caribbean artifacts or knowledges and by sharing sound-based artifacts with and from across the Caribbean. AREPR emulates these values in a myriad of ways: (1) by embracing postcustodial archiving practices in which participants retain the rights to their contributions; (2) by acknowledging the expertise of Puerto Ricans in the areas of disaster and disaster response and highlighting their experiences through oral histories; (3) by partnering with community members and community organizations to determine who, what, where, when, and how stories will be shared; (4) by making all materials available in both Spanish and English; and (5) by building a collaborative framework that allows participating community organizations to collect, develop, and share archival materials during and beyond the scope of the project. Each of these strategies embodies decolonial practice by rejecting extractive notions of knowledge production and by combatting erasure through the celebration of Puerto Rican ingenuity. Decolonial models such as these are increasingly necessary in this moment of cultural reckoning and climate crisis. While many activists and institutions are calling for change, this moment also is being seized by entities profiting from crisis---like Crypto Rico, an enclave of tech bros seeking tax loopholes---or LUMA, an energy company privatizing Puerto Rico's power grid. Swooping into communities made vulnerable by weather events and government (inaction), these organizations operate through the extraction and erasure characteristic of disaster capitalism. Decolonial projects, including "Mi María" and the Archivo de Respuestas Emergencias de Puerto Rico refuse extraction and erasure. While these projects focus on Puerto Rico, they also bring attention to how disasters are weaponized and leveraged by those in power and how similar crises will continue to affect the Caribbean as the effects of climate change worsen. We already are seeing these issues at play in the US and Puerto Rican governments' early responses to COVID-19---centering corporate interests to the detriment of public health and safety. dLOC pushes back against these moments of exploitation and erasure by amplifying the voices of marginalized communities through the ethical and responsible circulation of life stories and multimodal texts.
 
 Acknowledgments
-===============
+---------------
 
 Ricia would like to thank Aleyshka Estevez Quintana for her assistance with the production of the audio essay. Christina would like to thank Andy Boyles Petersen for his assistance with the production of the audio essay.
 
-Ricia Anne Chansky
-==================
-
-Christina Boyles
-================
+---
 
 [^1]: Michel-Rolph Trouillot. *Silencing the Past: Power and the Production of History* (Boston: Beacon, 2015), 26.
 
