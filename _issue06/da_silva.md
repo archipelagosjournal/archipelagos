@@ -2,8 +2,8 @@
 layout: article
 section: articles
 title: 
-  "long": ""
-  "short": ""
+  "long": "Digitization as Revival: A Case Study of the Musée Ogier-Fombrun"
+  "short": "Digitization as Revival"
 doi: ""
 author: 
 - name: Natália Marques da Silva
@@ -18,9 +18,9 @@ author:
   shortname: 
   bio: >
     Mireille Fombrun Mallebranche is a Haitian-born artist and sculptor. As a member of the Fombrun family, she has been in charge of the conservation and daily activities at the Musée Ogier-Fombrun for the past decade. She is also a counselor to the executive board of the Haitian Committee of the International Council of Museums (ICOM-Haïti).
-date: March 2022
+date: March 2020
 issue: 6
-order: 
+order: 2
 abstract: >
   Located in Montrouis, Haiti, the Musée Ogier-Fombrun (MOF) chronicles the Haitian Revolution through artifacts, installations, and local heritage sites. Recent threats, such as COVID-related travel restrictions and related economic and political vulnerabilities, however, have drastically reduced the museum's operations and its capacity to serve visitors. Alarmed by these challenges and worsening conditions, MOF staff and volunteers have turned to digitization as a means of amplifying and safeguarding. In partnership with the Digital Library of the Caribbean (dLOC), they have begun to organize, analyze, and digitize the MOF's collection and archives. This essay examines this ongoing process through the twin concepts of digitization as revival, and revival as survival. Beyond newfound benefits afforded to visitors---who may now study museum items virtually---digitization can motivate staff, inspire communal support, and create "carbon copies" of items whose tangibility may be in danger. At the same time, it poses problems related to changing technology, considerable staff training, and limitations on who can access digital content. As a case study, this essay aims to highlight an institutional perspective on digitization, how dLOC and similar entities aid museum revival, and the undertaking of digitization projects during a global pandemic. 
 abstract_fr: >
