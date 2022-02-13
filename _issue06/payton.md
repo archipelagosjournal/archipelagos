@@ -1,0 +1,809 @@
+*Claire Antone Payton, Anne Eller, and Lewis Ampidu* *Clorméus*
+
+\[we can send photos along with the article when we resubmit it, the
+editors can insert them where they want\]
+
+Digital Preservation Efforts, Archives, and Power
+=================================================
+
+In recent years, Haiti has inspired a profound reconceptualization of
+epistemologies of knowledge and power. This challenge includes critical
+evaluation of the dynamics of ontology and history as well as the
+materials, networks, and institutions that make that knowledge
+production possible.[^1] As consensus about Haiti's centrality grows,
+librarians, archivists, and scholars have mobilized to help preserve
+Haitian archival and printed material and increase access through
+digitization. At the forefront of this movement is the Digital Library
+of the Caribbean (dLOC), a cooperative digital library maintained by the
+University of Florida and Florida International University. Founded in
+2004 with nine partners, today dLOC sustains collaborations with sixty
+cultural institutions. Another major supporter of preservation and
+access initiatives is the British Library's Endangered Archive Programme
+(EAP). Since 2005, the EAP has used private philanthropic donations to
+support the digitization of at-risk materials around the world. In the
+Caribbean, the EAP has supported projects in Haiti, Cuba, Jamaica,
+Montserrat, Turks and Caicos, Anguilla, Nevis, Antigua and Barbuda,
+Barbados, Grenada, St. Vincent, and Colombia.[^2]
+
+The practices of these institutions reflect the transnational nature of
+intellectual networks that have sustained knowledge production about the
+Caribbean. They also facilitate access to disparate collections of
+cultural and political heritage for a putatively global audience. As one
+of the philanthropists behind the EAP has written, "Simply put: if this
+is the memory of the world, the world needs to be able to access
+it."[^3] But technology's power to shape dislocated international
+audiences runs the risk of erasing complex, deeply rooted intellectual
+and institutional histories that underpin every individual collection
+and the libraries that protect them. While efforts to preserve,
+digitize, and expand access to newspapers, ephemera, and state and
+private archives sometimes attempt to redress the violent colonial
+dynamics of the past, the invocation of a global audience that "needs to
+be able to access" materials from around the world runs the risk of
+reinforcing, through a claim to universalism, the "epistemic injustices"
+that shaped such profound inequalities in the first place.[^4] In this
+article, we analyze these dynamics by detailing a 2017--20 pilot grant
+project we organized to digitize nineteenth-century Haitian newspapers
+at the Bibliothèque Haïtienne des Frères de l'Instruction Chrétienne
+(BHFIC), funded by the EAP and implemented with support from dLOC.[^5]
+
+Sweeping digital repositories foster an ease of access and a sense of
+abundance. In the process, the origins and distinct contexts of
+materials can be lost, and with them the labor and insight of those who
+for decades or centuries have safeguarded them.[^6] Before US- and
+UK-based programs like dLOC and the EAP made Caribbean historical
+materials available worldwide, local collectors, librarians, historians,
+and archivists assembled, maintained, and protected Caribbean
+historical-cultural materials while sustaining a number of transnational
+collaborations. This article aims to offset any sense of watershed
+emergence that may accompany digitization by showing how these
+initiatives represent but another chapter in the BHFIC's long
+institutional history. We emphasize the transnational nature of the
+intellectual production and preservation efforts both past and present.
+Finally, we conclude by reflecting on what our experience can illuminate
+about the fraught politics of knowledge production and the tensions
+between an open-access ethos rooted in ideas of universalism and the
+particular preservation efforts, vision, and material needs of the
+BHFIC. This intellectual collaboration unfolds within a context of stark
+material disparity that shaped the digitization process and throws into
+relief critical questions about digital access: specifically, the
+viability of open access or subscription models.
+
+Throughout this article, we underscore the enormous importance of the
+collections in question: twenty-seven different nineteenth-century
+Haitian newspapers, encompassing almost ten thousand pages of printed
+materials. These papers respond to Gina Ulysse's famous call for "new
+narratives" of Haiti by making it possible for readers to explore what
+Haiti and Haitian society meant to the men and women who lived it and
+excavate complex political, social, and intellectual worlds. One of the
+most critical implications is their potential to deepen understanding
+not only of the elite politics that often dominate their pages but also
+all of the popular politics that also emerge. The materials facilitate
+narratives beyond what North Atlantic scholars "desire" Haiti to be (to
+borrow from Chelsea Stieber), shifting analysis away from the symbolic
+importance of the country elsewhere to a better understanding of the
+dynamics of power as they were lived.[^7] These texts present new
+vantage points onto questions of Haitian politics, culture, society, and
+history as seen and represented by Haitians themselves in the nineteenth
+century. They make it possible to see how dynamics from the
+revolutionary period and early independence years transformed or
+continued in subsequent decades. They also highlight the longer
+genealogies of power, politics, imperialism, urban contests, which
+extend into the twentieth century and beyond.
+
+The Newspapers, the Capital, and the BHFIC
+==========================================
+
+The Bibliothèque Haïtienne des Frères de l'Instruction Chrétienne, a
+modest private library on the campus of the prestigious Institution
+Saint-Louis de Gonzague on the rue de Centre, is in the heart of
+downtown Port-au-Prince. The BHFIC collections represent one of the most
+important repositories of Haitian history in the world. The library
+houses approximately ten thousand books on the country's history and
+literature, along with a collection of more than two hundred newspapers.
+It hosts a unique collection of material ephemera, including an
+important set of stamps and coins. The library's primary public is
+Haitian secondary and college students, as well as professors, writers,
+and researchers. Individuals who need to consult legal records also
+frequent the library to find documentation of a legal proceeding or
+decision. "It is a magnificent library," the executive director,
+Marie-France Guillaume, said in a recent interview. "For researchers,
+students, for anyone interested in Haiti whether they are in Haiti or
+abroad, it is a mine of knowledge. A lifetime is not long enough to
+discover everything the library holds."[^8]
+
+Founded in 1912, the BHFIC collections are the product of French
+religious missionary activity in Haiti, which has a long and fraught
+history. After the Haitian state signed a concordat with the Holy See in
+1860, French clergy, especially from the region of Brittany, arrived
+with the purported mission of civilizing and moralizing the
+population.[^9] Indeed, the episcopate focused primarily on the
+"salvation" of Haitians by actively waging campaigns against freemasonry
+and Vodou.[^10] The clergy readily embraced education as one of the most
+effective ways to appeal to the Catholic and Francophile elements of the
+local elite. In this climate, new parochial schools opened in the
+capital. In 1865, the Spiritans founded the Petit Séminaire Collège
+Saint-Martial, with the goal of ​​setting up a school to rival those in
+Paris.[^11] They also established a fire brigade, a small museum, and a
+library. At the end of the nineteenth century, two other congregational
+schools competed with the best public and private establishments in the
+capital: Sainte-Rose de Lima and the Institution Saint-Louis de
+Gonzague, the future home of the BHFIC. These Catholic schools offered
+intellectual training to many who would ascend to the highest ranks in
+the army, commerce, and public administration. Their training at these
+elite institutions contributed to a large extent to the renewal of
+Francophile discourse through the 1930s and 1940s.[^12]
+
+The content of the newspapers held in the BHFIC collections reflects the
+easy intermingling of these elite capital-city residents and
+missionaries at the close of the nineteenth century and into the
+twentieth. The collections offer a treasure trove of information; in
+this article, we gesture only to small representative examples. Their
+collections are replete with articles and commentary offering partial
+and often tendentious records that nevertheless shed a bright light on
+both elite and popular struggles, religious campaigns, cultural
+dynamics, and ordinary life and dreams in Haiti during these decades.
+Writers documented everyday concerns, social happenings, and local and
+international politics. They shared poetry, theater reviews, gossip,
+feuds, and humor. While journalists were often keenly attuned to the
+contests of the political elite, their writings also offer an imperfect
+window into the popular politics of the capital and other cities and
+towns, providing scholars and readers invaluable opportunities to build
+on the scholarship of Georges Corvington and others.[^13] The depth of
+these documents' content likewise presents opportunities to counteract
+US-centric representations of the nineteenth century.[^14]
+
+The journals focus on describing proper comportment and proscribing
+behavior viewed as unseemly among the bourgeoisie, as well as on
+disciplining the Haitian peasantry. In one such instance, a column from
+*Le Patriote* in February 1894 denounces an "extraordinary disorder."
+The author explains how men in the countryside often left their wives
+and went to live with other women. He denounces the practice---"*se
+placer*, as it is vulgarly known"---and describes how parents brought
+children from these relationships to town centers and cities to be
+baptized. The "unfaithful and perjurious" husband would go before a
+civil officer to request *actes de reconnaissance* (birth certificates).
+Officers would grant the documents, the journalist wrote furiously,
+"without even bothering to investigate the true legitimacy of these
+children." All the while, regulations about birth certificates were
+enforced with "rectitude and severity" when it came to residents of the
+capital, the writer complains. The author appears oblivious to the gulf
+between the rights and resources of the peasantry and those of the
+urban-based elite, but the bitterness of these lines hint how, at the
+same time that the bourgeoisie wanted to police the intimate lives of
+peasants, nineteenth-century elites felt that their own intimate lives
+were being policed by the state. "It is completely abnormal that our
+institutions and our laws are not equally practiced and observed by
+all," the columnist gripes.[^15]
+
+Given the stakes of the presidential and municipal political contests
+detailed in the newspapers, the BHFIC's collections offer many scenes of
+popular activism in the heart of the capital as well. In one such
+instance, a journalist writing for the *Revue des Tribunaux* reports a
+dramatic scene unfolding in the streets on 1 May 1843, just a few months
+after President Jean-Pierre Boyer hastily departed Haiti for Jamaica. He
+begins by describing two women loudly and forcefully protesting their
+detainment, as soldiers usher them to jail, on the orders of the
+*commandant de la place*. Whether it was their neighbors, family, or
+simple observers of the injustice, onlookers quickly gathered and
+insisted that the women be afforded a hearing by a justice of the peace
+or be freed. A fight nearly broke out when the soldiers continued
+detaining the women, one of whom was bleeding severely from a head
+wound. In response to increasing public protest, an officer offered to
+appeal to his superiors to request the women's release. "*Point de juge,
+point de condamnation* \[no judge, no conviction\]," members of the
+crowd shouted. "Release them! In the name of the sovereign people!" As
+the writer in the *Revue des Tribunaux* attests, hope (and democratic
+efforts) remained strong in the 1840s in the face of repression and
+uncertainty. "If there had been a judge," the writer insists, "the
+people would have said nothing."[^16]
+
+Critically, the newspapers detail the centrality and recurrence of
+political repression across the decades. In the 1880s and 1890s, the
+dual issues of judicial and penitentiary reform surfaced at the heart of
+public concern. This era is well known as the "age of the
+coco-macaque."[^17] Repression and militarism appear constantly in the
+digitized records, which clearly demonstrate the banalization of state
+violence and authorities' abuse of ordinary citizens. In one such
+example, a journalist writes about a general who ordered the
+imprisonment of a citizen simply because he was smoking as the general
+passed by.[^18] Other articles detail government forces' pursuit,
+imprisonment, and torture of opposition figures, particularly during
+elections. Candidates and their family members were terrorized; others
+withdrew from their races. Meanwhile, various articles describe the
+difficult conditions of jails and the mistreatment of prisoners.[^19]
+While the journalists issued various calls for reform, none was
+forthcoming in these years.
+
+Critique and satire also emerge in the newspapers' pages. They portray
+uneasy class divides but also considerable amusements amid sometimes
+biting political critiques. Editors and journalists at *L'Echo d'Haïti*,
+for example, conceptualized their audience as coming from the elite
+strata of Port-au-Prince. This orientation comes across not only through
+the language and medium (usually written French) but also in topics its
+writers covered, the issues they worried about, and the people they
+mocked. Through its columns, the paper communicated important markers of
+elite respectability and material comforts, such as access to water. In
+August 1894, a journalist groused that recently constructed hydraulic
+services---part of President Florvil Hyppolite's modernizing
+reforms---were failing to meet expectations. "Bathing in these extreme
+temperatures is hardly considered a luxury in the civilized countries
+that surround our 'Pearl of the Antilles,' but here it is!" the writer
+laments. "Certain quarters are so deprived of water that the
+satisfaction of taking a bath is available only to the rich." Urban
+services, and the elite expectation of access, made hygiene and the body
+a metonym for class and nation. The author seems to take the challenges
+(and inequities) in stride, however, concluding sardonically, "*Vive le
+tafia pur*!"[^20]
+
+The above vignettes offer a window on to the wide range of the social,
+political, economic, and environmental themes visible across the pages
+of the BHFIC's now digitized collection of nineteenth-century
+newspapers. Yet these windows might have been forever closed to today's
+students and researchers if not for the attention and labor of Haitian
+collectors and librarians who protected the documents from destruction
+against formidable odds. In the two centuries since Haitians fought for
+and won their liberation, profound international and domestic challenges
+to the stability of the state have complicated archival efforts. Civil
+wars and repeated fires, both accidental and politically motivated, have
+created a major hole in Haitian documentary heritage. These
+conflagrations, too, emerge in the newspaper collections.[^21] The
+capital was particularly vulnerable to such turmoil because it was the
+seat of political power and thus a site of conquest for competing
+candidates. The streets surrounding the library have served as the heart
+of many battles over the presidency, Congress, and foreign interference,
+as newspapers in the BHFIC's collection Illuminate.
+
+These newspapers were first collected and safeguarded by private hands.
+The history of these collections has been recorded and retold by the
+directing clergy of the BHFIC; we reproduce parts of the history
+here.[^22] Prior to the foundation of the Bibliothèque Nationale d'Haïti
+(1940), private collectors---including Edmond Mangonès, François-Denys
+Légitime, and Horace Pauléus Sannon---preserved important collections of
+books, newspapers, and ephemera. Students, intellectuals, and the
+general public wishing to engage with the various aspects of these
+decades of Haiti's social, cultural, political, and economic life faced
+significant challenges. In this context, at Saint-Louis de Gonzague,
+Brother Ernest-Louis Dion gathered some of the first collections that
+would become the holdings of the BHFIC. Initially, he and other
+missionaries acquired many titles in France on the banks of the Seine.
+Quite quickly, the missionaries began to collect collections of rare
+newspapers, archival items, and old books. French scholarly and
+journalistic production on Haiti was quite important in the nineteenth
+century.[^23]
+
+The BHFIC's collections have helped students of the Institution
+Saint-Louis de Gonzague better understand the history and geography of
+Haiti. The library was part of an expanding intellectual network and
+reading public throughout the country. In the crucible of pressure of
+the US military occupation, intellectuals founded the Société d'Histoire
+et de Géographie in 1923. The organization brought together collectors
+and intellectuals, including history and geography teachers. In this
+heady ferment, Frères de l'Instruction Chrétienne decided to open their
+collections to a wider public. Two bibliophiles, Ulrick Duvivier and
+Antoine Michel, lent their invaluable support by providing the library
+with cases of books and sizable newspaper collections. In 1927, Michel
+proposed the creation of a more suitable room for public reading and the
+installation of metal cabinets to better preserve the holdings.[^24]
+Upon becoming principal director, Brother Hyppolite-Victor Géreux,
+former archivist of the congregation in Ploërmel, Brittany, initiated
+construction of this vision. All the while, he continued acquiring new
+holdings, drawing funds from the institution's budget to purchase
+Haitian publications. During his own travels to London and Paris, he
+avidly collected from booksellers.
+
+Many of the newspapers digitized through our EAP grant, as well as other
+documents, benefited from the expertise, time, and care of Asrel
+Laforest *fils*, who, like his father, worked as a notary. His father
+was a signatory of many public acts at the beginning of the twentieth
+century and himself known to be a great collector. In 1930, Laforest
+offered a fine collection of newspapers from the nineteenth and early
+twentieth centuries to the BHFIC. Galvanized by this donation, the
+Brothers began collecting *Le Moniteur* and the country's main
+newspapers in earnest. When Brother Chrysostome Jouquand made the first
+inventory of the BHFIC's holdings in 1936, its collection boasted four
+thousand titles.[^25]
+
+In 1958, under the leadership of Brother Lucien Jean Legendre, library
+scholars produced a comprehensive catalog of BHFIC holdings that spans
+533 mimeographed pages.[^26] In 1970, the Haitian state recognized the
+Bibliothèque Haïtienne des Frères de l'Instruction Chrétienne as
+*d'utilité publique*, a status conferring certain rights and
+support.[^27] Since then, with financial support from the Association
+des Anciens \[Alumni Association\] de Saint-Louis de Gonzague and
+donations from individuals, publishers, and cultural institutions, the
+library's catalog has grown and now contains approximately twenty
+thousand titles as well as one of the most important collections of
+Haitian newspapers from the nineteenth and twentieth centuries.
+
+In recent decades, many scholars and writers from the Caribbean, the
+United States, France, and Haiti have visited the BHFIC for research.
+Some researchers have donated specialized books; historian Gabriel
+Debien and Haitian writer Léon Laleau are two notable examples. In the
+early 1980s, Léon-François Hoffmann, professor at Princeton University,
+undertook the first efforts to preserve fragile documents through a
+Latin American Materials Project (LAMP) Initiative, funded by the Ford
+Foundation. The project created microfilm collection of 330 Haitian
+newspapers and journals selected specifically because they were titles
+"not held by other libraries in Haiti or elsewhere."[^28] This
+impressive collection is held at the Center for Research Libraries.[^29]
+
+The BHFIC and the Digital Turn
+==============================
+
+In the 2000s, advances in digital technologies opened up new avenues of
+collaboration around issues of archives and preservation. dLOC began
+coordinating its consortium of international partners in 2004; several
+participating institutions were located in Haiti, including the National
+Archives. This network proved critical in January 2010, when
+Port-au-Prince was devastated by a major earthquake. As always following
+disasters, the first responders were members of the local community.
+Library staffs acted quickly to recover books and collections from the
+debris. The Haitian International Council of Museums organized a task
+force, known as *SOS Patrimoine en Danger*, to coordinate and support
+endangered libraries and collections.
+
+Thankfully, the BHFIC building was not compromised structurally by the
+earthquake. The holdings were damaged when shelves fell over and dumped
+papers and volumes onto the ground, but they were not crushed. The
+following month, Brooke Wooldridge, dLOC director, and Matthew Smith,
+professor at the University of the West Indies, Mona, went on a mission
+to Port-au-Prince to meet with local partners and discuss how dLOC could
+assist with efforts to protect and preserve Haitian collections while
+helping local institutions strengthen their institutional capacity. The
+initiative was called Preserving Haitian Patrimony. "Even before the
+earthquake, the needs of these institutions were great," dLOC's
+newsletter observed. "Chronic underfunding of these institutions makes
+intervention in the aftermath of the earthquake even more necessary. At
+the same time, it is more difficult to separate pre- and post-
+earthquake needs. It is impossible to only focus on earthquake-related
+needs."[^30]
+
+This moment represented a further pivot toward digitization. dLOC and
+its Haitian partners decided that "intensive digitization training would
+best contribute to a significant long-term impact on . . . preservation
+and access to Haitian patrimony."[^31] In July 2011, dLOC brought five
+library technical staff from several Haitian institutions, including the
+BHFIC, to Florida International University for a ten-day workshop. In
+2011--12, the BHFIC formally affiliated with the dLOC network. In
+subsequent years, dLOC brought materials to install a state-of-the-art
+digitization station in the basement of the library.
+
+In 2016, a four-person team of Haitian and US scholars assembled to
+apply for funding from the British Library's Endangered Archive
+Programme to help further support digitization at the BHFIC. Our team
+consisted of three US historians of Haiti, Anne Eller, Claire Antone
+Payton, and Erin Zavitz, and a Haitian sociologist, Lewis Ampidu
+Clorméus. Each of us had conducted research at the library and
+recognized the unique value of its collections. We also had learned that
+certain holdings were in such delicate condition that they were
+protected from consultation. After learning about the EAP from British
+writer Paul Clammer on Twitter, we initiated the application to secure
+support for the BHFIC to digitize these fragile and deteriorating
+newspapers. Working across time zones, we developed our grant in a
+collective Google Docs draft, working independently on different
+sections and meeting regularly over conference calls to discuss
+progress.
+
+In 2017, the EAP accepted our proposal, "Beyond the Revolution:
+Bibliothèque Haïtienne des Frères de l'Instruction Chrétienne
+Collections: Bringing Nineteenth-Century Haitian History to the World."
+It was important that our project complement and expand earlier
+BHFIC-dLOC collaborations and dovetail with any digitization
+infrastructure already in place. We knew that success would depend on
+working closely with both the library's executive director, Marie-France
+Guillaume, and the director of dLOC, Miguel Asencio. Based on Asensio's
+recommendations, our grant proposed to buy a Canon EOS 6D, wired remote,
+a Tiffin color check, fluorescent light kit, light bulbs, battery
+backup, an iMac with additional RAM, an external hard drive, shock- and
+drop-resistant portable hard drives, memory cards, and a memory card
+reader. With these materials, the library would be outfitted with two
+state-of-the-art digitization stations. Our grant also funded the
+salaries of two technicians for over a year, which doubled the size of
+the staff dedicated to digitization. It also covered the cost of
+high-speed wireless internet for the library. These investments,
+especially the equipment and the funding to train and employ
+technicians, reflect the EAP's commitment to building up the
+institutional capacity of local communities.[^32]
+
+After the funding was in place, the project launched slowly. One
+unforeseen obstacle was the destruction wrought across the region by
+Hurricane Maria. While Haiti was spared the brunt of that storm, many
+other Caribbean islands were not. dLOC sprang into action, mobilizing to
+help its partners get the resources and support they needed to recover.
+A planned BHFIC digitization training was delayed while dLOC attended to
+other needs. In November 2017, Miguel Asencio and Claire Antone Payton
+traveled to Port-au-Prince to transport equipment and host the workshop
+for technicians at the library and several other local cultural
+institutions. They worked with Guillaume and digitization specialist
+Wandred Pierre to set up the stations, install software, and review
+grant terms and conditions. Then the library team created an inventory
+of the nineteenth-century newspapers in the holdings and evaluated which
+could be digitized and which were too damaged.
+
+By the time the grant ended in 2019, Pierre and his colleague Angerlo
+Mondésir had digitized 1,155 separate issues from twenty-seven different
+publications, amounting to nearly ten thousand pages of printed
+materials. The issues range from the 1840s to the turn of the twentieth
+century. While many of the newspapers were published in Port-au-Prince,
+a significant number of others, such as *Le Vœu Populaire*, were
+published in Cap-Haïtien and elsewhere, providing insight into Haiti's
+complex nineteenth-century political, cultural, and economic
+geographies. As a result of the labor of Pierre and Mondésir, Guillaume
+and Asencio, and our team, this remarkable collection is now freely
+available to researchers around the world on the dLOC and British
+Library websites.
+
+Material and Digital Futures 
+=============================
+
+Our project contributes to a larger wave of critical
+scholarship-activism that mobilizes the digital to center Haitian
+perspectives, collaborates on the preservation of critical Caribbean
+historical-cultural material, and challenges the exclusion of Caribbean
+knowledge production from North Atlantic scholarship. The goal of this
+work is to dismantle colonial silos of knowledge production and create
+more inclusive discourses and historical imaginaries that thicken the
+connections between Haitian intellectual production and writing about
+Haiti produced beyond its shores. As Chelsea Stieber, Laura Wrubel, and
+Watson Denis have argued, "It is precisely because Caribbean sites of
+knowledge production exist outside of---and in critique of---North
+Atlantic infrastructures of information that it becomes acceptable,
+common even, for scholarship produced outside Haiti to leave them
+uncited and unread."[^33] Stieber's effort to build a digital index of
+Haiti's leading social science journal, the *Revue de la Société
+Haïtienne d'Histoire, de Géographie et de Géologie* (*RSHHGG*)*,* makes
+a significant collection of Haitian scholarship visible and accessible
+to scholars in and outside of Haiti. Similarly, Marlene Daut's
+painstaking work collecting digital copies and transcribing issues of
+the two official newspapers from the administration of Henry Christophe,
+the *Gazette Officielle* and *Gazette Royale d'Hayti,* facilitates new
+and complex engagements of the history of Haitian sovereignty.[^34]
+Other recent projects include a grant from the Omohundro Institute of
+Early American History and Culture to fund a project led by Jennifer
+Palmer, Julia Gaffield, and Patrick Tardieu that will digitize and
+upload some collections from the Bibliothèque Haïtienne de Spiritains to
+an affiliate site of Gallica.fr.[^35]
+
+This critical approach extends to documents from the twentieth and
+twenty-first centuries. Under the brilliant stewardship of Duke
+University archivist Laura Wagner, the records and recordings of Jean
+Dominique's Radio Haiti are now available online.[^36] This project is
+particularly important because, unlike many newspapers, Radio Haiti was
+an integrated part of Haitian popular culture. As Wagner and historian
+Jennifer Garçon have argued, radio in Haiti is more democratic than
+print culture because it is relatively inexpensive and stations like
+Radio Haiti broadcast in Haitian Krèyol.[^37]
+
+Each of these projects, in their own way, has grappled with the reality
+that efforts to democratize Haitian historical sources are constrained
+by the same unequal power dynamics that they seek to challenge. Daut
+observes that these endeavors represent "a crossroads, where
+institutions, scholars, the public, and the spirits of Haiti must meet
+on uneven, and sometimes conflictual, terrain."[^38] For example,
+Stieber's work resulted in a digital index of titles and topics in the
+*RSHHGG* rather than direct access to digitized articles because the
+society's leadership opposed "any digitization \[given\] valid concerns
+that digitization alone would not ensure North Atlantic scholars'
+engagement with Haiti and its institutions."[^39] In addition to
+breaking linguistic barriers of access by advocating for funding of a
+completely trilingual Krèyol-French-English Radio Haiti, Wagner works to
+overcome disparities in internet access by distributing the digitized
+recordings materials on thumb drives to libraries, radio stations, and
+cultural institutions throughout Haiti.
+
+Our own project was no different. Evaluating the importance and the
+limitations of the EAP grant requires reflection, honesty, and dialogue.
+We are responding to an invitation to reflect on our subject position in
+order to mediate "epistemic harms in the open projects we promote,
+facilitate, and design."[^40] Despite our best efforts, there were
+moments when we were confronted with structural inequalities that
+transcended yet channeled through us. For instance, the choice to focus
+on digitizing nineteenth-century papers rather than other collections
+was delimited by our grant application. And once digitization began, our
+collaborators at the library, keenly aware of long histories of theft
+and dispossession, expressed skepticism about the project's predatory
+potential. They were perhaps more savvy about the power dynamics
+underpinning open access digitization than we initially were. As the
+project was getting off the ground, they paused the work to ask whether
+the terms of the grant stipulated that *everything* the library
+digitized would subsequently belong to the British Library. After
+clarifying that only the nineteenth-century newspapers we had agreed
+upon while drafting the EAP proposal would be shared, the project
+continued smoothly.
+
+Yet this exchange highlighted how the social locations within our
+collaboration created divergent perspectives on the stakes of open
+access. Our different positions put us, the EAP, dLOC, and the BHFIC on
+"uneven, sometimes even conflictual, terrain" with respect to sharing
+materials. While library leadership appreciated the infusion of
+much-needed resources that our grant represented, they questioned the
+concomitant obligation to "open up" access to their holdings. Even as we
+tried to design our project to maximize its potential to strengthen the
+library's institutional capacity, it nevertheless invoked colonial
+dynamics of extraction. This negotiation underscored how the fate of the
+newspapers should not be separated from the fate of the library that has
+maintained them for all these years.
+
+This larger tenor of uneven exchange can sometimes be rendered invisible
+by enthusiastic discourse originating in powerful institutions in the
+global North around digitization's felicitous potential for
+democratization (and preservation, of a sort). Based on our experience,
+by permitting its funds to be used for employee salaries---a form of
+direct institutional support---rather than limiting them to in-kind
+donations, the EAP is more responsive to this reality than many other
+international funding organizations.
+
+But direct resource transfers do not ultimately rectify the power
+differentials that separate the BHFIC from institutions like the British
+Library or the University of Florida. Any prestige associated with the
+holdings passes from the Haitian library to dLOC and the British
+Library. Any revenue directly or indirectly associated with internet
+traffic is conferred to the digital repositories rather than the
+original institution. While the documents may gain greater prominence
+and visibility, the library itself is rendered invisible or
+marginalized---a detail in the metadata of the online files.
+
+The digital life of the newspapers also changes their relationship to
+local and larger audiences. In the hands of dLOC and the British
+Library, the primary audience for the papers is now "global," whereas
+the original collectors who donated them did so with the hope that they
+would help educate generations of Haitian students about their country's
+history. Digitization creates new research methodologies that sometimes
+fully supplant in-person scholarly exchanges, sojourns, conversations,
+and projects. As Lara Putnam observes, digital research that is
+scaffolded by simple term searching, "side-glancing," and "drive-by
+transnationalism," naive to local historical or current debates or
+relevance, clearly represents a pitfall of digitization, even if the
+casualization of the academy and productivity pressures also present
+challenges to deep engagement.[^41]
+
+The issue of hosting these materials online opens up important questions
+regarding sovereignty and control. As Stieber, Wrubel, and Denis
+observe, the infrastructures of information maintenance are themselves
+"often invisible and institutionally siloed."[^42] Transnational
+scholarly collaboration and digital preservation work needs to firmly
+address inequalities within the material world of knowledge production.
+Projects should honor the local institutions. We have attempted to model
+this here by situating our EAP grant as a recent chapter in the long
+history of the BHFIC and the collection. But is there any potential for
+this recognition to go beyond the symbolic and arrive at the material?
+Put otherwise, are additional local-global digital projects possible
+that will provide concrete and economic support to sustain these
+institutions into the future? Can we support online access models that
+are equitable rather than equal for the institutions involved?
+
+There are some imperfect models for how to approach these questions. Our
+project represents one possibility; for it to become sustainable, there
+would have to be a succession of grants from funders like the EAP
+offering opportunities for direct institutional support. Another
+possibility is investment in the material restoration of historical
+documents. Unfortunately, physical restoration is prohibitively
+expensive. According to the estimates of Marie-France Guillaume and
+Miguel Asencio, the cost of repairing the newspapers to the point that
+they could be circulated would cost approximately \$10,000 per title. A
+third model is that of the *RSHHGG* indexing project. In that case, the
+titles and topics of an important intellectual resource have been shared
+online, but the content itself remains offline. Stieber and the *RSHHGG*
+came up with this approach to mobilize already existing university
+infrastructures (such as Interlibrary Loan) to provide digitized access
+to international scholars. This does not directly translate into revenue
+for Haiti's leading intellectual society, but it creates transnational
+exchange without foreclosing the possibility of a paywall model that
+turns interest in Haitian intellectual production into material support.
+Describing the *RSHHGG* Lab, Daut writes, "Thus we might say that \[it\]
+has provided a model for a digital project that has the capacity to
+ensure that Haitian scholars are neither silenced nor exploited."[^43]
+
+After implementing our EAP open access digitization grant, we have come
+to support this fourth model: paywalls. This approach deviates from the
+open access ethos that underpins many digitization projects, including
+our own. Open access emerged as a powerful tool for challenging the
+control of publishing corporations such as Elsevier, who have created
+monopolies in the knowledge economy and used exclusion and control to
+rake in enormous profits. The academic publishing giant had a reported
+2019 revenue of 2.64 billion pounds sterling.best
+
+W
+
+eighteen , which
+
+the ,
+
+and related Port-au-Prince BHFIC,-
+
+the ,nineteenth
+
+[^1]: Michel-Rolph Trouillot, *Silencing The Past: Power and the
+    Production of History* (Boston: Beacon, 1995).
+
+[^2]: British Library, "Welcome to the Endangered Archives Programme,"
+    accessed 18 June 2021,
+    <https://eap.bl.uk/welcome-endangered-archives-programme>.
+
+[^3]: Lisa Rausing and Peter Baldwin, introduction to Maja Kominko, ed.,
+    *From Dust to Digital: Ten Years of the Endangered Archives
+    Programme* (Cambridge, UK: Open Book, 2015), xxxviii.
+
+[^4]: Denisse Albornoz, Angela Okune, and Leslie Chan, "Can Open
+    Scholarly Practices Redress Epistemic Injustice?," in Martin Paul
+    Eve and Jonathan Gray, eds., *Reassembling Scholarly Communications:
+    Histories, Infrastructures, and Global Politics of Open Access*
+    (Boston: MIT Press, 2020). See also Marlene L. Daut, "Haiti @ the
+    Digital Crossroads: Archiving Black Sovereignty," *archipelagos* 3
+    (July 2019), https://archipelagosjournal.org/issue03/daut.html;
+    Chelsea Stieber, Laura Wrubel, and Watson Denis, "Cross-Boundary
+    Digital Collaboration as Scholarly and Institutional
+    Experimentation: Amplifying the Impact of Caribbean Periodicals,"
+    *archipelagos* 4 (March 2020),
+    https://archipelagosjournal.org/issue04/stieber-experimentation.html.
+
+[^5]: The library is also colloquially known as the "Bibliothèque de
+    Saint-Louis" given that it is the library maintained by alumni of
+    the Institution Saint-Louis de Gonzague, a primary and secondary
+    school discussed at length in this article. Sometimes others refer
+    to it in English as the "Gonzague Library."
+
+[^6]: On these and other pitfalls, see Lara Putnam, "The Transnational
+    and the Text-Searchable: Digitized Sources and the Shadows They
+    Cast," *American Historical Review* 121, no. 20 (2016): 377--402.
+
+[^7]: Chelsea Stieber, *Haiti's Paper War: Post-independence Writing,
+    Civil War, and the Making of the Republic, 1804--1954* (New York:
+    NYU Press, 2020), 1, 258.
+
+[^8]: Interview with Marie-France Guillaume, 15 June 2021.
+
+[^9]: Lewis A. Clorméus, "Aspects des relations entre l'Église et l'État
+    en Haïti: Le concordat du 28 mars 1860," *Revue de droit canonique*
+    64, no. 2 (2014): 277--309; Julia Gaffield, "The Racialization of
+    International Law in the Aftermath of the Haitian Revolution: The
+    Holy See and National Sovereignty," *American Historical Review*
+    125, no. 3 (2020): 841--68.
+
+[^10]: Lewis A. Clorméus, "À propos de la première campagne
+    anti-superstitieuse (1896--1900)," *Chemins Critiques* 6, no. 2
+    (August 2019): 89--114; Clorméus, "Les stratégies de lutte contre la
+    'superstition' en Haïti au XIX^e^ siècle," *Journal of Haitian
+    Studies* 20, no. 2 (2014): 66--87; Clorméus, "La soutane contre le
+    tablier: Au cœur des tensions entre le clergé breton et la
+    franc-maçonnerie haïtienne au XIX^e^ siècle (1867--1900)," *Histoire
+    Monde et Cultures Religieuses*, no. 29 (March 2014): 33--56;
+    Clorméus, "Haïti et le conflit des deux 'France,'" *Chrétiens et
+    Sociétés*, no. 20 (2013): 63--84. See also Kate Ramsey, *The Spirits
+    and the Law: Vodou and Power in Haiti* (Chicago: University of
+    Chicago Press, 2011).
+
+[^11]: Georges Corvington, *Port-au-Prince au cours des ans: La
+    métropole haïtienne du XIXième siècle, 1804--1888*, 3rd ed.
+    (Port-au-Prince: Henri Deschamps, 1977), 127.
+
+[^12]: Lewis A. Clorméus, *Le vodou, le prêtre et l'ethnologue: Retour
+    sur la polémique Joseph Foisset / Jacques Roumain (Haïti, 1942)*
+    (Paris: Maisonneuve & Larose / Hémisphères, 2020).
+
+[^13]: Of his multiple books written about the city, see especially
+    Corvington, *Port-au-Prince au cours des ans: La métropole haïtienne
+    du XIXième siècle, 1804--1888*, and *Port-au-Prince au cours des
+    ans: La métropole haïtienne du XIXième siècle, 1888--1915*
+    (Port-au-Prince: Imprimerie Henri Deschamps, 1976).
+
+[^14]: Daut, "Haiti @ the Digital Crossroads."
+
+[^15]: "Un fait anormal dans l'observance de nos institutions civiles,"
+    *Le Patriote*, 8 February 1894. On popular efforts to seek inclusion
+    through notaries, see also Winter Rae Schneider, "Between
+    Sovereignty and Belonging: Women's Legal Testimonies in
+    Nineteenth-Century Haiti," *Journal of Caribbean History* 52, no. 2
+    (2018): 117--34.
+
+[^16]: "Un arrêt du peuple souverain," *Revue des Tribunaux*, 1 May
+    1843, 146. For a larger gendered discussion of some of these
+    nineteenth-century contests reported in these collections and in
+    newspapers held at the Archive Nationale d'Haïti, see Anne Eller,
+    "Skirts Rolled Up: The Gendered Terrain of Political Protest in
+    Nineteenth-Century Port-au-Prince," *Small Axe*, no. 64 (March
+    2021): 61--83.
+
+[^17]: Lewis Ampidu Clorméus, "Le militarisme au fondement de
+    l'acceptabilité de l'arbitraire en Haïti au XIX^e^ siècle," in
+    Bérard Cénatus, Stéphane Douailler, Michèle Pierre-Louis, and
+    Étienne Tassin, eds., *Haïti: De la dictature à la démocratie?*
+    (Montreal: Mémoire d'Encrier, 2016), 105--20.
+
+[^18]: "Assez de la prison," *Le Réveil* (Cap-Haïtien), 18 February
+    1893, 3.
+
+[^19]: Other articles detail a need to build more jails, a sentiment
+    authorities echoed. Justice of the Peace Azaël Nicolas reported to
+    the secretary of state for justice that "in the absence of a prison
+    in my neighborhood, justice is unable to \[repress\] the disorders"
+    at the Organized Mountains. Letter of 6 May 1894, ANH-Justice, File
+    13024, p. 4.
+
+[^20]: For a larger discussion of class, urban planning, and the
+    production of an equal access to water, see Claire Antone Payton,
+    "City of Water Port-au-Prince, Inequality, and the Social Meaning of
+    Rain," *Journal of Urban History*, 23 February 2021, 1--22,
+    https://doi.org/10.1177/0096144221992030.
+
+[^21]: "Incendie à Port-au-Prince," *La Justice*, 18 February 1890.
+
+[^22]: Brother Ernest Even, who directed the BHFIC from the 1980s until
+    after the 2010 earthquake, communicated the history of the library's
+    collections to Lewis Ampidu Clorméus in 2010; the BHFIC maintains
+    internal documents recording these contributions.
+
+[^23]: Watson R. Denis, "​​Origins and Manifestations of Haitian
+    Francophilia: Nationalism and Foreign Policy in Haiti (1980--1915),"
+    *Secuencia*, no. 67 (January--April 2007): 93--139.
+
+[^24]: Clorméus, personal communication with Even, 2010.
+
+[^25]: Clorméus, personal communication with Even, 2010.
+
+[^26]: Lucien-Jean Legendre, "*The Catalogue of the Haitian Library of
+    the Brothers of Christian Instruction, Port-au-Prince, Haiti W.I.,"*
+    master's thesis, Graduate School of Saint Michael's College, 1958.
+
+[^27]: Article 2 of the law of 8 July 1921 regarding the recognition of
+    public utility (la reconnaissance d'utilité publique) specifically
+    recognizes private organizations that do work for the public good
+    with a specific civic personality as dictated by the constitution
+    and other laws ("une personnalité civile et tous les droits qui en
+    découlent dans la mesure stricte où leur but déclaré le réclame et
+    dans les limites fixées par la Constitution et les Lois."). "Comment
+    créer une ONG et une fondation au regard de la loi?," *Le
+    Nouvelliste*, 24 September 2015,
+    https://lenouvelliste.com/article/150298/comment-creer-une-ong-et-une-fondation-au-regard-de-la-loi.
+
+[^28]: Center for Research Libraries, "Guide to LAMP Collections,"
+    accessed 18 June 2021, <https://www.crl.edu/book/export/html/1215>.
+
+[^29]: Center for Research Libraries, "Haitian Periodicals in the Saint
+    Louis de Gonzague Collection," accessed 18 June 2021,
+    <https://www.crl.edu/sites/default/files/d6/attachments/pages/Haitian%20periodicals.pdf>.
+
+[^30]: Brooke Wooldridge, "Protecting Haitian Patrimony Initiative:
+    Initial Assessment and Recommendations" (Florida International
+    University, 26 February 2010), <https://dloc.com/UF00098694/00001>.
+
+[^31]: Brooke Wooldridge, "Protecting Haitian Patrimony Initiative:
+    Update" (Florida International University, June 2011),
+    <https://dloc.com/UF00098694/00010/1j>.
+
+[^32]: Anthea Case, "From Dust to Digital: Ten Years of the Endangered
+    Archives Programme," in Kominko, *From Dust to Digital*, [xlv,
+    https://doi.org/10.11647/OBP.0052](https://doi.org/10.11647/OBP.0052).
+
+[^33]: Stieber, Wrubel, and Denis, "Cross-Boundary Digital
+    Collaboration."
+
+[^34]: Daut, "Haiti @ the Digital Crossroads."
+
+[^35]: Prior to its reopening in 2019, this library was known as
+    Bibliothèque Haïtienne des Pères de Saint-Esprit. Due to the
+    devastation of the January 2010 earthquake, the library had been
+    closed to full public access for the preceding nine years.
+
+[^36]: Laura Wagner, "*Nou toujou la!* The Digital (After-)Life of Radio
+    Haïti-Inter," *archipelagos* 2 (September 2017),
+    <http://smallaxe.net/sxarchipelagos/issue02/nou-toujou-la.html>.
+
+[^37]: Jennifer Garçon, "Haiti's Resistant Press in the Age of
+    Jean-Claude Duvalier, 1971--1986" (PhD diss., University of Miami,
+    2018).
+
+[^38]: Daut, "Haiti @ the Digital Crossroads."
+
+[^39]: Stieber, Wrubel, and Denis, "Cross-Boundary Digital
+    Collaboration."
+
+[^40]: Albornoz, Okune, and Chan, "Can Open Scholarly Practices Redress
+    Epistemic Injustice?," 72.
+
+[^41]: Putnam, "The Transnational and the Text-Searchable," 382, 397.
+
+[^42]: Stieber, Wrubel, and Denis, "Cross-Boundary Digital
+    Collaboration."
+
+[^43]: Daut, "Haiti @ the Digital Crossroads."

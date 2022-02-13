@@ -1,0 +1,269 @@
+*Perry Collins and Hadassah St. Hubert*
+
+The idea of a Caribbean library digitization project took root at the
+Association of Caribbean University, Research and Institutional
+Libraries (ACURIL) annual meetings in 2002. Judith Rogers, known as the
+"founding mother" of the Digital Library of the Caribbean, envisioned a
+platform that could provide access to cultural, historical, and research
+materials held in archives, libraries, and private collections
+throughout the Caribbean. Together with Erich Kesse at the University of
+Florida (UF) and Catherine Marsicek at Florida International University
+(FIU), Rogers established a working group that presented findings at
+ACURIL in 2004. A successful proposal to the US Department of
+Education's Technological Innovation and Cooperation for Foreign
+Information Access supported creation of dLOC, a centralized repository
+of Caribbean information resources relying on decentralized
+digitization. According to dLOC's website, five Caribbean and four
+US-based libraries officially established dLOC on 17 July 2004 at an
+ACURIL planning meeting in San Juan, Puerto Rico.
+
+dLOC began as a grant-funded program; today, it relies on both grants
+and in-kind support from library and archive professionals, scholars,
+and educators. It is currently administered by UF and FIU, hubs for
+hosting and facilitating shared governance, technological
+infrastructure, professional development, and outreach. The original
+network of nine founding institutions has grown to nearly eighty
+partners in the United States, the Caribbean, Canada, Central and South
+America, and Europe. dLOC has emphasized people, partnerships,
+collaboration, and building trust in regions and communities that have
+witnessed the theft and extraction of their cultural patrimony.
+Long-term work on preservation and digital access requires sustained
+commitment to build trust with partners who are cautious of engagement,
+especially with US-based academic institutions.
+
+In this special issue of *archipelagos*, contributors delve into dLOC's
+collections and engage with the ways scholars and students have created,
+contributed, and utilized content across disciplines and geographies.
+Nearly twenty years after dLOC was established, the preservation of and
+access to Caribbean patrimonial materials remains critical and has only
+grown in importance with the impacts of climate change, political
+instability, and lack of funding, and the very real threat to
+sustainability of physical collections. The issue's contributors
+acknowledge and reflect on their own positionality as scholars and
+teachers working with or in US institutions while trying to provide
+access to cultural knowledge and history across diasporas. They draw
+from their experiences across the Caribbean in safeguarding cultural
+heritage through collaborations and partnerships that can be at times
+fraught with tension and complex power dynamics. Their goals often
+include pathways to decolonize knowledge on the ground and to
+disseminate knowledge beyond academic audiences.
+
+Navigating and Negotiating Digitization
+=======================================
+
+The creation of digital collections, including scoping, scanning, and
+describing materials, is a major focus of the issue and reflects dLOC's
+original emphasis on broadly expanding access. Natália Marques da Silva,
+Jean Mozart Féron, and Mireille Fombrun Mallebranche discuss
+sustainability and capacity to steward digitized objects. Through
+partnership and collaboration with dLOC, Musée Ogier-Fombrun has begun
+to catalog and digitize its collection and archives to promote
+accessibility while safeguarding its materials as Haiti endures the
+COVID-19 pandemic and persistent crises.
+
+One-sided "partnerships" by institutions in the Global North have led
+many archives in the Caribbean to distrust universities, scholars, and
+other actors. Claire Payton, Anne Eller, and Lewis Ampidu Clorméus
+discuss these tensions during their project, funded by the Endangered
+Archives Program, to digitize nineteenth-century Haitian newspapers at
+the Bibliothèque Haïtienne des Frères de l'Instruction Chrétienne with
+dLOC support. While important to scholars and other researchers, support
+for archivists, librarians, and cultural heritage has not been at the
+forefront of government investment in the Caribbean. As archives
+struggle financially, facilitating access to archival materials can be
+seen as one pathway to support operational costs. The authors examine
+assumptions around open-access models and their potential to undermine
+equity as well as promote it; they call for centering local institutions
+in ways that "provide concrete and economic support."
+
+Language, Sound, and Memory
+===========================
+
+Several contributors highlight preservation of audiovisual, sonic, and
+oral history materials and the potential for access to such materials to
+"combat silences," decolonize the archives, and engage local
+communities. The Archivo de Respuestas Emergencias de Puerto Rico
+(AREPR) project, co-led by authors Ricia Anne Chansky and Christina
+Boyles, refers to a digital repository of Puerto Rican emergency
+response artifacts pertaining to Hurricanes Irma and María (2017),
+earthquakes (2019--present), and COVID-19. AREPR and dLOC are working
+together to make these materials accessible while preserving the
+experiences of Puerto Ricans throughout climate crisis. Their work
+reinforces the personal voices of Caribbean community members, on the
+frontlines of an ongoing "climate emergency."
+
+Nicté Fuller Medina reflects on digital repatriation and access,
+considering ways to make linguistic and cultural knowledge accessible to
+source communities. Fuller Medina delves into a case study of a
+collection recorded in the late 1970s focused on sociolinguistic
+analysis of the Spanish spoken in Belize. This essay should resonate
+with readers immersed in theoretical, ethical, and practical approaches
+to stewarding aural materials created half a century or more ago. Like
+Chansky and Boyles, Fuller Medina considers ways of stewarding and
+sharing collections in ways that center community perspectives and
+patrimony.
+
+Pedagogy and Student Engagement
+===============================
+
+dLOC's significance lies not only in its role as a preservation
+repository but also as a platform that exposes students to primary
+sources that prompt more textured understandings of the Caribbean and
+the Caribbean diaspora. Ivelisse Rivera Bonilla and Nadjah Ríos
+Villarini discuss the importance of authentically connecting students
+with communities outside the university, looking specifically to the
+Archivo Histórico de Vieques, a group of community archives stewarding
+physical and digital archival materials relating the struggle against
+the military presence by the US Navy. Through their course, students
+engaged with histories of colonialism in Puerto Rico and developed
+digital stories around items in the collection.
+
+Similarly examining pedagogical frameworks that probe "local and global
+articulations of power and resistance," Molly Hamm-Rodríguez and Lisa
+Ortiz examine how the layering of text and archival materials from dLOC
+can support secondary students' understanding of literature. The authors
+recommend relevant thematic materials in dLOC that align with and
+contextualize three texts tracing the experience of Afro-Caribbean
+protagonists in adolescence. Encouraging teachers to prioritize a
+nuanced, critical lens, the authors "caution against pedagogical
+approaches that produce singular narratives about the Caribbean."
+
+Interpreting and Contextualizing
+================================
+
+Other contributors have modeled dLOC's significance as a vast research
+collection while reflecting on gaps and potential for further growth;
+while far from comprehensive, its 4 million pages of content provide
+entry points that interconnect across geographies. René J. Kooiker's
+piece about Edward Kamau Brathwaite at Carifesta 1972 attests to how
+researchers have been able to use dLOC to reconstruct anticolonial
+movements and historical events in the Caribbean using newspapers and
+ephemera provided by dLOC partners. In her essay on the 1970s feminist
+periodical *El* *Tacón de la Chancleta*, Elizabeth Crespo Kebler
+describes an effort to make coverage of abortion, women's health,
+childcare, and so on more visible in Puerto Rico while highlighting the
+magazine's role in spurring international conversation and activism
+across Latin America. Laura Vargas Zuleta describes the collaborative
+process of developing public digital scholarship that interprets a
+fictional text through the lens of contemporary events, forging
+interpretive connections between René Depestre's *Hadriana dans tous mes
+rêves* and events documented in the Haitian newspaper *Le Nouvelliste*.
+
+These three essays all draw on a major strength of dLOC: its large
+collections of Caribbean newspapers from the eighteenth to the
+twenty-first centuries. Newspapers make up about 25 percent of digital
+content in the collection, and facilitating access is one area that has
+seen considerable investment from hub institutions, partners, and
+funders. While not heavily featured in this issue, increasingly
+researchers are seeking out new ways to analyze these titles at scale
+and to recover or reconstitute histories. The March 2020 issue of
+*archipelagos* featured work by Amalia Levi and Tara Inniss to piece
+together experiences of enslaved people reported in the *Barbados
+Mercury Gazette*, a white colonialist newspaper shared in dLOC.[^1] In
+2020--21, we co-led (with Miguel Asencio and Jamie Rogers at FIU) dLOC
+as Data, an initiative to share and contextualize underlying newspaper
+data.[^2] We expect to see interest in newspapers, as well as
+experimentation with a range of methodological approaches, continue to
+develop across the dLOC and wider Caribbean studies network.
+
+Our perspectives as coeditors are complicated and enriched by our own
+work within dLOC and peripheral support for some of the projects and
+collections featured here. As workshop conveners and facilitators,
+advisors on data curation and rights issues, and well-wishers for the
+next funding opportunity or collection launch, we have each supported
+dLOC's individual partners and underlying mission. We approached each
+essay here through the lenses of our own lived and professional
+experiences, seeking to shape an issue that reflects dLOC as a
+wide-ranging source of digital content as well as a point of departure
+for fruitful and difficult conversations around the nature and purpose
+of that content. Learning from the issue's contributors, we can better
+consider the ethics of collection development, where growth has occurred
+unevenly or inequitably, and how scholars and educators are
+incorporating materials into their own work, often juxtaposed alongside
+other collections and data.
+
+dLOC is at a crossroads administratively, seeking to steward collections
+while growing more robust support for partners' priorities. As T-Kay
+Sangwand notes, US-based "archives must continually ask their partners
+and themselves: Does everyone have the responsibility to contribute
+labor and participate in social decisions?"[^3] To fully invest in
+postcustodial archival initiatives, US-based institutions should provide
+the labor and resources necessary for equitable partnerships. This is a
+challenge, requiring a firm commitment to long-term investment by
+universities to strengthen a community of practice and trust built over
+time. dLOC has assisted in building capacity for Caribbean institutions
+through trainings and collaborative grant projects, but dLOC's own
+administrative capacity has been stretched thin, without sufficient
+support for staff, especially term staff, as they work to engage a
+growing number of projects and partners. Current priorities include
+reinvigorating governance structures and hiring and retaining sufficient
+staff, including those of Caribbean and/or diasporic heritage with
+relevant language and technical skills, to sustain relationships with
+partners and to grow creation and use of collections. As the essays in
+this issue demonstrate, prioritizing multilingual access to source
+communities in the Caribbean and working alongside partners to address
+digital divides are key aspects to increasing equity.
+
+We dedicate this special issue to those who have been committed to
+building dLOC's infrastructure and social capacity, including, but not
+limited to, Miguel Asencio, Barry Baker, Sandra Barker, Jean Wilfrid
+Bertrand, Astrid Britten, Lusiola Castillo, Mireille Charles, Chelsea
+Dinsmore, Kimberly Green, Margo Groenewoud, Marie-France Guillaume,
+Erich Kesse, Catherine Marsicek, Rose Nicholson, Laura Perry, Liesl
+Picard, Laura Probst, Judith Rogers, Leah Rosenberg, Judith Russell,
+Vicki Silvera, Adam Silvia, Matthew Smith, Mark Sullivan, Laurie Taylor,
+Chantalle Verna, Gayle Williams, Brooke Wooldridge, and many others.
+Thanks to all past and present Scholarly Advisory Board and Executive
+Board members, and representatives from the host institutions.
+
+We also thank Kaiama Glover, Alex Gil, and Kelly Baker Josephs, who
+continue to provide us with spaces to dream new futures together.
+
+Perry Collins
+=============
+
+Perry Collins is the Copyright & Open Educational Resources Librarian at
+the University of Florida Libraries, where she manages initiatives
+promoting open access in education, copyright literacy, and ethical
+approaches to digital scholarship. In this role, she acts as a liaison
+to dLOC, including collaborative engagement with partners, researchers,
+and students seeking to share and reuse collections. Before joining UF
+in 2018, Collins held a similar position at the Ball State University
+Libraries in Muncie, Indiana, and worked for six years as a program
+officer in the Office of Digital Humanities at the National Endowment
+for the Humanities. Collins holds an MLIS from the University of
+Illinois at Urbana-Champaign and an MA in American studies from the
+University of Kansas.
+
+Hadassah St. Hubert
+===================
+
+Hadassah St. Hubert, a historian, independent scholar, and senior
+program officer, is a former Council on Library Information Resources
+(CLIR) Postdoctoral Fellow in data curation for Latin American and
+Caribbean studies with dLOC at Florida International University. She
+received a PhD in history from the University of Miami specializing in
+Caribbean, Latin American, and African diasporic history. Her
+dissertation, "Visions of a Modern Nation: Haiti at the World's Fairs,"
+focuses on Haiti's participation in world's fairs and expositions in the
+twentieth century. St. Hubert served as assistant editor for Haiti: An
+Island Luminous, a digital humanities site dedicated entirely to Haitian
+history and Haitian studies. During her tenure as the CLIR Postdoctoral
+Fellow with dLOC, she led programming and digitization efforts in
+collaboration with dLOC's partners, such as the Diaspora Vibe Cultural
+Arts Incubator and the Institut de Sauvegarde du Patrimoine National in
+Haiti.
+
+[^1]: Amalia S. Levi and Tara A. Inniss,"Decolonizing the Archival
+    Record about the Enslaved: Digitizing the *Barbados Mercury
+    Gazette*," *archipelagos* 4 (March 2020),
+    https://archipelagosjournal.org/issue04/levi-inniss-decolonizing.html.
+
+[^2]: dLOC as Data, "A Thematic Approach to Caribbean Newspapers,"
+    accessed 23 January 2022, https://dlocasdata.domains.uflib.ufl.edu/.
+
+[^3]: T-Kay Sangwand, "Preservation Is Political: Enacting Contributive
+    Justice and Decolonizing Transnational Archival Collaborations,"
+    KULA: *Knowledge Creation, Dissemination, and Preservation Studies*
+    2, no. 1 (2018): 10,
+    [<https://doi.org/10.5334/kula.36>.]{.underline}
