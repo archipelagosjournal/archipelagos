@@ -18,7 +18,95 @@ regenerate: true
 <h2>{% t issues.issue06 %}</h2>
 
 
-{% include toc.html issue=site.issue06 %}
+
+
+
+<!-- Table of Contents -->
+<div id="toc">
+
+    <!-- Introductory material -->
+    {% assign articles = site.issue06 | sort: 'order' %}
+    <ul>
+    <h3>{% t global.introduction %}</h3>
+    {% for page in articles %}
+      {% if page.section == "introduction" %}<li>
+          <a href="{{ page.url | prepend:site.baseurl }}">
+            <span class="toc-title">{{ page.title  | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+          </a><br>
+        <span class="byline">{% include author-loop.html %}</span></li>
+      {% endif %}
+    {% endfor %} 
+    </ul>
+    
+    <ul>
+    <h3>{% t global.essays %}</h3>
+    {% for page in articles %}
+      {% if page.section == "articles" %}
+      <li>
+        <a href="{{ page.url | prepend:site.baseurl }}"><span class="toc-title">{{ page.title["long"] | markdownify | remove: '<p>' | remove: '</p>' }}</span></a>
+    
+        <br>
+        
+        <span class="byline">{% include author-loop.html %}</span>
+    
+        <!-- PDF -->
+        {% if page.pdf == false %}
+        {% else %}
+        <p>
+          <a class="alt-link" href="{{ site.baseurl }}/assets{{ page.url | replace:'.html','.pdf' }}" target="_blank">PDF</a>
+        </p>
+        {% endif %}
+      </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+    
+    <ul>
+    <h3>{% t global.projects %}</h3>
+    {% for page in articles %}
+      {% if page.section == "projects" %}
+    
+        <li>
+          <a href="{{ page.url | prepend:site.baseurl }}">
+            <span class="toc-title">{{ page.title["long"]  | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+          </a><br>
+        <span class="byline"> 
+            {% include author-loop.html %}
+        </span><br>
+          {% if page.layout == "project" %}
+            <a class="alt-link" href="{{ page.url | prepend:site.baseurl }}">{% t global.read-exchange %}</a><span class="alt-link"> | </span><a class="alt-link" href="{{ page.link }}" target="_blank">{% t global.visit-project %}</a>      
+            <a class="alt-link" href="{{ page.link }}" target="_blank"><img class="project-image-toc" alt="thumbnail for {{page.title["long"]}}" src="{{ page.thumb }}" width="33%" /></a>
+          {% endif %}
+          {% if page.layout == "article" %}
+            <a class="alt-link" href="{{ site.baseurl }}/assets{{ page.url | replace:'.html','.pdf' }}" target="_blank">PDF</a> 
+          {% endif %}
+        </li>
+      {% endif %}
+    {% endfor %} 
+    </ul>
+    
+    <ul>
+    <h3>{% t issue06.iei-section %}</h3>
+    {% for page in articles %}
+      {% if page.section == "reviews" %}
+    
+        <li>
+          <a href="{{ page.url | prepend:site.baseurl }}">
+            <span class="toc-title">{{ page.title["long"]  | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+          </a><br>
+        <span class="byline">
+      {% include author-loop.html %}
+    
+        </span>
+        <!-- PDF -->
+        <p>
+          <a class="alt-link" href="{{ site.baseurl }}/assets{{ page.url | replace:'.html','.pdf' }}" target="_blank">PDF</a>     
+        </p>
+        </li>
+    
+      {% endif %}
+    {% endfor %}
+    </ul>
 
 <hr>
 
