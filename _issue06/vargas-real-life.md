@@ -1,9 +1,31 @@
-*Laura Vargas Zuleta*
+---
+layout: project
+section: project
+title: 
+  "long": "Mapping Marronage"
+  "short": "Mapping Marronage"
+doi: "https://doi.org/10.7916/archipelagos-ar70-sf84"
+author: 
+- name: Laura Vargas Zuleta
+  shortname: Vargas Zuleta
+  bio: >
+    Laura Vargas Zuleta is... 
+date: March 2022
+issue: 6
+order: 9
+image: images/issue05/mapping-marronage.png
+thumb: images/issue05/mapping-marronage-thumb.png
+link: "http://mapping-marronage.rll.lsa.umich.edu"
+---
+
+
 
 Abstract
 ========
 
 In this essay I explore the connections between literature and historic documents through a series of digital timelines that I created around the novel *Hadriana dans tous mes rêves* (1988), by Haitian writer René Depestre. As part of the In All My Dreams book club and art exposition organized by Dr. Kaiama Glover and Dr. Laurent Dubois around *Hadriana*, my digital project proposes an interactive way for readers to get a sense of the novel by contrasting the events in the book with historical ones. Focusing on the years the novel covers and those when Depestre wrote it, I used the Digital Library of the Caribbean (dLOC) archive of the Haitian newspaper *Le Nouvelliste* and selected a group of news items about Jacmel (the city where the story is set) and Depestre himself to include in my project. I selected the news items looking for content that could help readers imagine the setting of *Hadriana*. The novel, whose second movement includes its own fictional newspaper article about Jacmel, is narrated in a fragmented, nonlinear way, but it mentions the dates of major events. However, that nonlinearity made me wonder how to build a timeline that enriches reading of the novel instead of spoiling it. The final product consists of three timelines: the first focuses on the novel; the second includes photos of the news items I selected from *Le Nouvelliste* and links to the original archive but has no information from the book; and the third combines the first two so readers can compare and contrast both realities. This project shows the possibilities that an archive such as dLOC offers for the reading of literary works such as Depestre's.
+
+<hr>
 
 What sort of digital tools can help nonacademic readers navigate a novel whose temporal structure is fragmented and nonlinear? How can we build such tools so they function as an invitation or provocation instead of as a rigid, paternalistic guide in which information is provided to be absorbed instead of explored? My digital project, "Hadriana in Context: Timelines," was guided and shaped by these two questions that, to me, were key to creating something useful and enriching for readers. As part of the second version of the In All My Dreams book club around Haitian writer René Depestre's novel *Hadriana dans tous me rêves* (*Hadriana in All My Dreams*, 1988) organized by Dr. Kaiama Glover and Dr. Laurent Dubois, I created a series of interactive digital timelines that combined the events of the novel with real-life news articles covering the place (Jacmel, a coastal city in southern Haiti) and time (mainly the 1930s and 1940s) in which the novel is set, using contemporary issues of the Haitian newspaper *Le Nouvelliste,* taken from the archive of the Digital Library of the Caribbean (dLOC). This digital project, which was included on the book club's website as part of its "Reader's Guide," proposes an interactive way for readers to get a sense of Depestre's novel by contrasting its events with historical ones, as well as by guiding them to real-life newspaper archives from Haiti.[^1] By introducing elements from a source outside the book, the timelines aim to enrich readers' experience of *Hadriana*, not only by situating the novel in its context but also by presenting it as part of Haitian history. My project also seeks to give visibility to dLOC as a useful database to explore the context of Caribbean literary works.
 
@@ -24,24 +46,14 @@ Besides the advertisements, the newspaper also published articles about the prog
 Apart from Sténio Vincent's reforestation campaign, I also found interesting news items on Jacmel from the years of 1937 and 1938 and even through 1941. The nature of the news was extremely diverse, from reporting on a general blackout[^7] in the commune to the mysterious disappearance of the Jacmel orchestra's instruments.[^8] One of the longest pieces I found in the archive was a column published in several September 1938 issues titled "Voyage autour de Jacmel \[Trip around Jacmel\]" and signed by "J.B." (figure 1).[^9] This column is reminiscent of the "Lettre de Jacmel" in Depestre's novel (figure 2), a series Patrick tells us was published by the Paris newspaper *Le Monde* in April 1972 (113--17).
 
 {% include image.html
-
 img="jacmel-nouvelliste.jpg"
-
 title="Voyage autour de Jacmel"
-
-caption="Column on Jacmel from September 1938 on the *Nouvelliste* timeline" %}
+caption="Figure 1. Column on Jacmel from September 1938 on the *Nouvelliste* timeline" %}
 
 {% include image.html
-
 img="jacmel-monde.jpg"
-
 title="Lettre de Jacmel"
-
-caption="Fictional column on Jacmel from April 1972 on the *Hadriana* timeline" %}
-
-**Figure 1**. Column from September 1938 on the *Nouvelliste* timeline.
-
-**Figure 2.** Fictional column on Jacmel from April 1972 on the *Hadriana* timeline.
+caption="Figure 2. Fictional column on Jacmel from April 1972 on the *Hadriana* timeline" %}
 
 I recorded all my findings in a series of Excel documents. Here I included the link from dLOC where I had found them, the issue number and the date when it was published, the page, the section (when necessary), the title, and a brief summary of what it said. Within the documents, I created different categories: Jacmel, Depestre, deforestation, and so on. I also made separate documents for each six-month period I covered in my research so the tables would be easier to manage: especially for the "Jacmel" category, I was finding more materials per year than could fit easily in a single document. At that time, I was focused not on finding articles or items directly related to events or themes of the novel but on creating a database of all materials that matched my keywords or topics, in order to compile a vast list from which to choose articles at a later point.
 
@@ -56,11 +68,8 @@ Taking this into account, I went back to the documents where I had recorded my f
 The next step was to reread the novel and take note of all the events that included a specific date or for which Depestre had mentioned at least the month in which an event took place. I was surprised to discover that the author had been fairly clear on dates for most of the novel's main events, and a detailed timeline could be made without difficulty. At the end I had fifteen dates from the novel, with only one, January 1918, going further in the past than my own findings from *Le Nouvelliste.* All of the events after 1946, the last year I included in my research, were set not in Haiti but in Europe and Jamaica, so it seemed that both chronologies fit together for the project I had in mind, to the point that Patrick's and Depestre's arrivals in Paris from Haiti happened in 1946 with only a few months' difference (figure 3).
 
 {% include image.html
-
 img="patrick-paris.jpg"
-
 title="Patrick and Depestre arrive in Paris in 1946"
-
 caption="Patrick's arrival in Paris in the combined timeline. At the bottom it is possible to see Depestre's arrival, just a few months earlier" %}
 
 **Figure 3***.* Patrick's arrival in Paris in the combined timeline. At the bottom one can see Depestre's arrival, just a few months earlier.
@@ -80,11 +89,8 @@ While I thought of a solution for that issue, I begun to work on the *Nouvellist
 After a few weeks, I had both separated timelines but still needed to find some visual materials for the *Hadriana* version and then merge it with the *Nouvelliste* one for the third combined timeline. The problem with the visual factor of the *Hadriana* timeline was that I needed fifteen images that I could legally use and that looked good together. Depestre's novel does not include any illustrations, but the text is written in a way that seems very visual, so I was convinced I could not present the timeline as text only. After experimenting with different ideas, like looking for images of different editions of the novel or selecting random stock images that were related to each event, I went back to my notes for inspiration (figure 4). All the notes I had taken for the project, with the exception of the Excel documents, were handwritten using an iPad and a digital notebook app called GoodNotes, in which I could write as if on paper. Looking at my notes I realized that I had the visual element for the timeline right in front of me, so I began exploring ways to incorporate screenshots from it into the timeline. With this last touch, the *Hadriana* timeline was finally complete.
 
 {% include image.html
-
 img="timeline-hadriana.jpg"
-
 title="*Hadriana*'s Timeline on the Reader's Guide"
-
 caption="Beginning of the *Hadriana* timeline with an image of a section of my original notes for the project" %}
 
 **Figure 4**. Beginning of the *Hadriana* timeline with an image of a section of my original notes for the project.
