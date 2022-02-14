@@ -33,7 +33,7 @@ pdf: true
 
 
 Digital Preservation Efforts, Archives, and Power
-------------------------------------------------
+-------------------------------------------------
 
 In recent years, Haiti has inspired a profound reconceptualization of epistemologies of knowledge and power. This challenge includes critical evaluation of the dynamics of ontology and history as well as the materials, networks, and institutions that make that knowledge production possible.[^1] As consensus about Haiti's centrality grows, librarians, archivists, and scholars have mobilized to help preserve Haitian archival and printed material and increase access through digitization. At the forefront of this movement is the Digital Library of the Caribbean (dLOC), a cooperative digital library maintained by the University of Florida and Florida International University. Founded in 2004 with nine partners, today dLOC sustains collaborations with sixty cultural institutions. Another major supporter of preservation and access initiatives is the British Library's Endangered Archive Programme (EAP). Since 2005, the EAP has used private philanthropic donations to support the digitization of at-risk materials around the world. In the Caribbean, the EAP has supported projects in Haiti, Cuba, Jamaica, Montserrat, Turks and Caicos, Anguilla, Nevis, Antigua and Barbuda, Barbados, Grenada, St. Vincent, and Colombia.[^2]
 
