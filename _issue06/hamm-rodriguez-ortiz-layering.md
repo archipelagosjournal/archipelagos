@@ -231,7 +231,9 @@ Through studying these quotes, students can explore Carnival masks across differ
 
 -   Images of *vejigantes* and *lechones* from Carnaval
 > [Part One](https://dloc.com/AA00068075/00005?search=carnaval+=dominican)
+>
 > [Part Two](https://dloc.com/AA00068071/00033?search=vejigante)
+>
 > [Part Three](https://dloc.com/AA00068071/00040?search=vejigante)
 -   "[UPR: Caribbean Diaspora DH Center](https://dloc.com/diasporaproject)"
 -   "[UPR: Lowell Fiet Masks](https://dloc.com/fietmasks)"
