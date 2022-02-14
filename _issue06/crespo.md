@@ -70,15 +70,36 @@ Un análisis de los temas que se discutieron en las páginas del *Tacón* y los 
     caption="Portadas del periódico feminista *El Tacón de la
 Chancleta*" %}
 
-img="tacon1"
+{% include image.html
+    img="tacon1"
+    title="*El Tacón de la Chancleta*"
+    caption="Portadas del periódico feminista *El Tacón de la
+Chancleta*" %}
 
-img="tacon2"
+{% include image.html
+    img="tacon2"
+    title="*El Tacón de la Chancleta*"
+    caption="Portadas del periódico feminista *El Tacón de la
+Chancleta*" %}
 
-img="tacon3"
+{% include image.html
+    img="tacon3"
+    title="*El Tacón de la Chancleta*"
+    caption="Portadas del periódico feminista *El Tacón de la
+Chancleta*" %}
 
-img="tacon4"
+{% include image.html
+    img="tacon4"
+    title="*El Tacón de la Chancleta*"
+    caption="Portadas del periódico feminista *El Tacón de la
+Chancleta*" %}
 
-img="tacon5"
+{% include image.html
+    img="tacon5"
+    title="*El Tacón de la Chancleta*"
+    caption="Portadas del periódico feminista *El Tacón de la
+Chancleta*" %}
+
 
 El feminismo como movimiento político
 -------------------------------------

@@ -132,99 +132,38 @@ To begin, throughout the duration of part 1, students may work in small groups a
 
 -   "[The American Intervention in Haiti and the Dominican Republic](http://ufdc.ufl.edu/AA00001149/00001)"
 -   "[Haiti under American Control, 1915--1930](https://www.dloc.com/AA00001156/00001)"
--   "Goff's Historical Map of the Spanish-American War in the West Indies, 1898"
-
-> [[https://dloc.com/AA00067799/00001]](https://dloc.com/AA00067799/00001/1x?search=us+%3dpuerto+%3drico)
-
--   "Laws of Cuba, Puerto Rico, and the Philippines"
-
-> [[https://dloc.com/AA00076641/00001]](https://dloc.com/AA00076641/00001?search=us+=puerto+=rico)
-
--   "140 Protest U.S. Military in Vieques"
-
-> [[https://dloc.com/AA00078642/00001]](https://dloc.com/AA00078642/00001?search=us+=puerto+=rico)
-
--   "The World of 1898: The Spanish-American War"
-
-> [[https://loc.gov/rr/hispanic/1898/index.html]](https://loc.gov/rr/hispanic/1898/index.html)
-
--   "Latin American & Caribbean Digital Primary Resources"
-
-> [[https://salalm.org/collection-development-resources/digital-primary-resources/]](https://salalm.org/collection-development-resources/digital-primary-resources/)
-
--   "Puerto Rico Archives and Libraries"
-
-> [[https://www.familysearch.org/wiki/en/Puerto\_Rico\_Archives\_and\_Libraries\#Archives]](https://www.familysearch.org/wiki/en/Puerto_Rico_Archives_and_Libraries#Archives)
-
--   "The American Colonial Handbook"
-
-> [[https://ufdc.ufl.edu/UF00098500/00001]](https://ufdc.ufl.edu/UF00098500/00001)
+-   "[Goff's Historical Map of the Spanish-American War in the West Indies, 1898](https://dloc.com/AA00067799/00001/1x?search=us+%3dpuerto+%3drico)"
+-   "[Laws of Cuba, Puerto Rico, and the Philippines](https://dloc.com/AA00076641/00001?search=us+=puerto+=rico)"
+-   "[140 Protest U.S. Military in Vieques](https://dloc.com/AA00078642/00001?search=us+=puerto+=rico)"
+-   "[The World of 1898: The Spanish-American War](https://loc.gov/rr/hispanic/1898/index.html)"
+-   "[Latin American & Caribbean Digital Primary Resources](https://salalm.org/collection-development-resources/digital-primary-resources/)"
+-   "[Puerto Rico Archives and Libraries](https://www.familysearch.org/wiki/en/Puerto_Rico_Archives_and_Libraries#Archives)"
+-   "[The American Colonial Handbook](https://ufdc.ufl.edu/UF00098500/00001)"
 
 Then students can begin to explore a broad range of experiences of (im)mobility that traverse Black diasporic experiences. By studying the intimacies of Caribbean and African American movement, students will understand relational histories as intertwined and mutually constitutive of key moments in time across geographic space. Topics to explore include sea migration (including critical perspectives on detainment), the Great Migration, general and specific patterns of Caribbean migration to the United States, African American migration to the Caribbean, and the connections between liberation movements in the United States and those across the Caribbean.
 
 ### Black Diaspora (Im)mobilities
 
--   "Caribbean Sea Migration"
-
-> [[http://library.duke.edu/digitalcollections/caribbeansea/]](http://library.duke.edu/digitalcollections/caribbeansea/)
-
--   "The Counter-revolution of 1776: Origins of the United States of America"
-
-[[https://www.zinnedproject.org/news/1776-counter-revolution-us-origins/]](https://www.zinnedproject.org/news/1776-counter-revolution-us-origins/)
-
--   "Making African America"
-
-[[https://nmaahc.si.edu/making-african-america]](https://nmaahc.si.edu/making-african-america)
-
--   "The African-American Migration Experience"
-
-[[http://www.inmotionaame.org]](http://www.inmotionaame.org)
-
--   "Caribbean Immigration"
-
-[[http://www.inmotionaame.org/migrations/landing.cfm\@migration=10.html]](http://www.inmotionaame.org/migrations/landing.cfm@migration=10.html)
-
--   "Black Perspectives"
-
-> [[https://www.dloc.com/AA00054410/00001]](https://www.dloc.com/AA00054410/00001)
-
--   "The Haitian American Dream Timeline"
-
-> [[https://exhibits.uflib.ufl.edu/HaitianAmericanDream/?fbclid=IwAR1VqspacYxyPWm8fwuTxRDc2Fq2Tl7yNc53pv8YaR3CEUQq\--YEDSglDF0]](https://exhibits.uflib.ufl.edu/HaitianAmericanDream/?fbclid=IwAR1VqspacYxyPWm8fwuTxRDc2Fq2Tl7yNc53pv8YaR3CEUQq--YEDSglDF0)
-
--   "Correspondence Relative to the Emigration to Hayti of the Free People of Colour in the United States"
-
-> [[https://www.dloc.com/AA00010444/00001]](https://www.dloc.com/AA00010444/00001?search=african+=american)
-
--   "Haiti: An Island Luminous"
-
-> [[http://islandluminous.fiu.edu/learn.html]](http://islandluminous.fiu.edu/learn.html)
+-   "[Caribbean Sea Migration](http://library.duke.edu/digitalcollections/caribbeansea/)"
+-   "[The Counter-revolution of 1776: Origins of the United States of America](https://www.zinnedproject.org/news/1776-counter-revolution-us-origins/)"
+-   "[Making African America](https://nmaahc.si.edu/making-african-america)"
+-   "[The African-American Migration Experience](http://www.inmotionaame.org)"
+-   "[Caribbean Immigration](http://www.inmotionaame.org/migrations/landing.cfm@migration=10.html)"
+-   "[Black Perspectives](https://www.dloc.com/AA00054410/00001)"
+-   "[The Haitian American Dream Timeline](https://exhibits.uflib.ufl.edu/HaitianAmericanDream/?fbclid=IwAR1VqspacYxyPWm8fwuTxRDc2Fq2Tl7yNc53pv8YaR3CEUQq--YEDSglDF0)"
+-   "[Correspondence Relative to the Emigration to Hayti of the Free People of Colour in the United States](https://www.dloc.com/AA00010444/00001?search=african+=american)"
+-   "[Haiti: An Island Luminous](http://islandluminous.fiu.edu/learn.html)"
 
 Finally, students can synthesize their understandings of imperialism, migration, and freedom through a case study of the Samaná Bay in the Dominican Republic. By assigning individual reading to all students, this case study provides them with an opportunity to view the Samaná Bay territory as a contested site of imperial or colonial power as well as an emancipatory site of migration for African Americans from the United States.[^28]
 
 ### African American Migration to the Caribbean: Case Study of Samaná Bay
 
--   "West Indies, Hispaniola---North Coast, Dominican Republic, Bahia de Samaná" [[https://www.dloc.com/UF00053407/00001?search=samana]](https://www.dloc.com/UF00053407/00001?search=samana)
-
--   "The Samaná Americans"
-
-[[https://www.penn.museum/documents/publications/expedition/PDFs/47-1/Weeks.pdf]](https://www.penn.museum/documents/publications/expedition/PDFs/47-1/Weeks.pdf)
-
--   "Preserving Black American History through Song in the Dominican Republic"
-
-> [[https://www.nytimes.com/2018/11/30/travel/preserving-black-american-history-through-song-in-the-dominican-republic.html]](https://www.nytimes.com/2018/11/30/travel/preserving-black-american-history-through-song-in-the-dominican-republic.html)
-
--   "Freemen Community on Samaná Bay (Dominican Republic)"
-
-> [[https://nkaa.uky.edu/nkaa/items/show/1898]](https://nkaa.uky.edu/nkaa/items/show/1898)
-
--   "The Samaná Affair"
-
-> [[https://haitidoi.com/2013/10/09/the-samana-affair-2/]](https://haitidoi.com/2013/10/09/the-samana-affair-2/)
-
--   "Samana et ses projets de cession, 1844--91"
-
-[https://www.dloc.com/AA00001310/00001/2j]
+-   "[West Indies, Hispaniola---North Coast, Dominican Republic, Bahia de Samaná](https://www.dloc.com/UF00053407/00001?search=samana)"
+-   "[The Samaná Americans](https://www.penn.museum/documents/publications/expedition/PDFs/47-1/Weeks.pdf)"
+-   "[Preserving Black American History through Song in the Dominican Republic](https://www.nytimes.com/2018/11/30/travel/preserving-black-american-history-through-song-in-the-dominican-republic.html)"
+-   "[Freemen Community on Samaná Bay (Dominican Republic)](https://nkaa.uky.edu/nkaa/items/show/1898)"
+-   "[The Samaná Affair](https://haitidoi.com/2013/10/09/the-samana-affair-2/)"
+-   "[Samana et ses projets de cession, 1844--91](https://www.dloc.com/AA00001310/00001/2j)"
 
 In the next stage of the project, students will be regrouped as they begin reading the novels. Each group will read one novel and then, both throughout and after reading, we encourage regular opportunities for one student from each group to convene in a new group that has all novels represented. Having students work in newly formed small groups ensures that each collective has background knowledge from prior work completed in part 1 as well as distinctive viewpoints from deep reading of the novels to bring together for this stage. Thus students not only will focus on engaging with one novel but will put content from the three novels into conversation with the primary and secondary resources studied using dLOC and other sources. After the novels have been completed, students in these mixed groups will be encouraged to use a slideshow format (PowerPoint, Google Slides, Canva Presentation, StoryMaps) to develop a multimodal presentation of the relational histories represented by their background research and the diasporic trajectories of the protagonists in the novels they read. Students might respond to the following prompts as they develop their group projects: How do the novels reveal relationships between Caribbean migrations and US imperialism? How do the novels represent the interconnectedness of Caribbean and African American histories and communities in the United States? How do the authors draw on historical research to illustrate the everyday life of the novels' Afro-Caribbean protagonists? How do relational histories help you make sense of the diasporic trajectories described in each novel?
 
@@ -241,63 +180,25 @@ To begin this part of the project, students will research three social disasters
 
 #### Crash of Flight 587 (2001)
 
--   "Remembering America's Second-Deadliest Plane Crash"
-
-> [[https://www.theatlantic.com/national/archive/2011/11/remembering-americas-second-deadliest-plane-crash/248313/]](https://www.theatlantic.com/national/archive/2011/11/remembering-americas-second-deadliest-plane-crash/248313/)
-
--   Uptown's Adriano Espaillat Honors the Memory of the Victims of Flight 587
-
-    <https://espaillat.house.gov/media/in-the-news/uptown%E2%80%99s-adriano-espaillat-honors-memory-victims-flight-587>
-
-
-
--   "Airline Will Pay Crash Victims' Families"
-
-> [[https://www.washingtonpost.com/archive/politics/2001/11/17/airline-will-pay-crash-victims-families/8441b3f5-2745-4012-bf60-2d8092169558/]](https://www.washingtonpost.com/archive/politics/2001/11/17/airline-will-pay-crash-victims-families/8441b3f5-2745-4012-bf60-2d8092169558/)
+-   "[Remembering America's Second-Deadliest Plane Crash](https://www.theatlantic.com/national/archive/2011/11/remembering-americas-second-deadliest-plane-crash/248313/)"
+-   [Uptown's Adriano Espaillat Honors the Memory of the Victims of Flight 587](https://espaillat.house.gov/media/in-the-news/uptown%E2%80%99s-adriano-espaillat-honors-memory-victims-flight-587)
+-   "[Airline Will Pay Crash Victims' Families](https://www.washingtonpost.com/archive/politics/2001/11/17/airline-will-pay-crash-victims-families/8441b3f5-2745-4012-bf60-2d8092169558/)"
 
 #### Earthquake in Port-au-Prince, Haiti (2010)
 
--   "Amid Rubble and Ruin, Our Duty to Haiti Remains"
-
-> [[https://www.npr.org/templates/story/story.php?storyId=122567412]](https://www.npr.org/templates/story/story.php?storyId=122567412)
-
--   *Eight Days: A Story of Haiti*
-
-> [[https://www.powells.com/book/eight-days-a-story-of-haiti-9780545278492?partnerid=33733]](https://www.powells.com/book/eight-days-a-story-of-haiti-9780545278492?partnerid=33733)
-
--   "From Disaster, Emerging Life"
-
-> [[https://www.nytimes.com/2010/04/12/opinion/12trouillot.html]](https://www.nytimes.com/2010/04/12/opinion/12trouillot.html)
-
--   "The Memory Box"
-
-> <https://africasacountry.com/2015/10/digital-archive-no-20-the-haiti-memory-project>
+-   "[Amid Rubble and Ruin, Our Duty to Haiti Remains](https://www.npr.org/templates/story/story.php?storyId=122567412)"
+-   *[Eight Days: A Story of Haiti](https://www.powells.com/book/eight-days-a-story-of-haiti-9780545278492?partnerid=33733)*
+-   "[From Disaster, Emerging Life](https://www.nytimes.com/2010/04/12/opinion/12trouillot.html)"
+-   "[The Memory Box](https://africasacountry.com/2015/10/digital-archive-no-20-the-haiti-memory-project)}
 
 #### Hurricane María (2017)
 
--   "Archivo del Huracán María"
-
-> [[https://dloc.com/AA00079427/00001]](https://dloc.com/AA00079427/00001?search=hurricane+=maria)
-
--   "The Puerto Rico Disaster Archive: Preserving the Cultural Legacy of Puerto Rico"
-
-> [[https://dloc.com/AA00077916/00001]](https://dloc.com/AA00077916/00001?search=hurricane+=maria)
-
--   "La ruta de María"
-
-> [[https://dloc.com/AA00062610/00001]](https://dloc.com/AA00062610/00001?search=hurricane+=maria)
-
--   "Listening to Puerto Rico"
-
-> [[https://listeningtopuertorico.org]](https://listeningtopuertorico.org)
-
--   "Hurricane María"
-
-> [[https://puertoricosyllabus.com/syllabus/hurricane-maria/]](https://puertoricosyllabus.com/syllabus/hurricane-maria/)
-
--   "Puerto Rico Mapathon for Hurricane Relief"
-
-> [[http://xpmethod.columbia.edu/events/2017-09-29-puerto-rico-mapathon.html]](http://xpmethod.columbia.edu/events/2017-09-29-puerto-rico-mapathon.html)
+-   "[Archivo del Huracán María](https://dloc.com/AA00079427/00001?search=hurricane+=maria)"
+-   "[The Puerto Rico Disaster Archive: Preserving the Cultural Legacy of Puerto Rico](https://dloc.com/AA00077916/00001?search=hurricane+=maria)"
+-   "[La ruta de María](https://dloc.com/AA00062610/00001?search=hurricane+=maria)"
+-   "[Listening to Puerto Rico](https://listeningtopuertorico.org)"
+-   "[Hurricane María](https://puertoricosyllabus.com/syllabus/hurricane-maria/)"
+-   "[Puerto Rico Mapathon for Hurricane Relief](http://xpmethod.columbia.edu/events/2017-09-29-puerto-rico-mapathon.html)"
 
 As students read, they should take notes of key passages that resonate with them. In particular, we recommend that students focus on excerpts that shed light on the placemaking practices that mediate experiences of migration, collective memory of (un)natural disasters, and complex notions of home. Students should be encouraged to group quotes thematically as they read their novel, staying attuned to questions that these quotes raise or the topics they feel compelled to explore in more detail. Students can regularly share and discuss these quotes in the small groups formed with others reading the same novel. Then, in the mixed groups, the quotes will be the basis for the digital research using dLOC and other resources. In these second groups, students will add new slides to the presentations developed for part I of their digital projects, this time complementing textual representations of placemaking (i.e., quotes from the text) with multimodal resources that illustrate more clearly how meaning is negotiated and how people, ideas, concepts, practices, and things interact and travel across time and space. The examples that follow illustrate how a set of quotes might guide the types of resources that students review and incorporate into their digital projects.
 
@@ -315,13 +216,8 @@ Based on these quotes, students might choose to explore placemaking practices th
 
 #### Prince and bachata
 
--   "The Sounds of Black Music: There Are Many Kings, but Only One Prince"
-
-> [[https://www.nypl.org/blog/2021/06/01/sounds-black-music-many-kings-one-prince?aff=nyplwebsite]](https://www.nypl.org/blog/2021/06/01/sounds-black-music-many-kings-one-prince?aff=nyplwebsite)
-
--   "A History of Dominican Music in the United States"
-
-> [[https://www.latinxproject.nyu.edu/intervenxions/a-history-of-dominican-music-in-the-united-states]](https://www.latinxproject.nyu.edu/intervenxions/a-history-of-dominican-music-in-the-united-states)
+-   "[The Sounds of Black Music: There Are Many Kings, but Only One Prince](https://www.nypl.org/blog/2021/06/01/sounds-black-music-many-kings-one-prince?aff=nyplwebsite)"
+-   "[A History of Dominican Music in the United States](https://www.latinxproject.nyu.edu/intervenxions/a-history-of-dominican-music-in-the-united-states)"
 
 As students explore the scene of the nightclub and the entrance to the Underworld, they may also choose to focus on descriptions of Carnival characters who, in the book, inspire fear and deter Pheus from his mission of finding Eury.
 
@@ -334,24 +230,14 @@ Through studying these quotes, students can explore Carnival masks across differ
 #### Carnival (figures represented in the Underworld)
 
 -   Images of *vejigantes* and *lechones* from Carnaval
-
-> [[https://dloc.com/AA00068075/00005]](https://dloc.com/AA00068075/00005?search=carnaval+=dominican)
-
-[[https://dloc.com/AA00068071/00033]](https://dloc.com/AA00068071/00033?search=vejigante)
-
-[[https://dloc.com/AA00068071/00040]](https://dloc.com/AA00068071/00040?search=vejigante)
-
--   "UPR: Caribbean Diaspora DH Center
-
-> [[https://dloc.com/diasporaproject]](https://dloc.com/diasporaproject)
-
--   "UPR: Lowell Fiet Masks"
-
-> [[https://dloc.com/fietmasks]](https://dloc.com/fietmasks)
-
--   "Kanaval: Haitian Rhythms and the Music of New Orleans"
-
-> <https://www.npr.org/series/975403901/kanaval>
+> [Part One](https://dloc.com/AA00068075/00005?search=carnaval+=dominican)
+>
+> [Part Two](https://dloc.com/AA00068071/00033?search=vejigante)
+>
+> [Part Three](https://dloc.com/AA00068071/00040?search=vejigante)
+-   "[UPR: Caribbean Diaspora DH Center](https://dloc.com/diasporaproject)"
+-   "[UPR: Lowell Fiet Masks](https://dloc.com/fietmasks)"
+-   "[Kanaval: Haitian Rhythms and the Music of New Orleans](https://www.npr.org/series/975403901/kanaval)"
 
 ### Spirituality in American Street
 
@@ -367,19 +253,10 @@ Students may seek to learn more about the *lwa* mentioned in the book and their 
 
 #### Vodou
 
--   "Vodou Archive"
-
-> [[https://dloc.com/vodou]](https://dloc.com/vodou)
-
--   "Demystifying Haitian Vodou and Its Cultural Role in the Education of Haitian Americans: Dr. Bayyinah Bello Interview"
-
-> [[https://dloc.com/AA00068687/00001]](https://dloc.com/AA00068687/00001?search=religion+=philosophy+=religion+=philosophy)
-
--   "Dr. Celucien Joseph Lecture: 'What Are They Saying about Vodou?" (four parts) [[https://dloc.com/AA00056966/00001]](https://dloc.com/AA00056966/00001?search=religion+=philosophy+=religion+=philosophy)
-
--   "Petwo Ceremony Commemorating Bwa Kayiman, 1950"
-
-> [[https://haitianartsociety.org/petwo-ceremony-commemorating-bwa-kayiman-1950]](https://haitianartsociety.org/petwo-ceremony-commemorating-bwa-kayiman-1950)
+-   "[Vodou Archive](https://dloc.com/vodou)"
+-   "[Demystifying Haitian Vodou and Its Cultural Role in the Education of Haitian Americans: Dr. Bayyinah Bello Interview](https://dloc.com/AA00068687/00001?search=religion+=philosophy+=religion+=philosophy)"
+-   "[Dr. Celucien Joseph Lecture: 'What Are They Saying about Vodou?'(four parts)](https://dloc.com/AA00056966/00001?search=religion+=philosophy+=religion+=philosophy)"
+-   "[Petwo Ceremony Commemorating Bwa Kayiman, 1950](https://haitianartsociety.org/petwo-ceremony-commemorating-bwa-kayiman-1950)"
 
 ### Transnational Imaginaries in Clap When You Land
 
@@ -413,29 +290,12 @@ Students may seek to learn more about the *lwa* mentioned in the book and their 
 
 Students might consider exploring sociocultural placemaking practices in iconic Dominican communities in New York City, such as Washington Heights, as well as in the Dominican Republic. Though the novel focuses on Sosúa, Dominican Republic, for the purposes of this project students could widen their search to include elements mentioned in the book that span location. We also include resources that challenge singular conceptions of *Dominicanidad* transnationally, particularly Black narratives and experiences erased by the national ideologies of cultural identity and history that often appear in museums and other institutions. Throughout this research, students should be encouraged to question absences and silences in conversations about identity and reject both essentialism and erasure.
 
--   "An Interactive Map Showcasing the Geographic Boundaries of a Proposed Dominican Historic District in Washington Heights"
-
-> [[http://www.dominicanhistoricneighborhoods.com/]](http://www.dominicanhistoricneighborhoods.com/)
-
--   *Ni de aquí, ni de allá: A Multi-perspective Account of the Dominican Diasporic Experience*
-
-> [[https://www.dominicanwriters.com/product-page/ni-de-aqu%C3%AD-ni-de-all%C3%A1-an-anthology]](https://www.dominicanwriters.com/product-page/ni-de-aqu%C3%AD-ni-de-all%C3%A1-an-anthology)
-
--   "Signos de identidad"
-
-<https://centroleon.org.do/signos-de-identidad-2/>
-
--   "Ciguapa Unbound: Blackness, Gender & Transnational Geographies of Marronage"
-
-> [[https://www.latinxproject.nyu.edu/sp2021/ciguapaunbound?fbclid=IwAR2z9hlDwJYjf3Va0BIKJHgQmUB\_d83yEYDICzgdyI3DNWoNLDaJtte3Tek]](https://www.latinxproject.nyu.edu/sp2021/ciguapaunbound?fbclid=IwAR2z9hlDwJYjf3Va0BIKJHgQmUB_d83yEYDICzgdyI3DNWoNLDaJtte3Tek)
-
--   "RITM Conversations: Episode \#2 Dixa Ramirez---Conversations in Race, Indigeneity, and Transnational Migration"
-
-> [[https://podcasts.apple.com/us/podcast/ritm-conversations-episode-2-dixa-ramirez/id1209588080?i=1000382462814&fbclid=IwAR3Lph7QmkUas3x-FUJN2tzO7PIxKJoLNbPBDOrzbfckExrMlxAdbN95T1s]](https://podcasts.apple.com/us/podcast/ritm-conversations-episode-2-dixa-ramirez/id1209588080?i=1000382462814&fbclid=IwAR3Lph7QmkUas3x-FUJN2tzO7PIxKJoLNbPBDOrzbfckExrMlxAdbN95T1s)
-
--   "Racexile and the Poetics of Dominicanidad in Diaspora"
-
-> [[https://www.youtube.com/watch?v=zF\_czSEbFbc]](https://www.youtube.com/watch?v=zF_czSEbFbc)
+-   "[An Interactive Map Showcasing the Geographic Boundaries of a Proposed Dominican Historic District in Washington Heights](http://www.dominicanhistoricneighborhoods.com/)"
+-   *[Ni de aquí, ni de allá: A Multi-perspective Account of the Dominican Diasporic Experience](https://www.dominicanwriters.com/product-page/ni-de-aqu%C3%AD-ni-de-all%C3%A1-an-anthology)*
+-   "[Signos de identidad](https://centroleon.org.do/signos-de-identidad-2/)"
+-   "[Ciguapa Unbound: Blackness, Gender & Transnational Geographies of Marronage](https://www.latinxproject.nyu.edu/sp2021/ciguapaunbound?fbclid=IwAR2z9hlDwJYjf3Va0BIKJHgQmUB_d83yEYDICzgdyI3DNWoNLDaJtte3Tek)"
+-   "[RITM Conversations: Episode \#2 Dixa Ramirez---Conversations in Race, Indigeneity, and Transnational Migration](https://podcasts.apple.com/us/podcast/ritm-conversations-episode-2-dixa-ramirez/id1209588080?i=1000382462814&fbclid=IwAR3Lph7QmkUas3x-FUJN2tzO7PIxKJoLNbPBDOrzbfckExrMlxAdbN95T1s)"
+-   "[Racexile and the Poetics of Dominicanidad in Diaspora](https://www.youtube.com/watch?v=zF_czSEbFbc)"
 
 Conclusion
 ----------
