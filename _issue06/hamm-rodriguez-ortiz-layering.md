@@ -130,14 +130,8 @@ To begin, throughout the duration of part 1, students may work in small groups a
 
 ### US Intervention in the Caribbean
 
--   "The American Intervention in Haiti and the Dominican Republic"
-
-> [[http://ufdc.ufl.edu/AA00001149/00001]](http://ufdc.ufl.edu/AA00001149/00001)
-
--   "Haiti under American Control, 1915--1930"
-
-> [[https://www.dloc.com/AA00001156/00001]](https://www.dloc.com/AA00001156/00001?search=intervention)
-
+-   "[The American Intervention in Haiti and the Dominican Republic](http://ufdc.ufl.edu/AA00001149/00001)"
+-   "[Haiti under American Control, 1915--1930](https://www.dloc.com/AA00001156/00001)"
 -   "Goff's Historical Map of the Spanish-American War in the West Indies, 1898"
 
 > [[https://dloc.com/AA00067799/00001]](https://dloc.com/AA00067799/00001/1x?search=us+%3dpuerto+%3drico)
