@@ -288,29 +288,12 @@ Students may seek to learn more about the *lwa* mentioned in the book and their 
 
 Students might consider exploring sociocultural placemaking practices in iconic Dominican communities in New York City, such as Washington Heights, as well as in the Dominican Republic. Though the novel focuses on Sosúa, Dominican Republic, for the purposes of this project students could widen their search to include elements mentioned in the book that span location. We also include resources that challenge singular conceptions of *Dominicanidad* transnationally, particularly Black narratives and experiences erased by the national ideologies of cultural identity and history that often appear in museums and other institutions. Throughout this research, students should be encouraged to question absences and silences in conversations about identity and reject both essentialism and erasure.
 
--   "An Interactive Map Showcasing the Geographic Boundaries of a Proposed Dominican Historic District in Washington Heights"
-
-> [[http://www.dominicanhistoricneighborhoods.com/]](http://www.dominicanhistoricneighborhoods.com/)
-
--   *Ni de aquí, ni de allá: A Multi-perspective Account of the Dominican Diasporic Experience*
-
-> [[https://www.dominicanwriters.com/product-page/ni-de-aqu%C3%AD-ni-de-all%C3%A1-an-anthology]](https://www.dominicanwriters.com/product-page/ni-de-aqu%C3%AD-ni-de-all%C3%A1-an-anthology)
-
--   "Signos de identidad"
-
-<https://centroleon.org.do/signos-de-identidad-2/>
-
--   "Ciguapa Unbound: Blackness, Gender & Transnational Geographies of Marronage"
-
-> [[https://www.latinxproject.nyu.edu/sp2021/ciguapaunbound?fbclid=IwAR2z9hlDwJYjf3Va0BIKJHgQmUB\_d83yEYDICzgdyI3DNWoNLDaJtte3Tek]](https://www.latinxproject.nyu.edu/sp2021/ciguapaunbound?fbclid=IwAR2z9hlDwJYjf3Va0BIKJHgQmUB_d83yEYDICzgdyI3DNWoNLDaJtte3Tek)
-
--   "RITM Conversations: Episode \#2 Dixa Ramirez---Conversations in Race, Indigeneity, and Transnational Migration"
-
-> [[https://podcasts.apple.com/us/podcast/ritm-conversations-episode-2-dixa-ramirez/id1209588080?i=1000382462814&fbclid=IwAR3Lph7QmkUas3x-FUJN2tzO7PIxKJoLNbPBDOrzbfckExrMlxAdbN95T1s]](https://podcasts.apple.com/us/podcast/ritm-conversations-episode-2-dixa-ramirez/id1209588080?i=1000382462814&fbclid=IwAR3Lph7QmkUas3x-FUJN2tzO7PIxKJoLNbPBDOrzbfckExrMlxAdbN95T1s)
-
--   "Racexile and the Poetics of Dominicanidad in Diaspora"
-
-> [[https://www.youtube.com/watch?v=zF\_czSEbFbc]](https://www.youtube.com/watch?v=zF_czSEbFbc)
+-   "[An Interactive Map Showcasing the Geographic Boundaries of a Proposed Dominican Historic District in Washington Heights](http://www.dominicanhistoricneighborhoods.com/)"
+-   *[Ni de aquí, ni de allá: A Multi-perspective Account of the Dominican Diasporic Experience](https://www.dominicanwriters.com/product-page/ni-de-aqu%C3%AD-ni-de-all%C3%A1-an-anthology)*
+-   "[Signos de identidad](https://centroleon.org.do/signos-de-identidad-2/)"
+-   "[Ciguapa Unbound: Blackness, Gender & Transnational Geographies of Marronage](https://www.latinxproject.nyu.edu/sp2021/ciguapaunbound?fbclid=IwAR2z9hlDwJYjf3Va0BIKJHgQmUB_d83yEYDICzgdyI3DNWoNLDaJtte3Tek)"
+-   "[RITM Conversations: Episode \#2 Dixa Ramirez---Conversations in Race, Indigeneity, and Transnational Migration](https://podcasts.apple.com/us/podcast/ritm-conversations-episode-2-dixa-ramirez/id1209588080?i=1000382462814&fbclid=IwAR3Lph7QmkUas3x-FUJN2tzO7PIxKJoLNbPBDOrzbfckExrMlxAdbN95T1s)"
+-   "[Racexile and the Poetics of Dominicanidad in Diaspora](https://www.youtube.com/watch?v=zF_czSEbFbc)"
 
 Conclusion
 ----------
