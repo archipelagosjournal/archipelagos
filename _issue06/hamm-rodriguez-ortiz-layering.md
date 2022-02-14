@@ -132,73 +132,27 @@ To begin, throughout the duration of part 1, students may work in small groups a
 
 -   "[The American Intervention in Haiti and the Dominican Republic](http://ufdc.ufl.edu/AA00001149/00001)"
 -   "[Haiti under American Control, 1915--1930](https://www.dloc.com/AA00001156/00001)"
--   "Goff's Historical Map of the Spanish-American War in the West Indies, 1898"
-
-> [[https://dloc.com/AA00067799/00001]](https://dloc.com/AA00067799/00001/1x?search=us+%3dpuerto+%3drico)
-
--   "Laws of Cuba, Puerto Rico, and the Philippines"
-
-> [[https://dloc.com/AA00076641/00001]](https://dloc.com/AA00076641/00001?search=us+=puerto+=rico)
-
--   "140 Protest U.S. Military in Vieques"
-
-> [[https://dloc.com/AA00078642/00001]](https://dloc.com/AA00078642/00001?search=us+=puerto+=rico)
-
--   "The World of 1898: The Spanish-American War"
-
-> [[https://loc.gov/rr/hispanic/1898/index.html]](https://loc.gov/rr/hispanic/1898/index.html)
-
--   "Latin American & Caribbean Digital Primary Resources"
-
-> [[https://salalm.org/collection-development-resources/digital-primary-resources/]](https://salalm.org/collection-development-resources/digital-primary-resources/)
-
--   "Puerto Rico Archives and Libraries"
-
-> [[https://www.familysearch.org/wiki/en/Puerto\_Rico\_Archives\_and\_Libraries\#Archives]](https://www.familysearch.org/wiki/en/Puerto_Rico_Archives_and_Libraries#Archives)
-
--   "The American Colonial Handbook"
-
-> [[https://ufdc.ufl.edu/UF00098500/00001]](https://ufdc.ufl.edu/UF00098500/00001)
+-   "[Goff's Historical Map of the Spanish-American War in the West Indies, 1898](https://dloc.com/AA00067799/00001/1x?search=us+%3dpuerto+%3drico)"
+-   "[Laws of Cuba, Puerto Rico, and the Philippines](https://dloc.com/AA00076641/00001?search=us+=puerto+=rico)"
+-   "[140 Protest U.S. Military in Vieques](https://dloc.com/AA00078642/00001?search=us+=puerto+=rico)"
+-   "[The World of 1898: The Spanish-American War](https://loc.gov/rr/hispanic/1898/index.html)"
+-   "[Latin American & Caribbean Digital Primary Resources](https://salalm.org/collection-development-resources/digital-primary-resources/)"
+-   "[Puerto Rico Archives and Libraries](https://www.familysearch.org/wiki/en/Puerto_Rico_Archives_and_Libraries#Archives)"
+-   "[The American Colonial Handbook](https://ufdc.ufl.edu/UF00098500/00001)"
 
 Then students can begin to explore a broad range of experiences of (im)mobility that traverse Black diasporic experiences. By studying the intimacies of Caribbean and African American movement, students will understand relational histories as intertwined and mutually constitutive of key moments in time across geographic space. Topics to explore include sea migration (including critical perspectives on detainment), the Great Migration, general and specific patterns of Caribbean migration to the United States, African American migration to the Caribbean, and the connections between liberation movements in the United States and those across the Caribbean.
 
 ### Black Diaspora (Im)mobilities
 
--   "Caribbean Sea Migration"
-
-> [[http://library.duke.edu/digitalcollections/caribbeansea/]](http://library.duke.edu/digitalcollections/caribbeansea/)
-
--   "The Counter-revolution of 1776: Origins of the United States of America"
-
-[[https://www.zinnedproject.org/news/1776-counter-revolution-us-origins/]](https://www.zinnedproject.org/news/1776-counter-revolution-us-origins/)
-
--   "Making African America"
-
-[[https://nmaahc.si.edu/making-african-america]](https://nmaahc.si.edu/making-african-america)
-
--   "The African-American Migration Experience"
-
-[[http://www.inmotionaame.org]](http://www.inmotionaame.org)
-
--   "Caribbean Immigration"
-
-[[http://www.inmotionaame.org/migrations/landing.cfm\@migration=10.html]](http://www.inmotionaame.org/migrations/landing.cfm@migration=10.html)
-
--   "Black Perspectives"
-
-> [[https://www.dloc.com/AA00054410/00001]](https://www.dloc.com/AA00054410/00001)
-
--   "The Haitian American Dream Timeline"
-
-> [[https://exhibits.uflib.ufl.edu/HaitianAmericanDream/?fbclid=IwAR1VqspacYxyPWm8fwuTxRDc2Fq2Tl7yNc53pv8YaR3CEUQq\--YEDSglDF0]](https://exhibits.uflib.ufl.edu/HaitianAmericanDream/?fbclid=IwAR1VqspacYxyPWm8fwuTxRDc2Fq2Tl7yNc53pv8YaR3CEUQq--YEDSglDF0)
-
--   "Correspondence Relative to the Emigration to Hayti of the Free People of Colour in the United States"
-
-> [[https://www.dloc.com/AA00010444/00001]](https://www.dloc.com/AA00010444/00001?search=african+=american)
-
--   "Haiti: An Island Luminous"
-
-> [[http://islandluminous.fiu.edu/learn.html]](http://islandluminous.fiu.edu/learn.html)
+-   "[Caribbean Sea Migration](http://library.duke.edu/digitalcollections/caribbeansea/)"
+-   "[The Counter-revolution of 1776: Origins of the United States of America](https://www.zinnedproject.org/news/1776-counter-revolution-us-origins/)"
+-   "[Making African America](https://nmaahc.si.edu/making-african-america)"
+-   "[The African-American Migration Experience](http://www.inmotionaame.org)"
+-   "[Caribbean Immigration](http://www.inmotionaame.org/migrations/landing.cfm@migration=10.html)"
+-   "[Black Perspectives](https://www.dloc.com/AA00054410/00001)"
+-   "[The Haitian American Dream Timeline](https://exhibits.uflib.ufl.edu/HaitianAmericanDream/?fbclid=IwAR1VqspacYxyPWm8fwuTxRDc2Fq2Tl7yNc53pv8YaR3CEUQq--YEDSglDF0)"
+-   "[Correspondence Relative to the Emigration to Hayti of the Free People of Colour in the United States](https://www.dloc.com/AA00010444/00001?search=african+=american)"
+-   "[Haiti: An Island Luminous](http://islandluminous.fiu.edu/learn.html)"
 
 Finally, students can synthesize their understandings of imperialism, migration, and freedom through a case study of the Samaná Bay in the Dominican Republic. By assigning individual reading to all students, this case study provides them with an opportunity to view the Samaná Bay territory as a contested site of imperial or colonial power as well as an emancipatory site of migration for African Americans from the United States.[^28]
 
