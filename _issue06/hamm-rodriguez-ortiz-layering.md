@@ -181,7 +181,6 @@ To begin this part of the project, students will research three social disasters
 #### Crash of Flight 587 (2001)
 
 -   "[Remembering America's Second-Deadliest Plane Crash](https://www.theatlantic.com/national/archive/2011/11/remembering-americas-second-deadliest-plane-crash/248313/)"
-
 -   [Uptown's Adriano Espaillat Honors the Memory of the Victims of Flight 587](https://espaillat.house.gov/media/in-the-news/uptown%E2%80%99s-adriano-espaillat-honors-memory-victims-flight-587)
 -   "[Airline Will Pay Crash Victims' Families](https://www.washingtonpost.com/archive/politics/2001/11/17/airline-will-pay-crash-victims-families/8441b3f5-2745-4012-bf60-2d8092169558/)"
 
@@ -217,13 +216,8 @@ Based on these quotes, students might choose to explore placemaking practices th
 
 #### Prince and bachata
 
--   "The Sounds of Black Music: There Are Many Kings, but Only One Prince"
-
-> [[https://www.nypl.org/blog/2021/06/01/sounds-black-music-many-kings-one-prince?aff=nyplwebsite]](https://www.nypl.org/blog/2021/06/01/sounds-black-music-many-kings-one-prince?aff=nyplwebsite)
-
--   "A History of Dominican Music in the United States"
-
-> [[https://www.latinxproject.nyu.edu/intervenxions/a-history-of-dominican-music-in-the-united-states]](https://www.latinxproject.nyu.edu/intervenxions/a-history-of-dominican-music-in-the-united-states)
+-   "[The Sounds of Black Music: There Are Many Kings, but Only One Prince](https://www.nypl.org/blog/2021/06/01/sounds-black-music-many-kings-one-prince?aff=nyplwebsite)"
+-   "[A History of Dominican Music in the United States](https://www.latinxproject.nyu.edu/intervenxions/a-history-of-dominican-music-in-the-united-states)"
 
 As students explore the scene of the nightclub and the entrance to the Underworld, they may also choose to focus on descriptions of Carnival characters who, in the book, inspire fear and deter Pheus from his mission of finding Eury.
 
@@ -236,24 +230,12 @@ Through studying these quotes, students can explore Carnival masks across differ
 #### Carnival (figures represented in the Underworld)
 
 -   Images of *vejigantes* and *lechones* from Carnaval
-
-> [[https://dloc.com/AA00068075/00005]](https://dloc.com/AA00068075/00005?search=carnaval+=dominican)
-
-[[https://dloc.com/AA00068071/00033]](https://dloc.com/AA00068071/00033?search=vejigante)
-
-[[https://dloc.com/AA00068071/00040]](https://dloc.com/AA00068071/00040?search=vejigante)
-
--   "UPR: Caribbean Diaspora DH Center
-
-> [[https://dloc.com/diasporaproject]](https://dloc.com/diasporaproject)
-
--   "UPR: Lowell Fiet Masks"
-
-> [[https://dloc.com/fietmasks]](https://dloc.com/fietmasks)
-
--   "Kanaval: Haitian Rhythms and the Music of New Orleans"
-
-> <https://www.npr.org/series/975403901/kanaval>
+> [Part One](https://dloc.com/AA00068075/00005?search=carnaval+=dominican)
+> [Part Two](https://dloc.com/AA00068071/00033?search=vejigante)
+> [Part Three](https://dloc.com/AA00068071/00040?search=vejigante)
+-   "[UPR: Caribbean Diaspora DH Center](https://dloc.com/diasporaproject)"
+-   "[UPR: Lowell Fiet Masks](https://dloc.com/fietmasks)"
+-   "[Kanaval: Haitian Rhythms and the Music of New Orleans](https://www.npr.org/series/975403901/kanaval)"
 
 ### Spirituality in American Street
 
@@ -269,19 +251,10 @@ Students may seek to learn more about the *lwa* mentioned in the book and their 
 
 #### Vodou
 
--   "Vodou Archive"
-
-> [[https://dloc.com/vodou]](https://dloc.com/vodou)
-
--   "Demystifying Haitian Vodou and Its Cultural Role in the Education of Haitian Americans: Dr. Bayyinah Bello Interview"
-
-> [[https://dloc.com/AA00068687/00001]](https://dloc.com/AA00068687/00001?search=religion+=philosophy+=religion+=philosophy)
-
--   "Dr. Celucien Joseph Lecture: 'What Are They Saying about Vodou?" (four parts) [[https://dloc.com/AA00056966/00001]](https://dloc.com/AA00056966/00001?search=religion+=philosophy+=religion+=philosophy)
-
--   "Petwo Ceremony Commemorating Bwa Kayiman, 1950"
-
-> [[https://haitianartsociety.org/petwo-ceremony-commemorating-bwa-kayiman-1950]](https://haitianartsociety.org/petwo-ceremony-commemorating-bwa-kayiman-1950)
+-   "[Vodou Archive](https://dloc.com/vodou)"
+-   "[Demystifying Haitian Vodou and Its Cultural Role in the Education of Haitian Americans: Dr. Bayyinah Bello Interview](https://dloc.com/AA00068687/00001?search=religion+=philosophy+=religion+=philosophy)"
+-   "[Dr. Celucien Joseph Lecture: 'What Are They Saying about Vodou?'(four parts)](https://dloc.com/AA00056966/00001?search=religion+=philosophy+=religion+=philosophy)"
+-   "[Petwo Ceremony Commemorating Bwa Kayiman, 1950](https://haitianartsociety.org/petwo-ceremony-commemorating-bwa-kayiman-1950)"
 
 ### Transnational Imaginaries in Clap When You Land
 
