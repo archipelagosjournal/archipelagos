@@ -158,27 +158,12 @@ Finally, students can synthesize their understandings of imperialism, migration,
 
 ### African American Migration to the Caribbean: Case Study of Samaná Bay
 
--   "West Indies, Hispaniola---North Coast, Dominican Republic, Bahia de Samaná" [[https://www.dloc.com/UF00053407/00001?search=samana]](https://www.dloc.com/UF00053407/00001?search=samana)
-
--   "The Samaná Americans"
-
-[[https://www.penn.museum/documents/publications/expedition/PDFs/47-1/Weeks.pdf]](https://www.penn.museum/documents/publications/expedition/PDFs/47-1/Weeks.pdf)
-
--   "Preserving Black American History through Song in the Dominican Republic"
-
-> [[https://www.nytimes.com/2018/11/30/travel/preserving-black-american-history-through-song-in-the-dominican-republic.html]](https://www.nytimes.com/2018/11/30/travel/preserving-black-american-history-through-song-in-the-dominican-republic.html)
-
--   "Freemen Community on Samaná Bay (Dominican Republic)"
-
-> [[https://nkaa.uky.edu/nkaa/items/show/1898]](https://nkaa.uky.edu/nkaa/items/show/1898)
-
--   "The Samaná Affair"
-
-> [[https://haitidoi.com/2013/10/09/the-samana-affair-2/]](https://haitidoi.com/2013/10/09/the-samana-affair-2/)
-
--   "Samana et ses projets de cession, 1844--91"
-
-[https://www.dloc.com/AA00001310/00001/2j]
+-   "[West Indies, Hispaniola---North Coast, Dominican Republic, Bahia de Samaná](https://www.dloc.com/UF00053407/00001?search=samana)"
+-   "[The Samaná Americans](https://www.penn.museum/documents/publications/expedition/PDFs/47-1/Weeks.pdf)"
+-   "[Preserving Black American History through Song in the Dominican Republic](https://www.nytimes.com/2018/11/30/travel/preserving-black-american-history-through-song-in-the-dominican-republic.html)"
+-   "[Freemen Community on Samaná Bay (Dominican Republic)](https://nkaa.uky.edu/nkaa/items/show/1898)"
+-   "[The Samaná Affair](https://haitidoi.com/2013/10/09/the-samana-affair-2/)"
+-   "[Samana et ses projets de cession, 1844--91](https://www.dloc.com/AA00001310/00001/2j)"
 
 In the next stage of the project, students will be regrouped as they begin reading the novels. Each group will read one novel and then, both throughout and after reading, we encourage regular opportunities for one student from each group to convene in a new group that has all novels represented. Having students work in newly formed small groups ensures that each collective has background knowledge from prior work completed in part 1 as well as distinctive viewpoints from deep reading of the novels to bring together for this stage. Thus students not only will focus on engaging with one novel but will put content from the three novels into conversation with the primary and secondary resources studied using dLOC and other sources. After the novels have been completed, students in these mixed groups will be encouraged to use a slideshow format (PowerPoint, Google Slides, Canva Presentation, StoryMaps) to develop a multimodal presentation of the relational histories represented by their background research and the diasporic trajectories of the protagonists in the novels they read. Students might respond to the following prompts as they develop their group projects: How do the novels reveal relationships between Caribbean migrations and US imperialism? How do the novels represent the interconnectedness of Caribbean and African American histories and communities in the United States? How do the authors draw on historical research to illustrate the everyday life of the novels' Afro-Caribbean protagonists? How do relational histories help you make sense of the diasporic trajectories described in each novel?
 
@@ -195,63 +180,26 @@ To begin this part of the project, students will research three social disasters
 
 #### Crash of Flight 587 (2001)
 
--   "Remembering America's Second-Deadliest Plane Crash"
+-   "[Remembering America's Second-Deadliest Plane Crash](https://www.theatlantic.com/national/archive/2011/11/remembering-americas-second-deadliest-plane-crash/248313/)"
 
-> [[https://www.theatlantic.com/national/archive/2011/11/remembering-americas-second-deadliest-plane-crash/248313/]](https://www.theatlantic.com/national/archive/2011/11/remembering-americas-second-deadliest-plane-crash/248313/)
-
--   Uptown's Adriano Espaillat Honors the Memory of the Victims of Flight 587
-
-    <https://espaillat.house.gov/media/in-the-news/uptown%E2%80%99s-adriano-espaillat-honors-memory-victims-flight-587>
-
-
-
--   "Airline Will Pay Crash Victims' Families"
-
-> [[https://www.washingtonpost.com/archive/politics/2001/11/17/airline-will-pay-crash-victims-families/8441b3f5-2745-4012-bf60-2d8092169558/]](https://www.washingtonpost.com/archive/politics/2001/11/17/airline-will-pay-crash-victims-families/8441b3f5-2745-4012-bf60-2d8092169558/)
+-   [Uptown's Adriano Espaillat Honors the Memory of the Victims of Flight 587](https://espaillat.house.gov/media/in-the-news/uptown%E2%80%99s-adriano-espaillat-honors-memory-victims-flight-587)
+-   "[Airline Will Pay Crash Victims' Families](https://www.washingtonpost.com/archive/politics/2001/11/17/airline-will-pay-crash-victims-families/8441b3f5-2745-4012-bf60-2d8092169558/)"
 
 #### Earthquake in Port-au-Prince, Haiti (2010)
 
--   "Amid Rubble and Ruin, Our Duty to Haiti Remains"
-
-> [[https://www.npr.org/templates/story/story.php?storyId=122567412]](https://www.npr.org/templates/story/story.php?storyId=122567412)
-
--   *Eight Days: A Story of Haiti*
-
-> [[https://www.powells.com/book/eight-days-a-story-of-haiti-9780545278492?partnerid=33733]](https://www.powells.com/book/eight-days-a-story-of-haiti-9780545278492?partnerid=33733)
-
--   "From Disaster, Emerging Life"
-
-> [[https://www.nytimes.com/2010/04/12/opinion/12trouillot.html]](https://www.nytimes.com/2010/04/12/opinion/12trouillot.html)
-
--   "The Memory Box"
-
-> <https://africasacountry.com/2015/10/digital-archive-no-20-the-haiti-memory-project>
+-   "[Amid Rubble and Ruin, Our Duty to Haiti Remains](https://www.npr.org/templates/story/story.php?storyId=122567412)"
+-   *[Eight Days: A Story of Haiti](https://www.powells.com/book/eight-days-a-story-of-haiti-9780545278492?partnerid=33733)*
+-   "[From Disaster, Emerging Life](https://www.nytimes.com/2010/04/12/opinion/12trouillot.html)"
+-   "[The Memory Box](https://africasacountry.com/2015/10/digital-archive-no-20-the-haiti-memory-project)}
 
 #### Hurricane María (2017)
 
--   "Archivo del Huracán María"
-
-> [[https://dloc.com/AA00079427/00001]](https://dloc.com/AA00079427/00001?search=hurricane+=maria)
-
--   "The Puerto Rico Disaster Archive: Preserving the Cultural Legacy of Puerto Rico"
-
-> [[https://dloc.com/AA00077916/00001]](https://dloc.com/AA00077916/00001?search=hurricane+=maria)
-
--   "La ruta de María"
-
-> [[https://dloc.com/AA00062610/00001]](https://dloc.com/AA00062610/00001?search=hurricane+=maria)
-
--   "Listening to Puerto Rico"
-
-> [[https://listeningtopuertorico.org]](https://listeningtopuertorico.org)
-
--   "Hurricane María"
-
-> [[https://puertoricosyllabus.com/syllabus/hurricane-maria/]](https://puertoricosyllabus.com/syllabus/hurricane-maria/)
-
--   "Puerto Rico Mapathon for Hurricane Relief"
-
-> [[http://xpmethod.columbia.edu/events/2017-09-29-puerto-rico-mapathon.html]](http://xpmethod.columbia.edu/events/2017-09-29-puerto-rico-mapathon.html)
+-   "[Archivo del Huracán María](https://dloc.com/AA00079427/00001?search=hurricane+=maria)"
+-   "[The Puerto Rico Disaster Archive: Preserving the Cultural Legacy of Puerto Rico](https://dloc.com/AA00077916/00001?search=hurricane+=maria)"
+-   "[La ruta de María](https://dloc.com/AA00062610/00001?search=hurricane+=maria)"
+-   "[Listening to Puerto Rico](https://listeningtopuertorico.org)"
+-   "[Hurricane María](https://puertoricosyllabus.com/syllabus/hurricane-maria/)"
+-   "[Puerto Rico Mapathon for Hurricane Relief](http://xpmethod.columbia.edu/events/2017-09-29-puerto-rico-mapathon.html)"
 
 As students read, they should take notes of key passages that resonate with them. In particular, we recommend that students focus on excerpts that shed light on the placemaking practices that mediate experiences of migration, collective memory of (un)natural disasters, and complex notions of home. Students should be encouraged to group quotes thematically as they read their novel, staying attuned to questions that these quotes raise or the topics they feel compelled to explore in more detail. Students can regularly share and discuss these quotes in the small groups formed with others reading the same novel. Then, in the mixed groups, the quotes will be the basis for the digital research using dLOC and other resources. In these second groups, students will add new slides to the presentations developed for part I of their digital projects, this time complementing textual representations of placemaking (i.e., quotes from the text) with multimodal resources that illustrate more clearly how meaning is negotiated and how people, ideas, concepts, practices, and things interact and travel across time and space. The examples that follow illustrate how a set of quotes might guide the types of resources that students review and incorporate into their digital projects.
 
