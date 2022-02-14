@@ -12,7 +12,7 @@ author:
     René Johannes Kooiker is a PhD student in the Department of Comparative Literature at Yale University. His main interests are twentieth-century Caribbean literature in English, Dutch, French, and Spanish. He is currently researching the Pan-Caribbean cultural and literary festival Carifesta along with its Pan-African counterparts, such as FESTAC '77 and PANAF 1969. His book reviews have been published in *Modern Language Quarterly* and the *Dutch Review of Books*.
 date: March 2022
 issue: 6
-order: 3
+order: 5
 abstract: >
   Carifesta took place for the first time in 1972 with the sponsorship of Forbes Burnham's People's National Congress in newly independent Guyana, and the festival recurs around the Caribbean to this day. Relying on print resources and digitized archives from the Digital Library of the Caribbean (dLOC), this essay recovers Edward Kamau Brathwaite's participation in the inaugural edition, which he praised as the "first ever meeting of the Caribbean." In addition to reading from and lecturing on his own poems, he published a series of eight articles covering the events in the Barbados daily the *Advocate-News* in an attempt to involve readers in the ephemeral Pan-Caribbean public sphere the festival created. On the one hand, the Carifesta pieces offer a new perspective on Brathwaite's essays from the 1970s, in which he developed his notions of creolization and Caribbean aesthetics; on the other, Brathwaite's reflections posit Carifesta as epitomizing both the great promise and the disappointments of the Caribbean 1970s. The essay recommends an approach to the intellectual history of Caribbean thought as it was lived, performed, and institutionalized in public at events, congresses, and festivals such as Carifesta. In closing, the essay offers reflections on the Carifesta holdings in dLOC. 
 abstract_fr: >
@@ -105,7 +105,7 @@ The refrain among the written recollections I've read (Salkey's, Clarke's, and B
 
 ---
 
-[^1]: Edward Kamau Brathwaite, "Carifesta '72: Festival of Creative Arts of the Caribbean," *Advocate-News*, 16 October 1972. For most citations of Brathwaite's work, I used the bibliography by Kelly Baker Josephs and Teanu Reid, "The Kamau Brathwaite Bibliography: A Collaboration in Progress," *sx salon*, no. 27 (February 2018), https://urldefense.proofpoint.com/v2/url?u=https-3A\_\_caribbean.commons.gc.cuny.edu\_wp-2Dcontent\_blogs.dir\_441\_files\_2018\_03\_kb-2Dbibliography.pdf&d=DwIGAw&c=sJ6xIWYx-zLMB3EPkvcnVg&r=D-bWIp1qbJyQBxz5IGTvtVB2arxaxT\_WHSwTnPq9AH4&m=eBxgApczLx6ZSCTVnbXIzLg9QVm0oUP2mVLswM-S0Pg&s=0BlXiT0cGGvoGDVKnh6NtmS2dYu6ESe80TuoO6lNy9o&e= .
+[^1]: Edward Kamau Brathwaite, "Carifesta '72: Festival of Creative Arts of the Caribbean," *Advocate-News*, 16 October 1972. For most citations of Brathwaite's work, I used the bibliography by Kelly Baker Josephs and Teanu Reid, "The Kamau Brathwaite Bibliography: A Collaboration in Progress," *sx salon*, no. 27 (February 2018), https://urldefense.proofpoint.com/v2/url?u=https-3A\_\_caribbean.commons.gc.cuny.edu\_wp-2Dcontent\_blogs.dir\_441\_files\_2018\_03\_kb-2Dbibliography.pdf&d=DwIGAw&c=sJ6xIWYx-zLMB3EPkvcnVg&r=D-bWIp1qbJyQBxz5IGTvtVB2arxaxT\_WHSwTnPq9AH4&m=eBxgApczLx6ZSCTVnbXIzLg9QVm0oUP2mVLswM-S0Pg&s=0BlXiT0cGGvoGDVKnh6NtmS2dYu6ESe80TuoO6lNy9o&e=.
 
 [^2]: Aaron Kamugisha, "On the Idea of a Caribbean Cultural Studies," *Small Axe*, no. 42 (July 2013): 43--57.
 

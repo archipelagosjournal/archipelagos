@@ -20,7 +20,7 @@ author:
     Mireille Fombrun Mallebranche is a Haitian-born artist and sculptor. As a member of the Fombrun family, she has been in charge of the conservation and daily activities at the Musée Ogier-Fombrun for the past decade. She is also a counselor to the executive board of the Haitian Committee of the International Council of Museums (ICOM-Haïti).
 date: March 2020
 issue: 6
-order: 3
+order: 4
 abstract: >
   Located in Montrouis, Haiti, the Musée Ogier-Fombrun (MOF) chronicles the Haitian Revolution through artifacts, installations, and local heritage sites. Recent threats, such as COVID-related travel restrictions and related economic and political vulnerabilities, however, have drastically reduced the museum's operations and its capacity to serve visitors. Alarmed by these challenges and worsening conditions, MOF staff and volunteers have turned to digitization as a means of amplifying and safeguarding. In partnership with the Digital Library of the Caribbean (dLOC), they have begun to organize, analyze, and digitize the MOF's collection and archives. This essay examines this ongoing process through the twin concepts of digitization as revival, and revival as survival. Beyond newfound benefits afforded to visitors---who may now study museum items virtually---digitization can motivate staff, inspire communal support, and create "carbon copies" of items whose tangibility may be in danger. At the same time, it poses problems related to changing technology, considerable staff training, and limitations on who can access digital content. As a case study, this essay aims to highlight an institutional perspective on digitization, how dLOC and similar entities aid museum revival, and the undertaking of digitization projects during a global pandemic. 
 abstract_fr: >
@@ -175,11 +175,12 @@ Conclusion
 
 In this case study, we have examined the planning and ongoing execution of a digitization project at a Haitian museum. After providing an overview of Haitian museology and the challenges and discussing opportunities in bodies of work dedicated to digitization, we documented the nuances of digitization as a pathway to ensure that brick-and-mortar museums continue to exist beyond the threats to their physical existence. We further explain that the very process of preparing for such an outcome can inspire avenues for ensuring that museums do not close. We stress not only the importance of museums generally, but the particular importance of museums in Haiti. At the same time, some of the obstacles faced by museums such as the MOF relate to the fact that museums are rarely perceived for what they really are, namely, true places for sharing the culture and history of the people, places where one can meet a reality manifested in the most concrete and penetrating way. Museum culture is considered a modality of the notion of *habitus*, a socially inculcated disposition.[^36] To respond to indifference and lack of support, museums and other actors must become more involved in communicative strategies aimed at reaching a larger audience that is more aware of the museum's role as a vehicle for social cohesion and development. This would be an important contribution to awareness of the richness of Haitian heritage---to better understand the history and memory of slavery, for example, because of its enigmatic character in the daily life of the Haitian population---yet such communication strategies are also helpful to the world at large. The advantage is that a typology has already been established for identification of the subjects addressed by the Haitian museums still in operation. The Musée Ogier-Fombrun, for example, is built on a former slave plantation whose existence is tied to a brutal collective past but whose subsequent abandonment foreshadowed the onset of the Haitian Revolution. In devoting itself to this history, the MOF and corresponding museums around the world provide a critical service to their constituents and society at large. Their collections and archives, therefore, belong to us all, making the work to preserve them (through collective digitization or other means) a shared responsibility.
 
+Acknowledgments
+---------------
+
+We would like to thank Stephanie Chancy, Grégory Docteur, Kevin Fombrun, Judith Michèle, and Nelson Vernelus for their insights and contributions on digitization and collections management."
+
 ---
-
-[^1]: Mireille Fombrun Mallebranche is the director of the Musée Ogier-Fombrun (MOF). Natália Marques da Silva is a doctoral candidate and an alum of two universities that founded the Digital Library of the Caribbean. All authors participated in the planning and execution of the digitization project as volunteers and remain active in the MOF's digitization program.
-
-    We would like to thank Stephanie Chancy, Grégory Docteur, Kevin Fombrun, Judith Michèle, and Nelson Vernelus for their insights and contributions on digitization and collections management.
 
 [^2]: dLOC, "dLOC: A Multi-institutional, International Digital Library," accessed 1 April 2021, https://www.dloc.com/dloc1/about.
 

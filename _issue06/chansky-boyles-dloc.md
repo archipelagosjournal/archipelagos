@@ -16,7 +16,7 @@ author:
     Lorem ipsum
 date: March 2022
 issue: 6
-order: 5
+order: 7
 abstract: >
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim facilisis gravida neque convallis a cras. Neque gravida in fermentum et. Nullam non nisi est sit. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tellus id interdum velit laoreet id donec ultrices tincidunt. Dolor sit amet consectetur adipiscing. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Scelerisque fermentum dui faucibus in ornare. Cras fermentum odio eu feugiat pretium nibh. Ipsum a arcu cursus vitae congue mauris rhoncus aenean. Sed id semper risus in hendrerit gravida. 
 abstract_fr: >
@@ -58,15 +58,11 @@ For example, in the wake of San Felipe II the United States intervened in the di
 
 Roosevelt's response mirrored that of the federal government. While Calvin Coolidge initially sent ships with food and supplies to the island, "by the end of the week, officials were saying the best way to rebuild Porto Rico was to put people to work, not hand them charity."[^10] This response, which bears an uncanny resemblance to that of Donald Trump and Governor Ricky Rosselló after Hurricane María, had significant consequences for the island. Federal money provided limited aid to Puerto Rico, even though the storm left "medio millón de puertorriqueños sin hogar y pérdidas ascendentes a \$85 millones" ("a half million Puerto Ricans without homes and with losses in excess of \$85 million").[^11] As such, many local industries---coffee, sugarcane, and tobacco---collapsed and government services---schools, water treatment, road maintenance---halted.[^12]
 
-During my first visit to Puerto Rico in March 2017, I interviewed four individuals who had
-
-lived through San Felipe. Their stories illustrated the many ways disaster recovery hurt
-
-Puerto Rican citizens---by prioritizing businesses over people and by prioritizing recent arrivals from the mainland United States over Puerto Rican citizens.[^13] As I transcribed these interviews during the summer and early fall of 2017, I watched with horror as Hurricanes Irma and María made landfall in Puerto Rico. As in 1928, disparities in the federal government's response to the hurricane in Puerto Rico and Florida made evident the ways colonialism was and is embedded into the disaster recovery process. Aid resources and financial support were distributed efficiently in Florida, while policies like the Jones Act of 1920 prevented Puerto Rico from receiving aid at its moment of greatest need. Other federal government actions, including the delay of \$20 billion in aid[^14] and the Tax Cuts and Jobs Act of 2017,[^15] increased the vulnerability of Puerto Ricans and made it easier for outside entities to capitalize on Puerto Rico's trauma.
+During my first visit to Puerto Rico in March 2017, I interviewed four individuals who had lived through San Felipe. Their stories illustrated the many ways disaster recovery hurt Puerto Rican citizens---by prioritizing businesses over people and by prioritizing recent arrivals from the mainland United States over Puerto Rican citizens.[^13] As I transcribed these interviews during the summer and early fall of 2017, I watched with horror as Hurricanes Irma and María made landfall in Puerto Rico. As in 1928, disparities in the federal government's response to the hurricane in Puerto Rico and Florida made evident the ways colonialism was and is embedded into the disaster recovery process. Aid resources and financial support were distributed efficiently in Florida, while policies like the Jones Act of 1920 prevented Puerto Rico from receiving aid at its moment of greatest need. Other federal government actions, including the delay of \$20 billion in aid[^14] and the Tax Cuts and Jobs Act of 2017,[^15] increased the vulnerability of Puerto Ricans and made it easier for outside entities to capitalize on Puerto Rico's trauma.
 
 When I saw how similar the responses to San Felipe and María were, I knew I needed to shift my attention to the failed disaster response occurring in front of me. I reached out to colleagues and spoke at conferences about my research, hoping to connect with others interested in examining issues pertaining to disaster and disaster response. During this time, I met Laurie Taylor, dLOC's digital scholarship director. Laurie not only introduced me to many of my current collaborators but also provided insight and expertise on building relationships with researchers and community groups across the Caribbean. These conversations mark the early days of the Archivo de Respuestas Emergencias de Puerto Rico, though I didn't know that yet. Before the project could begin in earnest, I needed to build a community with scholars and activists doing the crucial work of documenting, acting, and organizing in response to María and the crises that followed. One of these conversations---focused on decolonial approaches to oral history---was with Ricia. Her work with the "Mi María" project was and is crucial to developing a vision for AREPR.
 
-Audio hosted here: [https://cboyles.msu.domains/puertorico/christina/]{.underline}
+Audio hosted here: [https://cboyles.msu.domains/puertorico/christina/]
 
 After the Hurricane (Ricia)
 ---------------------------
@@ -95,7 +91,7 @@ Sound theorists such as R. Murray Schafer, Candice Hopkins, and Pablo José Ram�
 
 Decolonial listening, then, asks us to step outside of our ingrained auditory patterns of recognition to hear---and think---in new ways. The earthquake alarm bell that I mention in my audio essay, for example, filtered through my sensory perception as a text message alert, initially making a meaning that was dependent on my own entrenched experiential knowledges rather than the given context of the earthquake swarm. One way to begin to surpass these deep-seated practices is modeled by the dLOC approach of partnering with community sites for collection and archiving, adapted in our own postcustodial practice in AREPR. The methods that the "Mi María" project similarly developed---as a shared governance model executed through a nonhierarchical collective formed between me, students, community partners, mutual aid organizations, other faculty members and scholars, and external stakeholders---constitute another way to be mindful of just who is listening and for what purposes. Imperfect as a model wrought in the urgency of aftermath must be, it is one we are continually working to refine as the project develops into an ongoing program. Only with decolonial, antiracist, and trauma-informed practices at its core can it seek to address equitably the ongoing stratified disasters facing Puerto Rico as a frontline community in the worldwide climate crisis.
 
-Audio hosted here: [[https://cboyles.msu.domains/puertorico/ricia/]{.underline}](about:blank)
+Audio hosted here: [https://cboyles.msu.domains/puertorico/ricia/]
 
 The Archivo de Respuestas Emergencias de Puerto Rico (Ricia and Christina)
 --------------------------------------------------------------------------
@@ -128,31 +124,31 @@ Ricia would like to thank Aleyshka Estevez Quintana for her assistance with the 
 
 [^1]: Michel-Rolph Trouillot. *Silencing the Past: Power and the Production of History* (Boston: Beacon, 2015), 26.
 
-[^2]: King Ferdinand, "*Letter to the Taino-Arawak Indians*" (1500), [[http://www.let.rug.nl/usa/documents/before-1600/king-ferdinands-letter-to-the-taino-arawak-indians.php](about:blank).]{.underline}
+[^2]: King Ferdinand, "*Letter to the Taino-Arawak Indians*" (1500), [[http://www.let.rug.nl/usa/documents/before-1600/king-ferdinands-letter-to-the-taino-arawak-indians.php].]
 
-[^3]: J. J. Ghaddar and Michelle Caswell, "'To Go Beyond': Towards a Decolonial Archival Praxis," *Archival Science* 19 (2019): 80, [[https://doi.org/10.1007/s10502-019-09311-1]{.underline}](about:blank).
+[^3]: J. J. Ghaddar and Michelle Caswell, "'To Go Beyond': Towards a Decolonial Archival Praxis," *Archival Science* 19 (2019): 80, [[https://doi.org/10.1007/s10502-019-09311-1]].
 
 [^4]: Christina Boyles, sonic essay.
 
-[^5]: Society of American Archivists, "postcustodial," SAA Dictionary of Archives Terminology, [[https://dictionary.archivists.org/entry/postcustodial.html/](about:blank).]{.underline}
+[^5]: Society of American Archivists, "postcustodial," SAA Dictionary of Archives Terminology, [[https://dictionary.archivists.org/entry/postcustodial.html/].]
 
-[^6]: Christina Boyles, "Resilience, Recovery, and Refusal: The (Un)tellable Narratives of Post-María Puerto Rico," *enculturation* 32 (2020): [[http://enculturation.net/resilience-recovery-refusal]{.underline}](about:blank).
+[^6]: Christina Boyles, "Resilience, Recovery, and Refusal: The (Un)tellable Narratives of Post-María Puerto Rico," *enculturation* 32 (2020): [[http://enculturation.net/resilience-recovery-refusal]].
 
-[^7]: Tao Leigh Goffe, "Unmapping the Caribbean: Toward a Digital Praxis of Archipelagic Sounding," *archipelagos* 5 (December 2020): [[https://archipelagosjournal.org/issue05/goffe-unmapping.html]{.underline}](about:blank).
+[^7]: Tao Leigh Goffe, "Unmapping the Caribbean: Toward a Digital Praxis of Archipelagic Sounding," *archipelagos* 5 (December 2020): [[https://archipelagosjournal.org/issue05/goffe-unmapping.html]].
 
-[^8]: Melisa Ortega Marrero, "El huracán María no superó a San Felipe II según un informe preliminar," *El Nuevo Dia*, 29 September 2017, [https://www.elnuevodia.com/noticias/locales/notas/el-huracan-maria-no-supero-a-san-felipe-ii-segun-un-informe-preliminar/.]{.underline}
+[^8]: Melisa Ortega Marrero, "El huracán María no superó a San Felipe II según un informe preliminar," *El Nuevo Dia*, 29 September 2017, [https://www.elnuevodia.com/noticias/locales/notas/el-huracan-maria-no-supero-a-san-felipe-ii-segun-un-informe-preliminar/.]
 
-[^9]: *Annual Report of the Governor of Porto Rico for the Fiscal Year Ending June 30, 1930* (Washington, DC: Government Printing Office, 1930), <https://babel.hathitrust.org/cgi/pt?id=mdp.39015068469728&view=1up&seq=3>[.]{.underline}
+[^9]: *Annual Report of the Governor of Porto Rico for the Fiscal Year Ending June 30, 1930* (Washington, DC: Government Printing Office, 1930), <https://babel.hathitrust.org/cgi/pt?id=mdp.39015068469728&view=1up&seq=3>[.]
 
 [^10]: Eliot Kleinberg, *Black Cloud:* *The Deadly Hurricane of 1928* (Cocoa: Florida Historical Society Press, 2016), 53.
 
-[^11]: Luis R. Negrón Hernández, "Teodoro Roosevelt, Jr.," *Puerto Rico en Breve*, 1990, [https://www.preb.com/qs/qsoy100.htm.]{.underline}
+[^11]: Luis R. Negrón Hernández, "Teodoro Roosevelt, Jr.," *Puerto Rico en Breve*, 1990, [https://www.preb.com/qs/qsoy100.htm.]
 
-[^12]: *Annual Report of the Governor of Porto Rico for the Fiscal Year Ending June 30, 1929* (Washington, DC: Government Printing Office, 1929), <https://babel.hathitrust.org/cgi/pt?id=mdp.39015053274398&view=1up&seq=5>[.]{.underline}
+[^12]: *Annual Report of the Governor of Porto Rico for the Fiscal Year Ending June 30, 1929* (Washington, DC: Government Printing Office, 1929), <https://babel.hathitrust.org/cgi/pt?id=mdp.39015053274398&view=1up&seq=5>[.]
 
 [^13]: The *Annual Report of the Governor of Puerto Rico* of 1929 documents many of the problematic decisions made by the federal government in the wake of San Felipe.
 
-[^14]: US Department of Housing and Urban Development, "Review of HUD's Disbursement of Grant Funds Appropriated for Disaster Recovery and Mitigation Activities in Puerto Rico," 21 April 2021, [[https://www.hudoig.gov/sites/default/files/2021-04/HUD%20OIG%20Final%20Report\_2019SU008945I.pdf](about:blank).]{.underline}
+[^14]: US Department of Housing and Urban Development, "Review of HUD's Disbursement of Grant Funds Appropriated for Disaster Recovery and Mitigation Activities in Puerto Rico," 21 April 2021, [[https://www.hudoig.gov/sites/default/files/2021-04/HUD%20OIG%20Final%20Report\_2019SU008945I.pdf].]
 
 [^15]: The Tax Cuts and Jobs Act of 2017 established opportunity zones, or low-resourced areas in need of improved infrastructure. This act provides tax write-offs for private entities that invest, or take over, these areas. Over 98 percent of Puerto Rico was designated as an opportunity zone when this act passed in December 2017, only three months after Hurricane María made landfall in Puerto Rico.
 
@@ -162,7 +158,7 @@ Ricia would like to thank Aleyshka Estevez Quintana for her assistance with the 
 
 [^18]: Vivienne's story is featured in *Mi María*.
 
-[^19]: Walter Mignolo, "Interview---Walter Mignolo / Part 2: Key Concepts," interview by Alvina Hoffmann, *E-International Relations*, 21 January 2017, [[https://www.e-ir.info/2017/01/21/interview-walter-mignolopart-2-key-concepts/](about:blank).]{.underline}
+[^19]: Walter Mignolo, "Interview---Walter Mignolo / Part 2: Key Concepts," interview by Alvina Hoffmann, *E-International Relations*, 21 January 2017, [[https://www.e-ir.info/2017/01/21/interview-walter-mignolopart-2-key-concepts/].]
 
 [^20]: Svetlana Alexievich, *Voices from Chernobyl: The Oral History of a Nuclear Disaster*, trans. Keith Gessen (Champaign, IL: Dalkey Archive Press, 2019).
 

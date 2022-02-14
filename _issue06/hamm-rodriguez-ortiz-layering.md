@@ -16,7 +16,7 @@ author:
     Lorem ipsum
 date: March 2022
 issue: 6
-order: 7
+order: 9
 abstract: >
   Caribbean studies paradigms grounded in relationality and interconnectedness have a rich history and contemporary presence within literary and historical scholarship. However, these paradigms remain marginalized within K--12 contexts in the United States, resulting in few opportunities for students in formal educational spaces to draw from and reimagine the foundational role of Caribbean diasporic communities across a range of contexts and time periods. This essay illustrates how digital pedagogical approaches may both disrupt the exclusions of Caribbean multimodal texts within secondary language arts classrooms and reframe reading and writing through relational, Black diasporic, and translingual perspectives. Drawing from three young adult novels (Elizabeth Acevedo's *Clap When You Land*, Ibi Zoboi's *American Street*, and Lilliam Rivera's *Never Look Back*), we outline digital projects that emphasize the relational entanglements of Morningside Heights, Detroit, Tampa, and the Bronx with the Dominican Republic, Puerto Rico, and Haiti. Relying on archival materials from the Digital Library of the Caribbean (dLOC) and related collections, we encourage educators to layer texts, modalities, histories, languages, and sounds to engage with themes explored across the novels, including US imperialism, Caribbean migrations, African American history, (un)natural disasters, and diasporic placemaking practices. This essay serves as a pedagogical resource for educators seeking to deepen their classroom engagement with Caribbean texts, histories, and contemporary experiences and to use more expansive literacy practices in the process. 
 abstract_fr: >
@@ -62,8 +62,7 @@ Black Diaspora Literacies in K--12 Classrooms
 
 {% include epigraph.html
     quote = "I am at a crossroads again."
-    citation = "Ibi Zoboi, <em>American Street</em>."
-%}
+    citation = "Ibi Zoboi, <em>American Street</em>." %}
 
 {% include image.html
     img="figure-2.jpg"
@@ -187,7 +186,7 @@ To begin this part of the project, students will research three social disasters
 #### Earthquake in Port-au-Prince, Haiti (2010)
 
 -   "[Amid Rubble and Ruin, Our Duty to Haiti Remains](https://www.npr.org/templates/story/story.php?storyId=122567412)"
--   *[Eight Days: A Story of Haiti](https://www.powells.com/book/eight-days-a-story-of-haiti-9780545278492?partnerid=33733)*
+-   [Eight Days: A Story of Haiti](https://www.powells.com/book/eight-days-a-story-of-haiti-9780545278492?partnerid=33733)
 -   "[From Disaster, Emerging Life](https://www.nytimes.com/2010/04/12/opinion/12trouillot.html)"
 -   "[The Memory Box](https://africasacountry.com/2015/10/digital-archive-no-20-the-haiti-memory-project)}
 
@@ -206,11 +205,11 @@ As students read, they should take notes of key passages that resonate with them
 
 In *Never Look Back*, Eury and Pheus connect over music. While Eury tunes out the world around her and listens to Prince on repeat, Pheus is widely known in the Bronx for his talents as a bachatero. In allusions to the Greek legend of Orpheus and Eurydice, those musical talents prove to be a possible downfall as Pheus must overcome his self-absorption to rescue Eury from Ato in the Underworld. The portal to the Underworld opens at a nightclub, where Pheus performs for a large crowd and largely ignores Eury's concerns about the owner who keeps following her. The quotes below illustrate the central role that music plays in Eury's memories of Puerto Rico, and in her relationship with Pheus.
 
-> *"You must miss Puerto Rico," I say. "Yes." Her sadness returns and overshadows the good. "I miss it so much." "The hurricane?" I ask. She nods. I don't know what it must be like to be forced to leave your home. I don't wish it on anyone. There is a silence, and although silence can make others feel uncomfortable, I accept it. It's okay to let the her person find the right words to communicate. It is the same with music. (38)*
+> "You must miss Puerto Rico," I say. "Yes." Her sadness returns and overshadows the good. "I miss it so much." "The hurricane?" I ask. She nods. I don't know what it must be like to be forced to leave your home. I don't wish it on anyone. There is a silence, and although silence can make others feel uncomfortable, I accept it. It's okay to let the her person find the right words to communicate. It is the same with music. (38)
 >
-> *Penelope smells like the ocean. The familiar scent permeates the bedroom, and thoughts of home overwhelm me. It doesn't matter how long I've been away or what new city I land in, the island is never far from my thoughts. A scent, a familiar phrase uttered by someone, a song. Signs are presented to me on a daily or sometimes hourly basis, beckoning  back. (147)*
+> Penelope smells like the ocean. The familiar scent permeates the bedroom, and thoughts of home overwhelm me. It doesn't matter how long I've been away or what new city I land in, the island is never far from my thoughts. A scent, a familiar phrase uttered by someone, a song. Signs are presented to me on a daily or sometimes hourly basis, beckoning  back. (147)
 >
-> *I look over Pheus's application for the music program on a borrowed iPad. I'm reading his essay, which he titled "The History of My Lamentations." He writes about bachata music and its connection to the Dominican Republic. How this music has traveled from an island to this city. (303)*
+> I look over Pheus's application for the music program on a borrowed iPad. I'm reading his essay, which he titled "The History of My Lamentations." He writes about bachata music and its connection to the Dominican Republic. How this music has traveled from an island to this city. (303)
 
 Based on these quotes, students might choose to explore placemaking practices through sources that discuss Prince and the history of bachata in the United States.
 
@@ -221,20 +220,17 @@ Based on these quotes, students might choose to explore placemaking practices th
 
 As students explore the scene of the nightclub and the entrance to the Underworld, they may also choose to focus on descriptions of Carnival characters who, in the book, inspire fear and deter Pheus from his mission of finding Eury.
 
-> *All around the room, the tables are occupied with lechones, piglet devils with long, curved snouts and tall horns covered in tiny spikes. During Carnaval de Santiago in Santo Domingo, people dress as lechones in silk clothes adorned in sequins with their faces concealed under papier-maché masks. But these lechones are not wearing masks. They are al. (233)*
+> All around the room, the tables are occupied with lechones, piglet devils with long, curved snouts and tall horns covered in tiny spikes. During Carnaval de Santiago in Santo Domingo, people dress as lechones in silk clothes adorned in sequins with their faces concealed under papier-maché masks. But these lechones are not wearing masks. They are al. (233)
 >
-> *The congueros bang with their eyes closed in ecstasy. Blood covers the skin of the congas. Down on the dance floor, lechones huddle close to women. They twirl and twirl their patterns to the rhythm of the demented bachata. (233)*
+> The congueros bang with their eyes closed in ecstasy. Blood covers the skin of the congas. Down on the dance floor, lechones huddle close to women. They twirl and twirl their patterns to the rhythm of the demented bachata. (233)
 
 Through studying these quotes, students can explore Carnival masks across different geographical sites in the Caribbean, comparing and contrasting Carnival traditions within and between countries and how these practices travel across diasporic communities.
 
 #### Carnival (figures represented in the Underworld)
-
--   Images of *vejigantes* and *lechones* from Carnaval
-> [Part One](https://dloc.com/AA00068075/00005?search=carnaval+=dominican)
->
-> [Part Two](https://dloc.com/AA00068071/00033?search=vejigante)
->
-> [Part Three](https://dloc.com/AA00068071/00040?search=vejigante)
+  
+- [Images of *vejigantes* and *lechones* from Carnaval (Part One)](https://dloc.com/AA00068075/00005?search=carnaval+=dominican)
+- [Images of *vejigantes* and *lechones* from Carnaval (Part Two)](https://dloc.com/AA00068071/00033?search=vejigante)
+- [Images of *vejigantes* and *lechones* from Carnaval (Part Three)](https://dloc.com/AA00068071/00040?search=vejigante)
 -   "[UPR: Caribbean Diaspora DH Center](https://dloc.com/diasporaproject)"
 -   "[UPR: Lowell Fiet Masks](https://dloc.com/fietmasks)"
 -   "[Kanaval: Haitian Rhythms and the Music of New Orleans](https://www.npr.org/series/975403901/kanaval)"
@@ -243,11 +239,11 @@ Through studying these quotes, students can explore Carnival masks across differ
 
 In *American Street*, Fabiola finds strength in Haitian *lwa* who provide her guidance in navigating new situations. As the plot of the story unfolds, Fabiola begins to see her friends, family, and circumstances in relation to the *lwa*, shaping her perceptions of her own transnational placemaking practices and how the *lwa* intervene. The following quotes provide examples of how Fabiola talks about the *lwa* in relation to her everyday life.
 
-> *So that night, a rage builds up inside me. I am hot red. I am burning coals. I am a sharp dagger and Scotch bonnet peppers in rum---Ezili Danto's favorite things. But this is only a wish because my mother---the powerful mambo---is not here with her songs and ayers and drums and offerings to make it so. (248)*
+> So that night, a rage builds up inside me. I am hot red. I am burning coals. I am a sharp dagger and Scotch bonnet peppers in rum---Ezili Danto's favorite things. But this is only a wish because my mother---the powerful mambo---is not here with her songs and ayers and drums and offerings to make it so. (248)
 >
-> *Whole cities can seek vengeance, too. And even the very earth we stand on can turn on us. I remember the rumbling sound of falling walls, of angry earth. And maybe the dead rose up out of the ground the day my country split in half, and the zombies, with their guardian, Baron Samedi, leading them, forced their way out of cemeteries in search of eir murderers. (307)*
+> Whole cities can seek vengeance, too. And even the very earth we stand on can turn on us. I remember the rumbling sound of falling walls, of angry earth. And maybe the dead rose up out of the ground the day my country split in half, and the zombies, with their guardian, Baron Samedi, leading them, forced their way out of cemeteries in search of eir murderers. (307)
 >
-> *When the car pulls away from the curb of the house on American Street and drives down Joy Road, I turn to see Papa Legba leaning against the lamppost with a cigar in his hand and his cane by his side. He turns to me with his white glistening eyes and tips his hat. I smile and nod and mouth mesi. Thank you. He has brought my mother to the other side. (324)*
+> When the car pulls away from the curb of the house on American Street and drives down Joy Road, I turn to see Papa Legba leaning against the lamppost with a cigar in his hand and his cane by his side. He turns to me with his white glistening eyes and tips his hat. I smile and nod and mouth mesi. Thank you. He has brought my mother to the other side. (324)
 
 Students may seek to learn more about the *lwa* mentioned in the book and their role in Haitian Vodou spiritual practices. Here, we emphasize the importance of deconstructing myths about Haitian Vodou, centering Haitian perspectives on Vodou practices, and ensuring that students respect the sacred nature of the *lwa*. Students might also seek images of the Bwa Kayiman ceremony and make connections between Vodou practices, the Haitian Revolution, and Fabiola's preparation of soup *joumou* on Thanksgiving with the ingredients her aunt left out for her.
 
@@ -260,38 +256,38 @@ Students may seek to learn more about the *lwa* mentioned in the book and their 
 
 ### Transnational Imaginaries in Clap When You Land
 
-*Clap When You Land* is the only novel included for this project that takes place in more than one physical geographic setting. Though Yahaira is located in New York City and her sister Camino in the Dominican Republic, both locations feature prominently in the imaginaries, memories, and future plans of each protagonist. In fact, Yahaira and Camino not only think about but experience both locations at some point throughout the novel. Students might be interested in exploring transnational placemaking practices, as discussed by both sisters as they consider what it means to be from here, from there, or *ni de aquí, ni de allá*.
+Clap When You Land* is the only novel included for this project that takes place in more than one physical geographic setting. Though Yahaira is located in New York City and her sister Camino in the Dominican Republic, both locations feature prominently in the imaginaries, memories, and future plans of each protagonist. In fact, Yahaira and Camino not only think about but experience both locations at some point throughout the novel. Students might be interested in exploring transnational placemaking practices, as discussed by both sisters as they consider what it means to be from here, from there, or *ni de aquí, ni de allá.
 
-> *It's like he bridged himself*
-> *across the Atlantic.*
-> *Never fully here nor there.*
-> *One toe in each country.*
-> *Ni aquí ni allá. (360)*
-> *\*\*\**
-> *I've heard him tell of New York so often you'd think*
-> *I was born to that skyline. Sometimes it feels like I have*
-> *memories of his billiards, Tío's colmado, Yankee Stadium,*
-> *as if they are places I grew up at,*
-> *& not just the tall tales he's been sharing*
-> *since I was a chamaquita on his knee." (14, Camino)*
-> *\*\*\**
-> *I was raised so damn Dominican.*
-> *Spanish my first language,*
-> *bachata a reminder of the power of my body,*
-> *plátano & salami for years before I ever tasted*
-> *peanut butter & jelly sandwiches.*
-> *If you ask me what I was,*
-> *& you meant in terms of culture,*
-> *I'd say Dominican.*
-> *No hesitation,*
-> *no question about it.*
-> *Can you be from a place*
-> *you have never been? (97, Yahaira)*
+> It's like he bridged himself
+> across the Atlantic.
+> Never fully here nor there.
+> One toe in each country.
+> Ni aquí ni allá. (360)
+> \*\*\*
+> I've heard him tell of New York so often you'd think
+> I was born to that skyline. Sometimes it feels like I have
+> memories of his billiards, Tío's colmado, Yankee Stadium,
+> as if they are places I grew up at,
+> & not just the tall tales he's been sharing
+> since I was a chamaquita on his knee." (14, Camino)
+> \*\*\*
+> I was raised so damn Dominican.
+> Spanish my first language,
+> bachata a reminder of the power of my body,
+> plátano & salami for years before I ever tasted
+> peanut butter & jelly sandwiches.
+> If you ask me what I was,
+> & you meant in terms of culture,
+> I'd say Dominican.
+> No hesitation,
+> no question about it.
+> Can you be from a place
+> you have never been? (97, Yahaira)
 
 Students might consider exploring sociocultural placemaking practices in iconic Dominican communities in New York City, such as Washington Heights, as well as in the Dominican Republic. Though the novel focuses on Sosúa, Dominican Republic, for the purposes of this project students could widen their search to include elements mentioned in the book that span location. We also include resources that challenge singular conceptions of *Dominicanidad* transnationally, particularly Black narratives and experiences erased by the national ideologies of cultural identity and history that often appear in museums and other institutions. Throughout this research, students should be encouraged to question absences and silences in conversations about identity and reject both essentialism and erasure.
 
 -   "[An Interactive Map Showcasing the Geographic Boundaries of a Proposed Dominican Historic District in Washington Heights](http://www.dominicanhistoricneighborhoods.com/)"
--   *[Ni de aquí, ni de allá: A Multi-perspective Account of the Dominican Diasporic Experience](https://www.dominicanwriters.com/product-page/ni-de-aqu%C3%AD-ni-de-all%C3%A1-an-anthology)*
+-   [Ni de aquí, ni de allá: A Multi-perspective Account of the Dominican Diasporic Experience](https://www.dominicanwriters.com/product-page/ni-de-aqu%C3%AD-ni-de-all%C3%A1-an-anthology)
 -   "[Signos de identidad](https://centroleon.org.do/signos-de-identidad-2/)"
 -   "[Ciguapa Unbound: Blackness, Gender & Transnational Geographies of Marronage](https://www.latinxproject.nyu.edu/sp2021/ciguapaunbound?fbclid=IwAR2z9hlDwJYjf3Va0BIKJHgQmUB_d83yEYDICzgdyI3DNWoNLDaJtte3Tek)"
 -   "[RITM Conversations: Episode \#2 Dixa Ramirez---Conversations in Race, Indigeneity, and Transnational Migration](https://podcasts.apple.com/us/podcast/ritm-conversations-episode-2-dixa-ramirez/id1209588080?i=1000382462814&fbclid=IwAR3Lph7QmkUas3x-FUJN2tzO7PIxKJoLNbPBDOrzbfckExrMlxAdbN95T1s)"
@@ -362,4 +358,4 @@ Students in US K--12 schools must have more opportunities to read texts authored
 
 [^29]: Here we wish to emphasize the importance of avoiding disaster as the primary analytical framework through which to understand the Caribbean. For this reason, we have paired an understanding of disaster with an exploration of placemaking practices. Though disasters do play a role in each of the novels, as they mark livelihoods and geographies in particular ways, Acevedo, Rivera, and Zoboi each imagined otherwise and expansively when writing disasters into the lives of their protagonists. Educators and students must reject singular narratives that exceptionalize, a point made by Gina Athena Ulysse in *Why Haiti Needs New Narratives: A Post-quake Chronicle (Middletown, CT: Wesleyan University Press,* *2015)*. This element of teaching remains critical as disasters continue to unfold and their inclusion in curricula must be approached with care and humanizing practices that center Caribbean priorities, insights, and social action. As we finalize this essay, we grieve for the lives lost in southern Haiti after a category 7.2 earthquake on 14 August 2021.
 
-[^30]: We thank the anonymous reviewer who provided a poignant example: the permanence of an internally displaced persons camp on the Google Map of Pétion-Ville (outside Port-au-Prince, Haiti) when the camp no longer remains; see map at https://www.google.com/maps/place/P%C3%A9tion-Ville,+Ha%C3%AFti/\@18.5272123,-72.2970543,14z/data=!4m5!3m4!1s0x8eb9e862f231e3df:0x829b82408f38c086!8m2!3d18.5138139!4d-72.2881907.
+[^30]: We thank the anonymous reviewer who provided a poignant example: the permanence of an internally displaced persons camp on the Google Map of Pétion-Ville (outside Port-au-Prince, Haiti) when the camp no longer remains; see "Pétion-Ville" in [Google maps](https://www.google.com/maps/place/P%C3%A9tion-Ville,+Ha%C3%AFti/\@18.5272123,-72.2970543,14z/data=!4m5!3m4!1s0x8eb9e862f231e3df:0x829b82408f38c086!8m2!3d18.5138139!4d-72.2881907).

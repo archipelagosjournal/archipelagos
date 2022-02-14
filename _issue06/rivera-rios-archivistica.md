@@ -16,7 +16,7 @@ author:
     Nadjah Ríos Villarini es catedrática del Departamento de Inglés de la Facultad de Estudios Generales en la Universidad de Puerto Rico, recinto de Río Piedras. Obtuvo su grado doctoral en el Departamento de Antropología en la Universidad de Texas en Austin. Co-dirige el Proyecto Diáspora y el Centro de la Humanidades Digitales de la Universidad de Puerto Rico junto a la Dra. Mirerza González. Actualmente desarrolla varios archivos comunitarios, entre ellos el Archivo Histórico de Vieques, el Archivo de la Fundación Culebra y más recientemente el Archivo Histórico de Casa Pueblo.
 date: March 2022
 issue: 6
-order: 
+order: 6
 abstract: >
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim facilisis gravida neque convallis a cras. Neque gravida in fermentum et. Nullam non nisi est sit. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tellus id interdum velit laoreet id donec ultrices tincidunt. Dolor sit amet consectetur adipiscing. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Scelerisque fermentum dui faucibus in ornare. Cras fermentum odio eu feugiat pretium nibh. Ipsum a arcu cursus vitae congue mauris rhoncus aenean. Sed id semper risus in hendrerit gravida. 
 abstract_fr: >

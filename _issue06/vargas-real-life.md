@@ -1,10 +1,10 @@
 ---
-layout: project
-section: project
+layout: article
+section: projects
 title: 
-  "long": "Mapping Marronage"
-  "short": "Mapping Marronage"
-doi: "https://doi.org/10.7916/archipelagos-ar70-sf84"
+  "long": "Real-life and Fictional Chronologies: on building a set of timelines around René Depestre's Hadriana dans tous mes rêves"
+  "short": "Real-life and Fictional Chronologies"
+doi: ""
 author: 
 - name: Laura Vargas Zuleta
   shortname: Vargas Zuleta
@@ -12,20 +12,19 @@ author:
     Laura Vargas Zuleta is... 
 date: March 2022
 issue: 6
-order: 9
-image: images/issue05/mapping-marronage.png
-thumb: images/issue05/mapping-marronage-thumb.png
-link: "http://mapping-marronage.rll.lsa.umich.edu"
+order: 11
+abstract: >
+  In this essay I explore the connections between literature and historic documents through a series of digital timelines that I created around the novel *Hadriana dans tous mes rêves* (1988), by Haitian writer René Depestre. As part of the In All My Dreams book club and art exposition organized by Dr. Kaiama Glover and Dr. Laurent Dubois around *Hadriana*, my digital project proposes an interactive way for readers to get a sense of the novel by contrasting the events in the book with historical ones. Focusing on the years the novel covers and those when Depestre wrote it, I used the Digital Library of the Caribbean (dLOC) archive of the Haitian newspaper *Le Nouvelliste* and selected a group of news items about Jacmel (the city where the story is set) and Depestre himself to include in my project. I selected the news items looking for content that could help readers imagine the setting of *Hadriana*. The novel, whose second movement includes its own fictional newspaper article about Jacmel, is narrated in a fragmented, nonlinear way, but it mentions the dates of major events. However, that nonlinearity made me wonder how to build a timeline that enriches reading of the novel instead of spoiling it. The final product consists of three timelines: the first focuses on the novel; the second includes photos of the news items I selected from *Le Nouvelliste* and links to the original archive but has no information from the book; and the third combines the first two so readers can compare and contrast both realities. This project shows the possibilities that an archive such as dLOC offers for the reading of literary works such as Depestre's. 
+abstract_fr: >
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim facilisis gravida neque convallis a cras. Neque gravida in fermentum et. Nullam non nisi est sit. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tellus id interdum velit laoreet id donec ultrices tincidunt. Dolor sit amet consectetur adipiscing. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Scelerisque fermentum dui faucibus in ornare. Cras fermentum odio eu feugiat pretium nibh. Ipsum a arcu cursus vitae congue mauris rhoncus aenean. Sed id semper risus in hendrerit gravida.  
+abstract_es: >
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim facilisis gravida neque convallis a cras. Neque gravida in fermentum et. Nullam non nisi est sit. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tellus id interdum velit laoreet id donec ultrices tincidunt. Dolor sit amet consectetur adipiscing. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Scelerisque fermentum dui faucibus in ornare. Cras fermentum odio eu feugiat pretium nibh. Ipsum a arcu cursus vitae congue mauris rhoncus aenean. Sed id semper risus in hendrerit gravida.
+language: en
+pdf: true
 ---
 
 
 
-Abstract
-========
-
-In this essay I explore the connections between literature and historic documents through a series of digital timelines that I created around the novel *Hadriana dans tous mes rêves* (1988), by Haitian writer René Depestre. As part of the In All My Dreams book club and art exposition organized by Dr. Kaiama Glover and Dr. Laurent Dubois around *Hadriana*, my digital project proposes an interactive way for readers to get a sense of the novel by contrasting the events in the book with historical ones. Focusing on the years the novel covers and those when Depestre wrote it, I used the Digital Library of the Caribbean (dLOC) archive of the Haitian newspaper *Le Nouvelliste* and selected a group of news items about Jacmel (the city where the story is set) and Depestre himself to include in my project. I selected the news items looking for content that could help readers imagine the setting of *Hadriana*. The novel, whose second movement includes its own fictional newspaper article about Jacmel, is narrated in a fragmented, nonlinear way, but it mentions the dates of major events. However, that nonlinearity made me wonder how to build a timeline that enriches reading of the novel instead of spoiling it. The final product consists of three timelines: the first focuses on the novel; the second includes photos of the news items I selected from *Le Nouvelliste* and links to the original archive but has no information from the book; and the third combines the first two so readers can compare and contrast both realities. This project shows the possibilities that an archive such as dLOC offers for the reading of literary works such as Depestre's.
-
-<hr>
 
 What sort of digital tools can help nonacademic readers navigate a novel whose temporal structure is fragmented and nonlinear? How can we build such tools so they function as an invitation or provocation instead of as a rigid, paternalistic guide in which information is provided to be absorbed instead of explored? My digital project, "Hadriana in Context: Timelines," was guided and shaped by these two questions that, to me, were key to creating something useful and enriching for readers. As part of the second version of the In All My Dreams book club around Haitian writer René Depestre's novel *Hadriana dans tous me rêves* (*Hadriana in All My Dreams*, 1988) organized by Dr. Kaiama Glover and Dr. Laurent Dubois, I created a series of interactive digital timelines that combined the events of the novel with real-life news articles covering the place (Jacmel, a coastal city in southern Haiti) and time (mainly the 1930s and 1940s) in which the novel is set, using contemporary issues of the Haitian newspaper *Le Nouvelliste,* taken from the archive of the Digital Library of the Caribbean (dLOC). This digital project, which was included on the book club's website as part of its "Reader's Guide," proposes an interactive way for readers to get a sense of Depestre's novel by contrasting its events with historical ones, as well as by guiding them to real-life newspaper archives from Haiti.[^1] By introducing elements from a source outside the book, the timelines aim to enrich readers' experience of *Hadriana*, not only by situating the novel in its context but also by presenting it as part of Haitian history. My project also seeks to give visibility to dLOC as a useful database to explore the context of Caribbean literary works.
 
