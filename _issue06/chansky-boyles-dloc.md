@@ -62,9 +62,7 @@ During my first visit to Puerto Rico in March 2017, I interviewed four individua
 
 When I saw how similar the responses to San Felipe and María were, I knew I needed to shift my attention to the failed disaster response occurring in front of me. I reached out to colleagues and spoke at conferences about my research, hoping to connect with others interested in examining issues pertaining to disaster and disaster response. During this time, I met Laurie Taylor, dLOC's digital scholarship director. Laurie not only introduced me to many of my current collaborators but also provided insight and expertise on building relationships with researchers and community groups across the Caribbean. These conversations mark the early days of the Archivo de Respuestas Emergencias de Puerto Rico, though I didn't know that yet. Before the project could begin in earnest, I needed to build a community with scholars and activists doing the crucial work of documenting, acting, and organizing in response to María and the crises that followed. One of these conversations---focused on decolonial approaches to oral history---was with Ricia. Her work with the "Mi María" project was and is crucial to developing a vision for AREPR.
 
-<audio controls="controls">
-  <source type="audio/mp3" src="http://cboyles.msu.domains/puertorico/wp-content/uploads/2020/08/Boyles-Kairos-Submission-1.mp3"></source>
-</audio>
+
 
 
 
