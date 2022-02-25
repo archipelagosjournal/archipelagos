@@ -75,9 +75,11 @@ The final example on our nonexhaustive list of responses to the challenges facin
 
 We offer a final example of collaborative museology prior to turning toward our own case study. In 2021, ICOM-Haïti, its member museums, and the École Supérieure d'Infrotronique d'Haïti (ESIH) inaugurated a "virtual exhibition of museums in Haiti," composed of miniexhibits of different museums (figure 1). In addition to a collective area, each museum was given a digital pavilion where it could add a selection of images, videos, and audio related to its collections. The project benefited from earlier collaborations between ICOM-Haïti and ESIH. In May 2018, for example, the two institutions copresented an augmented reality project for ICOM's World Museum Day, a global event whose 2018 theme was "Hyperconnected Museums." This initial activity brought together dozens of students, from grade school to the university level, and demonstrated that local resources and technological expertise, such as those provided by ESIH, could be an important source of capacity building for young academics and institutions interested in the development in Haiti. The 2021 virtual reality exhibition illustrates how this knowledge has been put to use in years since. By bringing together computer science experts and museologists, the project facilitated virtual visits to the MOF and other participating museums at a time when the COVID-19 pandemic had made physical visitation impossible.
 
-![Picture 6](media/image1.png)
-
-**Figure 1**. Image from the École Supérieure d'Infrotronique d'Haïti presenting a virtual exhibition of Haitian museums in 2021.
+{% include image.html
+    img="valence_1_NMS_MOF_figure1.png"
+    alt="series of art images of people and landscapes"
+    title="2021 virtual exhibition"
+    caption="Figure 1. Image from the École Supérieure d'Infrotronique d'Haïti presenting a virtual exhibition of Haitian museums in 2021." %}
 
 The MOF's digitization project parallels several aspects of the 2021 virtual exhibit and other types of activities detailed in this abbreviated account of Haiti's museological trajectory. As we will demonstrate, the MOF's work with dLOC interweaves collaborative technology, international partnership, bonds with sister institutions, and, through its unfolding archives, future opportunities for museum-to-museum collaboration. Though focused on "carbon copying" the MOF, the partnership with dLOC reflects a broader effort to increase public engagement, reassert the relevance of Haitian museums, overcome material and physical limitations, and highlight artifacts and works of art of social, historical, and cultural importance. In this context, the MOF's digitization project may be viewed as an extension of the challenges and opportunities present in both concurrent engagements across Haiti and in the aforementioned literature.
 
@@ -115,15 +117,17 @@ Tracing collection roots
 
 The process of documenting the MOF and organizing its archives has facilitated work on uncovering, or perhaps recovering, collection roots. Examples that inspired the staff and Les Amis include reconciling materials on Ulrick Jean-Pierre's *Portrait de Jean-Jacques Dessalines* (1991) and Maxo Blaise's *Le Serment du Bois Caïman* (2013), as well as works produced by the museum's founder. Documenting the installation *Le cortège macabre*, for example, led to the discovery of connections to various notes, images, and records that deepen understanding of the piece and its meanings (figure 2). Located in the southern quadrant of the museum's garden, the *Cortège* is used during guided visits to communicate the brutalities of enslavement. It includes a procession of chained figures led by a cart in the front and an overseer in the rear. They are heading toward a huge wooden cross, which represents *Croix-des-Bossales*, a marketplace from the colonial period where slaves were exposed and put on sale.
 
-  ![Picture 7](media/image2.jpeg)]
-
-  **Figure 2**. Views of *Le cortège macabre*, an installation about slavery.
+{% include image.html
+   img="valence_1_NMS_MOF_figure2.png"
+   title="Le cortège macabre"
+   caption="Figure 2. Views of *Le cortège macabre*, an installation about slavery." %}
 
 Efforts to produce renderings of the *Cortège* revealed the state of its current condition. At the time of this writing, some of the figures' limbs had detached from their bodies and the wooden ox normally standing in front of the cart had fallen. The cart's condition also caused alarm: its roof and front area are caving in and iron chains attached to its interior have been obscured by debris. Inserting this information into the *Cortège*'s ledger led to discussions about the installation's origins, including how and why it was developed. In summary, available oral history demonstrates a public connection between the cart, which was procured from a *hounfort*, or Vodou temple, and slavery. This association developed, among other reasons, because at the time of its 1994 purchase, a set of long iron chains were found in its interior. Though more research is needed to confirm the cart's pre-*hounfort* origins, when it was constructed, its intended use, and whether the chains have the same provenance, the association with slavery contributed to its inclusion in *Le* *cortège macabre*. The origin of the figures emerged from notes and photographs that have since been reconnected with the *Cortège* through the cataloging of the archives. The chief inspiration for the figures and what they represent can be traced to an etching of captured slaves that Gérard came across in a 1865 manuscript by the Scottish missionary David Livingstone (figure 3).
 
-  ![Picture 8](media/image3.jpeg)
-  
-  **Figure 3**. Etching published in David Livingstone, *Narrative of an Expedition to the Zambesi and Its Tributaries, and the Discovery of Lakes Shriwa and Nyassa, 1858--1864*. Available in the public domain. Retrieved May 2021 at https://commons.wikimedia.org/wiki/File:Gang\_of\_Captives\_at\_Mbame%E2%80%99s.jpg.
+{% include image.html
+   img="valence_1_NMS_MOF_figure3.png"
+   title="Etching from Livingstone's Narrative of an Expedition"
+   caption="Figure 3. Etching published in David Livingstone, *Narrative of an Expedition to the Zambesi and Its Tributaries, and the Discovery of Lakes Shriwa and Nyassa, 1858--1864*. Available in the public domain. Retrieved May 2021 at https://commons.wikimedia.org/wiki/File:Gang\_of\_Captives\_at\_Mbame%E2%80%99s.jpg." %}
 
 Engaging "dormant" information on the museum's collection inspired further analysis (and excitement) by the MOF's staff and Les Amis, particularly since collecting information on the acquisition and development of older collection items requires steadfast ethnography when interviewing those with direct knowledge. Speedy digitation is also important: some of the film negatives, photographs, letters, documents, and books marked for digitization are in poor condition and, if lost, will diminish our ability to piece together the past of collection. Restoring the *Cortège* is also time-sensitive, given its state. Though not a replacement for physical restoration, documenting the *Cortège* and its associated materials through dLOC will provide at least some layer of protection. Until more can be done or in case the installation is further damaged, its likeness is preserved for current and future generations. Conservators, once reached, may turn to dLOC for time stamps of the *Cortège*'s condition and review whether deterioration has accelerated. As a form of protecting and promoting cultural patrimony, indexing the *Cortège* and other collection items into a collaborative database will also transpose them into a broader landscape of Atlantic memory where reflection on enslavement and emancipation through tangible and intangible heritage is promoted and facilitated.
 
@@ -132,15 +136,18 @@ Understanding the past
 
 he MOF's digitization project also brings to light materials related to the Habitation Guillaume-Ogier, the eighteenth-century sugarcane plantation on which the museum stands. Museum archives include items used in the cultivation of sugarcane and in the production of sugar, documents related to the life of Ogier and his contemporaries, and photographs that document the condition plantation structures were in at the time the site was purchased. A photograph dated to the 1970s, for example, shows a prerestoration view of the aqueduct and the east facade (figure 4). As a whole, these photographs of surviving structures and their foundations depict the ruins of a robust plantation whose operation coincided with Saint-Domingue's most profitable decades.[^30] Their digitization contributes to knowledge of Saint-Domingue's plantation system, the years leading up to the Haitian Revolution, life and society in the Montrouis region, and events specifically tied to Ogier's plantation.
 
-  ![Picture 3](media/image4.jpeg)
-
-  **Figure 4**. Remnants of the Habitation Guillaume-Ogier as it appeared in the 1970s.
+{% include image.html
+   img="valence_1_NMS_MOF_figure4.png"
+   title="Habitation Guillame-Ogier"
+   caption="Figure 4. Remnants of the Habitation Guillaume-Ogier as it appeared in the 1970s." %}
 
 Also pertinent to the site's history are photographs and documents related to the development of the museum itself. These materials ease research into which aspects of the MOF pertain to the distant past and which were added during the museum's construction. They also indicate transformations to the museum and its exhibitions, painting a picture of how the MOF reached its current state (figure 5). Additionally, they may aid development of a reference guide for collection items that may have been altered over time and showcase changes related to each director's curatorial style, the adoption of best practices over the course of the museum's history, and new pedagogical tools.
 
-  ![Picture 4](media/image5.jpeg)
-  
-  **Figure 5**. The Habitation exhibit in the 1980s, 1990s, and in 2015.
+{% include image.html
+   img="valence_1_NMS_MOF_figure5.png"
+   alt="three side-by-side images of the same interior, with a round window covered by a large, spoked frame. later images include miniature dioramas of plantation in foreground"
+   title="Habitation Guillame-Ogier"
+   caption="Figure 5. The Habitation exhibit in the 1980s, 1990s, and in 2015." %}
 
 Photographs that include museum guests during daily visits or that document special events also contribute to understanding of museum visitorship. The subjects of these portraits range from iconic researchers like Laënnec Hurbon, Marcel Dorigny, and Françoise Vergès and political figures like former president Michel Martelly to unnamed schoolchildren, tourists, diaspora returnees, and the broader Haitian populace. The MOF's social past is also characterized in correspondence with institutional partners in various parts of the world, documents related to cultural-heritage initiatives in different parts of Haiti, and contributions by colleagues who over the years have supplied the museum with their research on both the current collection and the original plantation. As we discuss below, this aspect of the MOF's archive has far-reaching implications beyond the museum itself.
 
@@ -149,9 +156,11 @@ Reclaiming the archive
 
 In sifting through the MOF's archive, a compelling panorama of Haitian museology and heritage management emerges. Surviving correspondence between the Musée Ogier-Fombrun, Laura Plantation in Louisiana, and the Maison des Esclaves in Dakar illustrates a budding transatlantic triad intent on connecting different corners of memorialization. Archived communication with UNESCO supports historians' work on the Slave Route Project, including expanding on Haiti's instrumentality to the project's development and deeper scrutiny into Haiti's placement on the route today.[^31] Other materials detail collaborative projects to develop museums, heritage sites, and cultural centers in different parts of the country (figure 6).
 
-  ![Picture 5](media/image6.jpeg)
-  
-  **Figure 6**. Image from a Fondation 92 booklet on the development of a cultural center in northern Haiti.
+{% include image.html
+   img="valence_1_NMS_MOF_figure6.png"
+   alt="line drawing of landscape with planned cultural center buildings. subtitled le recontre de deux mondes."
+   title="Fondation 92 booklet"
+   caption="Figure 6. Image from a Fondation 92 booklet on the development of a cultural center in northern Haiti." %}
 
 As complements to the ether of museums that never happened or, more optimistically, are yet to become, these materials showcase ambitious visions of preserving and sharing Haiti's rich cultural legacies and its contributions to world history. Others can be viewed as stepping stones toward projects that did take place or are in the process of being developed. The Taíno archeological site in Bois Neuf, an initiative developed as a partnership between the Parc Historique de la Canne à Sucre and the Fondation Odette Roy Fombrun, is a revealing example. Odette Roy Fombrun, a well-known writer and advocate, features prominently in the MOF's emergent archives, particularly in documents related to Fondation 92, an organization she and Gérard Fombrun cofounded, and which during the late 1980s and early 1990s sought to "put Haiti back on the world tourist map" by fostering reflection on "the influence of Haitian culture" and its critical role in Atlantic history.[^32] The MOF is unlikely to be the only repository with materials to the aforementioned projects and others known informally through conversations and meetings but rarely through scholarship. Promoting the inclusion of such resources in dLOC and their insertion into the historical record promotes new engagements with the past and shapes our collective readings of the present. The power of democratizing such data through cataloging and digitization rests in reclaiming the archive and narratives about Haiti in ways that undo the silencing fostered by their absence.[^33]
 
