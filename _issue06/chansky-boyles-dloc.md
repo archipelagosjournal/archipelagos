@@ -134,7 +134,7 @@ Ricia would like to thank Aleyshka Estevez Quintana for her assistance with the 
 
 [^4]: Christina Boyles, sonic essay.
 
-[^5]: Society of American Archivists, "postcustodial," SAA Dictionary of Archives Terminology, [[https://dictionary.archivists.org/entry/postcustodial.html/].]
+[^5]: Society of American Archivists, "postcustodial," SAA Dictionary of Archives Terminology, [[https://dictionary.archivists.org/entry/postcustodial.html].]
 
 [^6]: Christina Boyles, "Resilience, Recovery, and Refusal: The (Un)tellable Narratives of Post-María Puerto Rico," *enculturation* 32 (2020): [[http://enculturation.net/resilience-recovery-refusal]].
 
