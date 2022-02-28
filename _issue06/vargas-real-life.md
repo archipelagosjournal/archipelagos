@@ -45,12 +45,14 @@ Besides the advertisements, the newspaper also published articles about the prog
 Apart from Sténio Vincent's reforestation campaign, I also found interesting news items on Jacmel from the years of 1937 and 1938 and even through 1941. The nature of the news was extremely diverse, from reporting on a general blackout[^7] in the commune to the mysterious disappearance of the Jacmel orchestra's instruments.[^8] One of the longest pieces I found in the archive was a column published in several September 1938 issues titled "Voyage autour de Jacmel \[Trip around Jacmel\]" and signed by "J.B." (figure 1).[^9] This column is reminiscent of the "Lettre de Jacmel" in Depestre's novel (figure 2), a series Patrick tells us was published by the Paris newspaper *Le Monde* in April 1972 (113--17).
 
 {% include image.html
-img="jacmel-nouvelliste.jpg"
+img="valence_1_LV_jacmel-nouvelliste.jpg"
+alt="Timeline slide with newspaper clipping, captioned: An author named J.B. wrote a long text about Jacmel, which appeared serially in several issues."
 title="Voyage autour de Jacmel"
 caption="Figure 1. Column on Jacmel from September 1938 on the *Nouvelliste* timeline" %}
 
 {% include image.html
-img="jacmel-monde.jpg"
+img="valence_1_LV_jacmel-monde.jpg"
+alt="Timeline slide with handwritten note, captioned: Patrick finds this article published by the newspaper in April. This triggers his memories of Jacmel and Hadriana."
 title="Lettre de Jacmel"
 caption="Figure 2. Fictional column on Jacmel from April 1972 on the *Hadriana* timeline" %}
 
@@ -67,11 +69,9 @@ Taking this into account, I went back to the documents where I had recorded my f
 The next step was to reread the novel and take note of all the events that included a specific date or for which Depestre had mentioned at least the month in which an event took place. I was surprised to discover that the author had been fairly clear on dates for most of the novel's main events, and a detailed timeline could be made without difficulty. At the end I had fifteen dates from the novel, with only one, January 1918, going further in the past than my own findings from *Le Nouvelliste.* All of the events after 1946, the last year I included in my research, were set not in Haiti but in Europe and Jamaica, so it seemed that both chronologies fit together for the project I had in mind, to the point that Patrick's and Depestre's arrivals in Paris from Haiti happened in 1946 with only a few months' difference (figure 3).
 
 {% include image.html
-img="patrick-paris.jpg"
+img="valence_1_LV_patrick-paris.jpg"
 title="Patrick and Depestre arrive in Paris in 1946"
-caption="Patrick's arrival in Paris in the combined timeline. At the bottom it is possible to see Depestre's arrival, just a few months earlier" %}
-
-**Figure 3***.* Patrick's arrival in Paris in the combined timeline. At the bottom one can see Depestre's arrival, just a few months earlier.
+caption="Figure 3. Patrick's arrival in Paris in the combined timeline. At the bottom it is possible to see Depestre's arrival, just a few months earlier." %}
 
 It was telling that even though the dates from the novel covered most of the twentieth century (1918--77), the biggest concentration of events was in the late 1930s, reminding us that Patrick's chronology was selective, that he and I both were creating a narrative through the events he chose. In his narrative he was building not the history of Jacmel but the history of Jacmel through Hadriana. I say "Patrick's chronology" because Hadriana's narrative does not include precise dates the way Patrick's does. She seems more focused on getting the facts right, on stating her position and correcting what has been said before *about her* and about *her experience* of all that happened *to her*. The only date she mentions is the one of her arrival in Jamaica, in February 1938, possibly because this is the date she started her new life, away from the expectations of the Jacmel community.
 
@@ -88,11 +88,9 @@ While I thought of a solution for that issue, I begun to work on the *Nouvellist
 After a few weeks, I had both separated timelines but still needed to find some visual materials for the *Hadriana* version and then merge it with the *Nouvelliste* one for the third combined timeline. The problem with the visual factor of the *Hadriana* timeline was that I needed fifteen images that I could legally use and that looked good together. Depestre's novel does not include any illustrations, but the text is written in a way that seems very visual, so I was convinced I could not present the timeline as text only. After experimenting with different ideas, like looking for images of different editions of the novel or selecting random stock images that were related to each event, I went back to my notes for inspiration (figure 4). All the notes I had taken for the project, with the exception of the Excel documents, were handwritten using an iPad and a digital notebook app called GoodNotes, in which I could write as if on paper. Looking at my notes I realized that I had the visual element for the timeline right in front of me, so I began exploring ways to incorporate screenshots from it into the timeline. With this last touch, the *Hadriana* timeline was finally complete.
 
 {% include image.html
-img="timeline-hadriana.jpg"
+img="valence_1_LV_timeline-hadriana.jpg"
 title="*Hadriana*'s Timeline on the Reader's Guide"
-caption="Beginning of the *Hadriana* timeline with an image of a section of my original notes for the project" %}
-
-**Figure 4**. Beginning of the *Hadriana* timeline with an image of a section of my original notes for the project.
+caption="Figure 4. Beginning of the *Hadriana* timeline with an image of a section of my original notes for the project." %}
 
 The last thing I had to do was merge the two timelines to create the combined one. I first did this without altering the original format, but when I finished it became clear that some differentiation was needed between what belonged to *Le* *Nouvelliste*, or the real-life events, and what came from the novel, or the fictional-life events. It took me a week to resolve this problem since I wanted something that worked with the screenshots of both sources and that was not distracting for users. I experimented with different background colors and ended up with the simplest solution: all items from the novel would appear with a dark gray background that highlighted the colors of the images from my notes (cream yellow, blue, black, and red), and all items from the newspaper would have a white background so the black and white screenshots did not look too dark. All these formatting elements, the images, the background colors, helped a very long timeline (forty-seven entries or events in total) to look not overwhelming or monotonous but rich, stimulating, and easy to navigate. In this third timeline, I also included, as I did with the *Nouvelliste* one, all the relevant reference information for each item, including a link to dLOC's archive, so it would, again, encourage the readers to go to the source and explore further. Another way of doing this was that, for those items too long to fit in a single screenshot, I only included a portion, so if someone wanted to read it all they would have to go to the archive.
 
