@@ -47,9 +47,10 @@ Caribbean studies paradigms offer an entry point for pedagogical practices in se
 Inspiring our own approach to text selection for this project, Yomaira Figueroa-Vásquez expands Glissant's notion of poetics of relation to propose a "radical relational remapping" as "critical cartographic practice."[^7] Grounded in women of color feminism, Figueroa-Vásquez's approach puts Afro-hispanophone diasporic texts from the Caribbean and Equatorial Guinea in relation by acknowledging the incommensurability of different forms of racialization and how they shape subjective experiences while also pointing toward a range of liberation practices forged in diaspora and exile. In addition, we draw inspiration from the relational frameworks advanced by Myriam J. A. Chancy and Vanessa K. Valdés as they explore the histories and writings of the hispanophone Caribbean alongside the histories and writings of Haiti,[^8] which we attempt to do here for young adult (YA) literature by focusing on the Dominican Republic, Puerto Rico, Haiti, and their diasporas. The foundational work of Chancy and Valdés fills historical silences and contests dominant paradigms---whether related to race or language---that separate rather than put in relation the intellectual and political thought and embodied experiences of places and peoples often imagined as disparate rather than interconnected.
 
 {% include image.html
-    img="figure-1.jpg"
-    title="Figure 1"
-    caption="Preview of Companion Slides to the Digital Project." %}
+    img="valence_1_MHR_LO_figure-1.jpg"
+    alt="slide with book cover images and dLOC logo"
+    title="slide preview"
+    caption="Figure 1. Preview of Companion Slides to the Digital Project." %}
 
 Thus, in this proposal for teaching Caribbean diasporic YA novels through digital projects, we not only advocate for spaces where students can use dynamic reading and writing practices but also caution against pedagogical approaches that produce singular narratives about the Caribbean by erasing the complexities and contradictions of Caribbean diasporic histories.[^9] In this essay, we draw from three YA novels: Lilliam Rivera's *Never Look Back*, Ibi Zoboi's *American Street*, and Elizabeth Acevedo's *Clap When You Land*.[^10] Weaving together the geographic spaces of Morningside Heights, Detroit, Tampa, the Bronx, the Dominican Republic, Puerto Rico, and Haiti, all three novels feature Afro-Caribbean protagonists who navigate adolescent life and the intersections of race, ethnicity, gender, social class, and sexuality across a backdrop of migration produced by coloniality and imperialism.
 
@@ -65,9 +66,9 @@ Black Diaspora Literacies in K--12 Classrooms
     citation = "Ibi Zoboi, <em>American Street</em>." %}
 
 {% include image.html
-    img="figure-2.jpg"
-    title="Figure 2"
-    caption="Cover of Ibi Zoboi's *American Street*." %}
+    img="valence_1_MHR_LO_figure-2.jpg"
+    title="American Street"
+    caption="Figure 2. Cover of Ibi Zoboi's *American Street*." %}
 
 The crossroads play an important role in the storyline of Ibi Zoboi's novel. At the intersection of American Street and Joy Road sits Fabiola's new home in Detroit after moving from Haiti. Zoboi outlines the corner's long history of Black residents: from those who migrated north from Alabama, Georgia, and South Carolina to seek employment in the auto industry to a Haitian immigrant killed outside the Chrysler plant where he worked, leaving behind his family: Fabiola's aunt and cousins. Here, Fabiola finds *Papa Legba*, an intermediary between humanity and the spirit world in Haitian Vodou, and seeks his guidance about what she should do next as she faces challenging decisions and uncertainties. The crossroads has resonance for Caribbean digital projects in a number of ways. Marlene Daut uses the crossroads metaphor to illustrate how multimodal approaches "can allow for alternative ways of (humanely) archiving black sovereignty."[^13] Jessica Marie Johnson proposes *xroads praxis* as a Black diasporic technology to center Black humanity "on the other side of the trick/tragedy" in ways that are both durable and transient.[^14] In this essay, we consider the crossroads as a space for Black diasporic and Caribbean youth in US classrooms to read and write their histories (making sense of the past, present, and future) using a range of multimodal texts.
 
@@ -86,9 +87,9 @@ Transliteracies and Translingualism in K--12 Classrooms
 %}
 
 {% include image.html
-    img="figure-3.jpg"
-    title="Figure 3"
-    caption="Cover of Elizabeth Acevedo's *Clap When You Land*." %}
+    img="valence_1_MHR_LO_figure-3.jpg"
+    title="Clap When You Land"
+    caption="Figure 3. Cover of Elizabeth Acevedo's *Clap When You Land*." %}
 
 Elizabeth Acevedo's novel is marked by reflections on mobility and immobility. Yahaira,
 born in the United States to Dominican parents, notes the cultural and linguistic practices that locate her as Dominican. Yet she also acknowledges her complicated relationship with the Dominican Republic itself and wonders what it would mean to "claim a home that does not know *you,* much less claim you as its own?" After her father's death, Yahaira discovers that his annual Dominican Republic trips were motivated by a desire to see his other daughter, Camino, and not by the business matters he long claimed as the reason for travel. Determined to connect with Camino, Yahaira defies her mother's wishes that she not to return to the country and secretly takes a flight to the north coast. Both sisters come to terms with the (im)mobilities that have marked their lives in distinct ways. Yahaira is faced with the reality that her mother knew about Camino but would not agree to sponsor her immigration paperwork. Camino realizes that losing her father's remittances may prevent her from completing education at the local international school and fulfilling her dreams of attending Columbia University. The relative affordances and constraints of holding certain passports becomes a point of contention and then reunification for the sisters. The plot of this novel is deeply shaped by notions of what it means to come and go, and what it means to be together and to be apart. As the novel alternates between the perspectives of each sister across chapters, we see how space, (im)mobility, and relationships are shaped by different contexts while also being brought into dialogue.
@@ -106,16 +107,17 @@ Using dLOC and Other Archives to Layer Caribbean Texts in a Digital Project
 %}
 
 {% include image.html
-    img="figure-4.jpg"
-    title="Figure 4"
-    caption="Cover of Lilliam Rivera's *Never Look Back*." %}
+    img="valence_1_MHR_LO_figure-4.jpg"
+    title="Never Look Back"
+    caption="Figure 4. Cover of Lilliam Rivera's *Never Look Back*." %}
 
 In Lilliam Rivera's *Never Look Back*, Eury moves from Puerto Rico to Tampa to the Bronx in the wake of Hurricane María. Eury's encounters with the New York City landscape and her love interest, Pheus, are marked by fears that Ato---a spirit from the Underworld who has followed her since childhood---will reappear at any turn. Metaphorically, Ato represents the weight of depression that continues to deepen for Eury. When Ato takes Eury to the Underworld---luring her to stay with idyllic scenes from the Puerto Rican *campo*---Pheus gathers strength from his ancestors and syncretic spirits to attempt to bring her back. Throughout the novel, readers see how the lingering effects of (un)natural disasters are carried in the moving body and how different ancestral and cultural sources of strength are drawn upon to face new challenges as they arise.[^26] Ultimately, this is the heart of the digital project. We propose a two-part digital project using dLOC and other archival resources for students to read these three novels relationally in order to understand complex migrations at the crossroads of Caribbean Black diasporic (im)mobility as well as the placemaking practices of young Afro-Caribbean protagonists as they imbue daily life and visions of the future with multiple meanings. In doing so, we offer educators a model that highlights pedagogical suggestions for prereading, reading, and postreading activities while encouraging teachers to modify activities and instructional foci based on the context of their classrooms, students, schools, communities, and/or regions.[^27]
 
 {% include image.html
-    img="figure-5.jpg"
-    title="Figure 5"
-    caption="Recommended Outline of Digital Project." %}
+    img="valence_1_MHR_LO_figure-5.jpg"
+    alt="slide titled suggesting a plan highlighting steps for pre-reading, reading, and post-reading"
+    title="digital project outline"
+    caption="Figure 5. Recommended Outline of Digital Project." %}
 
 
 Digital Project Part I: US Intervention, Caribbean Migrations, and Black Diasporic (Im)mobilities
