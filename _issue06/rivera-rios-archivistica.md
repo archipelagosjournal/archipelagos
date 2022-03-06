@@ -88,7 +88,7 @@ Es importante destacar el valor histórico, político y geográfico de la isla m
 {% include image.html
     img="valence_1_IRB_NRV_fig1.jpg"
     title="mapa de Puerto Rico"
-    caption="Figura 1. Mapa de Puerto Rico y las Islas Vírgenes Americanas. *Fuente*: Trayectoria del Huracán, "Pronóstico para PR y las Islas Vírgenes", fecha de acceso: 14 de enero de 2022, <https://trayectoriadelhuracan.blogspot.com/2009/07/pronostico-de-zonas-para-pr-e-islas.html>." %}
+    caption="Figura 1. Mapa de Puerto Rico y las Islas Vírgenes Americanas. Fuente: Trayectoria del Huracán, 'Pronóstico para PR y las Islas Vírgenes', fecha de acceso: 14 de enero de 2022, <https://trayectoriadelhuracan.blogspot.com/2009/07/pronostico-de-zonas-para-pr-e-islas.html>." %}
 
 En 1941 la Marina de Guerra de los Estados Unidos ocupó dos terceras partes de la isla de Vieques con el propósito de establecer una base militar. Como consecuencia, miles de viequenses fueron desplazados fuera de sus comunidades. Muchos de ellos se vieron obligados a migrar a las Islas Vírgenes Americanas, así como a la isla de Puerto Rico. En la base militar se realizaron, por décadas, prácticas militares con explosivos químicos tales como agente naranja y napalm, afectando la calidad de vida de los residentes de Vieques. No es hasta el 2003 que se declara un cese y desista de estos ejercicios militares y el cierre total de la base militar.
 
@@ -98,7 +98,7 @@ Las manifestaciones en contra de la Marina de Guerra de los Estados Unidos, así
     img="valence_1_IRB_NRV_foto7.png"
     alt="group of adults in black and white photo. woman dressed in skirt suit and hat in foreground turns to smile at camera, flanked by two men in white suits. in background is man in clerical dress and another man in military uniform."
     title="la familia Catanzaro"
-    caption="Foto 7. Colección de fotos de la familia Catanzaro, 1941--42. *Fuente*: Digital Library of the Caribbean, "UPR: Caribbean Diaspora DH Center", fecha de acceso: 14 de enero de 2022, <https://dloc.com/diasporaproject/contains/?t=%22August%20Catanzaro%22&f=AU>." %}
+    caption="Foto 7. Colección de fotos de la familia Catanzaro, 1941--42. *Fuente*: Digital Library of the Caribbean, 'UPR: Caribbean Diaspora DH Center', fecha de acceso: 14 de enero de 2022, <https://dloc.com/diasporaproject/contains/?t=%22August%20Catanzaro%22&f=AU>." %}
 
 Sin duda, el AHV resguarda un acervo documental importante para la historia de la isla municipio y del país en general. Sus fuentes de información abren posibilidades para establecer conexiones entre Puerto Rico y el Caribe anglófono. Desde la óptica ambiental, el AHV ofrece un capítulo importante en la historia de siglo XX. La variedad de los recursos hace de este archivo un espacio único que visibiliza a una comunidad que ha sido históricamente excluida.
 
@@ -119,7 +119,7 @@ La segunda parte de la actividad "Historias de lucha y resistencia en Vieques" e
     img="valence_1_IRB_NRV_fig2.png"
     alt="workflow diagram showing progression from investigación to análisis to divulgación"
     title="Fases del proyecto"
-    caption="Figura 2. Fases del proyecto "Historias de lucha y resistencia en Vieques". %}
+    caption="Figura 2. Fases del proyecto 'Historias de lucha y resistencia en Vieques'." %}
 
 Los pasos que sigue cada estudiante para completar el proyecto "Historias de lucha y resistencia en Vieques" (figura 3) están descritos en la "*Guía para el proyecto* *final"*. De manera resumida, los pasos para realizar el proyecto son los siguientes:
 
@@ -139,7 +139,7 @@ Los pasos que sigue cada estudiante para completar el proyecto "Historias de luc
     img="valence_1_IRB_NRV_fig3.png"
     alt="workflow diagram showing schedule: 1-buscar información en dloc; 2-identificar un recurso del AHV; 3-describir el recurso; 4-grabar audio"
     title="Resumen de los pasos"
-    caption="Figura 3. Resumen de los pasos del proyecto "Historias de lucha y resistencia en Vieques". %}
+    caption="Figura 3. Resumen de los pasos del proyecto 'Historias de lucha y resistencia en Vieques.'" %}
 
 La "*Guía para el proyecto* *final"* incluye la descripción y los objetivos del proyecto; los enlaces a la plataforma dLOC, las colecciones del AHV y los recursos de referencia; las instrucciones de cómo realizar y compartir la reflexión sonora; y el consentimiento para divulgarla. En el proceso de diseñar esta actividad se tomó en cuenta el acceso limitado de los estudiantes a los recursos bibliotecarios en el contexto de la pandemia por el COVID-19. El diseño también responde al interés de la profesora en fomentar la participación de los estudiantes en el curso y el intercambio entre elles dados los retos de transformar un curso presencial a uno asistido por la tecnología de manera precipitada durante la pandemia[^11]. Aunque la guía didáctica fue creada con estudiantes universitarios en mente, la misma puede adaptarse para ser usada por estudiantes de otros niveles académicos. La "*Guía para el proyecto* *final"* está disponible en el Apéndice de este artículo.
 
@@ -164,7 +164,7 @@ La reflexión sonora sobre la vida cotidiana en Vieques durante el proceso de mi
 {% include image.html
     img="valence_1_IRB_NRV_foto8.png"
     title="Desfile"
-    caption="Foto 8. Colección de fotos de la familia Catanzaro, 1941--42. *Fuente*: Digital Library of the Caribbean, "UPR: Caribbean Diaspora DH Center", fecha de acceso: 14 de enero de 2022, <https://dloc.com/diasporaproject/contains/?t=%22August%20Catanzaro%22&f=AU>. %}
+    caption="Foto 8. Colección de fotos de la familia Catanzaro, 1941--42. Fuente: Digital Library of the Caribbean, 'UPR: Caribbean Diaspora DH Center', fecha de acceso: 14 de enero de 2022, <https://dloc.com/diasporaproject/contains/?t=%22August%20Catanzaro%22&f=AU>." %}
 
 La reflexión sonora sobre las migraciones entre las islas de Vieques y Santa Cruz describe los vínculos que existen entre ambas islas a nivel político, económico y sociocultural[^22]. También describe el rol de Vieques como puente de Puerto Rico con las Antillas Menores. La reflexión sonora del estudiante de ciencias sociales José M. Sánchez tiene como punto de partida un artículo escrito por Robert Rabin, actual director del Museo del Fuerte del Conde de Mirasol y director del Archivo Histórico de Vieques. Sánchez describe que a principios del siglo XX inmigrantes de diferentes Antillas Menores migraron a Vieques a trabajar en los campos de cultivo de caña y que, luego de la crisis financiera de la década de 1930, el patrón de migración cambió de Vieques hacia las Islas Vírgenes Americanas:
 
