@@ -33,13 +33,13 @@ El Archivo Histórico de Vieques
 El Archivo Histórico de Vieques (AHV) es parte de un grupo de archivos comunitarios en Puerto Rico que tiene como norte la preservación de los acervos documentales en su formato físico y digital. La visión de un archivo con un enfoque comunitario y participativo se enfoca en que los miembros de la comunidad aporten materiales de valor histórico al Archivo, se adiestren en la preservación, digitalización y catalogación de los mismos y los utilicen para profundizar en su conocimiento sobre la historia y las luchas del pueblo viequense. En la actualidad, el Archivo está ubicado en las facilidades del Fuerte Conde de Mirasol en el Barrio Mambiche de la isla municipio de Vieques (foto 1). El depósito de materiales incluye un área en la cual se ubican los materiales que requieren protección especial de la humedad (por ejemplo, documentos antiguos, periódicos, grabaciones y videos) (foto 2). Los documentos que han sido digitalizados y catalogados se encuentran en la página web de la Biblioteca Digital del Caribe (dLOC, por sus siglas en inglés)[^1].
 
 {% include image.html
-    img="valence_1_IRB_NRV_foto1.png"
+    img="valence_1_irb_nrv_foto1.png"
     alt="front of white building with green door and panels"
     title="Fuerte Conde Mirasol"
     caption="Foto 1. Fuerte Conde Mirasol, lugar donde ubica el Archivo Histórico de Vieques." %}
 
 {% include image.html
-    img="valence_1_IRB_NRV_foto2.png"
+    img="valence_1_irb_nrv_foto2.png"
     alt="room with archival materials and table"
     title="Archivo Histórico de Vieques"
     caption="Foto 2. Vista panorámica del Archivo Histórico de Vieques (AHV)." %}
@@ -49,25 +49,25 @@ En la isla municipio de Vieques, al igual que en otros pueblos de la Puerto Rico
 El carácter comunitario de este archivo promueve modelos ágiles, participativos y democráticos de preservación y conservación de documentos físicos, grabaciones sonoras y colecciones de imagen y movimiento. A esas tareas se incorporan estudiantes, vecinos y voluntarios locales y de fuera de Puerto Rico, quienes desarrollan destrezas de conservación, digitalización y catalogación. Al igual que otros archivos comunitarios en Puerto Rico, el AHV tienen un carácter multiuso ya que el espacio donde está ubicado se comparte con una radio emisora comunitaria, un museo y espacios de reunión. Es un lugar que convoca a diferentes poblaciones y promueve que se amplíe el alcance comunitario del archivo y el interés por los recursos que alberga (fotos 3--6).
 
 {% include image.html
-    img="valence_1_IRB_NRV_foto3.png"
+    img="valence_1_irb_nrv_foto3.png"
     alt="woman gesturing to audiovisual equipment laid out on table in front of group of people of different ages"
     title="Caroline Gil"
     caption="Foto 3. Caroline Gil, del proyecto *Audiovisual Preservation Exchange* de la Universidad de Nueva York (NYU), demuestra a niños, estudiantes, profesores universitarios y miembros de la comunidad viequense cómo hacer un laboratorio para digitalizar imágenes en movimiento." %}
     
 {% include image.html
-    img="valence_1_IRB_NRV_foto4.png"
+    img="valence_1_irb_nrv_foto4.png"
     alt="two young people wearing white gloves and masks bent over fragile book placed on overhead scanner"
     title="Jóvenes voluntarias"
     caption="Foto 4. Jóvenes voluntarias de Vieques realizan trabajo de digitalización." %}
 
 {% include image.html
-    img="valence_1_IRB_NRV_foto5.png"
+    img="valence_1_irb_nrv_foto5.png"
     alt="group of people around table, with two younger people in foreground entering data from cassette tapes into spreadsheet"
     title="Colección de Imagen y Movimiento Andrés Nieves"
     caption="Foto 5. Miembros de la comunidad participan en la catalogación de la Colección de Imagen y Movimiento Andrés Nieves." %}
 
 {% include image.html
-    img="valence_1_IRB_NRV_foto6.png"
+    img="valence_1_irb_nrv_foto6.png"
     alt="person with phone to ear, seated at table with audiovisual equipment"
     title="Sofía Gallisá"
     caption="Foto 6. Sofía Gallisá, miembro de la junta asesora del Archivo Histórico de Vieques, hace inventario de materiales donados al archivo con el objetivo de crear un laboratorio de digitalización de imagen y movimiento." %}
@@ -86,7 +86,7 @@ Entre las colecciones del AHV, figuran registros eclesiásticos y gubernamentale
 Es importante destacar el valor histórico, político y geográfico de la isla municipio de Vieques para darles el mérito justo a las colecciones que el AHV resguarda y cuida. La isla municipio de Vieques cuenta con una población aproximada de 9,300 personas según los informes del Censo del 2020. A principios del siglo XX, los Estados Unidos identificaron las islas municipio de Vieques y Culebra como bastiones importantes para la defensa del Caribe. Este hecho, junto a la adquisición de las Islas Vírgenes Americanas en 1917, hizo que se diera un flujo migratorio entre las islas municipios y los territorios recientemente adquiridos. Es por ello que estudiosos del tema hayan descrito ambos municipios como islas puentes con el Caribe[^6] (figura 1).
 
 {% include image.html
-    img="valence_1_IRB_NRV_fig1.jpg"
+    img="valence_1_irb_nrv_fig1.jpg"
     title="mapa de Puerto Rico"
     caption="Figura 1. Mapa de Puerto Rico y las Islas Vírgenes Americanas. Fuente: Trayectoria del Huracán, 'Pronóstico para PR y las Islas Vírgenes', fecha de acceso: 14 de enero de 2022, <https://trayectoriadelhuracan.blogspot.com/2009/07/pronostico-de-zonas-para-pr-e-islas.html>." %}
 
@@ -95,7 +95,7 @@ En 1941 la Marina de Guerra de los Estados Unidos ocupó dos terceras partes de 
 Las manifestaciones en contra de la Marina de Guerra de los Estados Unidos, así como el justo reclamo de la limpieza y entrega de los terrenos contaminados, constituye una de las luchas políticas y ambientales más importantes en la historia de Puerto Rico. El Archivo Histórico de Vieques preserva y cuida toda la documentación asociada a esta lucha. Ejemplo de estos recursos son los boletines de la Cruzada Pro-rescate de Vieques. Además, se han digitalizado seis periódicos locales producidos entre el 1950 y el 2003: el semanario *Vieques Times* (1987--2003), *Isla Nena* (1985--93), *La Página de Cheo* (1990--96), *El Nuevo Vieques* (2000--2003), *El Navegante* (1992--2000) y el *Vieques Breeze* (1943). Esta colección de periódicos locales producidos en Vieques constituye un acervo documental importante que no está disponible en ningún otro lugar y que aporta a la lucha inconclusa del pueblo viequense. Por último, se destacan las colecciones fotográficas Catanzaro y Gerry Carr. Estas colecciones, recientemente digitalizadas y catalogadas, fueron donadas por ambas familias al AHV. La importancia de ambas colecciones radica en que en conjunto ofrecen una mirada cotidiana a la convivencia entre viequenses y militares.
 
 {% include image.html
-    img="valence_1_IRB_NRV_foto7.png"
+    img="valence_1_irb_nrv_foto7.png"
     alt="group of adults in black and white photo. woman dressed in skirt suit and hat in foreground turns to smile at camera, flanked by two men in white suits. in background is man in clerical dress and another man in military uniform."
     title="la familia Catanzaro"
     caption="Foto 7. Colección de fotos de la familia Catanzaro, 1941--42. *Fuente*: Digital Library of the Caribbean, 'UPR: Caribbean Diaspora DH Center', fecha de acceso: 14 de enero de 2022, <https://dloc.com/diasporaproject/contains/?t=%22August%20Catanzaro%22&f=AU>." %}
@@ -116,7 +116,7 @@ En la primera parte el estudiantado aprende, a través de videos y conferencias,
 La segunda parte de la actividad "Historias de lucha y resistencia en Vieques" es el proyecto de fin de curso. Para este proyecto cada estudiante aprende a utilizar la colección digital del AHV y realiza una reflexión sobre los acervos documentales del archivo, la cual graba y comparte a través de WhatsApp. Este audio es lo que llamamos en este artículo una "reflexión sonora". La producción de la reflexión sonora es un trabajo que cada estudiante realiza de manera independiente y que requiere explorar los materiales del AHV disponibles en dLOC (la investigación), analizar críticamente el material investigado para producir una reflexión escrita y una reflexión sonora (el análisis), y compartir la reflexión sonora con sus compañeras de curso y el AHV (la divulgación) (figura 2).
 
 {% include image.html
-    img="valence_1_IRB_NRV_fig2.png"
+    img="valence_1_irb_nrv_fig2.png"
     alt="workflow diagram showing progression from investigación to análisis to divulgación"
     title="Fases del proyecto"
     caption="Figura 2. Fases del proyecto 'Historias de lucha y resistencia en Vieques'." %}
@@ -136,7 +136,7 @@ Los pasos que sigue cada estudiante para completar el proyecto "Historias de luc
 6.  Compartir su reflexión sonora con la profesora y los otros estudiantes del curso a través del chat de WhatsApp de la clase.
 
 {% include image.html
-    img="valence_1_IRB_NRV_fig3.png"
+    img="valence_1_irb_nrv_fig3.png"
     alt="workflow diagram showing schedule: 1-buscar información en dloc; 2-identificar un recurso del AHV; 3-describir el recurso; 4-grabar audio"
     title="Resumen de los pasos"
     caption="Figura 3. Resumen de los pasos del proyecto 'Historias de lucha y resistencia en Vieques.'" %}
@@ -162,7 +162,7 @@ Las dieciséis reflexiones sonoras creadas por los estudiantes universitarios de
 La reflexión sonora sobre la vida cotidiana en Vieques durante el proceso de militarización de la isla en la década de 1940[^20] describe la colección de más de 700 fotografías que miembros de la familia Catanzaro tomaron en Vieques entre 1941 y 1942. La colección está disponible en la plataforma dLOC[^21]. En la reflexión sonora del estudiante de comunicaciones Yarib Sánchez se describe que la colección incluye fotos de las condiciones de vida de los viequenses y fotos de la base militar y los militares. Estas fotos fueron confiscadas cuando la familia Catanzaro regresó a Estados Unidos. El estudiante que creó esta reflexión sonora se pregunta, ¿Por qué Estados Unidos no quería que la "historia gráfica" que documentaron los Catanzaro sobre el proceso de militarización se conociera? También reflexiona sobre cómo, al preservarlas, estas fotos "personales" de una "colección familiar" se convierten en registros de cómo se vivía en una época y sobre el valor de donar materiales de valor histórico al AHV.
 
 {% include image.html
-    img="valence_1_IRB_NRV_foto8.png"
+    img="valence_1_irb_nrv_foto8.png"
     title="Desfile"
     caption="Foto 8. Colección de fotos de la familia Catanzaro, 1941--42. Fuente: Digital Library of the Caribbean, 'UPR: Caribbean Diaspora DH Center', fecha de acceso: 14 de enero de 2022, <https://dloc.com/diasporaproject/contains/?t=%22August%20Catanzaro%22&f=AU>." %}
 
