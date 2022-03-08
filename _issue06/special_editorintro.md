@@ -24,6 +24,8 @@ dLOC began as a grant-funded program; today, it relies on both grants and in-kin
 
 In this special issue of *archipelagos*, contributors delve into dLOC’s collections and engage with the ways scholars and students have created, contributed, and utilized content across disciplines and geographies. Nearly twenty years after dLOC was established, the preservation of and access to Caribbean patrimonial materials remains critical and has only grown in importance with the impacts of climate change, political instability, and lack of funding, and the very real threat to sustainability of physical collections. The issue’s contributors acknowledge and reflect on their own positionality as scholars and teachers working with or in U.S. institutions while trying to provide access to cultural knowledge and history across diasporas. They draw from their experiences across the Caribbean in safeguarding cultural heritage through collaborations and partnerships that can be at times fraught with tension and complex power dynamics. Their goals often include pathways to decolonize knowledge on the ground and to disseminate knowledge beyond academic audiences.  
 
+{% include image.html img="dloc_logo.jpg" title="dLOC logo" %}
+
 Navigating and Negotiating Digitization
 ------------------------------------------------------------------
 
