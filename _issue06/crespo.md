@@ -48,7 +48,7 @@ Mujer Intégrate Ahora fue la primera organización feminista autónoma creada e
 El editorial del número preliminar del *Tacón de la Chancleta* explica el origen de la publicación. "Un grupo de mujeres dentro de la organización Mujer Intégrate Ahora (MIA), al revisar la historia del feminismo en Puerto Rico, encontró una tradición histórica donde se publicaron varias revistas y periódicos dirigidos a promover los derechos de la mujer"[^13]. Acorde con el propósito de visibilizar la historia feminista, en las páginas del *Tacón* se reseñaron las publicaciones locales e internacionales de las sufragistas puertorriqueñas, en especial las de Ana Roqué de Duprey y sus colaboradoras: *Euterpe* (1888), *La Mujer* (1894), *La Evolución* (1902), *El Álbum Puertorriqueño* (1918), *La Mujer del Siglo XX* (1917) y *El Heraldo de la Mujer* (1919)[^14].
 
 {% include image.html
-    img="valence_1_eck_editoras-tacon.jpg"
+    img="issue06/valence_1_eck_editoras-tacon.jpg"
     title="Editoras *Tacón de la Chancleta*"
     caption="Figure 1. Fotografía Elizabeth Viverito Escobar. Desde la izquierda,
 Ronnie Lovler, Elizabeth Viverito Escobar, Ana Irma Rivera Lassén, Alma
@@ -65,7 +65,7 @@ Según afirman las fundadoras del *Tacón*, aunque *El Tacón de la Chancleta* p
 Un análisis de los temas que se discutieron en las páginas del *Tacón* y los debates que allí se ventilaron es una ventana al pasado que contribuye a analizar el devenir de los feminismos mirando las continuidades, rupturas y resignificaciones de los asuntos que allí se presentaron.
 
 {% include image.html
-    img="valence_1_eck_foto2.jpg"
+    img="issue06/valence_1_eck_foto2.jpg"
     title="*El Tacón de la Chancleta*"
     caption="Figure 2. Portadas del periódico feminista *El Tacón de la
 Chancleta*" %}
