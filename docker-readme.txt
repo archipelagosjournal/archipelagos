@@ -9,7 +9,7 @@ $ docker exec -it issue06 /bin/bash
 # Run the utility
 app# utility/ConTeXt/makeSingleIssue.sh _issue06
 
-# When done
-$ docker cp issue06:/app/_issue06 .
+# When done copy the PDFs back to host
+$ docker cp issue06:/app/assets/issue06/ ./assets/issue06/
 
 
