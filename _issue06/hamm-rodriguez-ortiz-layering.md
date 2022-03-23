@@ -46,11 +46,7 @@ Caribbean studies paradigms offer an entry point for pedagogical practices in se
 
 Inspiring our own approach to text selection for this project, Yomaira Figueroa-Vásquez expands Glissant's notion of poetics of relation to propose a "radical relational remapping" as "critical cartographic practice."[^7] Grounded in women of color feminism, Figueroa-Vásquez's approach puts Afro-hispanophone diasporic texts from the Caribbean and Equatorial Guinea in relation by acknowledging the incommensurability of different forms of racialization and how they shape subjective experiences while also pointing toward a range of liberation practices forged in diaspora and exile. In addition, we draw inspiration from the relational frameworks advanced by Myriam J. A. Chancy and Vanessa K. Valdés as they explore the histories and writings of the hispanophone Caribbean alongside the histories and writings of Haiti,[^8] which we attempt to do here for young adult (YA) literature by focusing on the Dominican Republic, Puerto Rico, Haiti, and their diasporas. The foundational work of Chancy and Valdés fills historical silences and contests dominant paradigms---whether related to race or language---that separate rather than put in relation the intellectual and political thought and embodied experiences of places and peoples often imagined as disparate rather than interconnected.
 
-{% include image.html
-    img="issue06/valence_1_mhr_lo_figure-1.jpg"
-    alt="slide with book cover images and dLOC logo"
-    title="slide preview"
-    caption="Figure 1. Preview of Companion Slides to the Digital Project." %}
+{% include image.html img="issue06/valence_1_mhr_lo_figure-1.jpg" alt="slide with book cover images and dLOC logo" title="slide preview" caption="Figure 1. Preview of Companion Slides to the Digital Project." %}
 
 Thus, in this proposal for teaching Caribbean diasporic YA novels through digital projects, we not only advocate for spaces where students can use dynamic reading and writing practices but also caution against pedagogical approaches that produce singular narratives about the Caribbean by erasing the complexities and contradictions of Caribbean diasporic histories.[^9] In this essay, we draw from three YA novels: Lilliam Rivera's *Never Look Back*, Ibi Zoboi's *American Street*, and Elizabeth Acevedo's *Clap When You Land*.[^10] Weaving together the geographic spaces of Morningside Heights, Detroit, Tampa, the Bronx, the Dominican Republic, Puerto Rico, and Haiti, all three novels feature Afro-Caribbean protagonists who navigate adolescent life and the intersections of race, ethnicity, gender, social class, and sexuality across a backdrop of migration produced by coloniality and imperialism.
 
@@ -115,7 +111,6 @@ In Lilliam Rivera's *Never Look Back*, Eury moves from Puerto Rico to Tampa to t
 
 {% include image.html
     img="issue06/valence_1_mhr_lo_figure-5.jpg"
-    alt="slide titled suggesting a plan highlighting steps for pre-reading, reading, and post-reading"
     title="digital project outline"
     caption="Figure 5. Recommended Outline of Digital Project." %}
 
@@ -190,7 +185,7 @@ To begin this part of the project, students will research three social disasters
 -   "[Amid Rubble and Ruin, Our Duty to Haiti Remains](https://www.npr.org/templates/story/story.php?storyId=122567412)"
 -   [Eight Days: A Story of Haiti](https://www.powells.com/book/eight-days-a-story-of-haiti-9780545278492?partnerid=33733)
 -   "[From Disaster, Emerging Life](https://www.nytimes.com/2010/04/12/opinion/12trouillot.html)"
--   "[The Memory Box](https://africasacountry.com/2015/10/digital-archive-no-20-the-haiti-memory-project)}
+-   "[The Memory Box](https://africasacountry.com/2015/10/digital-archive-no-20-the-haiti-memory-project)
 
 #### Hurricane María (2017)
 

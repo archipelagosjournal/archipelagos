@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 from pandocfilters import toJSONFilter, RawInline, Cite, Para, Header, Str, RawBlock, elt, BlockQuote, Div
 import os, sys, pprint, re
 

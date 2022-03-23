@@ -1,6 +1,6 @@
 /\\\{\\letterpercent\{\} include image.html .*/{
 	N
-	s#\\\{\\letterpercent\{\} include image.html img=\\quot[atione]+\{issue[0-9]+/([^}]*)\}( url=\\quot[atione]+\{[^}]+\})?(\n\\strut)? title=\\quot[atione]+\{([^}]*)\}(\n\\strut)? caption=.*$#\\placefigure{\4}{\\externalfigure[images/\1]}#
+	s#\\\{\\letterpercent\{\} include image.html img=\\quot[atione]+\{issue[0-9]+/([^}]*)\}( url=\\quot[atione]+\{[^}]+\})?(\n\\strut)? title=\\quot[atione]+\{({[^}]*)\}(\n\\strut)? caption=.*$#\\placefigure{\4}{\\externalfigure[images/\1]}#
 }
 /\\\{\\letterpercent\{\} include interactive.html .*/{
 	N

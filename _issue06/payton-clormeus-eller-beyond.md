@@ -41,13 +41,10 @@ The practices of these institutions reflect the transnational nature of intellec
 
 {% include image.html
     img="issue06/valence_1_cp_photo-bhfic-new.jpg"
-    alt="front of multistory building Bibliothèque Haïtienne"
-    title="Bibliothèque Haïtienne des Frères de l'Instruction Chrétienne"
     caption="Figure 1. The Bibliothèque Haïtienne des Frères de l'Instruction Chrétienne in Port-au-Prince includes in its collection nearly 200 newspapers. Photo by Marie-France Guillaume." %}
 
 {% include image.html
     img="issue06/valence_1_cp_dsc02545.jpg"
-    alt="softly lit room with wooden tables and document stands"
     title="reading room"
     caption="Figure 2. BHFIC reading room. Photo by Marie-France Guillaume." %}
 
@@ -99,13 +96,11 @@ In 2017, the EAP accepted our proposal, "Beyond the Revolution: Bibliothèque Ha
 
 {% include image.html
     img="issue06/valence_1_cp_dsc00793.jpg"
-    alt="man in foreground demonstrates digitization process to group in background"
     title="Miguel Asencio demonstration"
     caption="Figure 3. dLOC Executive Director Miguel Asencio demonstrates digitization process during workshop. Photo by Marie-France Guillaume." %}
 
 {% include image.html
     img="issue06/valence_1_cp_dsc02548.jpg"
-    alt="station with lighting and scanning equipment and computer"
     title="digitization workstation"
     caption="Figure 4. Digitization set up included lighting and scanning equipment. Photo by Marie-France Guillaume." %}
 

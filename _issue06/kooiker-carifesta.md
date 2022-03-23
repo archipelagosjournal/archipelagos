@@ -133,7 +133,7 @@ The refrain among the written recollections I've read (Salkey's, Clarke's, and B
 
 [^14]: Brathwaite; Austin Clarke, *A Passage Back Home: A Personal Reminiscence of Samuel Selvon* (Toronto: Exile, 1994), 89.
 
-[^15]: Since these countries were absent from the initial list of potential invitees, the festival's expanded regional scope must have been a later policy development, but to date I have not found any historical evidence as to what precipitated the change.⁠ For this initial list, see Salkey's summary of the 1970 planning sessions in Andrew Salkey, *Georgetown Journal: A Caribbean Writer\'s Journey from London via Port of Spain to Georgetown, Guyana, 1970* (London: New Beacon, 1972), 276--78.
+[^15]: Since these countries were absent from the initial list of potential invitees, the festival's expanded regional scope must have been a later policy development, but to date I have not found any historical evidence as to what precipitated the change. For this initial list, see Salkey's summary of the 1970 planning sessions in Andrew Salkey, *Georgetown Journal: A Caribbean Writer\'s Journey from London via Port of Spain to Georgetown, Guyana, 1970* (London: New Beacon, 1972), 276--78.
 
 [^16]: By 1972, Guyana was in diplomatic relations with the Soviet Union, the East Germany, and the People's Republic of China, and it was about to establish the same with Cuba and North Korea in 1973. See Vibert C. Cambridge, *Musical Life in Guyana: History and Politics of Controlling Creativity* (Oxford: University Press of Mississippi, 2015), 201. These friendly relations with communist states would prompt the United States to drastically cut its foreign aid to Guyana in the mid-1970s.
 
