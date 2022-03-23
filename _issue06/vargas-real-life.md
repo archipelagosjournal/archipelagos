@@ -46,13 +46,11 @@ Apart from Sténio Vincent's reforestation campaign, I also found interesting ne
 
 {% include image.html
 img="valence_1_LV_jacmel-nouvelliste.jpg"
-alt="Timeline slide with newspaper clipping, captioned: An author named J.B. wrote a long text about Jacmel, which appeared serially in several issues."
 title="Voyage autour de Jacmel"
 caption="Figure 1. Column on Jacmel from September 1938 on the *Nouvelliste* timeline" %}
 
 {% include image.html
 img="valence_1_LV_jacmel-monde.jpg"
-alt="Timeline slide with handwritten note, captioned: Patrick finds this article published by the newspaper in April. This triggers his memories of Jacmel and Hadriana."
 title="Lettre de Jacmel"
 caption="Figure 2. Fictional column on Jacmel from April 1972 on the *Hadriana* timeline" %}
 

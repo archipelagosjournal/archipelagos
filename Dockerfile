@@ -10,7 +10,6 @@ RUN mkdir -p /opt/context
 # some config taken from https://hub.docker.com/r/minidocks/context
 RUN sed -i '/^#\sdeb-src /s/^#//' "/etc/apt/sources.list" \
 	&& apt-get update \
-	&& apt-get apt-get install vim \
 	&& apt-get --no-install-recommends install git pandoc python3-pandocfilters ssed wget rsync ca-certificates unzip -y \
 	&& apt-get --no-install-recommends build-dep context -y \
 	&& cd /opt/context \

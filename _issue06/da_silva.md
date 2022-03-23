@@ -76,7 +76,6 @@ The final example on our nonexhaustive list of responses to the challenges facin
 
 {% include image.html
     img="issue06/valence_1_NMS_MOF_figure1.png"
-    alt="series of art images of people and landscapes"
     title="2021 virtual exhibition"
     caption="Figure 1. Image from the École Supérieure d'Infrotronique d'Haïti presenting a virtual exhibition of Haitian museums in 2021." %}
 
@@ -144,7 +143,6 @@ Also pertinent to the site's history are photographs and documents related to th
 
 {% include image.html
    img="issue06/valence_1_nms_mof_figure5.jpg"
-   alt="three side-by-side images of the same interior, with a round window covered by a large, spoked frame. later images include miniature dioramas of plantation in foreground"
    title="Habitation Guillame-Ogier"
    caption="Figure 5. The Habitation exhibit in the 1980s, 1990s, and in 2015." %}
 
@@ -157,7 +155,6 @@ In sifting through the MOF's archive, a compelling panorama of Haitian museology
 
 {% include image.html
    img="issue06/valence_1_nms_mof_figure6.jpg"
-   alt="line drawing of landscape with planned cultural center buildings. subtitled le recontre de deux mondes."
    title="Fondation 92 booklet"
    caption="Figure 6. Image from a Fondation 92 booklet on the development of a cultural center in northern Haiti." %}
 

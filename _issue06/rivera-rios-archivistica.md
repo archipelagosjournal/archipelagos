@@ -34,13 +34,11 @@ El Archivo Histórico de Vieques (AHV) es parte de un grupo de archivos comunita
 
 {% include image.html
     img="issue06/valence_1_irb_nrv_foto1.png"
-    alt="front of white building with green door and panels"
     title="Fuerte Conde Mirasol"
     caption="Foto 1. Fuerte Conde Mirasol, lugar donde ubica el Archivo Histórico de Vieques." %}
 
 {% include image.html
     img="issue06/valence_1_irb_nrv_foto2.png"
-    alt="room with archival materials and table"
     title="Archivo Histórico de Vieques"
     caption="Foto 2. Vista panorámica del Archivo Histórico de Vieques (AHV)." %}
 
@@ -50,25 +48,21 @@ El carácter comunitario de este archivo promueve modelos ágiles, participativo
 
 {% include image.html
     img="issue06/valence_1_irb_nrv_foto3.png"
-    alt="woman gesturing to audiovisual equipment laid out on table in front of group of people of different ages"
     title="Caroline Gil"
     caption="Foto 3. Caroline Gil, del proyecto *Audiovisual Preservation Exchange* de la Universidad de Nueva York (NYU), demuestra a niños, estudiantes, profesores universitarios y miembros de la comunidad viequense cómo hacer un laboratorio para digitalizar imágenes en movimiento." %}
     
 {% include image.html
     img="issue06/valence_1_irb_nrv_foto4.png"
-    alt="two young people wearing white gloves and masks bent over fragile book placed on overhead scanner"
     title="Jóvenes voluntarias"
     caption="Foto 4. Jóvenes voluntarias de Vieques realizan trabajo de digitalización." %}
 
 {% include image.html
     img="issue06/valence_1_irb_nrv_foto5.png"
-    alt="group of people around table, with two younger people in foreground entering data from cassette tapes into spreadsheet"
     title="Colección de Imagen y Movimiento Andrés Nieves"
     caption="Foto 5. Miembros de la comunidad participan en la catalogación de la Colección de Imagen y Movimiento Andrés Nieves." %}
 
 {% include image.html
     img="issue06/valence_1_irb_nrv_foto6.png"
-    alt="person with phone to ear, seated at table with audiovisual equipment"
     title="Sofía Gallisá"
     caption="Foto 6. Sofía Gallisá, miembro de la junta asesora del Archivo Histórico de Vieques, hace inventario de materiales donados al archivo con el objetivo de crear un laboratorio de digitalización de imagen y movimiento." %}
 
@@ -96,7 +90,6 @@ Las manifestaciones en contra de la Marina de Guerra de los Estados Unidos, así
 
 {% include image.html
     img="issue06/valence_1_irb_nrv_foto7.png"
-    alt="group of adults in black and white photo. woman dressed in skirt suit and hat in foreground turns to smile at camera, flanked by two men in white suits. in background is man in clerical dress and another man in military uniform."
     title="la familia Catanzaro"
     caption="Foto 7. Colección de fotos de la familia Catanzaro, 1941--42. *Fuente*: Digital Library of the Caribbean, 'UPR: Caribbean Diaspora DH Center', fecha de acceso: 14 de enero de 2022, <https://dloc.com/diasporaproject/contains/?t=%22August%20Catanzaro%22&f=AU>." %}
 
@@ -123,7 +116,6 @@ La segunda parte de la actividad "Historias de lucha y resistencia en Vieques" e
 
 {% include image.html
     img="issue06/valence_1_irb_nrv_fig2.png"
-    alt="workflow diagram showing progression from investigación to análisis to divulgación"
     title="Fases del proyecto"
     caption="Figura 2. Fases del proyecto 'Historias de lucha y resistencia en Vieques'." %}
 
@@ -143,7 +135,6 @@ Los pasos que sigue cada estudiante para completar el proyecto "Historias de luc
 
 {% include image.html
     img="issue06/valence_1_irb_nrv_fig3.png"
-    alt="workflow diagram showing schedule: 1-buscar información en dloc; 2-identificar un recurso del AHV; 3-describir el recurso; 4-grabar audio"
     title="Resumen de los pasos"
     caption="Figura 3. Resumen de los pasos del proyecto 'Historias de lucha y resistencia en Vieques.'" %}
 

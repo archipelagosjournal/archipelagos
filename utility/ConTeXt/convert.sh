@@ -47,11 +47,11 @@ ssed -r -i -f $root/utility/ConTeXt/backslash.ssed $filename.tex
 echo ConTeXt $filename, log into $3 
 
 
-if [ $(grep --count "letterpercent{} include" $filename.tex) -gt 0 ]; then
-	grep --color --line-number --with-filename "letterpercent{} include" $filename.tex -r 
-	echo -e "*** ERROR: \t Untrapped include found! Fix! Working directory: $(pwd)"
-	exit 1;
-fi
+# if [ $(grep --count "letterpercent{} include" $filename.tex) -gt 0 ]; then
+# 	grep --color --line-number --with-filename "letterpercent{} include" $filename.tex -r 
+# 	echo -e "*** ERROR: \t Untrapped include found! Fix! Working directory: $(pwd)"
+# 	exit 1;
+# fi
 
 
 cp $filename.tex $3/$filename.tex
