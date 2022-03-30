@@ -64,7 +64,7 @@ El carácter comunitario de este archivo promueve modelos ágiles, participativo
 {% include image.html
     img="issue06/valence_1_irb_nrv_foto6.png"
     title="Sofía Gallisá"
-    caption="Foto 6. Sofía Gallisá, miembro de la junta asesora del Archivo Histórico de Vieques, hace inventario de materiales donados al archivo con el objetivo de crear un laboratorio de digitalización de imagen y movimiento." %}
+    caption="Foto 6. Sofía Gallisá, miembro de la Junta Asesora del Archivo Histórico de Vieques y artiste residente, hace inventario de materiales donados al archivo con el objetivo de crear un laboratorio de digitalización de imagen y movimiento." %}
 
 La agenda de preservación y conservación de los recursos del Archivo Histórico de Vieques ha recibido el apoyo e impulso de las alianzas que se han creado con organizaciones y universidades en Puerto Rico y Estados Unidos. El AHV cuenta con el respaldo del Instituto de Cultura Puertorriqueña (ICP). Desde la plataforma digital Coloqueo del ICP[^2], se transmite una vez al mes una conferencia sobre los documentos que el público general puede acceder a través del portal digital del AHV. Además, desde el 2019, se han organizado tres sesiones de trabajo con el grupo *Audiovisual Preservation Exchange* (APEX) de la Universidad de Nueva York[^3] con el propósito de desarrollar colecciones audiovisuales que documentan más de treinta años de luchas ambientales en la isla municipio. Otra colaboración meritoria es el apoyo que recibe el AHV de la Biblioteca Digital del Caribe (dLOC) de la Universidad de Florida[^4]. Con esta alianza, se mantiene la página electrónica del AHV, al mismo tiempo que dLOC apoya en el resguardo de todos los materiales digitalizados hasta el momento.
 
