@@ -75,7 +75,7 @@ The final example on our nonexhaustive list of responses to the challenges facin
 
 
 {% include image.html
-    img="issue06/valence_1_NMS_MOF_figure1.png"
+    img="issue06/valence_1_nms_mof_figure1.png"
     title="2021 virtual exhibition"
     caption="Figure 1. Image from the École Supérieure d'Infrotronique d'Haïti presenting a virtual exhibition of Haitian museums in 2021." %}
 
