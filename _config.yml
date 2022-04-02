@@ -165,5 +165,5 @@ version:             0.0.1
 
 # Excluded
 
-exclude: [utility, Gemfile, Gemfile.lock, extras, vendor, RAKEFILE, update.log, robots.txt]
+exclude: [utility, Gemfile, smartquotes.txt, Dockerfile, Gemfile.lock, extras, vendor, RAKEFILE, update.log, robots.txt]
 
