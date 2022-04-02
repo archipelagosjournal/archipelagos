@@ -13,7 +13,7 @@ author:
 - name: Jean Mozart Féron
   shortname: Féron
   bio: >
-    Jean Mozart Féron is a PhD student in anthropology at the Université Laval (Quebec City, Canada) and junior faculty at the State University of Haiti and the Université Quisqueya. He is also a member of the executive board of the Haitian Committee of the International Council of Museums. His research focuses on museum evaluation and narration of sites of slavery, such as Croix-des-Bossales, known as Haiti's largest slave market during the colonial period.
+    Jean Mozart Féron is a PhD candidate in anthropology at the Université Laval (Quebec City, Canada) and junior faculty at the State University of Haiti and the Université Quisqueya. He is also a member of the executive board of the Haitian Committee of the International Council of Museums. His research focuses on museum evaluation and narration of sites of slavery, such as Croix-des-Bossales, known as Haiti's largest slave market during the colonial period.
 - name: Mireille Fombrun Mallebranche
   shortname: 
   bio: >
@@ -75,7 +75,7 @@ The final example on our nonexhaustive list of responses to the challenges facin
 
 
 {% include image.html
-    img="issue06/valence_1_NMS_MOF_figure1.png"
+    img="issue06/valence_1_nms_mof_figure1.png"
     title="2021 virtual exhibition"
     caption="Figure 1. Image from the École Supérieure d'Infrotronique d'Haïti presenting a virtual exhibition of Haitian museums in 2021." %}
 

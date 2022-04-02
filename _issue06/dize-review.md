@@ -3,13 +3,13 @@ layout: article
 section: reviews
 title: 
   "long": "Following in Île-en–Île's Footsteps"
-  "short": "Footsteps"
+  "short": "Following Île-en–Île"
 doi: ""
 author: 
 - name: Nathan H. Dize
   shortname: Dize
   bio: >
-    Nathan H. Dize is visiting assistant professor of French at Oberlin College.
+    Nathan H. Dize is Visiting Assistant Professor of French at Oberlin College. His work is situated at the crossroads of literary and intellectual history, cultural studies, translation studies, and the digital humanities. Nathan is particularly interested in how literature enables Haitians to practice intimate and collective rites of mourning across generations and beyond national borders. He is the translator of three Haitian novels: *The Immortals by Makenzy Orcel* (SUNY Press, 2020), *I Am Alive* by Kettly Mars (UVA Press, 2022), and *Antoine des Gommiers* by Lyonel Trouillot (Schaffner Press, 2023). Nathan has written for publications such as *archipelagos, Caribbean Quarterly, Francosphères, the Journal of Haitian Studies, sx salon,* and *Transition*; he also serves on the editorial board of the online magazine, ReadinginTranslation.com.
 date: March 2022
 issue: 6
 order: 12
@@ -56,7 +56,7 @@ As I think back on it now, it is no mistake that Néhémy was the first author w
 
 [^3]: The first poems I translated were Charles Moravia's "La vision de Président Wilson" ("President Wilson's Vision") and Evelyne Trouillot's "Secousses" ("Tremors"). See Nathan H. Dize, "Translating Global Citizenship: Haiti, Charles Moravia, and Woodrow Wilson," *sx salon* 26 (October 2017), http://smallaxe.net/sxsalon/discussions/translating-global-citizenship; Evelyne Trouillot, "Secousses/Tremors," *Meridians* 18, no. 2 (2019): 480--81.
 
-[^4]: Kwazman Vwa, home page, https://kwazmanvwa.com/, accessed 22 January 2022. The group's founding members are Jennifer Boum Make, Nathan H. Dize, Corine Labridy, Erika Serrato, Jocelyn Sutton Franklin, Lucy Swanson, and Charly Verstraet.
+[^4]: Kwazman Vwa, home page, https://kwazmanvwa.com/, accessed 22 January 2022. Kwazman Vwa is an ongoing project and archive of conversations about Caribbean literature and culture. The most recent episodes can be found on the "previous episodes." The group's founding members are Jennifer Boum Make, Nathan H. Dize, Corine Labridy, Erika Serrato, Jocelyn Sutton Franklin, Lucy Swanson, and Charly Verstraet.
 
 [^5]: "Interview with Nehemy Pierre-Dahomey" (in French), Kwazman Vwa, accessed 22 January 2022, https://kwazmanvwa.com/featured-guests/.
 
