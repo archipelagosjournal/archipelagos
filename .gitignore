@@ -6,7 +6,7 @@ _site
 .ruby-version
 Gemfile.lock
 RAKEFILE
-.jekyll-cache
+.jekyll-cache/
 .jekyll-metadata
 notes.txt
 

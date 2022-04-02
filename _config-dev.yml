@@ -13,7 +13,7 @@ description:         'a journal of Caribbean digital praxis'
 url:                 'http://dev.elotroalex.com'
 baseurl:             '/archipelagos'
 future:              True
-incremental:         True
+incremental:         False
 
 
 githuburl:           'https://github.com/archipelagosjournal/archipelagos'
@@ -128,8 +128,8 @@ collections:
     output: true
 
 # Current issue
-current: issue05
-current-number: 5
+current: issue06
+current-number: 6
 
 # Jekyll-Kramdown
 markdown: kramdown
