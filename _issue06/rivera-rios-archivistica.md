@@ -77,21 +77,11 @@ Entre las colecciones del AHV, figuran registros eclesiásticos y gubernamentale
 ¿Por qué este archivo es importante?
 ------------------------------------
 
-Es importante destacar el valor histórico, político y geográfico de la isla municipio de Vieques para darles el mérito justo a las colecciones que el AHV resguarda y cuida. La isla municipio de Vieques cuenta con una población aproximada de 9,300 personas según los informes del Censo del 2020. A principios del siglo XX, los Estados Unidos identificaron las islas municipio de Vieques y Culebra como bastiones importantes para la defensa del Caribe. Este hecho, junto a la adquisición de las Islas Vírgenes Americanas en 1917, hizo que se diera un flujo migratorio entre las islas municipios y los territorios recientemente adquiridos. Es por ello que estudiosos del tema hayan descrito ambos municipios como islas puentes con el Caribe[^6] (figura 1).
-
-{% include image.html
-    img="issue06/valence_1_irb_nrv_fig1.jpg"
-    title="mapa de Puerto Rico"
-    caption="Figura 1. Mapa de Puerto Rico y las Islas Vírgenes Americanas. Fuente: Trayectoria del Huracán, 'Pronóstico para PR y las Islas Vírgenes', fecha de acceso: 14 de enero de 2022, <https://trayectoriadelhuracan.blogspot.com/2009/07/pronostico-de-zonas-para-pr-e-islas.html>." %}
+Es importante destacar el valor histórico, político y geográfico de la isla municipio de Vieques para darles el mérito justo a las colecciones que el AHV resguarda y cuida. La isla municipio de Vieques cuenta con una población aproximada de 9,300 personas según los informes del Censo del 2020. A principios del siglo XX, los Estados Unidos identificaron las islas municipio de Vieques y Culebra como bastiones importantes para la defensa del Caribe. Este hecho, junto a la adquisición de las Islas Vírgenes Americanas en 1917, hizo que se diera un flujo migratorio entre las islas municipios y los territorios recientemente adquiridos. Es por ello que estudiosos del tema hayan descrito ambos municipios como islas puentes con el Caribe[^6].
 
 En 1941 la Marina de Guerra de los Estados Unidos ocupó dos terceras partes de la isla de Vieques con el propósito de establecer una base militar. Como consecuencia, miles de viequenses fueron desplazados fuera de sus comunidades. Muchos de ellos se vieron obligados a migrar a las Islas Vírgenes Americanas, así como a la isla de Puerto Rico. En la base militar se realizaron, por décadas, prácticas militares con explosivos químicos tales como agente naranja y napalm, afectando la calidad de vida de los residentes de Vieques. No es hasta el 2003 que se declara un cese y desista de estos ejercicios militares y el cierre total de la base militar como resultado de la denuncia tenaz y las actividades de desobediencia civil de cientos de ciudadanos de Vieques, Puerto Rico, la diáspora puertorriqueña y diversos países del mundo.
 
 Las manifestaciones en contra de la Marina de Guerra de los Estados Unidos, así como el justo reclamo de la limpieza y entrega de los terrenos contaminados, constituye una de las luchas políticas y ambientales más importantes en la historia de Puerto Rico. El Archivo Histórico de Vieques preserva y cuida toda la documentación asociada a esta lucha. Ejemplo de estos recursos son los boletines de la Cruzada Pro-rescate de Vieques. Además, se han digitalizado seis periódicos locales producidos entre el 1950 y el 2003: el semanario *Vieques Times* (1987--2003), *Isla Nena* (1985--93), *La Página de Cheo* (1990--96), *El Nuevo Vieques* (2000--2003), *El Navegante* (1992--2000) y el *Vieques Breeze* (1943). Esta colección de periódicos locales producidos en Vieques constituye un acervo documental importante que no está disponible en ningún otro lugar y que aporta a la lucha inconclusa del pueblo viequense. Por último, se destacan las colecciones fotográficas Catanzaro y Gerry Carr. Estas colecciones, recientemente digitalizadas y catalogadas, fueron donadas por ambas familias al AHV. La importancia de ambas colecciones radica en que en conjunto ofrecen una mirada cotidiana a la convivencia entre viequenses y militares.
-
-{% include image.html
-    img="issue06/valence_1_irb_nrv_foto7.png"
-    title="la familia Catanzaro"
-    caption="Foto 7. Colección de fotos de la familia Catanzaro, 1941--42. *Fuente*: Digital Library of the Caribbean, 'UPR: Caribbean Diaspora DH Center', fecha de acceso: 14 de enero de 2022, <https://dloc.com/diasporaproject/contains/?t=%22August%20Catanzaro%22&f=AU>." %}
 
 Sin duda, el AHV resguarda un acervo documental importante para la historia de la isla municipio y del país en general. Sus fuentes de información abren posibilidades para establecer conexiones entre Puerto Rico y el Caribe anglófono. Desde la óptica ambiental, el AHV ofrece un capítulo importante en la historia de siglo XX. La variedad de los recursos hace de este archivo un espacio único que visibiliza a una comunidad que ha sido históricamente excluida.
 
@@ -106,7 +96,7 @@ En el semestre de agosto a diciembre de 2020, se incorporó a la unidad "Visione
 
 En la primera parte el estudiantado aprende, a través de videos y conferencias, sobre la historia del colonialismo en Puerto Rico y su efecto en la vida cotidiana y la psiquis puertorriqueña. También aprende sobre el impacto del colonialismo en Vieques, especialmente a través de la militarización de su territorio. En las discusiones sobre estos temas el estudiantado se expone a la propuesta de pensar Puerto Rico como un *conjunto de islas, islotes y cayos*, entre los cuales están habitadas las islas de Vieques, Culebra y la Isla Grande (término que usan los habitantes de las otras dos islas para referirse a Puerto Rico). Pensar el país como archipiélago tiene el efecto de visibilizar dos poblaciones históricamente marginadas por el gobierno central y, simultáneamente, *exotizadas* en el imaginario de los puertorriqueños de la Isla Grande y los turistas extranjeros.
 
-La segunda parte de la actividad "Historias de lucha y resistencia en Vieques" es el proyecto de fin de curso. Para este proyecto cada estudiante aprende a utilizar la colección digital del AHV y realiza una reflexión sobre los acervos documentales del archivo, la cual graba y comparte a través de WhatsApp. Este audio es lo que llamamos en este artículo una "reflexión sonora". La producción de la reflexión sonora es un trabajo que cada estudiante realiza de manera independiente y que requiere explorar los materiales del AHV disponibles en dLOC (la investigación), analizar críticamente el material investigado para producir una reflexión escrita y una reflexión sonora (el análisis), y compartir la reflexión sonora con sus compañeras de curso y el AHV (la divulgación) (figura 2).
+La segunda parte de la actividad "Historias de lucha y resistencia en Vieques" es el proyecto de fin de curso. Para este proyecto cada estudiante aprende a utilizar la colección digital del AHV y realiza una reflexión sobre los acervos documentales del archivo, la cual graba y comparte a través de WhatsApp. Este audio es lo que llamamos en este artículo una "reflexión sonora". La producción de la reflexión sonora es un trabajo que cada estudiante realiza de manera independiente y que requiere explorar los materiales del AHV disponibles en dLOC (la investigación), analizar críticamente el material investigado para producir una reflexión escrita y una reflexión sonora (el análisis), y compartir la reflexión sonora con sus compañeras de curso y el AHV (la divulgación).
 
 {% include image.html
 	img="issue06/rivera-video.jpg"
@@ -114,12 +104,7 @@ La segunda parte de la actividad "Historias de lucha y resistencia en Vieques" e
 	title="Videos de estudiantes"
 	caption="Video 1. Videos de estudiantes." %}
 
-{% include image.html
-    img="issue06/valence_1_irb_nrv_fig2.png"
-    title="Fases del proyecto"
-    caption="Figura 2. Fases del proyecto 'Historias de lucha y resistencia en Vieques'." %}
-
-Los pasos que sigue cada estudiante para completar el proyecto "Historias de lucha y resistencia en Vieques" (figura 3) están descritos en la "*Guía para el proyecto* *final"*. De manera resumida, los pasos para realizar el proyecto son los siguientes:
+Los pasos que sigue cada estudiante para completar el proyecto "Historias de lucha y resistencia en Vieques" están descritos en la "*Guía para el proyecto* *final"*. De manera resumida, los pasos para realizar el proyecto son los siguientes:
 
 1.  Aprender a navegar los materiales y las colecciones del AHV disponibles en dLOC[^8] usando como referencia dos videos disponibles en YouTube, uno que describe el tipo de documentación que contiene el AHV y otro que explica cómo navegar el archivo[^9].
 
@@ -132,11 +117,6 @@ Los pasos que sigue cada estudiante para completar el proyecto "Historias de luc
 5.  Grabar un audio de dos minutos en el que describe el ítem seleccionado y explica los aspectos sobresalientes de su reflexión (esto es lo que denominamos la reflexión sonora).
 
 6.  Compartir su reflexión sonora con la profesora y los otros estudiantes del curso a través del chat de WhatsApp de la clase.
-
-{% include image.html
-    img="issue06/valence_1_irb_nrv_fig3.png"
-    title="Resumen de los pasos"
-    caption="Figura 3. Resumen de los pasos del proyecto 'Historias de lucha y resistencia en Vieques.'" %}
 
 La "*Guía para el proyecto* *final"* incluye la descripción y los objetivos del proyecto; los enlaces a la plataforma dLOC, las colecciones del AHV y los recursos de referencia; las instrucciones de cómo realizar y compartir la reflexión sonora; y el consentimiento para divulgarla. En el proceso de diseñar esta actividad se tomó en cuenta el acceso limitado de los estudiantes a los recursos bibliotecarios en el contexto de la pandemia por el COVID-19. El diseño también responde al interés de la profesora en fomentar la participación de los estudiantes en el curso y el intercambio entre elles, dados los retos de transformar un curso presencial a uno asistido por la tecnología de manera precipitada durante la pandemia[^11]. Aunque la guía didáctica fue creada con estudiantes universitarios en mente, la misma puede adaptarse para ser usada por estudiantes de otros niveles académicos. La "*Guía para el proyecto* *final*" está disponible en el Apéndice de este artículo.
 
