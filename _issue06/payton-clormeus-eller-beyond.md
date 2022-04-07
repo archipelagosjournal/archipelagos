@@ -2,8 +2,8 @@
 layout: article
 section: articles
 title: 
-  "long": "Beyond the Révolution: Digitizing Haiti's 19th-Century Newspapers"
-  "short": "Beyond the Révolution"
+  "long": "Many Lifetimes of Knowledge: The History of the Bibliothèque Haïtienne des Frères de l’Instruction Chrétienne’s Newspaper Collection and Its Digital Future"
+  "short": "Many Lifetimes of Knowledge"
 doi: ""
 author: 
 - name: Claire Antone Payton
