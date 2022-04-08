@@ -9,7 +9,7 @@ author:
 - name: Nicté Fuller Medina
   shortname: Fuller Medina
   bio: >
-    Nicté Fuller Medina (PhD, University of Ottawa) is a quantitative linguist. She studies the mechanisms underlying multilingual speech to both inform linguistic science and to challenge narratives of deficiency with respect to racialized language varieties. She leads two on-going projects: The Language Contact in Belize project which examines Spanish-Kriol-English contact and Language, Culture and History: Belize in a Digital Age which focuses on the creation of digital corpora and repatriation of legacy sociolinguistic data within a decolonial framework. Her most recent publications appear in the volume When Creole and Spanish Collide: Language and Cultural Contact in the Caribbean and in the Canadian Journal of Linguistics. She is an insider/outsider researcher, a Belizeanist, Central Americanist and Caribbeanist.
+    Nicté Fuller Medina (PhD, University of Ottawa) is a quantitative linguist. She studies the mechanisms underlying multilingual speech to both inform linguistic science and to challenge narratives of deficiency with respect to racialized language varieties. She leads two on-going projects: *The Language Contact in Belize* project which examines Spanish-Kriol-English contact and *Language, Culture and History: Belize in a Digital Age* which focuses on the creation of digital corpora and repatriation of legacy sociolinguistic data within a decolonial framework. Her most recent publications appear in the volume *When Creole and Spanish Collide: Language and Cultural Contact in the Caribbean* and in the *Canadian Journal of Linguistics*. She is an insider/outsider researcher, a Belizeanist, Central Americanist and Caribbeanist.
 date: March 2022
 issue: 6
 order: 8
@@ -116,7 +116,7 @@ While much work remains before the Older Recordings of Belizean varieties of Spa
 
 [^1]: I am grateful to the research assistants who have worked with me on this collection of interviews for their dedication and the care they bring to the work. I am indebted and grateful to Timothy Hagerty for caring for this collection of recordings, for returning narratives to Belize (together with Mary Gomez Parham) through *If I Pin Neva Ben* and for entrusting the remaining recordings to me. I would also like to acknowledge Nigel Encalada and Rolando Cocom, Institute of Social and Cultural Research (ISCR), for their assistance and willingness to lend their expertise in envisioning a community collaborative process with me which I hope can be implemented soon. The SRP program, through which much of this work started at the University of Belize, would not have been possible without the support of key administrators at the time. These include Nestor Chan (dean of the Faculty of Education and Arts), Ubaldimir Guerra (chair of the Department of Languages and Literatures), and Jean Perriot (dean of student affairs). My work on this project was supported by UCLA Library and a fellowship in data curation in Latin American and Caribbean studies made possible in partnership with the Council on Library and Information Resources (CLIR), with the generous support of the Andrew W. Mellon Foundation. Research assistants were supported through both the UCLA Library and CLIR research and travel stipends thanks to the generous support of the Andrew W. Mellon Foundation. This essay has benefited greatly from helpful comments from an anonymous reviewer, special issue editors, and Rolando Cocom.
 
-[^2]: Nicté Fuller Medina, "Sociolinguistic Data as Cultural Patrimony: Challenges, Solutions and Lessons Learned in the Preservation of Legacy Data," paper presented at the *Caribbean Studies Forum, U*niversity of Belize, 4--11 March 2018; Fuller Medina, *"Cultural Safeguarding through Digital Repatriation and Community Language Mapping,"* paper presented at Belize National Research Conference*, University of Belize, Belmopan, 3--4 April 2019;* Fuller Medina, "Repatriating Sociolinguistic Data to Belize: Can a Decolonial Model Still Work in Times of COVID 19?," *CLIR COVID (Re) Collections* (blog), 22 June 2020, https://www.clir.org/2020/06/repatriating-sociolinguistic-data-to-belize-can-a-decolonial-model-still-work-in-times-of-covid-19/.
+[^2]: Nicté Fuller Medina, "Sociolinguistic Data as Cultural Patrimony: Challenges, Solutions and Lessons Learned in the Preservation of Legacy Data," paper presented at the *Caribbean Studies Forum, U*niversity of Belize, 4--11 March 2018; Fuller Medina, *"Cultural Safeguarding through Digital Repatriation and Community Language Mapping,"* paper presented at Belize National Research Conference*, University of Belize, Belmopan, 3--4 April 2019;* https://www.clir.org/2020/06/repatriating-sociolinguistic-data-to-belize-can-a-decolonial-model-still-work-in-times-of-covid-19/.
 
 [^3]: Timothy W. Hagerty, "A Phonological Analysis of the Spanish of Belize" (PhD diss., University of California, Los Angeles, 1979).
 
@@ -130,7 +130,8 @@ While much work remains before the Older Recordings of Belizean varieties of Spa
 
 [^8]: In early conversations with the Institute for Social and Cultural Research for, example, they were open to hosting a digital copy of the collection. On the *Protocols*, see https://www2.nau.edu/libnap-p/index.html.
 
-[^9]: UN Educational, Scientific, and Cultural Organization (UNESCO), "Ethics and Intangible Cultural Heritage," accessed 19 September 2020, https://ich.unesco.org/en/ethics-and-ich-00866.
+[^9]: UN Educational, Scientific, and Cultural Organization (UNESCO), "Ethics and Intangible Cultural Heritage," accessed 19 September 2020, https://ich.unesco.org/en/ethics-and-ich-00866. The Protocols for Native American Archival Materials can be accessed here: 
+https://www2.nau.edu/libnap-p/protocols.html
 
 [^10]: Aníbal Quijano, "Coloniality of Power, Eurocentrism, and Latin America," *Nepantla: Views from South* 1, no. 3 (2000): 533--80.
 
@@ -148,11 +149,11 @@ While much work remains before the Older Recordings of Belizean varieties of Spa
 
 [^17]: Randy B. Marfield, "A Rhetorical Analysis of the 1981 Belizean Constitution: National Identity in the Context of History, Race, and Language" (PhD diss., East Carolina University, 2016).
 
-[^18]: I define Belizean varieties of Spanish as the two varieties that were first established in the mid-nineteenth century. They include Western Belizean Spanish and Northern Belizean Spanish. Nicté Fuller Medina, "'Lo Que Hacen Mix es el Kriol y el English': How Spanish Speakers Reconcile Linguistic Encounters with English and Kriol in Belize," in Leung and Miki Loschky, *When Creole and Spanish Collide*, 126--54.
+[^18]: I define Belizean varieties of Spanish as the two varieties that were first established in the mid-nineteenth century. They include Western Belizean Spanish and Northern Belizean Spanish. Nicté Fuller Medina, "'Lo Que Hacen Mix es el Kriol y el English': How Spanish Speakers Reconcile Linguistic Encounters with English and Kriol in Belize," in Leung and Miki Loschky, *When Creole and Spanish Collide*, 126--54. Hagerty, "A Phonological Analysis"
 
 [^19]: Leung and Loschky, When Creole and Spanish Collide.
 
-[^20]: Fuller Medina, "'Lo Que Hacen Mix es el Kriol y el English'"; Nicté Fuller Medina, "Repatriating Sociolinguistic Data to Belize: Can a Decolonial Model Still Work in Times of COVID 19?," *CLIR COVID (Re) Collections* (blog), 22 June 2020, [**https://www.clir.org/2020/06/repatriating-sociolinguistic-data-to-belize-can-a-decolonial-model-still-work-in-times-of-covid-19/**](https://www.clir.org/2020/06/repatriating-sociolinguistic-data-to-belize-can-a-decolonial-model-still-work-in-times-of-covid-19/).
+[^20]: Fuller Medina, "'Lo Que Hacen Mix es el Kriol y el English'"; Nicté Fuller Medina, "Belizean Varieties of Spanish: Language Contact and Plurilingual Practices." Anuario de Estudios Centroamericanos: Dossier on Belize 46, no.1: (2020) 1-29. DOI:10.15517/AECA.V46I0.42202
 
 [^21]: During interviews I conducted in 2013--14, more than one educator in Spanish-speaking communities indicated that they implemented a no-Spanish rule at their schools due to concerns that students would not learn English. Heriberto Cocom recounts in a 2016 interview with CaribNation TV that under British rule neither Spanish nor Maya languages could be spoken or taught in schools; https://www.youtube.com/watch?v=r0zvC31FYwY.
 
@@ -170,13 +171,13 @@ While much work remains before the Older Recordings of Belizean varieties of Spa
 
 [^28]: Timothy W. Hagerty, "Race and Ethnicity in the Folklore of Belize," *Filología y Lingüística 24, no. 2 (1998)*: 239--43.
 
-[^29]: Robert B. Le Page and Andrée Tabouret-Keller, *Acts of Identity: Creole-Based Approaches to Language and Ethnicity,* 2nd expanded ed. (1985; repr. Brussels: Modulaires Européennes, 2006); Donald Winford, "Tense and Aspect in Belize Creole," in Hazel Simmons-McDonald and Ian Robertson, eds., *Exploring the Boundaries of Caribbean Creole Languages* (Mona, Jamaica: University of the West Indies Press, 2006), 1--49; Genevieve Escure, "Belizean Creole," in Susanne M. Michaelis, Phillip Maurer, Martin Haspelmath, and Magnus Huber, eds., *The Survey of Pidgin and Creole Languages*, vol. 1 (Oxford: Oxford University Press, 2013), 92--100.
+[^29]: These include but are not limited to: Robert B. Le Page and Andrée Tabouret-Keller, *Acts of Identity: Creole-Based Approaches to Language and Ethnicity,* 2nd expanded ed. (1985; repr. Brussels: Modulaires Européennes, 2006); Donald Winford, "Tense and Aspect in Belize Creole," in Hazel Simmons-McDonald and Ian Robertson, eds., *Exploring the Boundaries of Caribbean Creole Languages* (Mona, Jamaica: University of the West Indies Press, 2006), 1--49; Genevieve Escure, "Belizean Creole," in Susanne M. Michaelis, Phillip Maurer, Martin Haspelmath, and Magnus Huber, eds., *The Survey of Pidgin and Creole Languages*, vol. 1 (Oxford: Oxford University Press, 2013), 92--100.
 
-[^30]: Simons, 2014. I mean here, interpretable to other sociolinguists, who are generally the intended users in the creation of sociolinguistic corpora. Preservation generally takes places through sociolinguistic labs, which rely on individual research grants. Otherwise materials remain in personal research collections.
+[^30]: Gary F. Simons, "The role of metadata in the infrastructure for archival interoperation." Language and Linguistics Compass 8, no. 11 (2014): 486-494. I mean here, interpretable to other sociolinguists, who are generally the intended users in the creation of sociolinguistic corpora. Preservation generally takes places through sociolinguistic labs, which rely on individual research grants. Otherwise materials remain in personal research collections.
 
-[^31]: Interviews were carried out by Donald Winford (Ohio State University) in the early 1990s. I requested access to the collection for a study or relative clauses in Belize Kriol and learned that analog copies on cassette tapes had been left in Belize; Nicté Fuller Medina, "Relativization in Belize Creole," paper presented at Nineteenth Biennial Conference of the Society for Caribbean Linguistics, Nassau, Bahamas, 30 July--3 August 2012.
+[^31]: Interviews were carried out by Donald Winford (Ohio State University) in the early 1990s. I requested access to the collection for a study or relative clauses in Belize Kriol and learned that analog copies on cassette tapes had been left in Belize.
 
-[^32]: Other instances I am aware of include Ervin Beck's collection of Creole folk tales and songs archived at Belize Records and Archive Services (Beck, personal communication, 8 October 2018), and more recently researchers have approached the Institute for Social and Cultural Research for assistance in archiving their data in Belize (Cocom, personal communication, 29 September 2021).
+[^32]: Other instances I am aware of include Ervin Beck's collection of Creole folk tales and songs archived at Belize Records and Archive Services (Beck, personal communication, 8 October 2018), and more recently researchers have approached the Institute for Social and Cultural Research for assistance in archiving their data in Belize (Rolando Cocom, personal communication, 29 September 2021).
 
 [^33]: I am grateful to James Law and Maurice Bélanger for their assistance.
 
@@ -186,13 +187,14 @@ While much work remains before the Older Recordings of Belizean varieties of Spa
 
 [^36]: Barbara Jacoby, *Service-Learning in Higher Education: Concepts and Practices* (San Francisco: Jossey-Bass, 1996); Janet Eyler and Dwight E. Giles Jr., *Where's the Learning in Service-Learning?* (San Francisco: Jossey-Bass, 1999).
 
-[^37]: Fuller Medina, "Sociolinguistic Data as Cultural Patrimony**."**
+[^37]: Fuller Medina, Erson Moreira, and Kennion Moreira. 2018. “Building Research Capacity Through Service Learning: Notes from the Language, Culture and History Project.” Poster presented at the 1st National Research Conference, University of Belize, Belmopan, Belize, March 21-22.
 
 [^38]: Erson Moreira is a student athlete at the University of Belize in the Medical Laboratory program. He digitized and organized the bulk of the typewritten transcripts. As a result of having worked on the ORBS since 2017 he has in-depth knowledge of the corpus and is currently a research assistant on the project.
 
 [^39]: Some interviewees would use Yucatec Maya, English, or Kriol words or phrases in Spanish. Someone who shares the same variety or who also employs similar features is the best candidate to transcribe the interviews.
 
-[^40]: Fuller Medina, "Repatriating Sociolinguistic Data to Belize."
+[^40]: Nicté Fuller Medina, “Repatriating Sociolinguistic Data to Belize: Can a Decolonial Model Still Work in Times of COVID 19?,” CLIR COVID (Re) Collections (blog), 22 June 2020, https://www.clir.org/2020/06/repatriating-sociolinguistic-data-to-belize-can-a-decolonial-model-still-work-in-times-ofcovid-
+19/.
 
 [^41]: Timothy W. Hagerty and Mary Gomez Parham, eds., *If di Pin Neva Ben: Folktales and Legends of Belize* (Benque Viejo del Carmen, Belize: Cubola Productions, 2000).
 
@@ -208,9 +210,9 @@ While much work remains before the Older Recordings of Belizean varieties of Spa
 
 [^47]: Two other students worked for a very short period on the project: Valeria Sawers (Stanford University) and Julia Tanenbaum (UCLA).
 
-[^48]: Fuller Medina, "'Lo Que Hacen Mix es el Kriol y el English.'"
+[^48]: Fuller Medina, Daniela Hernández Castro, Griselly Padron, and Alexander González Paz. 2021. “Towards an Ethics of Care in Representing Minoritized Voices Through Transcription.” Presented at the UCLA Library Research Forum, UCLA, Los Angeles, CA, March 23.
 
-[^49]: The Western perspective on ownership often comes into conflict with the shared "ownership" of cultural knowledge generally not laid out in copyright or trademarks. As a result, it is often taken without permission, as in the recent attempt to name a rum in the United States "J'ouvert," where the name was to be trademarked based partly on erroneous claims that the word has no meaning in a foreign language; Jo-Anne Ferreira, "**Baré Yo? Baré Yo!," *Language Blag* (blog), 21 June 2021,** <https://languageblag.wordpress.com/2021/06/21/a-transnational-jouvert-komes-bare-yo/>. Both the cultural and linguistic patrimony (ownership) were overlooked, no doubt, in part, as a result of Western concepts of both ownership and of language.
+[^49]: The Western perspective on ownership often comes into conflict with the shared "ownership" of cultural knowledge generally not laid out in copyright or trademarks. As a result, cultural knowledge is often taken without permission, as in the recent attempt to name a rum in the United States "J'ouvert," where the name was to be trademarked based partly on erroneous claims that the word has no meaning in a foreign language. Both the cultural and linguistic patrimony (ownership) were overlooked, no doubt, in part, as a result of Western concepts of both ownership and of language. Jo-Anne Ferreira, "Baré Yo? Baré Yo!," *Language Blag* (blog), 21 June 2021, <https://languageblag.wordpress.com/2021/06/21/a-transnational-jouvert-komes-bare-yo/>.
 
 [^50]: "Copyright at Cornell Libraries: Copyright Term and the Public Domain," accessed 1 November 2021, <https://guides.library.cornell.edu/copyright/publicdomain>.
 
@@ -251,8 +253,6 @@ While much work remains before the Older Recordings of Belizean varieties of Spa
 [^67]: John Russell Rickford, "The Value of Online Corpora for the Analysis of Variation and Change in the Caribbean," in Shelome Gooden and Bettina Migge, eds., *Social and Structural Aspects of Language Contact and Change* (Berlin: Language Science, 2021).
 
 [^68]: Aria Adli and Gregory Guy, "Widening Horizons: Cross-cultural Approaches to Linguistic Variation," workshop presented at the *conference "New Ways of Analyzing Variation 45," Vancouver*, November 2016; Andrea L. Berez-Kroeker, Lauren Gawne, Susan Smythe Kung, Barbara F. Kelly, Tyler Heston, Gary Holton, Peter Pulsifer, et al., "Reproducible Research in Linguistics: A Position Statement on Data Citation and Attribution in Our Field," *Linguistics* 56, no. 1 (2018): 1--18; Miriam Meyerhoff and Naomi Nagy, eds., *Social Lives in Language Sociolinguistics and Multilingual Speech Communities: Celebrating the Work of Gillian Sankoff*, vol. 24 (Philadelphia: John Benjamins, 2008).
-
-[^69]: Kendall and Farrington, *CORAAL User Guide*, version 2018.10.06.
 
 [^70]: Digital Library of the Caribbean (dLOC), home page, accessed 25 May 2021, https://www.dloc.com.
 
