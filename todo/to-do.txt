@@ -1,0 +1,12 @@
+Nadjah:
+
+Foto 1: Cede del Archivo Histórico de Vieques ubicada en el Fortín Conde de Mirasol en Vieques
+Foto 2: Voluntarios trabajan en la instalación del laboratorio para digitalizar la Colección Audiovisual Andrés Nieves
+Foto3: Reunión de la Junta Asesora del Archivo Histórico de Vieques
+Foto 5: Voluntarios participan en el taller de Preservación Audiovisual
+
+Kooker:
+
+As discussed in our meeting, the following is the image that Rene Kooiker wants to replace, on line 78. The replacement image is the jpeg in the stragglers folder.
+
+{% include image.html img="issue06/valence_1_rk_wilson-harris.jpg" title="M.R. Moonar" caption="Figure 7. Photograph from the Guyana Graphic with the caption: 'Up and coming poet M. R. Moonar views the Wilson Harris portrait set up to the novelist's works.'" %}
