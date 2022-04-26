@@ -9,8 +9,8 @@ author:
 - name: Eddy Banaré 
   shortname: Banaré
   bio: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim facilisis gravida neque convallis a cras. Neque gravida in fermentum et. Nullam non nisi est sit. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tellus id interdum velit laoreet id donec ultrices tincidunt. Dolor sit amet consectetur adipiscing. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Scelerisque fermentum dui faucibus in ornare. Cras fermentum odio eu feugiat pretium nibh. Ipsum a arcu cursus vitae congue mauris rhoncus aenean. Sed id semper risus in hendrerit gravida. 
-date: December 2020
+    Après un master en littérature comparée à l'université des Antilles-Guyane, Banaré a obtenu en 2010 un doctorat sur les représentations littéraires de l’industrie minière en Nouvelle-Calédonie. Une version remaniée de sa thèse a été publiée en 2012 sous le titre *Les récits du nickel en Nouvelle-Calédonie (1853-1960)* (Honoré Champion, Collection Francophonies). Il a enseigné le français à l'Alliance Française de Suva, ainsi qu'à la University of the South Pacific. Spécialisé dans les expressions littéraires coloniales et postcoloniales, Banaré mène des recherches sur les relations entre la presse et la littérature. Membre associé de l'équipe de recherche TROCA (Trajectoires d'Océanie) de l'université de la Nouvelle-Calédonie, il participe également aux enseignements de littérature comparée. 
+date: April 2022
 issue: 6
 order: 12
 language: fr
@@ -43,9 +43,6 @@ C'est donc naturellement qu'après des travaux sur Chinua Achebe, Driss Chraïbi
 Engagé dans l'écriture de ma thèse, j'ai réalisé que la section Pacifique (celle de la Nouvelle-Calédonie) du site Ile-en-Ile était peu animée. C'est la raison pour laquelle je me suis décidé à contacter Thomas Spears pour lui proposer de rédiger les notices de Georges Baudoux et Jean Mariotti, deux auteurs qui ont su restituer les tourments liés à la colonisation singulière de l'archipel. La réponse de Spears a été aussi spontanée que bienveillante et j'ai ainsi pu contribuer à l'outil qui avait participé à ma découverte de ces littératures archipéliques. J'ai pu rencontrer Spears en Nouvelle-Calédonie, en Martinique et au Québec ; j'ai vu une sensibilité de chercheur à l'œuvre ; toujours soucieuse de capter de nouvelles voix. De là sont nés une amitié et un respect indéfectibles.
 
 ---
-
-Bibliography
-------------
 
 [^1]: Edward Said, *Culture et impérialisme* (Paris : Fayard, 2000),
     435--36.
