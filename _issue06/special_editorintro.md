@@ -65,11 +65,11 @@ We also thank Kaiama Glover, Alex Gil, and Kelly Baker Josephs, who continue to 
 
 ---
 
-[^1]: Amalia S. Levi and Tara A. Inniss,”Decolonizing the Archival Record about the Enslaved: Digitizing the Barbados Mercury Gazette,” archipelagos 4 (March 2020), https://archipelagosjournal.org/issue04/levi-inniss-decolonizing.html.
+[^1]: Amalia S. Levi and Tara A. Inniss,"Decolonizing the Archival Record about the Enslaved: Digitizing the Barbados Mercury Gazette," archipelagos 4 (March 2020), https://archipelagosjournal.org/issue04/levi-inniss-decolonizing.html.
 
-[^2]:  dLOC as Data, “A Thematic Approach to Caribbean Newspapers,” accessed 23 January 2022, https://dlocasdata.domains.uflib.ufl.edu/.
+[^2]:  dLOC as Data, "A Thematic Approach to Caribbean Newspapers," accessed 23 January 2022, https://dlocasdata.domains.uflib.ufl.edu/.
 
-[^3]:  T-Kay Sangwand, “Preservation Is Political: Enacting Contributive Justice and Decolonizing Transnational Archival Collaborations,” KULA: Knowledge Creation, Dissemination, and Preservation Studies 2, no. 1 (2018): 10, https://doi.org/10.5334/kula.36. 
+[^3]:  T-Kay Sangwand, "Preservation Is Political: Enacting Contributive Justice and Decolonizing Transnational Archival Collaborations," KULA: Knowledge Creation, Dissemination, and Preservation Studies 2, no. 1 (2018): 10, https://doi.org/10.5334/kula.36. 
 
 
 

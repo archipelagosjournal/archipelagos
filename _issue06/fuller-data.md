@@ -187,13 +187,13 @@ https://www2.nau.edu/libnap-p/protocols.html
 
 [^36]: Barbara Jacoby, *Service-Learning in Higher Education: Concepts and Practices* (San Francisco: Jossey-Bass, 1996); Janet Eyler and Dwight E. Giles Jr., *Where's the Learning in Service-Learning?* (San Francisco: Jossey-Bass, 1999).
 
-[^37]: Fuller Medina, Erson Moreira, and Kennion Moreira. 2018. “Building Research Capacity Through Service Learning: Notes from the Language, Culture and History Project.” Poster presented at the 1st National Research Conference, University of Belize, Belmopan, Belize, March 21-22.
+[^37]: Fuller Medina, Erson Moreira, and Kennion Moreira. 2018. "Building Research Capacity Through Service Learning: Notes from the Language, Culture and History Project." Poster presented at the 1st National Research Conference, University of Belize, Belmopan, Belize, March 21-22.
 
 [^38]: Erson Moreira is a student athlete at the University of Belize in the Medical Laboratory program. He digitized and organized the bulk of the typewritten transcripts. As a result of having worked on the ORBS since 2017 he has in-depth knowledge of the corpus and is currently a research assistant on the project.
 
 [^39]: Some interviewees would use Yucatec Maya, English, or Kriol words or phrases in Spanish. Someone who shares the same variety or who also employs similar features is the best candidate to transcribe the interviews.
 
-[^40]: Nicté Fuller Medina, “Repatriating Sociolinguistic Data to Belize: Can a Decolonial Model Still Work in Times of COVID 19?,” CLIR COVID (Re) Collections (blog), 22 June 2020, https://www.clir.org/2020/06/repatriating-sociolinguistic-data-to-belize-can-a-decolonial-model-still-work-in-times-ofcovid-
+[^40]: Nicté Fuller Medina, "Repatriating Sociolinguistic Data to Belize: Can a Decolonial Model Still Work in Times of COVID 19?," CLIR COVID (Re) Collections (blog), 22 June 2020, https://www.clir.org/2020/06/repatriating-sociolinguistic-data-to-belize-can-a-decolonial-model-still-work-in-times-ofcovid-
 19/.
 
 [^41]: Timothy W. Hagerty and Mary Gomez Parham, eds., *If di Pin Neva Ben: Folktales and Legends of Belize* (Benque Viejo del Carmen, Belize: Cubola Productions, 2000).
@@ -210,7 +210,7 @@ https://www2.nau.edu/libnap-p/protocols.html
 
 [^47]: Two other students worked for a very short period on the project: Valeria Sawers (Stanford University) and Julia Tanenbaum (UCLA).
 
-[^48]: Fuller Medina, Daniela Hernández Castro, Griselly Padron, and Alexander González Paz. 2021. “Towards an Ethics of Care in Representing Minoritized Voices Through Transcription.” Presented at the UCLA Library Research Forum, UCLA, Los Angeles, CA, March 23.
+[^48]: Fuller Medina, Daniela Hernández Castro, Griselly Padron, and Alexander González Paz. 2021. "Towards an Ethics of Care in Representing Minoritized Voices Through Transcription." Presented at the UCLA Library Research Forum, UCLA, Los Angeles, CA, March 23.
 
 [^49]: The Western perspective on ownership often comes into conflict with the shared "ownership" of cultural knowledge generally not laid out in copyright or trademarks. As a result, cultural knowledge is often taken without permission, as in the recent attempt to name a rum in the United States "J'ouvert," where the name was to be trademarked based partly on erroneous claims that the word has no meaning in a foreign language. Both the cultural and linguistic patrimony (ownership) were overlooked, no doubt, in part, as a result of Western concepts of both ownership and of language. Jo-Anne Ferreira, "Baré Yo? Baré Yo!," *Language Blag* (blog), 21 June 2021, <https://languageblag.wordpress.com/2021/06/21/a-transnational-jouvert-komes-bare-yo/>.
 
