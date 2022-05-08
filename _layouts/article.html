@@ -11,6 +11,10 @@ layout: default
         		<h4>Abstract</h4>
         		<p class="abstract">{{ page.abstract | markdownify | remove: '<p>' | remove: '</p>' }}</p>
         		<br><hr>
+			{% elsif site.lang == "en" and page.abstract_en %}
+        		<h4>Abstract</h4>
+        		<p class="abstract">{{ page.abstract_en | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+        		<br><hr>
         	{% elsif site.lang == "fr" and page.abstract_fr %}
         		<h4>Résumé</h4>
         		<p class="abstract">{{ page.abstract_fr | markdownify | remove: '<p>' | remove: '</p>' }}</p>
