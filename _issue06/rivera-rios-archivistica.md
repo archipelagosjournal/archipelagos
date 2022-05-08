@@ -37,34 +37,23 @@ El Archivo Histórico de Vieques (AHV) es parte de un grupo de archivos comunita
     title="Fuerte Conde Mirasol"
     caption="Foto 1. Fuerte Conde Mirasol, lugar donde ubica el Archivo Histórico de Vieques." %}
 
-{% include image.html
-    img="issue06/valence_1_irb_nrv_foto2.png"
-    title="Archivo Histórico de Vieques"
-    caption="Foto 2. Vista panorámica del Archivo Histórico de Vieques (AHV)." %}
+
 
 En la isla municipio de Vieques, al igual que en otros pueblos de la Puerto Rico, no hay bibliotecas públicas ni archivos municipales que garanticen a los ciudadanos el acceso a fuentes primarias y secundarias sobre la historia de su pueblo. El AHV es un laboratorio vivo que permite que sectores diversos de la población tengan acceso a la información sobre la historia viequense. De otro modo, los residentes de la isla municipio tendrían que ir al Archivo General de Puerto Rico o a la Colección Puertorriqueña de la Universidad de Puerto Rico, ambos en San Juan, para obtener información relacionada a la historia local de sus comunidades. El acceso que tiene la comunidad al AHV viabiliza que públicos diversos desarrollen interés por la investigación histórica.
 
 El carácter comunitario de este archivo promueve modelos ágiles, participativos y democráticos de preservación y conservación de documentos físicos, grabaciones sonoras y colecciones de imagen y movimiento. A esas tareas se incorporan estudiantes, vecinos y voluntarios locales y de fuera de Puerto Rico, quienes desarrollan destrezas de conservación, digitalización y catalogación. Al igual que otros archivos comunitarios en Puerto Rico, el AHV tienen un carácter multiuso ya que el espacio donde está ubicado se comparte con una radio emisora comunitaria, un museo y espacios de reunión. Es un lugar que convoca a diferentes poblaciones y promueve que se amplíe el alcance comunitario del archivo y el interés por los recursos que alberga (fotos 3--6).
 
-{% include image.html
-    img="issue06/valence_1_irb_nrv_foto3.png"
-    title="Caroline Gil"
-    caption="Foto 3. Caroline Gil, del proyecto *Audiovisual Preservation Exchange* de la Universidad de Nueva York (NYU), demuestra a niños, estudiantes, profesores universitarios y miembros de la comunidad viequense cómo hacer un laboratorio para digitalizar imágenes en movimiento." %}
+
     
 {% include image.html
-    img="issue06/valence_1_irb_nrv_foto4.png"
+    img="issue06/valence_1_irb_nrv_foto2.jpg"
     title="Jóvenes voluntarias"
-    caption="Foto 4. Jóvenes voluntarias de Vieques realizan trabajo de digitalización." %}
+    caption="Foto 2. Jóvenes voluntarios." %}
 
 {% include image.html
-    img="issue06/valence_1_irb_nrv_foto5.png"
+    img="issue06/valence_1_irb_nrv_foto3.jpg"
     title="Colección de Imagen y Movimiento Andrés Nieves"
-    caption="Foto 5. Miembros de la comunidad participan en la catalogación de la Colección de Imagen y Movimiento Andrés Nieves." %}
-
-{% include image.html
-    img="issue06/valence_1_irb_nrv_foto6.png"
-    title="Sofía Gallisá"
-    caption="Foto 6. Sofía Gallisá, miembro de la Junta Asesora del Archivo Histórico de Vieques y artiste residente, hace inventario de materiales donados al archivo con el objetivo de crear un laboratorio de digitalización de imagen y movimiento." %}
+    caption="Foto 3. Miembros de la comunidad." %}
 
 La agenda de preservación y conservación de los recursos del Archivo Histórico de Vieques ha recibido el apoyo e impulso de las alianzas que se han creado con organizaciones y universidades en Puerto Rico y Estados Unidos. El AHV cuenta con el respaldo del Instituto de Cultura Puertorriqueña (ICP). Desde la plataforma digital Coloqueo del ICP[^2], se transmite una vez al mes una conferencia sobre los documentos que el público general puede acceder a través del portal digital del AHV. Además, desde el 2019, se han organizado tres sesiones de trabajo con el grupo *Audiovisual Preservation Exchange* (APEX) de la Universidad de Nueva York[^3] con el propósito de desarrollar colecciones audiovisuales que documentan más de treinta años de luchas ambientales en la isla municipio. Otra colaboración meritoria es el apoyo que recibe el AHV de la Biblioteca Digital del Caribe (dLOC) de la Universidad de Florida[^4]. Con esta alianza, se mantiene la página electrónica del AHV, al mismo tiempo que dLOC apoya en el resguardo de todos los materiales digitalizados hasta el momento.
 
@@ -139,9 +128,9 @@ Las dieciséis reflexiones sonoras creadas por los estudiantes universitarios de
 La reflexión sonora sobre la vida cotidiana en Vieques durante el proceso de militarización de la isla en la década de 1940[^20] describe la colección de más de 700 fotografías que miembros de la familia Catanzaro tomaron en Vieques entre 1941 y 1942. La colección está disponible en la plataforma dLOC[^21]. En la reflexión sonora del estudiante de comunicaciones Yarib Sánchez se describe que la colección incluye fotos de las condiciones de vida de los viequenses y fotos de la base militar y los militares. Estas fotos fueron confiscadas cuando la familia Catanzaro regresó a Estados Unidos. El estudiante que creó esta reflexión sonora se pregunta, ¿Por qué Estados Unidos no quería que la "historia gráfica" que documentaron los Catanzaro sobre el proceso de militarización se conociera? También reflexiona sobre cómo, al preservarlas, estas fotos "personales" de una "colección familiar" se convierten en registros de cómo se vivía en una época y sobre el valor de donar materiales de valor histórico al AHV.
 
 {% include image.html
-    img="issue06/valence_1_irb_nrv_foto8.png"
+    img="issue06/valence_1_irb_nrv_foto4.png"
     title="Desfile"
-    caption="Foto 8. Colección de fotos de la familia Catanzaro, 1941--42. Fuente: Digital Library of the Caribbean, 'UPR: Caribbean Diaspora DH Center', fecha de acceso: 14 de enero de 2022, <https://dloc.com/diasporaproject/contains/?t=%22August%20Catanzaro%22&f=AU>." %}
+    caption="Foto 4. Colección de fotos de la familia Catanzaro, 1941--42. Fuente: Digital Library of the Caribbean, 'UPR: Caribbean Diaspora DH Center'." %}
 
 La reflexión sonora sobre las migraciones entre las islas de Vieques y Santa Cruz describe los vínculos que existen entre ambas islas a nivel político, económico y sociocultural[^22]. También describe el rol de Vieques como puente de Puerto Rico con las Antillas Menores. La reflexión sonora del estudiante de ciencias sociales José M. Sánchez tiene como punto de partida un artículo escrito por Robert Rabin, actual director del Museo del Fuerte Conde de Mirasol y director del Archivo Histórico de Vieques. Sánchez describe que a principios del siglo XX inmigrantes de diferentes Antillas Menores migraron a Vieques a trabajar en los campos de cultivo de caña y que, luego de la crisis financiera de la década de 1930, el patrón de migración cambió de Vieques hacia las Islas Vírgenes Americanas:
 
