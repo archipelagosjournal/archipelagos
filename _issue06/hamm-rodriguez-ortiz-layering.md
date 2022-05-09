@@ -287,7 +287,7 @@ Students might consider exploring sociocultural placemaking practices in iconic 
 -   [Ni de aquí, ni de allá: A Multi-perspective Account of the Dominican Diasporic Experience](https://www.dominicanwriters.com/product-page/ni-de-aqu%C3%AD-ni-de-all%C3%A1-an-anthology)
 -   "[Signos de identidad](https://centroleon.org.do/signos-de-identidad-2/)"
 -   "[Ciguapa Unbound: Blackness, Gender & Transnational Geographies of Marronage](https://www.latinxproject.nyu.edu/sp2021/ciguapaunbound?fbclid=IwAR2z9hlDwJYjf3Va0BIKJHgQmUB_d83yEYDICzgdyI3DNWoNLDaJtte3Tek)"
--   "[RITM Conversations: Episode \#2 Dixa Ramirez---Conversations in Race, Indigeneity, and Transnational Migration](https://podcasts.apple.com/us/podcast/ritm-conversations-episode-2-dixa-ramirez/id1209588080?i=1000382462814&fbclid=IwAR3Lph7QmkUas3x-FUJN2tzO7PIxKJoLNbPBDOrzbfckExrMlxAdbN95T1s)"
+-   "[RITM Conversations: Episode \#2 Dixa Ramirez---Conversations in Race, Indigeneity, and Transnational Migration](https://soundcloud.com/yaleuniversity/ritm-conversations-episode-2-dixa-ramirez)"
 -   "[Racexile and the Poetics of Dominicanidad in Diaspora](https://www.youtube.com/watch?v=zF_czSEbFbc)"
 
 Conclusion

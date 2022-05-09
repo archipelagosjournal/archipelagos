@@ -861,7 +861,7 @@ of speaking and listening might bring.
     not communicate to their public." Kamau Brathwaite, International
     Poetry Forum performance, recorded 7 February 1988, Pittsburgh,
     PennSound,
-    <https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Brathwaite-Kamau\_Intl-Poetry-Forum\_Pitts\_Feb-7-1988.mp3>,
+    <https://media.sas.upenn.edu/pennsound/authors/Brathwaite/Brathwaite-Kamau_Intl-Poetry-Forum_Pitts_Feb-7-1988.mp3>,
     at 32:52–33:10.
 
 [^6]: Gordon Rohlehr, "West Indian Poetry: Some Problems of Assessment,"

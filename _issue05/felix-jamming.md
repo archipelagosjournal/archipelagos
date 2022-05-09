@@ -916,7 +916,6 @@ February 2018. <https://sweettntmagazine.com/board-game-santimanitay/>.
 
 Börzsei, Linda K. "Makes a Meme Instead: A Concise History of Internet
 Memes." *New Media Studies Magazine* 7 (2013).
-<http://works.bepress.com/linda_borzsei/2/>.
 
 Brabham, Daren C. *Crowdsourcing*. Cambridge, MA: MIT Press, 2013.
 
@@ -1051,9 +1050,7 @@ University Press, 2012.
 
 McAllister, Matthew P., Edward H. Sewell Jr., and Ian Gordon.
 "Introducing Comics and Ideology." In *Comics and Ideology*, edited by
-Matthew P. McAllister, Edward H. Sewell Jr., and Ian Gordon, 1–13. New
-York: Peter Lang, 2001.
-<http://www.peterlang.de/download/datasheet/46603/datasheet_69249.pdf>.
+Matthew P. McAllister, Edward H. Sewell Jr., and Ian Gordon, 1–13. New York: Peter Lang, 2001.
 
 McFarlane-Alvarez, Susan Lillian. "Imaging and the National Imagining:
 Theorizing Visual Sovereignty in Trinidad and Tobago Moving Image Media
@@ -1066,7 +1063,6 @@ Coyer, Dowmunt, and Fountain, *Alternative Media Handbook*, 166–79.
 
 Mendes-Franco, Janine. "Meme vs. Movie Theatre—Dawn of Consumer Justice
 in Trinidad and Tobago?" *Global Voices*, 6 April 2016.
-[https://globalvoices.org/2016/04/06/meme-vs-movie-theatre-dawn-of-consumer-justice-in-trinidad-tobago/\#](https://globalvoices.org/2016/04/06/meme-vs-movie-theatre-dawn-of-consumer-justice-in-trinidad-tobago/%23).
 
 Miller, Daniel, and Jolynna Sinanan. *Visualising Facebook: A
 Comparative Perspective*. London: UCL Press, 2017.
@@ -1173,7 +1169,6 @@ no. 11 (2015): 1886–1906. <https://doi.org/10.1177/1461444814535194>.
 
 Wilson, Mark. "The Cinema Glory Days Are Coming Back." *Caribbean Beat*,
 March–April 2002.
-[https://www.caribbean-beat.com/issue-54/glory-days-coming-back\#axzz6KH65Kv4z](https://www.caribbean-beat.com/issue-54/glory-days-coming-back%23axzz6KH65Kv4z).
 
 Zajc, Melita. "Social Media, Prosumption, and Dispositives: New
 Mechanisms of the Construction of Subjectivity." *Journal of Consumer
@@ -1409,8 +1404,7 @@ Notes
     2015,
     <https://www.abigboxofcrayons.com/blog/20-shades-of-a-crayon-warren-le-platte>;
     "Warren Le Platte: Graphic Designer, Illustrator, Photographer,"
-    Bocas Lit Fest, 2019,
-    <https://www.bocaslitfest.com/author/warren-le-platte/>; and Le
+    Bocas Lit Fest, 2019; and Le
     Platte Studios, <https://leplattestudios.com>.
 
 [^40]: See "Board Game: Play Mas with 'Santimanitay,'" *Sweet TnT
