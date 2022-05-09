@@ -47,13 +47,13 @@ El carácter comunitario de este archivo promueve modelos ágiles, participativo
     
 {% include image.html
     img="issue06/valence_1_irb_nrv_foto2.jpg"
-    title="Jóvenes voluntarias"
-    caption="Foto 2. Jóvenes voluntarios." %}
+    title="Participantes en el taller sobre Preservación Audiovisual trabajan con la Colección Andrés Nieves"
+    caption="Foto 2. Participantes en el taller sobre Preservación Audiovisual trabajan con la Colección Andrés Nieves." %}
 
 {% include image.html
     img="issue06/valence_1_irb_nrv_foto3.jpg"
-    title="Colección de Imagen y Movimiento Andrés Nieves"
-    caption="Foto 3. Miembros de la comunidad." %}
+    title="Miembros de la Junta Asesora del Archivo Histórico de Vieques"
+    caption="Foto 3. Miembros de la Junta Asesora del Archivo Histórico de Vieques." %}
 
 La agenda de preservación y conservación de los recursos del Archivo Histórico de Vieques ha recibido el apoyo e impulso de las alianzas que se han creado con organizaciones y universidades en Puerto Rico y Estados Unidos. El AHV cuenta con el respaldo del Instituto de Cultura Puertorriqueña (ICP). Desde la plataforma digital Coloqueo del ICP[^2], se transmite una vez al mes una conferencia sobre los documentos que el público general puede acceder a través del portal digital del AHV. Además, desde el 2019, se han organizado tres sesiones de trabajo con el grupo *Audiovisual Preservation Exchange* (APEX) de la Universidad de Nueva York[^3] con el propósito de desarrollar colecciones audiovisuales que documentan más de treinta años de luchas ambientales en la isla municipio. Otra colaboración meritoria es el apoyo que recibe el AHV de la Biblioteca Digital del Caribe (dLOC) de la Universidad de Florida[^4]. Con esta alianza, se mantiene la página electrónica del AHV, al mismo tiempo que dLOC apoya en el resguardo de todos los materiales digitalizados hasta el momento.
 
