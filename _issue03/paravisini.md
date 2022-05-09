@@ -115,7 +115,7 @@ appear randomly in either Spanish or English, depending on their source
 and provenance. This is, once again, a natural result of the project's
 collaborative practice, whose ideal "target" audience is clearly a
 bilingual user. The site includes "[Activist Organizations and Citizen
-Initiatives](https://puertoricosyllabus.com/additional-resources/activists-organizations-and-citizen-initiatives/),"
+Initiatives](https://puertoricosyllabus.com),"
 a very helpful list of groups offering opportunities for users to become
 involved in efforts to address the crisis more directly and personally.
 

@@ -509,8 +509,8 @@ identified as his mother.[^18] It may have been from that side of the
 family that Aponte received the title to his carpentry workshop,
 according to inconclusive documents in the Cuban National Archives.
 Information about Aponte's descendants is even murkier. For example, the
-names of his children given on the official [EcuRed
-page](https://www.ecured.cu/José_Antonio_Aponte) (Cuba's answer to
+names of his children given on the official EcuRed
+page](https://web.archive.org/web/20220309011016/https://www.ecured.cu/Jos%C3%A9_Antonio_Aponte) (Cuba's answer to
 Wikipedia) are different from those that appear in passing in the
 judicial testimony.[^19] Fleshing out that genealogy lends itself to the
 kinds of collaboration facilitated by digital platforms. Here, one

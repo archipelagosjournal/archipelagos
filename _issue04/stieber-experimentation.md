@@ -290,7 +290,7 @@ factionalism in postindependence Haitian writing. Nevertheless, because
 of the cross-boundary work encouraged within the Kluge Center and the LC
 Labs initiative specifically, she was given the time, space, and
 resources (Kluge interns, [LC Labs
-fellows](https://labs.loc.gov/people/), technology, and expertise) to
+fellows](https://labs.loc.gov/), technology, and expertise) to
 pursue the project.[^17] It would be useful, then, to first understand
 the process by which the need for the index became clear.
 
@@ -976,7 +976,7 @@ experimenting as we continue to the next stage of the RSHHGG Lab.
 [^26]: Michelle Gallinger and Daniel Chudnov, for the Library of
     Congress Lab, *Library of Congress Digital Scholars Lab Pilot
     Project Report*, 21 December 2016,
-    [https://labs.loc.gov/static/labs/meta/images/DChudnov-MGallinger_LCLabReport.pdf](https://labs.loc.gov/static/labs/meta/images/DChudnov-MGallinger_LCLabReport.pdf).
+    [https://labs.loc.gov/](https://labs.loc.gov/).
 
 [^27]: The committee granted us access to all their materials and
     deputized two of their advisory board members to assist us in

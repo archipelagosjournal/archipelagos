@@ -694,7 +694,7 @@ people who need them the most.
 
 [^1]: The title of the newspaper changed throughout the years, beginning in 1783 as the *Barbados Mercury* and changing to the *Barbados Mercury and Bridgetown Gazette* circa 1805. For more contextual information about the history of the newspaper, please see \"The *Barbados Mercury and Bridgetown Gazette* Newspaper Collection,\" British Library Endangered Archives Programme, <https://eap.bl.uk/collection/EAP1086-1>.
 
-[^2]: See \"Welcome to the Endangered Archives Programme,\" <https://eap.bl.uk>. Established in 2004, the EAP awards grants for identifying and digitizing culturally important \"material that is at risk of loss or decay, and is located in countries where resources and opportunities to preserve such material are lacking or limited\" (\"About the Programme,\" <https://eap.bl.uk/about>). The EAP makes available digitized material through local partners and its website.
+[^2]: See \"Welcome to the Endangered Archives Programme,\" <https://eap.bl.uk>. Established in 2004, the EAP awards grants for identifying and digitizing culturally important \"material that is at risk of loss or decay, and is located in countries where resources and opportunities to preserve such material are lacking or limited\" (\"About the Programme,\" <https://eap.bl.uk/>). The EAP makes available digitized material through local partners and its website.
 
 [^3]: See Heather Junke, \"Brock Prof Part of International Mission to Save Caribbean History,\" *The Brock News, a News Source for Brock University*, 25 October 2017, <https://brocku.ca/brock-news/2017/10/brock-prof-part-of-international-mission-to-save-caribbean-history> (accessed 15 December 2019).
 
@@ -712,7 +712,7 @@ people who need them the most.
 
 [^10]: \"Fire Destroys Building Housing St. Lucia's Most Extensive Collection of Cultural and Historical Artefacts,\" *Pride News* (blog), 27 March 2018, <https://pridenews.ca/2018/03/27/fire-destroys-building-housing-st-lucias-extensive-collection-cultural-historical-artefacts/>.
 
-[^11]: See "About the Archive," *Slave Societies Digital Archive*, <https://www.slavesocieties.org/node/23> (accessed 14 December 2019).
+[^11]: See "About the Archive," *Slave Societies Digital Archive*, <https://www.slavesocieties.org/> (accessed 14 December 2019).
 
 [^12]: Angela Sutton, \"The Digital Overhaul of the Archive of Ecclesiastical and Secular Sources for Slave Societies (ESSSS),\" *sx archipelagos*, no. 2 (July 2017), <https://smallaxe.net/sxarchipelagos/issue02/essss.html>.
 
@@ -724,7 +724,7 @@ people who need them the most.
 
 [^16]: See Randy Silverman, \"Retaining Hardcopy Papers Still Important in Digital Age,\" *Newspaper Research Journal* 36, no. 3 (2015): 363--72, [doi:10.1177/0739532915600749](https://doi.org/10.1177/0739532915600749).
 
-[^17]: Recent government initiatives in Barbados suggest that there is a move to digitize public records on a large scale with the help of Inter-American Development Bank (IDB) funding. However, it is not clear how this policy will dovetail with a larger conservation policy. See Emmanuel Joseph, \"PM: I'm Sorry,\" *Barbados Today*, 23 October 2018, <https://barbadostoday.bb/2018/10/23/pm-im-sorry>.
+[^17]: Recent government initiatives in Barbados suggest that there is a move to digitize public records on a large scale with the help of Inter-American Development Bank (IDB) funding. However, it is not clear how this policy will dovetail with a larger conservation policy. See Emmanuel Joseph, \"PM: I'm Sorry,\" *Barbados Today*, 23 October 2018, <https://barbadostoday.bb/>.
 
 [^18]: Hannah Alpert-Abrams, David A. Bliss, and Itza Carbajal, \"Post-Custodialism for the Collective Good: Examining Neoliberalism in US-Latin American Archival Partnerships,\" in \"Evidences, Implications, and Critical Interrogations of Neoliberalism in Information Studies,\" ed. Marika Cifor and Jamie A. Lee, special issue, *Journal of Critical Library and Information Studies* 2, no. 1 (2019), [doi:10.24242/jclis.v2i1.87](https://doi.org/10.24242/jclis.v2i1.87).
 

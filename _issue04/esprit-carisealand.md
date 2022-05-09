@@ -191,7 +191,7 @@ Students from the past three cohorts (2016 through 2018) have
 collaborated on *Carisealand* as their graded course requirement.
 Content under [ACF Series](http://carisealand.org/acf-docuseries/),
 [Class Projects](http://carisealand.org/class-projects/),
-[Blog](http://createcaribbean.org/create/carisealand/), and Map all
+[Blog](https://carisealand.org/), and Map all
 reflects work produced for students' digital humanities research course,
 continued during internship hours, and supervised under their research
 colloquium enrollment.[^f3]

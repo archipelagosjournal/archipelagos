@@ -189,7 +189,7 @@ on the walls in chalk.[^12] As part of the performance, Kriston Chen
 engineered a soundtrack based on recordings of Sharda Patasar's sitar
 performances, now housed on the [Douen Islands Soundcloud
 page](http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar),
-and [Chen's visual work](http://www.instagram.com/p/m89WgVGxCB/) was
+and [Chen's visual work](https://www.instagram.com/p/m89WgVGxCB/) was
 projected throughout the space, inviting audience members to interact
 with both text and image.[^13] Within this event dedicated to douen
 voices and experimenting with constrained spaces, staging new
@@ -362,7 +362,7 @@ available for a few minutes to the public, the tweets do not constitute
 a stable and consistently accessible text in its screenic iteration as
 part of the Alice Yard performance. As visible in figure 1, the
 [Live-Tweet
-Stalls](http://www.instagram.com/p/m8-KI0GxDb/)
+Stalls](https://www.instagram.com/p/m8-KI0GxDb/)
 featured one tweet at a time rather than the entire feed. Warner's
 live-tweeting, which began at 5:13 p.m. and ended at 6:49 p.m., includes
 fifty-four tweets. With a rate of roughly one tweet every two minutes,
@@ -562,7 +562,7 @@ BocasLitFest event.
 
 While Douen Islands maintains two
 [Facebook pages](http://www.facebook.com/douen.islands) in addition to their
-[Instagram](http://www.instagram.com/douenislands),
+[Instagram](https://www.instagram.com/douenislands),
 [Twitter](file:///C:\Users\Kelly\Documents\sx%20archipelagos%20May%202016\returned\twitter.com\douenislands),
 and
 [Tumblr](file:///C:\Users\Kelly\Documents\sx%20archipelagos%20May%202016\returned\douenislands.tumblr.com)
@@ -782,9 +782,9 @@ douen retains its capacity for devious and deviant paths.
 
 [^11]: See Geosi Gyasi, "Interview with Trinidadian Poet, Andre Bagoo," 25 April 2015, [http://geosireads.wordpress.com/2015/04/25/interview-with-trinidadian-poet-andre-bagoo](http://geosireads.wordpress.com/2015/04/25/interview-with-trinidadian-poet-andre-bagoo).
 
-[^12]: See [http://www.instagram.com/p/m9BmgSGxJS](http://www.instagram.com/p/m9BmgSGxJS/); and [http://www.instagram.com/p/m\_SDXEGxJn/](http://www.instagram.com/p/m_SDXEGxJn/). See also performance stills included in Ramlochan's review of the event, "An Evening of Alice Yard Douens," 14 April 2014, [https://www.bocaslitfest.com/2014/04/18/an-evening-of-alice-yard-douens/](https://www.bocaslitfest.com/2014/04/18/an-evening-of-alice-yard-douens/).
+[^12]: See [https://www.instagram.com/p/m9BmgSGxJS](https://www.instagram.com/p/m9BmgSGxJS/); and [https://www.instagram.com/p/m\_SDXEGxJn/](https://www.instagram.com/p/m_SDXEGxJn/). See also performance stills included in Ramlochan's review of the event, "An Evening of Alice Yard Douens," 14 April 2014, [https://www.bocaslitfest.com/2014/04/18/an-evening-of-alice-yard-douens/](https://www.bocaslitfest.com/2014/04/18/an-evening-of-alice-yard-douens/).
 
-[^13]: See [http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar](http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar); and [http://www.instagram.com/p/m89WgVGxCB/](http://www.instagram.com/p/m89WgVGxCB/).
+[^13]: See [http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar](http://soundcloud.com/douenislands/douen-islands-in-forests-wild-skies-soundtrack-feat-sharda-patasar); and [https://www.instagram.com/p/m89WgVGxCB/](https://www.instagram.com/p/m89WgVGxCB/).
 
 [^14]: The 2009 version of this work was installed and exhibited at Alice Yard; its 2010 and 2011 Erotic Art Week installations took place at the Bohemia Gallery in Port of Spain.
 
@@ -828,7 +828,7 @@ douen retains its capacity for devious and deviant paths.
 
 [^34]: See [http://vimeo.com/78231839](http://vimeo.com/78231839).
 
-[^35]: See [http://www.facebook.com/douen.islands](http://www.facebook.com/douen.islands); [http://www.instagram.com/douenislands](http://www.instagram.com/douenislands); [http://twitter.com/douenislands](http://twitter.com/douenislands); [http://douenislands.tumblr.com](http://douenislands.tumblr.com).
+[^35]: See [http://www.facebook.com/douen.islands](http://www.facebook.com/douen.islands); [https://www.instagram.com/douenislands](https://www.instagram.com/douenislands); [http://twitter.com/douenislands](http://twitter.com/douenislands); [http://douenislands.tumblr.com](http://douenislands.tumblr.com).
 
 [^36]: Roberto Simanowski, "Digital and Net Art," in Marie-Laure Ryan, Lori Emerson, and Benjamin Robertson, eds., *The Johns Hopkins Guide to Digital Media* (Baltimore, MD: Johns Hopkins University Press, 2014), 134.
 

@@ -1269,7 +1269,7 @@ Notes
     <https://archives.newsday.co.tt/2014/10/24/richards-not-sure-its-legal/>;
     Janine Mendes-Franco, "Meme vs. Movie Theatre—Dawn of Consumer
     Justice in Trinidad and Tobago?," *Global Voices*, 6 April 2016,
-    [https://globalvoices.org/2016/04/06/meme-vs-movie-theatre-dawn-of-consumer-justice-in-trinidad-tobago/\#](https://globalvoices.org/2016/04/06/meme-vs-movie-theatre-dawn-of-consumer-justice-in-trinidad-tobago/%23);
+    [https://globalvoices.org/2016/04/06/meme-vs-movie-theatre-dawn-of-consumer-justice-in-trinidad-tobago/\#](https://globalvoices.org/2016/04/06/meme-vs-movie-theatre-dawn-of-consumer-justice-in-trinidad-tobago/);
     and Chen, "Creation and Meaning of Internet Memes in 4chan."
 
 [^16]: See Sean Rintel, "Crisis Memes: The Importance of Templatability
@@ -1353,8 +1353,7 @@ Notes
     through individual and collaborative work for achieving clearly
     defined ends. See Brabham, *Crowdsourcing*; and Linda K. Börzsei,
     "Makes a Meme Instead: A Concise History of Internet Memes," *New
-    Media Studies Magazine*, no. 7 (2013),
-    <http://works.bepress.com/linda_borzsei/2/>.
+    Media Studies Magazine*, no. 7 (2013).
 
 [^29]: See Jean Burgess and Joshua Green, *Youtube: Online Video and
     Participatory Culture* (Oxford: Polity, 2009).
@@ -1422,8 +1421,7 @@ Notes
 [^42]: See Matthew P. McAllister, Edward H. Sewell Jr., and Ian Gordon,
     "Introducing Comics and Ideology," in *Comics and Ideology*, ed.
     Matthew P. McAllister, Edward H. Sewell Jr., and Ian Gordon (New
-    York: Peter Lang, 2001), 1–13,
-    <http://www.peterlang.de/download/datasheet/46603/datasheet_69249.pdf>;
+    York: Peter Lang, 2001), 1–13;
     and John Fiske, "The Cultural Economy of Fandom," in *The Adoring
     Audience: Fan Culture and Popular Media*, ed. Lisa A. Lewis (London:
     Routledge, 1992), 30–49.
@@ -1479,7 +1477,7 @@ Notes
     <https://archives.newsday.co.tt/2013/03/21/owners-hope-to-get-25m-for-property/>;
     and Mark Wilson, "The Cinema Glory Days Are Coming Back," *Caribbean
     Beat*, March–April 2002,
-    [https://www.caribbean-beat.com/issue-54/glory-days-coming-back\#axzz6KH65Kv4z](https://www.caribbean-beat.com/issue-54/glory-days-coming-back%23axzz6KH65Kv4z).
+    [https://www.caribbean-beat.com/issue-54/glory-days-coming-back\#axzz6KH65Kv4z](https://www.caribbean-beat.com/issue-54/glory-days-coming-back).
 
 [^54]: See Jocelyne Guilbault, "The Question of Multiculturalism in the
     Arts in the Postcolonial Nation-State of Trinidad and Tobago,"

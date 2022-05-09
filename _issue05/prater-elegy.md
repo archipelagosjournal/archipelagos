@@ -974,7 +974,7 @@ Globalization*. Jackson: University Press of Mississippi, 2017.
     <https://www.quora.com/What-is-the-biggest-difference-between-clean-code-and-messy-code>.
 
 [^36]: See "Chinese Rocksteady," YouTube,
-    [https://www.youtube.com/watch?v=3xum1CIiSxI](https:/www.youtube.com/watch?v=3xum1CIiSxI).
+    [https://www.youtube.com/watch?v=3xum1CIiSxI](https://youtu.be/3xum1CIiSxI).
     Clive Chin, one of the founders of "dub," has worked as a musician
     and producer with the Wailers, Dennis Brown, Lee "Scratch" Perry,
     Black Uhuru, and Gregory Isaacs, among others. The Shelter, one of
