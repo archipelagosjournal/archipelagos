@@ -33,7 +33,7 @@ Caribbean. The majority of the essays were generated from a broad public
 conversation initiated in 2014 in [The Caribbean Digital
 I](https://wayback.archive-it.org/1914/20151224034027/http://caribbeandigital.cdrs.columbia.edu/),
 a conversation to which we returned in 2015 with [The Caribbean Digital
-II](http://caribbeandigitalnyc.net/2015/) and which we intend to
+II](https://web.archive.org/web/20201218110713/http://caribbeandigitalnyc.net/2015/) and which we intend to
 continue far into the future. Over the course of these two events,
 participants engaged with the so-called digital humanities in the
 so-called global South as an ethical, political, social, and creative

@@ -848,7 +848,7 @@ rhetorical devices (5)
 
 [^1]: Sean Douglas, "Mayor: Beware Dangerous Sub-cultures," *Trinidad and Tobago Newsday*, 11 February 2016, [http://www.newsday.co.tt/news/0,223841.html.](http://www.newsday.co.tt/news/0,223841.html)
 
-[^2]: "Ordinary Jamaicans Know Nothing about Twitter, Says Pickersgill," *Jamaica Observer*, 26 November 2014, [http://www.jamaicaobserver.com/news/Ordinary-Jamaicans-know-nothing-about-Twitter--says-Pickersgill.](http://www.jamaicaobserver.com/news/Ordinary-Jamaicans-know-nothing-about-Twitter--says-Pickersgill)
+[^2]: "Ordinary Jamaicans Know Nothing about Twitter, Says Pickersgill," *Jamaica Observer*, 26 November 2014, [http://www.jamaicaobserver.com/news/.](http://www.jamaicaobserver.com/news/)
 
 [^3]: "Hazel Brown: Making a Difference," *Newsday*, 21 April 2013, [http://www.newsday.co.tt/features/0,176606.html.](http://www.newsday.co.tt/features/0,176606.html)
 

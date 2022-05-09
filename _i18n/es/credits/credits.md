@@ -8,8 +8,8 @@
 [Soraya Limare](#soraya-limare--asistente-editorial)
 
 ### Producción | Diseño
-[Juliet Ali](#juliet-ali--diseadora)\\
-[Brian Ballsun-Stanton](#brian-ballsun-stanton--editor-de-produccin)\\
+[Juliet Ali](#juliet-ali--diseñadora)\\
+[Brian Ballsun-Stanton](#brian-ballsun-stanton--editor-de-producción)\\
 [Dennis Tenen](#dennis-tenen--arquitecto-del-proyecto)  
 
 
@@ -20,7 +20,7 @@
 [Schuyler Esprit](#schuyler-esprit--consejo-editorial)  
 [Jessica Marie Johnson](#jessica-marie-johnson--consejo-editorial)  
 [Kelly Baker Josephs](#kelly-baker-josephs--consejo-editorial)  
-[Frances Negrón-Muntaner](#frances-negrn-muntaner--consejo-editorial)  
+[Frances Negrón-Muntaner](#frances-negrón-muntaner--consejo-editorial)  
 [Vincent Brown](#vincent-brown--consejo-editorial)  
 [Laurie Taylor](#laurie-taylor--consejo-editorial)
 
