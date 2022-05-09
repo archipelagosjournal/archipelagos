@@ -45,12 +45,12 @@ Besides the advertisements, the newspaper also published articles about the prog
 Apart from Vincent's reforestation campaign, I also found interesting news items on Jacmel from the years of 1937 and 1938 and even through 1941. The nature of the news was extremely diverse, from reporting on a general blackout[^7] in the commune to the mysterious disappearance of the Jacmel orchestra's instruments.[^8] One of the longest pieces I found in the archive was a column published in several September 1938 issues titled "Voyage autour de Jacmel \[Trip around Jacmel\]" and signed by "J.B." (figure 1).[^9] This column is reminiscent of the "Lettre de Jacmel" in Depestre's novel (figure 2), a series Patrick tells us was published by the Paris newspaper *Le Monde* in April 1972 (113--17).
 
 {% include image.html
-img="valence_1_LV_jacmel-nouvelliste.jpg"
+img="issue06/valence_1_lv_jacmel-nouvelliste.jpg"
 title="Voyage autour de Jacmel"
 caption="Figure 1. Column on Jacmel from September 1938 on the *Nouvelliste* timeline" %}
 
 {% include image.html
-img="valence_1_LV_jacmel-monde.jpg"
+img="issue06/valence_1_lv_jacmel-monde.jpg"
 title="Lettre de Jacmel"
 caption="Figure 2. Fictional column on Jacmel from April 1972 on the *Hadriana* timeline" %}
 
@@ -67,7 +67,7 @@ Taking this into account, I went back to the documents where I had recorded my f
 The next step was to reread the novel and take note of all the events that included a specific date or for which Depestre had mentioned at least the month in which an event took place. I was surprised to discover that the author had been fairly clear on dates for most of the novel's main events, and a detailed timeline could be made without difficulty. At the end I had fifteen dates from the novel, with only one, January 1918, going further in the past than my own findings from *Le Nouvelliste.* All of the events after 1946, the last year I included in my research, were set not in Haiti but in Europe and Jamaica, so it seemed that both chronologies fit together for the project I had in mind, to the point that Patrick's and Depestre's arrivals in Paris from Haiti happened in 1946 with only a few months' difference (figure 3).
 
 {% include image.html
-img="valence_1_LV_patrick-paris.jpg"
+img="issue06/valence_1_lv_patrick-paris.jpg"
 title="Patrick and Depestre arrive in Paris in 1946"
 caption="Figure 3. Patrick's arrival in Paris in the combined timeline. At the bottom it is possible to see Depestre's arrival, just a few months earlier." %}
 
@@ -86,7 +86,7 @@ While I thought of a solution for that issue, I begun to work on the *Nouvellist
 After a few weeks, I had both separated timelines but still needed to find some visual materials for the *Hadriana* version and then merge it with the *Nouvelliste* one for the third combined timeline. The problem with the visual factor of the *Hadriana* timeline was that I needed fifteen images that I could legally use and that looked good together. Depestre's novel does not include any illustrations, but the text is written in a way that seems very visual, so I was convinced I could not present the timeline as text only. After experimenting with different ideas, like looking for images of different editions of the novel or selecting random stock images that were related to each event, I went back to my notes for inspiration (figure 4). All the notes I had taken for the project, with the exception of the Excel documents, were handwritten using an iPad and a digital notebook app called GoodNotes, in which I could write as if on paper. Looking at my notes I realized that I had the visual element for the timeline right in front of me, so I began exploring ways to incorporate screenshots from it into the timeline. With this last touch, the *Hadriana* timeline was finally complete.
 
 {% include image.html
-img="valence_1_LV_timeline-hadriana.jpg"
+img="issue06/valence_1_lv_timeline-hadriana.jpg"
 title="*Hadriana*'s Timeline on the Reader's Guide"
 caption="Figure 4. Beginning of the *Hadriana* timeline with an image of a section of my original notes for the project." %}
 
