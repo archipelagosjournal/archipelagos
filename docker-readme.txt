@@ -15,7 +15,7 @@ $ docker cp issue06:/app/assets/issue06/ ./assets/
 $ docker cp issue06:/app/assets/issue06/da_silva.pdf ./assets/da_silva.pdf
 
 # Adding a missing piece to the docker
-$ docker cp ./_issue06/da_silva.md issue06:/app/_issue06/da_silva.md
+$ docker cp ./_issue06/jean-charles-review.md issue06:/app/_issue06/jean-charles-review.md
 $ docker cp ./images/issue06/v1_nms_mof_fig1.png issue06:/app/images/issue06/v1_nms_mof_fig1.png
 
 # Adding a new folder to the docker
