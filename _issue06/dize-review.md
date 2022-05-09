@@ -2,8 +2,8 @@
 layout: article
 section: reviews
 title: 
-  "long": "Following in Île-en–Île's Footsteps"
-  "short": "Following Île-en–Île"
+  "long": "Following in Île-en-Île's Footsteps"
+  "short": "Following Île-en-Île"
 doi: ""
 author: 
 - name: Nathan H. Dize
