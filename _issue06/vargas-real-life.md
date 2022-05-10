@@ -2,7 +2,7 @@
 layout: article
 section: projects
 title: 
-  "long": "Real-life and Fictional Chronologies: on building a set of timelines around René Depestre's Hadriana dans tous mes rêves"
+  "long": "Real-life and Fictional Chronologies: on building a set of timelines around René Depestre's *Hadriana dans tous mes rêves*"
   "short": "Real-life and Fictional Chronologies"
 doi: ""
 author: 
