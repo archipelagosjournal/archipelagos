@@ -1,10 +1,13 @@
 ---
-layout: page
+layout: article
 section: introduction
+guest: true
 issue: 6
 order: 1
 date: March 2022
-title: "The Digital Library of the Caribbean: At the Crossroads of Caribbean Memory and Sustainability"
+title: 
+  "long": "The Digital Library of the Caribbean: At the Crossroads of Caribbean Memory and Sustainability"
+  "short": "The Digital Library of the Caribbean"
 doi: ""
 author: 
 - name: Perry Collins
@@ -16,6 +19,7 @@ author:
   bio: >
     Hadassah St. Hubert, Ph.D. is a Historian, Independent Scholar, and Senior Program Officer. She is a former Council on Library Information Resources (CLIR) Postdoctoral Fellow in Data Curation for Latin American and Caribbean Studies with dLOC at Florida International University. She received a PhD in History from the University of Miami specializing in Caribbean, Latin American, and African Diasporic history. Her dissertation, "Visions of a Modern Nation: Haiti at the World's Fairs," focuses on Haiti's participation in World's Fairs and Expositions in the twentieth century. Dr. St. Hubert served as the Assistant Editor for Haiti: An Island Luminous, a digital humanities site dedicated entirely to Haitian history and Haitian studies. During her tenure as the CLIR Postdoctoral Fellow with dLOC, she led programming and digitization efforts in collaboration with dLOC's partners, such as the Diaspora Vibe Cultural Arts Incubator and L'Institut de Sauvegarde du Patrimoine National in Haiti.
 language: en
+pdf: true
 ---
 
 The idea of a Caribbean library digitization project took root at the Association of Caribbean University, Research and Institutional Libraries (ACURIL) annual meetings in 2002. Judith Rogers, known as the "founding mother" of the Digital Library of the Caribbean, envisioned a platform that could provide access to cultural, historical, and research materials held in archives, libraries, and private collections throughout the Caribbean. Together with Erich Kesse at the University of Florida (UF) and Catherine Marsicek at Florida International University (FIU), Rogers established a working group that presented findings at ACURIL in 2004. A successful proposal to the U.S. Department of Education's Technological Innovation and Cooperation for Foreign Information Access supported creation of dLOC, a centralized repository of Caribbean information resources relying on decentralized digitization. According to dLOC's website, five Caribbean and four US-based libraries officially established dLOC on 17 July 2004 at an ACURIL planning meeting in San Juan, Puerto Rico.  
@@ -24,7 +28,7 @@ dLOC began as a grant-funded program; today, it relies on both grants and in-kin
 
 In this special issue of *archipelagos*, contributors delve into dLOC's collections and engage with the ways scholars and students have created, contributed, and utilized content across disciplines and geographies. Nearly twenty years after dLOC was established, the preservation of and access to Caribbean patrimonial materials remains critical and has only grown in importance with the impacts of climate change, political instability, and lack of funding, and the very real threat to sustainability of physical collections. The issue's contributors acknowledge and reflect on their own positionality as scholars and teachers working with or in U.S. institutions while trying to provide access to cultural knowledge and history across diasporas. They draw from their experiences across the Caribbean in safeguarding cultural heritage through collaborations and partnerships that can be at times fraught with tension and complex power dynamics. Their goals often include pathways to decolonize knowledge on the ground and to disseminate knowledge beyond academic audiences.  
 
-{% include image.html img="issue06/dloc_logo.jpg" title="dLOC logo" caption="dLOC logo" %}
+{% include image.html img="issue06/dloc-logo.jpg" title="dLOC logo" caption="dLOC logo" %}
 
 Navigating and Negotiating Digitization
 ------------------------------------------------------------------
