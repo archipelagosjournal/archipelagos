@@ -134,8 +134,7 @@ I am grateful to the research assistants who have worked with me on this collect
 
 [^8]: In early conversations with the Institute for Social and Cultural Research for, example, they were open to hosting a digital copy of the collection. On the *Protocols*, see https://www2.nau.edu/libnap-p/index.html.
 
-[^9]: UN Educational, Scientific, and Cultural Organization (UNESCO), "Ethics and Intangible Cultural Heritage," accessed 19 September 2020, https://ich.unesco.org/en/ethics-and-ich-00866. The Protocols for Native American Archival Materials can be accessed here: 
-https://www2.nau.edu/libnap-p/protocols.html
+[^9]: UN Educational, Scientific, and Cultural Organization (UNESCO), "Ethics and Intangible Cultural Heritage," accessed 19 September 2020, https://ich.unesco.org/en/ethics-and-ich-00866. The Protocols for Native American Archival Materials can be accessed here: https://www2.nau.edu/libnap-p/protocols.html
 
 [^10]: Aníbal Quijano, "Coloniality of Power, Eurocentrism, and Latin America," *Nepantla: Views from South* 1, no. 3 (2000): 533--80.
 
@@ -197,8 +196,7 @@ https://www2.nau.edu/libnap-p/protocols.html
 
 [^39]: Some interviewees would use Yucatec Maya, English, or Kriol words or phrases in Spanish. Someone who shares the same variety or who also employs similar features is the best candidate to transcribe the interviews.
 
-[^40]: Nicté Fuller Medina, "Repatriating Sociolinguistic Data to Belize: Can a Decolonial Model Still Work in Times of COVID 19?," CLIR COVID (Re) Collections (blog), 22 June 2020, https://www.clir.org/2020/06/repatriating-sociolinguistic-data-to-belize-can-a-decolonial-model-still-work-in-times-ofcovid-
-19/.
+[^40]: Nicté Fuller Medina, "Repatriating Sociolinguistic Data to Belize: Can a Decolonial Model Still Work in Times of COVID 19?," CLIR COVID (Re) Collections (blog), 22 June 2020, https://www.clir.org/2020/06/repatriating-sociolinguistic-data-to-belize-can-a-decolonial-model-still-work-in-times-ofcovid-19/.
 
 [^41]: Timothy W. Hagerty and Mary Gomez Parham, eds., *If di Pin Neva Ben: Folktales and Legends of Belize* (Benque Viejo del Carmen, Belize: Cubola Productions, 2000).
 
