@@ -50,7 +50,7 @@ El editorial del número preliminar del *Tacón de la Chancleta* explica el orig
 {% include image.html
     img="issue06/valence_1_eck_editoras-tacon.jpg"
     title="Editoras *Tacón de la Chancleta*"
-    caption="Fig. 1. Fotografía Elizabeth Viverito Escobar. Desde la izquierda,
+    caption="Figure 1. Fotografía Elizabeth Viverito Escobar. Desde la izquierda,
 Ronnie Lovler, Elizabeth Viverito Escobar, Ana Irma Rivera Lassén, Alma
 Méndez Ríos, Maritza Durán Alméstica, Margarita Babb, Yvonne Torres." %}
 
