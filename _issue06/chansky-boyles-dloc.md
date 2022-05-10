@@ -132,6 +132,10 @@ Ricia would like to thank Aleyshka Estévez Quintana for her assistance with the
 
 ---
 
+**General Editors Note**: This essay was impossible to anonymize and therefore went through single blind review instead of the usual double blind review.
+
+---
+
 [^1]: Michel-Rolph Trouillot. *Silencing the Past: Power and the Production of History* (Boston: Beacon, 2015), 26.
 
 [^2]: King Ferdinand, "*Letter to the Taino-Arawak Indians*" (1500), [[http://www.let.rug.nl/usa/documents/before-1600/king-ferdinands-letter-to-the-taino-arawak-indians.php].]
@@ -179,3 +183,5 @@ Ricia would like to thank Aleyshka Estévez Quintana for her assistance with the
 [^23]: Schafer, "Open Ears."
 
 [^24]: Linda Tuhiwai Smith, *Decolonizing Methodologies*, 2nd ed. (London: Zed, 2012).
+
+
