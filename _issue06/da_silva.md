@@ -236,7 +236,7 @@ We would like to thank Stephanie Chancy, Grégory Docteur, Kevin Fombrun, Judith
 
 [^27]: Da Silva, "Museums in Haiti."
 
-[^28]: William Boustead, "The Conservation of Works of Art in Tropical and Sub-tropical Zones," *Studies in Conservation* 6, no. 1 (1961): 73--78, [<https://doi.org/10.1179/sic.1961.s019>;]{.underline} Vinod Daniel, Colin Pearson, Ivan Cole, Wayne Ganther, and Steve King, "Behaviour of Museum Buildings in Tropical Climates," *Studies in Conservation* 45, no. 1 (2000): 45--50, [<https://doi.org/10.1179/sic.2000.45.Supplement-1.45>.]{.underline}
+[^28]: William Boustead, "The Conservation of Works of Art in Tropical and Sub-tropical Zones," *Studies in Conservation* 6, no. 1 (1961): 73--78, [<https://doi.org/10.1179/sic.1961.s019>;] Vinod Daniel, Colin Pearson, Ivan Cole, Wayne Ganther, and Steve King, "Behaviour of Museum Buildings in Tropical Climates," *Studies in Conservation* 45, no. 1 (2000): 45--50, [<https://doi.org/10.1179/sic.2000.45.Supplement-1.45>.]
 
 [^29]: Documentation of items in fragile condition or that necessitate relocation in order to be photographed will be conducted once more training and support become available.
 
@@ -250,6 +250,6 @@ We would like to thank Stephanie Chancy, Grégory Docteur, Kevin Fombrun, Judith
 
 [^34]: Graham Black, *Transforming Museums in the Twenty-First Century* (London: Taylor & Francis, 2012), 1.
 
-[^35]: Stephen E. Weil, "From Being about Something to Being for Somebody: The Ongoing Transformation," *Daedalus* 128, no. 3 (1999): 229--58, doi:10.2307/20027573; John Latschar, "Civic Reflection: Places of Discovery," *Common Ground* 12, no. 4 (2007): 36--40; Alexandra Olivares and Jaclyn Piatak, "Exhibiting Inclusion: An Examination of Race, Ethnicity, and Museum Participation," *VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations*, 2021, [<https://doi.org/10.1007/s11266-021-00322-0>;]{.underline} Steven Miller, *The Anatomy of a Museum: An Insider's Text* (Hoboken, NJ: John Wiley & Sons, 2017).
+[^35]: Stephen E. Weil, "From Being about Something to Being for Somebody: The Ongoing Transformation," *Daedalus* 128, no. 3 (1999): 229--58, doi:10.2307/20027573; John Latschar, "Civic Reflection: Places of Discovery," *Common Ground* 12, no. 4 (2007): 36--40; Alexandra Olivares and Jaclyn Piatak, "Exhibiting Inclusion: An Examination of Race, Ethnicity, and Museum Participation," *VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations*, 2021, [<https://doi.org/10.1007/s11266-021-00322-0>;] Steven Miller, *The Anatomy of a Museum: An Insider's Text* (Hoboken, NJ: John Wiley & Sons, 2017).
 
 [^36]: Pierre Bourdieu, *La distinction: Critique sociale du jugement* (Paris: Minuit, 1979).
