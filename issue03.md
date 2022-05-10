@@ -25,9 +25,9 @@ editor:
 <div id="toc">
 
 <!-- Introductory material -->
-
-<ul>
     <h3>{% t global.introduction %}</h3>
+<ul>
+
 
     <li>
         <a href="{{site.baseurl}}/issue03/editors_intro.html">
@@ -55,8 +55,9 @@ editor:
 
 </ul>
 
-<ul>
     <h3>{% t global.essays %}</h3>
+<ul>
+
 
     <li>
         <a href="{{site.baseurl}}/issue03/nesbitt.html">
@@ -145,8 +146,9 @@ editor:
 
 </ul>
 
-<ul>
     <h3>{% t global.projects %}</h3>
+<ul>
+
 
     <li>
         <a href="{{site.baseurl}}/issue03/ecda_review.html">
@@ -190,8 +192,9 @@ editor:
 
 </ul>
 
-<ul>
     <h3>{% t global.reviews %}</h3>
+<ul>
+
 
     <li>
         <a href="{{site.baseurl}}/issue03/paravisini.html">
