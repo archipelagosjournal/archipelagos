@@ -4,8 +4,9 @@
 
 <!-- Introductory material -->
 {% assign articles = (include.issue | sort: 'order') %}
-<ul>
+
 <h3>{% t global.introduction %}</h3>
+<ul>
 {% for page in articles %}
   {% if page.section == "introduction" %}<li>
       <a href="{{ page.url | prepend:site.baseurl }}">
@@ -16,8 +17,8 @@
 {% endfor %} 
 </ul>
 
-<ul>
 <h3>{% t global.essays %}</h3>
+<ul>
 {% for page in articles %}
   {% if page.section == "articles" %}
   <li>
@@ -39,8 +40,8 @@
 {% endfor %}
 </ul>
 
-<ul>
 <h3>{% t global.projects %}</h3>
+<ul>
 {% for page in articles %}
   {% if page.section == "projects" %}
 
@@ -63,8 +64,8 @@
 {% endfor %} 
 </ul>
 
-<ul>
 <h3>{% t global.reviews %}</h3>
+<ul>
 {% for page in articles %}
   {% if page.section == "reviews" %}
 
