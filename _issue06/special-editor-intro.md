@@ -8,7 +8,7 @@ date: March 2022
 title: 
   "long": "The Digital Library of the Caribbean: At the Crossroads of Caribbean Memory and Sustainability"
   "short": "The Digital Library of the Caribbean"
-doi: ""
+doi: "https://doi.org/10.7916/archipelagos-v5bc-3957"
 author: 
 - name: Perry Collins
   shortname: Collins

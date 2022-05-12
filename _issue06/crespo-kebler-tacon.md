@@ -4,7 +4,7 @@ section: articles
 title: 
   "long": "Colección digital El Tacón de la Chancleta, una mirada a los feminismos de la década de 1970 en Puerto Rico"
   "short": "El Tacón de la Chancleta"
-doi: ""
+doi: "https://doi.org/10.7916/archipelagos-0208-s925"
 author: 
 - name: Elizabeth Crespo Kebler
   shortname: Crespo Kebler

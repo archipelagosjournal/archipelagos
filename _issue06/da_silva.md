@@ -4,7 +4,7 @@ section: articles
 title: 
   "long": "Digitization as Revival: A Case Study of the Musée Ogier-Fombrun"
   "short": "Digitization as Revival"
-doi: ""
+doi: "https://doi.org/10.7916/archipelagos-6sqv-2f98"
 author: 
 - name: Natália Marques da Silva
   shortname: Marques da Silva
@@ -15,7 +15,7 @@ author:
   bio: >
     Jean Mozart Féron is a PhD candidate in anthropology at the Université Laval (Quebec City, Canada) and faculty member at the State University of Haiti and the Université Quisqueya. He is also a member of the executive board of the Haitian Committee of the International Council of Museums. His research focuses on museum evaluation and narration of sites of slavery, such as Croix-des-Bossales, known as Haiti's largest slave market during the colonial period.
 - name: Mireille Fombrun Mallebranche
-  shortname: 
+  shortname: Fombrun Mallebranche
   bio: >
     Mireille Fombrun Mallebranche is a Haitian-born artist and sculptor. As a member of the Fombrun family, she has been in charge of the conservation and daily activities at the Musée Ogier-Fombrun for the past decade. She is also a counselor to the executive board of the Haitian Committee of the International Council of Museums (ICOM-Haïti).
 date: March 2020

@@ -4,7 +4,7 @@ section: projects
 title: 
   "long": "Real-life and Fictional Chronologies: on building a set of timelines around René Depestre's *Hadriana dans tous mes rêves*"
   "short": "Real-life and Fictional Chronologies"
-doi: ""
+doi: "https://doi.org/10.7916/archipelagos-7w2x-a973"
 author: 
 - name: Laura Vargas Zuleta
   shortname: Vargas Zuleta

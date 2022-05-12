@@ -4,7 +4,7 @@ section: articles
 title: 
   "long": "Layering Caribbean Texts and Modalities: Relational Pedagogies for Secondary Language Arts Classrooms"
   "short": "Layering Caribbean Texts and Modalities"
-doi: ""
+doi: "https://doi.org/10.7916/archipelagos-7srx-rp29"
 author: 
 - name: Molly Hamm-Rodríguez
   shortname: 

@@ -4,7 +4,7 @@ section: articles
 title: 
   "long": "Data is patrimony: on developing a decolonial model for access and repatriation of sociolinguistic data"
   "short": "Data is patrimony"
-doi: ""
+doi: "https://doi.org/10.7916/archipelagos-n3pb-rx95"
 author: 
 - name: Nicté Fuller Medina
   shortname: Fuller Medina

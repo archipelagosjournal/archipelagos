@@ -4,7 +4,7 @@ section: articles
 title: 
   "long": "Edward Kamau Brathwaite at Carifesta '72: The Occasion for Caribbean Criticism"
   "short": "Archiving Carifesta"
-doi: ""
+doi: "https://doi.org/10.7916/archipelagos-rw7y-p710"
 author: 
 - name: René Johannes Kooiker
   shortname: Kooiker

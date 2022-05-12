@@ -4,7 +4,7 @@ section: articles
 title: 
   "long": "dLOC as Practice: Decolonial Approaches to Listening and Remembering"
   "short": "dLOC as Practice"
-doi: ""
+doi: "https://doi.org/10.7916/archipelagos-jtwh-a058"
 author: 
 - name: Ricia Anne Chansky
   shortname: Chansky

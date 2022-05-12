@@ -4,7 +4,7 @@ section: articles
 title: 
   "long": "Archivística y sonoridad: un ejercicio práctico para conocer mejor el patrimonio documental del Archivo Histórico de Vieques en la Biblioteca Digital del Caribe"
   "short": "Archivística y sonoridad"
-doi: ""
+doi: "https://doi.org/10.7916/archipelagos-3xs6-tz02"
 author: 
 - name: Ivelisse Rivera Bonilla
   shortname: Rivera Bonilla
