@@ -625,7 +625,7 @@ how genres transcend national and geographic borders. The students also
 highlighted the Haitian guitar-based Latin genre *twoubadou*, which
 developed through migration across the border with the Dominican
 Republic. One student, Jesse Sgambati (Jesediah), who was pursuing a
-degree in recorded music, produced [an original composition](http://archipelagosjournal.org/assets/extras/issue05-goffe-recording.mp3), an
+degree in recorded music, produced an original composition, an
 instrumental track that blends Haitian polyrhythms and features shakers,
 skin drums, and wood blocks alongside electronic elements, snares, 808
 kicks, and synth sounds. The string elements of the song gesture to
