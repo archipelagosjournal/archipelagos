@@ -19,6 +19,7 @@ $ docker cp ./_issue06/vargas-real-life.md issue06:/app/_issue06/vargas-real-lif
 $ docker cp ./images/issue06/dloc-logo.jpg issue06:/app/images/issue06/dloc-logo.jpg
 
 # Adding a new folder to the docker
+[delete the folder first]
 $ docker cp ./_issue06/ issue06:/app/_issue06/
 
 
