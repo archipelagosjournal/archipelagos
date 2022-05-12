@@ -10,7 +10,7 @@ author:
   shortname: Dize
   bio: >
     Nathan H. Dize is Visiting Assistant Professor of French at Oberlin College. His work is situated at the crossroads of literary and intellectual history, cultural studies, translation studies, and the digital humanities. Nathan is particularly interested in how literature enables Haitians to practice intimate and collective rites of mourning across generations and beyond national borders. He is the translator of three Haitian novels: *The Immortals by Makenzy Orcel* (SUNY Press, 2020), *I Am Alive* by Kettly Mars (UVA Press, 2022), and *Antoine des Gommiers* by Lyonel Trouillot (Schaffner Press, 2023). Nathan has written for publications such as *archipelagos, Caribbean Quarterly, Francosphères, the Journal of Haitian Studies, sx salon,* and *Transition*; he also serves on the editorial board of the online magazine, ReadinginTranslation.com.
-date: March 2022
+date: May 2022
 issue: 6
 order: 12
 language: en

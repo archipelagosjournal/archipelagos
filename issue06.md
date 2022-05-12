@@ -4,7 +4,7 @@ regenerate: true
 title: "Issue (6)"
 subtitle: ""
 blurb: ""
-release: "March 2022"
+release: "May 2022"
 slug: "issue06"
 number: 6
 editor: 

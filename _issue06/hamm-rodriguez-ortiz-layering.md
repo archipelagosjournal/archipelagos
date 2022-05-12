@@ -14,7 +14,7 @@ author:
   shortname: 
   bio: >
     Lisa Ortiz is an assistant professor in the Department of Teaching, Learning, and Leading at the University of Pittsburgh. She has taught courses in education, English education, gender, women's, and sexuality studies, Latina/o/x studies, and writing. Her book project "Saberes Boricuas: 21st Century Migrant Placemaking at Work, Church, and School" focuses on knowledge production among intergenerational migrants moving between rural Puerto Rico and the rural Midwest from an intersectional, decolonial, and contemporary perspective. 
-date: March 2022
+date: May 2022
 issue: 6
 order: 9
 abstract: >

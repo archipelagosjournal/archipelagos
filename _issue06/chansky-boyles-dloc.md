@@ -14,7 +14,7 @@ author:
   shortname: Boyles
   bio: >
     Christina Boyles is an Assistant Professor of Culturally Engaged Digital Humanities at Michigan State University. Her research explores the relationship between disaster, social justice, and the environment. She is the director of the Archivo de Respuestas Emergencias de Puerto Rico, a project that works with community organizations to collect and preserve oral histories and disaster-related artifacts about Hurricanes Irma and María (2017), Puerto Rican earthquake swarm (2019-2022) and COVID-19 (2020-present). She also is the co-founder of SurvDH, a community that explores the intersections between surveillance and the humanities. A selection of her published work appears in *enculturation*, *Digital Humanities Quarterly*, *Bodies of Information: Feminist Debates in the Digital Humanities*, *American Quarterly*, and *Studies in American Indian Literatures*.
-date: March 2022
+date: May 2022
 issue: 6
 order: 7
 abstract: >

@@ -10,7 +10,7 @@ author:
   shortname: Banaré
   bio: >
     Après un master en littérature comparée à l'université des Antilles-Guyane, Banaré a obtenu en 2010 un doctorat sur les représentations littéraires de l'industrie minière en Nouvelle-Calédonie. Une version remaniée de sa thèse a été publiée en 2012 sous le titre *Les récits du nickel en Nouvelle-Calédonie (1853-1960)* (Honoré Champion, Collection Francophonies). Il a enseigné le français à l'Alliance Française de Suva, ainsi qu'à la University of the South Pacific. Spécialisé dans les expressions littéraires coloniales et postcoloniales, Banaré mène des recherches sur les relations entre la presse et la littérature. Membre associé de l'équipe de recherche TROCA (Trajectoires d'Océanie) de l'université de la Nouvelle-Calédonie, il participe également aux enseignements de littérature comparée. 
-date: April 2022
+date: May 2022
 issue: 6
 order: 12
 language: fr

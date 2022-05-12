@@ -10,7 +10,7 @@ author:
   shortname: Crespo Kebler
   bio: > 
     Elizabeth Crespo Kebler tiene un doctorado en sociología y es estudiosa de los temas de género, sexualidad, raza, etnicidad y feminismos en Puerto Rico, el Caribe y América Latina. Es catedrática y directora del Departamento de Ciencias Sociales en la Universidad de Puerto Rico en Bayamón. 
-date: March 2022
+date: May 2022
 issue: 6
 order: 3
 abstract: >

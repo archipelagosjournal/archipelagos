@@ -3,7 +3,7 @@ layout: page
 section: introduction
 issue: 6
 order: 0
-date: April 2022
+date: May 2022
 title: "A love letter to librarians"
 doi: ""
 author: 

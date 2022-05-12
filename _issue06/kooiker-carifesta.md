@@ -10,7 +10,7 @@ author:
   shortname: Kooiker
   bio: >
     René Johannes Kooiker is a PhD student in the Department of Comparative Literature at Yale University. His main interests are twentieth-century Caribbean literature in English, Dutch, French, and Spanish. He is currently researching the Pan-Caribbean cultural and literary festival Carifesta along with its Pan-African counterparts, such as FESTAC '77 and PANAF 1969. His book reviews have been published in *Modern Language Quarterly* and the *Dutch Review of Books*.
-date: March 2022
+date: May 2022
 issue: 6
 order: 5
 abstract: >

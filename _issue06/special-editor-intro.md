@@ -4,7 +4,7 @@ section: introduction
 guest: true
 issue: 6
 order: 1
-date: March 2022
+date: May 2022
 title: 
   "long": "The Digital Library of the Caribbean: At the Crossroads of Caribbean Memory and Sustainability"
   "short": "The Digital Library of the Caribbean"

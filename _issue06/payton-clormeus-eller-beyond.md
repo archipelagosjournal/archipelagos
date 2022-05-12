@@ -18,7 +18,7 @@ author:
   shortname: Clorméus
   bio: >
     Lewis A. Clorméus holds a doctorate in Sociology and is professor at the Université d'État d'Haïti. He also serves as the Secretary for the Haitian Society of History, Geography, and Geology (Société Haïtienne d'Histoire, de Géographie et de Géologie). His research interests particularly focus on the management of cultural heritage, the intellectual history of Haiti, and ties between religion and the state. Among his notable publications are Le vodou haïtien (Riveneuve, 2015), Duverneau Trouillot (CIDIHCA, 2016), and Le vodou, le prêtre et l'ethnologue (2020).
-date: March 2022
+date: May 2022
 issue: 6
 order: 10
 abstract: >

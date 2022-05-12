@@ -10,7 +10,7 @@ author:
   shortname: Vargas Zuleta
   bio: >
     Laura Vargas Zuleta is a PhD student in the Romance Studies Department at Duke University, where she is pursuing a Romance Track program with a focus on contemporary hispanophone and francophone Caribbean literature. She holds a BA in literature from the Universidad de los Andes in Bogotá and an MA in Hispanic studies from Boston College. 
-date: March 2022
+date: May 2022
 issue: 6
 order: 11
 abstract: >

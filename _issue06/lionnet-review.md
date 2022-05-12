@@ -10,7 +10,7 @@ author:
   shortname: Lionnet
   bio: >
     Françoise Lionnet is distinguished research professor of comparative literature and French and francophone studies at the University of California at Los Angeles.
-date: March 2022
+date: May 2022
 issue: 6
 order: 12
 language: en

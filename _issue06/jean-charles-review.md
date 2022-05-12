@@ -10,7 +10,7 @@ author:
   shortname: Jean-Charles
   bio: >
     Régine Michelle Jean-Charles is the Dean's Professor of Culture and Social Justice as well as Director of Africana Studies at Northeastern University. She is a Black feminist scholar who works at the intersections of race, gender and justice. Jean-Charles is the author of *Conflict Bodies: The Politics of Rape Representation in the Francophone Imaginary* (Columbus: Ohio State University Press, 2014), *The Trumpet of Conscience Today* (New York: Orbis Press, 2021) and the forthcoming *Looking for Other Worlds: Black Feminism and Haitian Fiction* (UVA Press).
-date: March 2022
+date: May 2022
 issue: 6
 order: 13
 language: en

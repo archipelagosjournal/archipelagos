@@ -10,7 +10,7 @@ author:
   shortname: Fuller Medina
   bio: >
     Nicté Fuller Medina (PhD, University of Ottawa) is a quantitative linguist. She studies the mechanisms underlying multilingual speech to both inform linguistic science and to challenge narratives of deficiency with respect to racialized language varieties. She leads two on-going projects: *The Language Contact in Belize* project which examines Spanish-Kriol-English contact and *Language, Culture and History: Belize in a Digital Age* which focuses on the creation of digital corpora and repatriation of legacy sociolinguistic data within a decolonial framework. Her most recent publications appear in the volume *When Creole and Spanish Collide: Language and Cultural Contact in the Caribbean* and in the *Canadian Journal of Linguistics*. She is an insider/outsider researcher, a Belizeanist, Central Americanist and Caribbeanist.
-date: March 2022
+date: May 2022
 issue: 6
 order: 8
 abstract: >
