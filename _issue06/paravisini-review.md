@@ -9,7 +9,7 @@ author:
 - name: Lizabeth Paravisini-Gebert 
   shortname: Paravisini-Gebert
   bio: >
-    Lisa Paravisini-Gebert works in the fields of literature and cultural studies, specializing in the multidisciplinary, comparative study of the Caribbean. Growing up in her native Puerto Rico, she became fascinated by the many cultural connections between Caribbean peoples despite our different histories and languages and has made that the subject of her research and teaching. She is based in the Hispanic Studies Department at Vassar College, where she holds the Randolph Distinguished Professor Chair. She is also a participating faculty member in the Programs in Environmental Studies, Latin American Studies, International Studies, and Women’s Studies at Vassar. She is the author of a number of books, among them *Phyllis Shand Allfrey: A Caribbean Life* (1996), *Jamaica Kincaid: A Critical Companion* (1999), *Creole Religions of the Caribbean* (2003, with Margarite Fernández Olmos), and most recently, *Literatures of the Caribbean* (2008). 
+    Lisa Paravisini-Gebert works in the fields of literature and cultural studies, specializing in the multidisciplinary, comparative study of the Caribbean. Growing up in her native Puerto Rico, she became fascinated by the many cultural connections between Caribbean peoples despite our different histories and languages and has made that the subject of her research and teaching. She is based in the Hispanic Studies Department at Vassar College, where she holds the Randolph Distinguished Professor Chair. She is also a participating faculty member in the Programs in Environmental Studies, Latin American Studies, International Studies, and Women's Studies at Vassar. She is the author of a number of books, among them *Phyllis Shand Allfrey: A Caribbean Life* (1996), *Jamaica Kincaid: A Critical Companion* (1999), *Creole Religions of the Caribbean* (2003, with Margarite Fernández Olmos), and most recently, *Literatures of the Caribbean* (2008). 
 date: May 2022
 issue: 6
 order: 14
@@ -17,12 +17,12 @@ language: en
 ---
 
 
-Long before the launch of *Ile-en-île* in 1998, I remember Thomas as
+Long before the launch of *Île en île* in 1998, I remember Thomas as
 someone focused on the new technologies surfacing around us (personal
 computers, email, the internet!) as potential solutions to the
 conditions in which we conducted research on what were then the
 "marginal" fields of Caribbean, francophone, and post-colonial
-literatures. We were then---in the mid1-1980s---young colleagues at
+literatures. We were then---in the mid 1980s---young colleagues at
 Lehman College (CUNY) who, intrigued by the availability of personal
 computers, gravitated to the computer center in search of insights into
 what they could do to bridge over the gap between our fields and the
@@ -62,15 +62,15 @@ considerable contacts to help us locate and correspond with authors to
 obtain the necessary translation rights and permission for publication.
 His help was invaluable, and in this help we could already glimpse the
 talents, interests, contacts, generosity, persistence, and drive that
-would make possible *Ile-en-île* possible a few years later. We were
+would make possible *Île en île* possible a few years later. We were
 not, by any stretch of the imagination, the only people he helped in
 this way. This potential for collaboration and generosity were, I think,
-basic qualities behind the launching of *Ile-en-île*.
+basic qualities behind the launching of *Île en île*.
 
 I feel a deep affection for Thomas, as we have been friends for at least
 three and a half decades. And at the foundation of that friendship has
 been my admiration for the dedication and work ethic behind everything
-he does---and of which *Ile-en île* is the most public manifestation. We
+he does---and of which *Île en île* is the most public manifestation. We
 bonded over obsessions with texts that could not be easily found---Marie
 Chauvet's works, among them---and critical articles that seemed mythical
 in their elusiveness. We had met at the height of the AIDS epidemic,
@@ -79,12 +79,12 @@ looking for books, poems, stories sometimes felt like a quest for the
 ghosts of those lost. An effort at recovering what should not have been
 ephemeral felt somewhat like wrenching poetic justice out of the grips
 of the established canon. I always think back to those days as planting
-the seed for the commitment Thomas brought to *Ile-en-île*, for the
+the seed for the commitment Thomas brought to *Île en île*, for the
 indefatigable work of recovering, archiving, and preserving voices,
 images, texts, stories that the canonical archive would never have
 thought worth the effort to preserve.
 
-I have watched *Ile-en-île* grown through the years with a sense of awe,
+I have watched *Île en île* grown through the years with a sense of awe,
 perhaps because I have had privileged glimpses into the very hard work
 through which the site grew from website to vital archive with so very
 little support except from friends and colleagues. The polished and
@@ -100,15 +100,15 @@ humanities sites in our field had to be created and supported with
 little institutional support.
 
 The greater reason, then, to celebrate Thomas' very impressive
-achievement in the creation of *Ile-en-île* and in its growth and
+achievement in the creation of *Île en île* and in its growth and
 maintenance over more that twenty years. The site was unique in its
 creation at a time when developing such a site required more technical
 knowledge and effort that it would need today. But it was in imagining
 at such an early date that the form most suited to the purpose of
 bringing together literary and creative communities separated by
 geographies and languages was through a digital route, that the future
-would indeed be digital, that *Ile-en-île* was so ahead of its time. One
-should remember that *Ile-en-île* was launched in the same year as the
+would indeed be digital, that *Île en île* was so ahead of its time. One
+should remember that *Île en île* was launched in the same year as the
 founding of Google, with the internet perhaps not in its infancy, but
 certainly still not in its prime. The technical work behind the site was
 onerous and time consuming at the time and the site only grew in
