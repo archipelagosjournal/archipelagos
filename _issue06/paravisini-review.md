@@ -38,7 +38,7 @@ copying texts by hand. Literary histories needed to be traced, copies of
 rare editions of books needed to be located, texts printed in ephemeral
 magazines had to be unearthed---all treasures to be discovered to set
 the foundations for emerging fields. These forays far and wide in search
-of materials were not without adventures I recall in particular a
+of materials were not without adventures. I recall in particular a
 morning we spent together browsing in the bookstores of Paris' Boulevard
 Saint-Michel looking for francophone novels---after which Thomas had to
 rescue me from a threatened arrest. But that is a story best left for
@@ -84,15 +84,14 @@ indefatigable work of recovering, archiving, and preserving voices,
 images, texts, stories that the canonical archive would never have
 thought worth the effort to preserve.
 
-I have watched *Île en île* grown through the years with a sense of awe,
+I have watched *Île en île* develop through the years with a sense of awe,
 perhaps because I have had privileged glimpses into the very hard work
 through which the site grew from website to vital archive with so very
 little support except from friends and colleagues. The polished and
 elegant site belies the intense labor, frustration, and exasperation
 behind its production. The lack of institutional and grant support has
 been lamentable---a product perhaps of an indifference on the part of
-grant agencies and academic institutions to what were consider in the
-early days of the construction of the archive "marginal" literatures,
+grant agencies and academic institutions to what were considered "marginal" literatures in the early days of the construction of the archive,
 coupled with its development during a time when academia had not yet
 figured out the value behind what is now celebrated as "the digital
 humanities." It is ironic that one of the most valuable digital
@@ -100,10 +99,10 @@ humanities sites in our field had to be created and supported with
 little institutional support.
 
 The greater reason, then, to celebrate Thomas' very impressive
-achievement in the creation of *Île en île* and in its growth and
+achievement in the creation of *Île en île* and its growth and
 maintenance over more that twenty years. The site was unique in its
 creation at a time when developing such a site required more technical
-knowledge and effort that it would need today. But it was in imagining
+knowledge and effort than it would need today. But it was in imagining
 at such an early date that the form most suited to the purpose of
 bringing together literary and creative communities separated by
 geographies and languages was through a digital route, that the future
