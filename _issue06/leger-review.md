@@ -25,7 +25,7 @@ familiariser avec les différents supports textuels, qu'ils soient
 traditionnels ou modernes. S'il est vrai que la technologie numérique
 offre des possibilités éditoriales inédites, le livre papier présente
 des caractéristiques particulières qui en font un objet palpable plein
-de charme et d'attrait. À côté des multiples propriétés intéressantes de
+de charme et d'attrait. A côté des multiples propriétés intéressantes de
 la technologie numérique et de ses diverses applications multimédias,
 exploitées à fond sur le site Internet *Île en île*, le maniement du livre
 imprimé a quelque chose de spécifique. Il induit un type de jouissance
@@ -46,11 +46,11 @@ assurer une plus grande visibilité aux littératures des îles
 francophones.
 
 *Île en île*, c'est quoi exactement ? Pourquoi avoir construit un tel site
-web ? À quoi sert-il ? Que représente-t-il pour celles et ceux qui
+web ? A quoi sert-il ? Que représente-t-il pour celles et ceux qui
 s'intéressent sérieusement aux patrimoines littéraires francophones
 insulaires du Sud ? Pour trouver des réponses très éloquentes à ces
 questions, je vous invite à aller directement à la source, c'est-à-dire
-à visiter le site *Île en île*, particulièrement la section « À propos »
+à visiter le site *Île en île*, particulièrement la section « A propos »
 où il y a un dossier-bilan contenant des propos de Thomas C. Spear
 recueillis par Stève Puig à l'occasion du dixième anniversaire du site.
 Cette exploration vous permettra non seulement de vous informer sur les
@@ -75,7 +75,7 @@ simple utilisateur du site. L'étudiant avide de connaissance que j'étais
 a bien profité de toutes les données fiables et utiles fournies à
 travers des dizaines de dossiers. Ces dossiers d'auteurs qui regorgent
 d'informations biographiques et bibliographiques, mais aussi
-analytiques, m'ont beaucoup aidé à progresser dans mes recherches. À
+analytiques, m'ont beaucoup aidé à progresser dans mes recherches. A
 mesure que j'avançais dans mes études et que j'approfondissais mes
 connaissances dans le domaine, j'éprouvais le besoin de me rendre utile
 à mon tour. Je ressentais en fait le besoin d'offrir quelque chose en
@@ -162,4 +162,4 @@ vivante cette belle et noble initiative culturelle.
     francophone" de Caroline Montpetit, dans *Le Devoir*, Montréal, juin
     2021.
 
-[^3]: Extrait de la section "À propos" du site web *Île en île*.
+[^3]: Extrait de la section "A propos" du site web *Île en île*.

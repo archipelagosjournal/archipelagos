@@ -2,7 +2,7 @@
 layout: article
 section: reviews
 title: 
-  "long": "Île en île: A Digital Voyage of Discovery"
+  "long": "*Île en île*: A Digital Voyage of Discovery"
   "short": "A Digital Voyage of Discovery"
 doi: ""
 author: 
