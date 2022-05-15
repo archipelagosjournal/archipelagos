@@ -100,7 +100,7 @@ little institutional support.
 
 The greater reason, then, to celebrate Thomas' very impressive
 achievement in the creation of *Île en île* and its growth and
-maintenance over more that twenty years. The site was unique in its
+maintenance over more than twenty years. The site was unique in its
 creation at a time when developing such a site required more technical
 knowledge and effort than it would need today. But it was in imagining
 at such an early date that the form most suited to the purpose of

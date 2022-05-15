@@ -125,7 +125,7 @@ devenu aujourd'hui, avec ses 400 dossiers, son index littéraire et son
 vaste catalogue recensant les coordonnées des principales institutions,
 organisations et agences culturelles des îles francophones, un espace
 documentaire numérique essentiel pour la promotion et la sauvegarde des
-œuvres littéraires d'expression française d'auteur.e.s issu.e.s des îles
+œuvres littéraires d'expression française d'auteur·e·s issu·e·s des îles
 anciennement colonisées par la France. Nous ne sommes pas sans savoir
 que la grande majorité de ces auteurs d'une littérature dite de la «
 périphérie du Sud » ne bénéficient pas des dispositifs de soutien
