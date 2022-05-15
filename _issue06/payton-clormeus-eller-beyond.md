@@ -155,7 +155,7 @@ Despite the different approaches, the library's work of cultivating Port-au-Prin
 
 [^9]: Lewis A. Clorméus, "Aspects des relations entre l'Église et l'État en Haïti: Le concordat du 28 mars 1860," *Revue de droit canonique* 64, no. 2 (2014): 277--309; Julia Gaffield, "The Racialization of International Law in the Aftermath of the Haitian Revolution: The Holy See and National Sovereignty," *American Historical Review* 125, no. 3 (2020): 841--68.
 
-[^10]: Lewis A. Clorméus, "A propos de la première campagne anti-superstitieuse (1896--1900)," *Chemins Critiques* 6, no. 2 (August 2019): 89--114; Clorméus, "Les stratégies de lutte contre la 'superstition' en Haïti au XIX^e^ siècle," *Journal of Haitian Studies* 20, no. 2 (2014): 66--87; Clorméus, "La soutane contre le tablier: Au cœur des tensions entre le clergé breton et la franc-maçonnerie haïtienne au XIX^e^ siècle (1867--1900)," *Histoire Monde et Cultures Religieuses*, no. 29 (March 2014): 33--56; Clorméus, "Haïti et le conflit des deux 'France,'" *Chrétiens et Sociétés*, no. 20 (2013): 63--84. See also Kate Ramsey, *The Spirits and the Law: Vodou and Power in Haiti* (Chicago: University of Chicago Press, 2011).
+[^10]: Lewis A. Clorméus, "A propos de la première campagne anti-superstitieuse (1896--1900)," *Chemins Critiques* 6, no. 2 (August 2019): 89--114; Clorméus, "Les stratégies de lutte contre la 'superstition' en Haïti au XIXe siècle," *Journal of Haitian Studies* 20, no. 2 (2014): 66--87; Clorméus, "La soutane contre le tablier: Au cœur des tensions entre le clergé breton et la franc-maçonnerie haïtienne au XIXe siècle (1867--1900)," *Histoire Monde et Cultures Religieuses*, no. 29 (March 2014): 33--56; Clorméus, "Haïti et le conflit des deux 'France,'" *Chrétiens et Sociétés*, no. 20 (2013): 63--84. See also Kate Ramsey, *The Spirits and the Law: Vodou and Power in Haiti* (Chicago: University of Chicago Press, 2011).
 
 [^11]: Georges Corvington, *Port-au-Prince au cours des ans: La métropole haïtienne du XIXième siècle, 1804--1888*, 3rd ed. (Port-au-Prince: Henri Deschamps, 1977), 127.
 
@@ -169,7 +169,7 @@ Despite the different approaches, the library's work of cultivating Port-au-Prin
 
 [^16]: "Un arrêt du peuple souverain," *Revue des Tribunaux*, 1 May 1843, 146. For a larger gendered discussion of some of these nineteenth-century contests reported in these collections and in newspapers held at the Archive Nationale d'Haïti, see Anne Eller, "Skirts Rolled Up: The Gendered Terrain of Political Protest in Nineteenth-Century Port-au-Prince," *Small Axe*, no. 64 (March 2021): 61--83.
 
-[^17]: Lewis Ampidu Clorméus, "Le militarisme au fondement de l'acceptabilité de l'arbitraire en Haïti au XIX^e^ siècle," in Bérard Cénatus, Stéphane Douailler, Michèle Pierre-Louis, and Étienne Tassin, eds., *Haïti: De la dictature à la démocratie?* (Montreal: Mémoire d'Encrier, 2016), 105--20.
+[^17]: Lewis Ampidu Clorméus, "Le militarisme au fondement de l'acceptabilité de l'arbitraire en Haïti au XIXe siècle," in Bérard Cénatus, Stéphane Douailler, Michèle Pierre-Louis, and Étienne Tassin, eds., *Haïti: De la dictature à la démocratie?* (Montreal: Mémoire d'Encrier, 2016), 105--20.
 
 [^18]: "Assez de la prison," *Le Réveil* (Cap-Haïtien), 18 February 1893, 3.
 
