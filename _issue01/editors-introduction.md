@@ -20,6 +20,7 @@ author:
   bio: >
    [Kelly Baker Josephs](https://www.york.cuny.edu/portal_college/kjosephs) is Associate Professor of English at York College, CUNY. She is the author of [*Disturbers of the Peace: Representations of Insanity in Anglophone Caribbean Literature*](http://www.upress.virginia.edu/title/4572) (2013), editor of [*sx salon: a small axe literary platform*](http://smallaxe.net/sxsalon), and manager of [*The Caribbean Commons*](http://caribbean.commons.gc.cuny.edu) website. Her current project, "Caribbean Articulations: Storytelling in a Digital Age, explores the intersections between new technologies and Caribbean cultural production.
 language: en
+pdf: false
 ---
 
 
