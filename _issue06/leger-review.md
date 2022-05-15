@@ -83,17 +83,17 @@ retour pour exprimer ma gratitude envers *Île en île*. C'est ainsi que
 j'ai pris la décision d'écrire à Thomas pour lui proposer de collaborer
 avec lui et son équipe. Je me rappelle lui avoir offert une contribution
 ciblée, non pas sur les auteurs contemporains, puisqu'ils étaient déjà
-légion sur le site, mais sur des auteurs haïtiens du XIX^e^ siècle.
+légion sur le site, mais sur des auteurs haïtiens du XIXe siècle.
 
 Dans l'un des chapitres de ma thèse, j'examine le rôle que la critique
 (qu'elle soit française ou haïtienne) a joué dans la dévalorisation des
-productions littéraires haïtiennes du XIX^e^ siècle. Les écrivains
-haïtiens du XIX^e^ siècle sont pour la plupart victimes d'une critique
+productions littéraires haïtiennes du XIXe siècle. Les écrivains
+haïtiens du XIXe siècle sont pour la plupart victimes d'une critique
 guidée par une lecture euro-centriste empreinte de préjugés, ce qui a
 servi à l'oblitération dans la mémoire collective de l'intérêt
 fondamental dont ils devraient être l'objet. Ce sont des publicistes
 français qui ont d'abord véhiculé l'idée selon laquelle le corpus des
-lettres haïtiennes du XIX^e^ siècle est en grande partie « un pâle
+lettres haïtiennes du XIXe siècle est en grande partie « un pâle
 reflet de la littérature française[^1] ». Ma recherche vise à
 réhabiliter un certain nombre de ces œuvres fondatrices extrêmement
 importantes pour Haïti et pour le monde francophone en général. Je dois
