@@ -349,7 +349,7 @@ Students in US K--12 schools must have more opportunities to read texts authored
 
 [^26]: See Y. Bonilla and M. LeBrón, *Aftershocks of Disaster: Puerto Rico before and after the Storm* (Chicago: Haymarket, 2019).
 
-[^27]: To make a copy of the slide decks for your own use, with attribution to the authors, see https://docs.google.com/presentation/d/1nUfY-yHn9rTjAvcfUnq3k872TobASaRIK3KD5JzD-xQ/edit\#slide=id.ge9216816da\_0\_40. If shared with other educators, please remember to link to the full essay so that the slide deck does not become decontextualized.
+[^27]: You can [download the slide decks for your own use]({{site.baseurl}}/assets/issue06/hamm-ortiz-layering-slides.pdf). If shared with other educators, please provide attribution, and remember to link to the full essay so that the slide deck does not become decontextualized.
 
 [^28]: For further reading, see I. K. Nwankwo, *Black Cosmopolitanism: Racial Consciousness and Transnational Identity in the Nineteenth-Century Americas* (Philadelphia: University of Pennsylvania Press, 2005); B. R. Byrd, *The Black Republic: African Americans and the Fate of Haiti* (Philadelphia: University of Pennsylvania Press, 2019); and L. M. Alexander, \"Black Utopia: Haiti and Black Transnational Consciousness in the Early Nineteenth Century,\" *William and Mary Quarterly* 78, no. 2 (2021). We thank the anonymous reviewer for these suggestions.
 
