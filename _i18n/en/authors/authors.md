@@ -110,7 +110,7 @@ We are particularly keen to support projects that make an important scholarly co
 
 Direct Project review occurs in two phases:
 
-1.  Authors submit a Project Statement consisting of a 350-to-500-word abstract and a 5000-to-7000-word description. Reviewers will offer initial feedback within four to six weeks based on the description and an exploration of the project. If the project is still in beta and not available publicly, you must share a link to the development site. We will ensure that the link does not leave our editorial circles.
+1.  Authors submit a Project Statement consisting of a 350-to-500-word abstract. Reviewers will offer initial feedback within four to six weeks based on the description and an exploration of the project. If the project is still in beta and not available publicly, you must share a link to the development site. We will ensure that the link does not leave our editorial circles.
 
 2.  Authors respond to reviewer feedback in a 1000-to-1200-word narrative and provide a link to a navigable beta site for final review.
 
