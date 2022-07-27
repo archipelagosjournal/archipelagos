@@ -105,7 +105,7 @@ Nous sommes particulièrement désireux de soutenir des projets qui apportent un
 
 L'évaluation directe du projet se déroule en deux phases:
 
-1. Les auteurs soumettent un énoncé de projet comprenant un résumé de 350 à 500 mots. Les évaluateurs proposeront un premier retour d’information dans un délai de quatre à six semaines, en fonction de la description et d’une exploration du projet. Si le projet est toujours en version bêta et n'est pas disponible publiquement, vous devez partager un lien vers le site de développement. Nous veillerons à ce que le lien ne quitte pas nos cercles éditoriaux.
+1. Les auteurs soumettent un énoncé de projet comprenant une description de 500 à 700 mots. Les évaluateurs proposeront un premier retour d’information dans un délai de quatre à six semaines, en fonction de la description et d’une exploration du projet. Si le projet est toujours en version bêta et n'est pas disponible publiquement, vous devez partager un lien vers le site de développement. Nous veillerons à ce que le lien ne quitte pas nos cercles éditoriaux.
 
 2. Les auteurs répondent aux commentaires des relecteurs dans un texte de 1 000 à 1 200 mots et fournissent un lien vers un site bêta navigable pour une révision finale.
 
