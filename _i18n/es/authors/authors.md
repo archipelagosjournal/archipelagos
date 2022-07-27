@@ -114,7 +114,7 @@ Estamos particularmente interesados en apoyar proyectos que hagan una importante
 
 La revisión directa del proyecto ocurre en dos fases:
 
-1. Los autores envían una Declaración del proyecto que consta de un resumen de 350 a 500 palabras y una descripción de 500 a 700 palabras. Los revisores ofrecerán comentarios iniciales dentro de cuatro a seis semanas según la descripción y una exploración del proyecto. Si el proyecto todavía está en versión beta y no está disponible públicamente, debe compartir un enlace al sitio de desarrollo. Nos aseguraremos de que el enlace no abandone nuestros círculos editoriales.
+1. Los autores envían una Declaración del proyecto que consta de una descripción de 500 a 700 palabras. Los revisores ofrecerán comentarios iniciales dentro de cuatro a seis semanas según la descripción y una exploración del proyecto. Si el proyecto todavía está en versión beta y no está disponible públicamente, debe compartir un enlace al sitio de desarrollo. Nos aseguraremos de que el enlace no abandone nuestros círculos editoriales.
 
 2. Los autores responden a los comentarios de los revisores en una narrativa de 1000 a 1200 palabras y proporcionan un enlace a un sitio beta navegable para la revisión final.
 
