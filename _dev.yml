@@ -164,4 +164,4 @@ version:             0.0.1
 
 # Excluded
 
-exclude: [utility, Gemfile, Gemfile.lock, extras, vendor, RAKEFILE, update.log, robots.txt]
+exclude: [utility, Gemfile, Gemfile.lock, extras, vendor, RAKEFILE, update.log, robots.txt, _issue01, issue01.md, assets/issue01, _issue02, issue02.md, assets/issue02, _issue03, issue03.md, assets/issue03, _issue04, issue04.md, assets/issue04, _issue05, issue05.md, assets/issue05]
