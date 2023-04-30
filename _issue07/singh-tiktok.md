@@ -112,25 +112,17 @@ the study of social media usage in the Caribbean.
 ## Caribbean TikTok 
 
 {% include image.html
-
-img=\"Felmine.jpg\"
-
-title=\"Trini Alphabet Series \@stephon23\"
-
-caption=\"A is for Ah.\"
-
-url=\"https://web.archive.org/web/20210517152122/https://www.tiktok.com/@stephon23/video/6876192861981805825\"
+    img="Felmine.jpg"
+    title="Trini Alphabet Series @stephon23"
+    caption="A is for Ah."
+    url="https://web.archive.org/web/20210517152122/https://www.tiktok.com/@stephon23/video/6876192861981805825"
 %}
 
 {% include image.html
-
-img=\"Simpson.jpg\"
-
-title=\"@wellonyc\"
-
-caption=\"Arinj.\"
-
-url=\"https://web.archive.org/web/20210517150915/https://www.tiktok.com/@wellonyc/video/6829872495324155142\"
+    img="Simpson.jpg"
+    title="@wellonyc"
+    caption="Arinj."
+    url="https://web.archive.org/web/20210517150915/https://www.tiktok.com/@wellonyc/video/6829872495324155142"
 %}
 
 Felmine copied the structure of his skits from Simpson, who also goes by
@@ -714,8 +706,6 @@ disasters, whether factual testimonies or fictional narratives,
 therefore offer opportunities to resolve urgent ideological
 contradictions.
 
-## 
-
 ## Conclusion 
 
 Salkey is not alone in advocating for the capacity to carefully parse
@@ -942,7 +932,7 @@ Legacy Apps: Introduction.\" *International Journal of Communication* 15
 
 3161-72.
 
-Bio
+## Bio
 
 Kris Singh is a faculty member in the English Department at Kwantlen
 Polytechnic University. His scholarly and creative attention spans the
@@ -950,7 +940,7 @@ legacy of indentureship, the relationships among writers of the
 Caribbean diaspora, and the ways in which social media and popular
 culture shape each other.
 
-Abstract
+## Abstract
 
 This paper considers how Caribbean ways of speaking map onto social
 media by analyzing two popular TikTok series as well as the testimony of
@@ -967,6 +957,8 @@ that the connotations that social media usages of vernacular have
 accumulated risk compromising the opportunities for ideological
 inspection that fictional and non-fictional representations of disaster
 make possible.
+
+---
 
 [^1]: Stephon Felmine, \"Trini Alphabet Series: L is for Lickrish,\"
     TikTok Video, Oct 5, 2020

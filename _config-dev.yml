@@ -120,6 +120,21 @@ collections:
     - Alex Gil
     - Brian Ballsun-Stanton
     - Alex Martin
+  issue07:
+    slug: issue07
+    slug_fr: fr/issue07
+    slug_es: es/issue07
+    output: true
+    number: 7
+    date: "May 2023"
+    title: "Issue (7)"
+    editors:
+    - Kaiama Glover
+    - Alex Gil
+    production:
+    - Alex Gil
+    - Brian Ballsun-Stanton
+    - Emily McGuinn
   archives:
     title: archives
     output: true
