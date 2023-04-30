@@ -144,8 +144,8 @@ collections:
     output: true
 
 # Current issue
-current: issue06
-current-number: 6
+current: issue07
+current-number: 7
 
 # Jekyll-Kramdown
 markdown: kramdown
