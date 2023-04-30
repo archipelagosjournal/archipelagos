@@ -373,6 +373,10 @@ blockquote p:last-child {
 
 /* Images */
 
+p:has(img) {
+  width: 100%;
+}
+
 img {
   display: block;
   max-width: 100%;
@@ -390,7 +394,7 @@ img.project-image-toc {
 }
 
 
-span.caption {
+span.caption, figcaption {
   color: #939598;
   margin-top: -.66rem;
   font-size: .5rem;

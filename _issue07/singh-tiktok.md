@@ -111,14 +111,14 @@ the study of social media usage in the Caribbean.
 ## Caribbean TikTok 
 
 {% include image.html
-    img="Felmine.jpg"
+    img="issue07/felmine.jpg"
     title="Trini Alphabet Series @stephon23"
     caption="A is for Ah."
     url="https://web.archive.org/web/20210517152122/https://www.tiktok.com/@stephon23/video/6876192861981805825"
 %}
 
 {% include image.html
-    img="Simpson.jpg"
+    img="issue07/simpson.jpg"
     title="@wellonyc"
     caption="Arinj."
     url="https://web.archive.org/web/20210517150915/https://www.tiktok.com/@wellonyc/video/6829872495324155142"
@@ -756,9 +756,9 @@ language.[^71]
 
 ## Bibliography
 
-Abidin, Crystal. \"Mapping Internet Celebrity on TikTok: Exploring
-Attention Economies and Visibility Labours,\" *Cultural Science Journal* 12, no. 1 (2020):
-77--103, <https://doi.org/10.5334/csci.140>
+Abidin, Crystal. \"[Mapping Internet Celebrity on TikTok: Exploring
+Attention Economies and Visibility Labours](https://doi.org/10.5334/csci.140),\" *Cultural Science Journal* 12, no. 1 (2020):
+77--103.
 
 Boffone, Trevor. *Renegades:* *Digital Dance Cultures from Dubsmash to
 TikTok*. Oxford: Oxford University Press, 2021.
@@ -766,9 +766,8 @@ TikTok*. Oxford: Oxford University Press, 2021.
 Brathwaite, Edward Kamau. *History of the Voice*. London: New Beacon
 Books, 1984.
 
-Buick, Tenn. \"Hindi/Guyanese Creole Challenge Pt. 7,\" Video, 00:39,
-October 20, 2020,
-<https://web.archive.org/web/20211222014832/https://www.tiktok.com/@tennbuick/video/6885832612460416262>.
+Buick, Tenn. \"[Hindi/Guyanese Creole Challenge Pt. 7](https://web.archive.org/web/20211222014832/https://www.tiktok.com/@tennbuick/video/6885832612460416262),\" Video, 00:39,
+October 20, 2020.
 
 Deckard, Sharae. \"The Political Ecology of Storms in the Caribbean.\"
 In *The Caribbean: Aesthetics, World-Ecology, Politics*, edited by Chris
@@ -778,74 +777,61 @@ Press, 2016.
 Felix, Jonathan J. \"Culture Jamming in the Caribbean: A Case of
 Alternative Media through Double Alternativity in Trinidad and Tobago.\" *archipelagos: a journal of Caribbean digital praxis* 5 (December 2020): 1-28.
 
-Felmine, Stephon. \"Trini Alphabet Series: A is for Ah.\" Video, 00:21,
-September 24, 2020,
-https://web.archive.org/web/20210517152122/https://www.tiktok.com/@stephon23/video/6876192861981805825.
+Felmine, Stephon. \"[Trini Alphabet Series: A is for Ah](https://web.archive.org/web/20210517152122/https://www.tiktok.com/@stephon23/video/6876192861981805825).\" Video, 00:21,
+September 24, 2020.
 
----. \"Trini Alphabet Series: B is for Braggadang.\" Video, 00:21,
-September 25, 2020,
-https://web.archive.org/web/20210517124550/https://www.tiktok.com/@stephon23/video/6876543232352750849.
+---. \"[Trini Alphabet Series: B is for Braggadang](https://web.archive.org/web/20210517124550/https://www.tiktok.com/@stephon23/video/6876543232352750849).\" Video, 00:21,
+September 25, 2020.
 
----. \"Trini Alphabet Series: E is for Eh-heh.\" Video, 00:19,
-September 29, 2020,
-<https://web.archive.org/web/20210517152619/https://www.tiktok.com/@stephon23/video/6877648583332482305>.
+---. \"[Trini Alphabet Series: E is for Eh-heh](https://web.archive.org/web/20210517152619/https://www.tiktok.com/@stephon23/video/6877648583332482305).\" Video, 00:19,
+September 29, 2020.
 
----. \"Trini Alphabet Series: L is for Lickrish.\" Video, 00:19,
-October 5, 2020,
-https://web.archive.org/web/20210521212749/https://www.tiktok.com/@stephon23/video/6880263506437033217.
+---. \"[Trini Alphabet Series: L is for Lickrish](https://web.archive.org/web/20210521212749/https://www.tiktok.com/@stephon23/video/6880263506437033217).\" Video, 00:19,
+October 5, 2020.
 
----. \"Trini Alphabet Series: M is for Mamaguy.\" Video, 00:21,
-October, 6 2020,
-<https://web.archive.org/web/20210521212940/https://www.tiktok.com/@stephon23/video/6880626990009847041>.
+---. \"[Trini Alphabet Series: M is for Mamaguy](https://web.archive.org/web/20210521212940/https://www.tiktok.com/@stephon23/video/6880626990009847041).\" Video, 00:21,
+October, 6 2020.
 
-Gal, Noam, Zohar Kampf, and Limor Shifman. \"SRSLY?? A Typology of
-Online Ironic Markers.\" *Information, Communication & Society* (September 2020):
-1-18. <https://doi.org/10.1080/1369118X.2020.1814380>.
+Gal, Noam, Zohar Kampf, and Limor Shifman. \"[SRSLY?? A Typology of
+Online Ironic Markers](https://doi.org/10.1080/1369118X.2020.1814380).\" *Information, Communication & Society* (September 2020):
+1-18.
 
-Grizzle, Shereita. \"Drake is Fake! -- Mr. Vegas,\" *The Jamaica Star*
-(Jamaica), May 21, 2016,
-<https://web.archive.org/web/20210521130352/http://jamaica-star.com/article/entertainment/20160521/drake-fake-mr-vegas>.
+Grizzle, Shereita. \"[Drake is Fake! -- Mr. Vegas](https://web.archive.org/web/20210521130352/http://jamaica-star.com/article/entertainment/20160521/drake-fake-mr-vegas).\" *The Jamaica Star* (Jamaica), May 21, 2016.
 
 Hutchinson, Ishion. *House of Lords and Commons*. New York: Farrar,
 Straus and Giroux, 2016.
 
-iWitness News. \"Two Night on an Erupting Volcano.\" Facebook, April 14,
-2021, <https://www.facebook.com/iwnsvg/videos/381706549527009>
+iWitness News. \"[Two Night on an Erupting Volcano](https://www.facebook.com/iwnsvg/videos/381706549527009).\" Facebook, April 14,
+2021.
 
----. \"Two Nights on an Erupting Volcano.\" Video, 9:24, April 14,
-2021, <https://www.youtube.com/watch?v=oFfu1RDmZNg>.
+---. \"[Two Nights on an Erupting Volcano](https://www.youtube.com/watch?v=oFfu1RDmZNg).\" Video, 9:24, April 14,
+2021.
 
 Josephs, Kelly Baker. \"Me, Myself, and Unno: Writing the Queer
 Caribbean Self into Digital Community.\" a*rchipelagos: a journal of Caribbean digital praxis* 5 (2020): 6.
 
-Kennedy, Melanie. \"\'If the rise of the TikTok dance and e-girl
-aesthetic has taught us anything, it's that teenage girls rule the internet right now\': TikTok Celebrity, Girls and the Coronavirus Crisis.\" *European Journal of Cultural Studies* 23, no. 6 (July 2020): 1069-76. https://doi:10.1177/1367549420945341
+Kennedy, Melanie. \"[\'If the rise of the TikTok dance and e-girl
+aesthetic has taught us anything, it's that teenage girls rule the internet right now\': TikTok Celebrity, Girls and the Coronavirus Crisis](https://doi:10.1177/1367549420945341).\" *European Journal of Cultural Studies* 23, no. 6 (July 2020): 1069-76.
 
-Mendes-Franco, Janine. \"Caribbean Alphabet Series Provides Lots of
-Laughs on TikTok.\"
-
-*Global Voices* (Netherlands), October 15, 2020, <https://web.archive.org/web/20210526221358/https://globalvoices.org/2020/10/15/caribbean-alphabet-series-provides-lots-of-laughs-on-tiktok/>.
+Mendes-Franco, Janine. \"[Caribbean Alphabet Series Provides Lots of
+Laughs on TikTok](https://web.archive.org/web/20210526221358/https://globalvoices.org/2020/10/15/caribbean-alphabet-series-provides-lots-of-laughs-on-tiktok/).\" *Global Voices* (Netherlands), October 15, 2020.
 
 Miller, Kei. *The Cartographer Tries to Map a Way to Zion*. Manchester:
 Carcanet Press, 2014.
 
----. \"An Interview with Kei Miller.\" An interview by Eleanor
-Wachtel, *Brick: A Literary Journal*, 2018\. <https://web.archive.org/web/20210506182419/https://brickmag.com/an-interview-with-kei-miller/>.
+---. \"[An Interview with Kei Miller](https://web.archive.org/web/20210506182419/https://brickmag.com/an-interview-with-kei-miller/).\" An interview by Eleanor
+Wachtel, *Brick: A Literary Journal*, 2018.
 
-Meusa, Shamar. \"\'Wello\' Makes Waves with Guyanese Alphabet Series.\"
-*Stabroek News* 26 (July 2020), <https://www.stabroeknews.com/2020/07/26/sunday/wello-makes-waves-with-guyanese-alphabet-series/>.
+Meusa, Shamar. "[\'Wello\' Makes Waves with Guyanese Alphabet Series](https://www.stabroeknews.com/2020/07/26/sunday/wello-makes-waves-with-guyanese-alphabet-series/)."
+*Stabroek News* 26 (July 2020).
 
-Neaves, Julien. "From ABC to 123, Trini Alphabet Guy Goes Viral."
-*Trinidad and Tobago*
+Neaves, Julien. "[From ABC to 123, Trini Alphabet Guy Goes Viral](https://web.archive.org/web/20201117185825/https://newsday.co.tt/2020/11/10/from-abc-to-123-trini-alphabet-guy-goes-viral/)."
+*Trinidad and Tobago Newsday*, (Trinidad and Tobago), November 10, 2020.
 
-*Newsday*, (Trinidad and Tobago), November 10, 2020,
-<https://web.archive.org/web/20201117185825/https://newsday.co.tt/2020/11/10/from-abc-to-123-trini-alphabet-guy-goes-viral/>.
+Paravisini-Gebert, Lizabeth. "[Mourning the Dead of St. Pierre in the
+Yellow Press](https://web.archive.org/web/20210127160448/http://smallaxe.net/sxsalon/discussions/mourning-dead-st-pierre-yellow-press)." *Small Axe Salon* 12 (May 2013).
 
-Paravisini-Gebert, Lizabeth. "Mourning the Dead of St. Pierre in the
-Yellow Press." *Small Axe Salon* 12 (May 2013), https://web.archive.org/web/20210127160448/http://smallaxe.net/sxsalon/discussions/mourning-dead-st-pierre-yellow-press.
-
-Paul, Sean. "Jamaican Lingo Pt. 1." Video, 00:34, April 7, 2020.
-<https://web.archive.org/web/20211222014609/https://www.tiktok.com/@duttypaul/video/6948484636750220549>.
+Paul, Sean. "[Jamaican Lingo Pt. 1](https://web.archive.org/web/20211222014609/https://www.tiktok.com/@duttypaul/video/6948484636750220549)." Video, 00:34, April 7, 2020.
 
 Puri, Shalini. *The Grenada Revolution in the Caribbean Present:
 Operation Urgent Memory*. London: Palgrave MacMillan, 2014.
@@ -861,25 +847,23 @@ Digital Ethnography.\" *International Journal of Communication* 15 (2021):
 
 Selvon, Samuel. *The Lonely Londoners*. London: Penguin, 2006.
 
-Simpson, Kwame. \"Arinj.\" Video, 00:13, May 22, 2020, https://web.archive.org/web/20210517150915/https://www.tiktok.com/@wellonyc/video/6829872495324155142.
+Simpson, Kwame. \"[Arinj](https://web.archive.org/web/20210517150915/https://www.tiktok.com/@wellonyc/video/6829872495324155142).\" Video, 00:13, May 22, 2020.
 
----. \"the letter of the day!\" Video, 00:18, June 7, 2020, https://web.archive.org/web/20210517151749/https://www.tiktok.com/@wellonyc/video/6835776554933439750.
+---. \"[the letter of the day!](https://web.archive.org/web/20210517151749/https://www.tiktok.com/@wellonyc/video/6835776554933439750)\" Video, 00:18, June 7, 2020.
 
 Singh, Kris and Dale Tracy. \"Assuming Niceness: Private and Public
 Relationships in Drake\'s *Nothing Was the Same*.\" *Popular Music* 34,
 no. 1 (2015): 94-112.
 
----. \"Is Joke You Joking?\", *Pree: Caribbean. Writing* 3 (2019),
-<https://web.archive.org/web/20201201081351/https://preelit.com/2019/04/20/is-joke-you-joking/>.
+---. \"[Is Joke You Joking?](https://web.archive.org/web/20201201081351/https://preelit.com/2019/04/20/is-joke-you-joking/)\", *Pree: Caribbean. Writing* 3 (2019).
 
-Smith, Clifford. \"MV Corner: Mr. Vegas Responds...\" Facebook, May 23,
-2016, <https://www.facebook.com/MrVegasMusic/videos/10154195593144486/>.
+Smith, Clifford. \"[MV Corner: Mr. Vegas Responds...](https://www.facebook.com/MrVegasMusic/videos/10154195593144486/)\" Facebook, May 23, 2016.
 
-Smith, Zadie. \"Zadie Smith: By the Book.\" *The New York Times* (New
-York), November 17, 2016, <https://web.archive.org/web/20201112011909/https://www.nytimes.com/2016/11/20/books/review/zadie-smith-by-the-book.html>.
+Smith, Zadie. \"[Zadie Smith: By the Book](https://web.archive.org/web/20201112011909/https://www.nytimes.com/2016/11/20/books/review/zadie-smith-by-the-book.html).\" *The New York Times* (New
+York), November 17, 2016.
 
-Tootoolbay.com, \"Letter of the Day: T is for Tootoolbay.com\" Facebook,
-October 23, 2020, <https://www.facebook.com/tootoolbay/videos/649301035954820/>.
+Tootoolbay.com, \"[Letter of the Day: T is for Tootoolbay.com](https://www.facebook.com/tootoolbay/videos/649301035954820/)\" Facebook,
+October 23, 2020.
 
 Zeng, Jing, Crystal Abidin, and Mike S. Schäfer, \"Research Perspectives
 on TikTok and Its Legacy Apps: Introduction.\" *International Journal of Communication* 15
@@ -887,8 +871,6 @@ on TikTok and Its Legacy Apps: Introduction.\" *International Journal of Communi
 
 
 ---
-
-## Notes
 
 [^1]: Stephon Felmine, \"Trini Alphabet Series: L is for Lickrish,\"
     TikTok Video, Oct 5, 2020 https://web.archive.org/web/20210521212749/https://www.tiktok.com/@stephon23/video/6880263506437033217
@@ -959,7 +941,7 @@ on TikTok and Its Legacy Apps: Introduction.\" *International Journal of Communi
 [^22]: Shalini Puri, *The Grenada Revolution in the Caribbean Present:
     Operation Urgent Memory* (London: Palgrave MacMillan, 2014), 52.
 
-[^23]: Kelly Baker Jospehs, \"Me, Myself, and Unno: Writing the Queer
+[^23]: Kelly Baker Josephs, \"Me, Myself, and Unno: Writing the Queer
     Caribbean Self into Digital Community,\" *archipelagos* 5 (2020): 6.
 
 [^24]: Jing Zeng, Crystal Abidin, and Mike S. Schäfer, \"Research
