@@ -2,29 +2,28 @@
 layout: article
 section: articles
 title: 
-  "long": "Data is patrimony: on developing a decolonial model for access and repatriation of sociolinguistic data"
-  "short": "Data is patrimony"
-doi: "https://doi.org/10.7916/archipelagos-n3pb-rx95"
+  "long": "\"I know the world by how I speak the world\": TikTok ABCs, Disaster
+Language, and Andrew Salkey's *Hurricane*"
+  "short": "\"I know the world by how I speak the world\""
+doi: ""
 author: 
-- name: Nicté Fuller Medina
-  shortname: Fuller Medina
+- name: Kris Singh
+  shortname: Singh
   bio: >
-    Nicté Fuller Medina (PhD, University of Ottawa) is a quantitative linguist. She studies the mechanisms underlying multilingual speech to both inform linguistic science and to challenge narratives of deficiency with respect to racialized language varieties. She leads two on-going projects: *The Language Contact in Belize* project which examines Spanish-Kriol-English contact and *Language, Culture and History: Belize in a Digital Age* which focuses on the creation of digital corpora and repatriation of legacy sociolinguistic data within a decolonial framework. Her most recent publications appear in the volume *When Creole and Spanish Collide: Language and Cultural Contact in the Caribbean* and in the *Canadian Journal of Linguistics*. She is an insider/outsider researcher, a Belizeanist, Central Americanist and Caribbeanist.
-date: May 2022
-issue: 6
-order: 8
+    Kris Singh is a faculty member in the English Department at Kwantlen Polytechnic University. His scholarly and creative attention spans the legacy of indentureship, the relationships among writers of the Caribbean diaspora, and the ways in which social media and popular culture shape each other.
+date: May 2023
+issue: 7
+order: 2
 abstract: >
-  This paper discusses the first dataset installment of the project, Language, Culture and History: Belize in a Digital Age, which focusses on the recovery, preservation and repatriation of legacy sociolinguistic data to Belize. This first dataset, the Older Recordings of Belizean varieties of Spanish, are a collection of sociolinguistic interviews carried out in the late 70s in Mestizo-Maya communities. These interviews are a record of language as it was used at an earlier time as well as narratives of community folklore and cultural beliefs. Re-imagining these data as cultural patrimony and adopting a decolonial framework, this paper describes the intentional steps taken to disrupt the extractivism typical of both memory institutions and linguistics research. These steps include restitution and repatriation, local access, capacity building and challenging Western views of ownership and knowledge production. In sum, it centers communities at both the local and regional level which includes the choice to archive (and eventually make public) the collection via dLOC, a known entity in Belize and the region, allowing for a broader virtual and symbolic repatriation to the region. 
+  This paper considers how Caribbean ways of speaking map onto social media by analyzing two popular TikTok series as well as the testimony of a survivor of the 2021 eruption of La Soufrière that was widely circulated on Facebook. Understanding what Caribbean cultural production on social media entails means appreciating social media platforms like TikTok as commercial entities. As such, they define what can be produced and influence what audiences are likely to register as funny. Though Caribbean people\'s representations of themselves may seem more accessible than ever, the ways in which we hear each other on social media remains unevenly defined. Juxtaposing this consideration of the Caribbean digital landscape with Andrew Salkey\'s *Hurricane*, I argue that the connotations that social media usages of vernacular have accumulated risk compromising the opportunities for ideological inspection that fictional and non-fictional representations of disaster make possible.
 abstract_fr: >
-  Cet article traite du premier volet de la base de données du projet "Language, Culture and History: Belize in a Digital Age," qui se concentre sur la récupération, la préservation et le rapatriement des données sociolinguistiques patrimoniales au Belize. Ce premier ensemble de données, les Older Recordings of Belizean variétés of Spanish, est une collection d'entretiens sociolinguistiques réalisés à la fin des années 70 dans les communautés métisses-Mayas. Ces entretiens sont un enregistrement de la langue telle qu'elle était utilisée à une époque antérieure ainsi que des récits du folklore communautaire et des croyances culturelles. En réimaginant ces données en tant que patrimoine culturel et en adoptant un cadre décolonial, cet article décrit les mesures intentionnelles prises pour perturber l'extractivisme typique des institutions de la mémoire et de la recherche linguistique. Ces étapes comprennent la restitution et le rapatriement, l'accès local, le renforcement des capacités et la remise en question des conceptions occidentales de la propriété et de la production de connaissances. En somme, le centrage des communautés au niveau local et régional qui inclut le choix d'archiver (et éventuellement de rendre public) la collection via dLOC, une entité connue au Belize et dans la région, permettant un rapatriement virtuel et symbolique plus large dans la région.  
+    
 abstract_es: >
-  Este ensayo analiza la primera entrega del conjunto de datos del proyecto, "Idioma, cultura e historia: Belice en la era digital," que se centra en la recuperación, preservación y repatriación de datos sociolingüísticos heredados a Belice. Este primer conjunto de datos, las Grabaciones más antiguas de las variedades beliceñas del español, son una colección de entrevistas sociolingüísticas realizadas a finales de los 70 en comunidades mestizas-mayas. Estas entrevistas son un registro del lenguaje tal como se usaba en una época anterior, así como narraciones del folclore comunitario y las creencias culturales. Reimaginando estos datos como patrimonio cultural y adoptando un marco decolonial, este artículo describe los pasos intencionales tomados para interrumpir el extractivismo típico, tanto de las instituciones de la memoria como de la investigación lingüística. Estos pasos incluyen la restitución y la repatriación, el acceso local, el desarrollo de capacidades y el cuestionamiento de las opiniones occidentales sobre la propiedad y la producción de conocimientos. En resumen, centra a las comunidades tanto a nivel local como regional, lo que incluye la opción de archivar (y eventualmente hacer pública) la colección a través de dLOC, una entidad conocida en Belice y la región, lo que permite una repatriación virtual y simbólica más amplia a la región. 
+   
 language: en
 pdf: true
 ---
 
-"I know the world by how I speak the world": TikTok ABCs, Disaster
-Language, and Andrew Salkey\'s *Hurricane*
 
 The "Trini Alphabet Series" was a Caribbean social media sensation
 created in 2020 by Stephon Felmine (@stephon23). In this series of
@@ -145,8 +144,8 @@ This dynamic between performer and audience on a social media platform
 can be better understood through reference to Trevor Boffone's
 *Renegades*. Analyzing how Generation Z uses dance and hip hop to
 fashion their identities in the United States, Boffone argues that
-"\[d\]igital spaces such as Dubsmash and TikTok allow Zoomers\-\--and
-especially teens of color\-\--to produce cultural content that, in turn,
+"\[d\]igital spaces such as Dubsmash and TikTok allow Zoomers---and
+especially teens of color---to produce cultural content that, in turn,
 facilitates young people's participation in an increasingly inclusive
 and democratized media culture."[^13] Given the capacity of these apps
 to launch users into widespread visibility and notwithstanding the
@@ -753,65 +752,54 @@ vernacular on social media are more likely to register as the dialect
 \"\[c\]aricature speaks in\" rather than as what Brathwaite names nation
 language.[^71]
 
-Bibliography
+---
+
+## Bibliography
 
 Abidin, Crystal. \"Mapping Internet Celebrity on TikTok: Exploring
-Attention Economies and
-
-Visibility Labours,\" *Cultural Science Journal* 12, no. 1 (2020):
-77--103,
-
-<https://doi.org/10.5334/csci.140>
+Attention Economies and Visibility Labours,\" *Cultural Science Journal* 12, no. 1 (2020):
+77--103, <https://doi.org/10.5334/csci.140>
 
 Boffone, Trevor. *Renegades:* *Digital Dance Cultures from Dubsmash to
-TikTok*. Oxford: Oxford
-
-University Press, 2021.
+TikTok*. Oxford: Oxford University Press, 2021.
 
 Brathwaite, Edward Kamau. *History of the Voice*. London: New Beacon
 Books, 1984.
 
 Buick, Tenn. \"Hindi/Guyanese Creole Challenge Pt. 7,\" Video, 00:39,
 October 20, 2020,
-<https://web.archive.org/web/20211222014832/https://www.tiktok.com/@tennbuick/video/6885832612460416262>.\
-\
+<https://web.archive.org/web/20211222014832/https://www.tiktok.com/@tennbuick/video/6885832612460416262>.
+
 Deckard, Sharae. \"The Political Ecology of Storms in the Caribbean.\"
 In *The Caribbean: Aesthetics, World-Ecology, Politics*, edited by Chris
 Campbell and Michael Niblett, 24-45. Liverpool: Liverpool University
 Press, 2016.
 
 Felix, Jonathan J. \"Culture Jamming in the Caribbean: A Case of
-Alternative Media through
-
-Double Alternativity in Trinidad and Tobago.\" *archipelagos: a journal
-of Caribbean*
-
-*digital praxis* 5 (December 2020): 1-28.
+Alternative Media through Double Alternativity in Trinidad and Tobago.\" *archipelagos: a journal of Caribbean digital praxis* 5 (December 2020): 1-28.
 
 Felmine, Stephon. \"Trini Alphabet Series: A is for Ah.\" Video, 00:21,
 September 24, 2020,
 https://web.archive.org/web/20210517152122/https://www.tiktok.com/@stephon23/video/6876192861981805825.
 
-\-\--. \"Trini Alphabet Series: B is for Braggadang.\" Video, 00:21,
+---. \"Trini Alphabet Series: B is for Braggadang.\" Video, 00:21,
 September 25, 2020,
 https://web.archive.org/web/20210517124550/https://www.tiktok.com/@stephon23/video/6876543232352750849.
 
-\-\--. \"Trini Alphabet Series: E is for Eh-heh.\" Video, 00:19,
+---. \"Trini Alphabet Series: E is for Eh-heh.\" Video, 00:19,
 September 29, 2020,
 <https://web.archive.org/web/20210517152619/https://www.tiktok.com/@stephon23/video/6877648583332482305>.
 
-\-\--. \"Trini Alphabet Series: L is for Lickrish.\" Video, 00:19,
+---. \"Trini Alphabet Series: L is for Lickrish.\" Video, 00:19,
 October 5, 2020,
 https://web.archive.org/web/20210521212749/https://www.tiktok.com/@stephon23/video/6880263506437033217.
 
-\-\--. \"Trini Alphabet Series: M is for Mamaguy.\" Video, 00:21,
+---. \"Trini Alphabet Series: M is for Mamaguy.\" Video, 00:21,
 October, 6 2020,
 <https://web.archive.org/web/20210521212940/https://www.tiktok.com/@stephon23/video/6880626990009847041>.
 
 Gal, Noam, Zohar Kampf, and Limor Shifman. \"SRSLY?? A Typology of
-Online Ironic
-
-Markers.\" *Information, Communication & Society* (September 2020):
+Online Ironic Markers.\" *Information, Communication & Society* (September 2020):
 1-18. <https://doi.org/10.1080/1369118X.2020.1814380>.
 
 Grizzle, Shereita. \"Drake is Fake! -- Mr. Vegas,\" *The Jamaica Star*
@@ -824,44 +812,28 @@ Straus and Giroux, 2016.
 iWitness News. \"Two Night on an Erupting Volcano.\" Facebook, April 14,
 2021, <https://www.facebook.com/iwnsvg/videos/381706549527009>
 
-\-\--. \"Two Nights on an Erupting Volcano.\" Video, 9:24, April 14,
+---. \"Two Nights on an Erupting Volcano.\" Video, 9:24, April 14,
 2021, <https://www.youtube.com/watch?v=oFfu1RDmZNg>.
 
 Josephs, Kelly Baker. \"Me, Myself, and Unno: Writing the Queer
-Caribbean Self into Digital
-
-Community.\" a*rchipelagos: a journal of Caribbean digital praxis* 5
-(2020): 6.
+Caribbean Self into Digital Community.\" a*rchipelagos: a journal of Caribbean digital praxis* 5 (2020): 6.
 
 Kennedy, Melanie. \"\'If the rise of the TikTok dance and e-girl
-aesthetic has taught us anything,
-
-it's that teenage girls rule the internet right now\': TikTok Celebrity,
-Girls and the
-
-Coronavirus Crisis.\" *European Journal of Cultural Studies* 23, no. 6
-(July 2020): 1069-76. https://doi: 10.1177/1367549420945341
+aesthetic has taught us anything, it's that teenage girls rule the internet right now\': TikTok Celebrity, Girls and the Coronavirus Crisis.\" *European Journal of Cultural Studies* 23, no. 6 (July 2020): 1069-76. https://doi:10.1177/1367549420945341
 
 Mendes-Franco, Janine. \"Caribbean Alphabet Series Provides Lots of
 Laughs on TikTok.\"
 
-*Global Voices* (Netherlands), October 15, 2020,
-<https://web.archive.org/web/20210526221358/https://globalvoices.org/2020/10/15/caribbean-alphabet-series-provides-lots-of-laughs-on-tiktok/>.
+*Global Voices* (Netherlands), October 15, 2020, <https://web.archive.org/web/20210526221358/https://globalvoices.org/2020/10/15/caribbean-alphabet-series-provides-lots-of-laughs-on-tiktok/>.
 
 Miller, Kei. *The Cartographer Tries to Map a Way to Zion*. Manchester:
 Carcanet Press, 2014.
 
-\-\--. \"An Interview with Kei Miller.\" An interview by Eleanor
-Wachtel, *Brick: A Literary Journal*,
-
-2018\.
-<https://web.archive.org/web/20210506182419/https://brickmag.com/an-interview-with-kei-miller/>.
+---. \"An Interview with Kei Miller.\" An interview by Eleanor
+Wachtel, *Brick: A Literary Journal*, 2018\. <https://web.archive.org/web/20210506182419/https://brickmag.com/an-interview-with-kei-miller/>.
 
 Meusa, Shamar. \"\'Wello\' Makes Waves with Guyanese Alphabet Series.\"
-*Stabroek News* 26
-
-(July 2020),
-<https://www.stabroeknews.com/2020/07/26/sunday/wello-makes-waves-with-guyanese-alphabet-series/>.
+*Stabroek News* 26 (July 2020), <https://www.stabroeknews.com/2020/07/26/sunday/wello-makes-waves-with-guyanese-alphabet-series/>.
 
 Neaves, Julien. "From ABC to 123, Trini Alphabet Guy Goes Viral."
 *Trinidad and Tobago*
@@ -870,118 +842,71 @@ Neaves, Julien. "From ABC to 123, Trini Alphabet Guy Goes Viral."
 <https://web.archive.org/web/20201117185825/https://newsday.co.tt/2020/11/10/from-abc-to-123-trini-alphabet-guy-goes-viral/>.
 
 Paravisini-Gebert, Lizabeth. "Mourning the Dead of St. Pierre in the
-Yellow Press." *Small Axe*
-
-*Salon* 12 (May 2013),
-https://web.archive.org/web/20210127160448/http://smallaxe.net/sxsalon/discussions/mourning-dead-st-pierre-yellow-press.
+Yellow Press." *Small Axe Salon* 12 (May 2013), https://web.archive.org/web/20210127160448/http://smallaxe.net/sxsalon/discussions/mourning-dead-st-pierre-yellow-press.
 
 Paul, Sean. "Jamaican Lingo Pt. 1." Video, 00:34, April 7, 2020.
 <https://web.archive.org/web/20211222014609/https://www.tiktok.com/@duttypaul/video/6948484636750220549>.
 
 Puri, Shalini. *The Grenada Revolution in the Caribbean Present:
-Operation Urgent Memory*.
-
-London: Palgrave MacMillan, 2014.
+Operation Urgent Memory*. London: Palgrave MacMillan, 2014.
 
 Salkey, Andrew. *Hurricane*. Leeds: Peepal Tree Press, 2011.
 
 Sands-O\'Connor, Karen. *Soon Come Home to This Island: West Indians in
-British Caribbean*
-
-*Literature*. New York: Routledge, 2008.
+British Caribbean Literature*. New York: Routledge, 2008.
 
 Schellewald, Andreas. \"Communicative Forms on TikTok: Perspectives from
-Digital
-
-Ethnography.\" *International Journal of Communication* 15 (2021):
+Digital Ethnography.\" *International Journal of Communication* 15 (2021):
 1437-57.
 
 Selvon, Samuel. *The Lonely Londoners*. London: Penguin, 2006.
 
-Simpson, Kwame. \"Arinj.\" Video, 00:13, May 22, 2020,
-https://web.archive.org/web/20210517150915/https://www.tiktok.com/@wellonyc/video/6829872495324155142.
+Simpson, Kwame. \"Arinj.\" Video, 00:13, May 22, 2020, https://web.archive.org/web/20210517150915/https://www.tiktok.com/@wellonyc/video/6829872495324155142.
 
-\-\--. \"the letter of the day!\" Video, 00:18, June 7, 2020,
-https://web.archive.org/web/20210517151749/https://www.tiktok.com/@wellonyc/video/6835776554933439750.
+---. \"the letter of the day!\" Video, 00:18, June 7, 2020, https://web.archive.org/web/20210517151749/https://www.tiktok.com/@wellonyc/video/6835776554933439750.
 
 Singh, Kris and Dale Tracy. \"Assuming Niceness: Private and Public
 Relationships in Drake\'s *Nothing Was the Same*.\" *Popular Music* 34,
 no. 1 (2015): 94-112.
 
-\-\--. \"Is Joke You Joking?\", *Pree: Caribbean. Writing* 3 (2019),
+---. \"Is Joke You Joking?\", *Pree: Caribbean. Writing* 3 (2019),
 <https://web.archive.org/web/20201201081351/https://preelit.com/2019/04/20/is-joke-you-joking/>.
 
 Smith, Clifford. \"MV Corner: Mr. Vegas Responds...\" Facebook, May 23,
-2016,
-
-<https://www.facebook.com/MrVegasMusic/videos/10154195593144486/>.
+2016, <https://www.facebook.com/MrVegasMusic/videos/10154195593144486/>.
 
 Smith, Zadie. \"Zadie Smith: By the Book.\" *The New York Times* (New
-York), November 17, 2016,
-<https://web.archive.org/web/20201112011909/https://www.nytimes.com/2016/11/20/books/review/zadie-smith-by-the-book.html>.
+York), November 17, 2016, <https://web.archive.org/web/20201112011909/https://www.nytimes.com/2016/11/20/books/review/zadie-smith-by-the-book.html>.
 
 Tootoolbay.com, \"Letter of the Day: T is for Tootoolbay.com\" Facebook,
-October 23, 2020,
-<https://www.facebook.com/tootoolbay/videos/649301035954820/>.
+October 23, 2020, <https://www.facebook.com/tootoolbay/videos/649301035954820/>.
 
 Zeng, Jing, Crystal Abidin, and Mike S. Schäfer, \"Research Perspectives
-on TikTok and Its
+on TikTok and Its Legacy Apps: Introduction.\" *International Journal of Communication* 15
+(2021): 3161-72.
 
-Legacy Apps: Introduction.\" *International Journal of Communication* 15
-(2021):
-
-3161-72.
-
-## Bio
-
-Kris Singh is a faculty member in the English Department at Kwantlen
-Polytechnic University. His scholarly and creative attention spans the
-legacy of indentureship, the relationships among writers of the
-Caribbean diaspora, and the ways in which social media and popular
-culture shape each other.
-
-## Abstract
-
-This paper considers how Caribbean ways of speaking map onto social
-media by analyzing two popular TikTok series as well as the testimony of
-a survivor of the 2021 eruption of La Soufrière that was widely
-circulated on Facebook. Understanding what Caribbean cultural production
-on social media entails means appreciating social media platforms like
-TikTok as commercial entities. As such, they define what can be produced
-and influence what audiences are likely to register as funny. Though
-Caribbean people\'s representations of themselves may seem more
-accessible than ever, the ways in which we hear each other on social
-media remains unevenly defined. Juxtaposing this consideration of the
-Caribbean digital landscape with Andrew Salkey\'s *Hurricane*, I argue
-that the connotations that social media usages of vernacular have
-accumulated risk compromising the opportunities for ideological
-inspection that fictional and non-fictional representations of disaster
-make possible.
 
 ---
 
+## Notes
+
 [^1]: Stephon Felmine, \"Trini Alphabet Series: L is for Lickrish,\"
-    TikTok Video, Oct 5, 2020
-    https://web.archive.org/web/20210521212749/https://www.tiktok.com/@stephon23/video/6880263506437033217
+    TikTok Video, Oct 5, 2020 https://web.archive.org/web/20210521212749/https://www.tiktok.com/@stephon23/video/6880263506437033217
 
     Stephon Felmine, \"Trini Alphabet Series: M is for Mamaguy,\" TikTok
-    Video, Oct 6, 2020
-    <https://web.archive.org/web/20210521212940/https://www.tiktok.com/@stephon23/video/6880626990009847041>
+    Video, Oct 6, 2020 https://web.archive.org/web/20210521212940/https://www.tiktok.com/@stephon23/video/6880626990009847041
 
 [^2]: Stephon Felmine, \"Trini Alphabet Series: B is for Braggadang,\"
-    TikTok Video, Sept 25, 2020
-    https://web.archive.org/web/20210517124550/https://www.tiktok.com/@stephon23/video/6876543232352750849
+    TikTok Video, Sept 25, 2020 https://web.archive.org/web/20210517124550/https://www.tiktok.com/@stephon23/video/6876543232352750849
 
 [^3]: Stephon Felmine, \"Trini Alphabet Series: E is for Eh-heh,\"
-    TikTok Video, Sept 29, 2020
-    <https://web.archive.org/web/20210517152619/https://www.tiktok.com/@stephon23/video/6877648583332482305>
+    TikTok Video, Sept 29, 2020 https://web.archive.org/web/20210517152619/https://www.tiktok.com/@stephon23/video/6877648583332482305
 
 [^4]: Kei Miller, *The Cartographer Tries to Map a Way to Zion*
     (Manchester: Carcanet Press, 2014).
 
 [^5]: Kei Miller, \"An Interview with Kei Miller,\" interview by Eleanor
-    Wachtel, *Brick: A Literary Journal* (2018): no pages.
-    <https://web.archive.org/web/20210506182419/https://brickmag.com/an-interview-with-kei-miller/>
+    Wachtel, *Brick: A Literary Journal* (2018): no pages. https://web.archive.org/web/20210506182419/https://brickmag.com/an-interview-with-kei-miller/
 
 [^6]: Miller, \"An Interview with Kei Miller.\"
 
@@ -990,25 +915,19 @@ make possible.
     of speaking aside from what is formally recognized as Standard
     English or popularly referred to as proper English.
 
-[^8]: Sean Paul, \"Jamaican Lingo Pt. 1,\" TikTok Video (Apr 7, 2020),
-    https://web.archive.org/web/20211222014609/https://www.tiktok.com/@duttypaul/video/6948484636750220549
+[^8]: Sean Paul, \"Jamaican Lingo Pt. 1,\" TikTok Video (Apr 7, 2020), https://web.archive.org/web/20211222014609/https://www.tiktok.com/@duttypaul/video/6948484636750220549
 
 [^9]: Tenn Buick, \"Hindi/Guyanese Creole Challenge Pt. 7,\" TikTok
-    Video (Oct 20, 2020),
-    <https://web.archive.org/web/20211222014832/https://www.tiktok.com/@tennbuick/video/6885832612460416262>
+    Video (Oct 20, 2020), https://web.archive.org/web/20211222014832/https://www.tiktok.com/@tennbuick/video/6885832612460416262
 
 [^10]: A dispute between Simpson and Felmine regarding intellectual
     property emerged. See Janine Mendes-Franco, \"Caribbean Alphabet
     Series Provides Lots of Laughs on TikTok,\" *Global Voices* (15
-    October 2020): no pages,
-    <https://web.archive.org/web/20210526221358/https://globalvoices.org/2020/10/15/caribbean-alphabet-series-provides-lots-of-laughs-on-tiktok/>
+    October 2020): no pages, https://web.archive.org/web/20210526221358/https://globalvoices.org/2020/10/15/caribbean-alphabet-series-provides-lots-of-laughs-on-tiktok/
 
-[^11]: Kwame Simpson, \"Arinj,\" TikTok Video (22 May 2020),
-    https://web.archive.org/web/20210517150915/https://www.tiktok.com/@wellonyc/video/6829872495324155142
+[^11]: Kwame Simpson, \"Arinj,\" TikTok Video (22 May 2020), https://web.archive.org/web/20210517150915/https://www.tiktok.com/@wellonyc/video/6829872495324155142
 
-[^12]: Shamar Meusa, \"\'Wello\' Makes Waves with Guyanese Alphabet
-    Series,\" *Stabroek News* (26 July 2020),
-    <https://www.stabroeknews.com/2020/07/26/sunday/wello-makes-waves-with-guyanese-alphabet-series/>
+[^12]: Shamar Meusa, \"\'Wello\' Makes Waves with Guyanese Alphabet Series,\" *Stabroek News* (26 July 2020), https://www.stabroeknews.com/2020/07/26/sunday/wello-makes-waves-with-guyanese-alphabet-series/>
 
 [^13]: Trevor Boffone, *Renegades:* *Digital Dance Cultures from
     Dubsmash to TikTok* (Oxford: Oxford UP, 2021), 12.
