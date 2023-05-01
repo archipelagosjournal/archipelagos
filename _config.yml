@@ -13,7 +13,7 @@ description:         'a journal of Caribbean digital praxis'
 url:                 "http://archipelagosjournal.org"
 baseurl:             ''
 future:               True
-incremental:          True
+incremental:          False
 
 # Misc 
 
