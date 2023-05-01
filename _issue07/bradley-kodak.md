@@ -97,7 +97,7 @@ occupation---and because of our team's work pulling photos from the
 binding of the U.S. Marines' wartime compilation. The website's base map
 gallery allows users to change the map format beneath the aerial photos
 to generate a picture of how road systems, urban areas, rural zones, and
-coastlines have transformed over the last near-century. zoom tool and a
+coastlines have transformed over the last near-century. The zoom tool's
 shift of scale reveal the aerial photograph's meticulous contours of
 roads, grids of city blocks, tree cover, and coastlines as they appeared
 in 1932. Waves, captured breaking onto a beach ninety years ago, are
@@ -115,7 +115,7 @@ between sets of points across time, between captured space in one
 political moment and its future anchor on the earth's surface? The
 practice of transforming these occupation-era snapshots into a map and
 effectively bringing 1932 to meet 2021 was not benign; the act of
-elevating reconnaissance photography into cartography---seemed to endow
+elevating reconnaissance photography into cartography seemed to endow
 these surveillance objects with more power, greater legitimacy.
 
 As we attributed coordinates to the photos, I was reminded of Vincent
@@ -221,7 +221,7 @@ layouts and for managing time and labor to generate profits. As the
 latest technology of modernity in 1932, the marines' airborne camera
 oversaw not only one plantation but the entire western half of
 Hispaniola; to extract labor and sugar from a whole country demanded a
-new sca[le of hypervisual]{.mark} surveillance. The *Monograph* photos
+new sca[le of hyper-visual surveillance. The *Monograph* photos
 themselves embody traces left by this "plantation complex of visuality,"
 whose spatial logics continue to undergird forms of racialized
 surveillance.[^12] Furthermore, this visual power acts forcefully on
@@ -237,20 +237,20 @@ Black fugitivity and Indigenous resistance."[^13] The *Monograph*'s
 aerial surveillance photos are a 20th-century iteration of a
 longstanding western imperial tradition in which mapping techniques act
 as symbolic arsenals that differentiate and solidify hierarchies of
-humanness throu[gh what and how they represent. From colon]{.mark}ial
+humanness through what they represent and how they represent it. From colonial
 cartography to aerial photography to mapping technologies used in this
 project, mobilized for racialized forms of policing and military
 surveillance, the construction of a dominant subject via views from
 above requires the denial of subjecthood of those observed. The
 overseeing geographic subject, agent of plantation visuality, creates
-itself [by fixing its]{.mark} others and their meaningful places as
+itself by reifying its Others and their meaningful places as
 objects. As Katherine McKittrick succinctly contends, "past colonial
 encounters created material and imaginative geographies that reified
 global segregations through 'damning' the spaces long occupied by Man's
 human others."[^14]
 
 While handling the 1932 images, I was struck by these photos'
-resemblance to their 18^th^ century counterparts, the intricate maps
+resemblance to their 18^th^ Century counterparts, the intricate maps
 produced by colonial era cartographers in Saint-Domingue. Because these
 cartographers also focused on towns and plantation regions, their maps
 represent many of the areas depicted in the *Monograph*'s photos. On the
@@ -331,9 +331,9 @@ embodied refusal of occupying forces.
 The creation of the white geographic/cartographic subject in tandem with
 overseeing relies upon the notion of transparency and the creation of
 transparent space, where making transparent can be understood as
-violating Glissant's right to opacity.[^18] In contexts of slavery and
-post-slavery, a consistent goal and method of oppressors is to capture
-through total comprehension of the other. Pushing up against this
+violating Glissant's right to opacity.[^18] In the contexts of slavery and
+post-slavery, a consistent goal and method of oppressors was to capture the other
+through total comprehension. Pushing up against this
 violent drive towards transparency, then, many scholars identify Black
 geographic knowledge and placemaking as (not exclusively, but
 significantly) informed by fugitivity and furtivity; uncontainability
@@ -381,7 +381,7 @@ labor, earlier freedom efforts by Caco rebels haunt the pages of the
 attention given to "Bandit Areas" as subheadings in descriptions of
 regional military departments. For example, in the Department of the
 Center, rural sections of Coupe Mardi Gras and Riviere Canot
-(Mirebalais) "appear to offer nests where bandits can hide;" in the
+(Mirebalais) "appear to offer nests where bandits can hide" in the
 Department of the West, "the whole chain to the northwest, and the
 Montagnes Noires are places best suited to the free display of bandit
 activities."[^23]
@@ -398,10 +398,7 @@ Pauleus Sannon, the "Tacco d'Hispaniola," the Hispaniolan lizard cuckoo
 (*Coccyzus lognirostris*).[^24] Both are forest-dependent bird species
 that forage in dense vegetation and nest in tree cavities. Sannon writes
 that peasant guerillas used to hide, like their avian namesake, under
-plant matter to surprise and attack their adversaries. Corrupted as
-'Cacos,' the nickname of 'Tacos' was given to the insurgents because
-they used to hide, like the bird of the same name, underneath foliage to
-surprise and attack the enemy: "*devenus par corruption Cacos, le
+plant matter to surprise and attack their adversaries. "*Devenus par corruption Cacos, le
 sobriquet de Tacos fut donné aux insurgés, parce qu'ils se cachaient,
 comme l'oiseau de ce nom, sous la feuillée pour surprendre et attaquer
 l'ennemi*."[^25]
@@ -750,7 +747,8 @@ invisible worlds.
 [^24]: Horace Pauleus Sannon, *Histoire de Toussaint Louverture*
     (Port-au-Prince: A Heraux, 1938), 142.
 
-[^25]: Sannon, *Histoire,* 142.
+[^25]: "Corrupted as 'Cacos,' the nickname of 'Tacos' was given to the insurgents because
+they used to hide, like the bird of the same name, underneath foliage to surprise and attack the enemy." Sannon, *Histoire,* 142.
 
 [^26]: John Tierney, Jr. "America's 'Black Vietnam': Haiti's Cacos vs.
     The Marine Corps, 1915-22," *The Institute of World Politics,*
