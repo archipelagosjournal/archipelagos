@@ -122,7 +122,7 @@ humanities project based out of Duke University from c. 2019-2022,
 graduate students, faculty, and librarians from five disciplines and
 three institutions interested in this question: how can we use digital
 tools to represent, and possibly memorialize, enslaved Africans who died
-along the Middle Passage? The major outcomes of this project are published on our website, [Remembering the Middle Passage](http://rememberingthemiddlepassage.com/) and
+along the Middle Passage? The major outcomes of this project are published on our website, [Remembering the Middle Passage](http://rememberingthemiddlepassage.com/), and
 include both a map of where individuals' deaths occurred along the
 voyage of the slave ship the *Good Hope* in 1757, as well as a
 speculative retelling of one of those individual's life story. While
