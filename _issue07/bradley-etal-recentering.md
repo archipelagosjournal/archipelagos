@@ -125,7 +125,7 @@ tools to represent, and possibly memorialize, enslaved Africans who died
 along the Middle Passage? The major outcomes of this project are published on our website, [Remembering the Middle Passage](http://rememberingthemiddlepassage.com/) and
 include both a map of where individuals' deaths occurred along the
 voyage of the slave ship the *Good Hope* in 1757, as well as a
-speculative retelling of one of those individuals' life story. While
+speculative retelling of one of those individual's life story. While
 interest in maps has been a consistent preoccupation of Middle Passage
 scholarship, as seen most recently in essays by Jamila Moore Pewu and
 others in *The Digital Black Atlantic*, there exist markedly few maps of
@@ -150,7 +150,7 @@ logics of colonial cartographic practices. Visually rendering where in
 the Atlantic Ocean these deaths occurred led us to speculate about the
 individual persons behind, and in some sense obscured by, the markers on
 our map. Inspired by the work of scholar Saidiya Hartman, we decided to
-attempt a "critical fabulation" of one of those persons' life
+attempt a "critical fabulation" of one of those person's life
 experiences. In the penultimate section, we reflect on the intellectual
 and creative gains afforded by combining critical fabulation and digital
 humanities methodologies, attending to how these methodologies can
@@ -187,8 +187,8 @@ large datasets might provide specific GIS points where enslaved people
 died and thus help us in our overall purpose of site-based
 memorialization. We limited our search to British voyages, whose records
 would be in English, that were cross-listed in both the *Slave Voyages*
-and the [CLIWOC](https://webs.ucm.es/info/cliwoc/)
-(Climatological Database of the World's Oceans) databases, as
+and [CLIWOC](https://www.historicalclimatology.com/cliwoc.html)
+(Climatological Database of the World's Oceans), as
 CLIWOC provided geocoordinates. By cross-referencing these datasets, we
 hoped to use the advantages of mass data for the purposes of locating
 individuals' places of death. In this way, we sought to acknowledge the
@@ -336,19 +336,18 @@ deaths such as this one---evidence of which appears in the archive as
 fleetingly and mundanely as the day's weather---while also shedding
 light on the agency of captive Africans in their deaths.
 
-img=\"Good_Hope_Logbook_p7.jpg\"
-
-title=\"Figure 1\"
-
-caption=\"The logbook of the *Good Hope*, courtesy of the Connecticut
-State Library\"
+{% include image.html
+    img="issue07/logbook.jpg"
+    title="The logbook of the *Good Hope*"
+    caption="Figure 1. The logbook of the *Good Hope*, courtesy of the Connecticut State Library"
+%}
 
 Working with the Center for Data Visualization Sciences at Duke
 University, we were able to input this historical data into modern GIS
 software and, in doing so, draw a digital and visual link between the
 events of 1757 and the (present, enduring) units of ocean-space where
 these events took place, marking with modern technology and in our own
-time the scenes of these [past crimes]{.mark}. At this point, we had a
+time the scenes of these past atrocities. At this point, we had a
 map that realized our goal of accurately locating the deaths of enslaved
 people in the Middle Passage, albeit on quite a small scale. However,
 the map itself, and the methods we used to produce it, generated their
@@ -399,18 +398,16 @@ experiential or transformative element of the Middle Passage, or what
 Sowandé M. Mustakeem calls the "human manufacturing process" of the
 transatlantic slave trade.[^28] That is to say, we wanted to avoid the
 empiricist trap that comes from the certainty of mapping while
-simultaneously acknowled[ging, ethically if not]{.mark} empirically, the
-atrocities that transpired on the *Good Hope*. In one sense, we need
+simultaneously acknowledging the atrocities that transpired on the *Good Hope*. In one sense, we need
 technologies such as GIS in order to make the ship's voyage visible, but
 in another, as critical humanists, it behooves us to trouble and add
 dimensionality to the dots and lines of the journey.
 
-img=\"Good_Hope_Voyage_GIS.png\"
-
-title=\"Figure 2\"
-
-> caption=\"GIS rendering of the voyage of the *Good Hope*, the base map
-> for which emphasizes the ocean\"
+{% include image.html
+    img="issue07/gis.png"
+    title="GIS rendering of the voyage of the *Good Hope*"
+    caption="Figure 2. GIS rendering of the voyage of the *Good Hope*, the base map for which emphasizes the ocean"
+%}
 
 ## 4. Critical Fabulation and the Digital
 
@@ -461,8 +458,7 @@ many of the insights in his 2020 book *Tacky's Revolt: The Story of an
 Atlantic Slave War*.[^32]
 
 In our case, the work of digital mapping brought us into close contact
-with an [individual's death. Above, we refer to a logbook entry
-describing the death of a "small boy slave" who "]{.mark}at 3 am died
+with an individual's death. In the previous section, we referred to an entry in the  *Good Hope* logbook that describes the death of a "small boy" who "at 3 am died
 ... with a flux" fourteen days into the journey of the *Good Hope*. This
 entry initially captured our attention because it was one of the few
 recorded deaths in the logbook that had a modifier, "small," before the
@@ -501,10 +497,7 @@ involving archival objects like the logbook of the *Good Hope* cannot
 put sufficient distance between enslavers' observations and the violence
 done to people like the small boy.
 
-[To achieve this distance and to re-read the modifier "small" as a
-possible opening into the subjectivities and humanity of the enslaved,
-we turned to the methodology of critical fabulation, as practiced and
-theorized by Saidiya Hartman.]{.mark} In her conceptualization of the
+To better achieve this distance, we turned to the methodology of critical fabulation, as practiced and theorized by Saidiya Hartman. In her conceptualization of the
 methodology, Hartman draws from the following descriptions of fabula:
 "denotes the basic elements of story, the building blocks of the
 narrative ... \[a\] series of logically and chronologically related
@@ -528,7 +521,7 @@ the *Good Hope*. Our critical fabulation of the circumstances of the
 small boy's death is [published on our
 website](http://rememberingthemiddlepassage.com/#small_boy)
 and weaves together (retro-)speculative accounts of the boy's childhood,
-family, illness, and eve[ntual passing.]{.mark} For us, the radical
+family, illness, and burial. For us, the radical
 individuation of critical fabulation provided a counterhistory to the
 dehumanizing drive of slavery's archive, restoring the kinship and
 tribal connections of the dead and reminding us of the funerary
@@ -538,7 +531,7 @@ Middle Passage, even the several "small boys" and girls who died on the
 1757 voyage of the *Good Hope*, came at its own cost. Indeed, it tends
 to obscure the fact that complete disaggregation is impossible. Small
 Boy can never be just one small boy who died of flux during his Middle
-Passage journe[y; like Har]{.mark}tman's Venus, he will always carry the
+Passage journey. Like Hartman's Venus, he will always carry the
 "immeasurable weight of black lives made barely knowable by the violence
 of racial slavery."[^37] Our speculation of what he could have
 experienced on the *Good Hope*, his potential kinship networks, and the
@@ -638,17 +631,16 @@ acts that transpired on the deck of a slave ship, the *Recovery* (1791),
 reconfiguring the legal testimony given by its captain in the course of
 legal proceedings against him. Whereas Hartman's narrative rests on the
 liminal deck of the slave ship, our own digital work uses geospatial
-data to precisely situate a different slave ship [in the ocean,]{.mark}
+data to precisely situate a different slave ship in the ocean space,
 including the persons held captive in its hold. Visualizing this
 otherwise unmarked space, and anchoring it in specific coordinates,
-provided us wit[h an interface upo]{.mark}n which to critically fabulate
+provided us with an basis upon which to critically fabulate
 the narrative of a death that, in its mundaneness, does not appear in
 the printed archive (e.g., in legal records, newspaper reports, etc.) as
 Venus's does. Unlike Venus, the small boy was not identified as a victim
 in a murder trial; his death, like those of countless others, was the
 consequence of an illness that, while endemic, was not unavoidable, and
-for which his enslavers bore respons[ibility. Nevertheless,
-mapp]{.mark}ing the site of the small boy's death reveals the site where
+for which his enslavers bore responsibility. Mapping the site of the small boy's death reveals the site where
 a historical injustice occurred. Locating and visualizing this site
 renders more proximate the conditions that caused the small boy's
 premature death and therefore provides a material point of departure for
@@ -659,7 +651,7 @@ creative reckonings with his life lived and life lost.
 For our research collective, the combination of critical fabulation and
 digital methods proved a compelling way to take up the mantle of Black
 digital practice, "chart\[ing\] a path against the drive for data" and
-expanding on the unquantifiable.[^46] Imagining in a subjunctive mode
+expanding on the unquantifiable.[^46] Imagining in a subjunctive mood
 the life story of the small boy referenced in Gould's logbook entry
 enabled an epistemic shift towards the "more just and humane productions
 of knowledge" that Johnson calls for.[^47] We have argued that critical
@@ -712,7 +704,7 @@ the master's house, we remain committed to and encouraged by the
 participatory possibilities of the digital as a platform for research
 and conversations about the histories and legacies of slavery. Our own
 work is published on an open-access website. And, in January 2021, we
-hosted a virtua[l conference ins]{.mark}pired by our project in which
+hosted a virtual conference inspired by our project in which
 talks from historian Jessica Marie Johnson, economist William A. Darity
 Jr., folklorist A. Kirsten Mullen, and community activist Pierce Freelon
 addressed an audience of nearly two hundred geographically disparate and
@@ -725,154 +717,14 @@ etc.---and it is in this spirit that we share with the readers of
 *archipelagos* these reflections on our own digital experiments with
 representing Middle Passage mortality.
 
-## Bibliography
 
-> Brown, Vincent. "Mapping a Slave Revolt: Visualizing Spatial History
-> through the Archive of Slavery." *Social Text* 125 (2015): 134-141.
->
-> \-\--. *Reaper's Garden: Death and Power in the World of Atlantic
-> Slavery.* Cambridge, MA: Harvard University Press, 2010.
->
-> D'Ignazio, Catherine, and Lauren F. Klein. *Data Feminism*. Cambridge,
-> MA: MIT Press, 2020.
->
-> [Gould, Samuel. Log book of slave traders between New London, Conn.
-> and Africa, 1757-58. Connecticut State Library, Harford,
-> CT.]{.underline} [http://hdl.handle.net/11134/30002:\
-> 22229874](http://hdl.handle.net/11134/30002:22229874)[.]{.underline}
->
-> Gross, Ariela. "'A Crime Against Humanity': Slavery and The Boundaries
-> of Legality, Past and Present." *Law and History Review* 35, no. 1
-> (2017): 1-8.
->
-> Hacking, Ian. "Biopower and the Avalanche of Printed Numbers."
-> *Humanities in Society* 5 (1982): 279-295.
->
-> Hamilton, Njelle W. *Phonographic Memories: Popular Music and the
-> Contemporary Caribbean Novel*. New Brunswick, NJ: Rutgers University
-> Press, 2019.
->
-> Hartman, Saidiya. "The Dead Book Revisited." *History of the Present*
-> 6, no. 2 (2016): 208-15.
-
-\-\--. "Venus in Two Acts." *Small Axe* 12, no. 2 (2008): 1-14.
-
-> \-\--. *Wayward Lives, Beautiful Experiments: Intimate Histories of
-> Riotous Black Girls, Troublesome Women, and Queer Radicals*. New York:
-> Norton, 2019.
->
-> Heller, Charles, and Lorenzo Pezzani. "The Left-to-Die Boat."
-> *Forensic Architecture*. 04 November 2012.
-> https://forensic-architecture.org/investigation/the-left-to-die-boat.
->
-> Johnson, Jessica Marie. "Markup Bodies: Black \[Life\] Studies and
-> Slavery \[Death\] Studies at the Digital Crossroads." *Social Text*
-> 36, no. 4 (2018): 57-97.
->
-> Kahn, Andrew and Jamelle Bouie. "The Atlantic Slave Trade in Two
-> Minutes: 315 Years. 20,528 Voyages. Millions of Lives. *Slate
-> Magazine*. 16 September 2021.
-> https://slate.com/news-and-politics/2021/09/atlantic-slave-trade-history-animated-interactive.html.
-> Accessed 16 August 2022.
->
-> King, Tiffany Lethabo. *The Black Shoals: Offshore Formations of Black
-> and Native Studies*. Durham, NC: Duke University Press, 2019.
->
-> Kirschenbaum, Matthew. "Digital Humanities as/is a Tactical Term." In
-> *Debates in the Digital Humanities*. Ed. Matthew K. Gould.
-> Minneapolis: University of Minnesota Press, 2012: 415-28.
->
-> Levenson, Michael. "Last Known Slave Ship Is Remarkably Well
-> Preserved, Researchers Say." *New York Times*. 25 December 2021.
-> https://www.nytimes.com/2021/12/25/us/clotilda-slaveship-africa-alabama.html.
-> Accessed 29 August 2022.
->
-> Lunenfeld, Peter, Todd Pressner, Jeffrey Schnapp, et al. "The Digital
-> Humanities Manifesto 2.0." 2009.
-> http://www.humanitiesblast.com/manifesto/Manifesto_V2.pdf. Accessed 17
-> August 2022.
->
-> McKittrick, Katherine. *Dear Science and Other Stories*. Durham, NC:
-> Duke University Press, 2021.
->
-> McKittrick, Katherine, and Clyde Woods. "No One Knows the Mysteries at
-> the Bottom of the Ocean." In *Black Geographies and the Politics of
-> Place*. Ed. Katherine McKittrick and Clyde Woods. Toronto: Between the
-> Lines, 2007.
->
-> Morgan, Jennifer L. *Reckoning with Slavery: Gender, Kinship, and
-> Capitalism in the Early Black Atlantic.* Durham, NC: Duke University
-> Press, 2021.
->
-> Mustakeem, Sowande' M. *Slavery at Sea: Terror, Sex, and Sickness in
-> the Middle Passage*. Champaign: University of Illinois Press, 2016.
->
-> Pewu, Jamila Moore. "Digital Reconnaissance: Re(Locating) Dark Spots
-> on a Map." In *The Digital Black Atlantic*. Ed. Roopika Risam and
-> Kelly Baker Josephs. Minneapolis: University of Minnesota Press, 2021.
-> 108-20.
->
-> Philip, M. NourbSe. *Zong! As Told to the Author by Setaey Adamu
-> Boateng.* Middletown: Wesleyan University Press, 2008.
->
-> Poovey, Mary. *A History of the Modern Fact: Problems of Knowledge in
-> the Sciences of Wealth and Society*. Chicago: University of Chicago,
-> 1998.
->
-> Prince, Alanna, and Cara Marta Messina. "Black Digital Humanities for
-> the Rising Generation." *Digital Humanities Quarterly* 16, no. 3
-> (2022):
-> http://www.digitalhumanities.org/dhq/vol/16/3/000645/000645.html.
->
-> Rediker, Marcus. *The Slave Ship: A Human History*. London: John
-> Murray, 2007.
->
-> Reed, Jennifer. "Representing Sexual Violation in the Archive of
-> Caribbean Enslavement." *Studies in Eighteenth-Century Culture* 49
-> (2020): 89-107.
->
-> Rosenthal, Caitlin*. Accounting for Slavery: Masters and Management*.
-> Cambridge, MA: Harvard University Press, 2018.
->
-> Rusert, Britt. "New World: The Impact of Digitization on the Study of
-> Slavery." *American Literary History* 29, no. 2 (2017): 267-286.
->
-> *Slave Voyages Database.* https://www.slavevoyages.org. Accessed 16
-> August 2022.
->
-> Sluyter, Andrew. "Death on the Middle Passage: A Cartographic Approach
-> to the Atlantic Slave Trade." *Esclavages & Post-Esclavages / Slavery
-> & Post-Slaveries* 3 (2020): 1-19.
-
-\-\--. *The Atlantic Networks Project*.
-https://sites.google.com/site/atlanticnetworksproject.
-
-Accessed 16 August 2022.
-
-> Smallwood, Stephanie E. *Saltwater Slavery: A Middle Passage from
-> Africa to American Diaspora*. Cambridge, MA: Harvard University Press,
-> 2008.
->
-> \-\--. "The Politics of the Archive and History's Accountability to
-> the Enslaved." *History of the Present* 6, no. 2 (2016): 117-32.
->
-> Steinberg, Philip E. *The Social Construction of the Ocean.*
-> Cambridge: Cambridge University Press, 2001.
->
-> Walcott, Derek. "The Sea is History." *Paris Review* 74 (1978):
-> 115-17.
->
-> Wilson, Matthew W. *New Lines: Critical GIS and the Trouble of the
-> Map.* Minneapolis: University of Minnesota Press, 2017.
 
 ---
 
 
 
-[^1]: [Log book of slave traders between New London, Conn. and Africa,
-    1757-58 by Samuel Gould, Connecticut State Library, Harford,
-    CT,]{.underline}
-    <http://hdl.handle.net/11134/30002:22229874>[.]{.underline}
+[^1]: "[Log book of slave traders between New London, Conn. and Africa,
+    1757-58 by Samuel Gould](http://hdl.handle.net/11134/30002:22229874)," Connecticut State Library, Harford, CT.
 
 [^2]: Britt Rusert, "New World: The Impact of Digitization on the Study
     of Slavery," *American Literary History* 29, no. 2 (2017), p. 270.
@@ -910,10 +762,9 @@ Accessed 16 August 2022.
     Wealth and Society* (Chicago: University of Chicago Press, 1998); as
     well as Morgan, *Reckoning with Slavery*.
 
-[^7]: See Alanna Prince and Cara Marta Messina, "Black Digital
-    Humanities for the Rising Generation," *Digital Humanities
-    Quarterly* 16, no. 3 (2022),
-    <http://www.digitalhumanities.org/dhq/vol/16/3/000645/000645.html>.
+[^7]: See Alanna Prince and Cara Marta Messina, "[Black Digital
+    Humanities for the Rising Generation](http://www.digitalhumanities.org/dhq/vol/16/3/000645/000645.html)," *Digital Humanities
+    Quarterly* 16, no. 3 (2022).
 
 [^8]: Roopika Risam and Kelly Baker Josephs, eds., *The Digital Black
     Atlantic* (Minneapolis: University of Minnesota Press, 2021). In her
@@ -926,10 +777,8 @@ Accessed 16 August 2022.
     volume, the short answer is yes" (p. 110).
 
 [^9]: Andrew Sluyter has previously attempted to map mortality on board
-    Dutch slaving voyages. See Andrew Sluyter, *The Atlantic Networks
-    Project*,
-    [https://sites.google.com/site/atlanticnetworksproject](https://sites.google.com/site/atlanticnetworksproject),
-    accessed 16 August 2022; and Andrew Slutyer, "Death on the Middle
+    Dutch slaving voyages. See Andrew Sluyter, [The Atlantic Networks
+    Project](https://sites.google.com/site/atlanticnetworksproject), accessed 16 August 2022; and Andrew Slutyer, "Death on the Middle
     Passage: A Cartographic Approach to the Atlantic Slave Trade,"
     *Escalvages & Post-Escalvages / Slavery & Post-Slaveries* 3 (2020),
     pp. 1-19.
@@ -974,7 +823,7 @@ Accessed 16 August 2022.
     Garden: Death and Power in the World of Atlantic Slavery*
     (Cambridge, MA: Harvard University Press, 2010), pp. 28-29.
 
-[^15]: See p. 3 above as well as Saidiya Hartman, "Venus in Two Acts,"
+[^15]: See the previous section as well as Saidiya Hartman, "Venus in Two Acts,"
     *Small Axe* 12, no. 2 (2008), pp. 1-14; M. NourbSe Philip, *Zong! As
     Told to the Author by Setaey Adamu Boateng* (Middletown: Wesleyan
     University Press, 2008), pp. 108-207.
@@ -1017,10 +866,8 @@ Accessed 16 August 2022.
 
 [^22]: Dr. Delgado has recently been involved with the excavation of the
     *Clotilda*, the last known slave ship to land in the United States.
-    See Michael Levenson, "Last Known Slave Ship Is Remarkably Well
-    Preserved, Researchers Say," *New York Times*, 25 December 2021,
-    [https://www.nytimes.com/2021/12/25/us/clotilda-slaveship-africa-alabama.\
-    html](https://www.nytimes.com/2021/12/25/us/clotilda-slaveship-africa-alabama.html),
+    See Michael Levenson, "[Last Known Slave Ship Is Remarkably Well
+    Preserved, Researchers Say](https://www.nytimes.com/2021/12/25/us/clotilda-slaveship-africa-alabama.html)," *New York Times*, 25 December 2021,
     accessed 29 August 2022.
 
 [^23]: In the logbook of the *Good Hope*, latitudinal and longitudinal
@@ -1073,7 +920,7 @@ Accessed 16 August 2022.
     Eighteenth-Century Culture* 49 (2020), p. 94. Reed reflects on the
     connotations of different colors and the ways in which color choices
     can support or undermine the aims of digital humanities projects.
-    Regarding her own work in mapping were enslaved persons were
+    Regarding her own work in mapping where enslaved persons were
     sexually violated, she writes, "\[t\]he use of color in such a map
     is particularly sensitive, given a context in which the pigmentation
     of skin determined vulnerability to myriad abuses" (p. 96).
@@ -1082,10 +929,7 @@ Accessed 16 August 2022.
     in the Middle Passage* (Champaign: University of Illinois Press,
     2016), p. 6, *passim*.
 
-[^29]: Peter Lunenfeld, Todd Pressner, Jeffrey Schnapp, et al., "The
-    Digital Humanities Manifesto 2.0," 2009,
-    [http://www.humanitiesblast.com/manifesto/Manifesto_V2.pdf](http://www.humanitiesblast.com/manifesto/Manifesto_V2.pdf),
-    accessed 17 August 2022, p.5; emphasis added.
+[^29]: Peter Lunenfeld, Todd Pressner, Jeffrey Schnapp, et al., "[The Digital Humanities Manifesto 2.0](http://www.humanitiesblast.com/manifesto/Manifesto_V2.pdf)," 2009, accessed 17 August 2022, p.5; emphasis added.
 
 [^30]: Ibid., p. 13. Cf. Matthew Kirschenbaum, "Digital Humanities as/is
     a Tactical Term," in *Debates in the Digital Humanities*, ed.
