@@ -10,9 +10,9 @@ author:
   shortname: Gelbard
   bio: >
     Alexandra P. Gelbard is an interdisciplinary social scientist, completing her Ph.D. in Global and Sociocultural Studies with a concentration in Sociology at Florida International University in 2023. Her academic work engages African Diaspora community formation in Cuba, religion, cultural production, and street processionals. Her dissertation and current book project examine these themes within the Los Hoyos community of Santiago de Cuba and the traditional popular music genre of conga. She is originally from Washington, D.C. where she learned rhythm through its locally distinctive musical genre of Go-Go; her broader research scope encompasses African Diasporic cultural, spiritual, and liberatory connectivity across the Atlantic world. She is also a photographer and is committed to integrating academic knowledge production and public scholarship through creative, accessible means. This includes experience within radio broadcasting, museum exhibitions, facilitating cultural exchanges between Cuban and U.S. artists, and additional consultancies with performing artists.
-date: December 2020
+date: May 2023
 issue: 7
-order: 1
+order: 3
 image: images/issue07/cabildo.jpg
 thumb: images/issue07/cabildo-thumb.jpg
 link: "https://cabildoderegla.org/"
