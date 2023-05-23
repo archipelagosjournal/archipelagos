@@ -1476,7 +1476,7 @@ appropriation, and mindless enjoyment.
 
 [^63]: The tension between the castes, classes, and races (including
     koulis laborers) is something that I cannot address in this study:
-    someone with a better understanding of Martinique's early 20^th
+    someone with a better understanding of Martinique's early 20th
     century political history should take this up, especially for the
     game's references to an upcoming election. I see a great part of my
     contribution here as the invitation to other scholars to investigate
