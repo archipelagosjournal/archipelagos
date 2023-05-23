@@ -20,7 +20,7 @@ link: "https://cabildoderegla.org/"
 
 ## *archipelagos* presents The Cabildo de Regla Project: A Digital Archive
 
-Scholarly practice in the 21st century is marked by an existential demand to break down the walls of academia and work more closely with communities on the ground. Of the many shapes that this outreach can take, one of the closest to our traditional practices is the re-shaping of the cultural record to include historically marginalized voices in a close dialogue among equal partners. The Cabildo de Regla Project: A Digital Archive provides us with a model of how a scholar can use their knowledge and access to resources to document and amplify the practices of a Caribbean afro-religious community with crucial historical and present-day significance for the region. The below exchange highlights the project's growth, always in dialogue, always in relation.
+Scholarly practice in the 21st century is marked by an existential demand to break down the walls of academia and work more closely with communities on the ground. Of the many shapes that this outreach can take, one of the closest to our traditional practices is the re-shaping of the cultural record to include historically marginalized voices in a close dialogue among equal partners. The Cabildo de Regla Project: A Digital Archive provides us with a model of how a scholar, completely new to digital humanities, has used their growing knowledge and access to resources to document and amplify the practices of a Caribbean afro-religious community with crucial historical and present-day significance for the region. The below exchange highlights the project's growth, always in dialogue, always in relation.
 
 ## Creators's Introduction
 
@@ -99,7 +99,7 @@ in a systematic way. A mapping component will also be included in the
 future to better demonstrate how these ritual activities contribute to
 place-making and community identity. 
 
-## Archipelagos Review
+## *archipelagos* Anonymous Review
 
 ***The Cabildo de Regla Project: A Digital Archive/Proyecto Cabildo de
 Regla: Un archivo digital*** captures the revival of the Orisha
@@ -115,7 +115,7 @@ dynamics and historical changes in Afro-Caribbean religions. However,
 the site could benefit from structural changes to efficiently convey the
 history of Regla, the Orisha procession, and its practitioners. The
 project\'s importance relies on capturing a unique moment that brings
-together local members to revive to revive the community's processional
+together local members to revive the community's processional
 tradition. The introduction could expand upon this relevance, the
 project goals, and the visual archive\'s uniqueness. The site\'s opening
 could also explain how the curator envisions users\' engagement with the
@@ -171,18 +171,15 @@ offer the possibility to work with formats that enhance its storytelling
 and the interaction between images and texts. As the site intends to
 serve as a community archive, future steps could also include designing
 pedagogical tools for educators and the community at large. The Cabildo
-team could take inspiration from projects like Digital Aponte, Vistas:
-Visual Culture in Spanish America, and the Early Caribbean Digital
-Archive to make future changes.
+team could take inspiration from projects like [Digital Aponte](https://aponte.hosting.nyu.edu/), [Vistas: Visual Culture in Spanish America](https://vistas.ace.fordham.edu/), and the[ Early Caribbean Digital Archive](https://ecda.northeastern.edu/) to make future changes.
 
-## Review Response
+## Response to *archipelagos* review by Gelbard.
 
 On behalf of the Cabildo de Regla community organizers and myself, I
-wish to thank the editors of *Archipelagos* and the reviewers for their
-thoughtful comments and recommendations for the **[Cabildo de Regla
-Digital Archive](https://cabildoderegla.org/).**[^r1] As a
+wish to thank the editors of *archipelagos* and the reviewers for their
+thoughtful comments and recommendations for the [Cabildo de Regla Digital Archive](https://cabildoderegla.org/).[^r1] As a
 community-based initiative, the Cabildo de Regla processional
-re-initiation is consistently evolving, adjusting to the social
+re-initiation is constantly evolving, adjusting to the social
 conditions faced by the people of Regla, new historical information that
 may come to light, and/or the spiritual mandates communicated through
 ritual. This media documentation component, shared through this digital
@@ -201,8 +198,7 @@ archive.
 With no previous background in digital humanities, I created the
 reviewed iteration of this site under the address
 www.cabildoreglaexhibit.com after the first year of the COVID-19
-pandemic, prompted by [SSMF 2021: Rupture and Repair (Screening
-Scholarship Media Festival)](https://ssmf2021.camrapenn.org/). I aimed
+pandemic, prompted by [SSMF 2021: Rupture and Repair (Screening Scholarship Media Festival)](https://ssmf2021.camrapenn.org/). I aimed
 to present a hybrid artistic exhibition and archive, reflecting the dual
 intent of the images requested by the community. That iteration was
 never intended to remain as the finalized site and many of the
@@ -240,8 +236,7 @@ explanatory essays are valuable critiques, which I will continue to work
 towards implementing. One initial strategy could be clarified once
 metadata and reference codes are added to each image, allowing us to
 specifically cite images within the essays. With specific regards to the
-[processional image
-gallery](https://cabildoderegla.org/exhibition/processional-gallery/),
+[processional image gallery](https://cabildoderegla.org/exhibition/processional-gallery/),
 I've organized the images to visually narrate the processional as it
 moves across the Regla landscape, integrating the years. However, this
 reviewer comment prompts consideration as to whether viewers should have
@@ -249,15 +244,7 @@ the option to view the images by year as well. To do so would take
 additional skill building on my part, which I would not be able to
 achieve before the end of 2023 but is an option for the future.
 
-To amplify the range of perspectives within the [essay
-sections](https://cabildoderegla.org/project-essays/), additional public
-scholarship essay contributions from other research collaborators will
-be solicited and published between the end of 2023 and first half of
-2024. This is one area that intends to further connect the research
-component of the project with public scholarship to foster discussion
-across the researcher, community, and religious practitioner communities
-about the histories and issues surrounding this localized example of
-Cuba's broader processional tradition.
+To amplify the range of perspectives within the [essay sections](https://cabildoderegla.org/project-essays/), additional public scholarship essay contributions from other research collaborators will be solicited and published between the end of 2023 and first half of 2024. This is one area that intends to further connect the research component of the project with public scholarship to foster discussion across the researcher, community, and religious practitioner communities about the histories and issues surrounding this localized example of Cuba's broader processional tradition.
 
 By the end of 2024, two aspects are slated for incorporation into the
 site: use of the video footage and digital mapping. We have a cache of
