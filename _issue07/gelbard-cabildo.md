@@ -22,7 +22,7 @@ link: "https://cabildoderegla.org/"
 
 Scholarly practice in the 21st century is marked by an existential demand to break down the walls of academia and work more closely with communities on the ground. Of the many shapes that this outreach can take, one of the closest to our traditional practices is the re-shaping of the cultural record to include historically marginalized voices in a close dialogue among equal partners. The Cabildo de Regla Project: A Digital Archive provides us with a model of how a scholar, completely new to digital humanities, has used their growing knowledge and access to resources to document and amplify the practices of a Caribbean afro-religious community with crucial historical and present-day significance for the region. The below exchange highlights the project's growth, always in dialogue, always in relation.
 
-## Creators's Introduction
+## Introduction to the project by Alexandra Gelbard
 
 The Cabildo de Regla Digital Archive documents, preserves, and
 disseminates the re-initiation process of the annual Lucumí (Santería)
@@ -101,8 +101,8 @@ place-making and community identity. 
 
 ## *archipelagos* Anonymous Review
 
-***The Cabildo de Regla Project: A Digital Archive/Proyecto Cabildo de
-Regla: Un archivo digital*** captures the revival of the Orisha
+The Cabildo de Regla Project: A Digital Archive/Proyecto Cabildo de
+Regla: Un archivo digital captures the revival of the Orisha
 procession in Regla, La Habana, Cuba, after the government lifted the
 procession\'s banning in 2016. The processional is led by the Museum of
 Regla, the Ilé Olorun practitioner house, and the Guïros de San
