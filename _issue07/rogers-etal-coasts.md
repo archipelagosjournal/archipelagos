@@ -28,7 +28,7 @@ link: "http://coastsincrisis.net/"
 
 ## *archipelagos* presents *Coasts in Crisis*
 
-[...]
+"What is the role of art amid climate disaster?" This is the fundamental question posed the team of the Coasts in Crisis project. They provide many examples, including their very own in the form of a spiraling curatorial space. Straddling the boundaries between art and scholarship, disaster response and media production, enviromentalism and library science. Coasts in Crisis offers us a model of curation and digital archiving that goes beyond the homogeneity of mainstream digital archiving systems, preserving the delicate balance between context over metadata. The project statement and the dialogue that follows below reflect the richness of thought that such digital exercises enable. 
 
 
 ## Project statement by Elise Foote, Winnie E. Pérez Martínez and Charlotte Rogers
