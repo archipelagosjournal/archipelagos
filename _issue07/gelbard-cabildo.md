@@ -295,7 +295,7 @@ do so.
     participants.
 
 [^r1]: The original title of the site at the time of the review was
-    ***The Cabildo de Regla Project: Re-Initiating Tradition*,**
+    The Cabildo de Regla Project: Re-Initiating Tradition,
     reflecting the initial site as a hybrid archive and artistic
     exhibition, combining the two facets of the original intention of
     the documentary component of the Cabildo de Regla collaborative
