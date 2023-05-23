@@ -18,6 +18,10 @@ thumb: images/issue07/cabildo-thumb.jpg
 link: "https://cabildoderegla.org/"
 ---
 
+## *archipelagos* presents The Cabildo de Regla Project: A Digital Archive
+
+Scholarly practice in the 21st century is marked by an existential demand to break down the walls of academia and work more closely with communities on the ground. Of the many shapes that this outreach can take, one of the closest to our traditional practices is the re-shaping of the cultural record to include historically marginalized voices in a close dialogue among equal partners. The Cabildo de Regla Project: A Digital Archive provides us with a model of how a scholar can use their knowledge and access to resources to document and amplify the practices of a Caribbean afro-religious community with crucial historical and present-day significance for the region. The below exchange highlights the project's growth, always in dialogue, always in relation.
+
 ## Creators's Introduction
 
 The Cabildo de Regla Digital Archive documents, preserves, and
