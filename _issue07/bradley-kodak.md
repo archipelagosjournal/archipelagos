@@ -44,7 +44,7 @@ unmapped, a receptacle for imagination.
 These photographs were taken during the U.S. military occupation of
 Haiti and published in the 1932 [*Monograph of the Republic of
 Haiti*](https://archive.org/details/MonographOfHaiti1932/mode/2up).
-In keeping with 20^th^-century interventionist policies, the U.S.
+In keeping with 20^th-century interventionist policies, the U.S.
 Marines had invaded Haiti in 1915, immediately declaring martial law
 under the pretext of maintaining political and economic stability in the
 country. A constabulary made up of Haitian troops raised and trained by
@@ -178,7 +178,7 @@ If photography has been employed since its inception to create and
 catalog human difference, aerial photography has a distinct way of doing
 so. The *Monograph*'s photos, at first glance, do not act with the
 violent capture of those centering human subjects, such as the
-now-infamous 19^th^ century photos of "human zoos" in World's Fairs or
+now-infamous 19^th century photos of "human zoos" in World's Fairs or
 *Expositions universelles*.[^9] The only photos of human subjects in the
 *Monograph* are of uniformed members of the *Gendarmerie d'Haiti*, the
 corps trained by U.S. Marines and "Haitianized" by 1932, with U.S.
@@ -250,7 +250,7 @@ global segregations through 'damning' the spaces long occupied by Man's
 human others."[^14]
 
 While handling the 1932 images, I was struck by these photos'
-resemblance to their 18^th^ Century counterparts, the intricate maps
+resemblance to their 18^th Century counterparts, the intricate maps
 produced by colonial era cartographers in Saint-Domingue. Because these
 cartographers also focused on towns and plantation regions, their maps
 represent many of the areas depicted in the *Monograph*'s photos. On the
@@ -679,7 +679,7 @@ invisible worlds.
     Duke University Press, 2020), 39.
 
 [^9]: For analysis of occupation-era photography and wider
-    20^th^-century visual representations of Haiti in U.S. media see
+    20^th-century visual representations of Haiti in U.S. media see
     Lindsay Twa, *Visualizing Haiti in U.S. Culture, 1910--1950* (London
     and New York: Routledge, 2014). The *National Geographic* photos
     studied by Twa in her first chapter complement the aerial images of

@@ -34,8 +34,8 @@ a set of sacred Lucumí ritual *bata* drums over one hundred years old. 
 
 As one of the island-archipelago's African Diasporic epicenters, Regla
 became a central locale in the formation of at least two of Cuba's
-African-inspired religious practices during the 19^th^ century: Lucumí
-and Abakuá.[^1] The first half of the 20^th^ century sedimented the
+African-inspired religious practices during the 19^th century: Lucumí
+and Abakuá.[^1] The first half of the 20^th century sedimented the
 annual Orisha processional, becoming an important data source for Cuban
 ethnographers bifurcating Lucumí life ways into the nationalistic
 concepts of Afro-Cuban folklore and Afro-Cuban religion. With the
