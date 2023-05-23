@@ -1448,7 +1448,7 @@ appropriation, and mindless enjoyment.
 
 [^57]:  Salvador, "Muriel Tramis."
 
-[^58]: "It is the 7^th of May, 1902. After 15 days of crossing you
+[^58]: "It is the 7th of May, 1902. After 15 days of crossing you
     arrive in sight of the green coast of the isle of flowers. In this
     magic country, your paranormal powers are heightened."
 
@@ -1457,7 +1457,7 @@ appropriation, and mindless enjoyment.
 [^60]: You are transformed into a *soucougnan*, condemned to wander for
     eternity...
 
-[^61]: On the 8^th of May, 1902 at 8:02 am, it's hell: the southwest
+[^61]: On the 8th of May, 1902 at 8:02 am, it's hell: the southwest
     flank of the mountain opens to spew forth an enormous cloud of fiery
     smoke ribboned with light. 30, 000 are dead. St. Pierre no longer
     exists.
