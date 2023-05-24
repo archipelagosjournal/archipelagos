@@ -9,7 +9,7 @@ author:
 - name: Sarah Juliet Lauro
   shortname: Lauro
   bio: >
-    Kris Singh is a faculty member in the English Department at Kwantlen Polytechnic University. His scholarly and creative attention spans the legacy of indentureship, the relationships among writers of the Caribbean diaspora, and the ways in which social media and popular culture shape each other.
+    Sarah Juliet Lauro is associate professor of hemispheric literature at the University of Tampa. She is the author and editor of many works that address the folkloric figure of the living dead zombie in literature and film, including the article “A Zombie Manifesto” (boundary2, 2011) and the monograph *The Transatlantic Zombie: Slavery, Rebellion, and Living Death* (Rutgers UP, 2015). Her next book project turns from zombies as a figuration of slavery and slave revolt, which is her central interest in the myth, to commemorations of slave rebellion in literature, art, film, and digital culture. On this topic she published *Kill the Overseer! The Gamification of Slave Resistance* with the University of Minnesota Press (2020), which is about slave rebellion in videogames, as well as recent articles in *TDR: The Drama Review* and *History of the Present*. 
 date: May 2023
 issue: 7
 order: 3
