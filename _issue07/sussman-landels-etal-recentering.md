@@ -2,8 +2,8 @@
 layout: article
 section: articles
 title: 
-  "long": "\"Died a Small Boy\":Re-Centering the Human in Geospatial Data from the Middle Passage"
-  "short": "\"Died a Small Boy\""
+  "long": "\"Died a small boy\": Re-Centering the Human in Geospatial Data from the Middle Passage"
+  "short": "\"Died a small boy\""
 doi: ""
 author:
 - name: Charlotte Sussman
@@ -37,7 +37,7 @@ author:
 
 date: May 2023
 issue: 7
-order: 4
+order: 1
 abstract: >
   "Remembering the Middle Passage" is a collective of scholars using digital humanities tools to represent, and possibly memorialize, enslaved Africans who died along the Middle Passage. Taking up Jessica Marie Johnson's call for a "Black digital practice," or methods that "challenge reproduction of black death and commodification, countering the presumed neutrality of the digital" (Johnson, 2018), our project seeks to map discrete deaths in a way that centers personal subjectivities and the communal bonds severed by these deaths. Our early efforts, as seen on our website, used ArcGIS technology to chart the 1757 slaving voyage of the *Good Hope*, marking places at sea where individuals died, as deduced from the geocoordinates in the ship's logbook. In this article, we reflect on these initial attempts at mapping, critiquing our reliance on presumably neutral geospatial technologies, finding them to be rooted in persisting colonial cartographic practices. Despite our intentions to disaggregate archival data and to re-center, through our design choices, the human lives lost, mapping proved a blunt instrument for our purposes. On our website, we made use of critical fabulation, as theorized by Saidiya Hartman, to trouble the flatness of the map and to use the subjunctive mood to imagine the lives obscured by coordinates. In our article, we explore the consequences of using critical fabulation in the digital realm. Whereas previous examples of critical fabulation, including Hartman's own, have engaged with print archives such as legal records and newspaper reports, we ask in this article what it means to "digitize" the toolset of critical fabulation, applying its methods, in particular, to geospatial data. Bringing critical fabulation into the digital archive opens up new possibilities for both critical fabulation and Black digital practice, enabling us to better grapple with mundane, everyday, and otherwise unpublicized (and therefore unprinted) violence in the archive of slavery.
 abstract_fr: >

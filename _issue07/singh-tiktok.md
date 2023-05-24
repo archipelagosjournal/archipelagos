@@ -13,7 +13,7 @@ author:
     Kris Singh is a faculty member in the English Department at Kwantlen Polytechnic University. His scholarly and creative attention spans the legacy of indentureship, the relationships among writers of the Caribbean diaspora, and the ways in which social media and popular culture shape each other.
 date: May 2023
 issue: 7
-order: 2
+order: 4
 abstract: >
   This paper considers how Caribbean ways of speaking map onto social media by analyzing two popular TikTok series as well as the testimony of a survivor of the 2021 eruption of La Soufrière that was widely circulated on Facebook. Understanding what Caribbean cultural production on social media entails means appreciating social media platforms like TikTok as commercial entities. As such, they define what can be produced and influence what audiences are likely to register as funny. Though Caribbean people\'s representations of themselves may seem more accessible than ever, the ways in which we hear each other on social media remains unevenly defined. Juxtaposing this consideration of the Caribbean digital landscape with Andrew Salkey\'s *Hurricane*, I argue that the connotations that social media usages of vernacular have accumulated risk compromising the opportunities for ideological inspection that fictional and non-fictional representations of disaster make possible.
 abstract_fr: >

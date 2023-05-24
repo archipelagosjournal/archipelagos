@@ -30,13 +30,13 @@ titles:
   workflow: "flux de travail"
 
 issues:
-  issue01: "Número (1) | juin 2016"
-  issue02: "Número (2) | septembre 2017"
-  issue03: "Número (3) | L'esclavage dans la machine | juillet 2019"
-  issue04: "Número (4) | mars 2020"
-  issue05: "Número (5) | decembre 2020"
-  issue06: "Número (6) | dLoC | mai 2022"
-  issue05: "Número (5) | mai 2023"
+  issue01: "Numéro (1) | juin 2016"
+  issue02: "Numéro (2) | septembre 2017"
+  issue03: "Numéro (3) | L'esclavage dans la machine | juillet 2019"
+  issue04: "Numéro (4) | mars 2020"
+  issue05: "Numéro (5) | decembre 2020"
+  issue06: "Numéro (6) | dLoC | mai 2022"
+  issue05: "Numéro (5) | mai 2023"
 
 components:
   ccby:
