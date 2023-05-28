@@ -124,7 +124,7 @@ emergence, and diversity of Caribbean cyberfeminisms:
 - Caribbean women, many of whom identify as feminists and are active in
  feminist and lesbian, gay, bisexual, and transgender (LGBT) organizing
  have created online networks for "women who love women." LGBT
- organizations such as Guyana's [Society Against Sexual Orientation Discrimination](http://www.sasod.org.gy), Trinidad and Tobago's
+ organizations such as Guyana's [Society Against Sexual Orientation Discrimination](https://web.archive.org/web/20160514064350/http://www.sasod.org.gy/), Trinidad and Tobago's
  [Coalition Advocating for Inclusion of Sexual
  Orientation](http://www.facebook.com/caiso), and St. Lucia's [United
  and Strong](http://unitedandstrongstlucia.wordpress.com) maintain a
@@ -646,7 +646,7 @@ BattyMamzelle, a US-educated twenty-something from Trinidad and Tobago,
 was a regular contributor to US-based commercial pop feminism site,
 *Jezebel*, with some of her most popular pieces gaining more than one
 million unique views. In 2013, she wrote a
-[post](http://battymamzelle.blogspot.com/2013/10/Why-Im-Quitting-Jezebel.html#.UlqP_FCsim4)
+[post](http://battymamzelle.blogspot.com/2013/10/Why-Im-Quitting-Jezebel.html)
 outlining her decision to no longer contribute to the site:
 
 > I'm 23. I'm black. I'm West Indian. I didn't have a lot of exposure to
@@ -846,11 +846,11 @@ rhetorical devices (5)
 
 ---
 
-[^1]: Sean Douglas, "Mayor: Beware Dangerous Sub-cultures," *Trinidad and Tobago Newsday*, 11 February 2016, [http://www.newsday.co.tt/news/0,223841.html.](http://www.newsday.co.tt/news/0,223841.html)
+[^1]: Sean Douglas, "Mayor: Beware Dangerous Sub-cultures," *Trinidad and Tobago Newsday*, 11 February 2016.
 
 [^2]: "Ordinary Jamaicans Know Nothing about Twitter, Says Pickersgill," *Jamaica Observer*, 26 November 2014, [http://www.jamaicaobserver.com/news/.](http://www.jamaicaobserver.com/news/)
 
-[^3]: "Hazel Brown: Making a Difference," *Newsday*, 21 April 2013, [http://www.newsday.co.tt/features/0,176606.html.](http://www.newsday.co.tt/features/0,176606.html)
+[^3]: "Hazel Brown: Making a Difference," *Trinidad and Tobago Newsday*, 21 April 2013.
 
 [^4]: Pearson Broome and Emmanuel Adugu, "Whither Social Media for Digital Activism: The Case of the Caribbean," *British Journal of Education, Society, and Behavioural Science* 10, no. 3 (2015): 1--21; Kristina Hinds Harrison, "Virtual Shop Fronts: The Internet, Social Media, and Caribbean Civil Society Organisations," *Globalizations* 11, no. 6 (2014): 751--66.
 
@@ -872,7 +872,7 @@ rhetorical devices (5)
 
 [^13]: Patrice Daniel, "An Open Letter to Caribbean Men, from Caribbean Women," *RH Reality Check*, 12 March 2013, [http://rhrealitycheck.org/article/2013/03/12/an-open-letter-to-caribbean-men-from-caribbean-women.](http://rhrealitycheck.org/article/2013/03/12/an-open-letter-to-caribbean-men-from-caribbean-women)
 
-[^14]: See [http://www.sasod.org.gy](http://www.sasod.org.gy); [http://www.facebook.com/caiso](http://www.facebook.com/caiso); and [http://unitedandstrongstlucia.wordpress.com.](http://unitedandstrongstlucia.wordpress.com)
+[^14]: See [https://web.archive.org/web/20160514064350/http://www.sasod.org.gy/](https://web.archive.org/web/20160514064350/http://www.sasod.org.gy/); [http://www.facebook.com/caiso](http://www.facebook.com/caiso); and [http://unitedandstrongstlucia.wordpress.com.](http://unitedandstrongstlucia.wordpress.com)
 
 [^15]: See [http://www.facebook.com/AirMeNow](http://www.facebook.com/AirMeNow) and [http://www.youtube.com/playlist?list=PLLNiArTOn\_azPDdIR4FvkyepgRQrb9K8Y.](http://www.youtube.com/playlist?list=PLLNiArTOn\_azPDdIR4FvkyepgRQrb9K8Y)
 
@@ -904,7 +904,7 @@ rhetorical devices (5)
 
 [^29]: Ivette Romero-Cesareo and Lisa Paravisini-Gebert, *Repeating Islands*, [http://repeatingislands.com/our-blog.](http://repeatingislands.com/our-blog)
 
-[^30]: Zahira Kelly (Bad Dominicana) quotes Cate Young (BattyMamzelle), "This Is What I Mean When I Say 'White Feminism," imploring, "Please everybody: read this article!" [http://bad-dominicana.tumblr.com/post/138419448358/white-feminism-does-not-mean-every-white-woman;](http://bad-dominicana.tumblr.com/post/138419448358/white-feminism-does-not-mean-every-white-woman) *BattyMamzelle*, 10 January 2014, [http://battymamzelle.blogspot.com/2014/01/This-Is-What-I-Mean-When-I-Say-White-Feminism.html\#.VwxPjXqYuCf.](http://battymamzelle.blogspot.com/2014/01/This-Is-What-I-Mean-When-I-Say-White-Feminism.html\#.VwxPjXqYuCf)
+[^30]: Zahira Kelly (Bad Dominicana) quotes Cate Young (BattyMamzelle), "This Is What I Mean When I Say 'White Feminism," imploring, "Please everybody: read this article!" [http://bad-dominicana.tumblr.com/post/138419448358/white-feminism-does-not-mean-every-white-woman;](http://bad-dominicana.tumblr.com/post/138419448358/white-feminism-does-not-mean-every-white-woman) *BattyMamzelle*, 10 January 2014, [http://battymamzelle.blogspot.com/2014/01/This-Is-What-I-Mean-When-I-Say-White-Feminism.html](http://battymamzelle.blogspot.com/2014/01/This-Is-What-I-Mean-When-I-Say-White-Feminism.html)
 
 [^31]: Annie Paul, *Active Voice*, [http://anniepaul.net](http://anniepaul.net); Mar the Mongoose, *The Mongoose Chronicles*, [http://mongoosechronicles.blogspot.com.](http://mongoosechronicles.blogspot.com)
 
@@ -952,7 +952,7 @@ rhetorical devices (5)
 
 [^53]: Sherlina Nageer, "No Women Died, This Is Not a Women's Issue," *Black Looks*, 15 August 2012, [http://www.blacklooks.org/2012/08/no-women-died-this-is-not-a-womens-issue;](http://www.blacklooks.org/2012/08/no-women-died-this-is-not-a-womens-issue) "End Sexual-Orientation and Gender-Identity Discrimination in Guyana," *Huffpost Gay Voices*, 10 July 2012 (updated 2 February 2016), [http://www.huffingtonpost.com/sherlina-nageer/](http://www.huffingtonpost.com/sherlina-nageer/); "In Praise of Bad-john Lil Girls," *Feminist Conversations on Caribbean Life*, 21 August 2013, [http://redforgender.wordpress.com/2013/08/21/in-praise-of-bad-john-lil-girls.](http://redforgender.wordpress.com/2013/08/21/in-praise-of-bad-john-lil-girls) See [http://freedombyanymeans.wordpress.com](http://freedombyanymeans.wordpress.com).
 
-[^54]: Cate Young (BattyMamzelle), "The Hardest Word to Say Is Goodbye: Why I'm Quitting *Jezebel*," *BattyMamzelle*, 8 October 2013, [http://battymamzelle.blogspot.com/2013/10/Why-Im-Quitting-Jezebel.html\#.UlqP\_FCsim4.](http://battymamzelle.blogspot.com/2013/10/Why-Im-Quitting-Jezebel.html\#.UlqP\_FCsim4)
+[^54]: Cate Young (BattyMamzelle), "The Hardest Word to Say Is Goodbye: Why I'm Quitting *Jezebel*," *BattyMamzelle*, 8 October 2013, [http://battymamzelle.blogspot.com/2013/10/Why-Im-Quitting-Jezebel.html](http://battymamzelle.blogspot.com/2013/10/Why-Im-Quitting-Jezebel.html)
 
 [^55]: [http://www.facebook.com/WalkingIntoWalls/info/?tab=page\_info.](http://www.facebook.com/WalkingIntoWalls/info/?tab=page\_info)
 

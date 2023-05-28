@@ -471,7 +471,7 @@ Havana. Such a walking tour would help not only to preserve Aponte's
 memory but to open spaces (and paths) for more critical historical
 narratives and even perhaps for other kinds of tourism, as is being
 pioneered in Brazil with the [*Pasts
-Present*](http://passadospresentes.com.br/site/Site/index.php) and
+Present*](http://passadospresentes.com.br) and
 [*Museum of
 Yesterday*](https://apublica.org/2017/07/museum-of-yesterday/)
 projects.[^16]
@@ -751,7 +751,7 @@ We wish to thank the Polonsky Foundation-NYU Digital Humanities Internship Progr
     (Pittsburgh: University of Pittsburgh Press, 2009).
 
 [^16]: See *Passados Presentes*,
-    <http://passadospresentes.com.br/site/Site/index.php>, and *Museum
+    <http://passadospresentes.com.br>, and *Museum
     of Yesterday*, <https://apublica.org/2017/07/museum-of-yesterday/>.
 
 [^17]: See *Slave Revolt in Jamaica, 1760--1761: A Cartographic

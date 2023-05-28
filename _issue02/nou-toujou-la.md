@@ -107,7 +107,7 @@ Once the digitized audio returned to Duke, we began writing descriptions—in Ha
 
 > Special broadcast commemorating the fifty-ninth anniversary of the Marchaterre massacre, drawing on research by historians Kethly Millet and Roger Gaillard. In the 1920s, the US occupation implemented laws that crippled the Haitian sugar and clairin economy and restricted land ownership by Haitian people, which led many people to leave Haiti for Cuba or the Dominican Republic. There was inflation and widespread student strikes. On December 6, 1929, peasant farmers assembled in Marchaterre to protest high taxation by the US marine occupation; the marines fired upon the crowd, killing several people (historians do not agree on how many people were killed). This was one of the events that precipitated the end of the US occupation of Haiti. In Marchaterre in 1988, grassroots peasant groups commemorate the massacre and oppression of peasant farmers from 1929 to the present. They describe their opposition to repressive chefs de section, and the importance of the Marchaterre monument.
 
-As we describe the recordings, the trilingual metadata, along with streaming links to each recording, are ingested into two platforms: a traditional Duke University Libraries [collection guide](https://library.duke.edu/rubenstein/findingaids/radiohaiti/) and a [Duke Digital Repository (DDR) digital collection]().[^9]
+As we describe the recordings, the trilingual metadata, along with streaming links to each recording, are ingested into two platforms: a traditional Duke University Libraries [collection guide](https://library.duke.edu/rubenstein/findingaids/radiohaiti/) and a [Duke Digital Repository (DDR) digital collection](https://repository.duke.edu/).[^9]
 
 {% include image.html
 	img="issue02/DDR_page_2.png"
@@ -198,7 +198,7 @@ Radio Haiti remained tenacious in the face of dictatorship and privation, throug
 * Twitter: [\@AchivRadyoAyiti](http://web.archive.org/web/20170904035017/https://twitter.com/achivradyoayiti)
 * Pilot site: [www.radiohaitilives.com](http://www.radiohaitilives.com)
 * Preliminary collection guide: [www.library.duke.edu/rubenstein/findingaids/radiohaiti](https://library.duke.edu/rubenstein/findingaids/radiohaiti/)
-* Radio Haiti Archive—Duke Libraries: [repository.duke.edu/dc/radiohaiti]()
+* Radio Haiti Archive—Duke Libraries: [repository.duke.edu/dc/radiohaiti](https://repository.duke.edu/dc/radiohaiti)
 
 ---
 
@@ -218,7 +218,7 @@ Radio Haiti remained tenacious in the face of dictatorship and privation, throug
 
 [^8]: Alejandra Bronfman, *Isles of Noise: Sonic Media in the Caribbean* (Chapel Hill: University of North Carolina Press, 2016), 153.
 
-[^9]: "Preliminary Guide to the Radio Haiti Audio Recordings, 1957–2003," Duke University Libraries, [library.duke.edu/rubenstein/findingaids/radiohaiti,](http://web.archive.org/web/20170904034742/http://library.duke.edu/rubenstein/findingaids/radiohaiti/) and "Radio Haiti Archive Digital Collection," Duke University Libraries Digital Repository, [repository.duke.edu/dc/radiohaiti]().
+[^9]: "Preliminary Guide to the Radio Haiti Audio Recordings, 1957–2003," Duke University Libraries, [library.duke.edu/rubenstein/findingaids/radiohaiti,](http://web.archive.org/web/20170904034742/http://library.duke.edu/rubenstein/findingaids/radiohaiti/) and "Radio Haiti Archive Digital Collection," Duke University Libraries Digital Repository, [repository.duke.edu/dc/radiohaiti](https://repository.duke.edu/dc/radiohaiti).
 
 [^10]: Trouillot, *Silencing the Past*, 51.
 

@@ -1016,7 +1016,7 @@ ensure that these vital publications from the earliest years of Haitian
 statehood would become immediately accessible to people in Haiti. Users
 will not fail to note that although all these documents have original
 provenance in Haiti, [only a single
-issue](http://lagazetteroyale.com/1808/01/19-novembre-1814-2/) of
+issue](https://lagazetteroyale.com/19-novembre-1814/) of
 the *Gazette Officielle*, as far as we know at this time, can be found
 in archives there today.[^81] Minimally, this situation required that we
 commit to our chief goals---preservation and institutionalization---in a way
@@ -1494,37 +1494,37 @@ acts in this moment, but which must always remain open."[^87]
     d'Hayti*, <http://lagazetteroyale.com/>.
 
 [^76]: *La Gazette Royale*, 23 November 1809,
-    <http://lagazetteroyale.com/1809/11/23-novembre-1809/>; *La Gazette
+    <http://lagazetteroyale.com/23-novembre-1809/>; *La Gazette
     Royale*, 2 June 1815,
-    <http://lagazetteroyale.com/1815/06/2-juin-1815/>; *La Gazette
+    <http://lagazetteroyale.com/2-juin-1815/>; *La Gazette
     Royale*, 13 June 1815,
-    <http://lagazetteroyale.com/1815/06/13-juin-1815/>.
+    <http://lagazetteroyale.com/13-juin-1815/>.
 
 [^77]: *La Gazette Royale*, 23 November 1809,
-    <http://lagazetteroyale.com/1816/02/8-fevrier-1816/>.
+    <http://lagazetteroyale.com/8-fevrier-1816/>.
 
 [^78]: *La Gazette Royale*, 27 January 1814,
-    <http://lagazetteroyale.com/1814/01/27-janvier-1814/>; "Au Premier
+    <http://lagazetteroyale.com/27-janvier-1814/>; "Au Premier
     Monarque couronné du Nouveau-Monde," *La Gazette Royale*, 19 July
-    1815, <http://lagazetteroyale.com/1815/07/19-juin-1815/>.
+    1815, <http://lagazetteroyale.com/19-juin-1815/>.
 
 [^79]: *La Gazette Royale*, 24 August 1816,
-    <http://lagazetteroyale.com/1816/08/24-aout-1816/>; *La Gazette
+    <http://lagazetteroyale.com/24-aout-1816/>; *La Gazette
     Royale*, 21 August 1816,
-    <http://lagazetteroyale.com/1816/08/21-aout-1816/>; "infortunés
+    <http://lagazetteroyale.com/21-aout-1816/>; "infortunés
     frères, victimes de la cupidité et de l'odieux trafic de chair
     humaine," *La Gazette Royale*, 10 October 1817,
-    <http://lagazetteroyale.com/1817/10/10-octobre-1817/>.
+    <http://lagazetteroyale.com/10-octobre-1817/>.
 
 [^80]: "La satisfaction a été égale, comme dans tous les lieux où le
     Prince a passé, tous les haytiens n'avaient qu'un cœur, qu'une âme,
     pour donner à l'envi au Prince des témoignages d'amour"; "un digne
     héritier du nom et du trône d'Henry"; *La Gazette Royale*, 10
     September 1819,
-    <http://lagazetteroyale.com/1819/09/28-decembre-1818/>.
+    <https://lagazetteroyale.com/28-decembre-1818-version-2/>.
 
 [^81]: *La Gazette Officielle*, 21 January 1808,
-    <http://lagazetteroyale.com/1808/01/19-novembre-1814-2/>.
+    <https://lagazetteroyale.com/28-decembre-1818-version-2/>.
 
 [^82]: Achille Mbembe, "Decolonizing Knowledge and the Question of the
     Archive," 2015,

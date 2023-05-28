@@ -132,7 +132,7 @@ To begin, throughout the duration of part 1, students may work in small groups a
 -   "[Laws of Cuba, Puerto Rico, and the Philippines](https://dloc.com/AA00076641/00001?search=us+=puerto+=rico)"
 -   "[140 Protest U.S. Military in Vieques](https://dloc.com/AA00078642/00001?search=us+=puerto+=rico)"
 -   "[The World of 1898: The Spanish-American War](https://loc.gov/rr/hispanic/1898/index.html)"
--   "[Latin American & Caribbean Digital Primary Resources](https://salalm.org/collection-development-resources/digital-primary-resources/)"
+-   "[Latin American & Caribbean Digital Primary Resources](https://salalm.org/digital-primary-resources)"
 -   "[Puerto Rico Archives and Libraries](https://www.familysearch.org/wiki/en/Puerto_Rico_Archives_and_Libraries#Archives)"
 -   "[The American Colonial Handbook](https://ufdc.ufl.edu/UF00098500/00001)"
 
@@ -144,7 +144,7 @@ Students can then begin to explore a broad range of experiences of (im)mobility 
 -   "[The Counter-revolution of 1776: Origins of the United States of America](https://www.zinnedproject.org/news/1776-counter-revolution-us-origins/)"
 -   "[Making African America](https://nmaahc.si.edu/making-african-america)"
 -   "[The African-American Migration Experience](http://www.inmotionaame.org)"
--   "[Caribbean Immigration](http://www.inmotionaame.org/migrations/landing.cfm@migration=10.html)"
+-   "[Caribbean Immigration](https://web.archive.org/web/20211205224254/http://www.inmotionaame.org/migrations/landing.cfm@migration=10.html)"
 -   "[Black Perspectives](https://www.dloc.com/AA00054410/00001)"
 -   "[The Haitian American Dream Timeline](https://exhibits.uflib.ufl.edu/HaitianAmericanDream/?fbclid=IwAR1VqspacYxyPWm8fwuTxRDc2Fq2Tl7yNc53pv8YaR3CEUQq--YEDSglDF0)"
 -   "[Correspondence Relative to the Emigration to Hayti of the Free People of Colour in the United States](https://www.dloc.com/AA00010444/00001?search=african+=american)"
@@ -297,7 +297,7 @@ Students in US K--12 schools must have more opportunities to read texts authored
 
 ---
 
-[^1]: See Common Core State Standards Initiative, "Note on Range and Content of Student Reading," section of "English Language Arts Standards: 'Anchor Standards'---College and Career Readiness Anchor Standards for Reading," accessed 15 January 2022, <http://www.corestandards.org/ELA-Literacy/CCRA/R/>.
+[^1]: See Common Core State Standards Initiative, "Note on Range and Content of Student Reading," section of "English Language Arts Standards: 'Anchor Standards'---College and Career Readiness Anchor Standards for Reading," accessed 15 January 2022, <https://learning.ccsso.org/common-core-state-standards-initiative>.
 
 [^2]: See \#DisruptTexts, "What Is \#Disrupt Texts?," accessed 15 January 2022, <https://disrupttexts.org/lets-get-to-work/>.
 
