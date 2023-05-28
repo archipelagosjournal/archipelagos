@@ -213,7 +213,7 @@ Distillery, a man who tells us that he is over one hundred years old and
 recounts the distillery's various mythologies. A note from the author
 (signed P.C.) lists his informants, "commanders of memory," as his
 sources for the various ideations of the folktale included therein.
-Chamoiseau also penned a comic book----in Creole and in French----with
+Chamoiseau also penned a comic book---in Creole and in French---with
 Georges Puisy, *Delgrès, Les Antilles sous Bonaparte*, about the
 struggle against the reestablishment of slavery in Guadeloupe by
 Napoleon. One aspect of creolized texts is a disruption of authorial
@@ -433,7 +433,7 @@ begins.
 
 At the start, the player is given a choice as to which one of four
 playable enslaved characters from the Grand Parnasse plantation they
-want to incarnate----Solitude, Makandal, Delia, or Sechou----and whether
+want to incarnate---Solitude, Makandal, Delia, or Sechou---and whether
 to play them as "Defiant," "Rebellious," or "Fanatical," which the
 manual intimates (but doesn't specify) are akin to easy, medium, or hard
 difficulty settings for gamers of disparate skill levels. As Sepinwall
@@ -521,8 +521,8 @@ quicksand but is ultimately spared; and while the old man is injured and
 dies, he finds a sacred AmerIndian stone, and something appears to
 transpire between the man and the dog. At the end, the beast returns to
 his master profoundly changed into a docile creature, and the dead man's
-bones are seen laying by the stone, leading the author to conjure----or
-to channel----this tale. There is a sudden shift from third person to
+bones are seen laying by the stone, leading the author to conjure---or
+to channel---this tale. There is a sudden shift from third person to
 first person upon the discovery of the magic stone engraved by the
 indigenous peoples of the island, and a sort of spiritual fusion between
 man and beast occurs. The final chapter is narrated by the author
@@ -705,7 +705,7 @@ we turn our attention now.[^56]
 foregrounds Martinican history, culture, and folklore; and, as a
 co-authored videogame, is necessarily multimodal. But not only does the
 game rely on text, sounds, visuals, and animation, but it also includes
-a variety of paratextual elements----a manual featuring a story by
+a variety of paratextual elements---a manual featuring a story by
 Patrick Chamoiseau, "Les derniers jours d'une mulâtresse," a glossary of
 select terms, and a recipe. The original packaging supposedly also came
 with a tape by a band called Malavoi.[^57] The game and its packaging
@@ -718,9 +718,9 @@ invitation to participate in the narrative. *Méwilo* is rigidly
 compartmentalized on a structural level. The player faces multiple
 challenges, some of which can only be solved through trial-and-error,
 and others that, in my experience, required seeking the help of others
-online. Whether the game is more opaque for the retrogamer----obliged to
-find workarounds in order to get it to load----or easier, thanks to the
-internet and access to google----is a matter for another place and time.
+online. Whether the game is more opaque for the retrogamer---obliged to
+find workarounds in order to get it to load---or easier, thanks to the
+internet and access to google---is a matter for another place and time.
 Whichever the case, I found the game's puzzles very difficult to solve.
 
 {% include image.html
@@ -1089,7 +1089,7 @@ interactivity, but also the designer's ability to withhold interactivity
 in structuring insurmountable challenges. Even further, the medium is
 well-suited to showcase narratives of enslavement and resistance because
 although the structure of the game may attempt to impose a rigid order,
-the system itself may defy even the designer----as by glitching,
+the system itself may defy even the designer---as by glitching,
 crashing, or presenting other technological issues. When the legacy of
 historical enslavement and slave revolt becomes fodder for gamers, it is
 all the more important that we attend to the ways that the form of

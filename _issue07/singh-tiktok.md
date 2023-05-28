@@ -171,8 +171,8 @@ Given that Felmine's and Simpson's performances center jokes rather than
 dances, I also turn to "SRSLY?? A Typology of Online Ironic Markers" by
 Noam Gal, Zohar Kampf, and Limor Shifman, a study of ironic humor on
 social media.[^17] It focuses on the Israeli socio-political context and
-Facebook----though posts on Twitter, Tumblr, Reddit, and Instagram are
-also considered----to argue that although irony in both digital and
+Facebook---though posts on Twitter, Tumblr, Reddit, and Instagram are
+also considered---to argue that although irony in both digital and
 non-digital spaces depends on "an intended amusing gap between the meant
 and the said," nevertheless decoding irony in "the networked,
 fragmented, and hyperlinked arena of social media" often functions
