@@ -1157,7 +1157,7 @@ London: UCL Press, 2017.
 
 Tumolo, Maria. "An Interview with Warren Le Platte: Creator of the Board
 Game 'Santimanitay.'" *The Tiger Tales* (blog), 14 January 2018.
-<https://thetigertales.co.uk/interview-warren-le-platte-creator-board-game-santimanitay/>.
+[https://thetigertales.co.uk/interview-warren-le-platte-creator-board-game-santimanitay/](https://web.archive.org/web/20220819084459/https://thetigertales.co.uk/interview-warren-le-platte-creator-board-game-santimanitay/).
 
 Varis, Piia, and Jan Blommaert. "Conviviality and Collectives on Social
 Media: Virality, Memes, and New Social Structures." *Multilingual
@@ -1411,7 +1411,7 @@ Notes
     <https://sweettntmagazine.com/board-game-santimanitay/>; Maria
     Tumolo, "An Interview with Warren Le Platte: Creator of the Board
     Game 'Santimanitay,'" *The Tiger Tales* (blog), 14 January 2018,
-    <https://thetigertales.co.uk/interview-warren-le-platte-creator-board-game-santimanitay/>;
+    [https://thetigertales.co.uk/interview-warren-le-platte-creator-board-game-santimanitay/](https://web.archive.org/web/20220819084459/https://thetigertales.co.uk/interview-warren-le-platte-creator-board-game-santimanitay/);
     and Paula Lindo, "Board Games Trending Offline," *Trinidad and
     Tobago Newsday*, 3 June 2020,
     <https://newsday.co.tt/2020/06/03/board-games-trending-offline/>.
