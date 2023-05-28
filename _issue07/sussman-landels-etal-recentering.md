@@ -48,7 +48,7 @@ pdf: true
 ---
 
 {% include epigraph.html
-    quote = "Where are our monuments, your battles, martyrs?<br>Where is our tribal memory? Sirs,<br>in that grey vault. The sea. The sea<br>has locked them up. The sea is History."
+    quote = "Where are your monuments, your battles, martyrs?<br>Where is your tribal memory? Sirs,<br>in that grey vault. The sea. The sea<br>has locked them up. The sea is History."
     citation = "Derek Walcott, \"The Sea is History,\" ll. 1-4"
 %}
 
@@ -187,7 +187,7 @@ died and thus help us in our overall purpose of site-based
 memorialization. We limited our search to British voyages, whose records
 would be in English, that were cross-listed in both the *Slave Voyages*
 and [CLIWOC](https://www.historicalclimatology.com/cliwoc.html)
-(Climatological Database of the World's Oceans), as
+(Climatological Database for the World's Oceans), as
 CLIWOC provided geocoordinates. By cross-referencing these datasets, we
 hoped to use the advantages of mass data for the purposes of locating
 individuals' places of death. In this way, we sought to acknowledge the
@@ -394,7 +394,7 @@ the estate of enslaver Thomas Thistlewood.[^27] However, while visually
 emphasizing the ocean helped us convey a sense of existential
 uncertainty on our map, we still struggled to account for the
 experiential or transformative element of the Middle Passage, or what
-Sowandé M. Mustakeem calls the "human manufacturing process" of the
+Sowande\' M. Mustakeem calls the "human manufacturing process" of the
 transatlantic slave trade.[^28] That is to say, we wanted to avoid the
 empiricist trap that comes from the certainty of mapping while
 simultaneously acknowledging the atrocities that transpired on the *Good Hope*. In one sense, we need
@@ -597,7 +597,7 @@ prioritize an individual human's life story over the more general "human
 story of the slave trade." The entry in Gould's logbook in which we
 encounter the small boy might have provided evidence for a historian
 like Mustakeem for a broad historical claim about, e.g., the prevalence
-of flux among enslaved children onboard slave ships; but we hope to
+of flux among enslaved children onboard slave ships; but we wanted to
 explore how focusing on the details of the small boy's death, rather
 than treating him as one example among many, deepens our understanding
 of the Middle Passage---and we turned to the methodology of critical
@@ -630,7 +630,7 @@ acts that transpired on the deck of a slave ship, the *Recovery* (1791),
 reconfiguring the legal testimony given by its captain in the course of
 legal proceedings against him. Whereas Hartman's narrative rests on the
 liminal deck of the slave ship, our own digital work uses geospatial
-data to precisely situate a different slave ship in the ocean space,
+data to precisely situate a different slave ship in ocean-space,
 including the persons held captive in its hold. Visualizing this
 otherwise unmarked space, and anchoring it in specific coordinates,
 provided us with an basis upon which to critically fabulate
@@ -738,7 +738,7 @@ representing Middle Passage mortality.
     put to, and the stakes underlying data's implicit claim to stability
     or objectivity." See Jennifer L. Morgan, *Reckoning with Slavery:
     Gender, Kinship, and Capitalism in the Early Black Atlantic*
-    (Durham, NC: Duke University Press, 2021), p. 21; Jessica Marie
+    (Durham, NC: Duke University Press, 2021), p. 21; and Jessica Marie
     Johnson, "Markup Bodies: Black \[Life\] Studies and Slavery
     \[Death\] Studies at the Digital Crossroads," *Social Text* 36, no.
     4 (2018), p. 58.
@@ -823,7 +823,7 @@ representing Middle Passage mortality.
     (Cambridge, MA: Harvard University Press, 2010), pp. 28-29.
 
 [^15]: See the previous section as well as Saidiya Hartman, "Venus in Two Acts,"
-    *Small Axe* 12, no. 2 (2008), pp. 1-14; M. NourbSe Philip, *Zong! As
+    *Small Axe* 12, no. 2 (2008), pp. 1-14; and M. NourbSe Philip, *Zong! As
     Told to the Author by Setaey Adamu Boateng* (Middletown: Wesleyan
     University Press, 2008), pp. 108-207.
 
@@ -924,7 +924,7 @@ representing Middle Passage mortality.
     is particularly sensitive, given a context in which the pigmentation
     of skin determined vulnerability to myriad abuses" (p. 96).
 
-[^28]: Sowande' M. Mustakeem, *Slavery at Sea: Terror, Sex, and Sickness
+[^28]: Sowande\' M. Mustakeem, *Slavery at Sea: Terror, Sex, and Sickness
     in the Middle Passage* (Champaign: University of Illinois Press,
     2016), p. 6, *passim*.
 
@@ -943,7 +943,7 @@ representing Middle Passage mortality.
 
 [^33]: Hartman, "Venus in Two Acts," p. 11.
 
-[^34]: Hartman, "Venus in Two Acts," p. 12; Stephanie Smallwood, "The
+[^34]: Hartman, "Venus in Two Acts," p. 12; and Stephanie Smallwood, "The
     Politics of the Archive and History's Accountability to the
     Enslaved," *History of the Present* 6, no. 2 (2016), p. 127.
 
