@@ -36,23 +36,7 @@ also those presented by tools and technologies that are changing at an
 unprecedentedly breathless pace---we must always be asking: what do we
 get for our digital trouble?
 
-Humanists before all else, we would venture to say that the "get" is
-more questions---old ones asked and answered in new ways, new ones
-surfaced through the ones and zeros of our code. We take nothing for
-granted in our digital praxis, and our seventh issue makes that premise
-explicit. The work featured here enjoins us to embrace a Black Digital
-Practice that is, as our contributors Charlotte Sussman and Tye Landels
-remind us, "invested in process rather than in product." Sussman and
-Landels lay out the specific ways they have worked to craft small
-stories from big data in their extraordinary cartographic project,
-"Remembering the Middle Passage." Working with technology that invites
-the amassing and comprehending of information on the most sweeping of
-scales, Sussman and Landels propose, almost counterintuitively, that we
-narrow our focus. Their work is an eloquent and compelling call to
-"disaggregate," to "remix," and to "remediate" the grand narratives
-produced by the increasingly massive stores of information at our
-disposal. Faced with the vast expanse of the data forest, we must aim, they insist, to
-bring not just the trees, but individual branches, into better view.
+Humanists before all else, we would venture to say that the "get" is more questions---old ones asked and answered in new ways, new ones surfaced through the ones and zeros of our code. We take nothing for granted in our digital praxis, and our seventh issue makes that premise explicit. The work featured here enjoins us to embrace a Black Digital Practice that is, as our contributors Landels et al. remind us, "invested in process rather than in product." Landels et al. lay out the specific ways they have worked to craft small stories from big data in their extraordinary cartographic project, "Remembering the Middle Passage." Working with technology that invites the amassing and comprehending of information on the most sweeping of scales, Landels et al. propose, almost counterintuitively, that we narrow our focus. Their work is an eloquent and compelling call to "disaggregate," to "remix," and to "remediate" the grand narratives produced by the increasingly massive stores of information at our disposal. Faced with the vast expanse of the data forest, we must aim, they insist, to bring not just the trees, but individual branches, into better view.
 
 The work of making colonial tools engender different stories and chart
 otherwise journeys is, ultimately, a refusal of comprehension as

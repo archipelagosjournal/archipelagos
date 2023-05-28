@@ -6,10 +6,10 @@ title:
   "short": "\"Died a small boy\""
 doi: ""
 author:
-- name: Charlotte Sussman
-  shortname: Sussman
+- name: Tye Landels
+  shortname: Landels
   bio: >
-    Charlotte Sussman is Professor and Chair of English at Duke University.
+    Tye Landels is a doctoral candidate in English at Duke University.
 - name: Isabel Bradley
   shortname: Bradley
   bio: >
@@ -26,15 +26,14 @@ author:
   shortname: Harwell
   bio: >
     Jane Harwell is a doctoral candidate in English at Duke University.
-- name: Tye Landels
-  shortname: Landels
-  bio: >
-    Tye Landels is a doctoral candidate in English at Duke University.
 - name: Anya Lewis Meeks
   shortname: Lewis Meeks
   bio: >
     Anya Lewis Meeks is a doctoral candidate in English at Duke University.
-
+- name: Charlotte Sussman
+  shortname: Sussman
+  bio: >
+    Charlotte Sussman is Professor and Chair of English at Duke University.
 date: May 2023
 issue: 7
 order: 1
