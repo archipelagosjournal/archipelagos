@@ -381,7 +381,7 @@ Boffone argues that, "while TikTok is a space that can become a source
 of empowerment and agency for some, it is also an app that is plagued
 with many of the material issues of racialized identity that are
 hallmarks of social life in the United States" (33). Likewise, Melanie
-Kennedy, in her study of "the viral spectacle of girls' bedroom culture,
+Kennedy, in her study of "the viral spectacle of girls' bedroom culture,"
 positions certain TikTok phenomena as the "continuation and
 intensification of girl culture and the ideals of young female celebrity
 of the past two decades" (1070). Yet she also acknowledges how the app
@@ -664,8 +664,7 @@ imagination or the imaginative power of Jamaicans. The novel takes pains
 to consistently show that Joe is drawing on popular culture to
 understand what is in many ways incomprehensible. He has never seen
 nature so aggressive, his house so fragile, or adults so fraught with
-worry. Despite the seasonal nature of hurricanes in the Caribbean, the
-thirteen-year-old Joe is experiencing something novel; and given the
+worry. Despite the seasonal nature of hurricanes in the Caribbean, thirteen-year-old Joe is experiencing something novel; and given the
 narrative structure of *Hurricane*, readers have intimate access to his
 evolving imagination. The novel makes space for readers to understand
 how disaster may strain and even rupture individual sensibilities, and

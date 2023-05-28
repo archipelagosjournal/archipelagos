@@ -9,7 +9,7 @@ author:
 - name: Isabel Bradley
   shortname: Bradley
   bio: >
-    Isabel Bradley is a PhD candidate in Romance Studies at Duke University. Her work is broadly framed by currents of decolonial thought and their intersections with environmental studies in the Francophone Caribbean. She studies the ways in which modes of being, sensory perception, and historicity emerge from embodied engagements with ecologies such as subsistence plots, plantation monocultures, mornes, and oceans. Grounded in French-language natural historical texts, visual and cartographic materials, and Caribbean literatures, her dissertation project traces the role of the manioc root in sustaining relational, counter-plantation modes of being human from the 16th-century to the present. Isabel has held research fellowships at the John Carter Brown Library and the Library Company of Philadelphia and spent a visiting semester at the École normale supérieure in Paris. 
+    Isabel Bradley is a PhD candidate in Romance Studies at Duke University. Her work is broadly framed by currents of decolonial thought and their intersections with environmental studies in the Francophone Caribbean. She studies the ways in which modes of being, sensory perception, and historicity emerge from embodied engagements with ecologies such as subsistence plots, plantation monocultures, mornes, and oceans. Grounded in French-language natural historical texts, visual and cartographic materials, and Caribbean literatures, her dissertation project traces the role of the manioc root in sustaining relational, counter-plantation modes of being human from the 16th century to the present. Isabel has held research fellowships at the John Carter Brown Library and the Library Company of Philadelphia and spent a visiting semester at the École normale supérieure in Paris. 
 - name: Laurent Dubois
   shortname: Dubois
   bio: >
@@ -94,8 +94,8 @@ images, if they exist, would be beyond the scope of this project, but it
 would be important for the authors to attend to this chronological and
 technological gap in their argument and project framing. Is there a
 relationship between these systems and technologies of retrieval and
-viewing that need to be named and----by extension, as the authors have
-invited----redressed and reimagined?
+viewing that need to be named and---by extension, as the authors have
+invited---redressed and reimagined?
 
 The methods used in the project are appropriate to the research
 questions it poses. The various choices for viewing the archival and
@@ -226,7 +226,7 @@ Nydia A. Swaby, "Archival Experiments, Notes and (Dis)orientations,"
 
 Ekman, Ulrik, Daniela Agastinho, et. al, *The Uncertain Image*, 2019.
 
-## Response from Isabel Bradley and, Laurent Dubois, site authors of *Monograph of Haiti Map*
+## Response from Isabel Bradley and Laurent Dubois, site authors of *Monograph of Haiti Map*
 
 We are tremendously grateful for these thoughtful, rich, and inspiring
 responses to our project. To have someone who is clearly deeply anchored
@@ -259,18 +259,18 @@ expertise was invaluable.
 Once we were trained and situated in the use of the software, however,
 all three of us did a great deal of georeferencing, poring over the
 images and finding coordinating points between the satellite imagery and
-the photographs. We developed and shared techniques----using church and
-government buildings and key roads and crossroads, for instance----as we
+the photographs. We developed and shared techniques---using church and
+government buildings and key roads and crossroads, for instance---as we
 did so. In the process, we had regular discussions about the theoretical
 and methodological questions being raised by the project. We feel that
 the combination of very focused labor around the point-to-point
 connecting of photographs and satellite imagery with the larger
 theoretical reflections made for a richer experience in both directions.
 
-But the reviewer raises questions----particularly about the fact that
+But the reviewer raises questions---particularly about the fact that
 our project took images that were "originally bound together, unbound
 and digitized, and then digitally reconfigured in relation to one
-another." That would be worth dwelling on a bit more in our presentation
+another"---that would be worth dwelling on a bit more in our presentation
 of the site. This all also suggests that perhaps a more explicit
 description of our process and what we learned from it could be a useful
 addition to some of the paratext of the site.
@@ -292,8 +292,8 @@ We are also taken with the reviewer's call for us to contend with the
 Haiti* images and the satellite images that the authors use in the
 project." There is, we feel, a longer-term possibility that this project
 might be the foundation for a fuller history of mapping of Haiti,
-perhaps going back to the sixteenth and seventeenth century and into a
-more multiple set of twentieth century envisionings of the landscape.
+perhaps going back to the 16th and 17th century and into a
+more multiple set of 20th century envisionings of the landscape.
 This would have the advantage of really highlighting the fact of the
 constructedness of all forms of geographic visualization. At the same
 time, the inclusion of different types of landscape imaging would also
@@ -306,12 +306,12 @@ placed between the 1930 images and the contemporary satellite imagery.
 Throughout our work on the project, we have discussed and pondered
 whether there might be ways to include very different types of
 visualization, such as Haitian paintings of landscapes or excerpts from
-works of literature (for instance, the works of Marie-Vieux Chauvet) as
+works of literature (for instance, the works of Marie Vieux-Chauvet) as
 a kind of counterpoint to the forms of surveillance imagery showcased
 here. Though we could not do this for all the locations, perhaps there
 would be a way of creating clusters of imagery around certain
-places----Jacmel comes to mind as one powerful potential, given the
-profusion of representations of the city----as a way of disrupting and
+places---Jacmel comes to mind as one powerful potential, given the
+profusion of representations of the city---as a way of disrupting and
 questioning other aspects of the project. The idea of creating some kind
 of dialogue like this within the project is very exciting, if also
 slightly daunting for the design questions it raises.
@@ -344,7 +344,7 @@ appreciated the positive reading of this offered by the reviewer, we
 definitely feel the need to then allow for a better set of ways to move
 through this landscape. We also will explore the suggestion that we
 might consider a different background that doesn't "washout" these
-images----perhaps gray or blue----to change the initial engagement with
+images---perhaps gray or blue---to change the initial engagement with
 the mosaic. And we really like the idea of "prioritizing relationships
 between the maps to trouble the singularity and surveillance quality of
 the images," and thinking through what kinds of comparisons might be
