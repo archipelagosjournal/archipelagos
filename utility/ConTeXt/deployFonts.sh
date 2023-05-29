@@ -12,8 +12,9 @@ https://github.com/jackhumbert/kle-image-creator/raw/master/fonts/HelveticaNeueL
 https://github.com/adachis/Lifehacker.me/raw/master/fonts/HelveticaNeue-Bold.ttf
 HereDoc
 wget --directory-prefix=$root/.fonts -i $root/.fonts/toDownload -nc
-
-export OSFONTDIR=$root/.fonts:$(find / -name "*ttf" -o -name "*otf" -printf "%h\n" 2>/dev/null | sort | uniq | tr '\n' :)
+echo "starting export"
+export OSFONTDIR=$root/.fonts:$(locate --basename --regex "\.[ot]tf" | sort | uniq | tr '\n' :)
+echo "done with font list"
 # export OSFONTDIR=$HOME/.fonts
 echo $OSFONTDIR
 

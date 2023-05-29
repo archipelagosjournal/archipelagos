@@ -573,7 +573,7 @@ Haiti, since its days as Saint-Domingue, has been the scene of
 disrupting "ocularcentric forms of knowledge production and the written
 word," a space of unmapping and countermapping through radical,
 ancestrally-grounded sensory orientations in space and time.[^39]
-Communal forms of inhabiting space like *lakou* and *kombit*^40] and
+Communal forms of inhabiting space like *lakou* and *kombit*[^40] and
 their urban and diasporic transformations imbue natural features,
 architectures, songs, healing plants, and subsistence agriculture with
 myriad and layered ties to invisible worlds. Haiti is home to "a

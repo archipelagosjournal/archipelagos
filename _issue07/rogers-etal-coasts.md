@@ -56,9 +56,9 @@ arts matter after a hurricane?
 
 {% include image.html 
     img="issue07/binard-afraid.jpg"
-    title="*Afraid to Launch*"
-    caption="*Afraid to Launch*. Binard, Sally. Florida Keys, 2017."  
     url="http://coastsincrisis.net/afterthehurricane"
+    title="*Afraid to Launch*"
+    caption="*Afraid to Launch*. Binard, Sally. Florida Keys, 2017."
 %}
 
 These questions animate [*Coasts in Crisis: Caribbean Arts and Cultures After Hurricanes*](http://coastsincrisis.net/), a digital humanities
@@ -110,9 +110,9 @@ as a means through which colonized peoples can make their voices heard.
 
 {% include image.html
     img="issue07/berg-deafening.jpg"
+    url="http://coastsincrisis.net/deafeningsilence"
     title="*Deafening Silence*"
     caption="Berg, David. St. Croix, 2018."
-    url="http://coastsincrisis.net/deafeningsilence"
 %}
 
 Beyond the popular term "artivism," poetry, music, and art matter after
@@ -176,9 +176,9 @@ through art.
 
 {% include image.html 
     img="issue07/site-homepage.png"
-    title="Three 2017 hurricane paths"
-    caption="The homepage for Coasts in Crisis digital." 
     url="http://coastsincrisis.net/"
+    title="Three 2017 hurricane paths"
+    caption="The homepage for Coasts in Crisis digital."
 %}
 
 
@@ -306,9 +306,9 @@ shown by the typeset we used to display Nicole Delgado's poetry.
 
 {% include image.html
     img="issue07/delgado-poem.png"
+    url="http://coastsincrisis.net/ageofabandonment"
     title="*Las casas vacías*"
     caption="Delgado, Nicole. Screenshot of the poem as it appears on the site. Puerto Rico."
-    url="http://coastsincrisis.net/ageofabandonment"
 %}
 
 We hope, too, that the individual care we gave each piece of art in its
@@ -554,9 +554,9 @@ linger, and it offers a testament to regeneration.
 
 {% include image.html
     img="issue07/berg-regrowth.jpg"
+    url="http://coastsincrisis.net/slavetrees"
     title="*Regrowth I*"
     caption="Berg, David. St. Croix, 2017."
-    url="http://coastsincrisis.net/slavetrees"
 %}
 
 ---
@@ -739,14 +739,9 @@ more powerful and frequent hurricanes.
 Regarding the benefit of the project to the artists themselves, we
 articulate the project's aims as follows:
 
-1.  To amplify the work of Caribbean artists living in precarious
-    communities after the 2017 hurricane season
-
-2.  To establish opportunities for intercontinental and archipelagic
-    connections facilitated by artistic engagement
-
-3.  To begin an ongoing conversation on the relationship between art,
-    disaster, and coloniality
+1. To amplify the work of Caribbean artists living in precarious communities after the 2017 hurricane season
+2. To establish opportunities for intercontinental and archipelagic connections facilitated by artistic engagement
+3. To begin an ongoing conversation on the relationship between art, disaster, and coloniality
 
 We have made several revisions to the site in light of the reviewer's
 generous and substantive feedback on the site's design and navigation.

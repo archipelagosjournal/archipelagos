@@ -1,0 +1,2 @@
+s#startenumerate\[n,packed\]\[stopper=.\]#startitemize[n,packed][stopper=.\]#g
+s#stopenumerate#stopitemize#g

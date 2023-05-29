@@ -5,7 +5,7 @@ if [ -z $1 ]; then
 	echo "./convert.sh foo.md"
 	exit 1;
 fi
-echo "Starting $1. Root at: `pwd`"
+echo -e "\n***convert.sh***\nStarting $1. Root at: `pwd`"
 fullfile=$1
 
 root=$2
@@ -17,6 +17,8 @@ Red='\033[0;31m'          # Red
 filename=$(basename "$fullfile")
 extension="${filename##*.}"
 filename="${filename%.*}"
+
+which python
 
 if [ $(grep --count "pdf: false" $fullfile) -gt 0 ]; then
 	echo "pdf: false detected. skipping render $fullfile. No errors tested."
@@ -31,6 +33,7 @@ fi
 
 
 echo Pandoc $filename
+pwd
 pandoc --template $root/utility/ConTeXt/template.unitTest -f markdown -t context --filter $root/utility/ConTeXt/contextStyles.py --wrap=none -o $filename.tex $1
 echo Postprocess $filename
 
@@ -44,6 +47,7 @@ ssed -r -i -f $root/utility/ConTeXt/tables.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/epigraph.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/captionFigure.ssed $filename.tex
 ssed -r -i -f $root/utility/ConTeXt/backslash.ssed $filename.tex
+ssed -r -i -f $root/utility/ConTeXt/enumerate.ssed $filename.tex
 echo ConTeXt $filename, log into $3 
 
 
