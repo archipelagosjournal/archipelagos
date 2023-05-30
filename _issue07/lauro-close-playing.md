@@ -4,7 +4,7 @@ section: articles
 title: 
   "long": "A Close-Playing: The Videogames of Patrick Chamoiseau"
   "short": "A Close-Playing"
-doi: ""
+doi: "10.7916/archipelagos-0703"
 author: 
 - name: Sarah Juliet Lauro
   shortname: Lauro

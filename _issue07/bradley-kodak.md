@@ -5,7 +5,7 @@ title:
   "long": "Breaking the *Kodak*: Surveillance and Subversion in the *Monograph of
 the Republic of Haiti* Map"
   "short": "Breaking the Kodak"
-doi: ""
+doi: "10.7916/archipelagos-0702"
 author: 
 - name: Isabel Bradley
   shortname: Bradley

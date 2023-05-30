@@ -5,7 +5,7 @@ title:
   "long": "A Review of \"Rendering Revolution: Sartorial Approaches to
 Haitian History.\""
   "short": "A Review"
-doi: ""
+doi: "10.7916/archipelagos-07dpr1"
 author: 
 - name: Marlene Gaynair
   shortname: Gaynair

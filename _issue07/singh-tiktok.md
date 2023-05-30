@@ -5,7 +5,7 @@ title:
   "long": "\"I know the world by how I speak the world\": TikTok ABCs, Disaster
 Language, and Andrew Salkey's *Hurricane*"
   "short": "\"I know the world by how I speak the world\""
-doi: ""
+doi: "10.7916/archipelagos-0704"
 author: 
 - name: Kris Singh
   shortname: Singh
