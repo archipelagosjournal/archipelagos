@@ -562,14 +562,14 @@ outlined in the manual.
 
 {% include image.html
     img="issue07/lauro4.png"
-    title="Screen captures from the English version of the game"
-    caption=""
+    title="Screen captures from the English version of the game showing the face of a man"
+    caption="Fig. 4. Screen capture from the English version of the game, played on DosZone."
 %}
 
 {% include image.html
     img="issue07/lauro5.png"
-    title="Screen captures from the English version of the game"
-    caption="Fig. 4 and 5. Screen captures from the English version of the game, played on DosZone. Note that the same face is used though the man is clearly meant to indicate a different person, in a different part of the plantation."
+    title="Screen captures from the English version of the game showing the face of man"
+    caption="Fig. 5. Screen capture from the English version of the game, played on DosZone. Note that the same face is used though the man is clearly meant to indicate a different person, in a different part of the plantation."
 %}
 
 The same two male faces are used over and over for the unnamed fieldhand
