@@ -2,4 +2,3 @@ s/\\letterbackslash\{\}/\\\\/g
 
 s/\\\\ ~/\\\\\\strut /g
 
-s#\startenumerate[n,packed][stopper=.]#\startenumerate[n,packed]#g

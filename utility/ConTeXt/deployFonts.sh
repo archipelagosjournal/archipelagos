@@ -13,7 +13,7 @@ https://github.com/adachis/Lifehacker.me/raw/master/fonts/HelveticaNeue-Bold.ttf
 HereDoc
 wget --directory-prefix=$root/.fonts -i $root/.fonts/toDownload -nc
 echo "starting export"
-export OSFONTDIR=$root/.fonts:$(locate --basename --regex "\.[ot]tf" | sort | uniq | tr '\n' :)
+export OSFONTDIR=$root/.fonts:$(locate --basename --regex "\.[ot]tf" -0 | xargs -I{} -0 dirname {} | sort | uniq | tr '\n' : | sed 's/:$//')
 echo "done with font list"
 # export OSFONTDIR=$HOME/.fonts
 echo $OSFONTDIR
