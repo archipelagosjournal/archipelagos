@@ -15,6 +15,7 @@ date: May 2022
 issue: 7
 order: 1
 language: en
+pdf: true
 ---
 
 

@@ -16,6 +16,7 @@ author:
   bio: >
     [Alex Gil](http://www.elotroalex.com/) is Senior Lecturer II and Associate Research Faculty of Digital Humanities in the Department of Spanish and Portuguese at Yale University, where he teaches introductory and advanced courses in digital humanities, and runs project-based learning and collective research initiatives. His research interests include Caribbean culture and history, digital humanities and technology design for different infrastructural and socio-economic environments, and the ownership and material extent of the cultural and scholarly record. He is currently co-organizer of The Caribbean Digital annual conference, and co-principal investigator of the Caribbean Digital Scholarship Collective, funded by the Andrew W. Mellon foundation.
 language: en
+pdf: false
 ---
 
 

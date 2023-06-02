@@ -16,6 +16,7 @@ order: 3
 image: images/issue07/cabildo.jpg
 thumb: images/issue07/cabildo-thumb.jpg
 link: "https://cabildoderegla.org/"
+pdf: false
 ---
 
 ## *archipelagos* presents The Cabildo de Regla Project: A Digital Archive

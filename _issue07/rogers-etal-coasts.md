@@ -24,6 +24,7 @@ order: 1
 image: images/issue07/coasts.png
 thumb: images/issue07/coasts-thumb.png
 link: "http://coastsincrisis.net/"
+pdf: false
 ---
 
 ## *archipelagos* presents *Coasts in Crisis*

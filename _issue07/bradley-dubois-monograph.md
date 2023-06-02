@@ -20,6 +20,7 @@ order: 2
 image: images/issue07/monograph.png
 thumb: images/issue07/monograph-thumb.png
 link: "https://www.arcgis.com/apps/webappviewer/index.html?id=de268c688b8142fbb689fb52826fa818"
+pdf: false
 ---
 
 ## *archipelagos* presents the *Monograph of Haiti Map*
