@@ -417,11 +417,11 @@ professionally recognized and often institutionally rewarded outcomes or
 deliverables (e.g., the digital map, database, exhibit, etc.), the
 authors of "The Digital Humanities Manifesto 2.0" embrace a vision of
 the digital humanities as invested in process rather than in product:
-"\[a\]nything that stands in the way of the perpetual mash‐up and
+"\[a\]nything that stands in the way of the perpetual mash-up and
 remix," they write, "stands in the way of the digital revolution ...
 Untapped gold mines of knowledge are to be found in the realm of
 *process*."[^29] Later, they contend that "the phrase \[digital
-humanities\] has use‐value to the degree that it can serve as an
+humanities\] has use-value to the degree that it can serve as an
 umbrella under which to group both people and projects seeking to
 reshape and reinvigorate contemporary arts and humanities practices, and
 expand their boundaries."[^30] What these comments suggest is that, when
