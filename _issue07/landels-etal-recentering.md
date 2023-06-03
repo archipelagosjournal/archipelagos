@@ -5,6 +5,7 @@ title:
   "long": "\"Died a small boy\": Re-Centering the Human in Geospatial Data from the Middle Passage"
   "short": "\"Died a small boy\""
 doi: "10.7916/archipelagos-aszw-fy69"
+etalauthor: "Landels, Bradley, Desir, *et. al.*"
 author:
 - name: Tye Landels
   shortname: Landels

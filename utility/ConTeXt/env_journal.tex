@@ -47,6 +47,40 @@
                   expansion=quality,
                   protrusion=quality]
 
+
+\starttypescript [main]
+  \definefontsynonym[HelveticaNeue-Regular]    [name:helveticaneue]
+  \definefontsynonym[HelveticaNeue-Italic]     [name:helveticaneueitalic]
+  \definefontsynonym[HelveticaNeue-Bold]       [name:helveticaneuebold]
+\stoptypescript
+
+\starttypescript [main]
+  \setups[font:fallback:sans]
+  \definefontsynonym[Sans]                [HelveticaNeue-Regular]    [features=default]
+  \definefontsynonym[SansItalic]          [HelveticaNeue-Italic]     [features=default]
+  \definefontsynonym[SansBold]            [HelveticaNeue-Bold]       [features=default]
+\stoptypescript
+
+\starttypescript [main]
+  \definetypeface [main]    [tf] [sans] [main]    [default]
+\stoptypescript
+
+
+\starttypescript [light]
+  \definefontsynonym[HelveticaNeue-Regular]    [name:helveticaneuelight]
+  \definefontsynonym[HelveticaNeue-Italic]     [name:helveticaneuelightitalic]
+\stoptypescript
+
+\starttypescript [light]
+  \setups[font:fallback:sans]
+  \definefontsynonym[Sans]                [HelveticaNeue-Regular]    [features=default]
+  \definefontsynonym[SansItalic]          [HelveticaNeue-Italic]     [features=default]
+\stoptypescript
+
+\starttypescript [light]
+  \definetypeface [light]    [tf] [sans] [light]    [default]
+\stoptypescript
+
                  
 %[tf=helveticaneuethin, it=helveticaneuelightitalic, sl=helveticaneuelightitalic, bf=helveticaneuebold, bi=helveticaneuelightitalic]
 

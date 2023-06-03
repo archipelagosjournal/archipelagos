@@ -343,7 +343,7 @@ and elsewhere often roll the latest social media sensations into their
 marketing strategies to flog an array of commodities. Boffone explains,
 "\[y\]oung people with significant follower counts are lucrative
 marketing spaces -- effectively, hyper-specific social media billboards
-­that large companies have become increasingly interested in."[^35]
+that large companies have become increasingly interested in."[^35]
 Unsurprisingly, Felmine was recruited by a local company,
 Tootoolbay.com, to reproduce his skit format, including the premise of
 instruction and the use of vernacular, for an advertisement for their
@@ -884,7 +884,6 @@ language.[^71]
 
 [^40]: Clifford Smith, \"MV Corner: Mr. Vegas Responds...\" Facebook
     Video (23 May 2016),
-
     <https://www.facebook.com/MrVegasMusic/videos/10154195593144486/>.
 
 [^41]: Samuel Selvon, *The Lonely Londoners* (London: Penguin, 2006),

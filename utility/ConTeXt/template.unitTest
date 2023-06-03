@@ -1,4 +1,4 @@
-\setvariables[article][shortauthor={$for(author)$$author.shortname$$sep$, $endfor$}, date={$date$}, issue={$issue$}, DOI={$if(doi)$$doi$$else$Upcoming$endif$}]
+\setvariables[article][shortauthor={$if(etalauthor)$$etalauthor$$else$$for(author)$$author.shortname$$sep$, $endfor$$endif$}, date={$date$}, issue={$issue$}, DOI={$if(doi)$$doi$$else$Upcoming$endif$}]
 
 \setupinteraction[title={$title.long$},author={$for(author)$$author.name$$sep$, $endfor$}, date={$date$}, subtitle={$title.short$}, state=start, color=black, style=\tf]
 \environment env_journal
