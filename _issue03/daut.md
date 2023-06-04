@@ -89,7 +89,8 @@ country in 1915.
 {% include image.html
     img="issue03/daut-a.jpg"
     title="Close up of museum timeline showing the gap."
-    caption=" Figure 1. Photo courtesy of Tabitha McIntosh" %}
+    caption="Figure 1. Photo courtesy of Tabitha McIntosh" 
+%}
 
 This kind of elision, and indeed suppression, has the effect of framing
 Haitian history almost entirely around its relationship to Europe and
@@ -106,7 +107,8 @@ dictatorship that was simultaneously dominated by the Western powers
 {% include image.html
     img="issue03/daut-b.jpg"
     title="Long view of the timeline."
-    caption=" Figure 2. Photo courtesy of Tabitha McIntosh" %}
+    caption="Figure 2. Photo courtesy of Tabitha McIntosh"
+%}
 
 The problem with forgetting Haiti's long nineteenth century is that this
 time period was, in many respects, the last time Haiti saw generally
@@ -248,7 +250,8 @@ Atlantic](https://s3.amazonaws.com/uploads.knightlab.com/storymapjs/ba15390b4fd1
 {% include image.html
     img="issue03/daut-c.jpg"
     title="Vèvè of Papa Legba"
-    caption=" Figure 3. *Vèvè of Papa Legba*" %}
+    caption="Figure 3. *Vèvè of Papa Legba*"
+%}
 
 If Legba opens the gates so that the living can have access to the dead,
 this is not solely for the purposes of remembrance, and it is certainly
@@ -573,7 +576,8 @@ variation, perhaps, of the "citizen historian" model?
 Jean-Jacques Dessalines."
     caption="Figure 4. Letter from General Donatien Rochambeau to General
 Jean-Jacques Dessalines. Josefina del Toro Fulladosa Collection, Alfred
-Nemours Collection, University of Puerto Rico, Río Piedras Campus." %}
+Nemours Collection, University of Puerto Rico, Río Piedras Campus." 
+%}
 
 
 {% include image.html
@@ -583,7 +587,8 @@ for a royal reception, 17 April 1825."
     caption="Figure 5. Engraving by Barincou of Boyer in full dress uniform
 for a royal reception, 17 April 1825. Josefina del Toro Fulladosa
 Collection, Alfred Nemours Collection, University of Puerto Rico, Río
-Piedras Campus." %}
+Piedras Campus." 
+%}
 
 {% include image.html
     img="issue03/daut-f.jpg"

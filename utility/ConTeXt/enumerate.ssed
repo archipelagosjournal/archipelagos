@@ -1,2 +1,8 @@
-s#startenumerate\[n,packed\]\[stopper=.\]#startitemize[n,packed][stopper=.\]#g
+s#startenumerate\[(.),packed\]\[stopper=(.)]#startitemize[\1,packed][stopper=\2\]#g
 s#stopenumerate#stopitemize#g
+
+s#startenumerate\[(.)\]\[stopper=(.)]#startitemize[\1][stopper=\2\]#g
+s#stopenumerate#stopitemize#g
+
+
+

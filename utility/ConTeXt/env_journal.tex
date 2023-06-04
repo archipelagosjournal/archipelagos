@@ -23,6 +23,10 @@
                  %[range={0x1F48B}]
                  %[range={miscellaneoussymbols,emotion, dingbats}]
 
+\definefontfallback[emojifallback]
+[name:EmojiOneColor][0x00000-0xFFFFF][check=yes,force=no]
+
+
 \definefallbackfamily[main]
                  [sans]
                  [Noto Sans]
@@ -56,7 +60,7 @@
 
 \starttypescript [main]
   \setups[font:fallback:sans]
-  \definefontsynonym[Sans]                [HelveticaNeue-Regular]    [features=default]
+  \definefontsynonym[Sans]                [HelveticaNeue-Regular]    [features=default,fallbacks=emojifallback]
   \definefontsynonym[SansItalic]          [HelveticaNeue-Italic]     [features=default]
   \definefontsynonym[SansBold]            [HelveticaNeue-Bold]       [features=default]
 \stoptypescript

@@ -1513,7 +1513,7 @@ Notes
     On practices of meming, see Lopes, "Culture and Stigma." See also
     Limor Shifman, "Humor in the Age of Digital Reproduction: Continuity
     and Change in Internet-Based Comic Texts," *International Journal of
-    Communication* 1 (2007): 187­–209,
+    Communication* 1 (2007): 187–209,
     <https://ijoc.org/index.php/ijoc/article/view/11>; Shifman, "Memes
     in a Digital World"; Limor Shifman, "The Cultural Logic of
     Photo-Based Meme Genres," *Journal of Visual Culture* 13, no. 3

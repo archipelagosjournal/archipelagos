@@ -45,7 +45,8 @@ The success of this project has allowed this group of scholars, and the scholars
 {% include image.html
 	img="issue02/Basilica.jpg"
 	title="Cathedral Basilica of St. Augustine, St. Augustine, Florida"
-	caption="The Cathedral Basicila of St. Augustine, Florida, where the ESSSS team digitized hundreds of records of free and enslaved Africans from Florida’s Spanish period. Photo by Jane Landers"%}
+	caption="The Cathedral Basicila of St. Augustine, Florida, where the ESSSS team digitized hundreds of records of free and enslaved Africans from Florida’s Spanish period. Photo by Jane Landers"
+%}
 
 ## Issues of Expansion
 

@@ -59,7 +59,7 @@ fi
 
 
 cp $filename.tex $3/$filename.tex
-context --batchmode $filename.tex > $3/$filename.log 
+context --luatex --batchmode $filename.tex > $3/$filename.log 
 contextmode=$?
 
 grep --color --line-number --with-filename "error" $3$filename.log -r 

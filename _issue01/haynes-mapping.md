@@ -378,7 +378,7 @@ examined have been characterized as witty, it remains an important
 category for understanding feminist rhetorical strategies.
 
 
-Blog Name | Blogger | Country | Categorization 
+**Blog Name** | **Blogger** | **Country** | **Categorization**
 ---------------------------- | ------------------- | ------------------------ | -----------------------------------
 [1981: A Record of What Happened](http://amedjafifa.wordpress.com)| Some of It/DJ Afifa Aza | Jamaica | Personal-is-political, culture critic
 [Active Voice](http://anniepaul.net) | Annie Paul | Jamaica | +Feminism, culture critic, witty 

@@ -9,7 +9,7 @@ author:
 - name: Kelly Baker Josephs
   shortname: Josephs
   bio: >
-    Kelly Baker Josephs is a professor of English at York College, City University of New York, and a professor of English and digital humanities at the CUNY Graduate Center. She is the author of *Disturbers of the Peace: Representations of Insanity in Anglophone Caribbean Literature* (2013), the founder and former editor of *sx salon: a small axe literary platform*, and the manager of [*The Caribbean Commons*](http://caribbean.commons.gc.cuny.edu/) website.
+    Kelly Baker Josephs is a professor of English at York College, City University of New York, and a professor of English and digital humanities at the CUNY Graduate Center. She is the author of *Disturbers of the Peace: Representations of Insanity in Anglophone Caribbean Literature* (2013), the founder and former editor of *sx salon: a small axe literary platform*, and the manager of [*The Caribbean Commons*](http://caribbean.commons.gc.cuny.edu/) website.
 date: December 2020
 issue: 5
 order: 3
@@ -430,12 +430,12 @@ post "West Indian Literature Online." When listing current bloggers in
 the "small, vibrant, and growing literary sector in the Caribbean
 blogosphere," Laughlin prodded: "And maybe Marlon James—whose first
 novel, *John Crow's Devil*, was nominated for both a Commonwealth
-Writers' Prize and a Los Angeles Times Book Prize—will start a ‘real'
-blog one of these days—meanwhile, he's been keeping a so­called ‘plog'
+Writers' Prize and a Los Angeles Times Book Prize—will start a 'real'
+blog one of these days—meanwhile, he's been keeping a so-called 'plog'
 over at Amazon.com, where he's been writing about, among other things,
 Jean Rhys and literacy in Jamaica."[^31] On 29 May, James commented on
 Laughlin's post: "Alright! Alright! Damn it! I will set up my blog and
-stop with this ‘plogging' business right away." And the first post on
+stop with this 'plogging' business right away." And the first post on
 his personal blog is dated 30 May. From posts and comments like these—on
 sites such as *Global Voices* as well as on popular personal blogs such
 as Annie Paul's *Active Voice* and Geoffrey Philp's blog—we can trace

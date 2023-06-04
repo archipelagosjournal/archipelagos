@@ -306,9 +306,10 @@ Jamaica.
 
 {% include image.html
   img="issue05/prater/fig7.png"
-  title="Exceprt from an exchange between Pascal Cheng and 1970Rudeboy (among others) in the comments below an upload of Stephen Cheng's &quot;Always Together&quot; on YouTube."
-  caption="Figure 7. Exceprt from an exchange between Pascal Cheng and 1970Rudeboy (among others) in the comments below an upload of Stephen Cheng's &quot;Always Together&quot; on YouTube."
-  url="https://www.youtube.com/watch?v=R30SYupoQo8" %}
+  url="https://www.youtube.com/watch?v=R30SYupoQo8"
+  title="Exceprt from an exchange between Pascal Cheng and 1970Rudeboy (among others) in the comments below an upload of Stephen Cheng's \"Always Together\" on YouTube."
+  caption="Figure 7. Exceprt from an exchange between Pascal Cheng and 1970Rudeboy (among others) in the comments below an upload of Stephen Cheng's \"Always Together\" on YouTube."
+%}
 
 Pascal Cheng's process of following the digital breadcrumbs is a
 dramatic instance of a digital elegiac practice. His public search for
@@ -400,7 +401,7 @@ replace recently emancipated Afro-descended laborers. The Hakka are a
 fundamentally diasporic people with a history of outsiderness, political
 rebellion, and resistance. They were the driving force of one of the
 bloodiest uprisings in recorded history, the Taiping Rebellion
-(1850–­64), which sought to end dynastic rule, institute land and
+(1850–64), which sought to end dynastic rule, institute land and
 education reform, and topple the Manchurian Qing dynasty.[^25] People of
 Hakka descent were also at the ideological core of the Chinese
 Revolution: Chiang Kai-Shek, director-general of the Kuomintang and

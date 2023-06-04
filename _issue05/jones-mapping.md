@@ -45,7 +45,7 @@ sample syllabi and bibliographical resources.[^1]
 
 ### Contribution
 
-­Teaching the Haitian Revolution, with its many stages, actors, and
+Teaching the Haitian Revolution, with its many stages, actors, and
 battles, can be an overwhelming task for educators. Stephanie Curci and
 Christopher Jones, instructors at Phillips Academy Andover (of English
 and history, respectively), have taken up the *Haitian Revolution Axis
@@ -176,7 +176,7 @@ readily available for other historical events of similar consequence.
 This was something we believed could and should be remedied.
 
 Our strengths are more pedagogical than digital, but we initially tried
-to make the site with the open-source format Omeka. It soon became clear
+to make the site with the open-source format Omeka. It soon became clear
 that what we hoped to show on our map and timeline was more complicated
 than what we could achieve with any of the tools we were capable of
 managing on our own. Although a tool such as
@@ -197,11 +197,11 @@ pivoted from attempting an open-source map to an animated map project
 constructed by [Axis Maps](https://www.axismaps.com/).[^6] We chose for
 our base image a French map from 1803 (the year France lost its battle
 for the colony) that had been built on earlier maps and that highlighted
-well the island's mountainous terrain, its rivers, and its coastline. We
+well the island's mountainous terrain, its rivers, and its coastline. We
 hand-drew a seventeen-map progression, each aspect of which was then
 entered into a spreadsheet (including GPS points, events, and text) and
 plotted and animated by Axis Maps. This approach met almost all our
-needs. We would have liked, for example, to have included an animated
+needs. We would have liked, for example, to have included an animated
 illustration of forts across the country to illustrate the scale and
 significance of Jean-Jacques Dessalines's defense project. Also, each
 map's events are highlighted separately, even if they were happening
@@ -210,7 +210,7 @@ at once, perhaps weakens their collective power. For the most common
 question about the project—When do we believe the Revolution started and
 when did it end?—we provide a partial answer through our choice to start
 the progression of maps with Taino kingdoms ("0–1492—Taino Ayiti") and
-end with "current" borders ("1844–2019—Current Haitian Borders"). 
+end with "current" borders ("1844–2019—Current Haitian Borders"). 
 
 In terms of site preservation, we are able to edit the spreadsheet that
 populates the seventeen maps in the progression, if the map content
@@ -220,14 +220,14 @@ access allows us to modify most things—from narrative to map titles to
 events to locations on the maps—we cannot alter the map base or the
 "areas of control" themselves (either would require more work from Axis
 Maps and, though not out of the question, would be beyond the scope of
-our original project). The static HTML (hypertext markup language)
+our original project). The static HTML (hypertext markup language)
 portions of the site are not updatable by us, which is why our beta
 version used Google Docs for any narrative information that required
 frequent updates, such as our working syllabi and resources. These
 limitations also meant that our beta site did not have an updated "Works
-Cited" page for each link in the "Events" section, for instance. There
+Cited" page for each link in the "Events" section, for instance. There
 are many opportunities for linking to other Haitian studies digital
-sites, and now that the bulk of the main project has been completed,
+sites, and now that the bulk of the main project has been completed,
 those links will continue to be developed. Much of this work has already
 been added to our revised site.
 
@@ -256,7 +256,7 @@ statue by Moun Studio's Daniel Elie was recently placed at the site of
 Dessalines's assassination. A significant challenge we face is in
 acknowledging and integrating the growing wealth of digital work on the
 history and memory of the Revolution without sacrificing the focus and
-cohesiveness of our map project. 
+cohesiveness of our map project. 
 
 We were particularly excited by some of the reviewer's specific
 pedagogical suggestions. As a result, by 2021, we plan to feature on our
@@ -276,12 +276,12 @@ students, but this map is also intended to support tenth-grade students
 in their one-term history elective on revolutions. We have added
 supplementary handouts and assignments for each grade level. The map has
 further application possibilities in, for example, language courses or
-political science. *Mapping the Haitian Revolution* coursework currently
+political science. *Mapping the Haitian Revolution* coursework currently
 meets standards in two disciplines at our school, but we plan to link it
 to Common Core standards so that it can be better integrated in US
-public schools. If this map project is helpful beyond English-speaking
+public schools. If this map project is helpful beyond English-speaking
 students, we would like to explore funding for translation work, which
-would also expand the scope of possible linked resources. We welcome
+would also expand the scope of possible linked resources. We welcome
 feedback and suggestions for further improvement and would especially
 appreciate examples of how the map is helpful in courses of any kind.
 

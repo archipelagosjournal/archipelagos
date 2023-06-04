@@ -334,7 +334,8 @@ students, and three technologists.[^22]
 {% include image.html
   img="issue05/goffe/fig4.png"
   title="Dear X"
-  caption=" Figure 4. My \"from the diaspora\" postcard for the Post(card)s from the \"en dehors garde\" project, which became the landing page image for *Unmapping the Caribbean*." %}
+  caption="Figure 4. My \"from the diaspora\" postcard for the Post(card)s from the \"en dehors garde\" project, which became the landing page image for *Unmapping the Caribbean*." 
+%}
 
 Once the base maps were created, students then meditated on global
 positioning system (GPS) technologies to consider how a Caribbean GPS
