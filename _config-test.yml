@@ -1,27 +1,24 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           none
+permalink: none
 
 # Setup
-title:               "archipelagos"
-publisher:           "Columbia University Libraries"
-description:         'a journal of Caribbean digital praxis'
-
+title: "archipelagos"
+publisher: "Columbia University Libraries"
+description: "a journal of Caribbean digital praxis"
 
 # MOCK
-url:                 'http://dev.elotroalex.com'
-baseurl:             '/archipelagos'
-future:              True
-incremental:         False
+url: "http://dev.elotroalex.com"
+baseurl: "/archipelagos"
+future: True
+incremental: False
 
-
-githuburl:           'https://github.com/archipelagosjournal/archipelagos'
+githuburl: "https://github.com/archipelagosjournal/archipelagos"
 
 # Colophon
 old_issn: 2473-2206
 issn: 2689-842X
-
 
 # Collections
 collections:
@@ -34,14 +31,14 @@ collections:
     date: "June 2016"
     title: "Issue (1)"
     editors:
-    - Kaiama Glover
-    - Alex Gil
-    - Kelly Baker Josephs
+      - Kaiama Glover
+      - Alex Gil
+      - Kelly Baker Josephs
     production:
-    - Alex Gil
-    - Dennis Tenen
-    - Brian Ballsun-Stanton
-    - Kelly S. Martin    
+      - Alex Gil
+      - Dennis Tenen
+      - Brian Ballsun-Stanton
+      - Kelly S. Martin
   issue02:
     slug: issue02
     slug_fr: fr/issue02
@@ -51,12 +48,12 @@ collections:
     date: "September 2017"
     title: "Issue (2)"
     editors:
-    - Kaiama Glover
-    - Alex Gil
+      - Kaiama Glover
+      - Alex Gil
     production:
-    - Alex Gil
-    - Brian Ballsun-Stanton
-    - Kelly S. Martin
+      - Alex Gil
+      - Brian Ballsun-Stanton
+      - Kelly S. Martin
   issue03:
     slug: issue03
     slug_fr: fr/issue03
@@ -66,13 +63,13 @@ collections:
     date: "April 2019"
     title: "Issue (3)"
     editors:
-    - Kaiama Glover
-    - Alex Gil
-    - Jessica Marie Johnson
+      - Kaiama Glover
+      - Alex Gil
+      - Jessica Marie Johnson
     production:
-    - Alex Gil
-    - Brian Ballsun-Stanton
-    - Kelly S. Martin
+      - Alex Gil
+      - Brian Ballsun-Stanton
+      - Kelly S. Martin
   issue04:
     slug: issue04
     slug_fr: fr/issue04
@@ -82,12 +79,12 @@ collections:
     date: "March 2020"
     title: "Issue (4)"
     editors:
-    - Kaiama Glover
-    - Alex Gil
+      - Kaiama Glover
+      - Alex Gil
     production:
-    - Alex Gil
-    - Brian Ballsun-Stanton
-    - Kelly S. Martin
+      - Alex Gil
+      - Brian Ballsun-Stanton
+      - Kelly S. Martin
   issue05:
     slug: issue05
     slug_fr: fr/issue05
@@ -97,12 +94,12 @@ collections:
     date: "December 2020"
     title: "Issue (5)"
     editors:
-    - Kaiama Glover
-    - Alex Gil
+      - Kaiama Glover
+      - Alex Gil
     production:
-    - Alex Gil
-    - Brian Ballsun-Stanton
-    - Kelly S. Martin
+      - Alex Gil
+      - Brian Ballsun-Stanton
+      - Kelly S. Martin
   issue06:
     slug: issue06
     slug_fr: fr/issue06
@@ -112,14 +109,14 @@ collections:
     date: "May 2022"
     title: "Issue (6)"
     editors:
-    - Kaiama Glover
-    - Alex Gil
-    - Perry Collins
-    - Hadassah St. Hubert
+      - Kaiama Glover
+      - Alex Gil
+      - Perry Collins
+      - Hadassah St. Hubert
     production:
-    - Alex Gil
-    - Brian Ballsun-Stanton
-    - Alex Martin
+      - Alex Gil
+      - Brian Ballsun-Stanton
+      - Alex Martin
   issue07:
     slug: issue07
     slug_fr: fr/issue07
@@ -129,12 +126,12 @@ collections:
     date: "May 2023"
     title: "Issue (7)"
     editors:
-    - Kaiama Glover
-    - Alex Gil
+      - Kaiama Glover
+      - Alex Gil
     production:
-    - Alex Gil
-    - Brian Ballsun-Stanton
-    - Emily McGuinn
+      - Alex Gil
+      - Brian Ballsun-Stanton
+      - Emily McGuinn
   archives:
     title: archives
     output: true
@@ -150,12 +147,12 @@ current-number: 6
 markdown: kramdown
 
 kramdown:
-  auto_ids:       true
-  footnote_nr:    1
-  entity_output:  as_char
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
   footnote_backlink: "&#x21a9;&#xfe0e;"
-  toc_levels:     1..6
-  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
 # Gems
@@ -163,20 +160,36 @@ plugins:
   - jekyll-sitemap
   - jekyll-multiple-languages-plugin
 
-
 # About/contact
 author:
   name: "Archipelagos"
   email: archipelagosjournal@gmail.com
-
 
 #i18n
 languages: ["en", "es", "fr"]
 exclude_from_localizations: []
 
 # Custom vars
-version:             0.0.1
+version: 0.0.1
 
 # Excluded
 
-exclude: [utility, Gemfile, Gemfile.lock, extras, vendor, RAKEFILE, update.log, _issue01, _issue02, _issue03, _issue04, _issue05, _issue06, todo]
+exclude:
+  [
+    Dockerfile,
+    docker-readme.txt,
+    utility,
+    Gemfile,
+    Gemfile.lock,
+    extras,
+    vendor,
+    RAKEFILE,
+    update.log,
+    _issue01,
+    _issue02,
+    _issue03,
+    _issue04,
+    _issue05,
+    _issue06,
+    todo,
+  ]
