@@ -3,8 +3,7 @@ global:
   spanish: "en español"
   french: "en français"
   subtitle: "revista de praxis digital en estudios caribeños"
-  blurb:
-    "<em>archipelagos</em> es una revista académica de publicación electrónica, revisada por pares, dedicada a la exploración creativa, el debate y pensamiento crítico sobre y a travez de la práctica digital en espacios artísticos y académicos en y para el Caribe. Dadas las amplias implicaciones del 'giro digital' para nuestra concepción del conocimiento, nuestra misión es discernir las formas en que lo digital puede mejorar y transformar nuestra comprensión del Caribe regional y diaspórico. <em>archipelagos</em> responde a este desafío con tres dimensiones distintas de producción crítica: ensayos académicos; proyectos de investigación digitales; y reseñas de proyectos digitales."
+  blurb: "<em>archipelagos</em> es una revista académica de publicación electrónica, revisada por pares, dedicada a la exploración creativa, el debate y pensamiento crítico sobre y a travez de la práctica digital en espacios artísticos y académicos en y para el Caribe. Dadas las amplias implicaciones del 'giro digital' para nuestra concepción del conocimiento, nuestra misión es discernir las formas en que lo digital puede mejorar y transformar nuestra comprensión del Caribe regional y diaspórico. <em>archipelagos</em> responde a este desafío con tres dimensiones distintas de producción crítica: ensayos académicos; proyectos de investigación digitales; y reseñas de proyectos digitales."
   read_more: "Leer más ..."
   introduction: "Introducción"
   essays: Ensayos
@@ -18,7 +17,7 @@ global:
   and: "y"
   read-exchange: Lea nuestro intercambio
   visit-project: Visite el proyecto
-  cfp: Llamado abierto
+  cfp: Llamado abierto a contribuciones
 
 titles:
   about: "acerca de"
@@ -38,8 +37,7 @@ issues:
   issue07: "Número (7) | mayo 2023"
 
 components:
-  ccby:
-    Este trabajo está licenciado bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Los documentos de origen se pueden encontrar en nuestro 
+  ccby: Este trabajo está licenciado bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Los documentos de origen se pueden encontrar en nuestro
   repository: repositorio
   dedication04: "Dedicamos este número a la memoria de Edward Kamau Brathwaite, pionero inimitable del Caribe digital."
 
@@ -47,3 +45,7 @@ issue06:
   iei-section: "Retrospectiva de Île en île"
   dloc-intro-text: "Los ensayos de este número especial de <em>la revista archipelagos</em> están dedicados al imponente trabajo de la Biblioteca Digital del Caribe. Nuestros editores invitados para este número son Perry Collins y Hadassah St. Hubert."
   iei-intro-text: "Después de 23 años de actividad rica y sostenida, el emblemático proyecto digital caribeño <a href='https://ile-en-ile.org/index.html' target='_blank'>île-en-île</a > cesó la producción. En <em>archipelagos journal</em> queríamos honrar las dos décadas de trabajo editorial pionero de Thomas C. Spear, y las muchas contribuciones de <em>île-en-île</em> a nuestro campo, haciendo dos cosas: Primero, ayudamos a Thomas a implementar varias estrategias de archivo para el sitio y, en segundo lugar, invitamos a varios académicos y educadores a reflexionar sobre el impacto del sitio en nuestra enseñanza e investigación. A continuación se presentan sus reflexiones."
+
+special:
+  i8-cfp: "Llamado a contribuciones"
+  i8-cfp-label: "Número especial de papiamentu/o y el Caribe neerlandés"

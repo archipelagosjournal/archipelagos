@@ -3,8 +3,7 @@ global:
   spanish: "en español"
   french: "en français"
   subtitle: "une revue de praxis numérique caribéenne"
-  blurb:
-    "<em>archipelagos</em> est une revue d’origine numérique, évaluée par des pairs, dévouée à l’exploration créatrice, au débat et à la pensée critique autour et à travers des pratiques numériques dans la production de chercheurs et d’artistes contemporains qui travaillent dans et sur la Caraïbe. Étant donné les implications significatives du virage au digital pour nos conceptions-mêmes du savoir, notre mission est de déterminer la façon dont le numérique peut améliorer et transformer notre compréhension de la Caraïbe régionale et diasporique. <em>archipelagos</em> répond à ce défi par trois dimensions de production critique distinctes: essais scientifiques; projets numériques; et revues de projets numériques."
+  blurb: "<em>archipelagos</em> est une revue d’origine numérique, évaluée par des pairs, dévouée à l’exploration créatrice, au débat et à la pensée critique autour et à travers des pratiques numériques dans la production de chercheurs et d’artistes contemporains qui travaillent dans et sur la Caraïbe. Étant donné les implications significatives du virage au digital pour nos conceptions-mêmes du savoir, notre mission est de déterminer la façon dont le numérique peut améliorer et transformer notre compréhension de la Caraïbe régionale et diasporique. <em>archipelagos</em> répond à ce défi par trois dimensions de production critique distinctes: essais scientifiques; projets numériques; et revues de projets numériques."
   read_more: "Lisez la suite…"
   introduction: "Introduction"
   essays: Essais
@@ -19,7 +18,7 @@ global:
   and: et
   read-exchange: Lisez notre échange
   visit-project: Visitez le projet
-  cfp: Appel à communications
+  cfp: Appel à communications ouvert
 
 titles:
   about: "à propos de nous"
@@ -36,11 +35,10 @@ issues:
   issue04: "Numéro (4) | mars 2020"
   issue05: "Numéro (5) | decembre 2020"
   issue06: "Numéro (6) | dLoC | mai 2022"
-  issue05: "Numéro (5) | mai 2023"
+  issue07: "Numéro (7) | mai 2023"
 
 components:
-  ccby:
-    Ce travail est disponible sous une licence <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> Licence internationale Creative Commons Attribution 4.0 </a>. Les documents source sont disponibles sur notre 
+  ccby: Ce travail est disponible sous une licence <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> Licence internationale Creative Commons Attribution 4.0 </a>. Les documents source sont disponibles sur notre
   repository: référentiel
   dedication04: "Nous dédions ce numéro à la mémoire d'Edward Kamau Brathwaite, pionnier inimitable des Caraïbes numériques."
 
@@ -48,5 +46,7 @@ issue06:
   iei-section: "Retrospective sur Île en île"
   dloc-intro-text: "Les essais de ce numéro spécial du <em>journal archipelagos</em> sont consacrés au travail imposant de la Bibliothèque numérique des Caraïbes. Nos rédacteurs invités pour ce numéro sont Perry Collins et Hadassah St. Hubert."
   iei-intro-text: "Après 23 ans d'activité riche et soutenue, le projet numérique phare <a href='https://ile-en-ile.org/index.html' target='_blank'>île-en-île</a > a cessé la production. Chez archipelagos journal, nous avons voulu honorer les deux décennies de travail éditorial de pionnier de Thomas C. Spear, et les nombreuses contributions d'<em>île-en-île</em> à notre domaine, en faisant deux choses : premièrement, nous avons aidé Thomas à mettre en œuvre plusieurs stratégies d'archivage pour le site ; et deuxièmement, nous avons invité plusieurs universitaires et éducateurs à réfléchir à l'impact du site sur notre enseignement et notre recherche. Vous trouverez ci-dessous leurs réflexions."
-  
-  
+
+special:
+  i8-cfp: "Appel à contributions"
+  i8-cfp-label: "Numéro spécial sur le Papiamentu/o et les Caraïbes néerlandaises"

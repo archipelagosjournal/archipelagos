@@ -3,8 +3,7 @@ global:
   spanish: "en español"
   french: "en français"
   subtitle: "a journal of Caribbean digital praxis"
-  blurb:
-    "<em>archipelagos</em> is a born-digital, peer-reviewed publication devoted to creative exploration, debate, and critical thinking about and through digital practices in contemporary scholarly and artistic work in and on the Caribbean. Given the wide implications of the “digital turn” for our very conceptions of knowledge, our mission is to discern the ways in which the digital may enhance and transform our comprehension of the regional and diasporic Caribbean. <em>archipelagos</em> responds to this challenge with three distinct dimensions of critical production: scholarly essays; digital scholarship projects; and digital project reviews."
+  blurb: "<em>archipelagos</em> is a born-digital, peer-reviewed publication devoted to creative exploration, debate, and critical thinking about and through digital practices in contemporary scholarly and artistic work in and on the Caribbean. Given the wide implications of the “digital turn” for our very conceptions of knowledge, our mission is to discern the ways in which the digital may enhance and transform our comprehension of the regional and diasporic Caribbean. <em>archipelagos</em> responds to this challenge with three distinct dimensions of critical production: scholarly essays; digital scholarship projects; and digital project reviews."
   read_more: "Read more ..."
   introduction: "Introduction"
   essays: Essays
@@ -18,7 +17,7 @@ global:
   and: and
   read-exchange: Read our exchange
   visit-project: Visit the Project Site
-  cfp: Call for Proposals
+  cfp: Open Call for Proposals
 
 issues:
   issue01: "Issue (1) | June 2016"
@@ -28,6 +27,7 @@ issues:
   issue05: "Issue (5) | December 2020"
   issue06: "Issue (6) | Digital Library of the Caribbean | May 2022"
   issue07: "Issue (7) | May 2023"
+  issue08: "Issue (8) | Papiamentu/o and the Dutch Caribbean | May 2024"
 
 titles:
   about: "about us"
@@ -38,8 +38,7 @@ titles:
   workflow: "our workflow"
 
 components:
-  ccby:
-    This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Source documents can be found on our   
+  ccby: This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Source documents can be found on our
   repository: repository
   dedication04: "We dedicate this issue to the memory of Edward Kamau Brathwaite, inimitable pioneer of the Caribbean Digital."
 
@@ -47,3 +46,7 @@ issue06:
   iei-section: "Retrospective on Île en île"
   dloc-intro-text: "The essays in this special issue of <em>archipelagos journal</em> are dedicated to the towering work of the Digital Library of the Caribbean. Our guest editors for this issue are Perry Collins and Hadassah St. Hubert"
   iei-intro-text: "After 23 years of rich and sustained activity, the landmark Caribbean digital project <a href='https://ile-en-ile.org/index.html' target='_blank'>île-en-île</a> ceased production. At <em>archipelagos journal</em> we wanted to honor the two decades of pioneering editorial work of Thomas C. Spear, and the many contributions of <em>île-en-île</em> to our field, by doing two things: First, we helped Thomas implement several archival strategies for the site; and second, we invited several scholars and educators to reflect on the impact of the site on our teaching and research. Below are their reflections."
+
+special:
+  i8-cfp: "Call for Proposals"
+  i8-cfp-label: "Special Issue on Papiamentu/o and the Dutch Caribbean"
