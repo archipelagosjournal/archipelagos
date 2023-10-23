@@ -1,27 +1,27 @@
 ---
 layout: article
 section: projects
-title: 
+title:
   "long": "The Caribbean Digital & Peer Review: A Musical Passage Hypothesis"
   "short": "The Caribbean Digital & Peer Review"
 doi: "https://doi.org/10.7916/archipelagos-j09v-vg80"
 author:
-- name: Laurent Dubois
-  shortname: Dubois
-  bio: >
-    Laurent Dubois is a professor of Romance studies and history and the founder and faculty director of the Forum for Scholars and Publics at Duke University. He is the author of seven books, including *The Banjo: America's African Instrument* (Harvard University Press, 2016) and the forthcoming *Freedom Roots: Histories from the Caribbean* (University of North Carolina Press), co-authored with Richard Turits.
-- name: David Kirkland Garner
-  shortname: Garner
-  bio: >
-    David Kirkland Garner is an assistant professor of composition and theory at the University of South Carolina. He seeks to make time and history audible, particularly through an exploration of archival recordings documenting the musical traditions of the US South. Garner's first album, *Dark Holler*, was released to critical acclaim in 2017 on New Focus Recordings.
-- name: Mary Caton Lingold
-  shortname: Lingold
-  bio: >
-    Mary Caton Lingold is an assistant professor of English at Virginia Commonwealth University, where she she is writing a book about the literary history of African music in the Atlantic world (1630--1830). Her 2017 essay on early Caribbean music was recognized as cowinner of the Richard Beale Davis prize for best essay in *Early American Literature*. She coedited *Digital Sound Studies* (Duke University Press, 2018) and [produced a podcast](https://soundcloud.com/c19podcast/tena-too-sings-america-listening-to-an-enslaved-womans-musical-memories-of-africa) on the transatlantic journey of a song by an enslaved woman named Tena.
+  - name: Laurent Dubois
+    shortname: Dubois
+    bio: >
+      Laurent Dubois is a professor of Romance studies and history and the founder and faculty director of the Forum for Scholars and Publics at Duke University. He is the author of seven books, including *The Banjo: America's African Instrument* (Harvard University Press, 2016) and the forthcoming *Freedom Roots: Histories from the Caribbean* (University of North Carolina Press), co-authored with Richard Turits.
+  - name: David Kirkland Garner
+    shortname: Garner
+    bio: >
+      David Kirkland Garner is an assistant professor of composition and theory at the University of South Carolina. He seeks to make time and history audible, particularly through an exploration of archival recordings documenting the musical traditions of the US South. Garner's first album, *Dark Holler*, was released to critical acclaim in 2017 on New Focus Recordings.
+  - name: Mary Caton Lingold
+    shortname: Lingold
+    bio: >
+      Mary Caton Lingold is an assistant professor of English at Virginia Commonwealth University, where she she is writing a book about the literary history of African music in the Atlantic world (1630--1830). Her 2017 essay on early Caribbean music was recognized as cowinner of the Richard Beale Davis prize for best essay in *Early American Literature*. She coedited *Digital Sound Studies* (Duke University Press, 2018) and [produced a podcast](https://soundcloud.com/c19podcast/tena-too-sings-america-listening-to-an-enslaved-womans-musical-memories-of-africa) on the transatlantic journey of a song by an enslaved woman named Tena.
 date: July 9 2019
 issue: 3
 order: 9
-abstract: 
+abstract:
 language: en
 ---
 
@@ -33,9 +33,9 @@ Van Leeuwarde Moonsammy, Gregory Pierrot, Pete Ross, and Richard Rath
 
 What forms of peer review can best nurture and sustain the practice and
 potential of digital work in Caribbean studies? This question has
-animated *sx archipelagos* from its founding and, in the spring of 2017,
+animated _sx archipelagos_ from its founding and, in the spring of 2017,
 this journal's editors posed it to us directly. Having [reviewed and
-presented](http://smallaxe.net/sxarchipelagos/issue01/musical-passage.html)
+presented](http://archipelagosjournal.org/issue01/musical-passage.html)
 in issue 1 of the journal a project we were then developing, the editors
 invited us one year later to participate in an experiment with our
 by-then-finished site. They proposed that we use the annotation tool
@@ -44,8 +44,8 @@ the project from an array of specialists. Together we developed a plan
 to do so by facilitating a week-long opportunity for open commentary
 using this tool. It was our hope that by staging this period of focused
 online critique, response, and conversation, we might get a real sense
-of how others were actually using and experiencing [*Musical Passage: A
-Voyage to 1688 Jamaica*](http://www.musicalpassage.org/).
+of how others were actually using and experiencing [_Musical Passage: A
+Voyage to 1688 Jamaica_](http://www.musicalpassage.org/).
 
 We set the date for this period of commentary for 19--23 June 2017 and
 sent out invitations to colleagues who had done or were doing research
@@ -77,11 +77,11 @@ Dubois participated in a musical workshop organized at the Institute of
 Jamaica by Matthew Smith, chair of the Department of History and
 Archaeology at University of the West Indies--Jamaica, and Herbie Miller,
 curator of the Jamaica Music Museum. The workshop was organized around
-the material presented on *Musical Passage*. Selections from the site
+the material presented on _Musical Passage_. Selections from the site
 were played for a group of musicians led by Earl "Chinna" Smith. The
 musicians responded with their own interpretations of the songs,
 connecting them to other songs and forms over the course of several
-hours. In preparation for the *archipelagos* commons event, we edited
+hours. In preparation for the _archipelagos_ commons event, we edited
 and posted [videos](https://www.youtube.com/playlist?list=PLwcqVNt0EPDlGgT6ueKV_wjvPT1-tD_Y_)
 of these performances from the workshop. We invited participants to
 watch the videos and engage with them as they thought about and
@@ -229,7 +229,7 @@ One of the central questions raised by the materials on the site has to
 do with how to think about the terms used to describe African groups or
 affiliations in the context of Atlantic slavery. Our hope---our sense---is
 that in offering a set of musical pieces linked to particular terms,
-such as *Angola*, *Papa*, and *Koromanti*, these documents might provide
+such as _Angola_, _Papa_, and _Koromanti_, these documents might provide
 new insight into what such categories meant to people of African descent
 themselves. In one annotation, we asked, "\[Can\] these songs . . .
 actually give us a better understanding of what 'Koromanti' meant as a
@@ -241,7 +241,7 @@ sort of [a mini-symposium](https://hyp.is/LgtBnjWbEee6YnsGxVM5tQ/www.musicalpass
 Such a conversation could have happened in a conference setting but,
 thanks to the hypothes.is format, is available here as its own kind of
 public forum. Moreover, this conversation animated other discussions,
-inspiring vital insights from [Jessica Krug](https://hypothes.is/users/Jessica_Krug) about the term *Koromanti*. This in turn generated a [new
+inspiring vital insights from [Jessica Krug](https://hypothes.is/users/Jessica_Krug) about the term _Koromanti_. This in turn generated a [new
 thread](https://hyp.is/vf5BZFddEeeQMyfszBXX9g/www.musicalpassage.org/)
 of discussion. These webs of conversation became so intricate that we
 began posting, in the replies, links to other threads within the page
@@ -300,7 +300,7 @@ design integration that would make use of the existing videos as well as
 other similar visual and sonic materials that might emerge from future
 iterations of the project.
 
-From the very inception of *Musical Passage*, we had willed it not to be
+From the very inception of _Musical Passage_, we had willed it not to be
 a site of permanence, understanding that this is a quixotic mission in
 the digital space, but rather to be something that could generate
 concrete conversation and new forms of knowing. This collective
@@ -311,5 +311,3 @@ coauthored and multivocal, a layering of knowledge and interpretation
 that exists on its own terms as a new digital offering. Further, and
 perhaps more important, this week-long experiment in live collaboration
 generated what we are confident will be a dynamic, ongoing community.
-
-

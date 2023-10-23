@@ -1,4 +1,4 @@
-Notre flux de travail, conçu avec soin pour minimiser les coûts de production, et pour permettre à notre petite équipe de gérer un journal académique robuste, sans les services payants en dehors des coûts de serveur et de la fourniture de données DOI, fait partie du caractère unique de *archipelagos*. Bien que chaque journal ait des besoins et des ressources uniques disponibles pour l’équipe, nous pensons que notre infrastructure de logiciels open source, combinée à notre flux de travail, fournit un modèle viable et portable. Le flux de travail ci-dessous est la prochaine étape après la mise en place de la configuration initiale.
+Notre flux de travail, conçu avec soin pour minimiser les coûts de production, et pour permettre à notre petite équipe de gérer un journal académique robuste, sans les services payants en dehors des coûts de serveur et de la fourniture de données DOI, fait partie du caractère unique de _archipelagos_. Bien que chaque journal ait des besoins et des ressources uniques disponibles pour l’équipe, nous pensons que notre infrastructure de logiciels open source, combinée à notre flux de travail, fournit un modèle viable et portable. Le flux de travail ci-dessous est la prochaine étape après la mise en place de la configuration initiale.
 
 ## Nouveaux éléments
 
@@ -14,9 +14,9 @@ N.B. Chaque phase du cycle de vie d’un texte, du premier brouillon à la produ
 
 I. Phase Word
 
-À cette étape, tous les échanges peuvent avoir lieu dans Microsoft Word, à condition que toutes les parties respectent les [directives de style](http://smallaxe.net/sxarchipelagos/submission-guidelines.html#documents) documentées sur le site du journal. Les rédacteurs conserveront des copies de toutes les versions de cette étape sur Dropbox. Aucune promesse de conservation n'est faite pour cette étape.
+À cette étape, tous les échanges peuvent avoir lieu dans Microsoft Word, à condition que toutes les parties respectent les [directives de style](http://archipelagosjournal.org/authors.html#documents) documentées sur le site du journal. Les rédacteurs conserveront des copies de toutes les versions de cette étape sur Dropbox. Aucune promesse de conservation n'est faite pour cette étape.
 
-1. Les contributeurs soumettent la v1 aux rédacteurs par courrier électronique 
+1. Les contributeurs soumettent la v1 aux rédacteurs par courrier électronique
 2. Les éditeurs envoient aux examinateurs par courrier électronique à la réception
 3. Les relecteurs pairs évaluent le travail (1 mois après la réception)
 4. Les éditeurs répondent aux contributeurs avec des rapports basés sur le travail de révision par les pairs
@@ -32,7 +32,6 @@ II. La phase Markdown
 
 Dans cette étape, nous passons aux flux de travail Markdown, à partir desquels le site et les PDF sont générés. Toutes les éditions par le réviseur et les éditeurs doivent avoir lieu sur Github à ce stade.
 
-
 1. L'éditeur-tech convertit v5 en démarque à l'aide de Pandoc
 2. L'éditeur-tech télécharge v5.md sur Github & crée un brouillon de problème Web à usage interne.
 3. L'éditeur-tech génère v5 sous forme de PDF et partage avec Copy-Editor sur Dropbox.
@@ -41,9 +40,3 @@ Dans cette étape, nous passons aux flux de travail Markdown, à partir desquels
 6. Le réviseur incorpore des modifications mineures à v5.pdf dans le fichier de démarquage sur Github pour créer la v6.
 7. Les éditeurs examinent et testent le dernier numéro pour en assurer la qualité
 8. Publication
-
-
-
-
-
-
