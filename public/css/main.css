@@ -369,7 +369,27 @@ blockquote p:last-child {
   }
 }
 
+/* Buttons */
 
+p.spaced {
+  margin: 2rem;
+}
+
+a.button {
+  background-color: #D0181F;
+  color: white; 
+  padding: .6rem 1rem;
+  border-radius: 5px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  text-decoration: none;
+
+}
+
+a.button:hover {
+  background-color: #FB6D74;
+  color: white;
+}
 
 /* Images */
 
