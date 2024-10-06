@@ -1,38 +1,40 @@
 <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
          styles, `#sidebar-checkbox` for behavior. -->
-    <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">    
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" />
 
-    <!-- Toggleable sidebar -->
-    <div class="sidebar" id="sidebar">
-      {% include language.html %}
-      <div class="sidebar-item">
-        {% if page.layout != "article" %}
-        <p><em>archipelagos</em>—{% t global.subtitle %}.</p>
-        {% else %}
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  {% include language.html %}
+  <div class="sidebar-item">
+    {% if page.layout != "article" %}
+    <p><em>archipelagos</em>—{% t global.subtitle %}.</p>
+    {% else %}
 
-        <h1 class="article-title">{{page.title["long"] | markdownify | remove: '<p>' | remove: '</p>'}}</h1>
-        <p>{% include author-loop.html %}</p>
-        <p>Issue ({{page.issue}}) | {{ page.date | date: '%B %Y'}} <br>DOI: {{ page.doi }}</p>
+    <h1 class="article-title">
+      {{page.title["long"] | markdownify | remove: '
+      <p>' | remove: '</p>
+      '}}
+    </h1>
+    <p>{% include author-loop.html %}</p>
+    <p>Issue ({{page.issue}}) | {{ page.date | date: '%B %Y'}} <br />DOI: {{ page.doi }}</p>
 
-        {% endif %}
-      </div>
-      <nav class="main-nav">
-      <a class="sidebar-nav-item" href="{{ site.baseurl }}/index.html">{% t titles.home %}</a>  
-      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/about.html">{% t titles.about %}</a>
-      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/credits.html">{% t titles.credits %}</a>
-      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/authors.html">{% t titles.authors %}</a>
-      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/reviewers.html">{% t titles.reviewers %}</a>
-      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/workflow.html">{% t titles.workflow %}</a>
-    </nav>
+    {% endif %}
+  </div>
+  <nav class="main-nav">
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/index.html">{% t titles.home %}</a>
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/about.html">{% t titles.about %}</a>
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/credits.html">{% t titles.credits %}</a>
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/authors.html">{% t titles.authors %}</a>
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/reviewers.html">{% t titles.reviewers %}</a>
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/workflow.html">{% t titles.workflow %}</a>
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/valences.html">Valences</a>
+  </nav>
 
+  <div class="sidebar-footer">
+    {% if page.layout != "article" %}
+    <p>&copy; {{ site.time | date: '%Y' }}. Archipelagos. {% else %}</p>
 
-      <div class="sidebar-footer">
-        {% if page.layout != "article" %}
-        <p>&copy; {{ site.time | date: '%Y' }}. Archipelagos. 
-        {% else %}
-        <p>&copy; {{ site.time | date: '%Y' }}. {% include author-loop.html %}.
-        {% endif %} {% t components.ccby %} 
-        <a href="{{ site.githuburl }}">{% t components.repository %}</a>.</p>
-        <p>ISSN: {{ site.issn }}</p>
-      </div>
-    </div>
+    <p>&copy; {{ site.time | date: '%Y' }}. {% include author-loop.html %}. {% endif %} {% t components.ccby %} <a href="{{ site.githuburl }}">{% t components.repository %}</a>.</p>
+    <p>ISSN: {{ site.issn }}</p>
+  </div>
+</div>
