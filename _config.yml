@@ -134,6 +134,26 @@ collections:
       - Alex Gil
       - Brian Ballsun-Stanton
       - Emily McGuinn
+  issue08:
+    slug: issue08
+    slug_fr: fr/issue08
+    slug_es: es/issue08
+    output: true
+    number: 8
+    date: "February 2025"
+    title: "Issue (8)"
+    editors:
+      - Kaiama Glover
+      - Alex Gil
+      - Margo Groenewoud
+    managing-editor:
+      - Winnie Pérez-Martínez
+    production:
+      - Alex Gil
+      - Winnie Pérez-Martínez
+      - Brian Ballsun-Stanton
+      - Emily McGuinn
+      - Javier Wong
   archives:
     title: archives
     output: true
@@ -176,18 +196,4 @@ version: 0.0.1
 
 # Excluded
 
-exclude:
-  [
-    Dockerfile,
-    docker-readme.txt,
-    utility,
-    Gemfile,
-    smartquotes.txt,
-    Dockerfile,
-    Gemfile.lock,
-    extras,
-    vendor,
-    RAKEFILE,
-    update.log,
-    robots.txt,
-  ]
+exclude: [Dockerfile, docker-readme.txt, utility, Gemfile, smartquotes.txt, Dockerfile, Gemfile.lock, extras, vendor, RAKEFILE, update.log, robots.txt]
