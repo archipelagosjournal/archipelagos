@@ -300,12 +300,11 @@ but also ideally empower research to write _in_ Papiamento. The latter
 is especially important, given the relative lack of research carried out
 in that language.
 
-img="ewanhelie.jpg"
-
+{% include image.html
+img="issue08/ewanhelie.jpg"
 title="ewanhelie"
-
 caption="Title page of _Ewanhelie di San Matheo, poeblicado abau di
-direksjon di Domini C. Conradi_ (1844)"
+direksjon di Domini C. Conradi_ (1844)" %}
 
 ## Coleccion Aruba and decolonial digital creole language studies
 
