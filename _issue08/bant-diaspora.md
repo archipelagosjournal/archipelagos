@@ -14,11 +14,11 @@ author:
   - name: Eric Mijts
     shortname: Mijts
     bio: >
-      Dr. Eric Mijts (eric.mijts@ua.aw) is a researcher, educator and manager at the University of Aruba with a keen interest in program design for sustainable development in small island states. He leads the University of Aruba Research Center, co-founded and implemented the Sustainable Island Solutions through Science, Technology, Engineering and Mathematics (SISSTEM) project cluster (www.ua.aw/SISSTEM) as well as the Academic Foundation Year.
+      Dr. Eric Mijts (eric.mijts@ua.aw) is a researcher, educator and manager at the University of Aruba with a keen interest in program design for sustainable development in small island states. He leads the University of Aruba Research Center, co-founded and implemented the Sustainable Island Solutions through Science, Technology, Engineering and Mathematics (SISSTEM) project cluster (www.ua.aw/SISSTEM) as well as the Academic Foundation Year. As a researcher, Eric is also affiliated to the University of Antwerp and is an active partner in the Global Resilience Research Network, in the United Nations Sustainable Development Solutions Network and in the Metabolism of Islands think tank. His research and publications focus on multilingualism, language policy and planning, education for sustainable development and inclusion/exclusion processes. 
   - name: Peter Scholing
     shortname: Scholing
     bio: >
-      Dr. Peter Scholing (p.scholing@bibliotecanacional.aw) is an information scientist and researcher at Biblioteca Nacional Aruba, Aruba's National Library, responsible for digitization, digital collections and research. As curator of the Aruba National Library's digital collections, his current main project is Coleccion Aruba, the “Aruba Collection,” a digital collection platform and information portal that aims to digitally unite and make available all of Aruba's documentary and cultural heritage that is physically scattered across different islands, countries and continents. Peter is a member of the Aruba National Commission for UNESCO and is the immediate past President of MoWLAC, UNESCO’s Memory of the World Programme for Latin America and the Caribbean (2022-2024). He also currently serves as an Editorial Board Member for the International Journal of Documentary Heritage (IJDH), established in 2024, and as an Executive Board Member of dLOC, the Digital Library of the Caribbean. In May of 2024 he received the ACURILEANA Medal of Excellence as ACURIL’s Caribbean Information Professional of the Year 2024. In October of 2024 Coleccion Aruba was awarded Internet Archive's 2024 Internet Hero Award.
+      Dr. Peter Scholing (p.scholing@bibliotecanacional.aw) is an information scientist and researcher at Biblioteca Nacional Aruba, Aruba's National Library, responsible for digitization, digital collections and research. His current main project is Coleccion Aruba, the “Aruba Collection,” a digital collection platform and information portal that aims to digitally unite and make available all of Aruba's documentary and cultural heritage that is physically scattered across different islands, countries and continents. Peter is a member of the Aruba National Commission for UNESCO and  is the immediate past President of MoWLAC, UNESCO’s Memory of the World Programme for Latin America and the Caribbean (2022-2024). He also currently serves as an Editorial Board Member for the International Journal of Documentary Heritage (IJDH), established in 2024, and as an Executive Board Member of dLOC, the Digital Library of the Caribbean. 
 date: May 2023
 issue: 8
 order: 3
@@ -490,9 +490,6 @@ these languages are also scattered over the world, a digital solution
 like the Coleccion can be an answer to the risks endemic to small creole
 languages.
 
-## Author Bios
-
-##
 
 [^1]:
     The sequence of authors of this article is alphabetical, and the
