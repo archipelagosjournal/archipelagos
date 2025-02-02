@@ -438,13 +438,13 @@ developed in doing so will only truly benefit the Global Southern
 communities if they are rooted in the communities and institutes of the
 Global South.
 
-img="schoolclass.jpg"
-
+{% include image.html
+img="issue08/schoolclass.jpg"
 title="schoolclass"
-
 caption="Little girls in Parochial School in Santa Cruz (April 1944).
 Photographer: Nelson Morris. Part of the LAGO Picture Collection,
-Biblioteca Nacional Aruba."
+Biblioteca Nacional Aruba." %}
+
 
 ## Future Development
 
