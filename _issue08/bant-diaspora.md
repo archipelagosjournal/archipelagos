@@ -114,7 +114,7 @@ Netherlands, the Koninklijk Huisarchief.
 
 The Digital Collections hold over 150,000 digital items, almost as many
 items as the island has inhabitants (110,000). The webpage of the
-Coleccion, [[https://coleccion.aw/]{.underline}](https://coleccion.aw/),
+Coleccion, [https://coleccion.aw/](https://coleccion.aw/),
 was started as a continuation of -- and expansion on -- the Aruba
 National Library's online National Digital Library Collection, which was
 established in 2019. During the COVID-19 pandemic and its periods of

@@ -67,7 +67,6 @@ Digitales" es definido como:
 > el estudio de las Humanidades; y el estudio de la producción digital
 > desde una perspectiva humanista.[^3]
 >
-> []{.mark}
 
 La literatura académica también entra a definir y cuestionar esta rama.
 Por ejemplo, Emilia C. Bell y Mary Anne Kennan explican que las
@@ -179,9 +178,9 @@ acceso a colecciones documentales, ya que son creados con el fin de
 recuperar la información. Esta guía en particular cuenta con secciones
 de fuentes secundarias relacionadas al tema de la educación en Puerto
 Rico. Además, se puede acceder a la colección creada en *Internet
-Archive* titulada "[[Gerardo Sellés Solá: Historia de la educación en
+Archive* titulada ["Gerardo Sellés Solá: Historia de la educación en
 Puerto Rico (Siglo XIX
---XX)".]{.underline}](https://archive.org/details/historiaeducacionpuertorico?tab=collection)
+--XX)".](https://archive.org/details/historiaeducacionpuertorico?tab=collection)
 
 {% include image.html
     img="issue08/selles_internet_archive.jpg"
@@ -200,8 +199,8 @@ descripción de colecciones impresas, el personal de la BHP aporta
 constantemente en su difusión. Así surgió la iniciativa de incorporar al
 Repositorio Institucional de la Universidad de Puerto Rico los
 auxiliares descriptivos de las colecciones especiales, con la finalidad
-de difundir estas fuentes primarias de gran importancia. [Esta
-iniciativa]{.mark} abarca 38 auxiliares descriptivos, que incluyen
+de difundir estas fuentes primarias de gran importancia. Esta
+iniciativa abarca 38 auxiliares descriptivos, que incluyen
 información general de las colecciones, rango de fecha, temas que
 abarcan, condición general y organización de las mismas. Las
 estadísticas de impacto presentadas de los últimos seis meses muestran
@@ -220,8 +219,8 @@ imágenes de la serie "Danza" fueron digitalizadas[^13].
     title="Antonio Santaella"
     caption="Photograph of famours dancer Antonio Santaella's company taken by Arturo Melero." %}
 
-Estás imágenes se encuentran disponibles en la [[Biblioteca Digital
-Puertorriqueña]{.underline}](https://upr.contentdm.oclc.org/)[^14] para
+Estás imágenes se encuentran disponibles en la [Biblioteca Digital
+Puertorriqueña](https://upr.contentdm.oclc.org/)[^14] para
 ser consultadas de manera gratuita. El proyecto cuenta con una
 estrategia de divulgación por medio de la página de Instagram de la CAM,
 donde todos los martes se resalta una fotografía del proyecto bajo el
@@ -508,8 +507,8 @@ correspondencia*.* El mapa contiene 20 conexiones con personas y
 organizaciones de diferentes partes del mundo, evidenciando las
 distintas interacciones de Mari Brás.
 
-El tercer producto fue el [[Archivo digital Juan Mari
-Brás]{.underline}](https://web.archive.org/web/20230503132616/https://archivojuanmaribras.omeka.net/)[^35],
+El tercer producto fue el [Archivo digital Juan Mari
+Brás](https://web.archive.org/web/20230503132616/https://archivojuanmaribras.omeka.net/)[^35],
 donde se utilizó la herramienta OMEKA. Para su creación, se desarrolló
 un mapa del sitio web, se seleccionaron las notas de propiedad
 intelectual que abarcaría y se crearon las diversas colecciones en que
