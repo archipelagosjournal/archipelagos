@@ -1,37 +1,27 @@
-Jeanmary Lugo González
-
-## Resumen
-
-Las "colecciones ocultas" se pueden definir como aquellas que no cuentan
-con ningún tipo de presencia o visibilidad en la web. Sin embargo, el
-desarrollo de las Humanidades Digitales (HD) y su interacción con las
-bibliotecas académicas ha producido excelentes herramientas para darles
-visibilidad y divulgación. Este artículo expone el caso de la Colección
-Juan Mari Brás y cómo las destrezas en aspectos de las HD y archivística
-ayudaron en la creación de un archivo digital curado por la Fundación
-Juan Mari Brás. Además, menciona el apoyo recibido por UPR Caribe
-Digital en la creación de tres productos digitales basados en esta
-colección. Durante el artículo, se expone el rol del bibliotecario en
-las Humanidades Digitales y la experiencia creativa junto a un grupo
-comunitario. Para concluir, brevemente se mencionan temáticas y
-posibilidades educativas para integrar el Archivo Digital Juan Mari Brás
-a diversas comunidades y proyectos.
-
-## Abstract
-
-"Hidden collections" can be defined as those that do not have any sort
-of web presence or visibility. However, the development of the Digital
-Humanities (DH) and its interaction with academic libraries has produced
-excellent tools to give them visibility and dissemination. This article
-presents the case of the Juan Mari Brás Collection and how skills in DH
-and archival studies aided in the creation of a digital archive curated
-by the Juan Mari Brás Foundation. In addition, it mentions the support
-received by UPR Caribe Digital in the creation of three digital products
-based on this collection. The article also explains the librarian's role
-in the Digital Humanities and the creative experience with the Juan Mari
-Brás Foundation. The article ends by mentioning educational topics and
-possibilities to integrate the Juan Mari Brás Digital Archive to
-different projects and communities.
+---
+layout: article
+section: articles
+title:
+  "long": "Humanidades digitales y las colecciones especiales de la Biblioteca y Hemeroteca Puertorriqueña: el caso de la Colección Juan Mari Brás"
+  "short": "Humanidades digitales y las colecciones especiales"
+doi: ""
+author:
+  - name: Jeanmary Lugo González
+    shortname: Lugo González
+    bio: >
+    Jeanmary, quien se identifica como afro-puertorriqueña, posee un bachillerato en Literatura Comparada y una Maestría en Ciencias y Tecnologías de la Información. Actualmente, se desempeña como Bibliotecaria encargada de las Colecciones Especiales de la Biblioteca y Hemeroteca Puertorriqueña de la UPR-Río Piedras. Ha trabajado como Coordinadora del Repositorio Institucional por parte del Sistema de Bibliotecas (2020-2022) del mismo recinto. Es parte del Comité Editorial de Acceso. Revista Puertorriqueña de Bibliotecología y Documentación. Entre sus temas de interés se encuentra la promoción de colecciones, servicios y programas; las colecciones especiales, las destrezas de información y los servicios de referencia. Entre sus líneas de investigación y publicación están: las colecciones especiales, la literatura infantil puertorriqueña y las Humanidades Digitales. Durante 2022-2023, trabajó colaborativamente con UPR Caribe Digital y la Fundación Juan Mari Brás para crear un archivo digital.
+date: February 2025
+issue: 8
+order: 4
+abstract: >
+    "Hidden collections" can be defined as those that do not have any sort of web presence or visibility. However, the development of the Digital Humanities (DH) and its interaction with academic libraries has produced excellent tools to give them visibility and dissemination. This article presents the case of the Juan Mari Brás Collection and how skills in DH and archival studies aided in the creation of a digital archive curated by the Juan Mari Brás Foundation. In addition, it mentions the support received by UPR Caribe Digital in the creation of three digital products based on this collection. The article also explains the librarian's role in the Digital Humanities and the creative experience with the Juan Mari Brás Foundation. The article ends by mentioning educational topics and possibilities to integrate the Juan Mari Brás Digital Archive to different projects and communities.
+abstract_fr: >
+  "..."
+abstract_es: >
+  Las "colecciones ocultas" se pueden definir como aquellas que no cuentan con ningún tipo de presencia o visibilidad en la web. Sin embargo, el desarrollo de las Humanidades Digitales (HD) y su interacción con las bibliotecas académicas ha producido excelentes herramientas para darles visibilidad y divulgación. Este artículo expone el caso de la Colección Juan Mari Brás y cómo las destrezas en aspectos de las HD y archivística ayudaron en la creación de un archivo digital curado por la Fundación Juan Mari Brás. Además, menciona el apoyo recibido por UPR Caribe Digital en la creación de tres productos digitales basados en esta colección. Durante el artículo, se expone el rol del bibliotecario en las Humanidades Digitales y la experiencia creativa junto a un grupo comunitario. Para concluir, brevemente se mencionan temáticas y posibilidades educativas para integrar el Archivo Digital Juan Mari Brás a diversas comunidades y proyectos.
+language: en
+pdf: true
+---
 
 ## Introducción
 
@@ -125,8 +115,6 @@ conocer a diversas comunidades, ya que son consideradas patrimonio
 cultural. Muchas de estas las podemos catalogar como "colecciones
 escondidas".
 
-## 
-
 ## Las colecciones escondidas
 
 Para Elizabeth Yakel, las colecciones escondidas o "hidden collections",
@@ -195,14 +183,12 @@ Archive* titulada "[[Gerardo Sellés Solá: Historia de la educación en
 Puerto Rico (Siglo XIX
 --XX)".]{.underline}](https://archive.org/details/historiaeducacionpuertorico?tab=collection)
 
-img=\"sellés-internet.jpg\"
-
-title=\"Gerardo Sellés Solá: Historia de la educación en Puerto Rico
-(Siglo XIX --XX)\"
-
-caption=\"Colección digitalizada.\"
-
-url=\"https://archive.org/details/historiaeducacionpuertorico?tab=collection\"
+{% include image.html
+    img="issue08/selles_internet_archive.jpg"
+    url="https://archive.org/details/historiaeducacionpuertorico?tab=collection"
+    title="Gerardo Sellés Solá: Historia de la educación en Puerto Rico (Siglo XIX --XX)"
+    caption="Copia de la collección digitalizada Gerardo Sellés Solá en Internet Archive." 
+%}
 
 La herramienta *LibGuides* también permite recoger estadísticas de
 visibilidad. Por ejemplo, la guía de la Colección Gerardo Sellés Solá
@@ -228,13 +214,11 @@ Aquino y Carlos Ruíz-Valarino, desarrolló un proyecto de digitalización
 y divulgación de la Colección Arturo Melero. Específicamente, 3,000
 imágenes de la serie "Danza" fueron digitalizadas[^13].
 
-img=\"melero-ejemplo.jpg\"
-
-title=\"Antonio Santaella\"
-
-caption=\"Compañía de Antonio Santaella.\"
-
-url=\"https://upr.contentdm.oclc.org/digital/collection/p16963coll2\"
+{% include image.html
+    img="issue08/melero-ejemplo.jpg"
+    url="https://upr.contentdm.oclc.org/digital/collection/p16963coll2"
+    title="Antonio Santaella"
+    caption="Photograph of famours dancer Antonio Santaella's company taken by Arturo Melero." %}
 
 Estás imágenes se encuentran disponibles en la [[Biblioteca Digital
 Puertorriqueña]{.underline}](https://upr.contentdm.oclc.org/)[^14] para
@@ -253,8 +237,6 @@ bibliotecas académicas, una de nuestras comunidades más próximas son los
 estudiantes. Por lo tanto, el acceso a estas fuentes primarias resultará
 en su integración a los trabajos investigativos que se realizan en el
 ambiente académico.
-
-## 
 
 ## Las Humanidades Digitales desde el Recinto de Río Piedras 
 
@@ -313,8 +295,6 @@ integrar otras fuentes primarias que resguarda la familia. Este es un
 ejemplo de cómo se integran las Humanidades Digitales y la Biblioteca y
 Hemeroteca Puertorriqueña para trabajar en conjunto con la comunidad y
 darle visibilidad a colecciones especiales.
-
-## 
 
 ## La Biblioteca y Hemeroteca Puertorriqueña
 
@@ -379,8 +359,6 @@ cincuenta colecciones especiales de gran valor histórico, académico,
 cultural y patrimonial. Los recursos de información están fechados desde
 el año 1593, aproximadamente, hasta el presente. Entre estos, se alberga
 y da acceso a la Colección Juan Mari Brás.
-
-## 
 
 ## La Colección Juan Mari Brás
 
@@ -489,7 +467,6 @@ capacitación, consultoría, mentoría, así como la integración de más
 colaboradores para su ejecución, ayudó a tener un producto final
 robusto.
 
-### 
 
 ### Resultados del proyecto
 
@@ -549,13 +526,11 @@ Facultad de Estudios Generales de la Universidad de Puerto Rico, Recinto
 de Río Piedras, se presentó el Archivo digital Juan Mari Brás, actividad
 que contó con una variada asistencia.
 
-img=\"archivo-jmb.jpg\"
-
-title=\"Archivo digital Juan Mari Brás.\"
-
-caption=\"Página de inicio del archivo.\"
-
-url=\"https://web.archive.org/web/20230503132616/https:/archivojuanmaribras.omeka.net/\"
+{% include image.html
+    img="issue08/archivo-jmb.jpg"
+    url="https://web.archive.org/web/20230503132616/https:/archivojuanmaribras.omeka.net/"
+    title="Archivo digital Juan Mari Brás"
+    caption="Página de inicio del archivo digital Juan Mari Brás." %}
 
 Por otra parte, durante el proceso de mentoría y creación del proyecto
 se aplicaron conocimientos relacionados con la archivística, como la
@@ -614,8 +589,6 @@ pueden incorporar y/o dialogar con el Archivo Digital Juan Mari Brás:
     > estudios comparativos entre países caribeños y latinoamericanos,
     > conocer cómo dialogan y presentar resultados.
 
-## 
-
 ## Reflexiones finales
 
 Las Humanidades Digitales (HD) son una herramienta útil para darle
@@ -662,34 +635,6 @@ acción que debemos continuar emulando como bibliotecarios para
 fortalecer nuestras aportaciones a las HD y, a su vez, darles
 visibilidad a las valiosas colecciones de nuestras bibliotecas.
 
-## 
-
-## Author Bio
-
-Jeanmary Lugo González, MIS,
-[[https://about.me/jeanmarylugo]{.underline}](https://about.me/jeanmarylugo)
-
-Jeanmary, quien se identifica como afro-puertorriqueña, realizó sus
-estudios en la Universidad de Puerto Rico, Recinto de Río Piedras
-(UPR-RP). Posee un bachillerato en Literatura Comparada y una Maestría
-en Ciencias y Tecnologías de la Información. Realizó su trabajo de
-capstone en Humanidades Digitales bajo la mentoría de la Dra. Luisa
-Vigo-Cepeda. Actualmente se desempeña como Bibliotecaria encargada de
-las Colecciones Especiales de la Biblioteca y Hemeroteca Puertorriqueña
-de la UPR-RP. Ha trabajado como Coordinadora del Repositorio
-Institucional por parte del Sistema de Bibliotecas (2020-2022) del mismo
-recinto. Es parte del Comité Editorial de *Acceso. Revista
-Puertorriqueña de Bibliotecología y Documentación*. Entre sus temas de
-interés en el campo de las Ciencias de la Información, se encuentra la
-promoción de colecciones, servicios y programas; las colecciones
-especiales, las destrezas de información y los servicios de referencia.
-Entre sus líneas de investigación y publicación están: las colecciones
-especiales, la literatura infantil puertorriqueña y las Humanidades
-Digitales. Durante el año académico 2022-2023, trabajó colaborativamente
-con UPR Caribe Digital y la Fundación Juan Mari Brás para la creación de
-un archivo digital. Además, está próxima a publicar el libro *Islas
-lectoras: bibliografía crítica de literatura infantil puertorriqueña
-(2000-2020)*(forthcoming 2023).
 
 [^1]: Mila Aponte, "Qué son las Humanidades Digitales?: introducción
     ilustrada" (2022),
