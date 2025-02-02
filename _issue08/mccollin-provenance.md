@@ -1,16 +1,27 @@
-Debbie McCollin
-
-## Abstract
-
-The Colonial Collections Consortium is a dynamic and multifaceted
-colonial heritage project that utilises a digital platform, the Datahub,
-to train heritage professionals in provenance research, to create an
-extensive Dutch colonial object archive and, ultimately, to provide a
-space for heritage networking. Emerging out of a partnership between
-five prominent Dutch heritage organisations, the Consortium grapples
-with imperial legacies while directly confronting the issues of cultural
-dispossession and historical underrepresentation in the Dutch colonial
-context.
+---
+layout: article
+section: reviews
+title:
+  "long": "Provenance, Repatriation and Dutch Colonial Heritage in the Digital Space: The Colonial Collections Consortium"
+  "short": "Provenance, Repatriation"
+doi: "..."
+author:
+    - name: Debbie McCollin
+      shortname: McCollin
+      bio: >
+        Dr. Debbie McCollin is a Lecturer in The Department of History at The University of the West Indies, St. Augustine (The UWI), Trinidad and Tobago and Regional Coordinator of The Caribbean Civilisation Regional Unit of The UWI. Her current research and publications are focused on the history of West Indian health, medicine, and child welfare in the twentieth century, the impact of World War II on the West Indies, and digital history. She is project team leader for The Caribbean Corona Chronicles Oral History Digital Archival Project run by the Caribbean Civilisation Regional Unit at The University of the West Indies, St. Augustine, Trinidad.
+date: February 2025
+issue: 8
+order: 1
+abstract: >
+    The Colonial Collections Consortium is a dynamic and multifaceted colonial heritage project that utilises a digital platform, the Datahub, to train heritage professionals in provenance research, to create an extensive Dutch colonial object archive and, ultimately, to provide a space for heritage networking. Emerging out of a partnership between five prominent Dutch heritage organisations, the Consortium grapples with imperial legacies while directly confronting the issues of cultural dispossession and historical underrepresentation in the Dutch colonial context.
+abstract_fr: >
+  "..."
+abstract_es: >
+  "..."
+language: en
+pdf: true
+---
 
 The Colonial Collections Consortium is a digital project established in
 2022 in response to two critical issues emerging from 21^st^ century
@@ -144,18 +155,6 @@ services, and indubitably confronts the troubling issues of autonomy and
 cultural dispossession that continue to engulf colonial historical
 scholarship in the 21^st^ century.
 
-## Author Bio
-
-Dr. Debbie McCollin is a Lecturer in The Department of History at The
-University of the West Indies, St. Augustine (The UWI), Trinidad and
-Tobago and Regional Coordinator of The Caribbean Civilisation Regional
-Unit of The UWI. Her current research and publications are focused on
-the history of West Indian health, medicine, and child welfare in the
-twentieth century, the impact of World War II on the West Indies, and
-digital history. She is project team leader for The Caribbean Corona
-Chronicles Oral History Digital Archival Project run by the Caribbean
-Civilisation Regional Unit at The University of the West Indies, St.
-Augustine, Trinidad.
 
 [^1]:  "About," *Colonial Collections Consortium*,
     https://www.colonialcollections.nl/index.php/en/about-the-consortium/
