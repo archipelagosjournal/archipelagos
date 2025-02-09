@@ -9,16 +9,16 @@ author:
   - name: Jeanmary Lugo González
     shortname: Lugo González
     bio: >
-    Jeanmary, quien se identifica como afro-puertorriqueña, posee un bachillerato en Literatura Comparada y una Maestría en Ciencias y Tecnologías de la Información. Actualmente, se desempeña como Bibliotecaria encargada de las Colecciones Especiales de la Biblioteca y Hemeroteca Puertorriqueña de la UPR-Río Piedras. Ha trabajado como Coordinadora del Repositorio Institucional por parte del Sistema de Bibliotecas (2020-2022) del mismo recinto. Es parte del Comité Editorial de Acceso. Revista Puertorriqueña de Bibliotecología y Documentación. Entre sus temas de interés se encuentra la promoción de colecciones, servicios y programas; las colecciones especiales, las destrezas de información y los servicios de referencia. Entre sus líneas de investigación y publicación están: las colecciones especiales, la literatura infantil puertorriqueña y las Humanidades Digitales. Durante 2022-2023, trabajó colaborativamente con UPR Caribe Digital y la Fundación Juan Mari Brás para crear un archivo digital.
+      "Jeanmary, quien se identifica como afro-puertorriqueña, posee un bachillerato en Literatura Comparada y una Maestría en Ciencias y Tecnologías de la Información. Actualmente, se desempeña como Bibliotecaria encargada de las Colecciones Especiales de la Biblioteca y Hemeroteca Puertorriqueña de la UPR-Río Piedras. Ha trabajado como Coordinadora del Repositorio Institucional por parte del Sistema de Bibliotecas (2020-2022) del mismo recinto. Es parte del Comité Editorial de Acceso. Revista Puertorriqueña de Bibliotecología y Documentación. Entre sus temas de interés se encuentra la promoción de colecciones, servicios y programas; las colecciones especiales, las destrezas de información y los servicios de referencia. Entre sus líneas de investigación y publicación están: las colecciones especiales, la literatura infantil puertorriqueña y las Humanidades Digitales. Durante 2022-2023, trabajó colaborativamente con UPR Caribe Digital y la Fundación Juan Mari Brás para crear un archivo digital."
 date: February 2025
 issue: 8
 order: 4
 abstract: >
-    "Hidden collections" can be defined as those that do not have any sort of web presence or visibility. However, the development of the Digital Humanities (DH) and its interaction with academic libraries has produced excellent tools to give them visibility and dissemination. This article presents the case of the Juan Mari Brás Collection and how skills in DH and archival studies aided in the creation of a digital archive curated by the Juan Mari Brás Foundation. In addition, it mentions the support received by UPR Caribe Digital in the creation of three digital products based on this collection. The article also explains the librarian's role in the Digital Humanities and the creative experience with the Juan Mari Brás Foundation. The article ends by mentioning educational topics and possibilities to integrate the Juan Mari Brás Digital Archive to different projects and communities.
+  \"Hidden collections\" can be defined as those that do not have any sort of web presence or visibility. However, the development of the Digital Humanities (DH) and its interaction with academic libraries has produced excellent tools to give them visibility and dissemination. This article presents the case of the Juan Mari Brás Collection and how skills in DH and archival studies aided in the creation of a digital archive curated by the Juan Mari Brás Foundation. In addition, it mentions the support received by UPR Caribe Digital in the creation of three digital products based on this collection. The article also explains the librarian's role in the Digital Humanities and the creative experience with the Juan Mari Brás Foundation. The article ends by mentioning educational topics and possibilities to integrate the Juan Mari Brás Digital Archive to different projects and communities.
 abstract_fr: >
   "..."
 abstract_es: >
-  Las "colecciones ocultas" se pueden definir como aquellas que no cuentan con ningún tipo de presencia o visibilidad en la web. Sin embargo, el desarrollo de las Humanidades Digitales (HD) y su interacción con las bibliotecas académicas ha producido excelentes herramientas para darles visibilidad y divulgación. Este artículo expone el caso de la Colección Juan Mari Brás y cómo las destrezas en aspectos de las HD y archivística ayudaron en la creación de un archivo digital curado por la Fundación Juan Mari Brás. Además, menciona el apoyo recibido por UPR Caribe Digital en la creación de tres productos digitales basados en esta colección. Durante el artículo, se expone el rol del bibliotecario en las Humanidades Digitales y la experiencia creativa junto a un grupo comunitario. Para concluir, brevemente se mencionan temáticas y posibilidades educativas para integrar el Archivo Digital Juan Mari Brás a diversas comunidades y proyectos.
+  Las \"colecciones ocultas\" se pueden definir como aquellas que no cuentan con ningún tipo de presencia o visibilidad en la web. Sin embargo, el desarrollo de las Humanidades Digitales (HD) y su interacción con las bibliotecas académicas ha producido excelentes herramientas para darles visibilidad y divulgación. Este artículo expone el caso de la Colección Juan Mari Brás y cómo las destrezas en aspectos de las HD y archivística ayudaron en la creación de un archivo digital curado por la Fundación Juan Mari Brás. Además, menciona el apoyo recibido por UPR Caribe Digital en la creación de tres productos digitales basados en esta colección. Durante el artículo, se expone el rol del bibliotecario en las Humanidades Digitales y la experiencia creativa junto a un grupo comunitario. Para concluir, brevemente se mencionan temáticas y posibilidades educativas para integrar el Archivo Digital Juan Mari Brás a diversas comunidades y proyectos.
 language: en
 pdf: true
 ---
@@ -48,7 +48,7 @@ al igual que proyectos e investigaciones multidisciplinarias. En una
 conferencia dictada para el Centro para la Excelencia Académica, Mila
 Aponte expone que hay una falta de consenso al momento de definir las
 Humanidades Digitales, provocando una invitación a la multiplicidad de
-voces y miradas[^1]. El proyecto *What is Digital Humanities?*, creado
+voces y miradas[^1]. El proyecto _What is Digital Humanities?_, creado
 por Jason Heppler, recopila diversas definiciones de las HD y resalta
 voces como la de Ammon Sheperd, quien expresa que "Digital Humanities is
 the act of embracing technologies and methodologies to improve and
@@ -66,7 +66,6 @@ Digitales" es definido como:
 > principales: la aplicación de métodos y herramientas tecnológicas para
 > el estudio de las Humanidades; y el estudio de la producción digital
 > desde una perspectiva humanista.[^3]
->
 
 La literatura académica también entra a definir y cuestionar esta rama.
 Por ejemplo, Emilia C. Bell y Mary Anne Kennan explican que las
@@ -90,7 +89,7 @@ cortos, seminarios, grupos de investigación y centros de Humanidades
 Digitales. Como argumenta Shun Han Rebekah Wong, los centros de
 Humanidades Digitales
 
-> *"*are important to the development of digital humanities,
+> "are important to the development of digital humanities,
 > particularly with their efforts in pedagogical service. Libraries can
 > also make valuable contributions to collaborative partnerships because
 > of the inherent structure of a library as well as the skill sets of
@@ -112,7 +111,7 @@ acervo documental de bibliotecas, archivos, museos y galerías. En el
 caso de Puerto Rico, aún contamos con colecciones que deben darse a
 conocer a diversas comunidades, ya que son consideradas patrimonio
 cultural. Muchas de estas las podemos catalogar como "colecciones
-escondidas".
+escondidas."
 
 ## Las colecciones escondidas
 
@@ -151,7 +150,7 @@ acción activa de invitar a la comunidad para contextualizar la
 documentación histórica resguardada.
 
 Por otra parte, en varias bibliotecas académicas de Puerto Rico se
-utiliza la herramienta *LibGuides*[^11] para darle visibilidad a
+utiliza la herramienta _LibGuides_[^11] para darle visibilidad a
 colecciones especiales, como la de la biblioteca de la Universidad
 Politécnica de Puerto Rico y la de otros recintos de la Universidad de
 Puerto Rico. Dentro de éstas se encuentra la Biblioteca y Hemeroteca
@@ -177,19 +176,17 @@ documentales. La importancia de divulgarlos es que proporcionan mayor
 acceso a colecciones documentales, ya que son creados con el fin de
 recuperar la información. Esta guía en particular cuenta con secciones
 de fuentes secundarias relacionadas al tema de la educación en Puerto
-Rico. Además, se puede acceder a la colección creada en *Internet
-Archive* titulada ["Gerardo Sellés Solá: Historia de la educación en
-Puerto Rico (Siglo XIX
---XX)".](https://archive.org/details/historiaeducacionpuertorico?tab=collection)
+Rico. Además, se puede acceder a la colección creada en _Internet
+Archive_ titulada ["Gerardo Sellés Solá: Historia de la educación en Puerto Rico (Siglo XIX--XX)"](https://archive.org/details/historiaeducacionpuertorico?tab=collection).
 
 {% include image.html
     img="issue08/selles_internet_archive.jpg"
     url="https://archive.org/details/historiaeducacionpuertorico?tab=collection"
     title="Gerardo Sellés Solá: Historia de la educación en Puerto Rico (Siglo XIX --XX)"
-    caption="Copia de la collección digitalizada Gerardo Sellés Solá en Internet Archive." 
+    caption="Copia de la collección digitalizada Gerardo Sellés Solá en Internet Archive."
 %}
 
-La herramienta *LibGuides* también permite recoger estadísticas de
+La herramienta _LibGuides_ también permite recoger estadísticas de
 visibilidad. Por ejemplo, la guía de la Colección Gerardo Sellés Solá
 cuenta con un total de aproximadamente 1,300 visitas en el periodo de
 enero a noviembre de 2023.
@@ -219,8 +216,7 @@ imágenes de la serie "Danza" fueron digitalizadas[^13].
     title="Antonio Santaella"
     caption="Photograph of famours dancer Antonio Santaella's company taken by Arturo Melero." %}
 
-Estás imágenes se encuentran disponibles en la [Biblioteca Digital
-Puertorriqueña](https://upr.contentdm.oclc.org/)[^14] para
+Estás imágenes se encuentran disponibles en la [Biblioteca Digital Puertorriqueña](https://upr.contentdm.oclc.org/)[^14] para
 ser consultadas de manera gratuita. El proyecto cuenta con una
 estrategia de divulgación por medio de la página de Instagram de la CAM,
 donde todos los martes se resalta una fotografía del proyecto bajo el
@@ -237,7 +233,7 @@ estudiantes. Por lo tanto, el acceso a estas fuentes primarias resultará
 en su integración a los trabajos investigativos que se realizan en el
 ambiente académico.
 
-## Las Humanidades Digitales desde el Recinto de Río Piedras 
+## Las Humanidades Digitales desde el Recinto de Río Piedras
 
 El desarrollo de las Humanidades Digitales desde el Recinto de Río
 Piedras de la Universidad de Puerto Rico se lleva a cabo desde hace
@@ -377,8 +373,8 @@ gesta de Juan Mari Brás.
 ## Juan Mari Brás: apuntes breves
 
 Para conocer un poco sobre esta importante figura se resaltan unas notas
-publicadas por la Fundación en *Juan Mari Brás (1927-2010): cronología
-política.* Juan Mari Brás nace en 1927 en Mayagüez, Puerto Rico, y desde
+publicadas por la Fundación en _Juan Mari Brás (1927-2010): cronología
+política._ Juan Mari Brás nace en 1927 en Mayagüez, Puerto Rico, y desde
 temprano se inicia en las luchas pro-independencia de Puerto Rico. En
 1944 funda y dirige la organización Juventud Independentista
 Puertorriqueña, y en 1947 es expulsado de la Universidad de Puerto Rico
@@ -391,7 +387,7 @@ otras personas, fundan el Movimiento Pro Independencia (MPI). El MPI
 buscaba la "consolidación de fuerzas independentistas, poderosa cruzada
 de exclusiva motivación patriótica e instrumento de lucha no
 partidista"[^25]. El MPI realizó una campaña contra el Servicio Militar
-Obligatorio y trabajó en el desarrollo del semanario *Claridad*. Además,
+Obligatorio y trabajó en el desarrollo del semanario _Claridad_. Además,
 participó en la campaña contra la explotación de las minas en
 Utuado-Adjuntas, creía en el poder de las movilizaciones estudiantiles,
 y apoyó la participación del equipo cubano en los Décimos Juegos
@@ -421,7 +417,7 @@ En 1971, Mari Bras se convierte en secretario general del recién fundado
 Partido Socialista Puertorriqueño[^30]. Luchó por la expulsión de la
 marina de Vieques, acto que lo llevó a la cárcel, según la narración de
 Rafael Cancel Miranda sobre su visita en 1979[^31]. En un artículo
-publicado por Ruth Merino Méndez en el periódico *El Mundo*, expuso una
+publicado por Ruth Merino Méndez en el periódico _El Mundo_, expuso una
 pequeña parte de la experiencia de Mari Brás en la cárcel, recalcando el
 apoyo y trabajo, cómo se dividían los deberes, y hasta una crítica hacia
 la cultura del castigo al afirmar "lo peor es que no hay un verdadero
@@ -466,7 +462,6 @@ capacitación, consultoría, mentoría, así como la integración de más
 colaboradores para su ejecución, ayudó a tener un producto final
 robusto.
 
-
 ### Resultados del proyecto
 
 El proyecto obtuvo resultados positivos, los cuales fueron visibles
@@ -487,7 +482,7 @@ digital. En el mismo, se destacan una selección de ítems que resaltan el
 valor de la colección.
 
 En primer lugar, nos enfocamos en la creación de una exhibición virtual
-en formato de línea de tiempo utilizando la herramienta *TimelineJS.*
+en formato de línea de tiempo utilizando la herramienta _TimelineJS._
 Esta primera exhibición, titulada "Juan Mari Brás: una mirada a su
 correspondencia." Se realizó durante el primer semestre (2022-2023), y
 cuenta con 41 ítems de cartas y postales que incluyen asuntos políticos,
@@ -518,7 +513,7 @@ adecuado de la información compartida, además de que los usuarios del
 archivo se sientan acogidos en utilizar el material para futuras
 investigaciones. El resultado final cuenta con 151 ítems seleccionados
 por las estudiantes y aprobados por la Fundación Juan Mari Brás. Se
-utilizó la herramienta de *Internet Archive Wayback Machine* para
+utilizó la herramienta de _Internet Archive Wayback Machine_ para
 guardar el resultado final del proyecto. A su vez, se enlazaron las dos
 exhibiciones explicadas anteriormente. El 5 de mayo de 2023, en la
 Facultad de Estudios Generales de la Universidad de Puerto Rico, Recinto
@@ -557,6 +552,7 @@ poblaciones. En esta sección se presentan tres posibles áreas/temas que
 pueden incorporar y/o dialogar con el Archivo Digital Juan Mari Brás:
 
 1.  Política y justicia social. La curaduría que realizó la Fundación
+
     > Juan Mari Brás con la documentación divulgada es útil para el
     > estudio de la política puertorriqueña. La lucha por la
     > independencia de Puerto Rico y sus figuras claves, así como las
@@ -566,6 +562,7 @@ pueden incorporar y/o dialogar con el Archivo Digital Juan Mari Brás:
     > Puerto Rico, desde escuela elemental hasta educación superior.
 
 2.  Humanidades Digitales y estudios archivísticos. La creación de un
+
     > proyecto de HD que integre las tres herramientas utilizadas en el
     > Archivo Digital Juan Mari Brás puede ser de análisis para
     > estudiantes subgraduados y graduados en aspectos como la
@@ -634,156 +631,186 @@ acción que debemos continuar emulando como bibliotecarios para
 fortalecer nuestras aportaciones a las HD y, a su vez, darles
 visibilidad a las valiosas colecciones de nuestras bibliotecas.
 
-
-[^1]: Mila Aponte, "Qué son las Humanidades Digitales?: introducción
+[^1]:
+    Mila Aponte, "Qué son las Humanidades Digitales?: introducción
     ilustrada" (2022),
     [[https://www.youtube.com/watch?v=YjkQANz1iBM]{.underline}](https://www.youtube.com/watch?v=YjkQANz1iBM).
 
-[^2]: Jason Heppler, *What is Digital Humanities?*, 2015, fecha de
+[^2]:
+    Jason Heppler, _What is Digital Humanities?_, 2015, fecha de
     acceso: 3 de junio de 2023,
     [[http://whatisdigitalhumanities.com/]{.underline}](http://whatisdigitalhumanities.com/).
 
-[^3]: Ver Mila Aponte-González & S. Sahir Santiago-Díaz, *Glosario de
-    Humanidades Digitales @ UPR Caribe Digital*, 2023,
+[^3]:
+    Ver Mila Aponte-González & S. Sahir Santiago-Díaz, _Glosario de
+    Humanidades Digitales @ UPR Caribe Digital_, 2023,
     [[https://web.archive.org/web/20230823202421/https://uprcaribedigital.org/wp-content/uploads/2023/08/UPRCaribeDigital_GlosarioDeHumanidadesDigitales_v2023.pdf]{.underline}](https://web.archive.org/web/20230823202421/https://uprcaribedigital.org/wp-content/uploads/2023/08/UPRCaribeDigital_GlosarioDeHumanidadesDigitales_v2023.pdf).
 
-[^4]: Emilia C. Bell y Mary Anne Kennan, "Partnering in Knowledge
+[^4]:
+    Emilia C. Bell y Mary Anne Kennan, "Partnering in Knowledge
     Production: Roles for Librarians in the Digital Humanities",
     J*ournal of the Australian Library and Information Association* 70,
     no. 2 (2021): 157-176.
 
-[^5]: Shun Han Rebekah Wong, "Digital Humanities: What Can Libraries
-    Offer?", *Libraries and the Academy* 16 no. 4 (2016): 669--690.
+[^5]:
+    Shun Han Rebekah Wong, "Digital Humanities: What Can Libraries
+    Offer?", _Libraries and the Academy_ 16 no. 4 (2016): 669--690.
 
 [^6]: Bell y Kennan, "Partnering in Knowledge", 157.
-
-[^7]: Elizabeth Yakel, "collections in archives and libraries", *OCLC
-    Systems & Services: International digital library perspectives* 21,
+[^7]:
+    Elizabeth Yakel, "collections in archives and libraries", _OCLC
+    Systems & Services: International digital library perspectives_ 21,
     no. 2 (2005): 95-99.
 
-[^8]: Universidad de Puerto Rico en Bayamón, "Guía Informativa",
-    *Archivo Histórico UPRB*, fecha de acceso: 3 de marzo de 2023,
+[^8]:
+    Universidad de Puerto Rico en Bayamón, "Guía Informativa",
+    _Archivo Histórico UPRB_, fecha de acceso: 3 de marzo de 2023,
     [[https://web.archive.org/web/20230816182558/https://redi.upr.edu/handle/11722/2461]{.underline}](https://web.archive.org/web/20230816182558/https://redi.upr.edu/handle/11722/2461).
 
-[^9]: Este archivo disponible en línea continúa creciendo y divulgándose
+[^9]:
+    Este archivo disponible en línea continúa creciendo y divulgándose
     por diversos medios. Se puede acceder por
     [<https://web.archive.org/web/20230816182558/https://redi.upr.edu/handle/11722/2461>.]{.underline}
 
-[^10]: La experiencia del doctor Mercado Matos cuando era estudiante de
+[^10]:
+    La experiencia del doctor Mercado Matos cuando era estudiante de
     la Universidad de Puerto Rico en Bayamón y la interacción con la
     documentación disponible en el archivo es accessible desde
     [[https://youtu.be/6ZS2MDRDkec?si=k6ahiGCXz48HUjA4]{.underline}](https://youtu.be/6ZS2MDRDkec?si=k6ahiGCXz48HUjA4).
 
-[^11]: *LibGuide* es una herramienta de pago de la compañía
-    *SpringShare* que permite crear y compartir guías. Estas pueden ser
+[^11]:
+    _LibGuide_ es una herramienta de pago de la compañía
+    _SpringShare_ que permite crear y compartir guías. Estas pueden ser
     guías de cursos, temáticas o administrativas.
 
-[^12]: Yarelis Torres, "Inicio", *Colección Gerardo Sellés Solá*, fecha
+[^12]:
+    Yarelis Torres, "Inicio", _Colección Gerardo Sellés Solá_, fecha
     de acceso: 3 de junio de 2023,
     [[https://web.archive.org/web/20230816195829/https://uprrp.libguides.com/sellessola]{.underline}](https://web.archive.org/web/20230816195829/https://uprrp.libguides.com/sellessola).
 
-[^13]: Universidad de Puerto Rico, Recinto de Río Piedras, "Sistema de
+[^13]:
+    Universidad de Puerto Rico, Recinto de Río Piedras, "Sistema de
     Bibliotecas UPR invita a explorar la colección digital del archivo
-    de la danza", *Blog del Recinto de Río Piedras, Noticias*, fecha de
+    de la danza", _Blog del Recinto de Río Piedras, Noticias_, fecha de
     acceso: 17 de agosto de 2023,
     [[https://web.archive.org/web/20230816201437/https://www.uprrp.edu/2023/02/sistema-de-bibliotecas-upr-invita-a-explorar-la-coleccion-digital-del-archivo-de-la-danza/]{.underline}](https://web.archive.org/web/20230816201437/https://www.uprrp.edu/2023/02/sistema-de-bibliotecas-upr-invita-a-explorar-la-coleccion-digital-del-archivo-de-la-danza/).
 
-[^14]: La Biblioteca Digital Puertorriqueña del Sistema de Bibliotecas
+[^14]:
+    La Biblioteca Digital Puertorriqueña del Sistema de Bibliotecas
     del Recinto de Río Piedras de la Universidad de Puerto Rico ofrece
     acceso abierto a sus colecciones digitales de diversas fuentes
     primarias relacionadas con la historia y la cultura puertorriqueña,
     tales como: caricaturas, carteles, dibujos, fotografías (incluye
-    parte del Archivo Fotográfico del periódico *El Mundo*), mapas,
+    parte del Archivo Fotográfico del periódico _El Mundo_), mapas,
     manuscritos, libros, periódicos y revistas, entre otros. Ver
     [[https://web.archive.org/web/20230816184440/https://upr.contentdm.oclc.org/]{.underline}](https://web.archive.org/web/20230816184440/https://upr.contentdm.oclc.org/).
 
-[^15]: Nien Lin Xie, "Partnering with Special Collections in Promoting
+[^15]:
+    Nien Lin Xie, "Partnering with Special Collections in Promoting
     Digital Humanities: Papers of Charles Daniel Tenney (丁家立档案) at
-    Dartmouth College", *International Journal of Librarianship* 4 no. 1
+    Dartmouth College", _International Journal of Librarianship_ 4 no. 1
     (2019): 103-107.
 
-[^16]: UPR Caribe Digital, "Acerca de", Fecha de acceso: 4 de junio de
+[^16]:
+    UPR Caribe Digital, "Acerca de", Fecha de acceso: 4 de junio de
     2023,
     [[https://web.archive.org/web/20230816201614/https://uprcaribedigital.org/proyecto/]{.underline}](https://web.archive.org/web/20230816201614/https://uprcaribedigital.org/proyecto/).
 
-[^17]: María E. Ordóñez Mercado, "Colección Puertorriqueña (Biblioteca y
+[^17]:
+    María E. Ordóñez Mercado, "Colección Puertorriqueña (Biblioteca y
     Hemeroteca Puertorriqueña) Sistema de Bibliotecas, Recinto de Río
-    Piedras, Universidad de Puerto Rico", en *Colecciones Especiales de
-    Bibliotecas de la Universidad de Puerto Rico*, editado por Esther
+    Piedras, Universidad de Puerto Rico", en _Colecciones Especiales de
+    Bibliotecas de la Universidad de Puerto Rico_, editado por Esther
     Villarino Tur, (Puerto Rico: Universidad de Puerto Rico, 2017):
     63-70. Ver
     [[https://web.archive.org/web/20230816195705/https://repositorio.upr.edu/handle/11721/1727]{.underline}](https://web.archive.org/web/20230816195705/https://repositorio.upr.edu/handle/11721/1727).
 
-[^18]: Yarelis Torres, "Inventario de la Colección de la Dra. Loida
+[^18]:
+    Yarelis Torres, "Inventario de la Colección de la Dra. Loida
     Figueroa Mercado, 1917-1996", Auxiliar descriptivo, Universidad de
     Puerto Rico -- Recinto de Río Piedras (2014),
     [[https://web.archive.org/web/20230816195946/https://repositorio.upr.edu/handle/11721/3111]{.underline}](https://web.archive.org/web/20230816195946/https://repositorio.upr.edu/handle/11721/3111).
 
-[^19]: Movimiento Pro Independencia de Puerto Rico, "Mari Brás parte
-    hacia la ONU", *Carta semanal del Movimiento Pro Independencia de
-    Puerto Rico*, V(210), 9 de junio (1965): 1-6.
+[^19]:
+    Movimiento Pro Independencia de Puerto Rico, "Mari Brás parte
+    hacia la ONU", _Carta semanal del Movimiento Pro Independencia de
+    Puerto Rico_, V(210), 9 de junio (1965): 1-6.
 
-[^20]: María E. Ordóñez Mercado, "Colección Pupil's Work", Auxiliar
+[^20]:
+    María E. Ordóñez Mercado, "Colección Pupil's Work", Auxiliar
     descriptivo, Universidad de Puerto Rico -- Recinto de Río Piedras
     (1999),
     [[https://web.archive.org/web/20230816195508/https://repositorio.upr.edu/handle/11721/3128]{.underline}](https://web.archive.org/web/20230816195508/https://repositorio.upr.edu/handle/11721/3128).
 
-[^21]: Para acceder al auxiliar descriptivo de esta colección puede
+[^21]:
+    Para acceder al auxiliar descriptivo de esta colección puede
     hacerlo en el siguiente enlace
     [[https://repositorio.upr.edu/handle/11721/3071]{.underline}](https://repositorio.upr.edu/handle/11721/3071).
 
-[^22]: El auxiliar descriptivo de esta colección está disponible en
+[^22]:
+    El auxiliar descriptivo de esta colección está disponible en
     línea, ver
     [[https://repositorio.upr.edu/handle/11721/3137]{.underline}](https://repositorio.upr.edu/handle/11721/3137).
 
-[^23]: María E. Ordóñez, "Real Sociedad Económica de Amigos del País",
+[^23]:
+    María E. Ordóñez, "Real Sociedad Económica de Amigos del País",
     Auxiliar descriptivo, Universidad de Puerto Rico -- Recinto de Río
     Piedras (1998),
     [[https://web.archive.org/web/20231214191755/https://repositorio.upr.edu/handle/11721/3137]{.underline}](https://web.archive.org/web/20231214191755/https://repositorio.upr.edu/handle/11721/3137)
 
-[^24]: Fundación Juan Mari Brás, *Juan Mari Brás (1927-2010): cronología
-    política*,
+[^24]:
+    Fundación Juan Mari Brás, _Juan Mari Brás (1927-2010): cronología
+    política_,
     [[https://juanmaribras.org/index.php?option=com_content&view=article&id=324:cronologia&catid=46&Itemid=110]{.underline}](https://juanmaribras.org/index.php?option=com_content&view=article&id=324:cronologia&catid=46&Itemid=110).
 
-[^25]: Movimiento Pro Independencia de Puerto Rico, *La hora de la
+[^25]:
+    Movimiento Pro Independencia de Puerto Rico, _La hora de la
     independencia: tesis política Movimiento Pro Independencia de Puerto
-    Rico* (San Juan, Puerto Rico: 1963).
+    Rico_ (San Juan, Puerto Rico: 1963).
 
-[^26]: Juan Mari Brás, "Balance del año", *Carta semanal del Movimiento
-    Pro Independencia de Puerto Rico* VI no. 287, 27 de diciembre
+[^26]:
+    Juan Mari Brás, "Balance del año", _Carta semanal del Movimiento
+    Pro Independencia de Puerto Rico_ VI no. 287, 27 de diciembre
     (1966):1-6.
 
-[^27]: Movimiento Pro Independencia de Puerto Rico, "Mari Brás parte
-    hacia la ONU", *Carta semanal del Movimiento Pro Independencia de
-    Puerto Rico*, V(219) 12 de agosto (1965): 1-5.
+[^27]:
+    Movimiento Pro Independencia de Puerto Rico, "Mari Brás parte
+    hacia la ONU", _Carta semanal del Movimiento Pro Independencia de
+    Puerto Rico_, V(219) 12 de agosto (1965): 1-5.
 
 [^28]: Carta Semanal del Movimiento Pro Independencia de Puerto Rico, 2.
-
-[^29]: Juan Mari Brás, *Abriendo caminos: selección de discursos y
+[^29]:
+    Juan Mari Brás, _Abriendo caminos: selección de discursos y
     ponencias que son hilo conductor del pensamiento político del autor
-    durante el curso de cuarenta y dos años* (Puerto Rico: Editora Causa
+    durante el curso de cuarenta y dos años_ (Puerto Rico: Editora Causa
     Común, 2019), 89.
 
-[^30]: Fundación Juan Mari Brás, *Juan Mari Brás (1927-2010): cronología
-    política*,
+[^30]:
+    Fundación Juan Mari Brás, _Juan Mari Brás (1927-2010): cronología
+    política_,
     [[https://juanmaribras.org/index.php?option=com_content&view=article&id=324:cronologia&catid=46&Itemid=110]{.underline}](https://juanmaribras.org/index.php?option=com_content&view=article&id=324:cronologia&catid=46&Itemid=110).
 
-[^31]: Rafael Cancel Miranda, "Pero si es mi hermano", en *Hablan sobre
-    Juan Mari Brás*, entrevistado por Rosi Mari Pesquera (San Juan:
+[^31]:
+    Rafael Cancel Miranda, "Pero si es mi hermano", en _Hablan sobre
+    Juan Mari Brás_, entrevistado por Rosi Mari Pesquera (San Juan:
     Fundación Juan Mari Brás, 2018): 11-25.
 
-[^32]: Ruth Merino Méndez, "Mari Brás dice aprendió a conocer mejor la
-    realidad cárceles de Puerto Rico", *El Mundo*, 23 de octubre (1979):
+[^32]:
+    Ruth Merino Méndez, "Mari Brás dice aprendió a conocer mejor la
+    realidad cárceles de Puerto Rico", _El Mundo_, 23 de octubre (1979):
     4-A.
 
-[^33]: Juan Mari Brás, *La jornada de 1978 en Naciones Unidas: un
-    capítulo de historia contemporánea* (1981).
+[^33]:
+    Juan Mari Brás, _La jornada de 1978 en Naciones Unidas: un
+    capítulo de historia contemporánea_ (1981).
 
-[^34]: Michaell Caswell, "'The Archive' Is Not an Archives: On
+[^34]:
+    Michaell Caswell, "'The Archive' Is Not an Archives: On
     Acknowledging the Intellectual Contributions of Archival Studies",
-    *Reconstruction: Studies in Contemporary Culture* 16 no. 1, (2016).
+    _Reconstruction: Studies in Contemporary Culture_ 16 no. 1, (2016).
 
-[^35]: El Archivo digital Juan Mari Brás pretende ser un archivo que se
+[^35]:
+    El Archivo digital Juan Mari Brás pretende ser un archivo que se
     continúe nutriendo. La Fundación Juan Mari Brás participó de los
     adiestramientos ofrecidos por UPR Caribe Digital y cuentan con el
     conocimiento para incorporar más material. Para consultar el mismo,
@@ -791,5 +818,4 @@ visibilidad a las valiosas colecciones de nuestras bibliotecas.
     [[https://web.archive.org/web/20230503132616/https://archivojuanmaribras.omeka.net/]{.underline}](https://web.archive.org/web/20230503132616/https://archivojuanmaribras.omeka.net/)
 
 [^36]: Caswell, "The Archive' Is Not an Archives".
-
 [^37]: Wong, "Digital Humanities", 688.
