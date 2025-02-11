@@ -127,4 +127,49 @@ Since many of our articles are media-rich—linking prose arguments
 rhetorically to visuals—we ask our reviewers also to provide feedback on
 the figures, images, and interactives used in articles.
 
+---
+## Copy Editor Guidelines
+
+ 1. Grammar, Spelling, and Punctuation:
+  - [ ] Correct grammatical errors, typos, and misspellings.
+  - [ ] Ensure proper punctuation is used throughout the text to improve clarity and flow.
+  - [ ] Ensure all spellings correspond to United States English.
+ 2. Consistency:
+  - [ ] Ensure consistency in formatting, capitalization, numerals, and abbreviations.
+  - [ ] Follow the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html) to maintain uniformity across the text.
+  - [ ] Ensure use of normal quotation marks. Avoid the use of “smart quotes.”
+ 3. Fact-Checking (Basic):
+  - [ ] Verify factual accuracy, such as names, dates, and places. Though copy editors don’t usually conduct in-depth research, they often catch glaring factual errors.
+4. Clarity and Readability:
+  - [ ] Refine sentences for clarity, ensuring that ideas are presented logically and are easy to understand.
+  - [ ] Simplify overly complex or ambiguous sentences, making the content accessible to the intended audience.
+5. Style and Tone:
+  - [ ] Maintain or enhance the appropriate tone for an academic audience.
+  - [ ] Ensure the writing aligns with the publication's voice and style.
+6. Syntax and Flow:
+  - [ ] Improve sentence structure and paragraph organization to enhance the flow of the text.
+  - [ ] Ensure transitions between ideas are smooth, improving the overall coherence of the writing.
+7. Correcting Inconsistencies and Redundance:
+  - [ ] Remove unnecessary words, phrases, or repetitive content that does not add value.
+  - [ ] Tighten the writing to make it more concise and impactful.
+8. Formatting:
+  - [ ] Check formatting for adherence to submission guidelines, such as margins, font sizes, headings, and citations.
+  - [ ] If not in use, please add Heading Styles (i.e. Heading 2, Heading 3, etc.) to separate the sections, beginning with Heading 2. 
+  - [ ] 1” Margins across the file.
+  - [ ] Times New Roman in 12 pts. 
+  - [ ] For hyphens, en-dashes and em-dashes use, respectively: - -- and ---.
+  - [ ] Ensure that the layout is clean and professional.
+9. References and Citations:
+  - [ ] Ensure citations and references are formatted correctly according to the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html).
+  - [ ] Verify that citations are complete and accurate (e.g., in academic writing).
+10. Ensuring Adherence to Journal Author Guidelines:
+  - [ ] Make sure the content follows any provided editorial guidelines or submission requirements (e.g., word count limits, formatting rules).
+  - [ ] Author biographies (200–250 words) are included at the bottom of the document.
+  - [ ] There should be no image files in the document. If there are, notify the editors
+11. Legal and Ethical Compliance:
+  - [ ] Alert authors to any potential libelous or defamatory content.
+  - [ ] Ensure proper attribution and avoid plagiarism.
+
+These guidelines were created based on the advice for copy editing from scholar [Wendy Laura Belcher’s website](https://wendybelcher.com/). 
+
 
