@@ -36,7 +36,7 @@ The National Archeological Anthropological Memory Management ([NAAM](https://naa
 Juliana and Pater Brenneker preserved Afro-Curaçaoan cultural heritage recorded in the Zikinzá collection through analog recording devices. They knew this knowledge was meant to outlive their own lifespans and thus entrusted their audio files to the National Archives. Their visionary insight to digitize parts of the Zikinzá collection ensured further preservation of this valuable cultural heritage. Juliana did not archive the audio recordings merely to preserve folk knowledge for posterity's sake. His archival methodology was designed to empower his own people, and thus also included communicating his findings with his community. Similarly, more recent researchers and artists have used the knowledge archived and made accessible through the Zikinzá collection to return the cultural heritage legacy back to ABCSSS islanders through digital and traditional forms.
 
 {% include image.html
-  img="issue08/elis_juliana.jpg"
+  img="issue08/elis_juliana.jpeg"
   title="Elis Juliana"  
   caption="Photo of Elis Juliana" %}
 
