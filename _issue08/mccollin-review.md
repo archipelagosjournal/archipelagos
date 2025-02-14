@@ -14,7 +14,6 @@ date: February 2025
 issue: 8
 order: 1
 abstract: >
-    The Colonial Collections Consortium is a dynamic and multifaceted colonial heritage project that utilises a digital platform, the Datahub, to train heritage professionals in provenance research, to create an extensive Dutch colonial object archive and, ultimately, to provide a space for heritage networking. Emerging out of a partnership between five prominent Dutch heritage organisations, the Consortium grapples with imperial legacies while directly confronting the issues of cultural dispossession and historical underrepresentation in the Dutch colonial context.
 abstract_fr: >
   "..."
 abstract_es: >
