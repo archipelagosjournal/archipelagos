@@ -36,8 +36,8 @@ The National Archeological Anthropological Memory Management ([NAAM](https://naa
 Juliana and Pater Brenneker preserved Afro-Curaçaoan cultural heritage recorded in the Zikinzá collection through analog recording devices. They knew this knowledge was meant to outlive their own lifespans and thus entrusted their audio files to the National Archives. Their visionary insight to digitize parts of the Zikinzá collection ensured further preservation of this valuable cultural heritage. Juliana did not archive the audio recordings merely to preserve folk knowledge for posterity's sake. His archival methodology was designed to empower his own people, and thus also included communicating his findings with his community. Similarly, more recent researchers and artists have used the knowledge archived and made accessible through the Zikinzá collection to return the cultural heritage legacy back to ABCSSS islanders through digital and traditional forms.
 
 {% include image.html
-  img="issue08/elis_juliana-iss0810-01.jpg"
-  title="Elis Juliana"
+  img="issue08/elis_juliana.jpg"
+  title="Elis Juliana"  
   caption="Photo of Elis Juliana" %}
 
 In the world of secondary education, where I currently work as a teacher-librarian, there is a trend towards multimodal knowledge forms in teaching and learning approaches. In the digital humanities, there is increasingly an emphasis on multimodal pedagogy and publishing.[^8] In the arts, multidisciplinarity and new media forms are growing interests. But multimodality, which is now gaining popularity through digital affordances, is not itself a new concept. Multimodality—that is, to make meaning from multiple semiotic modes, or to use multiple literacies in a single medium—is an ancestral practice that laid the foundations for digital praxis. To exist in several different modes of being simultaneously, to creolize, to speak Creole languages, to communicate across languages, to speak with the body, to code-switch: these survival strategies are found in many Afrodiasporic ways of being and knowing, and thus in Caribbean artistic and archival practices as well.
@@ -56,19 +56,22 @@ Well-known Curaçaoan scholar, Rose Mary Allen, used the songs and oral historie
 
 Using the recordings of the Zikinzá collection, along with her own extensive oral story collection, Allen returns the voices to those who have otherwise been silenced in traditional historical archives to unearth their testimonies of resilience, resistance, community networks, and social life. Along with her research on the historical social conditions of Afro-Curaçaoans, Allen offers an Afro-Curaçaoan methodological approach to conducting research. Much like Michel-Rolph Trouillot has argued in the case of the Haitian Revolution, Allen makes clear that “the group with power is inextricably linked with the creators of historical records.”[^11] In _Di ki manera?_ Allen argues strongly for the value and necessity of using oral sources to supplement limiting archives when researching Curaçao, and has an entire chapter dedicated to a proposed Afro-Curaçaoan methodology of using oral and archival sources. Some of the lessons and suggestions she offers include building relationships of trust over time, working collaboratively across generations, and acknowledging the reciprocal knowledge in both oral histories and folklore. Notably these are all similar ways of conducting research and archivism that Juliana engaged in. Indeed, Allen notes that the ethnographic archival methodology used with the Zikinzá collection “has become a model for this type of research on the island \[and\] no study concerned with the oral history and tradition of Curaçao can overlook their work.”[^12] Although firmly in the field of academic scholarship, Allen works with academic and local sources (songs, stories) to do her research. One of the most recognized traditional songs that she refers to is “Di ki manera” \[In Which Manner\], which is also the title of Allen’s book. This song recounts an enslaved person contemplating how to survive the injustice of the world they live in. You can listen to the audio recording of _Di ki manera_ from the Zikinzá collection below.
 
-img="di_ki_manera-iss0810-04.jpg"  
-title="Di ki manera"  
-caption="Di ki manera audio recording from Zikinzá collection"  
-url="https://dcdp.uoc.cw/aa00001056/00001"
+{% include image.html
+  img="issue08/di_ki_manera.png"
+  title="Di ki manera"  
+  caption="Di ki manera audio recording from Zikinzá collection" 
+  url="https://dcdp.uoc.cw/aa00001056/00001" %}
 
 Another scholar who deeply researched the Zikinzá collection was the renowned author Frank Martinus Arion. While most of the recordings in the Zikinzá collection are in Papiamentu, there are significant references in what is understood to be Guene as well.[^13] Guene was a language, or mixture of Afro-Portuguese dialects, that enslaved people in Curaçao and Bonaire originally used to secretly communicate with each other. Although there are no more native speakers of Guene, Arion argued in his doctoral thesis _The Kiss of a Slave: Papiamentu’s West-African Connections_ that Papiamentu’s origins can be traced to Guene.[^14] Arion acknowledged he was able to conduct his extensive and now widely referenced research into Guene and Papiamentu, largely thanks to the recordings in the Zikinzá collection.[^15] In his book, he traces the linguistic origins of Papiamentu, and reconstructs a Guene linguistic corpus based on the songs from the Zikinzá collection.
 
 In the song “Baulo ta den tera,” Arion reconstructs and translates the Guene lyrics that had been mistakenly understood as Papiamentu or worse as unintelligible.[^16] In the Zikinzá audio recording we can hear the interviewee Alberto Martina explaining that this song would be sung on plantations when the _shon_ \[slave master\] came, at which point everyone would start working. Martina confirms that because the _shon_ didn’t understand what “Baulo” meant, the song functioned as a warning for enslaved people without alerting the _shon_. Papiamentu speakers, likely including the _shon_ at the time, may translate this song as “Baulo is in the land” without understanding what “baulo” means. Crucially, the presumed reference to “tera” \[land\] could signal that this was a digging song, and thus that the enslaved were hard at work. Yet Arion argues that “den tera” is a false friend in Papiamentu of the Guene phrase “dentrá” meaning “to enter.”[^17] As for the word “baulo,” when Pater Brenneker probes for clarification in the interview, Martina simply confirms that the _shon_ didn’t know what it meant. In the background we can hear laughter. This laughter could signal that the interviewer or the other guests present during the interview do not wish to fully explain a concept deemed improper or sexually explicit to the Dutch priest.[^18] In Arion’s reconstructed Guene he translates “baulo” to “bitch” which means this song was likely referring to the slave master as the mistress of the plantation. Through analysis of the Zikinzá archive along with other sources, important knowledge about Guene and Papiamentu, resistance strategies of the enslaved, as well as gendered conditions of life during slavery can be discerned. Arion emphasized the value of the Zikinzá collection for linguistic studies and also acknowledged it as a rich source for many aspects of Antillean cultural heritage.
 
-img="baulo_ta_den_tera-iss0810-05.jpg"  
-title="Baulo ta den tera"  
-caption="Baulo ta den tera audio recording from Zikinzá collection"  
-url="[https://dcdp.uoc.cw/AA00003614/00001](https://dcdp.uoc.cw/AA00003614/00001)"
+{% include image.html
+  img="issue08/baulo_den_tera.png"
+  title="Baulo ta den tera"  
+  caption="Baulo ta den tera audio recording from Zikinzá collection" 
+  url="https://dcdp.uoc.cw/AA00003614/00001" %}
+
 
 The Zikinzá collection has had a strong influence on valuable linguistic and socio-historical research, as well as on local musical knowledge. René Rosalia, a Curaçaoan scholar and politician, wrote his dissertation _Tambu; De legale en kerkelijke repressie van Afro-Curaçaose volksuitingen_ \[Tambu; The Legal and Religious Repression of Afro-Curaçaoan Folk Expression\] in 1996\. It is still one of the foundational written texts on the Afro-Curaçaoan musical and dance tradition of tambú. In his dissertation, Rosalia referenced songs and oral accounts from the Zikinzá collection and, importantly, also conducted his own extensive oral history interviews.
 
@@ -78,10 +81,13 @@ More recently, Curaçaoan musician Vernon Chatlein has created a trilogy of conc
 
 One such story that features prominently in the Zikinzá collection, and that is currently seeing a resurgence across Dutch Caribbean imaginaries, is of the enslaved Africans flying back to Africa. Different versions of this legend can be found across the Caribbean, Latin America, and the US South. In an interview in the Zikinzá archive with Marti Doran which you can listen to below, he explains that in Curaçao the legend of _Bulabanda_ or _Bula bai_ \[Fly away\] is connected to a specific site in the west of the island where enslaved Africans would pile up stones to jump off and fly away.[^20] Where the newer term “Bula bai” means to fly away in Papiamentu, the older version “Bulabanda” is not translatable in Papiamentu. Ansano argues that _Bulabanda_ may be a Guene term referring to the Congolese traditional “rite for getting away from a lineage head.”[^21] He explains that since there were no lineage heads in Curaçao given forced family separation, but instead _shon’s_ \[slave master’s\], Bulabanda may have referred to a ritual of rejecting and flying away from the institution of slavery.
 
-img="genénan_a_bula_bai-iss0810-06.jpg"  
-title="Genénan a bula bai"  
-caption="Genénan a bula bai audio recording from Zikinzá collection"  
-url="[https://dcdp.uoc.cw/AA00003698/00001/](https://dcdp.uoc.cw/AA00003698/00001/)"
+{% include image.html
+  img="issue08/genenan.jpg"
+  title="Genénan a bula bai"  
+  caption="Genénan a bula bai audio recording from Zikinzá collection" 
+  url="https://dcdp.uoc.cw/AA00003698/00001/"
+ %}
+
 
 In the first _Sambumbu_ book, Pater Brenneker documents and analyses a variety of accounts of Bulabanda in Curaçao. The contextual support from _Sambumbu_ helps clarify the audio fragments in the Zikinzá recordings. For example, there is a line missing from the oral interview archived in the digitized Zikinzá collection which Brenneker includes in _Sambumbu_. He finishes Marti Doran’s account of _Bulabanda_ translating his quote that, “vroeger was dit allemaal mogelijk, tegenwoordig met auto’s en elektrisch licht niet meer” \[all this used to be possible, but nowadays with cars and electric lights it's not\].[^22] This final detail could provide valuable insights about shifts in the spiritual landscape on the island, or in this communal resistance ritual, with the onset of industrialization. Fortunately, the _Sambumbu_ books have all been digitized and so it is possible to access and search for terms such as “bula bai,” “bulabanda” and “guene” online. The Zikinzá collection and the subsequent _Sambumbu_ books have been important vessels in the continuation of the story of _Bulabanda_. The digitization of these oral and written collections may point to the resurgence of _Bulabanda_ in popular cultural imagination both on the island(s) and in the diaspora. From theater, to film, to music, the legend of _Bulabanda_ is re-appearing as an important symbol of Afro-Curaçaoan cultural resistance.
 
@@ -96,10 +102,11 @@ Along with theater, film, we also see references to Bulabanda in music such as b
 
 Accompanying the invitation are references to the ritual purging of salt needed to fly, and the hill where _Bulabanda_ is performed. An important theme in Martina’s music is collective liberation. Much like how Elis Juliana deeply studied Afro-Curaçaoan culture and communicated local knowledge back to his community through artistic interventions, Juny Martina is becoming a voice of his people reworking ancestral stories into contemporary anthems.
 
-img="dinopano*on_negropont_by_juny_martina-iss0810-07.jpg"  
-title="“Dinopano” on \_Negropont* by Juny Martina"  
-caption="“Dinopano” on _Negropont_ by Juny Martina"  
-url="[https://open.spotify.com/track/0tfZ3YK0auAmPYfzLozvf7?si=6918e7e872e145d1](https://open.spotify.com/track/0tfZ3YK0auAmPYfzLozvf7?si=6918e7e872e145d1)"
+{% include image.html
+  img="issue08/dinopano.png"
+  title="'Dinopano' from the album _Negropont_"
+  caption="'Dinopano' from the album _Negropont_ by Juny Martina" 
+  url="https://open.spotify.com/track/0tfZ3YK0auAmPYfzLozvf7?si=6918e7e872e145d1" %}
 
 In the same years that Elis Juliana and Pater Brenneker were collecting oral stories in Curaçao in the 1950s and 1960s, Langston Hughes and Arna Bontemps were conducting similar ethnographic research in the USA and published their collected oral stories as [_The Book of Negro Folklore_](https://archive.org/details/bookofnegrofolkl00hugh/) in 1958.[^24] This book compiles a number of African American folktales including “All God’s Children Had Wings” which recounts the tale of enslaved Africans flying away. In the written oral story, an older Black man reminds his fellow enslaved people on the plantation of their African power of flight. As he speaks to them in an unknown language, “they all remembered what they had forgotten, and recalled the power which once had been theirs”.[^25]
 
@@ -113,9 +120,11 @@ Elis Juliana, affectionately known as Ompi Elis \[_Uncle Elis_\], spent much of 
 
 Joceline Clemencia was one of the most insistent scholars of Juliana’s archive, locating his work in the national material and immaterial heritage of Curacao from which it was born from and for which it was intended. Clemencia’s critical work contributed to the framework of _julianismo_, as developed in her books _Het grote camouflagespel van de OPI: een thematische benadering van de poëzie van Elis Juliana_ \[The great camouflage game of OPI: a thematic approach to the poetry of Elis Juliana\] and _Piedra di mulina: Elis Juliana inbestigadó_ \[Mill Stone: Elis Juliana as Researcher\]_._[^29] In the former, Clemencia investigates the overarching symbol of camouflage organizing Juliana’s poetic oeuvre. In the second book she argues that Juliana’s methodology does not fit neatly into European theories and hyper-specialized social science methods, which tend to fragment the totality of a human being. Curaçaoan scholar and healer Richenel Ansano explains that while Juliana “documents among other things the double consciousness created by slavery and colonialism and criticizes the deformed personalities and relationships born under these conditions”' in ways similar to other Afrodiasporic intellectuals, such as Frantz Fanon and W.E.B. Du Bois, “he is more interested in exploring how land defines identity, than in creating decolonial theory.”[^30] Juliana was less focused on militancy and theorization and more on empowering local culture. He rigorously recovered ancestral (hi)stories and practices in order to build and continuously develop a practical, emancipatory consciousness for _Yu di Kòrsou_ islanders.
 
-img="piedra-di-mulina-iss0810-02.jpg"  
-title="_Elis Juliana inbestigadó: piedra di mulina_"  
-caption="_Elis Juliana inbestigadó: piedra di mulina_ by Joceline Clemencia"
+{% include image.html
+  img="issue08/piedra-mulina.jpg"
+  title="_Elis Juliana inbestigadó: piedra di mulina_"
+  artist="Juny Martina"  
+  caption="_Elis Juliana inbestigadó: piedra di mulina_ by Joceline Clemencia" %}
 
 Elis Juliana did not treat the knowledge keepers he engaged with as informants, but rather spent decades building relationships of trust amongst elders, leaving no doubt that his loyalties lay with the Curaçaoan people, rather than in extractive ethnographic pursuits. He did not go searching for anthropological insights but spent time learning the stories shaping his community.[^31] His research priority was first and always to understand his community intimately.
 
@@ -131,9 +140,11 @@ Juliana understood the geopolitics of knowledge, and knew that standards are cul
 
 Elis Juliana is often remembered for his extensive poetry and short stories along with his archival work. Yet he himself believed that his youth novella _Aventura di un kriki_ \[Adventures of a Cricket\] “more than any of his others, depicted the nuances of Caribbean life.”[^36] The novella has all the hallmarks of camouflaged resistance and humorous critique that make Juliana’s work so distinctly recognizable. Juliana wrote _Aventura di un kriki_ in 1989, narrating the adventures of a cricket named Kriki conducting research on the insect world for a book he is writing. In the novella, Juliana’s own practice of territorial archiving through a blend of research and storytelling is mirrored in Kriki’s actions. The land is constructed as an archive of knowledge, and Kriki unearths and disseminates this archive in a camouflaged style typical of Juliana, and fundamental to Papiamentu understandings of the world.
 
-img="aventura*di_un_kriki-iss0810-03.jpg"  
-title="\_Aventura di un kriki* by Elis Juliana"  
-caption="_Aventura di un kriki_ by Elis Juliana"
+{% include image.html
+  img="issue08/aventura_kriki.jpg"
+  title="_Aventura di un kriki_ cover photo"  
+  caption="_Aventura di un kriki_ by Elis Juliana" %}
+
 
 In the novella, Kriki walks around interviewing insects as research for the book he is writing. He narrates, “Pues, un tramèrdia meskos ku tur dia, despues di a lesa hopi buki mashá interesante, m’a sali dal un keiru. Pa mi keda práktiko \- loke semper mi ta i semper lo mi keda miéntras mi ta un kriki–-m’a disidí di utilisá mi paseo pa hasi un bon estudio.”[^37] \[One afternoon, just like every other day, after reading some very interesting books, I went for a walk. Being the practical type \- something I always am and will always be for as long as I am a cricket \- I decided to use my walk as part of my research\].[^38] Kriki acknowledges the value of books, as well as the practical knowledge held in the land, choosing to study both. This methodology of walking the land and listening to the oral stories from beings he encounters, mirrors Juliana’s own practice of emplaced rhizomatic investigation. Walking as a research practice assumes the territory as a source of knowledge. And just as one must learn to read words to understand the stories in books, one must learn to see the relations of a place in order to read the stories archived in the territory.
 
