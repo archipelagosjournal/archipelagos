@@ -97,8 +97,11 @@ In 2020, photographer and film director Kevin Osepa released the short film _Wat
 
 Along with theater, film, we also see references to Bulabanda in music such as by Curaçaoan conscious rapper Juny Martina, whose real name is Jerry Gumbs. He is an environmental scientist by training, and a revered musician with a loyal fanbase across the Papiamentu speaking world. His fourth and most recent album [_Negropont_](https://open.spotify.com/album/7oQGzUJ4JocR61bXawq5Uh?si=2AzHmej3Tr-D7QZEC5uyRg) was released in 2024 and contemplates the identity and futurity of _Yu di Kòrsou_ \[people of Curaçao\] by blending sounds from Séu, Tambú, _muzik di zumbi_ and hip hop. In the album’s final song “Dinopano” \[a contracted play on “di nos, pa nos” meaning “from us, for us”\] Martina invites his listeners to join him in flying away in the tradition of _Bulabanda_. He opens by asking,
 
-| Si mi bisa bo ku mi por bula bai Bo ta ban ku mi Of bo tin mied’i kai[^23] | _If I told you I could fly away Would you join me Or are you scared to fall_ |
-| :------------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
+{% include image.html
+  img="issue08/song-qt.png"
+  title="Excerpt from the song 'Dinapano'." %}
+[^23]
+
 
 Accompanying the invitation are references to the ritual purging of salt needed to fly, and the hill where _Bulabanda_ is performed. An important theme in Martina’s music is collective liberation. Much like how Elis Juliana deeply studied Afro-Curaçaoan culture and communicated local knowledge back to his community through artistic interventions, Juny Martina is becoming a voice of his people reworking ancestral stories into contemporary anthems.
 
