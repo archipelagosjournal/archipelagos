@@ -10,27 +10,27 @@ author:
   - name: Björn Quanjer
     shortname: Quanjer
     bio: >
-      "Dr. Björn Quanjer is a specialist in historical microdata and researcher for the Historical database of Suriname and the Caribbean (HDSC) project. His research focusses on inequalities in wealth and health in historical populations. Björn constructs and uses large scale population database to explore social, economic and demographic trends in the past. Within the HDSC project Björn focusses on the island of Curaçao. Björn’s PhD research entailed a study of early life determinants of adult height within the Netherlands between 1850-1950. In 2024 he defended his dissertation cum laude, using household level data linked to conscription records. "
+      "Dr. Björn Quanjer is a specialist in historical microdata and researcher for the Historical database of Suriname and the Caribbean (HDSC) project. His research focusses on inequalities in wealth and health in historical populations. Björn constructs and uses large scale population database to explore social, economic and demographic trends in the past. Within the HDSC project Björn focusses on the island of Curaçao. Björn’s PhD research entailed a study of early life determinants of adult height within the Netherlands between 1850-1950. In 2024 he defended his dissertation cum laude, using household level data linked to conscription records." 
   - name: Thunnis van Oort
     shortname: van Oort
     bio: >
-      "Dr. Thunnis van Oort is a historian interested in digital methods and techniques, citizen science, cultural heritage, colonial history and media history. He has researched and/or taught at Radboud University, University of Amsterdam, Oxford Brookes University, Antwerp University, University College Roosevelt and Utrecht University."
+      "Dr. Thunnis van Oort is a historian interested in digital methods and techniques, citizen science, cultural heritage, colonial history and media history. He has researched and/or taught at Radboud University, University of Amsterdam, Oxford Brookes University, Antwerp University, University College Roosevelt and Utrecht University." 
   - name: Matthias Rosenbaum-Feldbrügge
     shortname: Rosenbaum-Feldbrügge
     bio: >
-      "Dr. Matthias Rosenbaum-Feldbrügge is a historical demographer at Radboud University Nijmegen, the Netherlands. As a specialist in historical microdata, he is involved in the construction of the Historical Database of Suriname and the Caribbean (HDSC). Through advanced record linkage methods, Matthias also reconstructs the life courses of the enslaved population and their descendants which enables innovative research into kinship networks, health inequalities, and living standards during and after slavery. Matthias has published in demographic journals such as Demography, European Journal of Population, Population, Space, and Place, The History of the Family, and Demographic Research."
+      "Dr. Matthias Rosenbaum-Feldbrügge is a historical demographer at Radboud University Nijmegen, the Netherlands. As a specialist in historical microdata, he is involved in the construction of the Historical Database of Suriname and the Caribbean (HDSC). Through advanced record linkage methods, Matthias also reconstructs the life courses of the enslaved population and their descendants which enables innovative research into kinship networks, health inequalities, and living standards during and after slavery. Matthias has published in demographic journals such as Demography, European Journal of Population, Population, Space, and Place, The History of the Family, and Demographic Research." 
   - name: Cornelis W. (Coen) van Galen
     shortname: van Galen
     bio: >
-      "Dr. Cornelis W. (Coen) van Galen is an associate professor in social and colonial history at Radboud University Nijmegen. He is the project manager of the Historical Database of Suriname and the Caribbean (HDSC), a combined data and citizen science project aimed at the production of open access datasets of the population of Suriname and the Dutch Caribbean between 1830 and 1950. "
+      "Dr. Cornelis W. (Coen) van Galen is an associate professor in social and colonial history at Radboud University Nijmegen. He is the project manager of the Historical Database of Suriname and the Caribbean (HDSC), a combined data and citizen science project aimed at the production of open access datasets of the population of Suriname and the Dutch Caribbean between 1830 and 1950." 
   - name: Lisa Hoek
     shortname: Hoek
     bio: >
-      "Lisa Hoek, MA, is an independent data scientist who completed her master's degree extracting entities from Curaçaoan death certificates. Her latest work involves handwritten text recognition and prompt engineering for large language models. She also specialises in other machine learning and AI, such as natural language processing and named entity recognition."
+      "Lisa Hoek, MA, is an independent data scientist who completed her master's degree extracting entities from Curaçaoan death certificates. Her latest work involves handwritten text recognition and prompt engineering for large language models. She also specialises in other machine learning and AI, such as natural language processing and named entity recognition." 
   - name: Erik Tjong Kim Sang
     shortname: Sang
     bio: >
-      "Dr. Erik Tjong Kim Sang is a research software engineer of the Netherlands eScience Center in Amsterdam. After obtaining a PhD in computational linguistics from Groningen (RuG), he held lecturer and postdoc positions in Uppsala (UU), Antwerp (UA), Tilburg (UvT), Amsterdam (UvA and Meertens Institute) and Groningen (RuG). His research focuses on machine learning applications of natural language processing, in particular in named entity recognition and social media analysis."
+      "Dr. Erik Tjong Kim Sang is a research software engineer of the Netherlands eScience Center in Amsterdam. After obtaining a PhD in computational linguistics from Groningen (RuG), he held lecturer and postdoc positions in Uppsala (UU), Antwerp (UA), Tilburg (UvT), Amsterdam (UvA and Meertens Institute) and Groningen (RuG). His research focuses on machine learning applications of natural language processing, in particular in named entity recognition and social media analysis." 
 date: February 2025
 issue: 8
 order: 1
