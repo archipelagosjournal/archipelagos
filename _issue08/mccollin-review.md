@@ -13,11 +13,6 @@ author:
 date: February 2025
 issue: 8
 order: 1
-abstract: >
-abstract_fr: >
-  "..."
-abstract_es: >
-  "..."
 language: en
 pdf: true
 ---
