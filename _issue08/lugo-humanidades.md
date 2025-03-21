@@ -4,15 +4,15 @@ section: articles
 title:
   "long": "Humanidades digitales y las colecciones especiales de la Biblioteca y Hemeroteca Puertorriqueña: el caso de la Colección Juan Mari Brás"
   "short": "Humanidades digitales y las colecciones especiales"
-doi: ""
+doi: "10.7916/ARCHIPELAGOS-TKQK-P620"
 author:
   - name: Jeanmary Lugo González
     shortname: Lugo González
     bio: >
       "Jeanmary, quien se identifica como afro-puertorriqueña, posee un bachillerato en Literatura Comparada y una Maestría en Ciencias y Tecnologías de la Información. Actualmente, se desempeña como Bibliotecaria encargada de las Colecciones Especiales de la Biblioteca y Hemeroteca Puertorriqueña de la UPR-Río Piedras. Ha trabajado como Coordinadora del Repositorio Institucional por parte del Sistema de Bibliotecas (2020-2022) del mismo recinto. Es parte del Comité Editorial de Acceso. Revista Puertorriqueña de Bibliotecología y Documentación. Entre sus temas de interés se encuentra la promoción de colecciones, servicios y programas; las colecciones especiales, las destrezas de información y los servicios de referencia. Entre sus líneas de investigación y publicación están: las colecciones especiales, la literatura infantil puertorriqueña y las Humanidades Digitales. Durante 2022-2023, trabajó colaborativamente con UPR Caribe Digital y la Fundación Juan Mari Brás para crear un archivo digital."
-date: February 2025
+date: March 2025
 issue: 8
-order: 3
+order: 4
 abstract: >
   \"Hidden collections\" can be defined as those that do not have any sort of web presence or visibility. However, the development of the Digital Humanities (DH) and its interaction with academic libraries has produced excellent tools to give them visibility and dissemination. This article presents the case of the Juan Mari Brás Collection and how skills in DH and archival studies aided in the creation of a digital archive curated by the Juan Mari Brás Foundation. In addition, it mentions the support received by UPR Caribe Digital in the creation of three digital products based on this collection. The article also explains the librarian's role in the Digital Humanities and the creative experience with the Juan Mari Brás Foundation. The article ends by mentioning educational topics and possibilities to integrate the Juan Mari Brás Digital Archive to different projects and communities.
 abstract_fr: >

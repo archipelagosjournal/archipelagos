@@ -6,12 +6,12 @@ issue: 8
 order: 1
 date: March 2025
 title: "Under Pressure Yet Vividly Alive: Papiamento Cultures And Histories In The Digital Realm"
-doi: ""
+doi: "10.7916/ARCHIPELAGOS-Q4XH-SG20"
 author:
   - name: Margo Groenewoud
     shortname: Groenewoud
     bio: >
-      (Needs updated bio)
+      Located in Curaçao, Dr. Margo Groenewoud is an independent scholar working with partners in the Caribbean, the United States, and the Netherlands. She is a cultural and social historian interested in new narratives about Caribbean transnationality, modernity and radicalism. Dr. Groenewoud wrote a dissertation on the entanglement of state, industry, religion and civil society in mid-twentieth century Curaçao. She published articles in international journals such as Small Axe, the Journal of Caribbean History, and the New West Indian Guide and is editor for Caribbean Conjunctures: The Caribbean Studies Association (CSA) Journal. Her historical research has been supported by the Fulbright Program, CUNY Dominican Studies Institute, the Dutch Research Council (NWO), the University of Curaçao (UoC), and the Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV). Dr. Groenewoud has been a (guest) lecturer at the UoC and a range of international universities. In 2024, she had the honor of giving the yearly Tula Lecture for the National Institute for the Study of Dutch Slavery and its Legacy, Ninsee. Dr. Groenewoud is currently DH consultant for the Re/presenting Europe consortium in The Netherlands, and for the Digital Library of the Caribbean (dLOC) revitalization program supported by the Mellon Foundation.
 language: en
 pdf: true
 ---

@@ -5,7 +5,7 @@ issue: 8
 order: 0
 date: March 2025
 title: "Editors' Introduction"
-doi: "10.7916/ARCHIPELAGOS-5T1K-9331"
+doi: "10.7916/ARCHIPELAGOS-GHHF-MM82"
 author:
   - name: Kaiama L. Glover
     shortname: Glover

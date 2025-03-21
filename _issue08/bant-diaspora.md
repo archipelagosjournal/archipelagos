@@ -4,7 +4,7 @@ section: articles
 title:
   "long": "Diaspora and Digital Discourse: Papiamento\/u Research in the Digital Archives of Coleccion Aruba"
   "short": "Diaspora and Digital Discourse"
-doi: ""
+doi: "10.7916/ARCHIPELAGOS-6JAD-MQ38"
 etalauthor: "Bant, Mijts and Scholing"
 author:
   - name: Jan Bant
@@ -19,9 +19,9 @@ author:
     shortname: Scholing
     bio: >
       Drs. Peter Scholing (p.scholing@bibliotecanacional.aw) is an information scientist and researcher at Biblioteca Nacional Aruba, Aruba's National Library, responsible for digitization, digital collections and research. His current main project is Coleccion Aruba, the “Aruba Collection,” a digital collection platform and information portal that aims to digitally unite and make available all of Aruba's documentary and cultural heritage that is physically scattered across different islands, countries and continents. Peter is a member of the Aruba National Commission for UNESCO and  is the immediate past President of MoWLAC, UNESCO’s Memory of the World Programme for Latin America and the Caribbean (2022-2024). He also currently serves as an Editorial Board Member for the International Journal of Documentary Heritage (IJDH), established in 2024, and as an Executive Board Member of dLOC, the Digital Library of the Caribbean. 
-date: May 2023
+date: March 2025
 issue: 8
-order: 4
+order: 3
 abstract: >
   This article describes the development, scope and possibilities of the Aruban collaborative digital archive initiative Coleccion Aruba. Coleccion Aruba is an online Aruban digital hub where users can consult historical texts, videos, and images. Among other things, it comprises the digitalized databases of the Aruban National Library, the Aruban National Archive, and the Aruban Archeological Museum. In addition to Aruban documents, it hosts sources from European and regional institutes that touch on the cultural, social, and political history of Aruba and the former Netherlands Antilles. A unique feature is that many of the digitized sources are in Papiamento/u. This article first describes the history and creation of this collection. Second, it demonstrates how Coleccion Aruba has opened up new research possibilities in and about Papiamento/u, and sketches directions for future research on the basis of this collection. Lastly, it explains how the digital collection enables new and decolonial opportunities for the development of Artificial Intelligence solutions for the Papiamento/u language as well as regional and international collaborations between archives, libraries, and research institutions. Because of the scattered and diasporic nature of the Papiamento/u language community, the authors conclude that online digital collections such as this one are essential in ensuring a sustainable future for the language of Papiamento/u as well as research in and about this language.
 abstract_fr: >
