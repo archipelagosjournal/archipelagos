@@ -35,7 +35,7 @@ date: February 2025
 issue: 8
 order: 2
 abstract: >
-  "The Historical Database of Suriname and the Caribbean (HDSC) is a network of historians and archivists in the Dutch Caribbean, Suriname and the Netherlands, who work together with the aim to create open access databases of the population of Suriname and the (Dutch) Caribbean between 1830 and 1950, both for public and scholarly use.  The so-called slave registers (1830s-1863) and the civil registry of the free population (1830s-1950) of the former Dutch colonies in the Caribbean comprise the backbone of the project, because they allow both scholars and the public to reconstruct life courses.In this article we discuss the project and invite the reader to collaborate on a trans-Caribbean project. It outlines the possibilities of an interoperable pipeline for historical Caribbean population databases, emphasizing the data construction and linking process. Since 2017, the HDSC developed multiple digital workflows that can function as a blueprint for similar efforts to reconstruct historical populations. Among the project’s core principles is a commitment to make all datasets and workflows available open access to any and all researchers. Sharing the developed workflows and discussing the challenges and pitfalls that affect a successful outcome provides a building block towards this long-term goal.  Although the project’s current focus is on the effects of colonialism, slavery, and indentured labour in the Dutch empire within the Caribbean, the HDSC hopes to work with other researchers to connect all available data to non-Dutch territories and to create an interconnected database of people and migration patterns for the Caribbean region as a whole."
+  "The Historical Database of Suriname and the Caribbean (HDSC) is a network of historians and archivists in the Dutch Caribbean, Suriname and the Netherlands, who work together with the aim to create open access databases of the population of Suriname and the (Dutch) Caribbean between 1830 and 1950, both for public and scholarly use.  The so-called slave registers (1830s-1863) and the civil registry of the free population (1830s-1950) of the former Dutch colonies in the Caribbean comprise the backbone of the project, because they allow both scholars and the public to reconstruct life courses. In this article we discuss the project and invite the reader to collaborate on a trans-Caribbean project. It outlines the possibilities of an interoperable pipeline for historical Caribbean population databases, emphasizing the data construction and linking process. Since 2017, the HDSC developed multiple digital workflows that can function as a blueprint for similar efforts to reconstruct historical populations. Among the project’s core principles is a commitment to make all datasets and workflows available open access to any and all researchers. Sharing the developed workflows and discussing the challenges and pitfalls that affect a successful outcome provides a building block towards this long-term goal.  Although the project’s current focus is on the effects of colonialism, slavery, and indentured labour in the Dutch empire within the Caribbean, the HDSC hopes to work with other researchers to connect all available data to non-Dutch territories and to create an interconnected database of people and migration patterns for the Caribbean region as a whole."
 abstract_fr: >
   "..."
 abstract_es: >
@@ -161,12 +161,11 @@ slavery in the Caribbean.[^5] Researchers collected statistics often
 aggregated on a national level, Higman's *Slave Populations of the
 British Caribbean* being a striking example of such a project.[^6]
 Similarly, they collected sample statistics for Suriname and the Dutch
-Antilles were similarly collected.[^7] Such studies were demographic in
+Antilles.[^7] Such studies were demographic in
 nature, and tended to focus on economic factors with limited attention
 to the lived experiences of the enslaved people. A notorious example is
 Fogel and Engerman's *Time on the Cross*, whose revision of the American
-slave economy ignited a major historical controversy which was
-immediately met with criticism.[^8] The cultural turn in historical
+slave economy ignited a major historical controversy.[^8] The cultural turn in historical
 research during the 1990s steered the field away from quantitative data
 and resulted in much more narrative based approaches.[^9]
 
@@ -288,7 +287,7 @@ and when the produced databases will be made publicly accessible online.
 
 As with many long-lasting projects, funding for the transcription
 project and the construction of datasets, ongoing infrastructural needs,
-the inventorying and restoring archival material, for posting and
+inventorying and restoring archival material, for posting and
 hosting datasets on the archives\' websites, and for publicity and
 educational projects, is an ongoing concern for the HDSC. In 2017, a
 crowdfunding campaign funded the first phase of the project since, at
@@ -757,7 +756,7 @@ geographically on an island like Curaçao emerge.
 {% include image.html
   img="issue08/quaB-enslavedmap.jpg"
   title="Enslaved population as percentage of the total population per administrative district in Curaçao 1840"  
-  caption="Enslaved population as percentage of the total population per administrative district in Curaçao 1840. Source: National archive of the Netherlands, inventory number: 1.05.12.02 Inventaris van de archieven van Curaçao, Bonaire en Aruba, (1771) 1828-1845 (1914), 172 Bevolkingsstaten van Curaçao alsmede naamlijsten van plantages, tuinen en hun eigenaars, opgemaakt door de wijk- en districtmeesters, 1838-1845." %} 
+  caption="Enslaved population as percentage of the total population per administrative district in Curaçao in 1840. Source: National archive of the Netherlands, inventory number: 1.05.12.02 Inventaris van de archieven van Curaçao, Bonaire en Aruba, (1771) 1828-1845 (1914), 172 Bevolkingsstaten van Curaçao alsmede naamlijsten van plantages, tuinen en hun eigenaars, opgemaakt door de wijk- en districtmeesters, 1838-1845." %} 
 
 In mapping the past, the project is hampered by the relatively small
 number of surviving historical maps. Additionally, the project must
