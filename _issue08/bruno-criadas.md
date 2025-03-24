@@ -13,9 +13,6 @@ author:
 date: March 2025
 issue: 8
 order: 5
-abstract: >
-abstract_fr: >
-abstract_es: >
 language: en
 pdf: false
 ---

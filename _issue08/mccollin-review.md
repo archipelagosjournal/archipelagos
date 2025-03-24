@@ -4,7 +4,6 @@ section: reviews
 title:
   "long": "Provenance, Repatriation and Dutch Colonial Heritage in the Digital Space: The Colonial Collections Consortium"
   "short": "Provenance, Repatriation"
-doi: "..."
 author:
     - name: Debbie McCollin
       shortname: McCollin
