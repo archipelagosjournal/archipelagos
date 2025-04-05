@@ -12,7 +12,13 @@
       <a href="{{ page.url | prepend:site.baseurl }}">
         <span class="toc-title">{{ page.title  | markdownify | remove: '<p>' | remove: '</p>' }}</span>
       </a><br>
-    <span class="byline">{% include author-loop.html %}</span></li>
+    <span class="byline">{% include author-loop.html %}</span>
+    {% if page.pdf == false %}
+    {% else %}
+    <p>
+      <a class="alt-link" href="{{ site.baseurl }}/assets{{ page.url | replace:'.html','.pdf' }}" target="_blank">PDF</a>
+    </p>
+    {% endif %}</li>
   {% endif %}
 {% endfor %} 
 </ul>
