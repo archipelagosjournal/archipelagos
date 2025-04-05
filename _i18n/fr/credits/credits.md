@@ -3,8 +3,8 @@
 [Kaiama L. Glover](#kaiama-l-glover--editor)  
 [Alex Gil](#alex-gil--editor)
 
-### Assistante aux rédacteurs-en-chef
-[Soraya Limare](#soraya-limare--assistante-editoriale)
+### Rédacteur adjoint
+[Winnie E. Pérez Martínez](#winnie-e-perez-martinez--rédacteur-adjoint)
 
 ### Production | Conception
 [Juliet Ali](#juliet-ali--designer)\\
@@ -50,7 +50,10 @@ Barnard Committee on Online and On-Campus Learning
 ### Alex Gil | editor
 [Alex Gil](http://www.elotroalex.com) is Senior Lecturer II and Associate Research Faculty of Digital Humanities in the Department of Spanish and Portuguese at Yale University, where he teaches introductory and advanced courses in digital humanities, and runs project-based learning and collective research initiatives. Before joining Yale, Alex served for ten years as Digital Scholarship Librarian at Columbia University, where he co-created and nurtured the Butler Studio and the Group for Experimental Methods in Humanistic Research. His research interests include Caribbean culture and history, digital humanities and technology design for different infrastructural and socio-economic environments, and the ownership and material extent of the cultural and scholarly record. 
 
-### Soraya Limare | assistante editoriale
+### Winnie E. Pérez Martínez | rédacteur adjoint actuelle    
+Winnie E. Pérez Martínez is a PhD candidate in Spanish and a student in the digital humanities graduate certificate at the University of Virginia. She also works at UVA's DH Center in the Scholars' Lab as a DH Designer. Her current research studies depictions of small-scale grassroots community-building gestures in 21st-century Caribbean science fiction as they emerge to face the failure of modern technoscience infrastructures in colonized islands, like collapsed power grids and human experimentation. More broadly, she is interested in the design of social and technological systems, web development and speculative research methods that bridge literary studies, pedagogy, and digital humanities to help us better understand the effects of science on our lives. Currently, she serves as a Council Representative and a member of the Association for Computers and the Humanities.
+
+### Soraya Limare | rédacteur adjoint
 
 Soraya Limare graduated from Ecole Normale Supérieure-Ulm and is now a PhD candidate at Columbia University in the department of French and Romance Philology. Her research focuses on francophone literature from the Caribbean.
 
