@@ -3,7 +3,7 @@ layout: article
 section: articles
 title:
   "long": "Humanidades digitales y las colecciones especiales de la Biblioteca y Hemeroteca Puertorriqueña: el caso de la Colección Juan Mari Brás"
-  "short": "Humanidades digitales y las colecciones especiales"
+  "short": "Humanidades digitales y las colecciones"
 doi: "10.7916/ARCHIPELAGOS-TKQK-P620"
 author:
   - name: Jeanmary Lugo González
@@ -89,11 +89,11 @@ cortos, seminarios, grupos de investigación y centros de Humanidades
 Digitales. Como argumenta Shun Han Rebekah Wong, los centros de
 Humanidades Digitales
 
-> "are important to the development of digital humanities,
+> are important to the development of digital humanities,
 > particularly with their efforts in pedagogical service. Libraries can
 > also make valuable contributions to collaborative partnerships because
 > of the inherent structure of a library as well as the skill sets of
-> individual librarians"[^5].
+> individual librarians[^5].
 
 El desarrollo de centros y comunidades de práctica con énfasis en la
 disciplina promueve la importancia de los bibliotecarios inmersos en
