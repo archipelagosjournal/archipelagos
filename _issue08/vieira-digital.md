@@ -10,7 +10,7 @@ author:
     shortname: Vieira Ribeiro
     bio: >
       Mikayla Vieira Ribeiro is a writer, teacher, and translator born and raised in Curaçao. She has a Bachelor's degree in Black Studies and English from Amherst College (USA), and a Research Masters in Literature from the University of Amsterdam (NL) where she focused on ecological relations in Papiamentu literature. Her work explores healing relations with the land and sea in the Dutch Caribbean, and broadly across Latin America. Drawing from the territories and communities that have shaped her, Vieira Ribeiro is a bridge across Papiamentu, Portuguese, Spanish, English, and Dutch geolinguistic imaginaries. Her work engages digital and oral archives, community based artistic-research, and poetic translations. She currently lives in Amsterdam, and works as a teacher-librarian specialized in digital literacy and research skills.
-date: March 2025
+date: April 2025
 issue: 8
 order: 1
 abstract: >

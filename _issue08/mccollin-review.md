@@ -9,7 +9,7 @@ author:
       shortname: McCollin
       bio: >
         Dr. Debbie McCollin is a Lecturer in The Department of History at The University of the West Indies, St. Augustine (The UWI), Trinidad and Tobago and Regional Coordinator of The Caribbean Civilisation Regional Unit of The UWI. Her current research and publications are focused on the history of West Indian health, medicine, and child welfare in the twentieth century, the impact of World War II on the West Indies, and digital history. She is project team leader for The Caribbean Corona Chronicles Oral History Digital Archival Project run by the Caribbean Civilisation Regional Unit at The University of the West Indies, St. Augustine, Trinidad.
-date: March 2025
+date: April 2025
 issue: 8
 order: 1
 language: en

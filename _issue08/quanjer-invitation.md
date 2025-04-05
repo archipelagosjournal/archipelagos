@@ -31,7 +31,7 @@ author:
     shortname: Sang
     bio: >
       Dr. Erik Tjong Kim Sang is a research software engineer of the Netherlands eScience Center in Amsterdam. After obtaining a PhD in computational linguistics from Groningen (RuG), he held lecturer and postdoc positions in Uppsala (UU), Antwerp (UA), Tilburg (UvT), Amsterdam (UvA and Meertens Institute) and Groningen (RuG). His research focuses on machine learning applications of natural language processing, in particular in named entity recognition and social media analysis. 
-date: March 2025
+date: April 2025
 issue: 8
 order: 2
 abstract: >

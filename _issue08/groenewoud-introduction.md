@@ -4,7 +4,7 @@ section: introduction
 guest: true
 issue: 8
 order: 1
-date: March 2025
+date: April 2025
 title: "Under Pressure Yet Vividly Alive: Papiamento Cultures And Histories In The Digital Realm"
 doi: "10.7916/ARCHIPELAGOS-Q4XH-SG20"
 author:

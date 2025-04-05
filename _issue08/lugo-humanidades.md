@@ -10,7 +10,7 @@ author:
     shortname: Lugo González
     bio: >
       Jeanmary, quien se identifica como afro-puertorriqueña, posee un bachillerato en Literatura Comparada y una Maestría en Ciencias y Tecnologías de la Información. Actualmente, se desempeña como Bibliotecaria encargada de las Colecciones Especiales de la Biblioteca y Hemeroteca Puertorriqueña de la UPR-Río Piedras. Ha trabajado como Coordinadora del Repositorio Institucional por parte del Sistema de Bibliotecas (2020-2022) del mismo recinto. Es parte del Comité Editorial de Acceso. Revista Puertorriqueña de Bibliotecología y Documentación. Entre sus temas de interés se encuentra la promoción de colecciones, servicios y programas; las colecciones especiales, las destrezas de información y los servicios de referencia. Entre sus líneas de investigación y publicación están: las colecciones especiales, la literatura infantil puertorriqueña y las Humanidades Digitales. Durante 2022-2023, trabajó colaborativamente con UPR Caribe Digital y la Fundación Juan Mari Brás para crear un archivo digital.
-date: March 2025
+date: April 2025
 issue: 8
 order: 4
 abstract: >

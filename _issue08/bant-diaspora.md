@@ -19,7 +19,7 @@ author:
     shortname: Scholing
     bio: >
       Drs. Peter Scholing (p.scholing@bibliotecanacional.aw) is an information scientist and researcher at Biblioteca Nacional Aruba, Aruba's National Library, responsible for digitization, digital collections and research. His current main project is Coleccion Aruba, the “Aruba Collection,” a digital collection platform and information portal that aims to digitally unite and make available all of Aruba's documentary and cultural heritage that is physically scattered across different islands, countries and continents. Peter is a member of the Aruba National Commission for UNESCO and  is the immediate past President of MoWLAC, UNESCO’s Memory of the World Programme for Latin America and the Caribbean (2022-2024). He also currently serves as an Editorial Board Member for the International Journal of Documentary Heritage (IJDH), established in 2024, and as an Executive Board Member of dLOC, the Digital Library of the Caribbean. 
-date: March 2025
+date: April 2025
 issue: 8
 order: 3
 abstract: >
