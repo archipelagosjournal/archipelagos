@@ -225,13 +225,13 @@ promise the readers of this issue an illuminating journey.
     Creole Language from Legal Repression to Full Recognition,"
     *Caribbean Cultural Heritage and the Nation: Aruba, Bonaire and
     Curaçao in a Regional Context* 4 (2023): 137,
-    [[https://scholarlypublications.universiteitleiden.nl/handle/1887/3629949]{.underline}](https://scholarlypublications.universiteitleiden.nl/handle/1887/3629949).
+    [[https://scholarlypublications.universiteitleiden.nl/handle/1887/3629949]](https://scholarlypublications.universiteitleiden.nl/handle/1887/3629949).
 
 [^2]: Philipp Krämer, Eric Mijts, and Angela Bartens, "Language Making
     of Creoles in Multilingual Postcolonial Societies," *International
     Journal of the Sociology of Language* 2022, no. 274 (1 March 2022):
     51--82,
-    [[https://doi.org/10.1515/ijsl-2021-0018]{.underline}](https://doi.org/10.1515/ijsl-2021-0018).
+    [[https://doi.org/10.1515/ijsl-2021-0018]](https://doi.org/10.1515/ijsl-2021-0018).
 
 [^3]: Ronald Severing et al., "Towards a Language Database of
     Papiamentu," 2014, 97--104.
@@ -254,7 +254,7 @@ promise the readers of this issue an illuminating journey.
     Pluricultural Realities of Dutch Caribbean Heritage Archives," in
     *Caribbean Cultural Heritage and the Nation. Aruba, Bonaire and
     Curaçao in a Regional Context*, 2023.
-    [[https://scholarlypublications.universiteitleiden.nl/handle/1887/3629949]{.underline}](https://scholarlypublications.universiteitleiden.nl/handle/1887/3629949)
+    [[https://scholarlypublications.universiteitleiden.nl/handle/1887/3629949]](https://scholarlypublications.universiteitleiden.nl/handle/1887/3629949)
 
 [^8]: Roopika Risam, *New Digital Worlds: Postcolonial Digital
     Humanities in Theory, Praxis, and Pedagogy* (Evanston, Illinois:
