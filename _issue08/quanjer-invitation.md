@@ -352,14 +352,14 @@ behind a paywall. The datasets are published online with the archives
 that hold the original documents, although sometimes the website of the
 Dutch National Archives is used as a backup. The public can use an
 interface to search for individuals, see for instance the website of the
-[[National Archives of
-Suriname]{.underline}](https://web.archive.org/web/20250114190921/https:/nationaalarchief.sr/),
+[National Archives of
+Suriname](https://web.archive.org/web/20250114190921/https:/nationaalarchief.sr/),
 in which the results are also linked to the digitized scans. The
 scientific datasets are stored in comma separated files (.csv) to
 facilitate their use in most software packages.[^18] The scientific
-datasets are published open access on the [[Dataverse of the
+datasets are published open access on the [Dataverse of the
 International Institute of Social
-History]{.underline}](https://datasets.iisg.amsterdam/dataverse/HDSC),
+History](https://datasets.iisg.amsterdam/dataverse/HDSC),
 and all have a data description in English that functions as a manual
 for the user. The scientific datasets offer extra variables and
 individuals have unique identifying numbers that link them among and
@@ -854,36 +854,36 @@ of slavery.
 
 [^1]: J. Kok, "Principles and prospects of the life course paradigm,"
     *Annales de demographie historique* 113, no. 1 (2007): 203-230,
-    [[https://doi.org/10.3917/adh.113.0203]{.underline}](https://doi.org/10.3917/adh.113.0203).
+    [https://doi.org/10.3917/adh.113.0203](https://doi.org/10.3917/adh.113.0203).
 
 [^2]: C.W. van Galen et al., "Endless Digging and Endless Picking. Sex
     Ratios and Gendered Labour in Surinamese Plantations, 1830--1863,"
     *Historical Life Course Studies* 10 (2021): 46-52,
-    [[https://doi.org/10.51964/hlcs9566]{.underline}](https://doi.org/10.51964/hlcs9566);
+    [https://doi.org/10.51964/hlcs9566](https://doi.org/10.51964/hlcs9566);
     C.W. van Galen and B. Quanjer, "The Wolf, the island and the sea:
     Truancy and escaping slavery in Curaçao (1837-1863)," *The History
     of the Family* 29, no. 2 (2024): 262-279,
-    [[https://doi.org/10.1080/1081602X.2024.2340542]{.underline}](https://doi.org/10.1080/1081602X.2024.2340542).
+    [https://doi.org/10.1080/1081602X.2024.2340542](https://doi.org/10.1080/1081602X.2024.2340542).
 
 [^3]: Kok, "Life course paradigm," 204.
 
 [^4]: S. Ruggles, "The revival of quantification: Reflections on old new
     histories," *Social Science History* 45, no. 1 (2021): 1-25,
-    [[https://doi.org/doi:10.1017/ssh.2020.44]{.underline}](https://doi.org/doi:10.1017/ssh.2020.44).
+    [https://doi.org/doi:10.1017/ssh.2020.44](https://doi.org/doi:10.1017/ssh.2020.44).
 
 [^5]: H. S. Klein and S. L. Engerman, "Fertility differentials between
     slaves in the United States and the British West Indies: a note on
     lactation practices and their possible implications," *The William
     and Mary Quarterly: A Magazine of Early American History* 35, no. 2
     (1978): 357-374,
-    [[https://doi.org/10.2307/1921839]{.underline}](https://doi.org/10.2307/1921839);
+    [https://doi.org/10.2307/1921839](https://doi.org/10.2307/1921839);
     J. P. Koplan, "Slave Mortality in Nineteenth-Century Grenada,"
     *Social Science History* 7, no. 3 (1983): 311-320,
-    [[https://doi.org/10.2307/1171190]{.underline}](https://doi.org/10.2307/1171190);
+    [https://doi.org/10.2307/1171190](https://doi.org/10.2307/1171190);
     H. C. Johansen, "Slave demography of the Danish West Indian
     islands," *Scandinavian Economic History Review* 29, no. 1 (1981):
     1-20,
-    [[https://doi.org/10.1080/03585522.1981.10407935]{.underline}](https://doi.org/10.1080/03585522.1981.10407935).
+    [https://doi.org/10.1080/03585522.1981.10407935](https://doi.org/10.1080/03585522.1981.10407935).
 
 [^6]: B. W. Higman, *Slave Populations of the British Caribbean,
     1807-1834* (Johns Hopkins University Press, 1984).
@@ -898,7 +898,7 @@ of slavery.
     performance of two slave populations of the Dutch speaking
     Caribbean," *Boletin de estudios latinoamericanos y del Caribe* 30
     (1981): 87-102,
-    [[https://www.jstor.org/stable/25675094]{.underline}](https://www.jstor.org/stable/25675094);
+    [https://www.jstor.org/stable/25675094](https://www.jstor.org/stable/25675094);
     A. van Stipriaan, *Surinaams contrast: roofbouw en overleven in een
     Caraïbische plantagekolonie, 1750-1863* (Brill, 1993).
 
@@ -908,7 +908,7 @@ of slavery.
     Time on the Cross* (University of Illinois Press, 1975); L. Stone,
     "The revival of narrative: reflections on a new old history," *Past
     and Present* 85, no. 1 (1979): 3-24,
-    [[https://doi.org/10.1093/past/85.1.3]{.underline}](https://doi.org/10.1093/past/85.1.3).
+    [https://doi.org/10.1093/past/85.1.3](https://doi.org/10.1093/past/85.1.3).
 
 [^9]: Ruggles, "Revival of quantification," 13-14.
 
@@ -924,7 +924,7 @@ of slavery.
     Surinamese slave registers crowdsourcing project," *Historical
     Methods: A Journal of Quantitative and Interdisciplinary History*,
     52, no. 3 (2019): 178-194,
-    [[https://doi.org/10.1080/01615440.2019.1590268]{.underline}](https://doi.org/10.1080/01615440.2019.1590268).
+    [https://doi.org/10.1080/01615440.2019.1590268](https://doi.org/10.1080/01615440.2019.1590268).
 
 [^14]: Van Galen, "Creating an audience," 186.
 
@@ -932,7 +932,7 @@ of slavery.
     citizen science: What can be learned from the volunteering
     literature?," *Citizen Science: Theory and Practice* 1, no. 2
     (2016): 15, 1-10,
-    [[https://doi.org/10.5334/cstp.8]{.underline}](https://doi.org/10.5334/cstp.8);
+    [https://doi.org/10.5334/cstp.8](https://doi.org/10.5334/cstp.8);
     A. Crall et al., "Volunteer recruitment and retention in online
     citizen science projects using marketing strategies: Lessons from
     Season Spotter," *Journal of Science Communication* 16, no. 1
@@ -942,7 +942,7 @@ of slavery.
     Participation: A Motivational Model," *Proceedings of the
     International AAAI Conference on Weblogs and Social Media* 5, no. 1
     (2011): 249-256,
-    [[https://doi.org/10.1609/icwsm.v5i1.14113]{.underline}](https://doi.org/10.1609/icwsm.v5i1.14113);
+    [https://doi.org/10.1609/icwsm.v5i1.14113](https://doi.org/10.1609/icwsm.v5i1.14113);
     D. Fraisl et al., "Citizen science in environmental and ecological
     sciences," *Nature Reviews Methods Primers* 2, 64 (2022),
     https://doi.org/10.1038/s43586-022-00144-4.
@@ -951,28 +951,28 @@ of slavery.
     "Understanding Patterns of Engagement in the Citizen Humanities: The
     Civil Records of Suriname," *Historical Methods: A Journal of
     Quantitative and Interdisciplinary History* (2024): 1-16,
-    [[https://doi.org/10.1080/01615440.2024.2414925]{.underline}](https://doi.org/10.1080/01615440.2024.2414925).
+    [https://doi.org/10.1080/01615440.2024.2414925](https://doi.org/10.1080/01615440.2024.2414925).
 
 [^18]: See for example: M. Rosenbaum-Feldbrügge et al*., Suriname slave
     and emancipation registers dataset version 1.1* (IISH Dataverse,
     2023) Dataset,
-    [[https://hdl.handle.net/10622/CSPBHO]{.underline}](https://hdl.handle.net/10622/CSPBHO);
+    [https://hdl.handle.net/10622/CSPBHO](https://hdl.handle.net/10622/CSPBHO);
     C.W. van Galen et al., *Curaçao slave register dataset version 1.0*
     (IISH Dataverse, 2023) Dataset,
-    [[https://hdl.handle.net/10622/1OV0RM]{.underline}](https://hdl.handle.net/10622/1OV0RM).
+    [https://hdl.handle.net/10622/1OV0RM](https://hdl.handle.net/10622/1OV0RM).
 
 [^19]: C.W. van Galen et al., "Slavery in Suriname. A reconstruction of
     life courses, 1830-1863'" *Historical Life Course Studies* 13
     (2023): 191-211,
-    [[https://doi.org/10.51964/hlcs15619]{.underline}](https://doi.org/10.51964/hlcs15619).
+    [https://doi.org/10.51964/hlcs15619](https://doi.org/10.51964/hlcs15619).
 
 [^20]: C.W. van Galen et al., *Suriname: Slavenregisters Dataset
     1830-1863* (National Archives of Suriname, 2019) Dataset,
-    [[https://nationaalarchief.sr/onderzoeken/alle-genealogie/genealogie-slavenregister/persons]{.underline}](https://nationaalarchief.sr/onderzoeken/alle-genealogie/genealogie-slavenregister/persons);
+    [https://nationaalarchief.sr/onderzoeken/alle-genealogie/genealogie-slavenregister/persons](https://nationaalarchief.sr/onderzoeken/alle-genealogie/genealogie-slavenregister/persons);
     E. Langenfeld et al., *Curaçao: Slavenregisters en
     emancipatieregisters 1839-1863* (National Archives of Curaçao, 2020)
     Dataset,
-    [[https://www.nationaalarchief.cw/api/picturae/slavenregister/persons]{.underline}](https://www.nationaalarchief.cw/api/picturae/slavenregister/persons).
+    [https://www.nationaalarchief.cw/api/picturae/slavenregister/persons](https://www.nationaalarchief.cw/api/picturae/slavenregister/persons).
 
 [^21]: M. Rosenbaum-Feldbrügge et al., Suriname Burgerlijke Stand:
     Geboorte- en overlijdensakten Paramaribo (1828--1921) (2024)
@@ -989,7 +989,7 @@ of slavery.
 [^25]: M. Ehrmann et al., "Named entity recognition and classification
     in historical documents: A survey," *ACM Computing Surveys* 56, no.
     2 (2023): 1-47,
-    [[https://doi.org/10.1145/360493]{.underline}](https://doi.org/10.1145/3604931);
+    [https://doi.org/10.1145/360493](https://doi.org/10.1145/3604931);
     N. Abadie et al., "A Benchmark of Named Entity Recognition
     Approaches in Historical Documents Application to 19th Century
     French Directories," In *Document Analysis Systems: 15th IAPR
@@ -1008,7 +1008,7 @@ of slavery.
 [^27]: M. Luthra, et al., "Unsilencing colonial archives via automated
     entity recognition," *Journal of Documentation* 80, no. 5 (2023),
     18=080-1105,
-    [[https://doi.org/10.48550/arXiv.2210.02194]{.underline}](https://doi.org/10.48550/arXiv.2210.02194);
+    [https://doi.org/10.48550/arXiv.2210.02194](https://doi.org/10.48550/arXiv.2210.02194);
     C. B. Monroc et al., "A comprehensive study of open-source libraries
     for named entity recognition on handwritten historical documents,"
     In *Document Analysis Systems: 15th IAPR International Workshop, DAS
@@ -1020,7 +1020,7 @@ of slavery.
     machine learning in tabular document digitisation," *Historical
     Methods: A Journal of Quantitative and Interdisciplinary History*
     56, no. 1 (2023): 34-48,
-    [[https://doi.org/10.1080/01615440.2023.2164879]{.underline}](https://doi.org/10.1080/01615440.2023.2164879).
+    [https://doi.org/10.1080/01615440.2023.2164879](https://doi.org/10.1080/01615440.2023.2164879).
 
 [^29]: Monroc, "A comprehensive study."
 
@@ -1032,7 +1032,7 @@ of slavery.
 
 [^32]: R. J. Mourits and M. Rosenbaum-Feldbrügge, *Property to Person*
     (2022),
-    [[https://github.com/RJMourits/P2P]{.underline}](https://github.com/RJMourits/P2P)**.**
+    [https://github.com/RJMourits/P2P](https://github.com/RJMourits/P2P)**.**
 
 [^33]: V. I. Levenshtein, "Binary codes capable of correcting deletions,
     insertions, and reversals," *Soviet Physics Doklady* 10, no. 8
@@ -1040,16 +1040,16 @@ of slavery.
 
 [^34]: M. Rosenbaum-Feldbrügge et al., *Suriname plantation dataset
     version 1.0* (IISH Dataverse, 2023) Dataset, Retrieved from
-    [[https://hdl.handle.net/10622/VTL43W]{.underline}](https://hdl.handle.net/10622/VTL43W);
+    [https://hdl.handle.net/10622/VTL43W](https://hdl.handle.net/10622/VTL43W);
     T. van Oort et al., *Plantations Surinaamse Almanakken, 1818-1860*
     (IISH Dataverse, 2023) Dataset,
-    [[https://hdl.handle.net/10622/4VOJYS]{.underline}](https://hdl.handle.net/10622/4VOJYS);
+    [https://hdl.handle.net/10622/4VOJYS](https://hdl.handle.net/10622/4VOJYS);
     J. Sang-Ajang et al., *Paramaribo Ward Registers 1828-1847* (IISH
     Dataverse, 2023) Dataset,
-    [[https://hdl.handle.net/10622/VLN8FD]{.underline}](https://hdl.handle.net/10622/VLN8FD).
+    [https://hdl.handle.net/10622/VLN8FD](https://hdl.handle.net/10622/VLN8FD).
 
 [^35]: S. Galli et al., "Reconstructing a slave society: Building the
     DWI panel, 1760-1914," *Historical Methods: A Journal of
     Quantitative and Interdisciplinary History *57, no. 3 (2024):
     163--184,
-    [[https://doi.org/10.1080/01615440.2024.2400188]{.underline}](https://doi.org/10.1080/01615440.2024.2400188).
+    [https://doi.org/10.1080/01615440.2024.2400188](https://doi.org/10.1080/01615440.2024.2400188).

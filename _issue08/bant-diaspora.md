@@ -492,132 +492,104 @@ languages.
 
 
 [^1]:
-    The sequence of authors of this article is alphabetical, and the
-    three authors contributed equally to this article.
+    The sequence of authors of this article is alphabetical, and the three authors contributed equally to this article.
 
 [^2]:
-    Kate Knibbs, "The Internet Archive Just Backed Up an Entire
-    Caribbean Island," Wired.com, April 8, 2024,
-    [[https://www.wired.com/story/internet-archive-backed-up-aruba-caribbean-island/]{.underline}](https://www.wired.com/story/internet-archive-backed-up-aruba-caribbean-island/);
-    Wes Davis, "The Internet Archive is now hosting Aruba's history,"
-    Theverge.com, April 10, 2024,
-    [[https://www.theverge.com/2024/4/10/24126091/the-internet-archive-aruba-historic-materials-digital-preservation]{.underline}](https://www.theverge.com/2024/4/10/24126091/the-internet-archive-aruba-historic-materials-digital-preservation).
+    Kate Knibbs, "The Internet Archive Just Backed Up an Entire Caribbean Island," Wired.com, April 8, 2024, [https://www.wired.com/story/internet-archive-backed-up-aruba-caribbean-island/](https://www.wired.com/story/internet-archive-backed-up-aruba-caribbean-island/); Wes Davis, "The Internet Archive is now hosting Aruba's history," Theverge.com, April 10, 2024, [https://www.theverge.com/2024/4/10/24126091/the-internet-archive-aruba-historic-materials-digital-preservation](https://www.theverge.com/2024/4/10/24126091/the-internet-archive-aruba-historic-materials-digital-preservation).
 
 [^3]:
-    Peter Scholing and Raymond Hernandez, "Coleccion Aruba,
-    Inter-sectoral Collaboration on Aruba as a Model for the (Dutch)
-    Caribbean: A collaborative approach for preservation and access of
-    collections in Small Island States," in _Sailing in Salt Water:
-    Advancing the Dutch Caribbean Reparations Agenda and Establishing an
-    Inter-Island Knowledge and Expertise Network on the Slavery Past and
-    its Heritage_, ed. Luc Alofs (2024), 81-88,
-    [[https://coleccion.aw/show/?UA-DIG-SAILING-SALT-WATER/page/81]{.underline}](https://coleccion.aw/show/?UA-DIG-SAILING-SALT-WATER/page/81);
-    See also the Database of People Enslaved on Aruba 1840-1863,
-    [[https://coleccion.aw/database/en/]{.underline}](https://coleccion.aw/database/en/);
-    "History of slavery on Aruba and St. Eustasius online," Radboud
-    University Nijmegen,
-    [[https://www.ru.nl/en/research/research-news/history-of-slavery-on-aruba-and-st-eustasius-online]{.underline}](https://www.ru.nl/en/research/research-news/history-of-slavery-on-aruba-and-st-eustasius-online).
+    Peter Scholing and Raymond Hernandez, "Coleccion Aruba, Inter-sectoral Collaboration on Aruba as a Model for the (Dutch) Caribbean: A collaborative approach for preservation and access of collections in Small Island States," in _Sailing in Salt Water: Advancing the Dutch Caribbean Reparations Agenda and Establishing an Inter-Island Knowledge and Expertise Network on the Slavery Past and its Heritage_, ed. Luc Alofs (2024), 81-88, [https://coleccion.aw/show/?UA-DIG-SAILING-SALT-WATER/page/81](https://coleccion.aw/show/?UA-DIG-SAILING-SALT-WATER/page/81); See also the Database of People Enslaved on Aruba 1840-1863, [https://coleccion.aw/database/en/](https://coleccion.aw/database/en/); "History of slavery on Aruba and St. Eustasius online," Radboud University Nijmegen, [https://www.ru.nl/en/research/research-news/history-of-slavery-on-aruba-and-st-eustasius-online](https://www.ru.nl/en/research/research-news/history-of-slavery-on-aruba-and-st-eustasius-online).
 
 [^4]:
     Departamento di Enseñansa, _Vocabulario Ortografico di Papiamento_
     (Aruba: Departamento di Enseñansa, 2009),
-    [[https://coleccion.aw/show/?BNA-DIG-PAP-VOCABULARIO-2009]{.underline}](https://coleccion.aw/show/?BNA-DIG-PAP-VOCABULARIO-2009).
+    [https://coleccion.aw/show/?BNA-DIG-PAP-VOCABULARIO-2009](https://coleccion.aw/show/?BNA-DIG-PAP-VOCABULARIO-2009).
 
 [^5]:
     Departamento di Enseñansa, _Manual di gramatica di Papiamento:
     morfologia_ (Aruba: Departamento di Enseñansa, 2010),
-    [<https://coleccion.aw/show/?BNA-DIG-PAP-GRAMATICA-MORFOLOGIA>;]{.underline}
+    <https://coleccion.aw/show/?BNA-DIG-PAP-GRAMATICA-MORFOLOGIA>.
 
     Departamento di Enseñansa, _Manual di gramatica di Papiamento:
     sintaxis_ (Aruba: Departamento di Enseñansa, 2015),
-    [[https://coleccion.aw/show/?BNA-DIG-PAP-GRAMATICA-SINTAXIS]{.underline}](https://coleccion.aw/show/?BNA-DIG-PAP-GRAMATICA-SINTAXIS);
+    [https://coleccion.aw/show/?BNA-DIG-PAP-GRAMATICA-SINTAXIS](https://coleccion.aw/show/?BNA-DIG-PAP-GRAMATICA-SINTAXIS);
 
     Departamento di Enseñansa, _Preposicion y interheccion di
     Papiamento_ (Aruba: Departamento di Enseñansa, 2016),
-    [<https://coleccion.aw/show/?BNA-DIG-PAP-GRAMATICA-PREPOSICION>.]{.underline}
+    <https://coleccion.aw/show/?BNA-DIG-PAP-GRAMATICA-PREPOSICION>.
 
 [^6]:
     Ramon Todd Dandaré, "Ontwikkeling van de spelling van het
     Papiamento op Aruba," lecture delivered at SPLIKA symposium,
     September 11, 2015,
-    [[https://coleccion.aw/show/?BNA-DIG-CHARLA-TODDDANDARE-2016]{.underline}](https://coleccion.aw/show/?BNA-DIG-CHARLA-TODDDANDARE-2016).
+    [https://coleccion.aw/show/?BNA-DIG-CHARLA-TODDDANDARE-2016](https://coleccion.aw/show/?BNA-DIG-CHARLA-TODDDANDARE-2016).
 
 [^7]:
     Joyce Pereira, "UNESCO Y ARUBA: Hunto pa un maneho di idioma bon
     balansa!" Lecture delivered at Celebracion di dia di lenga materno,
     March 5, 2004,
-    [<https://coleccion.aw/show/?BNA-DIG-CHARLA-PEREIRA-2004>.]{.underline}
+    <https://coleccion.aw/show/?BNA-DIG-CHARLA-PEREIRA-2004>.
 
 [^8]:
     Régine Croes, "Multilingualismo i enseñansa: Language needs in
     Aruban education." (MA Thesis, Catholic University of Nijmegen,
     1995),
-    [<https://coleccion.aw/show/?BNA-DIG-TESIS-CROES-REGINE-1995>.]{.underline}
+    <https://coleccion.aw/show/?BNA-DIG-TESIS-CROES-REGINE-1995>.
 
 [^9]:
     Vanessa A.M. Pietersz, "How to open the door to Papiamento? Aruban
     language policy in secondary education." (MA Thesis, University of
     Groningen, 2008),
-    [[https://coleccion.aw/show/?BNADIGTESISPIETERSZVANESSA2008]{.underline}](https://coleccion.aw/show/?BNADIGTESISPIETERSZVANESSA2008).
+    [https://coleccion.aw/show/?BNADIGTESISPIETERSZVANESSA2008](https://coleccion.aw/show/?BNADIGTESISPIETERSZVANESSA2008).
 
 [^10]:
     Jan Bant, "_Un ramo sosyal izkyerdista_: De visie van _Feneta_ en
     _Skol i Komunidat_ op dekolonisatie, 1969-1989." (MA Thesis, Leiden
     University, 2021),
-    [[https://coleccion.aw/show/?BNA-DIG-TESIS-BANT-JAN-2021]{.underline}](https://coleccion.aw/show/?BNA-DIG-TESIS-BANT-JAN-2021).
+    [https://coleccion.aw/show/?BNA-DIG-TESIS-BANT-JAN-2021](https://coleccion.aw/show/?BNA-DIG-TESIS-BANT-JAN-2021).
 
 [^11]:
     Joyce Pereira, _Valorization of Papiamento in Aruban society and
     education, in historical, contemporary and future perspectives_ (PhD
     diss., University of Curaçao, 2018),
-    [<https://coleccion.aw/show/?BNA-DIG-ARUB-9789990469417>.]{.underline}
+    <https://coleccion.aw/show/?BNA-DIG-ARUB-9789990469417>.
 
 [^12]:
     Eric Mijts, _The situated construction of language ideologies in
     Aruba: a study among participants in the language planning and
     policy process_ (PhD diss., University of Antwerp & Ghent
     University, 2021),
-    [<https://coleccion.aw/show/?BNA-DIG-DISSERTATION-MIJTS-2021>.]{.underline}
+    <https://coleccion.aw/show/?BNA-DIG-DISSERTATION-MIJTS-2021>.
 
 [^13]:
     Cornelis Conradi, _Ewanhelie di San Matheo_ (Curaçao: Drukkery di
     A.L.S. Muller & J.F. Neuman wz, 1844),
-    [[https://coleccion.aw/show/?BNA-DIG-KOSTBARE-0385]{.underline}](https://coleccion.aw/show/?BNA-DIG-KOSTBARE-0385);
-
-    Abraham van Dragt, _Predikaasie den paapiamente_ (Aruba, 1847),
-    [<https://coleccion.aw/show/?BNA-DIG-MICROFILM-VANDRAGT-1847>.]{.underline}
+    [https://coleccion.aw/show/?BNA-DIG-KOSTBARE-0385](https://coleccion.aw/show/?BNA-DIG-KOSTBARE-0385); Abraham van Dragt, _Predikaasie den paapiamente_ (Aruba, 1847),
+    <https://coleccion.aw/show/?BNA-DIG-MICROFILM-VANDRAGT-1847>.
 
     Jacobus. Putman, _Boeki di orasjon pa moetcha Katolieka nan di
     Curaçao_ (Curaçao: Drukkery di A.L.S. Muller & J.F. Neuman wz,
     1894),
-    [<https://coleccion.aw/show/?UNIVERSITEITLEIDEN-DIG-388056>.]{.underline}
+    <https://coleccion.aw/show/?UNIVERSITEITLEIDEN-DIG-388056>.
 
 [^14]:
     _Rekenboek pa Muchanan di Curaçao_ (Curaçao: Imprenta de la
-    libreria, 1882),
-
-    [[https://coleccion.aw/show/?UNIVERSITEITLEIDEN-DIG-38611]{.underline}](https://coleccion.aw/show/?UNIVERSITEITLEIDEN-DIG-386113)_;
+    libreria, 1882), [https://coleccion.aw/show/?UNIVERSITEITLEIDEN-DIG-38611](https://coleccion.aw/show/?UNIVERSITEITLEIDEN-DIG-386113)_;
     Ciento Cuenta Corticoe. Boeki di Leza Pa Uso di School_ (Nijmegen:
-    L.C.G. Malmberg, 1899),
-    [[https://coleccion.aw/show/?BNADIGITOTROMP1899CIENTOCUENTACORTICOE]{.underline}](https://coleccion.aw/show/?BNADIGITOTROMP1899CIENTOCUENTACORTICOE)
-    ; Willem E. Kroon, _Giambo bieuw a bolbe na wea. Novela intima
+    L.C.G. Malmberg, 1899),[https://coleccion.aw/show/?BNADIGITOTROMP1899CIENTOCUENTACORTICOE](https://coleccion.aw/show/?BNADIGITOTROMP1899CIENTOCUENTACORTICOE); Willem E. Kroon, _Giambo bieuw a bolbe na wea. Novela intima
     Curazoleña_ (Curaçao: Imprenta di Vicariato, 1928),
-    [[https://coleccion.aw/show/?UNIVERSITEITLEIDEN-DIG-444994]{.underline}](https://coleccion.aw/show/?UNIVERSITEITLEIDEN-DIG-444994);
-
-    N.M. Geerdink and Jesurun Pinto, _Cuentanan di Nanzi_ (Curaçao:
+    [https://coleccion.aw/show/?UNIVERSITEITLEIDEN-DIG-444994](https://coleccion.aw/show/?UNIVERSITEITLEIDEN-DIG-444994); N.M. Geerdink and Jesurun Pinto, _Cuentanan di Nanzi_ (Curaçao:
     Fundasjon Nilda Pinto, 1952),
-    [<https://coleccion.aw/show/?BNA-DIG-PINTO-NANZI-1952>.]{.underline}
+    [<https://coleccion.aw/show/?BNA-DIG-PINTO-NANZI-1952>.]
 
 [^15]:
     "Corant -- Newspapers," Coleccion Aruba. URL =
-    [<https://coleccion.aw/browse/?col=arubanewspapers&sort=date+desc>.]{.underline}
+    [<https://coleccion.aw/browse/?col=arubanewspapers&sort=date+desc>].
 
 [^16]:
     "Coleccion Showtime," Coleccion Aruba,
-    [[https://coleccion.aw/browse/?col=ana-dig-showtime&sort=addeddate+desc]{.underline}](https://coleccion.aw/browse/?col=ana-dig-showtime&sort=addeddate+desc);
-
-    "Telearuba," Coleccion Aruba,
-    [<https://coleccion.aw/browse/?col=telearuba&sort=date+desc>.]{.underline}
+    [https://coleccion.aw/browse/?col=ana-dig-showtime&sort=addeddate+desc](https://coleccion.aw/browse/?col=ana-dig-showtime&sort=addeddate+desc); "Telearuba," Coleccion Aruba,
+    [<https://coleccion.aw/browse/?col=telearuba&sort=date+desc>.]
 
 [^17]:
     Rachael Gilmour, "'A Nice Derangement of Epitaphs': Missioniary
@@ -628,13 +600,13 @@ languages.
     _The Catholic Historical Review_ 95, no. 2. (2009): 240-260.
 
 [^18]:
-    Eric [Mijts, "Home languages and higher education: challenges for
+    Eric Mijts, "Home languages and higher education: challenges for
     inclusive higher education language policies for postcolonial small
     island states in the twenty-first century," in *Internationalization
     of Universities and the National Language: Language Policy
     Interventions and Case Studies*, eds. Danny Pieters & Thijs
-    Keersmaekers, (Berlin: Peter Lang, 2020), 155-173,]{.mark}
-    [[<https://doi.org/10.3726/b17283>.]{.underline}]{.mark}
+    Keersmaekers, (Berlin: Peter Lang, 2020), 155-173,
+    [<https://doi.org/10.3726/b17283>.]
 
 [^19]:
     Wim Rutgers et al., _Jacobus Putman: Godsdienst, taal en
@@ -645,20 +617,20 @@ languages.
     Nathaniel R. Robinson et al., "Krey\\\`ol-MT: Building MT for
     Latin American, Caribbean and Colonial African Creole Languages,"
     Arxiv.org, 2024,
-    [[https://arxiv.org/abs/2405.05376]{.underline}](https://arxiv.org/abs/2405.05376).
+    [https://arxiv.org/abs/2405.05376](https://arxiv.org/abs/2405.05376).
 
 [^21]:
-    Efraim Frank Martinus, _The Kiss of a Slave. P[apiamentu\'s
-    West-African connections ]{.mark}_[(PhD diss., University of
+    Efraim Frank Martinus, *The Kiss of a Slave. Papiamentu\'s
+    West-African connections* (PhD diss., University of
     Amsterdam, 1996); Bart Jacobs, *Origins of a Creole: The History of
-    Papiamentu and Its African Ties* (Berlin: De Gruyter, 2012).]{.mark}
+    Papiamentu and Its African Ties* (Berlin: De Gruyter, 2012).
 
 [^22]:
     Peter Scholing, "Preserving Papiamento---Safeguarding Aruba's
     Language and Cultural Heritage" in: Messara et al. (eds.),
     _Vanishing Culture: A Report on Our Fragile Cultural Record_
-    (2024)_,_ pp. 40-43*,*
-    [[https://blog.archive.org/2024/10/31/vanishing-culture-preserving-papiamento-safeguarding-arubas-language-and-cultural-heritage/]{.underline}](https://blog.archive.org/2024/10/31/vanishing-culture-preserving-papiamento-safeguarding-arubas-language-and-cultural-heritage/)
+    (2024)_,_ pp. 40-43,
+    [https://blog.archive.org/2024/10/31/vanishing-culture-preserving-papiamento-safeguarding-arubas-language-and-cultural-heritage/](https://blog.archive.org/2024/10/31/vanishing-culture-preserving-papiamento-safeguarding-arubas-language-and-cultural-heritage/)
 
 [^23]:
     Peter Scholing and Raymond Hernandez, "Coleccion Aruba,
@@ -668,4 +640,4 @@ languages.
     Advancing the Dutch Caribbean Reparations Agenda and Establishing an
     Inter-Island Knowledge and Expertise Network on the Slavery Past and
     its Heritage_, ed. Luc Alofs (2024), 81-88,
-    [[https://coleccion.aw/show/?UA-DIG-SAILING-SALT-WATER/page/81]{.underline}](https://coleccion.aw/show/?UA-DIG-SAILING-SALT-WATER/page/81)
+    [https://coleccion.aw/show/?UA-DIG-SAILING-SALT-WATER/page/81](https://coleccion.aw/show/?UA-DIG-SAILING-SALT-WATER/page/81)

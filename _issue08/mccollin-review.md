@@ -150,10 +150,10 @@ scholarship in the 21^st^ century.
 
 
 [^1]:  "About," *Colonial Collections Consortium*,
-    https://www.colonialcollections.nl/index.php/en/about-the-consortium/
+    [https://www.colonialcollections.nl/index.php/en/about-the-consortium/](https://www.colonialcollections.nl/index.php/en/about-the-consortium/)
 
 [^2]: "About," Colonial Collections Consortium,
-    https://www.colonialcollections.nl/index.php/en/about-the-consortium/
+    [https://www.colonialcollections.nl/index.php/en/about-the-consortium/](https://www.colonialcollections.nl/index.php/en/about-the-consortium/)
 
 [^3]: Leila A. Amineddoleh, "Cultural Heritage, Galleries and Auction
     Houses," in Irini Stamatoudi, ed. *Research Handbook on Intellectual
@@ -161,23 +161,22 @@ scholarship in the 21^st^ century.
     Publishing Limited (2022), 474-475.
 
 [^4]: "About," *Colonial Collections Consortium*,
-    https://www.colonialcollections.nl/index.php/en/about-the-consortium/
+    [https://www.colonialcollections.nl/index.php/en/about-the-consortium/](https://www.colonialcollections.nl/index.php/en/about-the-consortium/)
 
 [^5]: "Communities," *Colonial Collections Consortium*,
-    https://app.colonialcollections.nl/en/communities
+    [https://app.colonialcollections.nl/en/communities](https://app.colonialcollections.nl/en/communities)
 
 [^6]: "Research Guide," *Colonial Collections Consortium*,
-    https://app.colonialcollections.nl/en/research-guide
+    [https://app.colonialcollections.nl/en/research-guide](https://app.colonialcollections.nl/en/research-guide)
 
-[^7]: Local Context Notices \[Difficult to find without full citation.
-    Link leads to https://localcontexts.org/notices/cc-notices/#\]
+[^7]: For information on Local Context Notices, see “Collections Care Notices”, Local Contexts, [https://localcontexts.org/notices/cc-notices/](https://localcontexts.org/notices/cc-notices/)
 
 [^8]: "Collections from Colonial Contexts," *Colonial Collections
     Consortium*,
-    https://www.colonialcollections.nl/index.php/en/collections-from-colonial-contexts/
+    [https://www.colonialcollections.nl/index.php/en/collections-from-colonial-contexts/](https://www.colonialcollections.nl/index.php/en/collections-from-colonial-contexts/)
 
 [^9]: "About," *Colonial Collections Consortium*,
-    https://www.colonialcollections.nl/index.php/en/about-the-consortium/
+    [https://www.colonialcollections.nl/index.php/en/about-the-consortium/](https://www.colonialcollections.nl/index.php/en/about-the-consortium/)
 
 [^10]: "About," Colonial Collections Consortium,
-    https://www.colonialcollections.nl/index.php/en/about-the-consortium/
+    [https://www.colonialcollections.nl/index.php/en/about-the-consortium/](https://www.colonialcollections.nl/index.php/en/about-the-consortium/)

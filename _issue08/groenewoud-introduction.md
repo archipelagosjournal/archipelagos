@@ -5,13 +5,13 @@ guest: true
 issue: 8
 order: 1
 date: April 2025
-title: "Under Pressure Yet Vividly Alive: Papiamento Cultures And Histories In The Digital Realm"
+title: "Under Pressure Yet Vividly Alive: Papiamentu/o Cultures And Histories In The Digital Realm"
 doi: "10.7916/ARCHIPELAGOS-Q4XH-SG20"
 author:
   - name: Margo Groenewoud
     shortname: Groenewoud
     bio: >
-      Located in Curaçao, Dr. Margo Groenewoud is an independent scholar working with partners in the Caribbean, the United States, and the Netherlands. She is a cultural and social historian interested in new narratives about Caribbean transnationality, modernity and radicalism. Dr. Groenewoud wrote a dissertation on the entanglement of state, industry, religion and civil society in mid-twentieth century Curaçao. She published articles in international journals such as Small Axe, the Journal of Caribbean History, and the New West Indian Guide and is editor for Caribbean Conjunctures: The Caribbean Studies Association (CSA) Journal. Her historical research has been supported by the Fulbright Program, CUNY Dominican Studies Institute, the Dutch Research Council (NWO), the University of Curaçao (UoC), and the Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV). Dr. Groenewoud has been a (guest) lecturer at the UoC and a range of international universities. In 2024, she had the honor of giving the yearly Tula Lecture for the National Institute for the Study of Dutch Slavery and its Legacy, Ninsee. Dr. Groenewoud is currently DH consultant for the Re/presenting Europe consortium in The Netherlands, and for the Digital Library of the Caribbean (dLOC) revitalization program supported by the Mellon Foundation.
+      Located in Curaçao, Dr. Margo Groenewoud is an independent scholar working with partners in the Caribbean, the United States, and the Netherlands. She is a cultural and social historian interested in new narratives about Caribbean transnationality, modernity and radicalism. Dr. Groenewoud wrote a dissertation on the entanglement of state, industry, religion and civil society in mid-twentieth century Curaçao. She has published articles in international journals such as Small Axe, the Journal of Caribbean History, and the New West Indian Guide and is editor for Caribbean Conjunctures: The Caribbean Studies Association (CSA) Journal. Her historical research has been supported by the Fulbright Program, CUNY Dominican Studies Institute, the Dutch Research Council (NWO), the University of Curaçao (UoC), and the Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV). Dr. Groenewoud has been a (guest) lecturer at the UoC and a range of international universities. In 2024, she had the honor of giving the yearly Tula Lecture for the National Institute for the Study of Dutch Slavery and its Legacy, Ninsee. Dr. Groenewoud is currently DH consultant for the Re/presenting Europe consortium in The Netherlands, and for the Digital Library of the Caribbean (dLOC) revitalization program supported by the Mellon Foundation.
 language: en
 pdf: true
 ---
@@ -28,13 +28,13 @@ communities, and crucial to identity formation and belonging.
 Today, Papiamentu/o is of increasing significance in the cultural field,
 in community work, and in the arts and education of the Aruba, Bonaire,
 and Curaçao (the ABC islands) and their diasporas. Yet at the same time,
-the language is under pressure. [On the islands, knowledge produced in
+the language is under pressure. On the islands, knowledge produced in
 Papiamentu/o is not valued or incorporated on equal terms with knowledge
-produced in Dutch, English, or Spanish. And i]{.mark}n the broader
+produced in Dutch, English, or Spanish. And in the broader
 context of Caribbean studies, even today, Papiamentu/o and its cultural
-context remain relatively underrepresented. [For this edition of
+context remain relatively underrepresented. For this edition of
 *archipelagos*, we invited scholars, heritage workers, and arts and
-education professionals to reflect on]{.mark} Papiamentu/o cultures and
+education professionals to reflect on Papiamentu/o cultures and
 histories in the digital realm. Their contributions explore the
 implications of these dynamics for digital praxis in this relatively
 unknown part of the Americas.
@@ -234,7 +234,7 @@ promise the readers of this issue an illuminating journey.
     [[https://doi.org/10.1515/ijsl-2021-0018]](https://doi.org/10.1515/ijsl-2021-0018).
 
 [^3]: Ronald Severing et al., "Towards a Language Database of
-    Papiamentu," 2014, 97--104.
+    Papiamentu," *Creole Connections: Transgressing Neocolonial Boundaries in the Languages, Literatures and Cultures of the ABC-Islands and the Rest of the Dutch Caribbean*. 2014, 97--104.
 
 [^4]: About the historical background \[in Dutch\]: Margo Groenewoud,\
     "De Digitale Toekomst van Caribisch Erfgoed in Het Koninkrijk," in

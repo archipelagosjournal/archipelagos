@@ -9,7 +9,7 @@ author:
   - name: Sarah Bruno
     shortname: Bruno
     bio: >
-      "Dr. Sarah Bruno is an Assistant Professor of Afro-Caribbean of Performance and Culture in the Departments of English and African American and African Studies at Michigan State University. She received her doctorate Cultural Anthropology from the University of Wisconsin-Madison in 2021 and held an ACLS postdoctoral fellowship at Duke University and a Latinx Studies postdoctoral fellowship at Rice University. Her research centers on Black popular music and dance, empire, affect, and Puerto Rico. She is working on her first book-length manuscript which is tentatively titled, Black Rican Refusal: Decolonial Postures, Dexterity, and Bomba Puertorriqueña."
+      Dr. Sarah Bruno is an Assistant Professor of Afro-Caribbean of Performance and Culture in the Departments of English and African American and African Studies at Michigan State University. She received her doctorate Cultural Anthropology from the University of Wisconsin-Madison in 2021 and held an ACLS postdoctoral fellowship at Duke University and a Latinx Studies postdoctoral fellowship at Rice University. Her research centers on Black popular music and dance, empire, affect, and Puerto Rico. She is working on her first book-length manuscript which is tentatively titled, Black Rican Refusal: Decolonial Postures, Dexterity, and Bomba Puertorriqueña.
 date: April 2025
 issue: 8
 order: 5
