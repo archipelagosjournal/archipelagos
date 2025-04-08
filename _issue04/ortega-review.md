@@ -1,18 +1,18 @@
 ---
 layout: article
 section: reviews
-title: 
+title:
   "long": "From Street Protest to Twitter Protest: A Review of Leonardo Flores's Twitter Bots"
   "short": "Review of Leonardo Flores's Twitter Bots"
 doi: "https://doi.org/10.7916/archipelagos-fvgc-xs31"
-author: 
-- name: Élika Ortega 
-  shortname: Ortega
-  bio: >
-    Élika Ortega is an assistant professor in the Department of Spanish and Portuguese at the University of Colorado Boulder. Her research focuses on digital literature and media, cultural hybridity, reading practices and interfaces, books, and digital humanities. She is currently writing her first monograph, tentatively titled "Binding Media: Print-Digital Literature, 1980s--2010s," in which she investigates print-digital works of literature from Argentina to Canada. 
+author:
+  - name: Élika Ortega
+    shortname: Ortega
+    bio: >
+      Élika Ortega is an assistant professor in the Department of Spanish and Portuguese at the University of Colorado Boulder. Her research focuses on digital literature and media, cultural hybridity, reading practices and interfaces, books, and digital humanities. She is currently writing her first monograph, tentatively titled "Binding Media: Print-Digital Literature, 1980s--2010s," in which she investigates print-digital works of literature from Argentina to Canada.
 date: February 2020
 issue: 4
-order: 8 
+order: 8
 language: en
 ---
 
@@ -24,22 +24,16 @@ By making bots that tweet on a schedule---@Protestitas every three hours and @Ti
 
 More specifically, @Protestitas and @TinyProtests are part of the universe of "tiny" Twitter bots. Other bots in the tiny universe similarly depict scenes through the use of emojis. A fairly comprehensive list of "tiny" bots can be found at [Botwiki](https://botwiki.org/?s=tiny&search-filters-options%5B%5D=bots).[^f5] It is important to note that, in general, other bots of the tiny universe do not engage in any kind of political discourse but largely create scenes evocative of places: a gallery, a zoo, a garden, dungeons, homes, isles, bus stops, and so on. This playful context offers Flores a format to build from and an immediate community for his bots. But it raises the question of whether some could consider Flores's bots too whimsical, given the urgent and pressing issues they touch.
 
-On Twitter, the description of the bots is constrained to the profile biography and, therefore, is rather minimal. While one can easily infer Flores's stance from the output of the bots themselves, he has also provided a statement about this work hidden in the source code of the bots' version published in the [online literary magazine *Taper*](https://taper.badquar.to/2/tiny_protests_protestitas.html). There, Flores offers a joint version of the two bots, one scrolling up after the other, as demonstrating contingents would appear on a street. Movingly, embedded in the code Flores states, "In all of Puerto Rico\'s government offices and buildings, the US and PR flags fly together, a reminder that our realities and politics are intertwined."[^f6] By bringing the two pieces together, Flores underscores the two nations'uneven connectedness that burdens Puerto Rico with no representation in Congress, the inability to vote in the US presidential elections, and the denial of self-determination under US rule. In a way, the joint version of the bots suggest that Flores wishes for an allyship between the two locales---to make the interconnection about the shared struggle for social justice and against the politics of exploitation of the island.
+On Twitter, the description of the bots is constrained to the profile biography and, therefore, is rather minimal. While one can easily infer Flores's stance from the output of the bots themselves, he has also provided a statement about this work hidden in the source code of the bots' version published in the [online literary magazine _Taper_](https://taper.badquar.to/2/tiny_protests_protestitas.html). There, Flores offers a joint version of the two bots, one scrolling up after the other, as demonstrating contingents would appear on a street. Movingly, embedded in the code Flores states, "In all of Puerto Rico\'s government offices and buildings, the US and PR flags fly together, a reminder that our realities and politics are intertwined."[^f6] By bringing the two pieces together, Flores underscores the two nations'uneven connectedness that burdens Puerto Rico with no representation in Congress, the inability to vote in the US presidential elections, and the denial of self-determination under US rule. In a way, the joint version of the bots suggest that Flores wishes for an allyship between the two locales---to make the interconnection about the shared struggle for social justice and against the politics of exploitation of the island.
 
-Allison Parrish, a prolific Twitter poet, has likened Twitter bots to graffiti, in as much as they are "[interventions in a public space](https://points.datasociety.net/bots-a-definition-and-some-historical-threads-47738c8ab1ce) (to the extent that, e.g., Twitter can be defined as a public space)."[^f7] It is easy to see how @Protestitas and @TinyProtests perfectly match this description because, despite being constrained to the online space, Flores's bots take a clear stand and candidly engage with the protesters and demonstrations happening in the streets. The playful and whimsical output of these bots also parallels the use of puns and humorous slang in protest signs. They show how creativity, even on Twitter and even through the use of emojis, can further and strengthen the reach and impact of social movements.
+Allison Parrish, a prolific Twitter poet, has likened Twitter bots to graffiti, in as much as they are "[interventions in a public space](https://web.archive.org/web/20170607214659/https://points.datasociety.net/bots-a-definition-and-some-historical-threads-47738c8ab1ce) (to the extent that, e.g., Twitter can be defined as a public space)."[^f7] It is easy to see how @Protestitas and @TinyProtests perfectly match this description because, despite being constrained to the online space, Flores's bots take a clear stand and candidly engage with the protesters and demonstrations happening in the streets. The playful and whimsical output of these bots also parallels the use of puns and humorous slang in protest signs. They show how creativity, even on Twitter and even through the use of emojis, can further and strengthen the reach and impact of social movements.
 
 ---
 
-[^f1]: See Luis Daniel, "Rise of the Peñabots," *Points* (blog), Data and Society Research Institute, 24 February 2016, [https://points.datasociety.net/rise-of-the-pe%C3%B1abots-d35f9fe12d67](https://points.datasociety.net/rise-of-the-pe%C3%B1abots-d35f9fe12d67).
-
-[^f2]: See Mark Sample, "A Protest Bot Is a Bot So Specific You Can't Mistake It for Bullshit," *@samplereality* (blog), 3 October 2015, [https://www.samplereality.com/2015/10/03/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit/](https://www.samplereality.com/2015/10/03/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit/).
-
+[^f1]: See Luis Daniel, "Rise of the Peñabots," _Points_ (blog), Data and Society Research Institute, 24 February 2016, [https://points.datasociety.net/rise-of-the-pe%C3%B1abots-d35f9fe12d67](https://points.datasociety.net/rise-of-the-pe%C3%B1abots-d35f9fe12d67).
+[^f2]: See Mark Sample, "A Protest Bot Is a Bot So Specific You Can't Mistake It for Bullshit," _@samplereality_ (blog), 3 October 2015, [https://www.samplereality.com/2015/10/03/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit/](https://www.samplereality.com/2015/10/03/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit/).
 [^f3]: See Protestitas (@Protestitas), [https://twitter.com/protestitas](https://twitter.com/protestitas); and Tiny Protests (@TinyProtests), [https://twitter.com/TinyProtests](https://twitter.com/TinyProtests).
-
 [^f4]: See Protestitas (@Protestitas), "¡4645 MUERTES! [with various emojis, including the US flag, the Puerto Rican flag, and multiple shoes]," Twitter, 14 February 2020, 7:45 am, [https://twitter.com/Protestitas/status/1228299199281860608](https://twitter.com/Protestitas/status/1228299199281860608).
-
-[^f5]: See "Search Result(s) for *tiny*," *Botwiki*, [https://botwiki.org/?s=tiny&search-filters-options%5B%5D=bots](https://botwiki.org/?s=tiny&search-filters-options%5B%5D=bots).
-
-[^f6]: See Leonardo Flores, "Tiny Protests/Protestitas," *Taper*, no. 2 (fall 2018), [https://taper.badquar.to/2/tiny_protests_protestitas.html](https://taper.badquar.to/2/tiny_protests_protestitas.html). To read the code and Flores's statement, use the "View Page Source"option on Firefox or Chrome.
-
-[^f7]: Allison Parrish, "Bots: A Definition and Some Historical Threads," *Points* (blog), Data and Society Research Institute, 24 February 2016, [https://points.datasociety.net/bots-a-definition-and-some-historical-threads-47738c8ab1ce](https://points.datasociety.net/bots-a-definition-and-some-historical-threads-47738c8ab1ce).
+[^f5]: See "Search Result(s) for _tiny_," _Botwiki_, [https://botwiki.org/?s=tiny&search-filters-options%5B%5D=bots](https://botwiki.org/?s=tiny&search-filters-options%5B%5D=bots).
+[^f6]: See Leonardo Flores, "Tiny Protests/Protestitas," _Taper_, no. 2 (fall 2018), [https://taper.badquar.to/2/tiny_protests_protestitas.html](https://taper.badquar.to/2/tiny_protests_protestitas.html). To read the code and Flores's statement, use the "View Page Source"option on Firefox or Chrome.
+[^f7]: Allison Parrish, "Bots: A Definition and Some Historical Threads," _Points_ (blog), Data and Society Research Institute, 24 February 2016, [https://web.archive.org/web/20170607214659/https://points.datasociety.net/bots-a-definition-and-some-historical-threads-47738c8ab1ce](https://web.archive.org/web/20170607214659/https://points.datasociety.net/bots-a-definition-and-some-historical-threads-47738c8ab1ce).

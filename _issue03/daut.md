@@ -506,7 +506,7 @@ outside the country. Stieber's idea was to make the hundreds of articles
 in this journal more accessible to North Atlantic scholars. To that end,
 she proposed a digital indexing project, which librarians from the LOC
 eagerly encouraged and supported. The project, which is already online
-(<http://rshhgglab.com/search/>), is designed as a laboratory because it
+(<https://web.archive.org/web/20200406164338/http://rshhgglab.com/>), is designed as a laboratory because it
 allows users to begin to search the contents of more than thirteen
 hundred articles and help to index them. It is not, however, a
 digitization project, per se. At the request of the Société, the journal
@@ -1165,7 +1165,7 @@ acts in this moment, but which must always remain open."[^87]
 
 [^9]:
     See Chelsea Stieber, "Why the Lab?," RSHHGG Lab,
-    <http://rshhgglab.com/why-a-lab/>. Other notable works dealing with
+    <https://web.archive.org/web/20200406164338/http://rshhgglab.com/why-a-lab/>. Other notable works dealing with
     the nineteenth century and published by Haitians are Michel-Rolph
     Trouillot, _Haiti: State Against Nation; The Origins and Legacy of
     Duvalierism_ (New York: Monthly Review, 1990); Patrick

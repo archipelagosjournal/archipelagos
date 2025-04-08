@@ -57,7 +57,7 @@ historians?[^2]
 
 The gap between the vital importance of Haiti's premier social science
 journal and its relative lack of impact in North Atlantic scholarship
-led to the creation of the [RSHHGG Lab](http://rshhgglab.com/), an
+led to the creation of the [RSHHGG Lab](https://web.archive.org/web/20200406164338/http://rshhgglab.com/), an
 interactive online index of the nearly century's worth of knowledge
 produced in the _RSHHGG_.[^3] Developed at the intersection of
 disciplinary fields and in cooperation with various institutional
@@ -70,14 +70,14 @@ social science research. The project developed along the same lines of
 what Marlene Daut has recently theorized as "a Haitian-informed digital
 praxis---centered on access, content, context, and collaboration."[^4]
 It is an open-access, multilingual website (available in
-[English](http://rshhgglab.com/),
-[French](http://rshhgglab.com/francais/), and
-[Kreyol](http://rshhgglab.com/kreyol/)) that features a [searchable
-index](http://rshhgglab.com/search/) of every article published in the
+[English](https://web.archive.org/web/20200406164338/http://rshhgglab.com/),
+[French](https://web.archive.org/web/20200406164338/http://rshhgglab.com/francais/), and
+[Kreyol](https://web.archive.org/web/20200406164338/http://rshhgglab.com/kreyol/)) that features a [searchable
+index](https://web.archive.org/web/20200406164338/http://rshhgglab.com/search/) of every article published in the
 _RSHHGG_, a growing collection of [article
-annotations](http://rshhgglab.com/annotations/) from Haitian and
+annotations](https://web.archive.org/web/20200406164338/http://rshhgglab.com/annotations/) from Haitian and
 non-Haitian scholars and researchers, and a space for
-[experimentation](http://rshhgglab.com/experiments/).
+[experimentation](https://web.archive.org/web/20200406164338/http://rshhgglab.com/experiments/).
 
 This essay analyzes the role that experimental work played in the
 multi-institutional, cross-boundary collaborative construction of this
@@ -694,9 +694,9 @@ suggested a model of scholarly annotations similar to that project: we
 would send out a call for collaborators to researchers of all levels
 throughout Haiti and the North Atlantic (primarily the United States,
 Canada, and France) in
-[English](http://rshhgglab.com/call-for-collaborators-rshhgg-lab/),
-[French](http://rshhgglab.com/appel-aux-collaborateurs-le-labo-rshhgg/),
-and [Kreyol](http://rshhgglab.com/apel-pou-kolaborasyon/).[^32] Because
+[English](https://web.archive.org/web/20200406164338/http://rshhgglab.com/call-for-collaborators-rshhgg-lab/),
+[French](https://web.archive.org/web/20200406164338/http://rshhgglab.com/appel-aux-collaborateurs-le-labo-rshhgg/),
+and [Kreyol](https://web.archive.org/web/20200406164338/http://rshhgglab.com/apel-pou-kolaborasyon/).[^32] Because
 the articles themselves would not be accessible, the idea was to create
 an online, collaborative space for scholars inside and outside Haiti to
 write short summaries of articles they had used from the journal for
@@ -708,10 +708,10 @@ beginning to link to related digital scholarly projects (such as the
 During this process, Nathan Dize, a PhD candidate at Vanderbilt
 University, was instrumental. He outlined a social media and
 communications strategy and worked with [contributing
-annotators](http://rshhgglab.com/collaborators/).[^34] Many of these
+annotators](https://web.archive.org/web/20200406164338/http://rshhgglab.com/collaborators/).[^34] Many of these
 main project partners have themselves contributed article annotations to
 the site, all of which you can find [in the site's annotations
-section](http://rshhgglab.com/annotations/). The site also seeks to be
+section](https://web.archive.org/web/20200406164338/http://rshhgglab.com/annotations/). The site also seeks to be
 useful to its other stakeholders---the researchers who use and
 contribute to it---as academic "capital" on a curriculum vitae or in a
 promotion dossier. To that end, we have maintained a scholarly editing
@@ -769,7 +769,7 @@ the Caribbean, Latin America, and elsewhere in the global South) is
 especially important to recognize _and rectify_ because these are the
 scholarly sites---and centers---of local scholarly and intellectual
 production. In the spirit of experimentation and the "Lab," we have just
-launched our first [experiment](http://rshhgglab.com/experiments/) on
+launched our first [experiment](https://web.archive.org/web/20200406164338/http://rshhgglab.com/experiments/) on
 the site: a crowd-sourced list of locally produced Caribbean
 periodicals.[^38] It is our hope that we can further emphasize the
 importance of locally produced Caribbean periodicals as sites of
