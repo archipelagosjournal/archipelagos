@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: page
 section: introduction
 guest: true
 issue: 8
@@ -15,6 +15,8 @@ author:
 language: en
 pdf: true
 ---
+
+by _Margo Groenewoud_
 
 Creole languages and Caribbean culture have been recognized for some
 time now as intrinsically plural. Papiamentu/o---the primary language of
@@ -33,7 +35,7 @@ Papiamentu/o is not valued or incorporated on equal terms with knowledge
 produced in Dutch, English, or Spanish. And in the broader
 context of Caribbean studies, even today, Papiamentu/o and its cultural
 context remain relatively underrepresented. For this edition of
-*archipelagos*, we invited scholars, heritage workers, and arts and
+_archipelagos_, we invited scholars, heritage workers, and arts and
 education professionals to reflect on Papiamentu/o cultures and
 histories in the digital realm. Their contributions explore the
 implications of these dynamics for digital praxis in this relatively
@@ -109,10 +111,10 @@ knowledge and materials, some by building repositories, others by
 creating tools, adapting pedagogy, and applying for funding, with hard
 work particularly being done by those preparing the soil for future
 scholars, teachers and cultural workers. Through the efforts of
-dedicated *aficionados*, major progress has been made to develop tools
+dedicated _aficionados_, major progress has been made to develop tools
 for Papiamentu/o in the digital realm. Among these on Curaçao is the
-*Banko di Palabra*, a unique digital repository for all words in
-Papiamentu, and an official Papiamentu word list (*Buki di Oro*)
+_Banko di Palabra_, a unique digital repository for all words in
+Papiamentu, and an official Papiamentu word list (_Buki di Oro_)
 released in 2011 under a CC-BY-NC license.[^3]
 
 The perspective for obtaining support for digitization has substantially
@@ -156,7 +158,7 @@ That there is much to be said about Papiamento/u culture and history in
 a digital realm---from digitization to critical reflection and
 innovation---became clear as abstracts and ideas poured into our
 inboxes. Of all these works, four are included in this issue of
-*archipelagos*, and other work is still in process. So yes: there is
+_archipelagos_, and other work is still in process. So yes: there is
 much more to come on the Dutch Caribbean digital and the Papiamentu/o
 language.
 
@@ -215,47 +217,55 @@ Mari Brás Foundation with support from the University of Puerto Rico
 collection items visibility, thereby furthering their use.
 
 I am deeply grateful and indebted to the authors, the reviewers, and the
-brilliant editorial team at *archipelagos* for their contributions to
+brilliant editorial team at _archipelagos_ for their contributions to
 this issue. I can only hope this will mark the beginning of a robust and
 sustained integration of the ABC into the realm of the Caribbean
 digital. We have delved into uncharted yet familiar territories, and we
 promise the readers of this issue an illuminating journey.
 
-[^1]: Joyce Pereira and Luc Alofs, "Papiamento: An Official Caribbean
+[^1]:
+    Joyce Pereira and Luc Alofs, "Papiamento: An Official Caribbean
     Creole Language from Legal Repression to Full Recognition,"
-    *Caribbean Cultural Heritage and the Nation: Aruba, Bonaire and
-    Curaçao in a Regional Context* 4 (2023): 137,
+    _Caribbean Cultural Heritage and the Nation: Aruba, Bonaire and
+    Curaçao in a Regional Context_ 4 (2023): 137,
     [[https://scholarlypublications.universiteitleiden.nl/handle/1887/3629949]](https://scholarlypublications.universiteitleiden.nl/handle/1887/3629949).
 
-[^2]: Philipp Krämer, Eric Mijts, and Angela Bartens, "Language Making
-    of Creoles in Multilingual Postcolonial Societies," *International
-    Journal of the Sociology of Language* 2022, no. 274 (1 March 2022):
+[^2]:
+    Philipp Krämer, Eric Mijts, and Angela Bartens, "Language Making
+    of Creoles in Multilingual Postcolonial Societies," _International
+    Journal of the Sociology of Language_ 2022, no. 274 (1 March 2022):
     51--82,
     [[https://doi.org/10.1515/ijsl-2021-0018]](https://doi.org/10.1515/ijsl-2021-0018).
 
-[^3]: Ronald Severing et al., "Towards a Language Database of
-    Papiamentu," *Creole Connections: Transgressing Neocolonial Boundaries in the Languages, Literatures and Cultures of the ABC-Islands and the Rest of the Dutch Caribbean*. 2014, 97--104.
+[^3]:
+    Ronald Severing et al., "Towards a Language Database of
+    Papiamentu," _Creole Connections: Transgressing Neocolonial Boundaries in the Languages, Literatures and Cultures of the ABC-Islands and the Rest of the Dutch Caribbean_. 2014, 97--104.
 
-[^4]: About the historical background \[in Dutch\]: Margo Groenewoud,\
+[^4]:
+    About the historical background \[in Dutch\]: Margo Groenewoud,\
     "De Digitale Toekomst van Caribisch Erfgoed in Het Koninkrijk," in
-    *Antilliaans Erfgoed.*, ed. Gert Oostindie and Alex Stipriaan van,
+    _Antilliaans Erfgoed._, ed. Gert Oostindie and Alex Stipriaan van,
     vol. II. Nu en verder (Leiden: Leiden University Press, 2021),
     233--52.
 
-[^5]: Margo Groenewoud, "Decolonization, Otherness, and the Neglect of
-    the Dutch Caribbean in Caribbean Studies," *Small Axe: A Caribbean
-    Journal of Criticism* 64 (2021): 102--15.
+[^5]:
+    Margo Groenewoud, "Decolonization, Otherness, and the Neglect of
+    the Dutch Caribbean in Caribbean Studies," _Small Axe: A Caribbean
+    Journal of Criticism_ 64 (2021): 102--15.
 
-[^6]: Margo Groenewoud, "Epiloog: de som van de delen.," in *Cultuur
-    Digitaal: een eerste verkenning in de Cariben*, by Shahaila Winklaar
+[^6]:
+    Margo Groenewoud, "Epiloog: de som van de delen.," in _Cultuur
+    Digitaal: een eerste verkenning in de Cariben_, by Shahaila Winklaar
     (DEN kennisinstituut cultuur & digitale transformatie, 2024).
 
-[^7]: Margo Groenewoud, "Digital Humanities, Social Justice and the
+[^7]:
+    Margo Groenewoud, "Digital Humanities, Social Justice and the
     Pluricultural Realities of Dutch Caribbean Heritage Archives," in
-    *Caribbean Cultural Heritage and the Nation. Aruba, Bonaire and
-    Curaçao in a Regional Context*, 2023.
+    _Caribbean Cultural Heritage and the Nation. Aruba, Bonaire and
+    Curaçao in a Regional Context_, 2023.
     [[https://scholarlypublications.universiteitleiden.nl/handle/1887/3629949]](https://scholarlypublications.universiteitleiden.nl/handle/1887/3629949)
 
-[^8]: Roopika Risam, *New Digital Worlds: Postcolonial Digital
-    Humanities in Theory, Praxis, and Pedagogy* (Evanston, Illinois:
+[^8]:
+    Roopika Risam, _New Digital Worlds: Postcolonial Digital
+    Humanities in Theory, Praxis, and Pedagogy_ (Evanston, Illinois:
     Northwestern University Press, 2019), 143.
