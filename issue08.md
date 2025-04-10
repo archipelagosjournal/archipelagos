@@ -18,6 +18,8 @@ editor:
 
 <h2>{% t issues.issue08 %}</h2>
 
+<p>This issue is dedicated to Frankétienne, who joined the ancestors on February 20, 2025. <em>Ayibobo!</em></p>
+
 {% include toc.html issue=site.issue08 %}
 
 <hr>
