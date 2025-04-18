@@ -38,7 +38,7 @@ Juliana and Pater Brenneker preserved Afro-Curaçaoan cultural heritage recorded
 {% include image.html
   img="issue08/ribM-juliana.jpeg"
   title="Elis Juliana"  
-  caption="Photo of Elis Juliana" %}
+  caption="Photo of Elis Juliana (Prince Victor, Elis Juliana, 2002, Photograph, NAAM.)" %}
 
 In the world of secondary education, where I currently work as a teacher-librarian, there is a trend towards multimodal knowledge forms in teaching and learning approaches. In the digital humanities, there is increasingly an emphasis on multimodal pedagogy and publishing.[^8] In the arts, multidisciplinarity and new media forms are growing interests. But multimodality, which is now gaining popularity through digital affordances, is not itself a new concept. Multimodality—that is, to make meaning from multiple semiotic modes, or to use multiple literacies in a single medium—is an ancestral practice that laid the foundations for digital praxis. To exist in several different modes of being simultaneously, to creolize, to speak Creole languages, to communicate across languages, to speak with the body, to code-switch: these survival strategies are found in many Afrodiasporic ways of being and knowing, and thus in Caribbean artistic and archival practices as well.
 
