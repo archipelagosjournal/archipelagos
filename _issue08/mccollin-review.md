@@ -17,7 +17,7 @@ pdf: true
 ---
 
 The Colonial Collections Consortium is a digital project established in
-2022 in response to two critical issues emerging from 21^st^ century
+2022 in response to two critical issues emerging from 21st century
 Caribbean historiography, namely the disturbing scarcity of historical
 material on non-anglophone regions and the challenges of colonial object
 ownership in the age of repatriation. The project, supported by five
@@ -146,7 +146,7 @@ stakeholders worldwide. Fundamentally, the Colonial Collections
 Consortium meets its objectives in its design, implementation, and
 services, and indubitably confronts the troubling issues of autonomy and
 cultural dispossession that continue to engulf colonial historical
-scholarship in the 21^st^ century.
+scholarship in the 21st century.
 
 
 [^1]:  "About," *Colonial Collections Consortium*,
