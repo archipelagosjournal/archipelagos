@@ -3,7 +3,7 @@ layout: default
 title: "Issue (8)"
 subtitle: "Special issue on Papiamentu\/o and the Dutch Caribbean"
 blurb: ""
-release: "February 2025"
+release: "April 2025"
 slug: "issue08"
 number: 8
 editor:
