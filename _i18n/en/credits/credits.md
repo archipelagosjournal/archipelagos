@@ -69,3 +69,11 @@ Winnie E. Pérez Martínez is a PhD candidate in Spanish and a student in the di
 ### Brian Ballsun-Stanton | production editor
 
 Dr Brian Ballsun-Stanton is leading Macquarie University's Faculty of Arts understanding, policy, teaching, and research initiatives around the techniques and appropriate uses of Generative AI. With a PhD in Philosophy of Data that enables him to bridge theoretical frameworks with practical implementations, he has developed the university's "Guidance Note: Using Generative Artificial Intelligence in Research" and pioneered AI integration across multiple disciplines, winning the 2024 Faculty of Arts Educational Leadership Award for his innovative work in AI-enhanced learning. His implementations span Languages, Security Studies, and Law, each featuring unique aspects such as AI-optional and AI-required assessments, cross-model critical evaluation, and simulations. He teaches the effective use and techniques of generative AI to undergraduate and post-graduate students, reaching more than 1,500 students through various initiatives.
+
+### Kelton Moorman | archipelagos currents manager
+
+Kelton Moorman is a junior at Yale University majoring in Political Science, with a deep commitment to supporting and uplifting marginalized communities around the world. He channels this passion through both academic work and his extracurricular involvement.
+
+On campus, Kelton serves as President of Yale Amnesty International, is a Marketing Assistant for the Caribbean Digital Scholarship Collective (CDSC), and is the Grant Team Manager for Elena's Light, a nonprofit that provides ESL, health, and legal support to refugees in Connecticut. Outside of his campus commitments, he is Vice President of HerKitaab, an initiative that empowers women and girls in conflict-affected regions. His work has included supporting refugee evacuations to the U.S. and leading educational workshops in partnership with underground schools in Afghanistan.
+
+After graduation, Kelton plans to pursue a career in international development. In his free time, he enjoys discovering new music and running.
