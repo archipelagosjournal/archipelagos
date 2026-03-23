@@ -8,7 +8,7 @@ As the academy increasingly embraces the "digital turn," we ask the following: H
 
 To answer these and other urgent questions, we need in this moment to engage two critical functions: to understand and to build. For us, these functions do not follow one from the other, but rather operate in tandem. As such, we have thought through our platform with the same critical eye we cast on the archive, and our resulting infrastructure embodies our principles. We are fully open access and charge no author fees. Our authors retain their copyright. We pursue best indexing, accessibility, and archival practices. We emphasize the primacy of "[sustainable authorship in plain text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)." Our website and PDFs are generated from the same markdown files using Jekyll and ConTeXt, respectively. The resulting website is light-weight and mobile-friendly, acknowledging the importance of mobile phones, bandwidth differentials, and data costs in the Caribbean. We version and share our software and data freely on [GitHub](https://github.com/archipelagosjournal/archipelagos). We have reduced the workflow for producing a journal to a small team and a small budget, and we offer our production knowledge to those who would ask for it.
 
-As we build and understand, we do so illuminated by the first light of the long arc of Caribbean remembrance, from Maroon communities to the recent collaborative efforts to build a [Digital Library of the Caribbean](http://www.dloc.com/). We do so remaining ever vigilant to materialist, ecological, identitarian, and liberatory considerations. We do so, in the last instance, fully conscious of our decades-old wrangling of computers—from Kamau Brathwaite's *Sycorax* to the ingenious scholar-hackers of today's Havana or the model work of [Create Caribbean](http://createcaribbean.org/create/) in Dominica. Our cutting edge comes, then, not from a misguided sense of techno-utopianism—or worse, techno-determinism—but as a new small axe, hacking away still at that master's house.
+As we build and understand, we do so illuminated by the first light of the long arc of Caribbean remembrance, from Maroon communities to the recent collaborative efforts to build a [Digital Library of the Caribbean](http://www.dloc.com/). We do so remaining ever vigilant to materialist, ecological, identitarian, and liberatory considerations. We do so, in the last instance, fully conscious of our decades-old wrangling of computers—from Kamau Brathwaite's _Sycorax_ to the ingenious scholar-hackers of today's Havana or the model work of [Create Caribbean](http://createcaribbean.org/create/) in Dominica. Our cutting edge comes, then, not from a misguided sense of techno-utopianism—or worse, techno-determinism—but as a new small axe, hacking away still at that master's house.
 <br>
 
 ---
@@ -17,13 +17,13 @@ As we build and understand, we do so illuminated by the first light of the long 
 
 ### Open Access
 
-<em>archipelagos</em> is an open access journal, which means that all content is freely available without charge to users or institutions. Users are allowed to read, download, copy, distribute, print, search, or link to the full texts of the articles in this journal without asking prior permission from the publishers. 
+<em>archipelagos</em> is an open access journal, which means that all content is freely available without charge to users or institutions. Users are allowed to read, download, copy, distribute, print, search, or link to the full texts of the articles in this journal without asking prior permission from the publishers.
 
-We do not charge article processing nor article submission charges to authors. Authors retain their copyright and agree to license their articles with a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
+We do not charge article processing nor article submission charges to authors. Authors retain their copyright and agree to license their articles with a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
-The technological stack used for *archipelagos* is offered with an MIT license. All of our data is open on our <a href="{{site.githuburl}}">Github repository</a>.
+The technological stack used for _archipelagos_ is offered with an MIT license. All of our data is open on our <a href="{{site.githuburl}}">Github repository</a>.
 
 ### Academic Standards
 
@@ -37,13 +37,13 @@ We provide DOIs for all articles. Citation information and DOIs can be found on 
 - Open Graph (For social media distribution)
 - Highwire Press (For Google Scholar)
 
-Copies of articles will be archived on Columbia University's repository [Academic Commons](https://academiccommons.columbia.edu/). We are also archived in LOCKSS.
+Copies of articles will be archived in LOCKSS.
 
 ## Author Agreement
 
 Read the [Author Agreement]({{site.baseurl}}/public/author-agreement.pdf). This Agreement reflects the position that the Author(s) should retain the copyright to the Article and should have explicit rights to use the Article in future research, teaching, and other projects. Author rights can be summarized as follows:
 
 - Authors maintain copyright without restriction;
-- authors grant *archipelagos* the authority to publish their work in the journal with a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/);
+- authors grant _archipelagos_ the authority to publish their work in the journal with a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/);
 - authors maintain publication rights without restrictions;
 - authors agree to archive a copy of articles, when applicable, on Columbia University's repository [Academic Commons](https://academiccommons.columbia.edu/).
