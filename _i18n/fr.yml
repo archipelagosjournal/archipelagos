@@ -27,6 +27,7 @@ titles:
   reviewers: "pour les relecteurs"
   home: "page d'accueil"
   workflow: "flux de travail"
+  valences: "valences"
 
 issues:
   issue01: "Numéro (1) | juin 2016"

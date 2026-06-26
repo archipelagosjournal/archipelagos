@@ -176,18 +176,4 @@ version: 0.0.1
 
 # Excluded
 
-exclude:
-  [
-    Dockerfile,
-    docker-readme.txt,
-    utility,
-    Gemfile,
-    smartquotes.txt,
-    Dockerfile,
-    Gemfile.lock,
-    extras,
-    vendor,
-    RAKEFILE,
-    update.log,
-    robots.txt,
-  ]
+exclude: [Dockerfile, docker-readme.txt, utility, Gemfile, smartquotes.txt, Dockerfile, Gemfile.lock, extras, vendor, RAKEFILE, update.log, robots.txt]

@@ -1,7 +1,7 @@
 <h2>{% t global.past_issues %}</h2>
 
-	{% for issue in site.collections %}
-	{% if issue.title contains "Issue" %}
-      <span class="toc-title"><a href="{{ site.baseurl }}/{{issue.slug}}.html">{% t global.issue %} ({{issue.number}})</a></span>{% if issue.number != site.current-number %} | {% endif %}
-    {% endif %}
-    {% endfor %}
+{% for issue in site.collections %} {% if issue.title contains "Issue" %}
+<span class="toc-title"><a href="{{ site.baseurl }}/{{issue.slug}}.html">{% t global.issue %} ({{issue.number}})</a></span
+>{% if issue.number != site.current-number %} | {% endif %} {% endif %} {% endfor %}
+
+<!-- Convert to manual -->

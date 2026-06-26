@@ -6,13 +6,15 @@ blurb: ""
 release: "June 2016"
 slug: "issue01"
 number: 1
-editor: 
-- Kaiama L. Glover
-- Alex Gil
-
+editor:
+  - Kaiama L. Glover
+  - Alex Gil
 ---
 
+<h1 class="journal-title">{{ site.title }}</h1>
 <h2 class="tagline">{{site.description}}</h2>
+
+{{page.number}}
 
 <h2>{% t issues.issue01 %}</h2>
 
